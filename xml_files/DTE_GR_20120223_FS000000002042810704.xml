@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1454578" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q4 2011 Earnings Call</title>
+    <date>2012-02-23</date>
+    <companies>
+      <company>683</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Unverified Participant</participant>
+      <participant id="2" type="corprep" affiliation="Head-Investor Relations">Stephan Eger</participant>
+      <participant id="3" type="corprep" affiliation="Chief Executive Officer">Ren&#xE9; Obermann</participant>
+      <participant id="4" type="corprep" affiliation="Chief Financial Officer">Timotheus H&#xF6;ttges</participant>
+      <participant id="5" type="corprep" affiliation="President &amp; Chief Executive Officer, T-Mobile USA, Inc.">Philipp Humm</participant>
+      <participant id="6" type="analyst" affiliation="Exane BNP Paribas SA">Mathieu Robilliard</participant>
+      <participant id="7" type="analyst" affiliation="Citigroup Global Markets Ltd.">Simon H. Weeden</participant>
+      <participant id="8" type="analyst" affiliation="Nomura International Plc">Frederic E. Boulan</participant>
+      <participant id="9" type="analyst" affiliation="Jefferies International Ltd.">Ulrich W. Rathe</participant>
+      <participant id="10" type="analyst" affiliation="JPMorgan Securities Ltd.">Hannes C. Wittig</participant>
+      <participant id="11" type="analyst" affiliation="Cr&#xE9;dit Agricole Cheuvreux International Ltd.">Peter K. Nielsen</participant>
+      <participant id="12" type="analyst" affiliation="Deutsche Bank AG (Prime Brokerage)">Matthew C. Bloxham</participant>
+      <participant id="13" type="analyst" affiliation="Sanford C. Bernstein Ltd.">Robin A. Bienenstock</participant>
+      <participant id="14" type="analyst" affiliation="Credit Suisse Securities (Europe) Ltd.">Justin B. Funnell</participant>
+      <participant id="15" type="analyst" affiliation="Morgan Stanley &amp; Co. International Plc">Nick Delfas</participant>
+      <participant id="16" type="analyst" affiliation="Joh. Berenberg, Gossler &amp; Co. KG (United Kingdom)">Paul A. Marsch</participant>
+      <participant id="17" type="analyst" affiliation="HSBC Trinkaus &amp; Burkhardt KGaA (Broker)">Dominik Klarmann</participant>
+      <participant id="18" type="analyst" affiliation="UBS Ltd. (Broker)">Andy W. Parnis</participant>
+      <participant id="19" type="analyst" affiliation="Merrill Lynch International Ltd.">Emmet B. Kelly</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good afternoon and welcome to Deutsche Telekom's Conference Call. On our customers' request, this conference will be recorded.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Disclaimer: This presentation contains forward-looking statements that reflect the current views of Deutsche Telekom management with respect to future events. These forward-looking statements include statements with regard to the expected development of revenue, earnings, profits from operations, depreciation and amortization, cash flows, and personnel related measures. You should consider them with caution.</p>
+          <p>Such statements are subject to risks and uncertainties, most of which are difficult to predict and are generally beyond Deutsche Telekom's control. Among the factors that might influence our ability to achieve our objectives are the progress of our workforce reduction initiative and other cost-saving measures and the impact of other significant strategic, labor, or business initiatives, including acquisitions, dispositions and business combinations, and our network upgrade and expansion initiatives.</p>
+          <p>In addition, stronger-than-expected competition, technological change, legal proceedings, and regulatory developments, among other factors, may have a material adverse effect on our cost and revenue development. Further, the economic downturn in our markets and changes in interest and currency exchange rates may also have an impact on our business development and the availability of financing on favorable conditions.</p>
+          <p>Changes to our expectations concerning future cash flows may lead to impairment write-downs of assets carried at historical cost, which may materially affect our results at the Group and operating segment levels. If these or other risks and uncertainties materialize or if the assumptions underlying any of these statements prove incorrect, our actual performance may materially differ from the performance expressed or implied by forward-looking statements.</p>
+          <p>We can offer no assurance that our estimates or expectations will be achieved. Without prejudice to existing obligations under capital market law, we do not assume any obligation to update forward-looking statements to take new information or future events into account or otherwise.</p>
+          <p>In addition to figures prepared in accordance with IFRS, Deutsche Telekom also presents non-GAAP financial performance measures, including, among others, EBITDA, EBITDA margin, adjusted EBITDA, adjusted EBITDA margin, adjusted EBIT, adjusted net income, free cash flow, gross debt, and net debt. These non-GAAP measures should be considered in addition to, but not as a substitute for, the information prepared in accordance with IFRS. Non-GAAP financial performance measures are not subject to IFRS or any other Generally Accepted Accounting Principles. Other companies may define these terms in different ways.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Now, please listen to the statement of Ren&#xE9; Obermann, Timotheus H&#xF6;ttges and Philipp Humm. Afterwards, you are welcome to ask your questions. May I now hand you over to Mr. Stephan Eger?</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Hey, good afternoon and good morning to the listeners in the U.S. As always, we'll be presenting our quarterly results, as well as the full-year results with our CEO, Ren&#xE9; Obermann; and with our CFO, Tim H&#xF6;ttges. We will be having an extra session today with Philipp Humm, our CEO of T-Mobile U.S., with respect to the fourth quarter result of T-Mobile U.S. and also the way going forward in 2012. And after that, we, as usual, will be kicking in with Q&amp;A. And as a starter, I would like you to restrict yourself to two questions per person.</p>
+          <p>Having said that, I would like to hand over to Ren&#xE9;.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thanks, Stephan. Good afternoon, everyone. First of all, let me go straight into the results. First of all, we have delivered our full-year targets with an EBITDA of &#x20AC;18.7 billion and a free cash flow of &#x20AC;6.4 billion. Important to note is that this free cash flow figure does not include the cash element of the break-up fee received in December 2011. The reported net income of &#x20AC;0.6 billion is impacted by exceptional write-offs at T-Mobile U.S. and at the OTE Group.</p>
+          <p>With our Save for Service program, we over-achieved our targets already earlier than planned with savings of &#x20AC;4.5 billion in 2010 and 2011. As a result of achieving our guidance, the management and supervisory board will again propose a $0.70 dividend per share to the DT AGM in May, which is in line with our three-year outlook on shareholder remuneration.</p>
+          <p>The main highlights for the divisions were as follows. In Germany, we defended our market leadership in broadband and mobile, delivered good growth momentum in important initiatives such as the VDSL, Entertain and our contract customers, while our line losses declined by over 20% year-on-year. And thanks to &#x20AC;1.2 billion of cost savings, we stabilized our EBITDA year-on-year, and we actually increased our margin to close to 40%.</p>
+          <p>In Europe, we faced a year of difficult economic conditions and tough regulation and competition. Nonetheless, we were able to show good growth rates in our TV and in our broadband customer bases. Also in Europe net cost savings of &#x20AC;0.7 billion helped us to improve our EBITDA margin by 50 basis points year-on-year.</p>
+          <p>Our T-Mobile U.S. business suffered from a difficult year with a pending deal on the one hand and a very difficult fourth quarter due to the iPhone 4S introduction with heavy promotions by three competitors. As a result the revenue and contract customer development was not satisfying, though the EBITDA very much was. Philipp is going to update us later on the call on what will be the way going forward with our Challenger strategy.</p>
+          <p>Let me come back to our 2011 guidance for a second. Due to our pending U.S. deal, we guided for our continued operations, i.e., excluding T-Mobile U.S. for an EBITDA of around &#x20AC;14.9 billion, which we delivered. For the entire Group, we guided for an EBITDA of around &#x20AC;19.1 billion and we delivered &#x20AC;18.7 billion. But if we add back the &#x20AC;0.2 billion of currency losses in the year, we are 1% below the midpoint of our guidance.</p>
+          <p>For the free cash flow, we had guided at least &#x20AC;6.5 billion, and we have delivered &#x20AC;6.4 billion impacted by the currency losses again of &#x20AC;0.1 billion. That means to the point, &#x20AC;6.5 billion comparing it like-for-like. It also means a payout ratio for our dividend of 47% and that differentiates us positively from some of our peers.</p>
+          <p>On slide eight, you see the key reported financials for 2011. Important to note are the following two points whereas reported group revenues declined by 6% the underlying revenue declined i.e. excluding the impact of ForEx, regulation and excluding the deconsolidation of T-Mobile UK after the first quarter 2010 was only 2.5%. The adjusted net profit was &#x20AC;2.9 billion, basically covers the dividend sum of &#x20AC;3 billion and the reported net income was predominantly impacted by major exceptionals such as restructuring expenses, write-offs in the U.S. and in the OTE Group; that is on the negative side. And on the positive side, the break-up fee from AT&amp;T. Tim is going to give us more detail on this topic.</p>
+          <p>So let's turn to the development of our five growth areas in 2011 where we have seen overall a positive development in areas like Mobile Internet, which grew nicely by 18% to a total of now &#x20AC;5.2 billion. Also the area of Connected Home kept growing about 2% to now &#x20AC;6.3 billion, but the revenue development in consumer online services was negatively impacted by the closing of some unprofitable business lines such as the German cash card business. At the assistance, the external revenues business with third parties that kept growing in 2011 but it grew at a lower pace than previously. With our intelligent networks, we saw the first revenues in 2011, and we are seeing some good signs especially at the healthcare area where we are providing new and intelligent services, for instance, for clinics, for doctors or for insurances.</p>
+          <p>Let me come back to the outlook for 2012 and, first of all, to the guidance. Given the need for investments in the U.S. to execute successfully on our Challenger strategy, and the still very challenging economic situation in our Eastern European countries, we believe that a prudent guidance is justified. Therefore, for 2012, we expect an EBITDA of around &#x20AC;18 billion and a free cash flow of around &#x20AC;6 billion for the Group. That guidance is based upon a constant currency assumption on the average exchange rate of 2011 and is based upon no further significant deterioration of the economic and regulatory environment in the markets we operate in.</p>
+          <p>This guidance also excludes the cash payments related to the break-up fee. The guidance contains the necessary investment levels, both on the CapEx and on the OpEx side into our U.S. business in order to address the strategic questions of network modernization and LTE rollout.</p>
+          <p>On the operational side, these are our key objectives for 2012. First, we have to reinvigorate our Challenger strategy in the U.S. in order to improve our performance while we remain clearly committed to solve our long-term strategic challenges in the United States. In Germany, we are committed to defend our market leadership in broadband, and even more importantly in mobile while further stabilizing our underlying EBITDA.</p>
+          <p>In Europe, we remain committed to defend our cash flows and our market-leading positions. At T-Systems, we want to further grow our external revenues while at the same time improving our margin. Of utmost importance for us and me personally is a continued focus on these five key growth areas where we need to push our innovation and our innovation capabilities, for instance, with cloud services, also aided by payments and by content distribution.</p>
+          <p>Given continued pressure on revenues from regulation and competition, there is no alternative to further execute on the efficiency programs as well, which include Save for Service, Shape Headquarter initiatives and the centralization of our IT functions.</p>
+          <p>And we do remain committed to our shareholder remuneration policy in 2012 based upon our 2012 guidance. The third year of our remuneration policy is planned, as usual, subject to the necessary board resolutions and the approval by the AGM. The execution and timing of the buyback is not yet been decided upon by the management.</p>
+          <p>With that, I want to hand it over to Tim for more details and further explanations. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Thank you. Good afternoon, everybody. Let's turn to the fourth quarter details now starting on slide 11 with the Group overview. At the Group level, reported revenues declined by 3.7% year-over-year, whereas EBITDA increased by 1.3%.</p>
+          <p>On the revenue side, trends worsened a bit in Germany, the U.S. and at T-Systems, whereas underlying revenue trends improved again in the Europe segment. On the EBITDA, we saw strong developments in Europe and the U.S. with EBITDA growth in the fourth quarter, whereas EBITDA in Germany, as anticipated, declined in the fourth quarter.</p>
+          <p>Moving to the details of the fourth quarter in Germany, the revenue trend worsened in the fourth quarter to minus 6.1% after minus 5% in Q3, partially driven by wholesale and one-timers. However, the trend in Mobile Service revenue has further improved and also the trend in the core domestic fixed business has not worsened versus the previous quarter. More on this on the next slide.</p>
+          <p>The underlying revenue trend ex one-timers and regulatory effect was minus 4.4% versus minus 3.4% in the third quarter. EBITDA in the quarter declined by 3.1% as anticipated due to seasonal marketing investments in the Christmas business, which is reflected in unprecedented, sorry, sales success at some of our key products as I will demonstrate on the next slide.</p>
+          <p>As a result, the margin sequentially decreased to 37.8%, which however is the 7th consecutive quarter of year-over-year margin improvement. Main driver for this is our excellent cost discipline, which resulted in an 8% OpEx decline year-over-year in the fourth quarter and full year net OpEx savings of &#x20AC;1.2 billion. As said, the trends in our domestic core fixed business revenue were pretty stable versus previous quarter. The main reasons for the weaker Q4 revenues were on the one hand reduction of &#x20AC;98 million online value-added services and other revenues mainly due to the termination of our cash cow business, declines in services like televoting and fee-based hotlines.</p>
+          <p>On the other hand, revenues in our wholesale business declined by 11.6%, mainly driven by a one-timer due to a court decision related to URL fees in 2003. Excluding this one-timer, the revenue trend was basically in line with Q3 at minus 8.9%. Our mobile service revenue trend has improved and was positive, excluding the MTR impact, was plus 0.4% in the fourth quarter, driven by good contract customer growth and strong mobile data revenue growth of almost 32%.</p>
+          <p>In the German fixed broadband market, we successfully defended our market share in excess of 45%, despite the lower net add share in 2011. Line losses were more than 20% lower than last year at 1.3 million, only 295,000 customers of which in the fourth quarter.</p>
+          <p>On the IPTV and VDSL customer side, we again made very good progress. We added 88,000 VDSL retail net adds in Q4 alone, more than 600,000 customers for the full year 2011, an increase of almost 80% year-over-year. On the TV side, we added 177,000 Entertain net adds in Q4 out of which almost 100,000 came from our new Entertain via Satellite offering. In total, we now have 1.6 million connected Entertain customers.</p>
+          <p>Our successful upselling strategy resulted in a slight increase in our ARPA year-over-year. And importantly, as anticipated, we won the Landmark deal with Deutsche Annington in December.</p>
+          <p>In mobile, we saw another strong quarter of customer intake with 387,000 contract net adds with a strong emphasis, as in Q3, on the service provider and value segment and record iPhone sales of almost 500,000 new adds.</p>
+          <p>One of our core beliefs and key strengths are our superior networks. Let me give you an update on our key initiatives here so far. In 2011, we improved our nationwide 3G coverage by 3% points to 86%, started our LTE rollout with a 14% POP coverage and have connected 83% of our 3G sites with fiber links.</p>
+          <p>On the broadband side, we increased our fiber-to-the-curb, as a VDSL coverage, further to 34%, and our Entertain coverage as a result of the Entertain via Satellite offering to 82%. The outstanding quality of our networks is reflected in all major network tests and awards carried out in 2011.</p>
+          <p>One of our core initiatives in Germany in 2011 was to revitalize our service provider segment, which we successfully executed. Whereas we lost contract net adds in 2010 in this segment, we added almost 800,000 new customers in 2011.</p>
+          <p>Turning to slide 16 on Europe. The growth in key markets like TV, broadband and mobile contract customers remained strong in the fourth quarter and this despite economic trends in some of the markets like Hungary, Croatia, Austria even worsening in the fourth quarter.</p>
+          <p>Turning to operations in integrated markets. Both revenue and adjusted EBITDA trends in Greece, improved with the EBITDA margin improving to 37% in Q4. Operationally, we continue to do well, even increasing our market share in mobile, whereas we suffer from significant line losses and a difficult market position in broadband due to the tough regulatory environment. Importantly, OTE sold their 20% stake in Telekom Serbia, which further supports the standalone refinancing efforts of OTE.</p>
+          <p>In Croatia, trends were similar to the previous quarter, with a very impressive margin of almost 50%. Broadband and IPTV growth trends remained positive, while in mobile, we doubled the share of smartphones of all dispatched devices to 45% and pushed the non-voice share of ARPU by 10% points to 35% in Q4 2011.</p>
+          <p>Looking at Hungary, adjusted for the special tax and the shift of business customers to the T-Systems segments, underlying revenue was stable year-over-year, whereas adjusted EBITDA trends were weaker, partially due to higher indirect costs. Commercially, we had the highest number of mobile contract net adds in the market this quarter.</p>
+          <p>In Slovakia, we were able to grow our EBITDA in the fourth quarter by 11% and improved our margin to over 39%, driven by the efficiency gains. On the TV side, we increased our customer base by almost 30% versus Q4 2010, and in the tough Slovakian mobile market, returned to positive contract net adds in Q4.</p>
+          <p>In our mobile-centric businesses, revenues were impacted by the economy, competitive pressures, tough regulation and the weak Polish zloty and Czech crown in Q4. In Poland, on top of tough regulation, the revenue in Q4 were heavily impacted by foreign exchange. Underlying revenues as those effects were down by 2.1%. Underlying EBITDA was 8% below Q4 2010 due to a higher release of accruals last year. On the operational side, our rebranding since June 2011 has been a good success with high brand recognition and the reduced churn rate.</p>
+          <p>In the Netherlands, a change in our tariff structure led to a revenue recognition in Q4, impacting both revenue and EBITDA positively by &#x20AC;47 million. Underlying service revenue growth in mobile, ex-regulation and one-timer, was still up 0.3%, mainly driven by a strong 40% mobile data growth. We also showed good customer momentum with 100,000 iPhone sales, 46,000 contract net adds and a further increased smartphone share of 58%. In the Czech Republic, we are facing tough competition. Underlying revenue, ex-foreign exchange and regulations and one-off, was minus 3%, whereas underlying EBITDA dropped by 12%, mainly driven by a strong smartphone push in the quarter, resulting in a doubled share of dispatched smartphones year-over-year and a good mobile data growth rate.</p>
+          <p>In Austria, we saw a weaker Q4 margin due to a market invest cycle pushing for smartphones. 73% of all dispatched devices in this quarter were smartphones. On the operational side, 96,000 contract net adds and an 0.9% contract churn are the highlights of our Austrian business. In this context, let me say a few words about our UK joint venture, Everything Everywhere, which already reported results this Tuesday. After Olaf Swantee has taken over in summer, the new team has made significant progress.</p>
+          <p>In full year 2011, we showed a 1.3 percentage point increase in our EBITDA margin to 20.9%. In half year &#x2013; in the second half year of 2011, the margin was even at 21.5%. But also on the operational side, good progress was made. We had strong 313,000 new contract net adds in Q4, almost 900,000 adds for the full year 2011. Our smartphone penetration postpaid went up to almost 70%. Our non-voice service revenues increased by 6% points to 43% and our industry-leading postpaid churn is now at 1.1% for three consecutive quarters. Furthermore, Everything Everywhere secured &#xA3;875 million of bank loans in 2011 and issued its first &#x20AC;500 million bond in February 2012. And as an aside, DT remains fully committed to make Everything Everywhere a long-term success in the UK mobile market.</p>
+          <p>Turning to slide 19 on the Systems Solution business. In Systems Solutions, we saw slightly worsening trends compared to the previous quarter, with revenues declining by 0.9% in Q4, mainly driven by lower internal revenues, whereas external revenues showed a slight increase. Due to successful cost savings of more than &#x20AC;700 million in 2011, EBITDA as well as EBIT margins improved throughout the year, every quarter, with the EBIT margin reaching 5% in Q4, almost reaching last year's level.</p>
+          <p>Turning to the key financial of the Group metrics, page 21. Starting with the free cash flow. The free cash flow increased by 8.9% year-over-year in the fourth quarter impacted by &#x20AC;257 million lower cash from operations but supported by almost &#x20AC;400 million lower CapEx relative to Q4 2010.</p>
+          <p>For the full-year 2011, the picture looks the same with lower cash from operations compensated by a lower year-over-year cash CapEx. The slight decrease in cash flow, versus 2010, is due to &#x20AC;100 million currency losses in 2011.</p>
+          <p>We're extremely proud to have overachieved our 2010 to 2012 saving target, already one year ahead of schedule with major contributions from almost all our segments, leading to over &#x20AC;2 billion of gross savings in 2011 alone. Most importantly, we also managed to reduce our Group OpEx base by almost 7%, or over &#x20AC;3 billion, in 2011 with net OpEx savings of over &#x20AC;1.2 in Germany, &#x20AC;0.7 billion in Europe and &#x20AC;1 billion in the U.S., also supported here by foreign exchange.</p>
+          <p>Let me be very clear. Though we are not communicating a new tranche with new target numbers today, we will continue with our Save for Service initiatives. On the contrary, we will even increase our efforts and reinvigorate our program this year.</p>
+          <p>Our 2011 net income was impacted by several special items, which is why I would like to elaborate on this subject. As in previous years, the reported net income contains approximately &#x20AC;1.7 billion of restructuring expenses and over &#x20AC;300 million special factors attributable to minorities.</p>
+          <p>At T-Mobile U.S., we had, on the one hand, a positive contribution of &#x20AC;3 billion from the break-up fee we received from AT&amp;T. This is cash and spectrum. And on the other hand, a negative impact from an impairment taken in Q4 for the U.S. business of &#x20AC;2.3 billion.</p>
+          <p>At our OTE businesses, we had about &#x20AC;1 billion of impairment losses in Q4, predominantly in Greece and Romania. And the net tax effect on our special factors was a negative &#x20AC;641 million, mainly driven by the &#x20AC;0.9 billion tax on the break-up fee in Q4. The adjusted net income for 2011 came in at &#x20AC;2.9 billion, basically covering our &#x20AC;3 billion dividend also from the adjusted net income side.</p>
+          <p>Also very importantly, for us was to continue the reduction of our net debt in 2011. As you can see on chart 24, biggest driver were our strong free cash flow of &#x20AC;6.4 billion and the cash element of the break-up fee in the fourth quarter. Importantly to note is that we could have reduced our net debt in 2011 by over &#x20AC;3 billion if we would not have lost &#x20AC;0.8 billion due to currency losses.</p>
+          <p>We continued with our strong balance sheet KPIs also in the fourth quarter, reducing our net debt-to-EBITDA ratio to 2.1 times at the lower end of our communicated corridor, a gearing of 1.0 times and the healthy equity ratio of almost 33%. As a result of the U.S. deal cancellation, the rating agency reduced their outlook to stable again. With this, let me hand over to Ren&#xE9; and Philipp talking on the U.S.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thanks, Tim. Before Philipp will elaborate on the T-Mobile U.S. Q4 results and how he and the team plan to reignite the Challenger strategy, let me give you a strategic perspective from the DT perspective.</p>
+          <p>Basically, not a lot has changed since the Investor Day in early 2011. Clearly, all of us had hoped for the transaction to go through but as this unfortunately didn't happen, we have to face the same challenges as a year ago. There's a big difference, however. Due to the break-up fee of &#x20AC;3 billion in cash and the valuable AWS spectrum from AT&amp;T and the 3G roaming agreement, DT and T-Mobile U.S. are better off than a year ago. Nonetheless, long term, same challenges which I mentioned to you last year remain.</p>
+          <p>Mid to long term, the issue of not sufficient spectrum for the entire mobile industry and for T-Mobile U.S. remains. And secondly, the issue of lack of scale also remains. While we are not disadvantaged when it comes to procurements because of the volume which we have in the Group, we do feel it in our share of voice where we have to compete with much bigger pockets and in distribution. So, we have to find a longer-term solution for both of these challenges. And we will, midterm, continue to look at strategic options to generate value for the business.</p>
+          <p>And we announced the U.S. deal last March. We hope &#x2013; we mentioned have been looking at various alternatives. And some of these alternatives still exist. Others are not around anymore and new ones have emerged. But let me be very clear, do not expect a near-term structural solution nor anything like the AT&amp;T deal. The 2012 priority therefore should be to reinvigorate our Challenger strategy in the United States market, make use of the elements of the break-up fee to strengthen our competitive position and invest into our network in order to roll out an initial LTE network and improve the quality of our coverage at the same time.</p>
+          <p>And with that, I would like to hand over to Philipp who will now elaborate upon how we're going to do this. I think it must be in the middle of the night for him now. So, Philipp, go ahead, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Yeah. Thanks, Ren&#xE9;. It's 5:00 in the morning here in Seattle, and it's a dry day. So, good morning, everybody. Let me start off...</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>It's time to wake up anyway.</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Yeah. Let me start us out with a quick overview of the fundamental metrics for T-Mobile USA. As you can see, it was a tough year for us in terms of revenue, but we were able to deliver solid financials. Despite the deal overhang, we stayed focus on our profitability measures and delivered improving year-over-year EBITDA over the course of the year. We finished Q4 with $1.4 billion in EBITDA, a 3.4% year-over-year improvement. You can see that this was driven by steady improvements of our EBITDA margin, which grew from 23% in Q1 to over 27% by Q4 in IFRS.</p>
+          <p>I also want to call out that we delivered over $3 billion in operating free cash flow in 2011, which is a further improvement of $200 million over the previous year. On the net adds front, both contract and prepaid net improved to Q3. We even achieved an unprecedented low postpaid churn of 2.2% in September. However, contract net adds reversed in Q4 due to the iPhone 4S launch.</p>
+          <p>On the prepaid side, we have continued to see strong growth mainly driven by the very successful launch of our new high ARPU monthly 4G prepaid products. Finally, data ARPU grew 11% to $14.20 while blended ARPU was flat. We consider this a great achievement as our customer base shifted more to prepaid and to value plans throughout the year.</p>
+          <p>The pending AT&amp;T deal negatively impacted customer satisfaction and brand perception in 2011, which is why we believe it is time to reinvigorate the Challenger strategy and to relaunch the brand. This slide now is the core of what I'd like to talk to you about. For those of you who were at our briefing last January in New York City, you'll recognize the structure from our Challenger strategy 2011. The Challenger strategy is still the right strategy for T-Mobile. It now needs a refresh now that the deal overhang is gone. Our mission as Challenger is making amazing 4G services affordable.</p>
+          <p>These five boxes here are the strategic levers that describe how we bring the strategy to life. They are largely the same as last year, so I'll give you a quick overview of what we've accomplished and what's changing in 2012, and I'll circle back with some details on some of our more important initiatives.</p>
+          <p>The first box is amazing 4G services. We promised that we would build America's largest 4G network, and we delivered with well over 200 million POPs covered with HSPA+ in 2011. We also developed a broad portfolio of 4G devices with 25 4G devices launched in 2011, and we have more on the way. In 2012, we will completely modernize our 4G network and refarm spectrum to launch LTE in 2013. I'll get into a little more detail on that topic later.</p>
+          <p>The second box on the slide is value leader. In 2011, we launched our new rate plans, especially the SIM-only value plans with prices as low as $49.99 for two lines unlimited talk, text and Web. With these new rate plans, customers were able to afford smartphones, and as a result, smartphones now account for over 90% of device sales as of Q4.</p>
+          <p>For 2012, we would like to continue building on that success. But we also know that affordability alone will not be sufficient. We need technology equity to be integral part of our brands. So, by Q3, we'll relaunch our brand to become the best value in wireless. I have a slide coming up on that as well.</p>
+          <p>The third box is trusted brand. We continued our J.D. Power's award-winning record in the first half of 2011. However, our customer satisfaction score declined in the second half of the year while we were under the deal overhang. So, 2012 is a rebuilding year. We are continuing on initiatives that we launched last year like leaning hard into unlimited rate plans and finishing our store remodels to the new global design concept. In addition, we will also significantly expand our branded distribution footprint to drive up sales.</p>
+          <p>The fourth box is multi-segment player. We launched our monthly 4G prepaid offering last year. This has been a big success and we'll continue to evolve that product in 2012. In addition, we continue to grow revenues with our strategic partner Walmart. Our big initiative for 2012 is an investment into B2B systems and in tripling of our B2B sales force. I will talk more about B2B later.</p>
+          <p>In our MVNO business, we have frankly suffered under the AT&amp;T deal as we were unable to sign up new partners give the deal uncertainty. However, we are aggressively pursuing multi-partners in 2012. And we'll create a mobile virtual network enabler platform to make it easy for new MVNOs to sign up with T-Mobile.</p>
+          <p>The last box is the Challenger business model. Last year, we talked about our regional leadership structure, which allowed us to execute better at a local market level. We've also kicked off churn programs and our cost-saving program, Reinvent. The 2011 Reinvent program was quite successful, yielding approximately $600 million of saving. We'll ramp up churn and Reinvent programs this year. We expect that Reinvent will deliver approximately $0.9 billion of incremental savings in 2012, which will be used to reinvest into the market and to stabilize EBITDA. So, that's the overview.</p>
+          <p>I'd like to spend some time taking you through three of the biggest initiatives, starting with LTE. We're very excited to announce that we are launching LTE in 2013. Overall, we will be investing $4 billion in total into network modernization and LTE over time. Over the next two years, this represents about $1.4 billion in incremental network CapEx.</p>
+          <p>The chart on the left is a quick representation of what we are doing, modernizing about 37,000 sites with multimode radios, tower top electronics and fiber running all the way up it. It also adds about 4 dBm of signal strength, improving in-home coverage by 16% or more, which should help drive down coverage-related churn. T-Mobile now has sufficient spectrum to roll out LTE with 20 megahertz to about half of our 4G POP coverage in 2013, which represents about 75% of the top 25 markets. For most of our remaining 4G coverage, we will launch LTE with 10 megahertz. The key catalyst of this build-out is the additional spectrum we are about to get from AT&amp;T.</p>
+          <p>Other enablers here are fast adoption of 3G and 4G devices, successful capacity steering with our new rate plans and technological advances in network engineering. However, the core building block of the work is refarming our spectrum holding. This illustration on the right side of the slide shows how our spectrum refarming will work. Today we have about 54 megahertz of spectrum, roughly half of this is PCS 1900 megahertz spectrum that is dedicated for GSM. The other half is AWS 1700 megahertz spectrum on which we have deployed HSPA+. The bar on the right shows the result of spectrum refarming. We'll reduce the amount of 1900 spectrum being used for GSM, deploy HSPA+ in the PCS band and make room in the AWS band for LTE.</p>
+          <p>Also, with break up spectrum from AT&amp;T, our average spectrum holdings across the top 100 markets increased from 54 megahertz to 60 megahertz. In addition to creating capacity for LTE, deploying HSPA+ in the PCS band means that our spectrum band will finally be harmonized with the rest of the U.S. market and internationally. There are a couple of very nice side benefits. First, we can host international data roamers on T-Mobile's PCS spectrum and significantly increase our inbound roaming revenue. Second and more importantly, we will be able to attract AT&amp;T iPhone and other iPhone customers to the T-Mobile network with the promise of getting better service while saving money with our value plan.</p>
+          <p>Refarming gives us LTE, however, we continue to need more AWS spectrum to support deeper coverage in those areas where we are deploying on 10 megahertz or less, as well as to ease refarming execution. With the investments in the network, we have an opportunity to reposition T-Mobile as the best value in wireless.</p>
+          <p>Today, customers think we offer great affordability compared to other carriers and that is a primary reason for choosing us. However, we also need to push up our brand equity and network coverage quality and in particular in technology. We want customers to know us for 4G services, 4G devices and a great 4G network.</p>
+          <p>Overall, we intend to spend $200 million more in advertising to relaunch the brand in Q3. In our meeting in New York last January, we announced that we intend to invest into B2B but while we made good progress in 2011 in the small business segment, we largely mothballed the B2B push to focus on other priorities. We are now back to capture a bigger share of this $60 billion B2B segment by adding 1,000 sales reps, investing in systems and introducing new aggressive rate plans.</p>
+          <p>We'll heavily leverage our international footprint with DT and Free Move Coalition partners as an additional advantage in this segment.</p>
+          <p>So that's our story in a nutshell. To summarize, T-Mobile is back with its Challenger strategy. 2012 and 2013 are rebuilding and investment years for T-Mobile. Our key focus will be to modernize our network, refarm spectrum and build out LTE. We're also making investment in B2B, and re-launching the brand in Q3.</p>
+          <p>We expect to deliver 2012 EBITDA of approximately $4.8 billion, which includes $0.2 billion additional media spend, and our mid-term target is to return to subscriber and EBITDA growth. Finally, we recognize that we need to strengthen T-Mobile U.S. capital structure to build for the future and are therefore considering strategic options.</p>
+          <p>Let me close by saying that we are convinced that we will get T-Mobile back to growth with the Challenger strategy and that T-Mobile will become the best value in wireless. I look forward to keeping you apprised of our progress as we make amazing 4G services affordable for everyone. Thank you.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you, Philipp. I think we should start now directly with the Q&amp;A session. If you like to ask a question please press star one on your touchtone telephone. Then I will announce your name and when it's your turn to ask a question. Should you require to cancel your question, please press the pound sign. And we'll be starting right away. And as far as I see, the first question goes to Mathieu Robilliard from Exane. Mathieu?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Yes. Good afternoon. Thank you. First question with regards to Germany, when we look at the qualitative comments you make about the outlook for Germany in your quarterly documents last year and the final one for the Q4, there's a little bit of a slippage in terms of the outlook for 2012 EBITDA. And you've also introduced the 2013 outlook in that document, which suggests that EBITDA in Germany could actually decline in 2013. Now, granted, that's a very long time away. What is interesting is to see that you don't really expect an improvement in Germany at this stage when you look at 2013, which may be a bit of a disappointment. And my question was what has deteriorated &#x2013; or what hasn't gone according to plan throughout the year? It seems costs were very strong &#x2013; cost cutting. So it has to do with revenues but maybe if you can give us some color there in terms of how things have slightly moved down.</p>
+          <p>Second question with regard to your ROCE target, back in 2010, you talked about the target of improving ROCE, which was due to combination of improving EBIT and decreasing the asset base. I don't see a target here for 2012 but maybe if you can give us a little bit of color on how you see the ROCE evolve. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Thanks, Mathieu. I'll start with the German outlook and Tim then takes over with the ROCE. First of all, on the 2012 outlook for Germany and that is also included, as you're rightly saying, in our annual report out this morning. The outlook is &#x20AC;9.4 billion of EBITDA, around &#x20AC;9.4 billion, which however includes also a shift which we'll be making throughout the year of the digital business unit from the German business into the GHS business. So underlying, we're guiding for around &#x20AC;9.5 billion of EBITDA for the German business, which is roughly stable 2012 versus 2011.</p>
+          <p>And the outlook which was given for 2013 is rather a qualitative one. And you're absolutely right. It is basically too early to talk about it, and our ambition is clearly to stabilize the German EBITDA going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Mathieu, with regards to the ROCE question, it was our target to improve the ROCE by 150 basis points until 2012. What we see in 2011 definitely is that we were negatively impacted in the ROCE with the impairments we had to face in the U.S. and in the European businesses. So, including these impairments and including the break-up, we have improved our ROCE, total ROCE, by 30 basis points compared to last year, but that is not yet, say, the 150 basis points we're aiming for.</p>
+          <p>Now considering the investments in the U.S., it is going to be challenging and difficult for us to reach the target by 2012. Nevertheless, it stays our Group corporate KPI from a midterm perspective to improve step by step by step the productivity of our capital employed. And we do &#x2013; in all areas, we are working on initiatives to improve the utilization of our assets or even to increase the value around the return on capital employed.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, I think we continue with Simon Weeden from Citigroup. Simon, go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Hello. Thanks very much. And so, my first question is on German CapEx. I think the annual report is suggesting a slightly lower figure for this year, and I wondered how that sat with your ambitions for expanding fiber and fiber-to-the-curb footprint and possibly also to do more deals along the lines of the Deutsche Annington deal? And on the U.S., I wondered if you could comment a little bit more &#x2013; I know you have touched on it, but your Reinvent program is intended to produce another $900 million of incremental savings. But here, your EBITDA guidance suggests a decline of $500 million there, so you've got a significant wedge of extra budget to reallocate. You mentioned the $200 million going on the brand relaunch. You mentioned hiring more staff to business-to-business. So I wondered if you could just fill out the gaps there a little bit on where that extra spend is required? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Hi, Simon. Ren&#xE9; here. The ambition for fiber is pretty much unchanged. Last year, we covered about 169,000 or so households and I think we did that in nine cities. And this year, we're going to continue in about 12 cities to build out the network, probably in the same ballpark, households covered again. We do this in a very targeted way. You will see the first customers this year having Internet speeds of 200 megabits download up to 50 megabit to 100 megabit in upload, so the program is running.</p>
+          <p>On top, we will speed up the LTE coverage because that is very much a strategic long-term objective to be the leader in mobile broadband and therefore LTE is very important but that is less costly. Overall, the three-year CapEx scheduled was around &#x20AC;10 billion-ish in that ballpark for Germany and I think we even over-spent slightly in the accumulation of those three years. So the program on building out the broadband is going on in a very targeted way. We're looking to pre-sell and go into areas which make sense where we can actually win customers and we're doing it in a more targeted way than initially anticipated but I do think that makes more sense. On the U.S., the Reinvent program, maybe it's best if Philip discusses that in more detail. Philip, are you online?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah, on the Reinvent side. So, as I said, we expect an incremental saving for Reinvent in 2012 of $0.9 billion. The decline on the &#x2013; and that will be used to cover, on one hand, obviously an additional investment into media, I said the $0.2 billion, cover continued revenue pressure and cover also costs escalate as we have on different areas.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you, Philipp. I think we continue with Fred Boulan from Nomura. Fred, are you on? Fred has to wait then we continue with Ulrich Rathe from Jefferies.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>
+            <mark type="indiscernible" /> (54:04) carry on the U.S. first of all. I guess it's a little bit early days. But if you could &#x2013; I mean do you think you can stabilize the contract base ahead of the LTE launch or that would be a bit ambitious and secondly, if you can comment on potentially securing the iPhone in the U.S. market?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah. I think this would put undue pressure on Philipp to ask him to stabilize the contract base ahead of launching LTE. I think we will face some further churn on the contract side in the quarters ahead. But, however, as you can imagine, we're doing our best to reduce the churn numbers and to work against that trend without having the iPhone. And we probably &#x2013; of course, no, sorry, we would love to have the iPhone but also it has to make sense for both parties. I find it a little bit concerning if I look around what the impact on margins the product has. But that's separate from our desire to have the iPhone. We'd love to have the iPhone. It just has to be affordable.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks, Ren&#xE9;. Then, I think we'll continue with Ulrich. Ulrich?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thanks very much, yes. My first question would be on the LTE investment announcements of $1.4 billion. I was just wondering what the determining factor for the size of that investment was. Was it sort of to keep the Group CapEx profile or was it the operational capacity for the process or was it the market need or what other measures have you used to sort of determine at what scale you wish to invest?</p>
+          <p>And the second question is with regards to Germany, the mobile service revenue trend there. Now, even on an underlying basis, excluding the MTR cuts, there is clearly a wide gap between what T-Mobile delivers and what &#x2013; what competitors deliver. Now, there are good reasons for that. But I was wondering on what time scale you see that gap between DT's trends and Vodafone's trends, say to close over time. Is that something that could happen by mid-year or late in the year or would you think that 2012 &#x2013; there will still be a material gap between the two? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah, let me.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I think the U.S. question should be answered by Philipp because he worked out the plan in detail. Philipp?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah, so, I think the additional or incremental CapEx basically reflect that we want to roll out LTE to our total 3G, 4G footprint which is about 37,000 sites. And so to achieve a full modernization and then LTE rollout, this is then the number we, at the end of the day, will need to do that.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>On the Vodafone side or on the service revenue side in Germany, that is something I also look at with big attention, and I think a couple of facts have shown &#x2013; have been visible in the last quarters. There's the iPhone catch-up effect. Vodafone didn't have the iPhone for a long time, and they got it and now you see some &#x2013; still there some catch-up in revenues because of that. However, we remain in the lead with regards to mobile Internet. Our growth rate was bigger and better than competitors which is good.</p>
+          <p>On the other side, there were some aggressive moves on the B2B side for our competitors. Bottom line, we're not standing still. We're not watching this continue to happen. We'll defend our market leadership in wireless broadband and in wireless in general. But it's always a head-to-head competition with Vodafone and that's okay as far as I go as long as the market is still an attractive market and the margins are still attractive and that is the case in Germany.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, Ren&#xE9;. We'll continue to Hannes Wittig from JPMorgan, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yes. Good afternoon. Thanks. My first question relates to the spectrum situation. Of course, you have a fair amount of upper frequency spectrum which you're putting to better use. The question, however, would be whether you'd be interested and how significant it is for you to have sub-1 gigahertz spectrum which, of course, based on forthcoming legislation might be available for you. So, how much of a necessity is that from your point of view and how interested therefore, would you be in such spectrum?</p>
+          <p>And the second question is whether you intend to pursue the value plans with the same intensity going forward or whether you'd be more mindful of potentially long-term dilution that is attached to such plans. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes. So, let me take the U.S. question. So, I think the first one we continue to be interested in below 1 gigahertz spectrum as it would obviously improve the efficiency of our network. Everybody knows you need less sites with lower band spectrum, and we would look at whatever is on the market and then decide on that basis. We will continue to focus on value plans and on further optimizing our value plans. They are today, from a customer lifetime value, pretty close to our classic plans and we're trying to fully close the gap so that the value plans are long-term accretive as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you, Philipp. The next one would be Peter Kurt Nielsen from Cheuvreux. Peter Kurt, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thank you very much. A question on German broadband, please. Ren&#xE9;, you mentioned earlier that you're committed to maintaining to the figure market share on broadband. And I seem to recall that at the call one year ago, you mentioned that 30% sort of share of net adds, new adds was sort of a pain threshold which you wouldn't want to move below. You seemed to have moved slightly below that level now, have you taken or adopted a slightly more relaxed attitude as to markets here as market growth is coming down? Are you happy basically to see the remaining market growth the bulk of this going to your competitors in Germany?</p>
+          <p>And my second question just relates to the dividend, you mentioned on this call that the dividend for 2011 is broadly covered by adjusted net income. I guess that by the &#x2013; from the guidance for 2012, that will not necessarily be the case for next year. Is that likely to be an issue with the board when determining on the 2012 dividend? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Peter, 26% net adds is not something I'm excited about. Let's be very straightforward and open.</p>
+          <p>However, put things into perspective, the overall growth in the market has come down significantly. If you look at what happened over the last couple of quarters, the alt nets hardly moved up. The cable guys grew, I think, by 200,000 or so customers and we grew by 100,000 customers. So, overall, we kept our share at 45.5 or so percent. And in that ballpark, we'd like to keep our share.</p>
+          <p>So, the relative meaning or the relative impact of the net add share &#x2013; the net add market share, it has diminished, and that is what makes me a bit more relaxed. But to be very honest, I'd like to win and I don't want the company to be seen as losing share, so I'd rather keep &#x2013; have the team keep their focus on having a decent share of the market. And again, the prime objective is to retain the share at around 45%.</p>
+          <p>And the dividend question, that probably is better for Tim to answer.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah. I think the first and almost important statement is that we are quite happy with our shareholder remuneration strategy which we laid out in 2010, and we are now executing it in the second year of the strategy. And we stick to the overall strategy for this two-year perspective. We have, yesterday, discussed it with our board and we make the recommendation to the annual meeting that we pay out the dividend of &#x20AC;0.70 for 2011 soon. And after one month in 2012, we are not even speculating on the dividend, which gets paid out then in mid of 2013.</p>
+          <p>Nevertheless, if you look to our dividend coverage with regard to the free cash flow and compare us with all our peers in the European sector, you will find out that we have a good coverage and a good cash flow profile, even including the investments for the U.S. And therefore, that should give you some certainty around, let's say, the perspective for 2013.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you very much, Tim. We carry on with Matthew Bloxham from Deutsche Bank.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Yeah, hi. A quick question on German mobile, the contract minutes of use were down 6% in Q4, which is quite a sharp drop versus the previous quarter. Is that just a mix effect or is there something more significant going on there?</p>
+          <p>And the second question I guess is again just around the U.S. You've acknowledged the need for more spectrum over the midterm. You clearly kind of playing a bit of a balancing act at the moment about how you fund the investments in the U.S. I mean, if spectrum was available in the near term, what's the current thinking about how that's funded? I know, in the past, you've kind of expressed a desire for the U.S. to largely kind of fund itself. But do you kind of see that as possible if a big lump of spectrum was available? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>So, on Germany, you're referring to mobile contract minus 6% and my teammate says you are talking about mobile minutes, although I'm not sure I fully get that question right. But mobile contract numbers of customers has gone up. About a fourth was with our own retail customers, our own branded customers and three-quarters were service provider customers. So, what is the point here? I don't get the question.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Is average minutes of use per contract customer in Germany minus 6.3%?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Okay. Now I get it. Okay. So, customer. All right, this probably has been impacted the most by the fact that the customer base was pretty much impacted by a strong increase of service provider customer base, and that may have a different use profile. And we also increased the number of kind of flat rates, tariffs into the base, so I guess these effects are the biggest contributors to that.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Matthew, can you repeat the question with respect to spectrum &#x2013; what is the U.S. spectrum, if we will need more U.S. spectrum, how we would fund it? Is that correct?</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>That's right. Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Do you want to take that, Stephan, or should I take it?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Maybe I start, and then you carry on. I think the overall strategy for T-Mobile U.S. as we always said last year is a wholesale funding platform i.e. trying to finance the needs into our network investments etcetera, the free cash flow we are generating within T-Mobile U.S. And then also Philipp has spoken about a specific capital on options they would also have in &#x2013; at T-Mobile U.S. I remind you the fact that we said &#x2013; always said by the way, we are willing to also sell our towers in the U.S., and then probably, Philipp can comment upon that.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah. Thank you, Stephan. I think we &#x2013; as I said, we are trying to become a self-funding platform over time and looking at measures that can strengthen the capital structure of the U.S. Selling towers could be an alternative we are considering in that context. And also, just a point to remind everybody, the big auctions in the U.S. are still a few years out, so there is very little unfortunately in the U.S. market which is coming to be auctioned off in the short-term. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you, Philipp. And we continue with Robin Bienenstock [Sanford C. Bernstein Ltd.] Robin?</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Yeah. Thanks very much. I guess I have a question really about the unlimited plans and given that the spectrum auctions are still a way off, first, what is the average data consumption on your unlimited plans? And if you continue in this process, at what point would you expect to run into spectrum constraints?</p>
+          <p>And second is, what's the risk of service disruption to your existing customers as you start to refarm your existing spectrum?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Philipp, do you want to take over?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah. Now, maybe just to answer the first question, our super phones with more than one gigabit of data consumption, which is a very, very strong usage from our customers. We have extrapolated overall data need going forward and relative to the estimates we had back in early 2011, we actually expect data demand to be lower and the reason for that is that we do a very good job with our rate plans and really steering traffic. As you know, we have built in throttling after a certain threshold. And that has proven to work out very, very well.</p>
+          <p>The second part of the question, I didn't get, if you could kindly repeat that.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>The question was just to what extent you're risking service disruption in your existing customers as you start to refarm your spectrum?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah, I mean, refarming the spectrum is obviously a difficult process to go through. We will do everything we can not to have a negative impact on existing customers. So, we are very, very mindful of that and I'm going through very detailed testing to make sure that that does not happen.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>You're welcome.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you, Philipp. The next one is Justin Funnell from Credit Suisse, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thank you. Yeah, a couple of questions, please. Just to fill in a bit more on that last question, the refarming change. If you go back to slide 29, and I know it's illustrative, but it helps frame the question. If you look at the PCS GSM black part of the left-hand column, what proportion of your voice traffic is going through that part of your network? What is your network utilization peak-hour rates? Obviously, there's a very sharp change in the spectrum allocated to that part of your network over the next two years and that would seem to be the pinch-point in terms of doing the refarming. So, if you could just explain a bit more how you deal with voice quality over that process, please?</p>
+          <p>Secondly, in Germany, I guess, the question about the contract mobile service revenues points at a slight effect from tariffs in Germany. Since then, we've KPN in Germany adjust their base prices and these appear to be reasonably good value now for higher end customers. Just wondered what you think about those KPN prices and whether there's a need to adjust some of your higher end plans? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes, so let me answer the first question on the chart 29. Today, about 50% of the voice traffic is in the PCS band, and the PCS band is under-utilized from that point of view. And which basically allows us to refarm that band in a significant way, as we want to free up 20 megahertz from the PCS band, about.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>A figure for peak hour utilization &#x2013; so you say it's under-utilized. Is there a figure you can support that?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>No, we unfortunately don't disclose these numbers. I'm sorry about that.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>You're welcome.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>On German tariffs, what do I think of E-Plus pricing. I'm not too terrified of E-Plus, to be honest, in wireless. But we also have a second brand, which can compete there very aggressively with Congstar. And also we have introduced promotional tariffs, special call, Surf in mobile, et cetera. They do have a positive impact on sales and especially in the value segment, which helps to increase our mobile double-play share.</p>
+          <p>And also is I think is another point to underline, our focus on mobile Internet or mobile data strategy. These promotion tariffs are focused on SIM-only contracts, and that does reduce the handset subsidies and also is a good opportunity for used smartphones in the market. So that's part of the answer. And Congstar, our second brand with more than 1 million &#x2013; I think, more than 1.5 million subscriptions now. They have a clear strategy to be a follower in the market of those competitive offers from second brands, so MVNOs which are hosted for instance on the E-Plus network. So I'm not terrified. I think we can compete and so we will have an eye on this.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay. Thank you. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you, Ren&#xE9;. The next one is Nick Delfas from Morgan Stanley.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Yeah, thanks very much. First of all, on the 3G refarm, could you just clarify that's going to happen well in advance of the LTE launch, presuming that will, therefore, be around the Q3 rebrand of the business, re-launch of the business. So I just wanted to confirm that was the case and that from that date, you'll be able to accept iPhone customers from AT&amp;T. And then secondly, on VDSL in Germany, could you give us some kind of idea what it would cost to take the VDSL network to more like 60% of homes passed, which is what we're seeing in some other European countries? Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah, Nick, thank you for your question on the refarm for the U.S. We will basically carry out the refarm in 2012 and 2013 on about 12 months to 18 months period. So we will be able to have certain regions already lighted up this year on 1900 megahertz, probably somewhere in Q3 and then Q4, more and more regions as we are rolling it out throughout the nation. So a little bit ahead of LTE but LTE then to follow shortly thereafter.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Just a very quick follow-up on that, if the iPhone 5 is coming out in Q3, does that interfere with your relaunch plans?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Not at all. No, not at all to the contrary.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Okay. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>You're welcome, Nick.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Okay. So, on the VDSL topic, the key point here is that we keep building it out actually. We have been in line with our objectives on the fiber optics, on the FTTH, but we also built out the VDSL network, which is of course less costly. We do this also in cooperation with local municipalities quite successfully, but I'm not going to give out a specific number. So far, we are in the mid-30%s, and we intend to complement that and to keep building it out, again, in a targeted way. So we compete where it really matters with that against the cable guys. But I'm not going to give you a percentage number at this point in time.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Okay. Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you, Ren&#xE9;. I think we carry on for another five minutes or so, and the next one is Paul Marsch from Berenberg. Paul?</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Yeah. Thanks. Maybe just following on from that VDSL question, given that the EC is currently deliberating on its consultation to try and stimulate more investment in fiber, do you think there's anything that you could see coming out of this process that would encourage you to shift the technology strategy from VDSL to fiber-to-the-home or fiber-to-the-building. I don't know. Any black swan kind of events that might come out of this whole process? I know the CEO's put some proposals to the EC in the middle of last year. But they all seemed relatively minor in the grand scheme of things. So that's the first question.</p>
+          <p>The second question is just on the U.S. I just wonder out of the $3.9 billion of customer acquisition costs in 2011, if you could maybe just clarify what proportion of that or how much of that relates to handset subsidies? Not just the direct component, which was $731 million but also the handset subsidy that's embedded in the commissions of the remaining $3.2 billion. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Paul, the German legislation is currently &#x2013; the German Telecommunications Act is currently under review and hopefully will be in &#x2013; ratified and will be in place soon. And that does have indeed some, at least in the current status, and we'll see what happens. But that does have some clauses which I find encouraging such as risk-sharing is possible. Regionally differentiating approaches because the competitive situation varies from region to region and that should be taken into account when doing the price for the unbundled local loops and so forth. So there is some light at the end of the tunnel, but it's too early to say when it will be in place and when it will be ratified. But on the European side, is there something coming out which is meaningful? Not to my knowledge. Not at this point in time.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>And therefore, I don't expect any massive change in the situation.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>And Paul, on the handset side, thank you for asking &#x2013; going into the details of our acquisition cost, but we unfortunately don't disclose further details on that side, but I'm sure Stephen Eger can give you more guidance thereafter.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>You're welcome.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>My pleasure, Philipp. And having said that, we'll continue with Dominik Klarmann from HSBC.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Yes, thank you. On the one question on the trade-off CapEx versus dividends versus credit rating, would you confirm that keeping a stable credit rating has priority or would you consider accepting a downgrade given the current financing conditions in Germany and the need for higher CapEx over time?</p>
+          <p>And then maybe a second question on your free cash flow and CapEx guidance, and I'm just wondering how you get to this guidance, and was the idea to reach the &#x20AC;6 billion free cash flow? You needed the $1.4 billion CapEx over two years to LTE in the U.S. and so European CapEx had to be lower by the extra spend in the U.S., so Europe was the balancing number. Or is it purely a bottom-up driven approach and do you just see no need to do extra investments in Europe? So for Germany, for example, you find that's rather slow pace of NGA rollout because you just didn't see the demand, so I'm just interested in the process of how you got to your guidance?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>The first thing is that we &#x2013; during the course of 2011, we have decreased our gross net debt from &#x20AC;42.3 billion to &#x20AC;40 billion. And that's &#x2013; we reduced our ratios from 2.2% to 2.1% with regard to the relevant EBITDA &#x2013; net debt to EBITDA ratios. So we are at the lower end of our comfort zone at that point in time. By the way, we are better off than we were one year ago when it comes even to the other KPIs, recurring cash flow to net debt and whatsoever. Our credit rating with Standard &amp; Poor's, with Fitch, is a stable, a BBB+ rating. Baa1 with Moody's and even at R&amp;I, we have an A flat stable. And we have a stable outlook from all the agencies. So, we do not have any indications for a negative rating action at that point in time. The opposite is the case; we are well-covered from our net debt position at that point in time.</p>
+          <p>We are covering our maturities significantly beyond what we have said 24 months at that point in time. That said, trading off now dividend against the rating, I think that is not a question we have at that point in time. We always said &#x2013; and our stakeholder strategy and our shareholder remuneration policy that all of the three shareholders should have a kind of clear predictable guidance. And we have said BBB+ is the rating we want to be in. And I do not see why we should get out of this range in &#x2013; with the planning we have for 2012, respectively.</p>
+          <p>Now, talking about the free cash flow guidance for this year, &#x20AC;18 billion of EBITDA. In the vicinity of &#x20AC;8 billion net cash CapEx is planned for this year. We have &#x20AC;2.3 billion of interest payments. We have to deduct something in the vicinity of &#x20AC;0.7 billion cash taxes. And we have something like restructuring payments we have seen, as well, in the respective &#x2013; last year, so &#x20AC;1.4 billion. Plus, we receive a dividend coming from the UK of something in the vicinity of &#x20AC;0.4 billion. This is &#x2013; bring us exactly to our free cash flow position of &#x20AC;6 billion which we have forecasted including the additional CapEx, the &#x20AC;1.4 billion incremental CapEx for the LTE refarming case in the UK.</p>
+          <p>So, with that, I think the &#x20AC;6 billion is, as it always was in the last years, it's achievable from a free cash flow perspective. And with this free cash flow, we could easily cover then the dividend payment, and as well, we are further working on reducing our net debt basis here and keeping the coverage of our BBB+ rating as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks, Tim. I think we got two more questions, that is Andrew Parnis from UBS and then followed by Emmet Kelly from Bank of America Merrill Lynch.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Guys, it's Andy Parnis at UBS. The first question was just a quick follow-up on German mobile. I just wondered, with the increased focus on sort of the service provider or the low-cost brands, what internal churn are you seeing between your main T-Mobile brand in Germany and then some of the Congstar brand and some other lower brands as customers move from maybe higher-priced plans to lower-priced plans?</p>
+          <p>And then second question which is just on the U.S. I wondered, what are you able to say at all sort of around strategic options &#x2013; what the preferred option would be in the U.S. or what exactly you are considering for the business in the medium- to long-term? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>We're not actually doing this differentiated reporting on the churn side, but quite naturally, the churn on the direct customer side, on the branded customer side, Andrew, is much lower than the churn you can expect from third-party distributors, in particular, MVNOs or so. So, the churn on the branded customer side is lower in general.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah, on the U.S. side, thanks for your question, Andrew, on the strategic option, but you will understand that we will not comment at this point in time on strategic option and preferred one. Sorry about that.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Emmet?</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Yes. Thank you. This is Emmet at Merrill Lynch. Just two quick questions please. The first question, I think Tim just touched on about a minute ago, is on the subject of cash taxes. And your cash taxes still remain substantially lower than your P&amp;L statutory tax charge. I think it's about &#x20AC;775 million in 2011; could you just give a quick update on your cash tax outlook for 2012, maybe for the medium term as well? And I'm also wondering was there any cash tax advantages from the goodwill impairment charges that you announced this morning?</p>
+          <p>And then the second question also on the cash flow statement, you touched on restructuring costs and obviously the severance payments, early retirement, and partial retirement is still a bit of a drag on cash flow, again, could you just give a quick update on where you see those coming out in 2012 and also over the medium term? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>So, the second part of the question first. Our expectation with regard to the restructuring expenses is in the vicinity of &#x20AC;1.4 billion for 2012 as it was in the last years. So, that is what we calculate internally, and with regard to the tax, you're right, there's always a deviation between the tax and the account and the cash tax. The reason for that one is first, that we are using NOLs for deducting the cash tax.</p>
+          <p>Second, what you have seen in 2011 is an increase of the tax rate which is due to the break-up fee. Due to German <mark type="indiscernible" /> (86:17), we have to consider a tax rate of 30.5% for the break-up fee which is a high number and which is increasing our calculated tax in total. And back in &#x2013; and the impairment is something which is not tax-deductible. So, overall, it looks that we are paying a very high tax rate this year. But you always have to look to the net numbers because impairments are not tax-deductible. And on the break-up fee, we pay a 30.5% German tax rate on it. This is, let's say, the accounting perspective with regard to the tax on the cash side. This number is, I would say, half of what we normally see on the accounts by using the NOLs.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Tim. I think that was the last question. Ladies and gentlemen, the conference is about to end. Thanks again to Ren&#xE9;, Tim and Philipp. And thanks for all listening in. In the case of any further questions, and I know there is a couple of people in the pipeline. We take note of those, and we'll call you up from the IR Department. And as always, the recording of the conference will be available for the next seven days. You'll find the details on our webpage. And with that, we're looking forward to hear from you again. Thank you very much, and have a good day. Bye-bye.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

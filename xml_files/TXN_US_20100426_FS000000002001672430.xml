@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1304863" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q1 2010 Earnings Call</title>
+    <date>2010-04-26</date>
+    <companies>
+      <company>508</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Ron Slaymaker, Vice President, Investor Relations</participant>
+      <participant id="2" type="corprep">Kevin March, Senior Vice President and Chief Financial Officer</participant>
+      <participant id="3" type="analyst">Christopher Danely</participant>
+      <participant id="4" type="analyst">Tristan Gerra</participant>
+      <participant id="5" type="analyst">Uche Orji</participant>
+      <participant id="6" type="analyst">Shawn Webster</participant>
+      <participant id="7" type="analyst">Tore Svanberg</participant>
+      <participant id="8" type="analyst">Adam Benjamin</participant>
+      <participant id="9" type="analyst">Jim Covello</participant>
+      <participant id="10" type="analyst">Srini Pajjuri</participant>
+      <participant id="11" type="analyst">Sumit Dhanda</participant>
+      <participant id="12" type="analyst">J. Steven Smigie</participant>
+      <participant id="13" type="analyst">Ross Seymore</participant>
+      <participant id="14" type="analyst">Glen Yeung</participant>
+      <participant id="15" type="analyst">John Pitzer</participant>
+      <participant id="16" type="analyst">Doug Freedman</participant>
+      <participant id="17" type="analyst">Stacy Rasgon</participant>
+      <participant id="18" type="analyst">Tim Luke</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good day. And welcome to the Texas Instruments First Quarter 2010 Earnings Conference Call. Today's conference is being recorded. At this time, I would like to turn the conference over to Ron Slaymaker. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks, Celia . Good afternoon, and thank you for joining our first-quarter 2010 earnings conference call. As usual, Kevin March, TI's CFO, is with me today.</p>
+          <p>For any of you who missed the release, you can find it on our website at ti.com/ir. This call is being broadcast live over the web and can be accessed through TI's website. A replay will be available through the web.</p>
+          <p>This call will include forward-looking statements that involve risk factors that could cause TI's results to differ materially from management's current expectations. We encourage you to review the Safe Harbor statement contained in the earnings release published today, as well as TI's most recent SEC filings, for a complete description.</p>
+          <p>Our midquarter update to our outlook is scheduled this quarter for June 8. We expect to narrow or adjust the revenue and earnings guidance ranges, as appropriate, with this update.</p>
+          <p>In today's call, we'll address TI's plan for growth. We'll talk about our progress to transform TI to a company focused on Analog and Embedded Processing, how it's driving our growth today, and our plans to support growth in the future. We'll address near-term trends in inventories and lead times, as well as our strategy for capacity to make sure we're positioned to grow in the years ahead.</p>
+          <p>Revenue in the first quarter slightly exceeded the high end of our range of expectations. Earnings landed at the top end of our expectations. Demand was strong and broad across end markets and regions, while supply chains across the electronics industry continued to be constrained, and inventories appear to remain lean.</p>
+          <p>Revenue in the quarter was up 7% sequentially and 54% compared with a year ago. Analog, Embedded Processing, and our core Wireless products, excluding baseband, were TI's growth drivers in first quarter '10, and we're investing to accelerate their growth from here; they received about 90% of our R&amp;D investments in the first quarter. These businesses comprised 66% of our first-quarter revenue, up from 61% a year ago and 58% in the first quarter of 2008.</p>
+          <p>Analog revenue grew 8% sequentially and was up 70% from the year-ago quarter. Once again, all three of our major analog product areas were strong contributors to this growth, with each expanding about equally from its fourth-quarter level. For HVAL, this was the fourth consecutive quarter of solid sequential growth, further evidencing the turnaround in this business that we told you to expect and that is now being achieved.</p>
+          <p>A more important metric could be that our Analog revenue is up 8% compared with the third quarter of 2008, the quarter before the industry entered the downturn. While not all of our peers have reported, I believe this growth will compare favorably when results are in. The importance of this metric is that it captures performance over a longer period of time and indicates who is growing stronger out of the downturn. We are working to extend our lead with investments we've made in product technology, sales support, and manufacturing capacity. Just last week, we bought another 100 tools for 300-millimeter Analog production, kicking off Phase II of RFAB.</p>
+          <p>Embedded Processing revenue grew 7% sequentially and was up 39% from a year ago. As a reminder, the year-ago quarter benefited from growth in our communications infrastructure business as China deployed 3G infrastructure. The strongest areas of growth this quarter, in both comparisons, were in our catalog products that are used in a wide range of applications. Catalog microcontroller products were especially strong in the year-ago comparison. Similar to Analog, Embedded Processing revenue was up 3% from the third quarter of 2008, which should also compare favorably to competitors.</p>
+          <p>Wireless revenue declined 5% sequentially and was up 27% from a year ago. Baseband revenue of $424 million fell 9% sequentially and was up 6% from a year ago, reflecting a stronger mix of 3G products. Basebands are now down to 13% of TI revenue, compared with 15% in the fourth quarter and 19% in the year-ago quarter. Revenue of $293 million collectively from applications processors and connectivity products was even with the fourth quarter and was up 80% from a year ago. This is up 12% compared with the third quarter of 2008, another indication of our strong performance in the smartphone market.</p>
+          <p>I should note that we have moved our low-power wireless products from our Analog segment to our Wireless segment. We made this move because our Wireless organization is better suited to support this significant growth opportunity. This low-power wireless product line is based on products that were included in, or subsequently developed from, our 2006 acquisition of Chipcon. Revenue from these products was $68 million in 2009. We have a chart on our website that shows our Analog and Wireless segments historically adjusted for this change.</p>
+          <p>Other revenue grew by 19% sequentially. Royalties increased, and we had a strong sequential growth in custom ASIC products, as well as growth in DLP products and calculators. From a year ago, Other revenue grew 68%, mostly due to strong growth in DLP products, where revenue more than doubled, as well as strength in royalties, custom ASIC products, and calculators.</p>
+          <p>From a geographical perspective, almost all of the sequential revenue growth came from the U.S., Asia-Pacific, and Japan regions.</p>
+          <p>Turning to distribution, resales, or sales out of our distribution channel, were up more than 10% sequentially. We believe this represents share gains across multiple distributors. Even with this strong resale growth, we were able to help distributors build some inventory to support future growth. Even so, distributors' total weeks of inventory remain about 5, similar to last quarter and low by historical standards.</p>
+          <p>Now, Kevin will review profitability and our outlook.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks, Ron, and good afternoon, everyone.</p>
+          <p>Our gross profit expanded by 6% sequentially this quarter as revenue grew. Gross margin declined slightly, by 20 basis points, to 52.7% of revenue.</p>
+          <p>Operating expenses increased $27 million from the fourth quarter. As I explained in January, this was mostly the result of higher compensation expenses that resulted from our stronger financial outlook for 2010 &#x2013; for example, accruals for employee profit sharing and annual raises in February. Operating expenses were 23% of revenue in the quarter, within our planned operating models.</p>
+          <p>Restructuring charges in the first quarter were $10 million. This was for U.S. pension plan settlement accounting associated with actions that occurred in 2008 and 2009. The distribution of these charges across our segments is included in our earnings release.</p>
+          <p>Operating profit for the quarter was $950 million, 9% higher than the prior quarter due to higher gross profit. From the year-ago quarter, operating profit was up $940 million due to higher gross profit. Operating margin in the quarter was 29.7% of revenue.</p>
+          <p>Net income in the first quarter was $658 million, or $0.52 per share. Included in net income was $7 million of discrete tax charges that were associated with the change in tax treatment of Medicare retiree drug subsidies.</p>
+          <p>I'll leave most of the cash flow and balance sheet items for you to review in the release. However, let me make just a few comments.</p>
+          <p>Cash flow from operations was $710 million. This was down from last quarter's $1 billion due to higher receivables. Cash flow from operations was up from the year-ago quarter due to higher net income.</p>
+          <p>Capital expenditures declined sequentially to $219 million in the quarter. Expenditures included the purchase of additional assembly and test equipment, as well as additional Analog wafer fab equipment. Our process qualification work at our 300-millimeter Analog wafer fab, RFAB, is producing good results. The initial wafers that we began producing in January have completed processing with good early yields. We continue to track well to our goal to have full process production qualification before the end of this year.</p>
+          <p>In the quarter, we used $504 million to repurchase 20.6 million shares of TI common stock, and paid dividends of $149 million.</p>
+          <p>We were able to increase our inventory by 74 million in the quarter, with most of the additional inventory staged as work-in-process to support our forecasted higher 2Q revenue. Inventory days held steady at 76. Consistent with what we described at our midquarter update, our delivery performance has continued to improve, and our lead times have continued to decline as we bring additional manufacturing capacity online and get better positioned with inventory.</p>
+          <p>Even as we have begun an orderly process of reducing lead times, demand from our customers has remained strong. Orders in the quarter were $3.64 billion, up 12% sequentially. TI's book-to-bill ratio was 1.14 in the quarter, up from 1.08 in the fourth quarter and our strongest book-to-bill ratio since the second quarter of last year.</p>
+          <p>Turning to our outlook, we expect TI revenue in the range of $3.31 billion to $3.59 billion in the second quarter, or a 3% to 12% sequential growth. We expect earnings per share to be in the range of 0.56 &#x2013; <mark type="audio gap" /></p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay. We will continue with where Kevin left off there.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Actually what I'll do is back up maybe a paragraph. I'm sure that's caused a bit of a distraction for everybody.</p>
+          <p>Turning to our outlook, we expect TI revenue in the range of 3.31 billion to $3.59 billion in the second quarter or 3% to 12% sequential growth. We expect earnings per share to be in the range of $0.56 to $0.64.</p>
+          <p>Our estimates for 2010 R&amp;D, depreciation, and capital expenditures are unchanged from last quarter.</p>
+          <p>In summary, as the recovery continues to gain momentum, we are seeing the results from investments that we maintained even through the depths of the downturn. We have products well-positioned and field sales and applications team that is second to none. Our production output is at an all-time high, and we have a multi-year ramp in capacity under way that will allow us to support our customers, and therefore our shareholders, with strong growth potential.</p>
+          <p>And this capacity &#x2013; both fab and assembly and test &#x2013; is being procured at cost levels that will also advantage us competitively without burdening TI with a lot of fixed cost. We see this strategy as having lots of upside opportunity and manageable downside risk.</p>
+          <p>With that, let me turn it back to Ron.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks, Kevin. While we're building the queue for Q&amp;A, let me take a moment to remind you that we will be holding our 2010 financial analysts meeting in New York next Thursday, May 6, starting at 2 p.m. Eastern time. The meeting will be webcast, so if you are unable to join us in person, please join the webcast.</p>
+          <p>Operator, you can now open the lines up for questions. In order to provide as many of you as possible an opportunity to ask your questions, please limit yourself to a single question. After our response, we will provide you an opportunity for an additional follow-up. Operator?</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you, Mr. Slaymaker. <mark type="Operator Instructions" /> We'll take our first question with Christopher Danely with JP Morgan.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Chris, are you there? Operator, why don't we move to the next caller, and we will come back to Chris.</p>
+          <p>Operator, are we still online?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Yes, sir. One moment, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And, Mr. Danely, please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Can you guys hear me?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We can hear you now, Chris.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>All righty. Thanks. First question is on the gross margins, why were the gross margins down despite the increase in sales? And can you just maybe give us a sense of where gross margins can go for the rest of the year?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, Chris, you may recall that in January when we had our fourth-quarter earnings release and our first-quarter call, I mentioned that we were reinstating compensation changes &#x2013; compensation increases for everybody in 2010 and that we also, based upon higher outlook, would see related compensation such as profit sharing going up. And so really what you're seeing is the effect of that going through the gross margin line. In fact, if you adjust for that, the fall-through would be very close to what you probably would have expected.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Do you have a follow-on, Chris?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>If you could just talk about where you can expect gross margins to trend for the rest of the year &#x2013; i.e., can they go up much, or will the compensation continue to impact them?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, we've established the gross margins target at 55% gross margin and 30% operating margin, and we remain very confident in being able to achieve those. The main driver of that, of course, is going to be just the revenue mix as we go forward. I think Ron mentioned already that Analog and the better processing and the core Wireless products are now about 66% of our total revenue. They're becoming a richer mix, and those deliver very nice gross margins. We would expect that mix to continue to richen up as we go through the year and the years to follow, and the gross margins to move up accordingly. Beyond that, I don't want to give a specific time period as to when we think we'll be achieving that 55% gross.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Kevin, could you speak just a minute on the compensation, how much of what we saw from fourth to first with kind of a one-time moving into the new year versus what will just be expected quarter to quarter going forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, that's a good point, Ron. The compensation changes that you saw in first quarter &#x2013; our annual raises are actually effective in February, so you only saw two-thirds of the effect of that in the quarter. So you'll see a bit more of that going into second quarter where the full rate will burden the quarter. And depending upon our outlook, our accruals that we take for other compensation-related incentive-type things such as profit sharing could be adjusted as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. Thank you, Chris. And let's move to the next caller, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll go next to Tristan Gerra with Robert Baird.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Hi, good afternoon. It sounds like your utilization rates went up in Q1, which I think might be above the flattish expectation you had last quarter. And also if you could talk about your expectation in Q2 relative your capacity ramp?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, Tristan, actually our utilization rate really didn't move that much. It was very consistent with what we talked about, and while we do expect utilization to go up a little bit next quarter, it's not going to be that much again. We have &#x2013; you may have noticed from our balance sheet, we were able to build some inventory in the first quarter even with our utilization not changing by that much. That helps position us well for growth going into the second quarter, and so with just some more relatively small additional wafer starts, we'll be able to reach those types of revenue numbers that we gave in the guidance.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>And, Tristan, we don't really have expectations that we're sharing on our second-quarter utilization, as that'll really tie more to our third quarter expectations. Do you have a follow-on, Tristan?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Also given your expectation to phase out the baseband business, are you changing your pricing strategy there, or is it pretty much in line with what you've done in the past? And perhaps also some pricing comments on the Analog side of the business?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Tristan, I really don't have comments on baseband pricing. Again, most of our pricing there tends to be driven more by longer-term contracts, but since most of our baseband revenue really goes to a single customer, it would be inappropriate for us to talk about pricing trends.</p>
+          <p>With respect to Analog, really no abnormal changes there. I think Analog pricing in general, especially in the high-performance area, tends to be very stable, and in areas like HVAL where it may tend to trend down over time, it tends to trend down based upon longer-term pricing agreements, and those are well-understood trends that we engineer for. If I can broaden that, the only area where we've seen pricing that moves more with the near-term market environment would be in some of the commodity areas, and we've said probably for the last quarter or so that pricing has trended up, and in fact we saw that as well in first quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. Tristan, thank you, and let's move to the next caller, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Adam Benjamin with Jefferies.</p>
+          <p>Please check your mute function, Mr. Benjamin.</p>
+          <p>Okay. We'll go next to Uche Orji with UBS.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Thank you very much. Can you hear me?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yes, we can, Uche.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Ron &#x2013; just one quick question, Ron. I mean, when you look at your revenue growth in the last three or four quarters, which have been fairly strong, and you try to reconcile it with the ultimate end markets &#x2013; be it industrial, be it Wireless &#x2013; are you concerned at all that inventory might be moving further down the line with the OEMs? I mean, it just seems to be &#x2013; is there any way you kind of tried to analyze it yourself and tried to figure out whether this is happening? Because that seems to be a little bit of a disconnect with the strength we have seen with the component growth just of the end markets themselves.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Uche, I guess the advice I would have in doing that comparison is you can't have the starting point be in the last three or four quarters, because in first half of last year, especially first quarter of last year &#x2013; and probably even starting in fourth quarter '08, as the downturn really started to take force &#x2013; we were significantly under-shipping our customers as they were reducing inventory. So to look at growth trends coming off of that bottom when we were under-shipping customers is probably not an appropriate metric.</p>
+          <p>I do believe that &#x2013; first of all, let's talk about the customer inventory. You heard us say first of all with respect to distribution, our channel inventory, we were able to get some inventory built there, but weeks of inventory maintains at about 5, which is, by any historical metric, going to be lean. We have an additional significant percentage of our OEM customers where we're managing their component inventory because it's business that's done on a consignment basis, and we know that it's lean, and it tends to be very productive, fast-turning inventory.</p>
+          <p>So if you put distribution and the OEM consignment programs together, that represents about two-thirds of TI's revenue base, so that leaves about one-third of the customers that we have frankly less direct visibility into their inventory levels. But, Uche, all signs and indications that we've picked up is that inventories remain lean. As I said, this is a general supply chain type of consideration that inventories are lean. The customers are trying to build inventory and bring in product consistent with their end demand, but they're really not to a point where they've been able to significantly increase inventory from a days or a weeks basis.</p>
+          <p>So certainly we watch it. We watch relative growth. We talk to customers about their needs and all of that, but we haven't seen anything to this point that is setting off any kind of alarms. In fact, if anything, we're still the other way around where we're trying to &#x2013; we're trying to continue to pull up our supply to be able to fully meet the customers' demand with the service levels that they're used to from TI.</p>
+          <p>Okay, Uche, do you have a follow-on?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Yes, I do, actually. Thanks for that answer. My follow-on is if I look at the Other revenues, that seems to be a very meaningful contributor to margins. And I mean, one of the key contributors there of course is royalties. Can you give us any comment as to what's driving royalties anymore and what is, if you don't give us the absolute size of that number, but just to get a sense of what's driving royalties right now? I know you saw it begin in the DAM companies and what your positions are, and also within DLP. If you can also talk about what your expectations are within that? That's my last question. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Uche, I think on the royalty front, naturally that's a function of how well our licensees are doing, and generally we've got a strong market going on. I won't quantify any of the business units underneath the Other segment other than to say what's up and what's down. Royalties was up sequentially. DLP was also up quite a bit. That also happens to be a very attractive margin business. And that's on the strength of front projectors. In fact, not only quarter over quarter, but also year over year. If I recall, I believe it about doubled on a year-over-year basis.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>More than.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>And going forward, we're seeing continued strong demand, especially for the DLP into the future &#x2013; again, without being specific on that area, because we don't really forecast or publically forecast below the company level. Overall, what we'll see next quarter &#x2013; just so it's not lost on folks &#x2013; is the calculator business is inside the Other segment, and you may recall it has a seasonally stronger second and third quarter. That's when the back-to-school selling season happens. And so we would typically see an uptick from 1Q to 2Q for that business, and we're expecting around 65 million to go from 1Q to 2Q, delta revenue there. It will typically go up a little bit more in third quarter and then drop off again in fourth due to the seasonal nature of that business.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Uche -</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, let me make a couple comments also just on what's driving that DLP strength. Because certainly part of it is the year-ago effect of markets being weak, and inventory. But actually inside of DLP, education is a very big market and market-driver for our front projector products. And we're seeing a lot of strength now, especially for example in Asia, as schools and classrooms over there start deploying DLP projectors in the classroom, similar to what many of the schools here have done. And DLP has just a very significant reliability advantage that makes it attractive to educational systems.</p>
+          <p>The other thing that is more recently starting to play out as a differentiator for our DLP front projectors is they're 3-D capable, and so you've certainly &#x2013; know of 3-D in the cinema, but actually educational systems are using the 3-D capability to help students better visualize things that wouldn't normally pop out in textbooks or in 2-D diagrams. And then certainly you don't have to look very far to realize how big 3-D is with movie cinemas these days. And what I would just say is almost all of that is being done on TI-based DLP projectors.</p>
+          <p>Okay. Uche, thanks for your questions. And we'll move to the next caller.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Shawn Webster with Macquarie.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Yeah, thank you. Can you hear me?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yes, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay. Yeah, I was wondering, you said the 5 weeks wasn't &#x2013; was still lean. What is it historically? And in terms of your lead times, when do you think they'll get to a more normal level?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. The historical distribution has run in the 8- to 9-week range, and that's over the past, oh, few years. Maybe excluding last year. But if you go back longer than &#x2013; or if you go back further in history, they would have even carried more weeks of inventory. Certainly part of the reason that inventory levels have come down are just structural things that we've done from a consignment program. And just as a refresher, today &#x2013; we actually started, I guess it was in June of 2008, deploying consignment programs to distribution. Today about 30% of our distribution revenue is supported by consignment. So structurally, that will tend to bring down inventory levels. But even accounting for that, inventory levels at distributors remain lean.</p>
+          <p>And Kevin, would you like to answer the second?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>On lead times, Ron mentioned during the midquarter conference call that we had already begun to pull in lead times as we've been bringing on capacity to deal with the high levels of demand that we've had. And we have further pulled those in as we came out of the quarter. We still have a number of products that have lead times longer than we prefer at this point, but we're getting significant progress coming into the first quarter. I'd remind you that we're going to continue installing additional capacity for at least the quarters of 2010, and we expect that should greatly enable our ability to bring lead times back to a normal level.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Do you have a follow-on, Shawn?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Yeah, please. I was just wondering if you could just provide us some color on how your order book's looking going into Q2? What areas do you expect the most strength from, and what areas do you expect the least growth?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Shawn, we don't break our guidance down into particular markets, so I probably need to stay away from that. However, let me just say, thus far in the quarter, which is, what, 26 days, orders are strong and fully consistent with the guidance that we just provided you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay, Shawn. Thank you, and we'll move to the next caller.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Tore Svanberg with Thomas Weisel Partners.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Yes, first of all just coming back to the lead times topic, can you just put some parameters or numbers around where lead times have been and where they are now?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>There's &#x2013; we're talking about tens of thousands of part numbers here, so there really is no one answer. But lead times that were, say, in excess of 12 weeks are pulling back into the 8- to 10-week kind of range. Lead times that were in excess of 16 are pulling back into the 12 to 14 kind of range. We're kind of seeing this across the board where proportionately more and more of our products are moving back into a normal lead time for that particular product. Not all of them are the same. It depends on the manufacturing process. Some processes take longer naturally than other processes, but the lead times are all beginning to move back in consistent with those processes. But as I said, still some work to do on that. That should be dealt with as this new capacity continues to come online this year.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Hey, Tore, one way of thinking about it is, I guess at midquarter, we were seeing data that allowed us to believe they had stabilized, and I think I described it as we were making slight improvements in lead times. Since then, we've seen a lot of progress, and I would describe &#x2013; compared to slight improvements at midquarter, I would describe the improvements as significant at this point. So they're turned, they're turned very clearly in the right direction, and we're making significant progress.</p>
+          <p>Do you have a follow-on, Tore?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Yeah, Ron, you said the HVAL business has grown four consecutive quarters and is fully recovered. Can you just talk a little bit about some of the bigger end markets that have been responsible for that recovery, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, the only thing I would say is I don't know that I would say it's fully recovered. I think we certainly believe we have it well on its path, and we think the turnaround that we had talked about &#x2013; I think really for a couple years now &#x2013; is well under way. But there are still &#x2013; there's still work to do. There's still additional progress to be made in terms of further diversification of those products and the markets that we're working through.</p>
+          <p>I think you look at HVAL, it really isn't a single market. It's a variety of markets. Just even specific to first quarter, it's clearly computing and peripherals; peripherals that we participate in with those products would include areas like printers, but maybe more significantly would be hard disk drives. Those were some examples. Probably automotive would be another one that I would mention as a notable area of improvement.</p>
+          <p>Okay, Tore, thank you -</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>&#x2013; for your questions, and we'll move to the next caller, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll go next to Adam Benjamin with Jefferies.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Hello, Adam. Welcome back.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thanks, guys. Sorry for the snafu. Just had a follow-up on the lead times. With the lead times coming in on the back end mostly, can you talk a little bit about cancellations that you've seen maybe on a relative basis in Q4 and then comparing that to Q1 and then what you've seen so far in this quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, Adam, I can answer that pretty quickly. We've seen no change in lead times. There's no abnormal -</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Cancellations.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Pardon me, no change in cancellations. No abnormal adjustments there at all. In fact, I would just observe that during the quarter, even though we were improving the lead times on a considerable basis, once again we did see actually a strengthening of orders in the quarter, as we talked about earlier. A book-to-bill that took us back up to 1.14, so really showing that customers continue to have significant demand for our products.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I think to be honest, Adam, I know there's been a lot of investor and analyst concern and worry about what would happen when lead times pull in and what &#x2013; how that might affect orders. But to be honest, I think that kind of focus really is missing the forest for the trees in this type of very strong demand environment. So was there any noise in the order line associated with our changing lead times? There could have been, but it was more than swamped by just rising end demand, rising production from our customers. So, again, I just &#x2013; I would caution against getting too micro-focused on that detail and focus more on just the recovering economy and what that's driving in terms of demand for semiconductors.</p>
+          <p>Adam, do you have a follow-on?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>And then just a follow-up kind of on a longer term-basis on gross margin, I know in this quarter you mentioned you're layering on some comp and some CapEx, and I'm just curious as you move throughout this year and really into next year how you're thinking about the gross margin and where we should be thinking about where that can trend to?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, Adam, we've been talking for a couple years now about gross margins working their way, as we rebuild the portfolio, to a 55% kind of structure. And that's not to say that's a ceiling or a floor; it's to say that our portfolio should be able to deliver that on a fairly reliable basis. Going forward, we continue to be even more confident that we will be in those kind of gross margins, especially as we see Analog and the better processing becoming a bigger mix of our revenue overall.</p>
+          <p>On the CapEx front, we've talked for a while about CapEx probably running in the 5 to 8% kind of range on a percent of revenue, and in fact we're consistent with that. I was just looking over some data this morning, and our capital spending for the last 12 months has been almost exactly 8% of revenue, which bodes well for depreciation as we move forward also. So we shouldn't see a depreciation threat on the gross margin.</p>
+          <p>In addition to that, we've been acquiring capital at extremely attractive prices. So we're getting more capacity than we would normally get dollar for dollar of capital spend, which bodes very well for being able to grow our top line, which is where we're highly focused inside the company, is driving top-line growth at this point as opposed to trying to adjust any gross margin models.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. Thank you, Adam.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Great.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>And we'll move to the next caller, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Jim Covello with Goldman Sachs.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Great. Thanks, guys, so much for taking the question. I appreciate it. If we look forward to the 300 millimeter fab getting ramped up, how quickly do you think realistically you could gain some kind of meaningful share coming out of that FAB?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Jim, the schedule right now is for that to be shipping its first production-worthy product by the end of this year. As Ron mentioned, we just started Phase II expansion in that factory. The Phase I was to give us $1 billion of incremental revenue capacity. That's what we announced a couple quarters ago. Phase II is a second billion dollars of revenue capacity, and we have just begun bringing equipment &#x2013; just purchased equipment last week to support that. We will be bringing that in very quickly. We'd expect to probably have some fairly meaningful revenue begin to come out of there in 2011.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>On that second phase also?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. All right. Jim, do you have a follow-on?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>I'll stay on that. When do we think the first phase would be complete? I understand you'll ship product in the fourth quarter, but when would that Phase I be kind of fully ramped?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Jim, that's going to be a function of demand, I guess. I don't know that I can really forecast all the way out to the end of 2011 as to when each of those pieces of machines will be fully utilized. But they will certainly be ready to be fully utilized as we come out of this year and go into next year.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay, okay. So sometime early in 2011 then?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Generally available, and we're just waiting for the orders.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you, Jim.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We'll take the next caller.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll go next to Srini Pajjuri with CLSA.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thank you. Kevin, a couple of questions, one on accounts receivable. It went up a bit in the quarter. You know, given the tightness, I would have expected it to remain flat or actually come down a bit &#x2013; if you can give us a bit more color as to what's going on there?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, in the fourth quarter, what typically happens on our shipments in the fourth quarter is they actually drop off a fair amount in December as customers put their factories on holiday and so on. And so our receivables will tend to decline, and our days of receivables will tend to go down. Coming out of fourth quarter into first, we're back into a more normal manufacturing environment for our customers, more uniform factory loadings, and so our shipments are more uniform across the quarter, which in turn, by contrast to fourth quarter, brings the receivables levels up when your revenues grows, and you wind up with your days going up as well. If you look on a year-over-year basis, they're actually very consistent on a days basis.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>So just relative linearity between fourth quarter and first quarter shipments.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Right.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay, Srini, do you have a follow-on?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yes, Ron. On the pricing front, Ron, you mentioned that you were seeing some beneficial pricing on the commodity side. Now that the lead times are coming in, do we expect any changes to pricing? I mean, do you expect the prices to kind of lower to the normal declines? And if so, what kind of impact should we expect on the gross margins? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, Srini, I really don't want to try to forecast what commodity pricing might be. This is an area where for some time &#x2013; I think since really the beginning of the year &#x2013; we have actually been on a, what we call controlled order entry process where customers just could not come in and place unlimited demand on us based upon a certain lead time. We provide certain levels of support to customers that have been historic customers, and if competitors were having issues supplying product, we weren't just going to be the benefactor for all of their customers to be able to gain support.</p>
+          <p>So commodity really has been kind of a different environment for the last few quarters. Very typical for this part &#x2013; this kind of market environment in terms of how we and how our competitors move to a controlled order entry process. But the statements about lead time reductions and such have not yet applied to those commodity products. That was more statements about general products and embedded processing, high-performance Analog, power, HVAL, those type of product areas.</p>
+          <p>Okay, Srini, thanks for your questions. And we'll move to the next caller.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Sumit Dhanda with Banc of America/Merrill Lynch.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Yes, hi, guys. My first question &#x2013; Kevin, you talked about OpEx going up and some impact to your COGS line from higher compensation. A question on operating margins by segment. It seems like that trend may have impacted all of your segments but your Other segment, so I was wondering what is special there, if it &#x2013; was it just that royalty saw a big uptick relative to everything else in the quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, the Other segment actually don't have nearly the staffing level that you see in the three primary segments, and so there's not that much compensation to run through there compared to the other ones. And then, again, you had some very high-margin, kind of cash-cow items, if you will, that are in that segment, and so dollar for dollar they tend to fall through quite rich. But really what it comes down to, you just don't have as much compensation inside that segment that's going to see the changes that we saw on the other segments.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Do you have a follow-on, Sumit?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Yes, I do have one. I know you refrain from commenting specifically on your baseband business into the second quarter, but just overall in terms of the year, do you expect the trends to be largely seasonal, better growth in 3G offset by maybe some erosion in your EDGE business? How should we think about it, big-picture basis?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, maybe if I can even move beyond this year, you've heard us say for some time, and we'll say it again today, that we expect our baseband revenue to be essentially zero by the end of 2012. So if you take our first-quarter baseband revenue of 424, 425 million and straight-line that to zero at the end of 2012, I think what you're going to find is there'll likely be quarters above this line and quarters below the line. The exact profile of the decline is going to depend upon our customers' success in the market, the mix of their 3G versus older technologies, as well as our competitors' progress in delivering baseband product to meet the customers' needs.</p>
+          <p>So maybe some additional color that can help you do your own analysis on this is if you consider that today, 3G basebands represent about 75% of our baseband revenue &#x2013; and that's up from about 50% a year ago, as the market really has transitioned to these more advanced technologies. I think it's well-known that our largest customer is intending to multisource their baseband, and I think what you can expect in 2010 is that competitors should begin to support the older technologies that represented 25% of our baseband revenue in first quarter. And for 3G, we don't anticipate competitors to begin ramping new products there until sometime in 2011. So our revenue profile this year in 2010 is going to depend on how the competitive incursions compare against the ongoing market shift to 3G, and also how our customer performs in that 3G market. So hopefully that provides you some level of insight.</p>
+          <p>Okay, Sumit. Thank you for your questions. And we will move to the next caller, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Steve Smigie with Raymond James.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Great, thanks, guys. I'm not sure if I missed it, but could you &#x2013; if you haven't already discussed it &#x2013; the mix of high-performance and power versus HVAL within Analog?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We didn't specifically break that out, Steve, nor do we. The only &#x2013; we kind of do more on an annual basis, so think about last year; it was a mix of 30% HPA, 30% Power, and the remaining 40% would then be HVAL. But we don't provide quarter-by-quarter updates there.</p>
+          <p>Do you have a follow-on, Steve?</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Yeah, could you just at least then give some color within HPA, what may be driving &#x2013; I'm assuming that that's up since overall Analog is up 7% &#x2013; what product types are just generally driving that? Is it amplifiers, is it converters, et cetera, just &#x2013; not percentage maybe but just color on what's strong, what's not?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, sure. From a product standpoint, you named several of them there. Operational amplifiers, data converters, and then also in the first quarter, industrial interface products were the areas that grew fastest sequentially. And I'll just note, our high-performance Analog business &#x2013; probably similar to a lot of the other HPA players that you've seen out there &#x2013; really has a pretty strong exposure to the industrial market and is benefiting as the industrial market continues to have a pretty robust recovery here. So those product areas that I mentioned, but then also maybe more aligned with industrial market overall.</p>
+          <p>Okay, Steve, thanks for your questions. And we'll move to the next caller.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Ross Seymore with Deutsche Bank.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Hi, guys. Ron, first just a little clarification. You said in your baseband business, 3G was 75% and 50% last year. Did you mean last year as in the first quarter of last year or the entirety of last year?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>First quarter of 2009. So first quarter 2009 it was 50%, and first quarter 2010 has migrated to 75%.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Do you have kind of an average of what it was for the full year?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>No, but I'll guess it's somewhere between those two numbers. Sorry, I don't have that data in front of me.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>That's probably a pretty good guess. The follow-on question, shifting gears to the order book, I know you guys &#x2013; the duration of those orders can be 3- or 6-month orders depending upon the type of customer. Has your lead time being pulled in started to be visible in the duration of orders that people are placing, 3-month versus 6-month?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I would suggest that with the 1.14 book-to-bill and a growth rate that we're suggesting probably won't consume all those orders next quarter, you can pretty much assume, Ross, that we're still seeing some out in the north of 3-month kind of window. Nothing north of 6 months because we just don't recognize orders that far out, but probably a good portion of those in the 3- to 6-month range. I don't have the exact breakout, but that would be my expectation.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Great, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. Ross, thank you. And we'll move to the next caller.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Glen Yeung with Citi.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Maybe just following up on that last question, when you guys are getting orders now, are you going through a process of scrubbing those for anything you think may be kind of a questionable order? And is your process any different now than maybe it has been in the past?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Glen, I'd probably just describe it real simple: The process is the same as it's been for the last few quarters, and that is we're looking very closely at each order coming in and making sure that we're meeting true demand that the customer needs to keep their lines going.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay, thanks for that, Kevin. And then my follow-up is on capacity growth. Are you guys able to quantify how much capacity you're bringing on, maybe in 8-inch equivalents, let's say by the end of this calendar year? And then can you compare that point to where you were at, say, the end of 2008? i.e., are you above your '08 amount of capacity or below?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Glen, I don't have those numbers. Certainly we've talked about on the 300 millimeter, the incremental revenue that that will give us. And we had talked about purchasing and deploying 200 millimeter equipment last year and more this year. But frankly I don't have the numbers for you to give you any clear answer on that.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>But we're clearly adding capacity. I think you saw -</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>&#x2013; I believe it was in the release, every quarter this year &#x2013; well, the starting point is the production output in first quarter is higher than it's ever been. And our capacity increases sequentially every quarter as we move through 2010.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Maybe just to clarify that, was some capacity decline from your peak capacity levels in '08?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>No, we did not take any factories offline. Remember, the only factory we've taken offline in the last couple of years has been KFAB, and we redeployed that. That was back in early '07. And then there was an older factory, the factory that we'd acquired with the Burr-Brown acquisition in Tucson that we also wound down in the early '08 kind of timeframe. But during the downturn, we took no capacity offline. In fact, we were adding to capacity.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay. All right. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you, Glen. Next caller, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go to John Pitzer with Credit Suisse.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Yeah, good afternoon, guys. Thanks for taking my question. I guess, Kevin, if you guys hit the high end of your June guidance, you'll start to see revenue that you saw back in sort of the December '07 time period, but gross margins are actually going to be down a little bit from that December '07 quarter. And I guess given that the mix has moved dramatically more towards Analog, I'm just trying to figure out how I should think about that.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>John, I don't have the data in front of me from that time period back there, and I'm not quite sure how you're modeling the gross margin assumption. I would just remind you that the OpEx will be up a little bit more again next quarter, as I mentioned earlier, on a full quarter's overall compensation change. So I don't know how you're squeezing that through your model, but you should take note of that. But beyond that, I don't have the data in front of me for that timeframe in 2007, so I really can't respond to you well on that.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Well, the mix -</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Do you have a follow-on, John?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Yeah, my follow-up &#x2013; as we think about 300 millimeter coming online, how do we model that from a gross margin perspective? Is it just incremental depreciation, or will you guys go through a couple quarters of kind of suboptimal yields that we need to kind of work into the model?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, clearly as we're ramping it up &#x2013; because even as we speak, we're ramping it up now &#x2013; we're experiencing costs there, because everything that we're doing there is non-inventoriable, so it's just being expensed. The way to think about the economics on that is generally speaking the die cost will be about 30% less than what the equivalent die would be on a 200 millimeter wafer. On analog parts, about 50% of your cost is in die and 50% is in the assembly and test, so you'll net probably about a 15% kind of manufacturing cost reduction in the apples-to-apples comparison to 8 inch. That's really at the product level, and so as we look at turning that into Analog revenue coming out of that factory, I think you can kind of model those numbers in and figure out the incremental gross margin we'll get out of that factory.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay, John. Thank you for your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>And we'll move to the next caller, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Doug Freedman with Broadpoint.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Great, thanks for taking my question, guys. Ron, you offered some great detail there on the ramp-down of the Wireless business in the baseband side. Can you actually talk more about what's happening on the business that you are keeping, the apps processors and the connectivity, and what your expectations are for that business throughout the year and into next year?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>You know, I don't have specific forecasts for you, but let me just say, it ties to a smartphone market where we believe you probably have smartphones growing, oh, on the order of 40% unit growth this year compared to last year. So being in a rapidly growing market is always a good thing.</p>
+          <p>And then secondly, it's our full expectation that over the course of time, we want to continue taking market share there, across both the applications processors, as well as the connectivity products. So it's a combination. The strategy, as you might guess, is very attractive market in terms of growth, which is why we've centered up our Wireless investment in that space and then also playing from the strength of our position in our technology with the OMAP applications processor. And then a lot of &#x2013; connectivity right now is a lot about integration of multiple connectivity technologies into pure chip, both for power consumption and costs, and we are absolutely leading that integration.</p>
+          <p>I think near-term on OMAP, the growth driver will be just the deployment of OMAP 3, which is our latest production part, and soon to be followed up with OMAP 4, as you might guess. So we've got a good pipeline of technologies, and we have a great pipeline of design wins. OMAP 3 will be ramping more than 50 design wins over the course of the next year into production, and we think that points to a very attractive growth opportunity.</p>
+          <p>Do you have a follow-on, Doug?</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Yeah. That was great color, thank you, Ron. Kevin, for you, on the OpEx side, you keep mentioning your target model 55 and 30 for the operating margins. That would imply 25% OpEx spending. You're actually running under that. Are we going to get ourselves in trouble here thinking that it stays at the present percentages, or should we be modeling that percentage to come back up? Then follow-on to that is what is your present plan for use of cash and your payout ratios?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Doug, on the OpEx, we are mindful of computing that OpEx percent with baseband removed, knowing it's going to be going to zero at some point. And so when you do that, we're actually at about 26%, so we will continue to be very disciplined in how we manage the OpEx for the foreseeable future.</p>
+          <p>As to the use of cash, you've seen us over the last few years using cash for both repurchases and dividend increases. I can't make any specific forecast on those because &#x2013; on dividend increases, of course, because they're subject to board approval. But as we continue to generate cash, we first try to deploy it internally for growth. And to the extent that we've deployed as much as we can effectively grow with, then we will continue to do buybacks and also continue to pay dividends to our shareholders. I don't have a specific payout ratio for you that I've tried to model in that I'd want to communicate right now.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. Thank you, Doug. And we'll move to the next caller, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Stacy Rasgon with Sanford Bernstein.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Hi, guys. Thanks for taking my question. Just one question on the operating margins by business unit. So in the core businesses, the non-Other stuff, they all compressed. Embedded compressed quite a bit differently than the others. It was down about 500 basis points versus about 100 to 200 basis points for Analog and Wireless. Can you give me some feeling, were the compensation increases and OpEx increases by business unit about the same, and what does that imply for the gross margins of those individual businesses and the change in those gross margins this quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Really the biggest thing that &#x2013; you've got to be kind of careful when you look at that, Stacy &#x2013; is we're still redeploying internally. I think Ron mentioned in his opening remarks that about 90% of our total R&amp;D is now going towards our three growth areas of Analog, Embedded Processing, and the non-baseband portion of Wireless. That transition has been under way for &#x2013; really very aggressively during 2009, but even started earlier than that. So what you're seeing on a quarter-over-quarter basis is a little bit more of just our redeployment. Again, some of that's coming out of the Other segment, going into Embedded Processing, and so on. We've also stepped up our staffing level there quite a bit on the sales side in order to accelerate the opportunities we see especially in the microcontroller space with the 32-bit opportunities that we see emerging on that side.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Kevin, I think you had a lot of TI employees listening very carefully to how you were going to answer that question. Stacy, do you have a follow-on?</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Got it. Yeah, I do. Around the Phase II for the 300 millimeter, can you give me a feeling for &#x2013; you bought 100 tools. How complete is the purchase for Phase II? Can you give me a feeling for, I guess, the degree of discount you're getting for this equipment versus what you paid for Phase I? I think Phase I was, what, 173 million bucks for the full 13,000 wafers per month?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah. Phase I actually supports part of Phase II also, by the way. One of the things that Phase II is really doing is some line balancing for us. So we spent about 75 million on those 100 tools that we mentioned earlier. And we'll be needing to acquire some more tools to complete Phase II. Overall spending will probably be below what we spent on Phase I, but that's really because you're line balancing. And what I mean by that is some of the Phase I equipment can support more than just the incremental $1 billion of revenue we've been talking about. It supports into the 2 billion number, but without some of the line balancing equipment that Phase II starts bringing in, you really can't get that kind of through-put. So that's what you're seeing happening here. And our cost for that equipment so far in Phase II has been quite similar to what we saw in Phase I.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Got it. Thank you, guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. Thank you, Stacy. So Kevin, what you just said was that the Phase II &#x2013; I'll just say it &#x2013; put it this way, the equipment purchase requirements for our second billion dollars of revenue at RFAB should be less than what was required for Phase I, which was the first billion dollars. Is that correct?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Correct.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. All right. And, operator, we're going to move to our final questioner here.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll go to Tim Luke with Barclays.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Thanks for fitting me in, Ron.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I didn't know it was you, Tim. Nah, I'm just &#x2013; go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Okay. Obviously, you were successful in building a bit of inventory in the quarter &#x2013; in the first quarter. Are you thinking that you're likely or planning to build some more inventory in the coming quarter? And as you've now made some progress in reducing the lead times, do you get the sense that your lead times, Kevin, based off what you see now, are likely with the plans that you have in place, to be at sort of normalized levels by, say, the end of the third quarter? Or do you think that could happen somewhat earlier?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Tim, on the inventory build-out, we won't get into specific forecasting of the inventory itself. I would just point out, though, as I mentioned earlier to one of the other &#x2013; earlier questions, at a 1.14 book-to-bill, clearly our orders are stronger than our outlook, which means we're getting orders that were probably out into the third quarter. And so in second quarter, we will begin to build not only for second quarter deliveries but also third quarter deliveries.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Right.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>And to the extent that the revenue continues to grow, of course, we'll have to build more inventory to support that. So you'd see some growth if in fact we expect revenue to increase in third quarter. But it's too early for me to give you a forecast on that.</p>
+          <p>As to when lead times reach a normal level, I think our customers would love it if I could say right now, but the truth of the matter is we do plan on continuing to put equipment in place for each of the quarters of 2010, and it's really going to be a function of just how strong demand continues to be. If it keeps on coming in at the upper end of our forecast ranges, it's going to take us a little longer to get that lead time cleared up. But if it comes in around the midpoint or lower, we'll clean it up sooner. Clearly it is in our interest to try to get it cleaned up as quickly as possible, and I'd like to say that 2010 puts it behind us.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>The other thing &#x2013; follow-up, if I may &#x2013; is given what you've seen, and you had a stronger-than-expected beginning of the year in the first quarter &#x2013; than seasonal traditionally &#x2013; and maybe seasonal-ish in the second quarter, do you feel that you're now entering an environment that's likely to play out for the second half of the year largely according to seasonal norms, given what you see? Or do you feel, given the strength of the beginning of the year, that you might expect it to be somewhat more moderate than the norm? And obviously Rich in recent speeches has been talking about how it's unusual to see a book-to-bill of more than 1 for five quarters, and this is the fifth quarter. But on the other hand, it seems to be you're saying that you've seen quite good order strength through the beginning of this. Do you have any further thoughts that you might be able to sort of share or frame with us in terms of expectation on how that book-to-bill might begin to trend? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Luke, I could give a short answer and say I probably don't know the answer to that question. But I would just say that what we're seeing here is the results of &#x2013; economies are generally growing again, and that consumers are beginning to spend again. We're seeing it in the automotive space, we're seeing it in the consumer space, we're seeing industrial coming back. We know that inventories remain very lean, as we've been talking about, and it doesn't appear to us that they are likely to become that filled up, if you will, in the first half, so that would suggest that we will continue to see some interesting growth. As to exactly what size, I don't know how to forecast that for you right now.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>So, Tim, the one thing I would just add is there hasn't been a whole lot normal about this downturn and the subsequent recovery that we've gone through. I mean, I think the last 18 months has been highly unusual, so I wouldn't try to force-fit it into any kind of normal pattern matching. And then I think &#x2013; the other comment I would make is if you look at our second quarter outlook, of the middle of the outlook really is pretty seasonal for TI in terms of a second quarter. So we don't have an outlook that we're issuing for second half, but at least the next quarter, we can affirm our belief is that it should be seasonal at least in the middle of that range.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay, Tim. Thank you. And for all of you, thank you for joining us. A replay of this call is available on our website. Good evening.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>That concludes today's conference. We thank you for your participation.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1250504" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q3 2009 Earnings Call</title>
+    <date>2009-08-26</date>
+    <companies>
+      <company>1403</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">John Ferren, Vice-President, Investor Relations</participant>
+      <participant id="2" type="corprep">Gerald T. McCaughey, President and Chief Executive Officer</participant>
+      <participant id="3" type="corprep">David Williamson, Senior Executive Vice-President and Chief Financial Officer</participant>
+      <participant id="4" type="corprep">Tom Woods, Senior Executive Vice President and Chief Risk Officer</participant>
+      <participant id="5" type="corprep">Sonia A. Baxendale, Senior Executive Vice President; President, CIBC Retail Markets</participant>
+      <participant id="6" type="corprep">Richard Nesbitt, Chairman and Chief Executive Officer, CIBC World Markets Inc.</participant>
+      <participant id="7">Steve Theriault</participant>
+      <participant id="8">Andr&#xE9;-Philippe Hardy</participant>
+      <participant id="9">Michael Goldberg</participant>
+      <participant id="10">Brad Smith</participant>
+      <participant id="11">Brian O'Donnell</participant>
+      <participant id="12">Sumit Malhotra</participant>
+      <participant id="13">Mario Mendonca</participant>
+      <participant id="14">Ian de Verteuil</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good afternoon, ladies and gentlemen. Welcome to the CIBC Third Quarter Results Conference Call. Please be advised that this call is being recorded. To reduce the audio interference within the boardroom and over the conference call line, please turn off your BlackBerry for the duration of the meeting.</p>
+          <p>I would now like to turn the meeting over to Mr. John Ferren, Vice President, Investor Relations. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, good afternoon. Thank you everyone for joining us today. This afternoon our management team will discuss CIBC's Q3 results released earlier this morning. This conference call is being audio webcast and will be archived later this evening on CIBC.com. We'll follow the usual format of some prepared remarks from CIBC's senior management team, followed by a question-and-answer period.</p>
+          <p>Before we begin, let me remind you that any individual speaking on behalf of CIBC on today's call may make forward-looking statements that are subject to a variety of risks and uncertainties. Certain material factors or assumptions may be applied, which could cause CIBC's actual results in future periods to differ materially from the conclusions, forecasts or projections in these forward-looking statements. For more information, please refer to the note about forward-looking statements in today's press release.</p>
+          <p>With that, let me now turn the meeting over to CIBC's President and Chief Executive Officer, Gerry McCaughey.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you for joining us. Let me remind you that my comments may contain forward-looking statements and actual results could differ materially. Following my remarks, our senior officers will provide an update on their respective areas.</p>
+          <p>Today CIBC reported a net profit for the third quarter of $434 million and cash earnings per share of $1.04. Earnings apart from items of note were $1.36 per share. In our items of note we have reported a gain from our structured credit run-off portfolio that for many quarters has created losses for CIBC. This is somewhat encouraging as in the past we have highlighted structured credit as our area of greatest concern. We had a positive outcome this quarter from having decreased our positions through risk reducing transactions, settlements with our financial guarantor counterparties, write-offs, as well as improved market conditions this quarter and some amortization.</p>
+          <p>In the items of note, you will find that the largest item was mark-to-market losses through our normal course loan hedging activities. In previous quarters we had gains in this area due to deteriorating credit conditions. This quarter, as in previous quarters, narrowing credit spreads reduced the previous gains. While this did have a negative impact this quarter, over the longer-term it is very encouraging, as we do own the offsetting loans that these items are hedging. These loans are not mark-to-market. That will bode well for future credit performance in our loan portfolio. David Williamson will review these and other items of note that impacted our results in his presentation.</p>
+          <p>Loan losses were somewhat higher in the quarter. As we expected we booked higher losses in our discontinued U.K. and U.S. corporate loan portfolios, as well as in our U.S. commercial real estate portfolio. Cards losses were also higher. As you will hear from Sonia Baxendale, delinquency rates have improved on a quarter-over-quarter basis, and on a consecutive month-over-month basis, and that should lead to lower flow write-offs moving forward in quarters ahead. Canadian corporate and commercial loan losses were up as well in the quarter, although as Tom Woods will comment on this, we believe that we will see improvements in the quarters ahead.</p>
+          <p>Again, we will report a strong capital position this quarter. On our Tier 1 capital ratio we improved to 12% through the end of July, up from 11.5% last quarter. And our total capital ratio improved to 16.5% from 15.9 at the end of April. As we stated previously in addition to this capital strength, it should be noted that we have set aside large amounts of risk-weighted assets for any remaining losses that we might experience in our structured credit portfolio. This means these losses, if they occur, such as through writing off financial guarantor CVAs [credit valuation adjustments], will have a significantly reduced impact from a capital viewpoint.</p>
+          <p>In summary, our capital strength is a clear strategic advantage for CIBC, both dealing with the unknown environment of today as well as opportunities for the future. Turning to our business result, CIBC retail markets performed well during the quarter with net income of 416 million and revenue of 2.3 billion. We had solid revenue growth in both personal and business banking, while revenues in wealth management also improved in what was a better market environment from the previous quarter. We continue to invest across all our client access points: branches, ABM, online, and telephone banking.</p>
+          <p>Expenses remain well contained and our combined revenue expense mix provides good operational leverage that is aligned with our strategic imperative of consistent and sustainable performance. Sonia Baxendale will provide a more detailed update on our progress in her remarks.</p>
+          <p>In wholesale banking, revenue was $572 million and net income was 179 million, excluding items of note. These results for wholesale banking reflect the progress of our core business strategy within our risk context that we set forward in 2008. Wholesale banking has a good strategy in place and several initiatives that are making positive progress. Richard Nesbitt will comment on these further in his remarks.</p>
+          <p>During the quarter, we continued to managed our structured credit run-off portfolio. We commuted our U.S. residential mortgage market exposure with a financial guarantor and restructured our non-U.S. residential market, market exposure with the same counterparty for a gain of $163 million. We terminated 2.8 billion of written credit derivatives in our correlation book, for a gain of 8 million. We terminated 494 million of written credit derivatives with exposure to commercial mortgage backed securities for a gain of $49 million. And normal amortization reduced the notional amount of credit protection purchased from financial guarantors by $215 million.</p>
+          <p>Gains from these activities were offset by market driven CVAs on financial guarantors and other items. However the net activity this quarter led to a positive result in structured credit. We are currently continuing to proactively manage this portfolio, and reduce our positions, and in this quarter we are finding further opportunities to do so. David will cover our progress in this area in his presentation.</p>
+          <p>While investing in our business, we have continued to effectively manage our expenses, total expenses for the third quarter were $1.7 billion down for 1.73 billion a year ago. Excluding items of note, our cost of revenue ratio was 57.2%. This expense level continues to be better than our base line target of 1.78 billion.</p>
+          <p>While making progress on expenses, very importantly we are investing across our businesses. Key areas of focus in retail markets include broader access to more branches and extended hours, including Sunday openings, and enhancements to our strong advisory capabilities, Sonia will talk more about our actions in these areas in her remarks.</p>
+          <p>In wholesale banking, we have also identified several opportunities that are encouraging, including the areas of corporate lending, foreign exchange, securitization and electronic trading. Electronic trading is a secular growth area where we have had strong results in market leadership this year. Richard will comment further on our wholesale banking opportunities in his remarks, referring to both the opportunities of this quarter, as well as the opportunities I had for this business.</p>
+          <p>The area of productivity will remain focused on our normal run rate expenses, while investing to support growth in our revenue. In summary, CIBC's core business performance this quarter was solid, given the prevailing economic environment and our cautious risk approach. We showed progress in both our retail and wholesale banking businesses that we believe are establishing momentum. In order to reinforce this momentum we are continuing to invest in our businesses while watching the external environment carefully and maintaining a prudent approach to these uncertain times, while keeping in mind that uncertain times do give rise to further opportunities, which we believe we are in the process of taking advantage of. Now let me turn this meeting over to David Williamson for his financial review. David?</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thank you, Gerry. My comments also contain forward-looking statements and I would remind you that actual results could differ materially. I'm going to refer to the slides that are posted on our website, starting with slide five, which is summary of our results for the quarter.</p>
+          <p>We reported earnings per share this quarter of $1.02 or $1.04 on a cash basis. Our items of note for the quarter are listed on the top right of the slide totaling $0.32 per share, and our cash EPS excluding these items is therefore $1.36 per share. I will summarize each of the items of note briefly. The largest item this quarter was $0.27 per share of a loss resulting from the impact of improved credit conditions on our Canadian corporate loan hedging program. As Gerry said, the improvement in this &#x2013; credit conditions would indicate a better outlook for our Canadian corporate loan portfolio and should result in better loan loss experienced in the longer term. In the short term, improved credit conditions have a negative impact on our results through the mark-to-market of our corporate loan hedging program.</p>
+          <p>Next, we reported gains of $0.17 per share on our structured credit run-off business. I'll cover this in more detail when I turn to the next few slides. We had loan losses in our U.K. leveraged loan and other run-off portfolio of $0.15, and we increased our general allowance by $0.07 per share. We had four other items of note that net to no impact on a per share basis, and a $2 million pre-tax amount. The details associated with these four items are provided on slide 38 of the presentation.</p>
+          <p>Excluding these items of note, third quarter results were helped by higher revenue in wholesale banking and higher volumes in our retail markets businesses, but were hurt by higher loan losses and lower treasury revenue. As Gerry mentioned, we reported a strong capital position this quarter with a Tier 1 ratio of 12% up from 11.5% last quarter. The next slide provides a summarized statement of operations on our reported basis showing net income for the quarter of $434 million.</p>
+          <p>Turning now to a summary of structured credit run off we had net gains this quarter totaling $95 million versus losses in Q2 of $475 million. First, we had losses of $148 million due to credit valuation adjustments [CVAs] on our hedged positions, primarily driven by deterioration in the credit quality of financial guarantors. We also had losses on our unhedged non-USRMM positions totaling a $151 million, driven by the narrowing of spreads on our underlying assets relating to the unmatched purchased credit derivatives. Next, we had gains of $41 million on our unhedged USRMM market positions, driven by an improvement in amortization. And we had $90 million of a gain on purchased credit derivatives, hedging, held-to-maturity CLOs and trust preferred securities.</p>
+          <p>We also had gains on termination and commutations of $220 million during the quarter. As Gerry mentioned, we continue to take action to reduce our positions within structured credit run-off portfolio this quarter. We commuted our U.S. residential mortgage market contracts with the financial guarantor, and transferred our remaining non-USRMM contracts to a new entity, as part of a restructuring which resulted in a gain of $163 million.</p>
+          <p>We also terminated 2.8 billion, or 2.6 billion U.S., of written credit derivatives in a correlation book, resulting in a gain of $8 million, and we terminated 494 million, or 452 million U.S., of written credit derivatives with exposure to commercial mortgage backed securities, resulting in a gain of $49 million. In addition, normal amortization reduced the notional of our purchased credit protection from financial guarantors by $215 million.</p>
+          <p>The other line includes a gain on a Montreal Accord-related note and a decrease in credit valuation adjustments against other than financial guarantor derivative counterparties, partially offset by increased treasury allocations and direct expenses, all of which net to a $43 million balance.</p>
+          <p>Slide 8 is a summary of our financial guarantor protection purchased against our U.S. residential mortgage market exposure. In U.S. dollars, this slide shows that we have 597 million of credit protection from two remaining counterparties, which now has a fair value of $527 million. This is well below Q2 levels due to the commutation of the contracts I mentioned previously, with the financial guarantor reported on this slide and in our other disclosures of Counterparty V.</p>
+          <p>We have taken cumulative credit valuation adjustments of 368 million, and therefore have a remaining net fair value of 159 million, as shown on Column D. In addition to this balance, we have a remaining value of 70 million shown as the difference between Columns A and B, for total remaining exposure of $229 million.</p>
+          <p>Slide 9 outlines the counterparty protection provided by financial guarantors where underlying assets are primarily CLOs and corporate debt that are not related to the U.S. residential mortgage market. Looking at the total remaining protection as shown at the bottom right of the slide, our net receivable from guarantors was 1.6 billion at July 31, after a cumulative valuation reserve of 1.9 billion. We had total risk-weighted assets against the non-USRMM portfolio already included in our July 31 Tier 1 ratio of approximately 8.5 billion U.S.</p>
+          <p>This can be split between risk-weighted assets of 4.2 billion, relating to the receivable from the guarantors, and 4.3 billion relating to the risk remaining in the underlying assets. If we had to write off the entire 1.3 billion U.S. net receivable, the impact would be approximately 55 basis points. If we recovered 15% of our gross receivables from financial guarantors in this portfolio, the impact on our Tier 1 ratio would be approximately 20 basis points. If we held the credit quality of financial guarantors constant, but assumed asset values declined $0.80 on the dollar, from the current $0.85, the impact on our Tier 1 ratio would be approximately 40 basis points.</p>
+          <p>Slide 10 highlights the progress that has been made in reducing our underlying non-USRMM exposure to a notional balance at the end of Q3 of approximately $18 billion U.S. This exposure is down over 3 billion U.S., as a result of the transactions that have been completed since the end of the prior quarter. As this slide shows, we now have over $5 billion of excess protection from financial guarantors. The addition of the matched and unmatched columns on the slide, tie back to the total shown on Slide 9.</p>
+          <p>Turning now to our business results, starting with retail markets on Slide 11. Revenue for retail markets this quarter was 2.34 billion, down slightly from Q3 of last year. Personal banking revenue of 1.5 billion was up 40 million or 3% from Q3 of last year. We experienced strong volume growth across most of our key products, as well as higher lending spreads, partially offset by narrower deposits spreads, lower mortgage refinancing fees, and lower treasury allocations.</p>
+          <p>Turning to business banking, revenue of 343 million was up 3 million or 1% from Q3 of last year, as improved customer rate changes, and to a much lesser extent higher treasury allocations, were offset by the impact of a lower interest-rate environment.</p>
+          <p>Slide 14 highlights the results of our wealth management businesses. Wealth management revenue of 318 million was down $75 million or 19% from Q3 of last year. Weaker equity markets have resulted in a decline in asset value-based fee income and lower trading commissions.</p>
+          <p>FirstCaribbean revenue of 169 million was up 4 million or 2% from Q3 of last year, mainly due to the impact of a weaker Canadian dollar and higher treasury allocations. These factors were offset partially by narrower spreads and lower securities revenue. Other revenue was relatively unchanged from Q3 of last year as treasury allocations were consistent with the prior year.</p>
+          <p>Retail markets net income was 416 million, down 149 million or 26% from the prior year. This decrease was driven by a higher provision for credit losses, due primarily to higher write-offs in the cards and personal lending portfolios; a topic that Tom Woods will discuss in his remarks. Expenses were down 53 million, or 4% from last year, as we continue to be focused and disciplined in managing our costs.</p>
+          <p>Slide 17 shows our net interest margins. On the bottom row, you can see that total retail markets net interest margin was down 7 basis points versus the same quarter last year, as favorable pricing was more than offset by the lower interest-rate environment.</p>
+          <p>Now turning to wholesale banking, revenue of 531 million in Q3 was helped by net gains in structured credit run-off. As noted on the slide, revenue adjusted for the impact of structured credit is 421 million. If we were to exclude all of the items of note related to wholesale banking, revenue for Q3 was 572 million, up 26 million from the prior quarter on the same basis.</p>
+          <p>Looking at the individual lines of business, starting with capital markets, revenue was 325 million compared with 318 million in Q2. Higher revenue in our foreign exchange business, and higher debt issuance activity was partially offset by lower equity trading revenue.</p>
+          <p>Corporate and investment banking revenue of 221 million was up 21 million from Q2, driven by gains in our core merchant banking portfolio, higher revenue in corporate credit products, and U.S. real estate finance. Other revenue was negative 9 million in Q3 and was driven by the items of note related to wholesale banking that I outlined at the beginning of my remarks.</p>
+          <p>Wholesale banking net income was 86 million in Q3. Excluding structured credit, net income was 21 million. If we were to exclude all of the items highlighted as items of note related to wholesale banking, net income for Q3 was 179 million, down 21 million from the prior quarter on the same basis, mainly due to higher loan losses.</p>
+          <p>The largest item of note in wholesale banking results is the mark-to-market loss of 106 million relating to losses in our Canadian corporate loan hedging program. As I said earlier in my remarks, this loss was caused by the improvement in credit conditions.</p>
+          <p>Turning now to our total expenses and our performance versus our target, which is to hold expenses flat relative to annualized fourth quarter 2006 expenses. We have made adjustments, as noted on the slide, to ensure a reasonable comparison. As you can see, we are far ahead of our objective, due to continued expense discipline.</p>
+          <p>Thank you for your attention, and at this point, I will turn it over to Tom Woods.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Thanks, David. My comments also contain forward-looking statements, and actual results could differ materially. With respect to credit risk on Slide 43, specific loan loss provisions were 505 million or 121 basis points of net loans and acceptances.</p>
+          <p>The quarter-over-quarter growth of 176 million was due to: first, an increase of 134 million in provisions for corporate and commercial loans. This was mainly due to losses in our U.K. run-off and U.S. real estate finance portfolios.</p>
+          <p>And second, an increase of 42 million in consumer lending, where cards and personal lending losses accounted for most of the increase, due to higher bankruptcies and delinquencies flowing through to write-off. I will discuss the cards portfolio further on the next slide.</p>
+          <p>Gross impaired loans increased by 405 million this quarter, primarily related to our U.K. run-off and U.S. real estate finance portfolios. Otherwise, gross impaired loans in our consumer portfolios were up only marginally in this quarter.</p>
+          <p>On slide 44, our current net credit loss rate in Q3 was 7.1%, versus 5.6% last quarter. As we've discussed on our webcasts for the last several quarters, we've deployed several account management initiatives in this area. While controlling the dollar value of losses, this is also constraining growth in balances outstanding, which has a tendency to increase today's loss rate in percentage terms.</p>
+          <p>If we'd grown at industry growth rates in 2009, our NCO rate would have been 51 basis points lower. News that could prove to be encouraging, although not a certainty, is that delinquency rates started to improve during the quarter. Loan losses in future quarters will be driven largely by the extent to which the early signs of economic recovery take hold; together with, in the case of our corporate loan book, company-specific events.</p>
+          <p>As you know, we've had over five years with very few corporate loan losses since we reduced risk levels in this portfolio starting in 2002-2003. In many cases, the decision whether to impair a credit or take a provision is a judgment call. In these cases, we believe we've erred on the side of conservatism.</p>
+          <p>With these caveats, our current outlook for the next few quarters is that current loan losses should be relatively stable, before improving as unemployment levels and bankruptcies improve. The outlook for other unsecured loans, as well as corporate loans, is positive relative to Q3.</p>
+          <p>Turning to market risk, slide 45 shows the Q3 distribution of revenue in our trading portfolios. In Q3, all but three trading days, or 95% of the time, had positive revenue, essentially the same as last quarter and up from 67% in the third quarter of 2008. The trading revenue here does not include the impact of mark-to-market value of our structured credit assets, as this analysis is carried out only at each month end.</p>
+          <p>Slide 46, the Tier 1 ratio, as David said, was 12% at July 31, up from 11.5% at the end of Q2. The 50 basis point increase was the result of retained earnings, and lower risk-weighted assets, mainly due to the strengthening Canadian dollar and lower market risk.</p>
+          <p>I'll now hand it over to Sonia Baxendale, Head of Retail Markets.</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Thanks, Tom, and good afternoon everyone. My remarks may also include forward-looking information and actual results could differ materially. Revenue growth in our personal and business banking segments was up 8.8% quarter-over-quarter, while our wealth management business experienced revenue gains of just over 7% in the quarter in what was a better market environment from Q2.</p>
+          <p>Across retail markets, we continued to invest in our branch network to provide even greater access to advisory solutions for our clients. Our investments in access not only included branch openings, but expanded hours in existing branches as well. We opened or expanded 11 branches this quarter bringing our total year-to-date total to 28. We remain on track to open, relocate or expand 40 branches by the end of the year. We now have 39 branches operating on Sunday across the country, which will increase to 45 by the fourth quarter.</p>
+          <p>Supplementing our branch strength is online banking. CIBC was again voted the best consumer Internet bank in Canada with the best online consumer credit site in North America for the second year in a row by Global Finance magazine.</p>
+          <p>In personal banking, funds managed increased 4.2% quarter-over-quarter with growth coming from deposits and secured lending. Strong growth in deposits with an 81 basis point increase in market share versus the prior quarter, was driven by a new high-interest savings account which was launched in May. This new account is available to clients through the Wood Gundy brokerage network and also third-party brokerage channels. Our deposit growth was also supported by our strong checking account summer campaign and continued strong tax-free savings account sales. Combined, these initiatives contributed to strong balance growth.</p>
+          <p>In personal lending and mortgages, real estate secured lending was up 6% on the year and 2% quarter-over-quarter. Unsecured lending was flat on the quarter. While losses were up slightly, they remain well within expectations in the current economic climate.</p>
+          <p>In credit cards, our cautious approach to growth to manage portfolio risk in the current environment has resulted in a stabilized and now improving delinquency trend. Delinquencies have improved both on a quarter-over-quarter basis and on a consecutive month-over-month basis throughout Q3. In addition, all stages of delinquency, early and late stage delinquencies, have decreased quarter-over-quarter. This will result in lower flow write-offs moving forward.</p>
+          <p>However, consistent with the broader industry trends year-to-date, personal bankruptcies have continued to rise and are a driver in our overall net credit losses. Overall, the portfolio was performing in line with the market reality of higher levels of unemployment. Our spot cards outstandings remained flat this quarter at 13.8 billion.</p>
+          <p>Moving forward, we anticipate growth rates within low to mid single-digit range related to ensuring ongoing credit quality in our credit cards portfolio. Business banking revenue is up 10% quarter-over-quarter. We remain comfortable with credit quality despite a moderate increase in the risk profiles driven by the current economic climate.</p>
+          <p>And as I mentioned earlier, we saw improvements in our wealth management business in the third quarter helped in part by the market conditions. Mutual funds continued to experience strong long-term fund flows with the second highest net sales of long-term funds in the industry.</p>
+          <p>The majority of our funds are performing above median on a one-year and three-year basis. Money market funds, however, continue to experience migration to other products. Improving markets benefited our retail brokerage businesses with assets under administration up 8.8% in Q3 versus Q2, and trade volumes up as well in the quarter. We continue to focus on providing industry-leading advice and building capabilities in the areas of tax and estate planning.</p>
+          <p>In summary, CIBC Retail Markets experienced solid revenue and funds managed growth this quarter. At the same time, we continue to invest in our core businesses in order to achieve CIBC's overall objective for consistent, sustainable long-term growth.</p>
+          <p>Thank you. I will now turn it over to Richard Nesbitt.</p>
+        </plist>
+      </speaker>
+      <speaker id="6">
+        <plist>
+          <p>Thank you, Sonia. My comments may also contain forward-looking statements and actual results could differ materially. I will review third-quarter performance for CIBC's wholesale banking business and provide an update on our business strategy.</p>
+          <p>When we introduced our strategy last year, we committed to repositioning our business for consistent profitability within a rapidly changing wholesale banking marketplace. This strategy focuses on traditional areas of strength in our capital markets and our corporate and investment banking businesses.</p>
+          <p>Results for the quarter show continuation of a trend towards solid, high-quality earnings aligned with CIBC's risk appetite. This is a positive signal for our business, given our focus on client-driven growth and a disciplined approach to risk.</p>
+          <p>In our corporate and investment banking businesses &#x2013; which are comprised of investment banking, corporate credit products, U.S. real estate finance, and our core merchant banking &#x2013; revenue was up from posted increased revenues over Q2. A key driver of this performance in this area has been the decision we made earlier this year to manage our corporate lending capability separately from our investment banking activities.</p>
+          <p>Now, lending supports all of our activities across wholesale banking. Today, our corporate credit products business serves the entire large corporate Canadian market. At a time when many foreign banks have withdrawn from the marketplace, and many Canadian banks are at limits on certain names, this initiative has worked very well.</p>
+          <p>In addition to maintaining a high level of service to existing clients, we're adding a number of new accounts. We've added four new investment-grade accounts already this year, and we have a pipeline of at least half a dozen new accounts on their way. Revenues have steadily increased over the past three quarters, and this is a strong, core, traditional business for CIBC that will continue to be a significant contributor to earnings moving forward.</p>
+          <p>In investment banking, revenue in Q3 was comparable to Q2, and as was the case last quarter, strong fees from equity new issues were offset by slower M&amp;A and advisory activity. According to Bloomberg, CIBC is the leading Canadian equity underwriter in this calendar year. That's from a both &#x2013; from a market share and a deal credit perspective.</p>
+          <p>Revenues in our real estate finance business were strong. However, we did see some loan losses attributable to the challenging economic and real estate market conditions in the United States. We are closely managing this portfolio, but as I said previously, we do expect to see some additional losses given the commercial real estate environment in the United States.</p>
+          <p>Our capital markets business, which is comprised of cash equities, fixed income currencies and distribution, and derivatives and strategic risk, performed well in this quarter. Our fixed income and global derivatives businesses continue to deliver solid revenues, improving on what was a strong second quarter. We have solid trading income and new issue activity. Year-to-date, we're the leading investment bank in government new issues on a bonus credit to lead basis, also according to Bloomberg. And we are enhancing our position in corporate debt new issues, and we've recently hired a new senior manager to lead this activity.</p>
+          <p>Another opportunity for the future is our securitization business. We took early and aggressive action to reduce our commitments to lower-margin asset-backed conduit programs. This business previously operated a profit spread of about 20 basis points. We continue to reduce the scale of this legacy business, which peaked at about 17 billion and is down to $5 billion today.</p>
+          <p>The securitization market now offers very reasonable margins. CIBC has industry leading capabilities in this area. Therefore, we are now seeking to expand our presence for key clients in our conduit programs for assets that are consistent with the liquidity characteristics of these programs.</p>
+          <p>And we're also looking at opportunities to assist our clients in longer-term assets securitization products. This strategy is already producing results. We had a significant number of deals in the pipelines, including three specific transactions for about $1.4 billion in total that we've either completed or are in the process of completing.</p>
+          <p>Our foreign exchange business continued to perform well and we believe has the potential to be a strong and growing contributor to our future growth. And we continue to build on our capabilities in the electronic delivery of capital markets products. We've recently hired a senior professional with direct international experience in e-commerce to lead us in this initiative.</p>
+          <p>In our cash equities business, we are leading the industry in equity trading market share by value executed and by trades executed on the TSX in calendar year 2009. And we've also seen strong equity new issue activity in the quarter.</p>
+          <p>So in summary, last year, we told you about our new strategy and what we intended to accomplish in 2009. And we are beginning, we believe, to see this reflected in our results. There are many opportunities ahead to grow our business, and we are optimistic about the future.</p>
+          <p>I will now turn it back to John Ferren.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, Richard. We are ready to take questions on the phone.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you. We will now take questions from the telephone lines. <mark type="Operator Instructions" /> The first question is from Steve Theriault from Bank of America. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thank you. A question probably for Sonia. Sonia, the retail NIM was quite a bit higher this quarter. Can you talk a little bit about sustainability and what the biggest drivers were in Q3 to that improvement?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes, the primary factor in the retail NIM was re-pricing on credit and the prime BA on that front. So I would expect it to remain pretty much in line with where it was this quarter on a go-forward basis.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay, thanks. Another quick one if I might? The U.S. real estate finance exposure looks like it was about 2.4 billion. Probably a question for Tom. That's split between what you're calling construction &#x2013; a construction program and an interim program, weighted quite heavily to the interim program. Should we think of those as any different, or are they really just construction lending exposures?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Well, they are a little different. I mean construction is just as the name implies, it's starting from scratch. Interim is a little lower risk in that it is generally renovation, refurbishment, where there's already lease up. But they are generally both pretty low risk, given the relationships we've got with the sponsors and the locations, but interim is just one step farther along.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay. If I could squeeze one more in. Just on the card securitization front, I noticed card securitizations were down about 0.5 billion or so I think on the quarter. Is there anything going on there, anything that you'd like to highlight, or is it just timing or a replenishing issue with respect to those structures?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>No, nothing Steve, going on there particularly. Just, they are rolling off. Just -</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Just maturities?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>You're welcome.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from Andr&#xE9; Hardy from RBC Capital Markets. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>I just want to start with a clarification. I hear the comments that business loan losses are expected to decline from the current quarter. On page nine of the report to shareholders in the outlook section, there's a comment about wholesale banking provisions expected to increase. Are we just dealing with a different starting point, or did I mishear something?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Andr&#xE9;, it's Tom. I mean, we had &#x2013; in my comments mainly it's just to start with. I mean, we've had, I would think, exactly 22 quarters where you've had essentially no loan losses in this space, and driven by the de-risking that we started in '02, '03. This quarter, although we do a very detailed review every quarter, we did a particularly detailed review this quarter. And we had an unusually high number of &#x2013; I think it was 129 million. Now, about 83 of that was in our run-off book.</p>
+          <p>But even apart from that, a number of the loans that we impaired &#x2013; and this is reflected in the incremental allowances, which have been put on at a comparatively low level, I think reflecting the quality of these impairments being better than the rest of our book. As we look at it over the next two quarters &#x2013; and I've got a caveat this with, as I said in my comments, there is event risk in many of these, but we look at that number we booked in Q3 and see, at the moment, considerably lower provisions going forward in the next two quarters.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay, so the report to shareholders is probably just using 2008 as a starting point, whereas your comments are using Q3?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah, I don't &#x2013; I don't. Where are you exactly, Steve (sic) [Andr&#xE9;-Philippe]?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I think are you in &#x2013; are you looking at the outlook for 2009? I think you are absolutely, right. That's really looking at 2009 relative to longer-term trends, and what Tom's comments are more the quarters he sees coming up relative to this quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay, that makes sense. All right.</p>
+          <p>The other area I want to address is on page six of the sub-pack and it's the treasury allocations to the retail division where, if we were to look at the Q3 '07 to Q2 '08 experience and some of the subsequent quarters versus what we've seen now, there's a big change. And there's always going to be moving parts here, but are there any permanent things that would suggest lower treasury allocations? I.e. some of the early private securitizations that you've done which might suggest a lower treasury allocation than the past, or should we just take an average here and stick that in our models?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I'll make a couple of comments. So one, vis-&#xE0;-vis retail and treasury. This particular quarter, whether it's on a comparison to last year or a comparison of this quarter to the preceding quarter, treasury hasn't had a market impact on retail. It impacts retail in different places, but I'm talking about total treasury allocations to total retail; it's not a market impact. But I think your broader question, Andr&#xE9; , is kind of what would we &#x2013; what's the trend line on treasury, and how will it impact the bank and other elements of the bank this quarter and the quarters going forward? Is that fair to say?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Yes, I guess what I'm trying to figure out is, were there decisions that didn't work out that were near-term decisions? Or were there some decisions whereby you might have crystallized some of the high wholesale funding costs that we've seen?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Right. Yes, I can speak to that. On a year-over-year basis, overall treasury results, we've seen last quarter and this quarter, are declining; total treasury revenue is lower. And you're right on the mark as to the cause of that. So funding costs in the marketplace we see more recently are declining.</p>
+          <p>But what we're seeing in treasury is the impact of some of the actions that we've taken over the past two years to strengthen our balance sheet from both a capital and liquidity perspective. So the actions that are consistent and we've talked about in prior conference calls of our stated strategy to enhance capital and enhance the balance sheet. So these actions have been very positive for the balance sheet, its overall quality, and have been very good for our capital and our liquidity position. But there is that lag effect in terms of the costs of these initiatives hitting our P&amp;L in this quarter and for some quarters going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>That's helpful. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>You're welcome.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from Michael Goldberg from Desjardins Securities. Please go ahead. Mr. Goldberg, your line is now open.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>I have a couple of questions and maybe I will just stick with this theme on treasury. What seems curious, and maybe you can explain it, is how you could have lower treasury revenue in an environment of such a steep yield curve in both Canada and the United States.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Michael, good point, and I think there's opportunities that we and others are seizing to I think benefit from that yield curve. And that could very well impact future treasury results and mitigate the comments I just made to Andr&#xE9;.</p>
+          <p>But I think Andr&#xE9;'s comments were, treasury results are lower this quarter, lower last quarter. What's going on? And to that I was just saying we did take action to strengthen our balance sheet. We did take &#x2013; over the two-year period. And that did have costs because some of the raising was during a period of higher credit spreads. So that's embedded in our book and we'll feel that for some period of time. But you're right, Michael. There is an upper sloping yield curve that provides opportunity. The strength I think of our balance sheet and capital position would allow us to participate in that opportunity.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>To what extent do you think you would take positions or leave yourself sensitive to rates on the yield curve?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I'll tell you what, Michael. I think -- give me a chance at this point to hand over to Gerry and maybe he could offer a comment or two as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Michael, David has, I think, given a very good historical reference to the impacts that taking a conservative funding posture might have through the last period of time, particularly when the issues around the marketplace were at the highest level of stress.</p>
+          <p>In line with our risk posture at CIBC, we did elect to take advantage of a variety of funding opportunities during that period of time, and we took advantage fairly early on some of those funding opportunities. When the wholesale markets were not open, we went to the securitization market and did execute a number of transactions that freed up a fair bit of liquidity. But although we're not necessarily at the peak price, they were more expensive than usual. Those will run off, as David said, over time.</p>
+          <p>When it comes to the topic of the yield curve, it's actually interesting because there was a period of time when you had a very steep yield curve, but it depended on whether or not you were willing to go sovereign or credit related. And it's fairly recent that, if you wished to tend toward the sovereigns or in the direction of the sovereigns, that you had the type of steepness that you have today. Very simply put, if you used the U.S. side, the 10-year U.S. was at 2%-ish at its low and touched 4%-ish recently. And is now &#x2013; I don't have it off the top of my head, but I suspect it is in the 350-ish range.</p>
+          <p>So one of the elements of any gapping that one might do that needs to be considered is, what level of credit risk that you wanted to take into your gapping. And our preference has been in this area, first of all, to be very balanced and to take a somewhat laddered approach, but also we had possibly more hesitancy than the marketplace in terms of gapping outside of sovereigns due to the risk posture that we wish to maintain.</p>
+          <p>In recent periods and particularly the developments in the latest quarter, the opportunities to engage in some gapping have increased in the area of sovereigns, because the yield curve of &#x2013; out to two or five on the sovereigns has improved dramatically.</p>
+          <p>In that circumstance, I would tend to agree with you that the capacity to gap over time would improve your overall funding posture. So I think that one of the key elements that I wanted to discuss here &#x2013; David, I will turn it back to him in a second to conclude &#x2013; was there is an issue not just of treasury here in terms of what David is reporting on. There is a cross-bank issue in terms of how we look at a steep yield curve and what type of securities we may or may not wish to be engaged in when we are doing any form of gapping.</p>
+          <p>And so what that would say is that anything that we have been involved in has been somewhat more recent than the discussions that you would've seen in the media about the steepest yield curve available ever. We did not see it as being that steep when it came to the sovereign area. It was very steep on very high quality credit product, and there's only so much that one can do in that. And the question is whether or not it moves the dial.</p>
+          <p>In the very high quality credit product today, the way you would mix it in with the sovereign if you were to gap would be that you would probably do your gapping against the sovereigns and/or the highest end of credit quality or sovereign surrogate. And what you would do is you would probably use the credit assets today only on a floating basis so that you collected the credit rather than the interest rate risk.</p>
+          <p>The other element here is that the securitization marketplace, when it comes to basic elements, such as CMB securitizations for the Canadian marketplace, that is an area that we have always been active in. Not all Canadian banks do that, but over recent years, we adopted the policy of, number one, ensuring as many of our mortgages as we could, and then having them pool-ready. And we have been, on a consistent basis, a securitizer through the CMB program.</p>
+          <p>There was a period of time when the combination of mortgage pricing as well as funding costs, and what we could obtain in the spreads that were charged through the securitization programs led to putting mortgages into those programs and not having gains out of those types of securitizations. Normally, you do have gains because you are front-ending your profitability on your mortgages to a certain extent when you securitize.</p>
+          <p>That is an issue that has more recently normalized. And when I say more recently, again I am saying we find that it is very recently that it has normalized where we have two elements, both a supply of well priced product for the securitization and the pricing that we're being charged in the securitization has come into line. So you should see what used to be a steady flow of securitizations in that area that produced some form of turtle loss in the securitization line, that is something that I think might improve.</p>
+          <p>So the answer to both of your questions are there have been some changes in what the flow is off of securitization, as well as across bank element of choices that we make around GAAP that go beyond treasury. I will turn it back to David now.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>A fairly robust answer. I don't think I can add much to that. Thank you, Gerry.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>I had another question for Sonia? Hello?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes, Michael.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay. Could you tell us if the growth in your new high-interest deposit product came from money market funds? And If it did, what's the impact on contribution?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>It came from a number of places. Some of it came from money market; Some of it came from straight deposit accounts. A fair amount of it came from entirely outside of the bank. So it was a broad mix. Any that came from money market, ultimately those funds would have migrated elsewhere, as they already had been prior to the launch of that savings account, just given the rates to customers.</p>
+          <p>So it's not a &#x2013; it wasn't &#x2013; you could leave it in money market and it would stay there. It was a case of the funds would migrate regardless, and would they migrate to a product we had, or would they migrate outside of the Bank?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>And does the movement into that new product accounts for much of the $5-plus billion increase? No, I guess it's about -yeah, $5-plus billion increase in your personal notice deposits during the quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes it does. The other items that would account for the increase is the tax-free savings account and our unlimited checking account as a result of our campaign. But the largest share would be from that new account.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from Brad Smith from Blackmont Capital. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thank you very much. Just another question, Sonia, for you. You made some reference to the trend in delinquencies in the credit card portfolio. I'm just wondering, are there actual numbers you can provide us with respect to those trends, just to give us an idea of where you're at and where you started the year at?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Why don't I pass that over to Tom in terms of the actual numbers on that? What I can tell you is, every month throughout the quarter, they did continue to improve. The total would be about 12 basis points improvement. Tom may have, may be able to provide additional detail about that.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah, Brad, it's Tom. My colleague here is just pulling them up. Maybe, Brian we'll let you read them. These are actually public numbers filed in connection with our securitization, which are essentially undivided interests in our broader pools. Are you guys ready now, or do you want to come back?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>I'll take that now, Tom. In terms of our delinquency 90-day plus for cards, it's down about the 1.3% range now. That would be about 9 basis points within the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay, good, perfect. That's helpful. And then the only other question I had was with respect to the general provisions that you took. It seemed that the bulk of that provision ended up it looks like going into generals opposite the credit card portfolio. So, I am just trying to reconcile the commentary of the improvement in the delinquencies with the decision to increase the general.</p>
+          <p>So maybe just get some comments as to how you are determining your general provisions, how you determine how much and when to increase those?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>Sure, it's Brian again. You're right. Our general allowance is up about $42 million this quarter; 35 million of that would have been against the cards portfolio. And a good portion of that would relate to a question that was asked earlier about card securitization maturities cutting back on balance sheet. So when those maturities occur, you have to reestablish your general allowance. So about 15 million of that increase would be related to the securitization.</p>
+          <p>Otherwise, we have both a qualitative and quantitative approach to creating our general allowance. We look at both our delinquency trends, but also bankruptcy trends in the portfolio, and we review our methodology with Ausbee &#x2013; with our rate auditors from time to time. And I would say, in terms of the qualitative component, given the external environment, we've maintained a conservative stance at this point in time, and that changes each quarter as market developments occur.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay, so I guess it's safe to say there would be a fair amount of discretion in establishing the dollar amounts at any given quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>There is a degree of discretion for sure. Our methodologies link back, though, to our Basel II methodologies, which looked at the credit scores of our portfolio, probability of default distribution and loss given default distribution.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Terrific, thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from Sumit Malhotra from Macquarie Capital. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Good afternoon. I'll start with, David, on Note 10 for the report to shareholders, I'm just thinking about the tax reassessment. If I go back just three quarters, the Bank had a 486 million tax recovery associated with that file. I would just like to know that, at that time when that recovery was taken back into earnings, was there consultation with the CRA [Canadian Revenue Agency] at that point? I would think there would have to be in order for that to make its way to the income statement. And just if that was the case, why has this reappeared in such a short order of time in terms of a potential reassessment?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>The answer to your question, no, that &#x2013; what was done back in Q4 is just what it should be, with just our evaluation of what should be in our account vis-&#xE0;-vis this filing on Enron and our valuation of it. And not having had some discussion brokered arrangement with the CRA. It's just us evaluating our perspective on what we should have on the book.</p>
+          <p>So just speaking to what the development is in this particular quarter, and obviously you referred to Note 10, and we've provided a fair amount of information there. So I'd guide you or others to that information. But I'd say it's not surprising to me at least, that the government would want to continue the process of discussing or debating the issue through a reassessment, given the size of the balance involved. So the step of having a reassessment arrive right now is not, frankly, a surprise as how this process will evolve.</p>
+          <p>And the second comment I'd make is that in our disclosure we've noted our view, and which continues to be our view, which we believe we'll be successful in sustaining at least the amount that we have recorded as far as the accounting tax benefit that's in our books to date, including what was booked in Q4.</p>
+          <p>Beyond that, obviously I'm not in position to say much more, because the matter is evolving and now the process is commencing in some respects and it's now between us and the CRA to see this through.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>The thing is David and obviously I know we can't say too much. If I go back four years ago to when this charge was taken. And maybe Tom, who was certainly in your role at that time, could speak a little bit more on it. At that time, the tax savings, if I can call it that, associated with this expense were quite low, and it was something that we had been told would have to be discussed with Revenue Canada, with the CRA. So to hear that the Q4 recovery was at the bank's discretion is almost what it sounds like you're saying. It seems strange, just given what we had heard four years ago when this was first set up.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I think a better way to look at it, I mean this obviously is, has to be at our discretion as to what we put in our account. But I think the best way to look at it is these things evolve. So there's the event, there's the initial filing, there's &#x2013; my point being not that we never talk to CRA regarding years that are open are subject to assessment, those discussions do continue. And through the peak, we get a sense of how they are auditing our account and our confidence will expand or diminish through that process.</p>
+          <p>So it's not &#x2013; I didn't want to leave the impression, nor is it the right impression, that the Q4 adjustment was as a result of a specific discussion with CRA where they authorized or supported or whatever with respect to what we did then. What it was more a case of is that our &#x2013; Dennis Delugen and our tax team are continuing to work with CRA as they normally do, and through assessment. And it's their view as to how we feel about how the account or the filing is going to play out.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>So let's leave it there and move over to credit; one for Tom Woods. If I look at the items that drove provisions higher on business lending, obviously leveraged loans and real estate, we see the real estate construction, consumer goods and publishing being the bigger line items, certainly a large increase in those three categories for both provisions and nonperforming loans. I did not see very much in any of them on your net charge-offs page. Is this a timing issue, Tom, in that we are between the 90 and 180-day period, or is there some measure of security that perhaps you can talk to here?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Well, it's really timing, and it's not so much 90 or 180 days. It's, as it relates to corporate loans, you make provisions based on judgment as to collectability. Charge-offs occur when there is a very high degree of certainty on collectability. And these provisions, as I said earlier, were particularly high in Q3, and they are going to play out. And in some cases, to be frank, we are in recap discussions with these borrowers and we'd expect to get some of that money back to the P&amp;L. But in other cases, obviously it will have to go to write-off. But it's really a question of timing, and it will be typically some number of quarters before we resolve the charge-off outcomes.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>That was really my point, the fact that the provision has been taken, now the charge-off hasn't. There's still, in your view, a decent opportunity to get a chunk of that back?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Well, I don't want to lead you on too much. I mean, generally speaking, when you make a provision, you get some recovery but you don't get a large percentage. There is often some percentage back, but it's really a timing question. If history repeats itself, we will get some back, but I don't want you to conclude that we're going to get a lot of it back, because that rarely happens.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Thanks for your time.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from Mario Mendonca from Genuity Capital Markets. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Good afternoon. Tom, just a very quick point of clarification, when you were concluding your comments, your opening comments, you concluded with something like 'And something else, we have a positive outlook on.' Was it the corporate that you felt positive about on a going-forward basis, or was it on the consumer that you felt positive going forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Both personal and secured, and I'm comparing that with the reported provision in Q3, as well as the corporate. Let me just read the sentence. The line may have broken up if you didn't catch it.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Please.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>The outlook for other unsecured personal loans, i.e. other than cards, and corporate loans is positive relative to Q3. Now, that shouldn't be terribly surprising, particularly on the corporate side, given the historically large number we booked. But we wanted to just give you some comfort that &#x2013; I had a bunch of questions through the day which I've put off until this webcast about how we saw the future. So it was relative to that Q3 booking in both unsecured personal and corporate.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Other than cards?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Correct.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>And then for cards you said you felt that the write-offs could decline going forward, but that allowances could still increase because of bankruptcies and unemployment. Is that fair?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yes, I didn't say that. I said &#x2013; and I've got to really reiterate the caution here. Typically, we haven't given guidance on provisions just because it's the transparency or the visibility, rather, is harder to pin down. But I know there's a lot of interest in there.</p>
+          <p>So our view is on cards. We're going to see relative stability versus an admittedly high number in Q3, just given the current unemployment/bankruptcy situation. We had relatively low increases to the allowance in Q3, but bankruptcies were high. So although I didn't say this, I will say it now, which is essentially what you said, Mario. Changes to the allowance in Q4/Q1, if I had to make an estimate, are probably going to be a little higher than the number we booked in Q3, but we should start to see the benefit of these stable and now improving delinquencies that Sonia and I both referred to.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>On the write-offs?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yes, that's right.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Sorry, that was...</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>...how I interpreted it before, but thanks for the clarification. One final thing. And if &#x2013; I know this could open &#x2013; opens us up to a much broader, maybe even longer discussion, but if we could briefly touch on just the speculation that CIBC would look as far afoot as across the Atlantic, given everything that's going on at the Bank and the decisions made over the last few years to exit the U.K. and exit the U.S., should we even entertain the notion that CIBC would consider looking at taking an important position in a bank in &#x2013; outside of Canada or outside of even North America? Is that a reasonable thing for us to entertain?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>It's Gerry here. As we've stated previously and I repeat it today, our first priority is to strengthen our core businesses and to manage down our structured credit exposures and continue to prudently deploy our capital base, keeping in mind the risk environment that we have out there.</p>
+          <p>In terms of our core businesses, the opportunities at this time are very interesting within the markets that we are in. I would like to just touch on that for a moment. We are, as both Sonia, in Commercial Banking, and Richard referred to in terms of his corporate lending activities and securitizations, finding that the capacity to deploy capital in the asset environment that we are seeing today is quite healthy. And we do expect that to continue.</p>
+          <p>One of the important reasons why we expect that to continue in the near term is that in the low nominal rate environment &#x2013; and it could go up a bit from here and it would still be a low nominal rate environment &#x2013; it is possible now to engage in investment in assets, securitizations, corporate lending, commercial lending, where our clients are receiving some of the best nominal rates that they have received in terms of doing business with us. But at the same time, because of the low overall rate environment and the lower cost of funding, we can properly price these asset investments for the risk and profitability that we require.</p>
+          <p>So that environment where the balance between a healthy environment for our clients to borrow at good rates, while that's throwing off good risk-adjusted spreads for us in our core marketplaces, is something that is our primary interest. Furthermore, as you have heard both Sonia and Richard talk about, there are areas where CIBC, either because we were absent from them in the past due to a gap in our business or because we reduced our exposures there due to the risk characteristics and what we viewed as poor pricing characteristics, there are areas where we do have extra capacity to invest in assets in the marketplace. Just picking one example, Richard touched on the area of securitization, we have reduced our conduit business more than I believe any other bank in Canada, not because of the credit characteristics of the conduit business, but because of the liquidity characteristics, $17 billion of our asset conduits in the way that they were funded which was consistent with the industry, we did not believe had the right liquidity and profitability characteristics.</p>
+          <p>It took two years, but we have run those down now to 4 to $5 billion and there are a number of those we will maintain for core clients, but what we are finding and we have been researching and working on for several months is that there is a need in the marketplace for securitization, and I say, this is just one example, but we are finding multiple opportunities in our core markets. There is a need for securitization and we are willing to take it on balance sheet if it is at the right price and we are actually willing to do transactions individually tailored to our clients that have very healthy spreads and the right liquidity characteristics because they're term and we can match fund them if we wish.</p>
+          <p>So given that we have enthusiasm for the current opportunities within our core marketplace and that the core marketplace does require both investment of capital and funding to take advantage of these elements as well as in our core businesses in the retail area, and in the wholesale business we want to make both physical, technological and talent investments. Our primary interest is in our core businesses and that will we believe throw off over the next several years a level of return that will hit CIBC's strategic imperative of consistent and sustainable performance.</p>
+          <p>When one goes out beyond several years and presumes that we are successful in the activities that I just described, which have been well mapped out internally and are very strategic in our core market. If one presumes that we will be successful in that, the calculations of the returns that we can get by both expanding our asset base, as well as re-pricing the existing utility asset bases that we have, we would be in a position and we believe may in the near future be in a position of throwing off excess capital subject to the prudence that I talked about in the existing marketplace. And we are starting from a 12% Tier 1 ratio.</p>
+          <p>Therefore, we believe that it is necessary for us to stay abreast of developments in the marketplace and to be looking at the markets where we are or may be able to be involved. We have been looking throughout as I said in the past in &#x2013; for the last three or four years, I have made multiple visits to the U.S. to many institutions in order to stay abreast of developments, pricing and opportunities, and in every circumstance we found that we did not &#x2013; we were not able to reconcile the strategic path that these assets would give us or the price. We also have stated on several occasions that we are open for business in the Caribbean for consolidation within that area; we're in 17 countries and we have added small exposures there.</p>
+          <p>We are looking actively from a research and development viewpoint to make sure that we have the right platform in the future so that if we have the opportunity &#x2013; excuse me, if we have the means, i.e. the excess capital and confidence within that we've got our core businesses nailed, if we have the means to invest, that we have the right opportunities and the pipeline to make sure that you have those opportunities is something that you must build so you have a variety of items in the pipeline and it takes a long time to build a good pipeline.</p>
+          <p>So that's a very, very long way of saying that our core business right now is our area of focus and we believe that investing in that will throw off the most reasonable returns of the opportunities that are out there today. At the same time, strategically if one presumes that you will do well at that, we need to continue our research and development and build our capacity to ensure that we have outlets for our capital in the future and we are doing that on a regular basis and have been for several years.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Very briefly then, would you take a minority stake in a company now to prepare for that time in the future when you are successful and are spitting out excess capital, would you take the stake now so that you are ready for it later?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think that one of the things that I'd like to do is avoid specificity as to the means and I would like to focus on the opportunities, because rightly or wrongly so if I was specific as to the means, I think that people may read more or less into the response.</p>
+          <p>Let me talk about the opportunities out there and the variety of ways that one can participate. There are opportunities in many jurisdictions that we have and are looking at. One of the elements that is very important to us in anything that we do is that there is &#x2013; at the same time as we are becoming involved, that there is an element of, first and foremost, making a decision around whether or not the better investment is assets or institutions.</p>
+          <p>It's something that you heard me say in the past and I continue to say that. In the U.S. marketplace, one of things that we have found as we've looked through a number of institutions is we have found that there were assets that we understood extremely well, particularly since they required financing on a funding subordinated basis, and that the returns that we could expect with a level of due diligence we were able to conduct and a much lower risk point &#x2013; were higher through engaging in asset investment rather than institutional investment due to the uncertainties involved. As well as the fact that it is not necessarily a game for those who are not fully involved and we are not deeply involved in the U.S. due to fact that programs that are available through government are critical to understand in terms of investing in the environment in the U.S.</p>
+          <p>Therefore, our tendency in the U.S. marketplace, for instance, would be to buy assets rather than institutions or under certain circumstances to invest through partnerships with others, elements like that may include things like investing in certain funds or co-investing and that is a possibility. Elements such as co-investing carry with them a different characteristic than a minority interest does, because there are quite dramatically different regulatory requirements when one looks at investing through intermediaries such as a fund or investing as a sidecar co-invest.</p>
+          <p>In any event, the key element to that is &#x2013; and I'm talking about the U.S. marketplace, would be that if you did so, you'd have to decide beforehand what your objective was. And our objective in a case such as that would not necessarily be a path to a greater involvement; it would be to be involved with good investment characteristics and a hope for payback, but also at the same time being involved in the marketplace from a viewpoint of building greater contacts with the most knowledgeable people in the marketplace who have the greatest capabilities of doing due diligence, and who understand the most about the developing regulatory environment as well as the programs that are available from the various governments as to troubled institution acquisition.</p>
+          <p>So I think I've answered your question generically without trying to pigeonhole myself into the answer meaning more or less than I intended. Does that work for you?</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>It does. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from Ian de Verteuil from BMO Capital Markets. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thanks. I'm referring to page 24, the sub-pack, the delinquency data. When I look at the card business, this is the second quarter that the aggregate delinquencies are down. I mean, they've sort of been up and down in all the various buckets. I would have thought that with, greater than 90-day bucket being down that your charge offs would have been down as well. Is there &#x2013; so that's one thing.</p>
+          <p>And then the second, I would have thought with the overall delinquency impaired but not yet -- sorry, put but not impaired. With those declining for two consecutive quarters, I am surprised that you still have to build reserves against that. Am I missing something Tom in terms of what I should be linking charge offs and the allowance as reserve build to?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>No, Ian, I think your inference is quite correct, but there's another part to it and that is bankruptcies and along with that is even though our delinquencies on the face of it are declining, we've had a slightly higher roll rate through to the 180 days in terms of collectability. So although in Q3, we had a relatively low need to build up the allowance, because we built it up a fair bit a few quarters before that, bankruptcies were fairly high and it feels like &#x2013; and this is why I am only saying that the outlook for Q4 Tier 1 is a relative stability, They could even go up marginally, it's because even though delinquencies on the face of it in percentage terms are stable in Q2, slightly better in Q3, slightly more of those delinquencies are rolling through to 180 from a collectability point of view and bankruptcies are a little higher and that is more than offset what you'd otherwise think would be somewhat improvements due to the percentage bankruptcy coming down.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>So when I think about the consumer bankruptcies, which I look at, it doesn't seem as if the consumer bankruptcy rate has really moved for four months here. Am I missing something? Isn't it just the consumer bankruptcies that we get from a fee running 10,000 a month? Is there any other thing I should be looking at there, because it doesn't look as if it's changed much in four months now?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yes. I don't know whether we have those industry statistics, but could you --</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Maybe it's your own, the numbers you see internally and not those, but is there anything we could look at to give us an indication of what's going on with the book because it looks as if the delinquencies can go down but then the charge-offs can still go up?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Okay. Well, I'll hand it over to Sonia. Let me just reiterate, delinquencies can go down, but if a slightly higher component of those actually flow through to 180, the charge-offs do go up. Bankruptcies, in our case, were a little higher. And if in fact the industry data is flat, that means our bankruptcies were slightly higher than the industry. But Sonia do you want to add to that.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>So Ian, a couple of factors here. One, when you look at the provisioning, the modeling is based on a 12-month average, and so it is a lagging indicator. So that would be one factor that you should consider. The second is on delinquency, there are &#x2013; it goes from 30-day to 180-day cycle, which was why I emphasized improvements in both early and late stage delinquency, because the key in improved write-offs is improved late stage delinquency, which is what we have experienced in the third quarter.</p>
+          <p>So that's what would drive decreasing write-offs from the flow of these delinquencies. So what you would expect there is exactly what you've described. The latter part, the third part that I would highlight is bankruptcies. And our actual bankruptcies would be exactly in line with the industry measure of bankruptcies based on the data that we see out of the main industry.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>So three points you've mentioned there. You have a 12-month rule. So to the extent things have deteriorated in the last six months, that's a negative. On delinquency, the news is good because your late stage delinquencies are getting better. And the third, you would say your bankruptcies are pretty much on the industry average?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Correct.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay. The second question comes back to Sumit's question on the tax issue. In the notes in your annual report, you talked about the fact that you had actually entered into negotiations with CRA to resolve the Enron tax matter. So I'm surprised that at year-end you would have already been in negotiations with them, would have released 0.5 billion of reserves, and then be reassessed nine months later. So how could I not interpret this as the relationship or things have changed for the worst, or it's less favorable today than it was nine months ago?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I think all that's happened today is the next step in a process on a balance that's fairly substantive, which is we filed the return back in 2005 and some number of years later we have been reassessed and in fact we've not formally reassessed, we've had a draft reassessment. So once, we get the formal reassessment we would be in a position to continue the process and debate our point and go over this as would likely go. I'm not too sure I followed your other...</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>I guess my point is this. If I was in a debate with the CRA and the &#x2013; I knew I may get reassessed, I wouldn't book $0.5 billion gain if I knew I could get reassessed. But what you're saying is you took the 0.5 billion and you knew you might get reassessed anyway. Isn't that &#x2013; isn't it normal that you would just say &#x2013; don't bring in, don't book a $0.5 billion profit, if you could get reassessed and if you know that's a pretty real &#x2013; not even a probability &#x2013; not even a possibility it's a probability?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>No, I think in just a slightly different perspective, even at the beginning we booked about 30% on this. And I think when we booked the 30% given its $1 billion amount we probably would have been anticipating than a reassessment would be probably highly probable. And then at the end of Q4 of last year, several years of review of our case, internal discussions and external law firms also gave us a good opinion about our perspective and prospects; we got that in Q4. So at that point we looked at our situation and booked to what we thought again was the right value to having our books on this. Again, anticipating the most probable outcome wasn't that the government would write us a note and say, couldn't agree more and your filing is going through as you put it. The anticipation would be that for an amount such as this, there would be pretty probably a reassessment and a process thereafter.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>You are welcome.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. That concludes the question and answer session. I would like to return the meeting over to Mr. John Ferren.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks everyone for joining us and we look forward to talking to you again at the end of the fiscal year. Thank you.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

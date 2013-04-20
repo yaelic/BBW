@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1405131" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q2 2011 Earnings Call</title>
+    <date>2011-07-13</date>
+    <companies>
+      <company>889</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep" affiliation="Vice President Investor Relations, ASML Holding NV">Craig DeYoung</participant>
+      <participant id="2" type="corprep" affiliation="President, CEO &amp; Chairman-Management Board">Eric Meurice</participant>
+      <participant id="3" type="corprep" affiliation="Chief Financial Officer &amp; Executive Vice President">Peter T. F. M. Wennink</participant>
+      <participant id="4" type="analyst" affiliation="Goldman Sachs International Ltd.">Simon F. Sch&#xE4;fer</participant>
+      <participant id="5" type="analyst" affiliation="UBS Ltd. (Broker)">Gareth Jenkins</participant>
+      <participant id="6" type="analyst" affiliation="Morgan Stanley &amp; Co. International Plc">Francois A. Meunier</participant>
+      <participant id="7" type="analyst" affiliation="Barclays Capital Securities Ltd.">Andrew M. Gardiner</participant>
+      <participant id="8" type="analyst" affiliation="Citigroup Global Markets (United States)">Tim Michael Arcuri</participant>
+      <participant id="9" type="analyst" affiliation="Credit Suisse (United States)">Satya Kumar</participant>
+      <participant id="10" type="analyst" affiliation="Royal Bank of Scotland Plc (Broker)">Didier C. Scemama</participant>
+      <participant id="11" type="analyst" affiliation="Jefferies International Ltd.">Lee J. Simpson</participant>
+      <participant id="12" type="analyst" affiliation="Deutsche Bank AG (Prime Brokerage)">Kai F. Korschelt</participant>
+      <participant id="13" type="analyst" affiliation="JPMorgan Securities Ltd.">Sandeep S. Deshpande</participant>
+      <participant id="14" type="analyst" affiliation="Susquehanna Financial Group LLP">Mehdi Hosseini</participant>
+      <participant id="15" type="analyst" affiliation="Indaba Global Research">David Wu</participant>
+      <participant id="16" type="analyst" affiliation="One Investments Holding Sagl">Peter Miles Testa</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Ladies and gentlemen, thank you for standing by. Welcome to the ASML 2011 Second Quarter Results Conference Call on July 13, 2011. Throughout today's introduction all participants will be in a listen-only mode. After ASML's introduction there will be an opportunity to ask questions. <mark type="Operator Instructions" />.</p>
+          <p>I would now like to turn the conference over to Mr. Craig DeYoung. Go ahead please sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, operator, and good afternoon and good morning, ladies and gentlemen. This is Craig DeYoung, Vice President of Investor Relations at ASML, and I'd like to welcome you to our investor call and webcast today.</p>
+          <p>As the operator mentioned, the subject of today's call is ASML's Second Quarter 2011 Results. With me today in Sunny San Francisco, California and co-hosting the call is Eric Meurice, ASML's CEO, along with Peter Wennink, ASML's CFO, who is joining from our headquarters in the Netherlands. I mentioned the different locations, should we get separated one of the other parties will due to any technical difficulties, we will rejoin the call as soon as we can.</p>
+          <p>So at this time, I would like to draw your attention to the Safe Harbor Statement contained in today's press release and in our second quarter results presentation, both of which you can find on our website at www.asml.com. This Safe Harbor Statement will apply to this call and all associated presentation materials.</p>
+          <p>Just as a reminder, the length of the call is 60 minutes and now I'd like to turn the call over to Mr. Meurice for a brief introduction.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Craig. Good afternoon, good morning. Thank you for attending our second quarter 2011 results conference call. As usual, before we begin the Q&amp;A session, Peter and I would like to provide an overview and some commentary on our second quarter and our view forward. As usual, Peter will start with a review of our financial performance and will give added comments on our short term outlook. I will complete the introduction with some further details on our current position as we look towards the second half of 2011 and into 2012. So Peter, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thank you, Eric, and welcome to everyone from a rainy Veldhoven. As Eric mentioned, I would like to take a moment to share observations on the events of the last quarter as well as some details on the second quarter results. The second quarter sales came in at a record of over &#x20AC;1.5 billion.</p>
+          <p>Second quarter sales were driven firstly by NAND customers followed by Foundry and then DRAM as all our customers continue to add wafer capacity at leading edge as indicated by the almost equal number of unit shipments of KrF systems and ArF immersion systems. I might also highlight that we now have shipped more than 80 TWINSCAN NXT immersion systems.</p>
+          <p>The average selling price of all those systems here in the second quarter was &#x20AC;22.7 million and that was roughly the same as those in &#x2013; of the first quarter. Service and field option sales came in at close to &#x20AC;200 million, &#x20AC;196 million to be precise, which is around 60% higher than the previous quarter Q1. Our second quarter net income sets a record of &#x20AC;432 million, which is 28% of net sales, which also creates a record EPS of over one euro for the quarter.</p>
+          <p>As an update on our previously announced share buyback program, as of June 26 of this year ASML has repurchased 13.2 million shares. As we said before ASML intends to cancel these repurchased shares. At the end of second quarter, we still had &#x20AC;2.7 billion in cash.</p>
+          <p>The second quarter net bookings, excluding EUV, came in at 34 systems, and they were valued at &#x20AC;840 million, which is roughly equivalent to what we ordered &#x2013; what we received as orders in the previous quarter, but this was a couple of system short of our guided range. Booked ASPs rose significantly however from &#x20AC;21.1 million in Q1 to &#x20AC;24.7 million in Q2, and this was due to a product mix shift towards the higher ASP immersion tools and that included more options.</p>
+          <p>Booking strength clearly came from the logic sector, 50% from foundries and followed by IDMs at 31%. So memory sector bookings in Q2 were less than 20% of the total. With NAND bookings accounting for  more than 75% of those memory bookings.</p>
+          <p>Our order backlog exiting the second quarter was a healthy &#x20AC;2.76 billion, which did not &#x2013; which does not include EUV, totals about 105 systems with an average selling price of &#x20AC;26.2 million, which by the way, is almost exactly the same backlog we had 12 months ago.</p>
+          <p>For the third quarter of 2011, we expect net sales to be around &#x20AC;1.4 billion, which includes two NXE:3100 EUV systems. And this represents our first revenue recognition on EUV of about &#x20AC;80 million. These systems will be recorded with zero profit margin. All other sales will be about 44% gross margin, such that the combined margin on total net sales in Q3 will be about 42%.</p>
+          <p>R&amp;D expenses are expected at &#x20AC;150 million, which shows the continued support we give to our strategic investments in the third generation EUV system development, and SG&amp;A will be at &#x20AC;56 million in the third quarter.</p>
+          <p>Now for the near term outlook, given a growing uncertainty in the near term device end amount, our outlook for the third quarter orders is at the level likely not to exceed &#x20AC;500 million. This indicates a significant customer hesitance to commit already today to any significant capacity planning for 2012.</p>
+          <p>We think this pause by our customers is logical, given that we are coming off a two-year period during which we witnessed a gradual increase in the litho systems deliveries where significant feature shrinks have continued and capacity has been added. The growing uncertainty in end amount now prompts an ordering pause.</p>
+          <p>It is not atypical that pauses like this occur under such conditions, and this could last several quarters before a reinitiation of wafer capacity buys will take place. However, in the meantime, all buying sectors clearly indicate that they will continue with their aggressive shrink roadmaps for new product development and lowering their manufacturing costs.</p>
+          <p>And with that, I would like to turn over back to Eric for more on our view of the coming year.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Yeah, thank you, Peter. Let's put some business perspective into this current market situation.</p>
+          <p>As we already guided, we are enjoying in the second year of an up cycle, basically, in 2011. This up cycle is strong. It has brought us to record sales level. We grew to &#x20AC;4.5 billion of sales in 2010, and we, as we've guided, expect to grow to clearly above &#x20AC;5 billion in 2011. Moreover, this up cycle was, in fact, relatively easy to call. If you remember, we were able to guide very much ahead of it, as the engines of growth behind it was rich semiconductor content of products like smartphones, PCs, servers and tablets.</p>
+          <p>So the question today is whether these favorable trends of end products is &#x2013; will impact 2012 and if 2012 will be continuation of this trend. Stable euro, down year &#x2013; the key question.</p>
+          <p>Recent uncertainty &#x2013; I would call it microeconomic uncertainty about smartphones, PCs, tablet demands are eroding our short-term customer confidence in general. The growth run rates of these key segments are being readjusted down due to inventory corrections, PC, tablet cannibalization, tablet growth rate maturing, etc., etc. It is therefore natural that our customers are taking time at this moment to assess whether this end demand product trends for 2012 before they clarify their overall lithography capacity plan.</p>
+          <p>A number of positive news regarding renewed interest in PCs, like the super slim PCs or the tablet with keyboards, high server growth for clouds due to our consumption and transaction speed, accelerated solid-state drive conversions are not materializing yet in clear demand numbers at this point, as no customers are issuing solid forecasts for 2012. We expect this uncertainty to last until Q4 at least, thus our views that bookings in Q3 will not likely exceed &#x20AC;500 million.</p>
+          <p>In the lithography arena, however, we remain fairly confident in the future, as we will still have to support a significant unfinished production ramp on the new products like the 3x-nanometer DRAM, the 2x-nanometer NAND and the 2x-nanometer logic technologies. And we, in addition to these production ramps, we will have to support a fairly aggressive and extremely litho intensive R&amp;D effort for those next generation node sub 20-nanometers which will start well into 2012.</p>
+          <p>In the past we have suggested that this growth was sustained, will be sustained by the numbers of critical layers, mainly immersion layers, which are in fact booming. This is also true today. We confirm this trend with average numbers of layers due to double or triple due to the double and triple patterning technology to grow by an estimated 20% across all applications in 2012 versus 2011.</p>
+          <p>In addition, these processes, which are very complex processes of the future, will likely see lower yields and lower utilization than the current nodes which are easier to manufacture. These will create a sustained demand pressure for new lithography systems with an extreme overlay specification that is higher ASP whether for immersion tools themselves of course but also for ArF dry and even KrF dry.</p>
+          <p>The introduction and the delivery of the first NXE the EUV machine NXE:3300 production tools for 2012 are necessary for the process recipe development of the future, will further strengthen the lithography demand due in 2012. Regarding this EUV development itself, we are showing some progress. As of today we have shipped five EUV pre-production tools called the NXE:3100 system with three of the five already running wafers at their customers.</p>
+          <p>One final system, six in total, is to be delivered within a short period of time. The energy source or the light source remains in fact the gating side factor for throughput of these units. We are making progress because we have identified key issues and have now a strong roadmap for continuous improvement to reach the planned power which will correspond to about 60 wafers per hour on these machines.</p>
+          <p>We are in parallel continuing the industrialization phase with the completion of our new factory planned by the end of the year. So in summary, we are, like the whole industry, confirming that there is a customer pause at this moment while they read 2012's end product trend. However during this pause we are still fairly confident that the leading edge lithography intensity, technical intensity required for the next step productions will serve as a key driver for the next year is somewhat adding potential microeconomic lull in the semiconductor end markets or if in fact these end markets prove to be sustained with new products in 2012, these technology difficulties will enhance the growth potential of ASML.</p>
+          <p>So with this perspective, Peter and I would be very pleased to take your questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks, Eric. Ladies and gentlemen, the operator will instruct you momentarily on the protocol for the Q&amp;A session, but beforehand I'd like to ask you to kindly limit yourself if you could to one question with one short follow-up, if necessary. This will allow us to get to as many callers as possible. Now operator, if we could have your instructions and then the first question, please?</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you, Mr. DeYoung. <mark type="Operator Instructions" />. The first question is coming from Mr. Simon Sch&#xE4;fer, Goldman Sachs. Go ahead please and state your company name followed by your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Yes. Thanks so much, it's Goldman Sachs. Just a question about some of the variability we've seen from the foundries. You have clearly said and then &#x2013; in the order book that's already showing up. But I was wondering how much of a risk you may have considered or what you are thinking in terms of potential push-outs and in terms of delivery schedules as well any thoughts on that would be appreciated?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>No at this moment, there is no thought of push-out. As I said there is a pause mainly due to a reading of 2012. When you do this thing, you have &#x2013; you need the perspective, you need a little bit more time. So, the normal digestion of the situation will take at least three to four months or so, so you could &#x2013; you do not expect &#x2013; we do not expect a crisis situation to pop up in &#x2013; during the summer by which they would commence heavy orders and books would be pushed out because we know something new. No, what we expect is the foundries, or even everybody, to say we now need to build up the capacity for 5% growth, 12% growth, 10%, 6% or whatever of the different product and therefore, we will adapt our bookings forward to some numbers, so at this moment a pause, definitively; a crisis, not at all.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Understood. Thank you. And my follow-up question would be sort of along the same lines, just excluding EUV bookings what do you think the minimum run rate is for orderly &#x2013; sorry, for quarterly orders just for the technology migration in the event that customers are not ordering much capacity for some time? What's the run rate level of just, say, technology spend?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>So, this is the older question when we got into the last down cycle, what would be the minimum business that we would sustain just to do technology shrinks, R&amp;D plus a minimum numbers of products not driven so much by the volume, but by the fact that you need to have critical mass fab. So, the &#x2013; if you remember at the time we said to you, we think a run rate of about &#x20AC;500 million of sales, which would correspond therefore to bookings, would sustain this technology transition.</p>
+          <p>But as I said in my little script, you &#x2013; we expect those technology nodes to be worse than before which would probably translate into a very bare minimum need for machine at 750 or so. Actually, so please I do not guide for 750 and I don't see this at all because we see a volume anyway but the good news is technology intensity for just R&amp;D is huge. And I can even add one more comment to this is that, you've got in fact two problems one is the numbers of layers are so complicated, the process control is so complicated that they need more time to do R&amp;D and they need more tools to get to the yield that they want.</p>
+          <p>And then secondly you have EUV coming in, which doubles the R&amp;D to a &#x2013; on a certain number of layers for longer time. In other terms, UV is &#x2013; requires recipe, recipe requires new registry, requires new mask, requires inspection and this creates 2 to 3 years of hard R&amp;D which usually would have been done in 1.5 years, so now you have 2 more years to go. So we with all this confirms that the technology content of our demand for 2012 will probably be very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>And I would like to add to that, Eric, if I may, that in that previous number that we've mentioned a couple of years ago we assumed a 60% to 65% market share which is going to be 75% to 80% which of course also brings up this particular number.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>I got it. So that basically means you don't think that quarterly orders can really fall below the level that you are expecting for Q3?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I don't think we wanted to guide more than we said in Q3 because bookings are not the same as billings. As you know they could be up and down by one quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Sure.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>So they do not reflect the real business trend, they just reflect a decision-making timing process. So sometimes they will take decision with 6-months lead time. Sometime they take decision with 9-months lead time. Sometime they take decision with 3-months lead time, so if you put this lead time valuation into it, it changes your picture of bookings.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Yeah, thanks so much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Mr. Gareth Jenkins. Please state your company name followed by your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Yeah, thanks it's UBS. Just a couple of quick ones, or one and a follow-up if I could. I was just wondering, considering your order guidance, whether you'd characterize Q3 in terms of DRAM orders as being negligible if any indeed? And then just as a follow up on EUV, I just wondered if you'd talked about the number of layers required ex-EUV, I just wondered if you could talk about if EUV were delayed by say another year, what the quad-patterning requirements would be and what the impact on your business would be from those alternatives? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Okay. So regarding the very short term DRAM situation, yes you've seen the backlog today represent 20% DRAM only in units, so that's fairly small. And we expect this to continue bad. We think DRAM is the weaker segment at this moment with the potential going up next year because DRAM, although today is impacting first, I mean first because of the PC reduction, at this moment DRAM players are working harder to get into the tablet and portables, there are much more DRAM now activity for these DRAMs with less power consumption. There is also activities to work out the &#x2013; I'd say new DRAM JEDEC specs to make them more akin to a scratch pad into all these, I'd say, new platforms. So there is going to be a pick-up of DRAM sometime in 2012, so &#x2013; but not in the next six months at all, where the business will be driven by NAND, by IDM and foundry.</p>
+          <p>Regarding EUV, I would &#x2013; what can I say? I could say to you that &#x2013; I would say the following: in the node, depending on the customer, between node called 20-nanometer or the node called 14-nanometer which is the industry type discussion item, you could see up to 15 layers of EUV, which is enormous, but if you don't do EUV, if we're late on one of those, the 15 layers of the EUV would translate in 30 to 40 layers of immersion. So, there is even a higher factor than two. So indeed if EUV is delayed, this will require on some node, by our customer, an inflation of immersion layers.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Great, thanks Eric.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Mr. Fran&#xE7;ois Meunier. Please state your company name followed by your question. Mr. Meunier, your line is open.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>...position in immersion with actually Nikon potentially doing a bit better at the moment. Are you seeing anything around there at this point? The second question is really follow up for Peter Wennink, if we are really heading into a configuration like we had three years ago, i.e., say of going below 3.5, maybe 3, or even below &#x20AC;1 billion per annum, how fast can you cut costs at the OpEx level and how flexible are you at the gross margin level, let's say, if we peak at &#x20AC;3 billion top line for next year what would be your budget for OpEx and what would be your gross margin if that's obviously just an assumption not a guidance?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Okay. So I will let Peter talk. I think the beginning of your question was cut, so I could not hear fully but if you say where are we in immersion with the competition; we have, at this moment, in fact, still progressing the NXT with current high end machine every year with a set of options, which get it to the next level.</p>
+          <p>So at this moment our competition started in the business a bit later than we have, have not yet, if I understand correctly, qualified in any significant numbers of layers, but the next generation layers are even more complicated. We're adding overlay throughput and CD performance improvement to them.</p>
+          <p>The customers are starting to see extreme difficulty to process control. So their appetite to take risk on another architecture, which may not even be cheaper than ours, just for the sake of diversification, does not make business sense. So you do not diversify, when you do not get value. At best our competition could match us. But we're installed base with so much R&amp;D process, R&amp;D invested by our customer that we probably are in a secured situation at this moment.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>So you're not saying any risk of Nikon coming back at key customers like Toshiba or Intel?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well Toshiba and Intel are using Nikon's 620 with current difficulty on a numbers of less critical layers and we do not expect this share that they have assigned to them in a &#x2013; we will call it, strategic fashion, to change.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Thanks a lot Eric.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Okay, Francois, on your question on how fast can we cut cost that's well we've &#x2013; we have, as you know, we have built a flexible shell around the company and we have tested this also basically every quarter, we go through the details. So we could cost &#x2013; we could cut on the total company cost base, which includes our fixed cost, our depreciation cost close to 20% within six months. And that is, for instance, we have 22% flex labor at this moment. It's all in the same range.</p>
+          <p>On the gross margin levels, I would just like to &#x2013; I am not going to guide you on gross margins going forward, but clearly we have a target of what we have done in the past. So I would give you as a proxy, you could look at what we have done I would say starting Q1, 2010 till today, they have gross margin levels that I think fairly reflect what our target would be under those circumstances.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay, thank you very much, Peter.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is coming from Andrew Gardiner. Please state your company name followed by your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Hi good morning, it's Barclays Capital. I just was interested in a bit more detail around EUV, you started to &#x2013; or you were indicating you're going to start recognizing revenue on EUV in the third quarter. Can we expect further recognition on the 3100 in the fourth quarter and also in terms of the &#x2013; the throughput targets that you set out, can you give us an update on where we are with the light sources at the moment and the timing of milestones in terms of throughput? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>So Peter I think you should talk about recognition and I talk about the light source.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah &#x2013; yeah the EUV revenue recognition, like I said, we will recognize revenue when customers sign the papers to finally accept the tool, which they did, and in the quarter that they do that, we will book the revenue, which is &#x2013; which actually it happened in Q3 for two tools and over the next, let's say, two quarters after that, we will &#x2013; we expect to recognize the other basically four, of which, I should say, one is kind of a lease type so that's not going to be that visible and one will be recognized in the R&amp;D line because it's part of an research and development JDA with a research institute here in Europe. So over the next, let's say, two, three quarters including Q3 that will be recognized.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Okay. And regarding the light source the status, so clearly we recognize that we made a business error with our suppliers Ushio, Gigaphoton and Cymer in misunderstanding the level of complexity behind those sources. So most of our suppliers were not investing or didn't have the size, basically, to address all the difficulties in parallel.</p>
+          <p>This was discovered at the end of last year and since the end of last year we have increased our cooperation with all of them, putting our own people into the different sub-projects, adding more sub-projects, parallelizing the different issues and therefore augmenting, I would say, the knowledge of each of those sub-issues and making all those sub-issues basically run in parallel with multiple trial and error opportunities.</p>
+          <p>So now we feel much stronger in understanding exactly how to do things and when to do things. Thus the more comfort level that we have on the roadmap to getting to our 60 wafer per hour which corresponds to about 100 watt. I would like to illustrate it by the fact that there are four major developments at this moment on the sources and four paths have each an improvement from today and if you add the four you will even get yourself above 100 watts.</p>
+          <p>So we are fairly comfortable to get there and we really feel concern or know that we made the mistake of underestimated the complexity of the deal and the fact that we needed to have more people invested into it.</p>
+          <p>Yeah, that's it. Hello?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question will come from Mr. Timothy Arcuri. Please state your company name followed by your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Hi, Citigroup. Two things.</p>
+          <p>First of all, Peter or Eric, can you give us some idea of whether you've revised down what your DRAM and NAND bit supply growth forecast for this year, given how much bookings have come in? That's the first question.</p>
+          <p>And then the second question is on EUV. And it seems like the throughput of the tool in the past six months or so is still sort of in the five wafer per hour range. And I'm wondering whether or not it makes sense for you to at some point bring that laser capability in house, so i.e. go out and buy one of your laser suppliers. And would that potentially help bring this tool to market faster? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Okay. So regarding the forecast short-term, Tim, we think that within our guidance to be well above $5 billion in 2011, there is assumed about 40% to 45% bit growth on DRAM and assumed 80% plus on bit growth for NAND.</p>
+          <p>The 40% growth &#x2013; 40%, 45% growth of bit in DRAM really correspond to about 0% growth in wafers and mainly grows due to the technology transition. If you remember, customers have converted from 55 type nanometer to 35 type nanometer where they had two transitions in one. So, the creation of bit has been enormous without having to have wafers. So these are the two numbers we believe are reasonably conservative.</p>
+          <p>Regarding EUV at the current run rate, so yes, indeed, we have a single-digit type run rate in the field. We have proven in the lab more than that, obviously, and the lab is always ahead from the field by about three months, so we are a bit better than what you suggest in the lab.</p>
+          <p>We have, as I said, taken over much more responsibility on the management, the introduction of experts and, project management per se, of each of our suppliers. So we see no reason at this moment, to go further than that. We think we have enough control of the situation by having enough of our people in the different place.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is coming from Mr. Satya Kumar. Please state your company name followed by your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Yes, hi, Credit Suisse. Thanks. Just wanted to tie up a few questions on the model and how you are running the factory. I think you were saying that 750 is sort of the minimum order level that you think the industry needs to do from a technology perspective. Just wanted to clarify if that includes EUV or not?</p>
+          <p>And secondly, if we get this low order level for a few quarters, like you said, the first half of next year, we could be looking at a revenue run rate of &#x2013; call it maybe &#x20AC;900 million plus or minus. The manufacturing capacity, I recollect you were talking about ramping it closer to &#x20AC;2 billion in Q4. So I was wondering if you were thinking about ratcheting down some of the fixed costs or manufacturing capacity as you plan for early part of next year.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I don't think I said this. I said &#x2013; I was asked what would be the technical minimum billings number to make technology transitions, and we said 750. I never said the bookings number.</p>
+          <p>As I said, bookings can be &#x20AC;0 to &#x20AC;1.5 billion, because one quarter they will buy it and two quarters they would not. And so, no.</p>
+          <p>Second point, I didn't say that 2012 would be 750 per quarter, &#x20AC;1 billion or anything. We said we do not know at all. There is no hint, no &#x2013; there is only positiveness due to the fact that we know we get into technologies which are litho intensive, and litho intensive will save us from disasters, if there is a macroeconomic disaster. That's all we said.</p>
+          <p>But we didn't say we expect a macroeconomic disaster. In fact, we have no idea. In fact, I will push that back on you.</p>
+          <p>However, Peter said, because of this uncertainty we have to prepare. We have to be flexible with our OpEx. And as you know, we have been pretty good at having a very highly leveraged OpEx based on flex workers on one hand and contractors on the other. We use a lot of suppliers, which allows us to swing quarter-to-quarter our OpEx level so that we can adapt to any numbers.</p>
+          <p>But I prefer at this moment not to comment on the 2012. We don't know. I don't think &#x2013; there could be scenarios low and scenarios fairly high.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Satya, just to add on that, you have to remember that when you talk about &#x20AC;1.8 billion to &#x20AC;2 billion output levels, and you talk about &#x2013; you gave a number of 750 &#x2013; it doesn't really matter &#x2013; in that sales number, 85% to 90% of the cost of goods is outsourced. So we add value 10% to 15% max, of which a significant part is in the labor. And labor, like I said, we have a lot of flexibility there.</p>
+          <p>So this is always the way we run the company and this is the way that we'll run the company going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Very helpful. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is coming from Mr. Didier Scemama. Please state your company name followed by your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>It's RBS. Thanks for taking my question. I'd just like to dig a little bit into tablet PC versus say a notebook PC debate. Can you, maybe Eric, can you elaborate a little bit on, if you can give us a feel for the litho content, if I can call it like that, of a tablet versus the litho content of a PC?</p>
+          <p>If I were to assume that the tablet has obviously flash memory for the storage capacity, a 3G baseband, an application processor, and so on and so forth, I mean, can you give us a sense at least the relative litho content of one versus the other, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, I think we could say that at this moment a tablet would have &#x2013; if I take the processors out, I would say current tablet would be more like 80%, 70% of a PC in litho content.</p>
+          <p>But the tablet of the future is probably very near. So in terms of non-processor compatibility you could get DRAM plus baseband plus NAND to be about the same in the tablet of the future &#x2013; in the tablet of Q1 2012.</p>
+          <p>The processor, as you know, is a big deal difference between an ARM processor or an Intel processor. So you at this moment, you could see a small litho into a processor from standard Intel processor architecture versus an ARM architecture.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>And in terms of DRAM content per tablet, obviously right now it's much lower than a notebook PC, but when you think about quad-core ARM CPUs with dual or quad-core GPUs going into a tablet, what do you think is going to be the sort of trajectory for DRAM content per tablet, let's say over the next 12 to 18 months? And how do you see that playing obviously for ASML?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, I think we see at this moment as both sides tablets and PCs are going to be richer in silicon, because the new PCs will be thinner and will have bigger solid state drive, and the tablet has &#x2013; you don't call it a solid state drive, but that's basically equivalent, but it's smaller.</p>
+          <p>So you are going to have a blurred position in the future. I would think the PC will become in fact richer than the tablet. The new PC will be richer than the tablet. But the tablet itself will grow. Yes, there will be more DRAM into it, more scratchpad. And the more you put, in fact, graphics in tablets and things, then it would get the DRAM to be a fairly large number.</p>
+          <p>So both applications will grow. It's nearly impossible for me at this moment to understand and track which products are coming. But we're comfortable on the both applications.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>All right, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Mr. Lee Simpson. Please state your company name, followed by your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Yeah, hi it's Lee Simpson here from Jefferies. Thanks for taking the question. Just sort of wondering, we have some idea on who is pushing out silicon at the 22-nanometer spot already. And albeit at some times at a different half pitch than others.</p>
+          <p>I was just wondering, when do we think we'll actually see orders emerge in volume for the reengineered 1950i's? Will this come primarily from Logic or do you think it will be a NAND sell in?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>You mean the new NXTs every year, which layers are more critical? Well, at this moment, let me answer it differently.</p>
+          <p>About six months ago, the customer relationship on EUV was driven by the fact that EUV would be cost effective and easier to manufacture. And that there would be a transition period where the customer would hesitate between EUV and triple-patterning for cost reasons. That was about six, nine months ago.</p>
+          <p>Today, we have much more pressure by customers &#x2013; and all of them, Logic, NAND and DRAM &#x2013; to say that they absolutely need EUV because there are critical layers which are impossible to do in triple patterning or quadruple patterning. So we are now getting into situations where you have significant criticality in each of the segments, which drives people to say whatever the throughput of the EUV is, you'd better make EUV work.</p>
+          <p>And so how does that answer your question? Well it basically says that every one of them today have a critical layer which is pretty hard to execute, and for which they are forcing the NXT to its most effective performance, which is mainly overlay. Then all of them will push for an NXT with a better focus control when the CD becomes a significant problem. And again, NAND, DRAM and Logic will ask for that. And those guys have even asked that the machines that goes with the immersion NXT would also be extremely precise in overlay because the next layers will have also very aggressive specifications.</p>
+          <p>So in other terms, what could happen to us in 2012 also would be that a lot of fabs are renewed also in the non-critical layer KrF and ArF, just because the old machinery cannot adopt to the new NXT or to the new critical layer performance requirement. So this inflation of complexity plays in our favor.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay, that's very clear. Thanks. I just want to ask maybe a quick follow-on as well. You've mentioned in the past opportunities you would look at, itinerant ones inside nanoscale. I wonder if there is any update there? And the potential size of any opportunity you're looking at?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Sorry, you said &#x2013; other segment. Other market segment.</p>
+          <p>Yeah, yeah, so as I mentioned often we are always interested to look at segments which can grow outside of semiconductor which uses our expertise. We are continuing to invest about 5 million a quarter in R&amp;D. So in the numbers that you have, we have about 5 million.</p>
+          <p>And I confirm that we have at this moment one technology that we feel fairly interesting to &#x2013; with multiple application. In fact, at this moment, which we are trying to make work one application which could lead to us developing. But it is too early to mention. But it is part of our investment into possibility outside of semiconductors.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Great. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Mr. Kai Korschelt. Sir, please go ahead, and state your company name followed by your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Yes. Thank you for taking my question. Can you hear me?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Yes. Great. Okay. I just had a follow-up on the particularly on the H1 revenue question.</p>
+          <p>Clearly the bookings level is pretty low now, and you will ship 85%, so the bulk of your backlog, in the second half of this year, which means that if there are no follow-on orders and we have let's say two quarters of less than 0.5 billion in bookings, then the backlog &#x2013; let's say at the beginning of 2012 &#x2013; could potentially be very small.</p>
+          <p>So is it really unthinkable, given the technology migration and other plans, that let's say Q1 revenues could be below 700 million, for example? That would be my first question.</p>
+          <p>And then the second question was just on the gross margin profile for the NXE:3300, so the next generation EUV tool, should we think about that as being higher than the 3100? Should it generate closer to group gross margins? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I will leave the gross margin discussion with Peter. And on the Q1, we just don't want to give any guidance in 2012.</p>
+          <p>Well, the only thing I would say is at this moment there is no reason to think that whatever is being discussed in the industry has a lead time of more than six months in terms of impact at this moment. What you dispose that we are seeing is posed due to the fact that they don't recognize the Christmas season basically. That there is a question in the industry about what is the next six months? How does it fit the Christmas season? What are the adjustment and adaptation, tablet, PC? What is the adaptation of these DRAM versus NAND and new product? Et cetera.</p>
+          <p>So you've got whole bunch of, I'd say, short term impacts. Of course you have the macroeconomic questions about the Greeks and Italians and the Americans going bankrupt at the same time. But again, there is no &#x2013; in the industry honestly there is no customers who say I'm preparing for a significant 2012 reduction. I have not seen this, there is no facts about it at all at this moment.</p>
+          <p>Peter regarding the margin of...?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah, the gross margin on EUV, as I said, the 3100 is a research and development tool sold at just over 40 million, which is also the cost, which is not going to be the margin of the 3300. The 3300 is the production tool which we will start shipping in December of 2012. Our target gross margin is, as I said before, in the high 20s, low 30s and within two years after introduction, we should be at corporate average. So it's going to be a gradual struggle upwards like it's always been, also with some of the previous platforms, but that this currently the plan.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay great, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Mr. Sandeep Deshpande. Please state your company name followed by your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Hi JPMorgan guys. Thanks for the question &#x2013; just a quick question on I mean if you look at previous cycles, I mean if you look at the last equipment cycle, I mean it started with strong orders from the foundries but the latter half of the cycle was driven by memory. Do you see this cycle also playing out in a similar fashion?</p>
+          <p>And secondly, based on your conversations let's say with the NAND flash companies, I mean, how do you see, I mean, NAND built out in the next few years. Will that be the main driver of your orders or are we still looking at upgrades on DRAM, Logic, etcetera, to be a key driver?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Sandeep that's a very good question. I think, first of all, we can't answer, again, 2012 easily. But, it is true that 2011 was not the greatest year on memory and that there is a high chance that memory including DRAM coming back and NAND being a fundamental sector would be the big guys of the next cycle. NAND is definitely driven by these new storage elements, so the solid state drive and those server drives which are kind of hybrids.</p>
+          <p>NAND will also develop sales which have much higher access time which will then allow them to be used in such scratch pad type memory in servers. There is a case that says that NAND will eat up into the DRAM business. So people in the NAND arena are going to invest a lot. So yes, we could &#x2013; you could bet that this is an engine which has a high chance to be of the level of 50% to even 100% higher than DRAM in the future.</p>
+          <p>But, on the other hand, we have heard that the DRAM guys are saying if you really go 3D in your graphic processing and your video and if you want to have all this in a platform which is mobile, you are talking about a doubling here of the bits easily and then you are back into good business and if you do this into a -with the technologies which have fairly low power consumption, you are creating a need. So in other terms today those people NAND and Flash haven't really created &#x2013; and DRAM, haven't really created a lot of wafers so you could see them coming back. But if on the other part, the Logic part you could say they would, they would, they have invested significantly for the past two years and they may go now into a mode of maintaining.</p>
+          <p>But these people are getting into numbers of layers, which are enormous. I mentioned during the call that I took an example in fact on the 14-nanometer you can go as far as a 17 layers of EUV or 40, 45 layers of immersion. This is huge technology lithography impact.</p>
+          <p>So you may not have such volume requirement but you may have a lot of technology requirements. So those guys can in fact not so much go down. So my best bet is &#x2013; would be to say 2012 you would see less Logic and more Memory and then in 2013, 2014 you could see again Logic back in because of the technology.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Mr. Mehdi Hosseini. Please state your company name followed by your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Yes thanks for taking my question. Eric, early on you said that in your R&amp;D facility you have your EUV tools have a better throughput. Can you share with us if you can, where is the throughput for those tools and remind us what the milestones are where do you see the throughput for your EUV tool as we exit this year and where does &#x2013; what are the critical run rates that you need to hit before you gain further traction with customers?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Oh traction with customers, this has two facets, one is traction for R&amp;D recipe development and one is traction to get decision as to which &#x2013; how many tools to put into production for how many layers and these two separate questions. Your first question is, am I having happy customers with a low throughput. Well at this moment our customer would tell you that if we succeed to do 100 wafers per day, it is sufficient to do a recipe. And at this moment, we are not there yet, this is annoying them. So they we're not exactly giving them the throughput that allows them to have a comfortable recipe building and we are trying to get there and we think we can get there before the end of the year.</p>
+          <p>Regarding now committing a number &#x2013; a throughput which then allows them to take a decision whether they will put EUV into 1 layer, 2, 3, 4, 5, 10 or 17 is a sort of committed throughput. So at this moment we have a roadmap easily defined up to in fact 205 watt which is 125 wafers per hour. And we have this roadmap is committed between roughly 20 wafers per hour, 40 wafer per hour, 60 wafer per hour, 90 wafer and 120. And this has been given to customers but of course we need to have proof now that we're going to make it, before decisions are taken. And the decisions will be taken, as a combination of when they have to be taken, that is, the customers has no choice, they have to jump into the swimming pool.</p>
+          <p>And secondly, we have enough facts. So these decisions are going to start, I would say, around the fourth quarter. In the fourth quarter the customers are going to say, I have now no choice, you have to commit here, ASML about how big. So, when are you going to ship and at what speed and that has to be a firm commitment. We expect that to be in Q4 and, with our response they will say okay, based on that I am going to buy 2 tools or I am going to buy 10 tools, because I will do one layer or I will do 100 layers okay. So that's the decision. So they today they are not comfortable that we don't know, but they are not uncomfortable. They can still wait another six months before they commit to production I guess.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay. And just one clarification, should I assume that what you're doing in-house you're &#x2013; at labs, is well over single-digit per hour? Like does it start with a one or with a two, the 10s or 20s of wafer per hour?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I don't think I am going to answer that question. It is, your question is in fact not that easy to answer, because they are &#x2013; when you talk about proof, you can have proof even of digit three or even...</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Sure.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>We've seen some possibility of doing more than 30 or near 40, but the question is then every other spec around it. So, if you said to yourself, if you're an optimist, you say, at least we have proven more than 30 for two seconds and a half in a dark room, okay? And the question is, can you lighten the room. So, you &#x2013; there are parallel paths between different things. What I can tell you however is, we feel much more comfortable now regarding the level of engineering difficulties and discoveries.</p>
+          <p>The discovery is much less and the amount of work is enormous, but the amount of work is &#x2013; by proving for one second that something works at 30 watts or something or 20 wafers per hour, is already a very large positive impact, because we say, okay, now we know how to do it. We just need now to do the engineering around it to ensure that it lasts more than a second and it can last for a week. And then you are in business.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Sure. And then just one rather theoretical question, can your customers avoid EUV even for critical layers if, worse case, the throughput is not improved or would they have to delay the migration to the next node?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I would like to make a subtle answer to that: absolutely no! They have no choice.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>There is a time &#x2013; there is a shrink factor that will not be &#x2013; which cannot be done differently than EUV. So they have it so, their alternative then is not to shrink.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay, great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Mr. David Wu. Please state your company name followed by your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Yes, Indaba Global Research. Got two quick questions. The first one is, I assume that if we have delays in the EUV deployment, it's actually, from a profit standpoint, better for ASML?</p>
+          <p>And the second one I have is, I remember that in the first quarter conference call you were thinking that all the &#x2013; even the 3100 EUVs revenue would be recognized in calendar '12. I noticed that they are getting recognized in calendar '11. I was wondering; what is the reason for that?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>So Peter you are going to answer the last part of your question. But regarding the EUV delays, yes indeed if we get into a situation where the &#x2013; we delay and therefore the customers have to buy more NXTs at &#x2013; and for more layers with an NXT with a higher margin, obviously, it will be better for the profitability of ASML. So the EUV project, per se, is important for us strategically and for the future, but during the period of transition, a delay would, in fact, be positive for the financials, not negative.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yes, so on the revenue recognition, our expectation was, indeed, three months ago, it would be 2012 but since customers are running the recipes and of course, like you will know, they are currently not yet hitting the target 60 wafers per hour.</p>
+          <p>They are actually using the tool and they have accepted at least two for the third quarter, the full ownership of the tool which, if you have the signed document, you have to recognize the revenue and they are using the tool and they are running the wafers and they are running the recipes. So that is the reason and we do expect with the developments that are currently underway in the program that the remainder of those tools will be recognized over the next two to three quarters.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Ladies and gentlemen I think we have time for one more call. If you were unable to get through and have some questions, feel free please to contact the Investor Relations group in the Netherlands or here in the U.S. And now operator if we can have the last caller, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The last question is coming from Mr. Peter Testa. Please state your company name followed by your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>It's Peter Testa of One Investments. Peter, the question in the past, you had talked about 13 fab projects with &#x20AC;7 billion of litho business for 2011 and '12. I was wondering whether you would give &#x2013; hazard a view on how the state of those projects and overall market looks given the uncertainty?</p>
+          <p>And then the follow-up was the degree to which some of these project steps or even the uncertainty in general is also engendered by the lack of clarity whether they need EUV for one machine or ten machines as you've set the different layers at this stage rather than just purely being a macroeconomic discussion?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>No, I think the EUV discussion, as I said, I would not say our customers are happy and comfortable about us having to push a decision more towards Q4, but they don't &#x2013; they can live with this. So the big decisions about which node and which sort of layers and which technology is not impacting, I would say, seriously, the capacity build plan. So we are not guilty through EUV of not having the bookings.</p>
+          <p>So this is not the point, however you're correct in saying that at this moment all the foundries, like the DRAM, like the NAND people, are looking at those fab projects that they have and try to understand what they really need to do and accelerate or decelerate in 2012. So whether you're talking about Samsung, Globalfoundries, TSMC, UMC, SMIC all of those are saying, well, we need to be sure that we're next tranche is done based on the 2012, 2013 year which justifies it. So this is what the pause is all about.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Okay. So it's the same 13 projects the same &#x20AC;7 billion lift, it's just a question of whether they go ahead as rapidly as before rather than a view on the shape of what they do because of whether they need a structure that involves more or less EUV?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Absolutely. Now there is &#x2013; if you wanted to have one more facet for your information, there is more questions regarding some of the customers' capability to yield the current process before they get to a next batch of fab. So in other terms, as I mentioned to you, which I think is good for litho is the processes are more and more complicated to build, so it's more and more difficult to yield and with difficult to yield then the customer would say let me delay a bit until I get at least five tools working before I get to buy the other &#x2013; the next five.</p>
+          <p>This is, by the way, playing in our favor, because remember what we always said, we didn't want people to have too many tools too early. We would prefer to spread tools for longer period which this issue plays in our favor. We sell a critical set of tools, then there is some work to make them work and then after that we sell another batch and we sell another batch. So this currently is also being looked at by logic people who say well it is indeed difficult to yield new nodes.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Very good. Thanks very much for the answers.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Well now on behalf of ASML's Board of Management I would like to thank you all for joining us on the call today. And operator if you would formally conclude the call, I would appreciate it. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>You are welcome. Ladies and gentlemen this concludes the ASML's 2011's second quarter results conference call. Thank you for participating. You may disconnect now. Thank you.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

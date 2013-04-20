@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1241135" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q2 2009 Earnings Call</title>
+    <date>2009-08-06</date>
+    <companies>
+      <company>1530</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Marlene S. Dooner, Senior Vice President, Investor Relations</participant>
+      <participant id="2" type="corprep">Brian L. Roberts, Chairman and Chief Executive Officer</participant>
+      <participant id="3" type="corprep">Michael J. Angelakis, Chief Financial Officer</participant>
+      <participant id="4" type="corprep">Stephen B. Burke, Chief Operating Officer; President, Comcast Cable Communications</participant>
+      <participant id="5">Spencer Wang</participant>
+      <participant id="6">Ingrid Chung</participant>
+      <participant id="7">Jason Bazinet</participant>
+      <participant id="8">Craig Moffett</participant>
+      <participant id="9">Jessica Reif-Cohen</participant>
+      <participant id="10">Vijay Jayant</participant>
+      <participant id="11">Benjamin Swinburne</participant>
+      <participant id="12">Thomas Eagan</participant>
+      <participant id="13">Doug Mitchelson</participant>
+      <participant id="14">John Hodulik</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good morning ladies and gentlemen and welcome to Comcast's second quarter 2009 earnings conference call. At this time, all participants are in a listen-only mode. Please note that this conference call is being recorded.</p>
+          <p>I will now turn the call over to Senior Vice President, Investor Relations, Ms. Marlene Dooner. Please go ahead, Ms. Dooner.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, operator, and welcome everyone to our second quarter 2009 earnings call. Joining me on the call are Brian Roberts, Steve Burke, and Michael Angelakis.</p>
+          <p>As always, let me first refer you to slide number two, which contains our Safe Harbor disclaimer, and remind you that this conference call may include forward-looking statements subject to certain risks and uncertainties. In addition, in this call we will refer to certain non-GAAP financial measures. Please refer to our 8-K for the reconciliation of non-GAAP financial measures to GAAP.</p>
+          <p>With that, let me turn the call to Brian Roberts for his comments. Brian?</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks, Marlene, and good morning everyone. Today we are pleased to report solid results for the second quarter, really highlighting the strength of our subscription businesses and our continued focus on expense and capital management. In the second quarter, we generated $1.2 billion of free cash flow and for the first six months of the year 2.5 billion, which is a 36% increase. Our ability to continue to deliver consistent and significant free cash flow was once again the result of healthy growth in revenues up 4.5% and operating cash flow growth of 5.5%, as well as lower cable capital expenditures.</p>
+          <p>The combination of a weak economy and increasing competition does continue to translate into slower growth in new customer additions. In the second quarter, units are also seasonally soft, but our high-speed Internet net adds in particular were disappointing. We believe we understand what happened and have already made some corrections and are pretty optimistic that the second quarter high-speed Internet unit growth will not represent a new trend. Steve will take you through this in more detail. But all in all, we are working to strike the right balance between revenue, cash flow, and unit growth. And the diversity of our revenue streams and the subscription nature of many of our products are helping us to deliver healthy financial results.</p>
+          <p>At the same time, we are focused on providing a superior customer experience, offering the best products delivered reliably and serviced well. In June, the American Customer Satisfaction Index, ACSI, noted a 9% improvement in our customer satisfaction scores, highlighting some of our efforts to monitor customer feedback, to address customer issues, and internally we continue to see improvements as well in network reliability as well as lower contact rates, trouble calls, and repeat trouble calls. We know we have a lot of work still to do but have a real commitment to this effort and we are making steady progress.</p>
+          <p>We're also innovating, investing in our products and services, and executing on strategic initiatives that strengthen our competitive position now and in the future. Just this quarter, we launched a number of new features and applications that provide more choices and more ways for customers to access the Comcast services they already enjoy in the home. First, we announced the launch of our trial of on-demand online or TV Everywhere, which now includes programming from more than 20 programmers including broadcasters, premium channels, and cable networks. We also launched a new app for the iPhone/iPod touch community, giving customers mobile access to a number of Comcast Video, Voice, and Internet services. And similarly with the launch of Comcast High-Speed 2go in Portland and Atlanta, we are beginning the rollout of 4G high-speed wireless data services. We are clearly now in the execution phase of our wireless strategy as Portland and Atlanta will be followed by other major markets like Chicago, Philadelphia and others.</p>
+          <p>We continue to make progress on our key strategic initiatives, deploying DOCSIS 3.0 or wideband and All-Digital and expanding our on-demand capabilities with Project Infinity, which are all very important to our long-term success. We've already installed wideband in nearly 50% of our footprint and we hope to reach close to 80% by year-end. As we deploy this wideband capability, we are doubling the speeds to our existing customers and introducing new higher speed services in these markets.</p>
+          <p>We're also on track executing All-Digital and we will dramatically increase our product capabilities and help enhance the experience we offer customers, particularly in high-definition choices and channels and ethnic television. Steve will give you an update on both of these projects including results from the rollout of All-Digital in Portland, where we are now effectively complete.</p>
+          <p>All of our operating efforts are based on a disciplined and balanced financial approach. And over the last few months, we completed a number of transactions to reinforce our strong credit profile. Michael will provide more details on that and some of the new financings that we've completed in a few minutes.</p>
+          <p>So I'm pleased with our results this quarter. When compared to almost any other business, Comcast is proving to be robust even in this tough economic environment. We're delivering growth in revenues, growth in operating cash flow, great growth in free cash flow, and at the same time we're positioning the company for future success.</p>
+          <p>Let me now pass it on to Michael to cover the second quarter results in more detail.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thank you, Brian. Let me begin by reviewing our consolidated results on slide four. Overall, the company continues to execute well in a challenging economic and competitive environment, reflecting our continued focus on profitable growth and proactive expense and capital management.</p>
+          <p>For the second quarter, consolidated revenue increased 4.5% to 8.9 billion, and operating cash flow grew 5.5% to 3.5 billion, resulting in a consolidated operating cash flow margin of 39.6% versus 39.2% in the second quarter of 2008.</p>
+          <p>In addition to growing our revenue and operating cash flow, we are also very focused on free cash flow, free cash flow per share, and adjusted earnings per share as important metrics in evaluating the strength of our company. In each of these key metrics, our performance during the second quarter and on a year-to-date basis are very strong and reflect meaningful progress and growth.</p>
+          <p>During the second quarter, we generated consolidated free cash flow of 1.2 billion and year-to-date free cash flow has increased 36% to 2.5 billion from 1.9 billion in 2008. To be clear, we are providing a consistent comparison with prior year's results, and therefore free cash flow for 2009 and 2008 specifically exclude any impact from the 2009 or 2008 economic stimulus packages. In addition, free cash flow per share increased 3% in the quarter to $0.40 per share, and our year-to-date free cash flow per share has increased 42% to $0.88 per share compared to the same period in 2008.</p>
+          <p>We generated EPS of $0.33 per share, an increase of 57% compared to the second quarter of 2008. On a year-to-date basis, our adjusted EPS has increased 46% to $0.60 per share. The reason for this adjustment is to exclude a one-time gain in 2008 related to the dissolution of the Insight Midwest Partnership.</p>
+          <p>We remain very focused on executing our strategic, operational and financial plans, but there are several areas that should be highlighted. Consistent with the ongoing recession and its consumer impact, we are continuing to experience a slowdown in gross connect activity across all of our service categories. The weak economy continues to negatively impact the consumer, providing us with fewer opportunities to sell new services. Connect activity was exceptionally challenging in April and May, although we saw some improvement in June as connects benefited from the broadcast digital transition and additional marketing efforts. We expect connects to remain challenging due to the difficult economic environment and competition as RBOCs continue to increase their footprint and they and satellite remain promotional.</p>
+          <p>In addition, in the second quarter churn in both Video and high-speed Internet modestly increased, driven by higher voluntary disconnects that were concentrated in a handful of markets which are experiencing particularly high unemployment rates or levels of foreclosures. However, we are managing appropriately our bad debt and it continues to trend at similar levels to prior year.</p>
+          <p>The overall advertising market continues to be challenging. Our local cable advertising revenue declined 20% this quarter, and we are not seeing any signs of recovery. Advertising weakness also impacted our national programming networks. Our Programming division reported a 5% increase in revenue. However, it includes a 7% decline in advertising revenue in the second quarter.</p>
+          <p>Even with these headwinds, I think it is important to recognize that we are growing the business and are confident that we'll continue to execute through this recession. We'll remain diligent with our expense controls and are focused on delivering growth in revenue, operating cash flow, and free cash flow, as well as improving capital efficiency.</p>
+          <p>Let's review our Cable division's second quarter results in more detail. Please refer to slide five. In the second quarter of 2009, cable revenue increased 5% to 8.5 billion, reflecting growth in each of our businesses, including Video, high-speed Internet, Voice, and Business Services. This revenue growth was relatively stable despite lower than expected customer additions and weak advertising sales.</p>
+          <p>Total Video, high-speed Internet, and Voice customers grew 84,000 for the second quarter, totaling 46 million, an increase of 4% or 1.6 million new customer additions over the last 12 months.</p>
+          <p>Even as we experienced pressure on unit growth and advertising, total revenue per Video customer remained solid during the second quarter, increasing 7% to $118.</p>
+          <p>Total subscription revenue per customer, which excludes advertising, grew 9% to $113, reflecting the following components. Total Video revenue increased 2% reflecting a 4% increase in Video ARPU and a decline in basic Video customers. Our second quarter '09 Video customer loss was 214,000, which does include some benefit from the digital transition. This quarter's increase in Video ARPU reflects rate increases and a continued growth in digital and advanced services, offset by additional bundling and promotions.</p>
+          <p>In the second quarter, our Video mix included a higher proportion of limited basic customers as a result of the digital transition and more customers subscribing to lower levels of digital service.</p>
+          <p>High-speed Internet revenue increased 8% during the quarter. And as Brian mentioned, second quarter high-speed Internet customer additions were unusually low at 65,000. But despite that, we had stable average revenue per customer of approximately $42 and penetration is approximately 30%.</p>
+          <p>Voice revenue increased 25% for the second quarter, reflecting continued growth in our customer base and a modest decline in ARPU to approximately $39. We added 233,000 Voice customers this quarter and now have over 7 million customers. Penetration for our Voice service is approximately 15%, and we believe there is meaningful growth remaining in this business.</p>
+          <p>At the end of the second quarter of 2009, 25% of our Video customers took all three services compared to 20% in the second quarter of 2008.</p>
+          <p>Revenue from our Business Services segment increased 51% in the quarter to 198 million. Business Services continues to gain momentum and we expect Business Services to be a meaningful contributor to our growth.</p>
+          <p>Please refer to slide six. As you can see from this slide, cable results over the last 2.5 years have grown consistently and reflect a stable and diversified profit mix. In the second quarter of 2009, cable operating cash flow increased 4% to 3.5 billion, and our cable operating cash flow margin decreased slightly to 41.3% from 41.5 in the second quarter of 2008. On a year-to-date basis, operating cash flow grew 6% to 6.9 billion, resulting in a higher OCF margin of 41.1% compared to 40.6 during the same period in 2008.</p>
+          <p>In the second quarter, total expenses in our Cable segment increased 5%. And as we expected programming expenses increased 9%, reflecting higher rates and additional digital programming cost as we increased our digital customer base and continued to add new programming. In addition, we absorbed additional operating expenses to support the digital transition and our key strategic initiatives, such as All-Digital and improving the customer experience, which is reflected in the 11% increase in technical labor and a 6% increase in customer service expenses.</p>
+          <p>While we continue to evaluate our cost structure to extract further efficiencies, we will continue to make these types of investments to support profitable growth, enhance our product superiority, and improve our customer experience. Partially offsetting these higher expenses, we continue to extract scale benefits and efficiencies in our high-speed Internet and Digital Voice businesses.</p>
+          <p>Compared to the second quarter of 2008, our direct costs for high-speed Internet declined 14% and Digital Voice direct costs decreased 18%. These expense reductions were achieved while we added almost 1 million high-speed Internet customers and 1.4 million Voice customers over the last 12 months. Also, marketing expenses decreased 2% year over year, reflecting timing and favorable advertising pricing. We expect marketing expense to trend higher in the second half of the year, but full-year marketing expenses should be relatively consistent for full year of 2008.</p>
+          <p>Please refer to slide seven. In the second quarter of 2009, capital expenditures decreased 14% to 1.1 billion, representing 12.5% of revenue. The decline in CapEx was a result of improve efficiencies, lower unit growth, more favorable CPE pricing, and reduced construction spend. This result was achieved even as we invested in our All-Digital and DOCSIS 3.0 strategic initiatives. We expanded Project Infinity, supported significant growth areas such as Business Services.</p>
+          <p>Consistent with historical trends, CapEx continued to be predominantly growth oriented with growth CapEx accounting for 69% of cable CapEx for the quarter and 73% year to date. We remain very focused on return on incremental capital and are confident our growth investments will continue to yield attractive financial and strategic returns.</p>
+          <p>During the second quarter, we deployed 1.9 million digital set-top boxes and adapters, bringing our total deployed to over 30 million. Included in this number are boxes and adapters deployed to 250,000 digital customers added in the quarter. In addition, we deployed approximately 340,000 advanced high-definition and/or DVR set-tops as we added or upgraded 171,000 advanced service customers. We now have 8.3 million high-def and/or DVR customers and our advanced service penetration is approximately 48% of total digital Video customers. We have also deployed 1.4 million digital adapters in the second quarter to support our rollout of our All-Digital initiative. Steve will give an update on our progress on All-Digital in a few minutes.</p>
+          <p>We also continue to purchase equipment for DOCSIS 3.0 or wideband initiatives. And as Brian mentioned, we have already deployed this service to nearly 50% of our footprint with a new goal to complete 80% of our footprint by year end.</p>
+          <p>We do expect CapEx will modestly increase during the second half of the year as we invest to sustain our momentum in Business Services and continue to expand our deployment of wideband and All-Digital. Nevertheless, even as we accelerate our DOCSIS 3.0 deployment, we are pleased with our capital management and expect our full-year CapEx will be both lower in absolute dollars and as a percentage of our revenue when compared to 2008.</p>
+          <p>Now please refer to slide eight. As we are now past the half-year mark, our financial strategy for 2009 hasn't changed as we are executing on a disciplined and returns oriented approach to allocating capital, as well as growing free cash flow and free cash flow per share. In the second quarter of 2009, as I mentioned, we generated 1.2 billion of free cash flow, consistent with prior year. And year to date, free cash flow has increased 36% to 2.5 billion and free cash flow per share has increased 42% to $0.88 per share compared to the same period in 2008.</p>
+          <p>Given the macroeconomic events, one of our goals in 2009 was to strengthen the company's financial profile, and during the second quarter we completed a number of transactions to achieve that. First, as we had previously indicated, we plan to use our free cash flow to pay down maturities this year. And in the second quarter and over the last two weeks, we have repaid $2 billion of maturing debt.</p>
+          <p>We have also accessed the capital markets raising 1.5 billion through attractively priced 10 and 30-year notes and immediately used these proceeds to tender for 1.3 billion of debt due in 2013, which was a year of outsized maturities for the company. As we go forward in the third and fourth quarters, it is our intention to repay approximately 1.4 billion of short-term debt with our internally generated cash.</p>
+          <p>Given the recession and difficult economic climate, these transactions accomplish our 2009 goals as they modestly delever the balance sheet. They reduce our cost of debt, improve our long-term liquidity, and enhance the risk profile of the company. We believe our strong balance sheet is an asset to our shareholders in that modest debt reduction is accretive to our equity volume.</p>
+          <p>At the same time, we are committed to returning capital directly to shareholders. During the first seven months of 2009, we have paid cash dividends totaling 568 million. Also during the second quarter of 2009, we used excess liquidity to repurchase 15.5 million of our common shares for $215 million. As of June 30, 2009, we have approximately 3.9 billion of availability remaining under our share repurchase authorization, and we may continue to purchase stock from time to time.</p>
+          <p>Now let me pass the call to Steve.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Thanks, Mike, and good morning everybody. During the second quarter, we posted solid financial results and continued to grow our cable business despite a tough economy. We also made significant progress in our All-Digital initiative, launching DOCSIS 3.0, introducing 4G wireless data, and completing the country's digital transition.</p>
+          <p>With half of 2009 remaining, we're really focused on the four following things: one, striking the right balance between cash flow and unit growth; two, driving consumer additions in a challenging environment; three, realizing operating and capital efficiencies while investing in growth areas such as Business Services; and four, improving our competitive position by developing new products and customer service.</p>
+          <p>Now let me move on to each of our major lines of business, starting with Video. Total Video revenue came in about as planned, but basic subscribers were weaker than expected. The RBOCs now have overbuilt 28% of our footprint and they and satellite were very aggressive during the quarter. We've recently launched a number of high impact marketing campaigns and are seeing better trends in July than we did in the second quarter.</p>
+          <p>As discussed previously, we started to convert systems to All-Digital. Please refer to slide nine for information on this. Portland became the first large system to go All-Digital in June. Today 10% of the company has made to the conversation and somewhere over a third of all of our systems are actively engaged in the process of converting. By the end of this year, a third of our systems will have completed the conversion process.</p>
+          <p>Results to date have been better than planned. Costs are a drag on cash flow growth, but costs are coming in below what we planned for them to be. We're also seeing operational savings post-transition in Portland and believe this effort will have an attractive ROI in addition to paving the way for 100 high-def channels, ethnic programming, and other product enhancements.</p>
+          <p>Moving on to data, ARPU is strong but high-speed data net adds were disappointing at 65,000. We expected to see some deceleration during the second quarter but not at this level. There are a variety of factors that contributed to this performance. Seasonality and the economy clearly played a part in our net add softness, but so did our marketing emphasis. Much of our marketing during the second quarter was for the digital transition and other initiatives that had nothing to do with high-speed data.</p>
+          <p>When we started marketing the triple-play and high-speed data more aggressively in July, our data sales improved markedly. In fact, we've already gained more subscribers third quarter to date than we did in all of the second quarter. We expect August and September to build on July's momentum as we head into our strongest time of the year for data, the back-to-school season.</p>
+          <p>Longer term, DOCSIS 3.0 will give us a speed advantage across the country. These efforts are about half complete, but they have yet to contribute to our net add performance in a significant way.</p>
+          <p>During the quarter, we introduced our 4G wireless product, which we call Comcast 2go. Please refer to slide 10. We launched July 1 in Portland, Oregon, and July 28 in Atlanta. We'll be moving this product into Chicago, Philadelphia, the Washington state area, and other markets later this fall. While it's early, we've gotten off to a strong start and are ahead of plan. For new customers, we're offering a compelling combination of in-home and mobile data for 49.99 a month for the first 12 months. This is a great product and the good news is it's bringing a lot of customers into the high-speed data fold that are new to that segment of our business.</p>
+          <p>As reported, we also recently announced a new web service that allows authenticated cable customers to get more programming via the Internet. Please refer to slide 11. We're beta testing this with 5,000 customers today. The site is terrific and it's continuing to perform well with over 20 programmers and over 4,000 titles available, and we plan to expand this launch nationally this fall. We think this effort is very important strategically for the cable industry and we're pleased to see it starting off so well.</p>
+          <p>Moving on to Voice, we had 233,000 Voice customers in the quarter. Penetration is now up to 15%. Close to a quarter of all our customers now subscribe to all three of our products. Similar to high-speed data, we are seeing an improvement as we exit the second quarter and look at July results.</p>
+          <p>We continue to enhance and differentiate our Voice offering. For example, we're testing and will soon launch an enhanced cordless telephone that allows you to check your Comcast.net email without turning on your computer, synchronize your address book, search local business listings, and read the latest news, weather, and sports all from your home phone.</p>
+          <p>As Brian mentioned, we've recently launched a Comcast mobile app for Apple iPhones. This app allows you to check email, synch your address book, and this fall will allow you to program your DVR. In just a couple weeks, we've had over 200,000 downloads and we're one of the top 12 apps for the Apple iPhone. In the near future we'll be launching converged wireless apps on BlackBerry and other devices. Between our 4G launch and the Comcast mobile apps, you're starting to see us flesh out our wireless strategy.</p>
+          <p>Our cable advertising business was down 19.6% for the second quarter. This is obviously real weakness and a material enough miss that our cash flow growth rate would have been over two percentage points higher without ad sales. Our ad sales business was down 25% in the first quarter and 20% in the second quarter. So you could say this is sign of some improvement, but the market is very opaque at this point. We've had some weeks that are better than the second quarter, but it's really too soon to say that the advertising market is recovering.</p>
+          <p>Moving on to Business Services, our commercial business continues to show very strong growth. Please look at slide 13 for a sense for how this business is ramping. Revenue was up over 50% in the quarter and year to-date. This business is firing on all cylinders, even as our base gets bigger. Our growth rate is accelerating from the mid-30s 18 months ago to over 50% this quarter. We look forward to continued high growth rates in the quarters ahead.</p>
+          <p>We're continuing to focus on the small business sector with eight-line phone, high-speed data, and Microsoft communications services. We're sharpening our marketing message and building real scale in this business. At the same time, we're branching off into new businesses beyond just small business customers. For example, we're expanding our cell backhaul operations and now have agreements with wireless carriers contracted for over 2,000 towers. Our goal is to keep this business growing rapidly and this is an area where we'd like to invest as much capital that gets a good return as possible. Our plan is to do that in the second half of 2009.</p>
+          <p>In summary, while the environment is challenging, we're continuing to grow our cable business. As importantly with All-Digital, DOCSIS 3.0, 4G, and Business Services, we're making the investments today that will power our growth in the future.</p>
+          <p>Marlene?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks, Steve. Operator, let's open up the call for Q&amp;A please.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you. <mark type="Operator Instructions" /> Our first question comes from Spencer Wang with Credit Suisse.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Good morning, two quick questions. First for Steve, if we could just go back to the broadband net adds again, you talked about seasonality and marketing playing a role in the weak results. Can you talk a little bit about anything you're seeing in the competitive environment that may be impacting the results? And do you have any plans to be more promotional with data pricing? And then one quick question for Mike. In the past, Comcast has given us a sense of timing in terms of completing the buyback. Can you give us any clarity there on the buyback? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Spencer, let me go first. In terms of high-speed data net adds, I think in the first quarter we gained about 300,000 high-speed data subs. So 365 is a big drop. It really looking at it, it was a whole bunch of different factors. But the good news is once we adjusted and really started doing more single product high-speed data promotions and triple-play promotions and shifted away from the country's digital transition, we've seen the business pick up significantly, and I think the third quarter is going to look a lot more like the first quarter than the second. And as I mentioned in my opening remarks, already in the third quarter we've added more subs than we did in all of the second. So I think really the primary driver that we can control is concentrating on getting those marketing campaigns out there, which is what we're doing. Mike?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yes, why don't I take there the call on timing of the buyback? We continue to believe the stock is undervalued. We have articulated I think a pretty balanced financial strategy for the year, and we are really pleased that we resumed purchasing the shares. The way we viewed purchasing the shares is really based on excess liquidity. When you look at what our thoughts were with regards to the strategy this year of how we delever and how we use free cash flow, we are generating some excess liquidity. And we thought the best use for that was to repurchase some shares. So we'll continue to resume purchasing and we're pleased to do it.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Great, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thanks, Spencer. Operator, next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question comes from Ingrid Chung with Goldman Sachs.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Good morning, thank you. Just to follow up on Spencer's question regarding free cash flow and the uses of free cash flow, my first question is why wouldn't you refinance the short-term debt that you have coming due this year? And then what's your outlook for returning more capital to shareholders in 2010 when you're hopefully growing free cash flow again?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I think, Ingrid, and we were very clear at the beginning of the year that we wanted to modestly delever. And when we think about leverage, we think about leverage clearly as debt to operating cash flow. We also think about debt to unleveraged free cash flow as well as debt to free cash flow.</p>
+          <p>I think that the goal this year was to really create an independent company from financing standpoint. We don't want to get into a situation where what occurred last fall with the financial crisis, and I think that a number of things we've done this year in terms of modestly delevering, in terms of growing free cash flow, in terms of pushing out some of the maturities at attractive rates, all represents what we think is a pretty balanced strategy as well as increasing the dividend and now resuming the purchase of shares. We're looking at that as a very balanced, maybe a touch conservative, but a very balanced strategy of how we're using free cash flow.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>And the outlook for 2010?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I think we'll talk about it later in the year.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay, great. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thanks, Ingrid. Operator, next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question comes from Jason Bazinet with Citi.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>I just have a question for Mr. Angelakis on OCF margins. I guess over a long period of time, we've always been able to think about 40%-ish margins over the last decade. And I guess if we looked under the hood, I think you guys would agree that the gross profit margins on video have come down and you have been helped by high gross profit margins on data and phone. If those revenues begin to slow on data and phone, do you think there's enough cost cutting in the system over the next two to three years that will allow you to maintain these margins or do you think it's more apt that they drift a touch lower? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I think our margins number one are the highest in the industry. So I think that's important to note. Secondly, if you just look at slide six, which really goes through 2.5 years of margins, we've steadily increased the margin by 150 odd basis points.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I think that we are very focused on where the margin goes, but I think we have appropriate costs in the company both on high-speed and on voice that we're going to manage well and as we articulated in the call, I think over the next &#x2013; it's very difficult to look at the next two years, but I think we're pretty confident with where our margins are.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thanks, Jason. Operator, let's have the next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question comes from Craig Moffett with Sanford Bernstein.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Hi, good morning. I wondered if you could elaborate a little bit more on your strategy as it relates to Clearwire. Your pricing strategy, at least your promotional pricing strategy in Portland, was quite aggressive. I presume that reflects a low transfer price. I'm just wondering if you can talk at all about what kinds of margins you expect to make on the Clearwire business.</p>
+          <p>And then second, if you can talk about what your Voice strategy might be as it relates to Clearwire and the wireless business in general, would you expect to start offering Voice services that ride on top of the Clearwire service, and do you think of those as effectively another free add-on or do you think of those has another potential profit pool?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Okay, Craig. Just so that everybody understands exactly what we're doing with this product, which we call Comcast 2go. It's powered by the Clearwire network in the markets where they have launched their network. But to the consumer, it's branded as Comcast 2go. It's primarily sold in conjunction with our high-speed data product, and we think of them as sold in a bundle that makes a lot of sense for the consumer and is quite straightforward transactionally for us to process.</p>
+          <p>We charge 49.95 for the first year. Most of the time when we're selling high-speed data, we have &#x2013; high-speed alone, we have some form of promotional price. So one way to look at it is you're getting high-speed data subs that you would have otherwise promoted for, plus you're getting the Comcast 2go subs. The product at the end of the year resets to 69.95, and the combination product of the two has a very healthy margin. We were just talking about 40% margins. The margin is in excess of 40%, the combination once it resets to 69.95.</p>
+          <p>We think the product is very sticky. The mobile component always comes with a contract. We think that's very sticky. And really importantly, 40% of the customers we're getting in Portland are brand new to Comcast, so they're lapsed DSL customers or customers who otherwise potentially would be getting DSL. And for us, this is a way to grow our high-speed data business in the home and add a new business line. So I understand your point, we're using someone else's network. There is a transfer price; how does that all work economically? But we're very comfortable that this is a product that is an enhancement to our high-speed data business and can grow the overall pie.</p>
+          <p>As it relates to Voice and some of the other things we're doing in wireless, I think at this point it really doesn't make sense for us to tip our hand. But we've been talking about wireless a long time and I think you're starting to see us execute our wireless strategy. And obviously 4G is a big part of it, but there are other parts, multiple other parts that you'll be seeing in the months ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>And Steve, the growth rate that you've had in that 40% in Portland that you're taking from competitors, does that translate to a meaningfully faster growth rate overall in Portland or can't you tell?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>For high-speed data net-adds?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yes, it's definitely faster.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay. Got it, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thanks, Craig. Operator, let's take the next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Jessica Reif-Cohen with Banc of America-Merrill Lynch.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thank you, two questions. The first one is can you give us an update on Canoe?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yes, do you want to do the second question now, Jessica, or do you want that first?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>The second question is completely different, so if we can just do that one first.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Okay, we just had a Canoe board meeting a couple days ago. I think we're making very good progress. You're not seeing it in the numbers right now, and you really won't see it in the numbers in a material fashion for a while. But the industry has really come together well. One of the products that we're working on now relates to the rollout of EBIS, which those of you who follow the industry well understand that EBIS is going to allow us to do a lot of interactivity, RFI, voting, and polling. And depending on how that rollout goes, the partner MSOs could have as many as 25 million EBIS-enabled homes by the fourth quarter. And those homes are going to be Canoe enabled homes, and then there is going to be an entire business built on that.</p>
+          <p>And that project is going quite well, as are other things that Canoe is doing. So we, the Board meeting was three hours long. I spent another three or four hours with the Canoe team, and obviously this is a really important initiative for the company. We've got to get interactive advertising moving and I think we're making real progress.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>So is this like 2011 will see revenue from this business or?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think you'll see some revenue in 2010 and it will become more material in the future.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay. And then just switching gears, what exactly caused you to step up the rollout of DOCSIS to 80% of the country? I mean what are you seeing, where do you expect to go?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I think we've always been real believers and one of the earliest advocates of DOCSIS 3.0, and it was always our intention to roll it out to the majority of the country. A lot of it is operational, how you get it into the markets and is it working well, et cetera. And I think part of raising the estimate is just we're getting it implemented and we're a little further along the line and continue to be big believers in it. I think everybody in the industry eventually is going to put DOCSIS 3.0 pretty much everywhere and it's just a question of how fast you go.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I just want to add, I think as part of our technical repositioning of the company, and we're getting the plumbing work done and  getting all the operational, capital ,and every other issue behind us, All-Digital, as Steve talked about earlier, and DOCSIS 3.0 are the two big initiatives that we've got to get through the whole company, have true two-way completely up and running on all the various devices, and you come out of that period and you have a totally different product. You have faster Internet. You have more high-def channels, more ethnic channels. You have a whole another way to begin to think about bandwidth allocation.</p>
+          <p>And so it's going well. It is a lot of work. We're a big company and I think if the goal is to come out and be able to credibly position our products as the best, whether it's video or data or cross-platform, having the DOCSIS 3.0 platform is an essential ingredient in our strategy, and so we're pretty happy to have it getting throughout the machine a lot faster.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Brian mentioned All-Digital. We'd like to be in a position to report that we're speeding up All-Digital as well. Right now, we have about 10% of the country done, but about a third of all the systems are in process. And it's a lot of work, both DOCSIS 3.0 and All-Digital are a lot of work. Strategically, we think it's important to get those projects done and if we can speed up All-Digital, we will as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>And basically they're both going well.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay, thanks, Jessica. Operator, let's have the next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Vijay Jayant with Barclays Capital.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Hi. Steve, just a question on &#x2013; we're hearing that Motorola has finally got a switching solution that can scale. Will that change your All-Digital strategy? Is that something you would consider? And just following on that, given the recent ruling on Network DVR, how do you think about that? Have you done any cost/benefit analysis to do that at this time? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I think our vision of the future is you want to be all-digital and you want to switch, and you want to be able to offer as many possible choices to consumers as you can. So I don't think they're mutually exclusive. So we're going to continue moving and taking 100% of the company or functionally 100% of the company all-digital while continuing to work on switching. And we do think we've made real progress on the Motorola side of the house in terms of switching.</p>
+          <p>Regarding network DVR, we've always believed that the network DVR is a great application that satellite can't replicate. There are a lot of different nuances in terms of how you manage the storage, what the actual product is et cetera. And with all of those different choices come different costs and cost benefits, and we're working our way through those now. But I think there is no question some form of network DVR type service is going to be in our future. It's just a matter of determining which form it is and then getting that implemented.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thanks Vijay. Operator, next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Benjamin Swinburne with Morgan Stanley.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thank you, good morning. If I could ask one for Michael and for Steve. Mike, on the All-Digital rollout, I believe you're expensing, and correct me if I'm wrong. I believe you're expensing the labor on those DTA deployments which I think is probably creating some drag on your margins. And as we think about next year, some of those expenses should roll off as you guys complete this project. I don't know if you could help us think about or quantify that trend this year and as you look forward.</p>
+          <p>And then for Steve on the competitive front, I think you said 28% overlap with T [AT&amp;T] and Verizon. Are either of &#x2013; which of those two might be meaningfully more competitive and more promotional? I don't know if there's a big difference in the two from a product perspective and where do you think that 28% goes, best guess from here over time? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Let me take a stab at both of them. First on the competitive, it's 28% now. I think by the end of the year, it will go to around 30%. AT&amp;T has much more footprint. It's easier for AT&amp;T to expand their footprint more quickly because they're not doing as intense investment or fiber work as Verizon. But AT&amp;T and Verizon go back and forth in terms of who is most impactful to our business. They're about the same. In any one quarter, one might be slightly ahead than the other, but it's not as if one is taking many more than the other. And it varies by quarter; it varies by region obviously depending on where they are.</p>
+          <p>In terms of the All-Digital drag, if you look at what's happening when a market goes All-Digital, first of all it affects almost everyone in the market. It affects almost every tech. It affects almost every person in the call center, marketing, everyone else, and it does have a drag on the business. We think in the first quarter &#x2013; or in the second quarter, excuse me, All-Digital and the country's digital transition, the combination of those two efforts was probably a drag of about a point of cash flow. You implied that in 2010 it would be a positive for us. The reality is I think for all of 2010, every quarter in 2010, we're still going to be taking systems All-Digital. So I don't think that one percentage point necessarily comes back until 2011.</p>
+          <p>But the drag is more than just financial. The drag is &#x2013; there's only a certain amount of intellectual bandwidth that a system can have. And when you're going through one of these conversions, it's quite intense. What's great is when you come out, and the Oregon system has now come out the other side, you have clear savings and efficiencies and you can then offer your customers 100 high-def channels, lots of ethnic channels, really a better video product than any of our competition, plus of course high-speed data and everything else. So when a system is going through it and it might take nine or twelve months for a particular system to get through the All-Digital conversion, it's clearly a drag in a lot of different ways. But when they come out, it's a real benefit.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Let me just add one minor point, which is the reason we're taking nine to twelve months in a system is we want there to be minimal customer dislocation. You could do it faster, but then if as more people clog up phone calls, we're really sensitive to trying to make this as least disruptive to the consumer as possible and just have it be a benefit when we're finally done. That seems to be working.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>And just to follow up, Ben, I think we've talked about this before that in 2009 &#x2013; 2010, we are allocating capital for both the All-Digital as well as the DOCSIS 3.0 rollouts. Obviously we're accelerating DOCSIS 3.0 a bit, not going to be meaningful in terms of how we manage capital. That will be a bit of a benefit to us in 2010, but we will have the All-Digital CapEx in 2010. And then 2011, our hope is obviously this capital goes away and some of the expense drag goes away as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thanks everyone.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thanks, Ben. Operator, let's take the next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Thomas Eagan with Collins Stewart.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Great, thank you very much. I guess a question on basic. Who do you see as being more competitive right now; i.e. who are you losing more of our basic customers to? Is it more the RBOCs or is it satellite? And then I have a follow-up on the All-Digital, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I think at this point it's more the RBOCs than satellite.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay and regarding All-Digital, we saw with Cablevision as they took off about 14 analog channels off the channel lineup, they added digital but lost analog. So if you could talk a little bit about as you proceed with the All-Digital transition, what the impact is going to be with analog versus digital subs? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>The way our All-Digital works, the only people who stay analog are lifeline or B1 customers, which is a small minority, and they continue to get ABC, NBC, CBS, C-SPAN, whatever is on that lifeline tier. Everyone else goes to digital so there really is no analog base.</p>
+          <p>We don't lose subs when we go through the transition. We may lose some but we also gain some because of theft reduction et cetera. And everyone who then gets converted to a digital customer who was analog gets something. We typically add a dozen new channels. We add music channels; they get digital picture quality. So really no one goes backwards. There is an inconvenience. You need to put a digital converter or a set-top box in someone's house. 80% of the time, we do that with a self-install kit so it's a fairly easy thing. We drop-ship, you don't need to take a half-a-day off from work and wait for somebody to come and do it. But whether it's a regular functioning digital set-top box or a D-to-A converter, no matter what happens, everybody goes forward in the market. No one goes backwards.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Great, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thanks, Tom. Operator, let's take next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Doug Mitchelson with Deutsche Bank.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thanks very much. Just two questions one for Brian and Steve just to further the conversation on wireless, let's look out a couple years. One question I get a lot from investors is regarding RBOC 4G wireless rollouts and the impact it will have. You have already discussed your wireless efforts and you're the first to market with your solution, so that helps you take share for now. Is there a risk that that reverses when 4G gets out there for the RBOCs given their scale and their ability to essentially compete on price? That's the first one.</p>
+          <p>The second one is just, Michael, I'm wondering about the 2010 programming cost outlook. This is a tough year for programming cost renewals. But based on the contracts coming up for renewal, I would think that 2010 might be a little better year. I'm just curious of any comments you might make there. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>This is Brian. So on wireless, our working assumption is the wireless companies are going to do whatever they're going to do anyway. And so 4G is the next evolution in their technology. I'm not sure how quickly it really does get here. They're barely deployed the 3G, and what the return on capital would be to completely go to the next generation this quickly, we're just going to have to see their behavior, not much we can do. So our view is how best to enter the market, and when Clearwire came to us and said we can start from scratch with over 100 megahertz per market and have virgin spectrum deployed to innovation with 4G right out the box, that was very appealing to us. We've only launched two markets in just a few weeks or few months. But it is very exciting to begin to have the bundle that Steve talked about. And we're assuming that obviously the wireless companies will have their own bundle.</p>
+          <p>The question that we never got back to that was asked in this space as well was what about voice with wireless. And it's always &#x2013; a lot of us believe that in wireless long run, voice is going to ride on top of data as an application. And that's not here today, but there's a lot of people that see that day coming. So it's a real good beginning. We also have done some nice work with the iPhone with our wireless team and the data team and it's just the beginning of having a complement of products and I think it's important strategically and hopefully be a good investment in addition to that as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Doug, obviously on the programming side, we don't want to get too far ahead of ourselves with regards to 2010. We look at programming costs from two perspectives. One is as we add more digital customers, obviously our programming costs go up, that we acknowledge and are actually happy to have more digital customers. What we're obviously very focused on is what is the increase in our cost on a run rate basis. And I know we're somewhere around 9%, a little bit higher, and working really hard to make sure that number comes down.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Great, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thanks, Doug. Operator, let's take our last question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our last question comes from John Hodulik with UBS.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay, thanks. Good morning, thanks for the question. I guess this is a question for Michael. You mentioned that you saw some improving trends in July on the basic subs, basic video subs front I think versus what you were seeing in June. Can you just talk a little bit about what's driving that? Are you seeing some bottoming in the economy because I would imagine that you would have gotten some benefit from the digital transition in June, then for July to be better? I'm just wondering if you guys are doing something different or if you're seeing something different in the market.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think really what is happening in terms of our business picking up relative to our plan is really just the focus of the marketing efforts. When a third of your company is going through the All-Digital transition, they're really thinking about that. When 100% of the country is doing the country's DTV transition, just thinking about that and what we found is day-in and day-out, we need to have a strong triple-play promotion which we do, a $99 one-year triple-play promotion, and we need to have a strong high-speed data message in the market frequently, and a basic sub message and a phone message in the market frequently. And it's interesting, once we started doing that and really getting back to that during the months of June and July, the business really responded.</p>
+          <p>And as it relates to high-speed data, what happens in the third quarter, which is traditionally a good high-speed data quarter, is you have back-to-school. And so whatever momentum you start in July and August typically increases in September. It's very hard to predict what's going to happen with competitors. I don't think the change in the economy is having the material impact. I think it's more what we're doing in terms of our marketing and we hope the trends continue.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>I just want to conclude by saying that an important question that we're starting all the time. But I think what this quarter demonstrated, what the first half demonstrated is it's about a balance between our financial focus and discipline and rigor and units in a world where 28% has now been overbuilt, and we're realistic about that. We're planned for it and we're constantly balancing. So it's a combination of execution, as Steve just has talked about, how do we adjust that execution every week, every month, every quarter. And keeping a focus on the big picture which is this is a very solid business in tough economic times with some unusual things going on. And I think we're going to come out of it and be a strongest that we ever been. So we're pleased with the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, John, and thank you all for joining us this morning. Operator, please provide instructions for the replay.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>There will be a replay available of today's call starting at 11:30 AM Eastern Standard Time. It will run through Tuesday, August 11, at Midnight Eastern Time. The dial-in number is 800-642-1687, and the conference ID number is 15891171.</p>
+          <p>This concludes today's teleconference. Thank you for participating. You may all disconnect.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

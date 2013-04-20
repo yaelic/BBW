@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1405895" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q2 2011 Earnings Call</title>
+    <date>2011-07-25</date>
+    <companies>
+      <company>1382</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep" affiliation="Vice President-Investor Relations">Robert Noorigian</participant>
+      <participant id="2" type="corprep" affiliation="President &amp; Chief Executive Officer">Claude Mongeau</participant>
+      <participant id="3" type="corprep" affiliation="Chief Operating Officer &amp; Executive Vice President">Keith E. Creel</participant>
+      <participant id="4" type="corprep" affiliation="Executive Vice-President and Chief Marketing Officer, Canadian National Railway Co.">Jean-Jacques Ruest</participant>
+      <participant id="5" type="corprep" affiliation="Chief Financial Officer &amp; Executive Vice President">Luc Jobin</participant>
+      <participant id="6" type="analyst" affiliation="TD Securities">Cherilyn Radbourne</participant>
+      <participant id="7" type="analyst" affiliation="Morgan Stanley &amp; Co. LLC">Bill J. Greene</participant>
+      <participant id="8" type="analyst" affiliation="CIBC World Markets, Inc.">Jacob Bout</participant>
+      <participant id="9" type="analyst" affiliation="JPMorgan Securities LLC">Thomas R. Wadewitz</participant>
+      <participant id="10" type="analyst" affiliation="RBC Dominion Securities, Inc.">Walter Spracklin</participant>
+      <participant id="11" type="analyst" affiliation="Bank of America Merrill Lynch">Steven C. Sherowski</participant>
+      <participant id="12" type="analyst" affiliation="Wolfe Trahan &amp; Co.">Scott H. Group</participant>
+      <participant id="13" type="analyst" affiliation="Scotia Capital Markets">Turan Quettawala</participant>
+      <participant id="14" type="analyst" affiliation="Sanford C. Bernstein &amp; Co., Inc.">David Vernon</participant>
+      <participant id="15" type="analyst" affiliation="Barclays Capital, Inc.">Gary Lee Chase</participant>
+      <participant id="16" type="analyst" affiliation="Cormark Securities, Inc.">David F. Newman</participant>
+      <participant id="17" type="analyst" affiliation="BMO Capital Markets (Canada)">Fadi Chamoun</participant>
+      <participant id="18" type="analyst" affiliation="Citigroup Global Markets (United States)">Chris Wetherbee</participant>
+      <participant id="19" type="analyst" affiliation="Dahlman Rose &amp; Co. LLC">Jason H. Seidl</participant>
+      <participant id="20" type="analyst" affiliation="Susquehanna Financial Group LLP">Bascome Majors</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>CN's Second Quarter 2011 Financial Results Conference Call will begin momentarily. I would like to remind you that today's remarks contain forward-looking statements within the meaning of applicable securities laws. Such statements are based on assumptions that may not materialize and are subject to risks described in CN's second quarter 2011 financial results press release and analyst presentation documents that can be found on CN's website. As such, actual results could differ materially. Reconciliations for any non-GAAP measures are also posted on CN's website at www.cn.ca. Please standby, your call will begin shortly.</p>
+          <p>Welcome to the CN Second Quarter 2011 Financial Results Conference Call. I would now like to turn the meeting over to Mr. Robert Noorigian, Vice-President, Investor Relations. Ladies and gentlemen, Mr. Noorigian.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you for joining us for CN's Second Quarter financial results call. I'd like to remind you about the comments that have already been made regarding our forward-looking statements.</p>
+          <p>With us today is Claude Mongeau, our President/Chief Executive Officer, Luc Jobin, Executive Vice-President/Chief Financial Officer, Mr. Keith Creel, Executive Vice-President/Chief Operating Officer and J.J. Ruest, Executive Vice-President/Chief Marketing Officer.</p>
+          <p>After the presentation today, we're going to take questions from those of you who are listening on the call. Could you please identify yourself when you are asking the question. In order to be fair and so we can get through the 30 analysts that are following us at the present time, would you limit yourself to one question. Thank you very much.</p>
+          <p>And now it's my pleasure to introduce Claude Mongeau, CN's President and Chief Executive Officer.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Bob, and thank you everybody for joining us on this call. We're going to take you through our second quarter results. These were very good results. I'm particularly pleased given the adversity we faced with the solid growth that we were able to deliver across the board. J.J. will give you more detail, but adjusting for currency, we had revenue growth of 11% and good growth across all the business units. And I'm very pleased that our supply chain collaboration is working for us. It's working in every segment, but in particular, in the intermodal sector, we are seeing very, very solid growth on the back of our end-to-end supply chain approach.</p>
+          <p>So this bodes well in terms of the balance of the year. Not done here but &#x2013; and we'll comment on what we see in terms of the environment, but certainly our ability to lead the industry in terms of carload growth in the second quarter is a very solid proof point that our strategy is working. It's working on the top line, but it's also working in terms of operational excellence. I have to say Keith and his operating team did basically a bang up job. It was an exceptional quarter protecting the integrity of our network and the reliability of the supply chain we served.</p>
+          <p>We did see, like every other railroad, significant challenges from floods in the southern part of our network to the western part of the network &#x2013; even the east; some exceptional flooding to fires, to mudslides. All of this coming and kept coming at us throughout the quarter, but we were able to keep very, very solid operational metrics and, importantly, do so to protect the service and the reliability to our customers. And when you add it all up, this is the key &#x2013; one of the key reasons we were able to come in with an operating ratio of 61.3%, which is essentially in line with the performance we achieved last year.</p>
+          <p>In terms of earnings growth, up 12%. Luc will give you some of the detail, but 12% despite the headwinds that we faced is a very solid performance and it was backed up by a equally solid free cash flow performance. At mid-year, we have delivered $823 million of free cash flow, which is certainly indication of the solid results overall that this team has been able to deliver in the second quarter and in the first half in general.</p>
+          <p>Keith, with that, can you go over the operating results?</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Sure. Thanks, Claude. Operationally, coming out of a challenging weather-related first quarter. Our team's agenda was purely focused on taking advantage of what we expected to be operating conditions much more favorable, which would allow us to restore our service and productivity metrics to non-winter performance standards, clear any traffic backlogs we had at the time, and optimize our network <mark type="indiscernible" /> (4:59).</p>
+          <p>Little did we know what Mother Nature had in store for us. The snow melted, but the weather challenges did not abate. Regardless, I'm happy to report that this team succeeded, protected the integrity of our network for our customers by demonstrating the tenacity and the sense of urgency required to ultimately produce these results. I'm especially proud of the relentless commitment and the sacrifices and contribution of our engineering team who had what I certainly hope was an unusual number of severe weather related disruptions to deal with throughout the quarter.</p>
+          <p>To deliver these acceptable operating metrics in spite of this adversity, protect the integrity of the network and do it while delivering to most what was an unimpeded service is a testament to the key enabler of success that we have with this franchise. And that's the railroaders that we all work with; all 22,000 of them.</p>
+          <p>Let's take a moment, look at the key metrics we monitor our success with and report to the market on a quarterly basis. So here, you've got the Q2 year-over-year comparisons for the key operating metrics, which most of you all recognize by now. These metrics reflect some of the biggest economic levers we have on the business. If we manage these things properly, I know that we're delivering good service at low cost.</p>
+          <p>Starting in the upper left and moving across, train load, as we measure in GTMs per train mile, continued to increase in the second quarter versus 2010. This reflects our eco-train strategy, the investments we made over the years in <mark type="ph" /> starting (6:23) extensions and distributed power and our ongoing focus on managing the available traffic we have onto our existing service plan.</p>
+          <p>This continues to be one of the most powerful levers we have. It reflects maximum utilization of rail crews, locomotives and fuel. From the cars per yard switching hour, essentially we had a flat performance, while terminal dwell continued its positive trend. This shows that our terminals continue to process well while dealing with the increased merchandise; carload widened about 5%.</p>
+          <p>Looking at the bottom row, trailing GTMs per total horsepower; it's off about 6% year-over-year, but this reflects in part our focus on erring on the side of service and revenue generation with both our locomotive and car fleets, and in part to the numerous weather related disruptions we faced this quarter.</p>
+          <p>Car velocity is off about 2.5% year-over-year, quarter-to-quarter, driven mainly by changes in intermodal. Train speed's down some, tied to the weather related issues we talked about, plus the focus on clearing our import containers from our ports rapidly. And on the lumber side, the switch on the <mark type="ph" /> center (7:24) beams to shorter haul, Vancouver to Rupert export flows, versus some of the longer hauls that we enjoyed last year.</p>
+          <p>Train speed, finally, off a similar amount, impacted by the disruptions that I've talked about; the noise in the system. Both of these velocity metrics will recover as the weather and the flooding's behind us and our infrastructure work that we're engaged in now in Alberta, Northern Ontario, and our new EJ&amp;E starts to kick-in in late Q3, Q4. So rest assured, with the weather behind us, we'll do what we do best, and that's a relentless pursuit of driving improvements to our operating metrics while we manage our cost in-line with the business that J.J.'s team delivers.</p>
+          <p>Now going to slide seven, you can ask the question what enables CN to produce this level of performance in the face of some of these significant adversities that we continue to deal with. And it continues to be our ability to execute our precision railroad and operating models, the foundation of our success in the past; that remains at the core of Claude's leadership and our business strategy as we evolve as a company.</p>
+          <p>That's been key to helping us battle Mother Nature in both the first and the second quarters and it'll still be the foundation to the service and operating improvements. We expect it to convert and make it as the balance of the year unfolds. A couple of those examples, in the field productivity front, continued process and technology improvements, investments in DP and signings that's allowed us to scratch out another 1% gain in fuel productivity year-to-date, on top of the 7% gains we've made over the past few years, despite the disruptions we faced in the second quarter. And again, despite the weather work related &#x2013; the work related workload placed on our engineering forces year to date, our engineering OpEx is still within 1% of last year's performance, which is well within wage and material inflation.</p>
+          <p>Our plan to execute, measure and identify improvements and start all over again mindset, which is the foundation of precision railroading, continues to produce additional opportunities where we can fine-tune our reliability, improve service and productivity. A couple of those that we're converting now, engine health monitors linked to our Wi-Tronix investment on our locomotives, which gives us a predictive measure to when a locomotive might fail before we allow it to fail within our network and effect our fluidity. On the same front, rail flaw detectors that we're deploying, a leading-edge technology which we're confident will allow us to identify suspect wheels before they fail in trains as well affecting our network. Improvements in rail flaw detection and our deployment strategies and finally leveraging technology again to drive compliance, helping us on the fuel front on our locomotive outlet policies.</p>
+          <p>And on the innovation side, myself and our team, as we've talked in the past, we continue to invest time working with J.J.'s team and our supply chain partners to integrate our practices &#x2013; best practices across the supply chain. I'm particularly excited about some of the supply chain visibility tools we developed in key sectors, such as export coal, iron ore and most recently potash that we're utilizing in the market. This partnership approach drives end-to-end efficiencies and performance for all the supply chain participants, be it the mines, terminal supports and our franchise. We strongly believe that when we succeed our customers will succeed. We're convinced these efforts have and will continue to have long-term benefits for the supply chains in which we participate.</p>
+          <p>And now let me turn it over to J.J. to hear about how these efforts are paying off growing our franchise one carload at a time.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Well, thank you, Keith, and good afternoon to all of you. And I really especially want to thank the engineering forces of CN who put us back in business very quickly every time we have a bit of a service disruption. All of our business unit posted revenue gains this quarter. The second quarter revenue was up 8% or 11% on the FX adjusted basis. Breaking this down, the volume was up 4.5%, VRTM increased 5%, and the carload increased 4%. The main volume driver of our last quarter were intermodal, grains, steel and iron ore.</p>
+          <p>Same-store price was a solid 4%, in line with first quarter, but also above last year run rate. As a reminder, same-store price applied on approximately three-quarter of our book of business after the removal of the pure revenue. Fuel surcharge was up 3.5%, mix was basically flat, and exchange rate reduced revenue by 3%. The Canadian dollar was $0.06 above the same timeframe last year.</p>
+          <p>Now, looking at the first quarter in detail, I'm on page nine, and all of my comments are going to be on the FX adjusted basis. Starting with petro and chemical, which revenue was up 8% and chemicals we handled increased volume across most segments mostly <mark type="indiscernible" /> (11:48) chemicals. On the petroleum side, we had greater volume of refined product, but largely offset by the loss of condensate to a new pipeline. So, therefore, combined P&amp;C volume was especially flat for the quarter.</p>
+          <p>Metals and minerals revenue was up a strong 21%, excluding iron ore. I'm going to talk about iron ore separately. Metals and minerals volume was up 12% in RTM terms and 3% in carload terms. Steel shipment were robust. They were driven by strong market recovery. We have some market share gains, and we also had a recent fleet acquisition. Steel slabs, steel billets, nuggets and scrap did very well during the quarter. The steel operating rate averaged 74%.</p>
+          <p>The oil and gas sector is a good sector for CM. We had a strong FRAC sand and high volume to the shale gas drilling area. And we will participate in Southern Pipeline projects; and, as well as, we're attracting new FRAC sand production capacity in our CN line in Wisconsin.</p>
+          <p>Despite the permanent closure of two smelters in the last year, which resulted in the loss of metal shipments, we've benefited from new long-haul zinc and copper concentrate and we gained market share. The net result of this industry restructuring has been positive for CN.</p>
+          <p>Iron ore revenue was up 25%. We had very strong carload growth and RTM growth in iron ore across our customer base. The forest product revenue was up 10%. Our carloads were up 6%, but the RTM were down slightly. The wood pallet export grew 50% in the quarter on the back of new production capacity, all in British Columbia. We gained in containerboard volume against the truck. We also had very strong Chinese demand for lumber to the West coast, which in fact were up 40% from Q1. That was useful to offset the persistent weakness in U.S. housing starts.</p>
+          <p>We had strong global demand for wood pulp, which increased our export volume to Asia. The slight negative RTM in forest product is a result of the industry restructuring itself to the growing market of Asia, which is less RTM per carload than the lumber and pulp market in United States. Automotive volume was up 6%. We had a 7% increase in carload which is reflecting the improved performance of the big three. However, we did experience a reduction in RTM for the automotive sector, and that was due to getting less long-haul carloads out of Vancouver, which is related to the Tsunami in Japan, as well as the non-renewal of the legacy contract out of the Vancouver port.</p>
+          <p>The coal volume overall in Canada and U.S. was up 8% in revenue. We had good demand for export coal. Our west coast volume did very well. In fact, our west coast coal volume was up 20% in RTM terms. All that despite the much lower carloads on the west coast resulting from the new tech interchange contract. We also had some new PRB export via Rupert during the quarter. Our U.S. terminal coal suffered low volume from U.S. utilities; basically high inventories of coal, cheap natural gas and overall lower burn rate.</p>
+          <p>The grain and fertilizer revenue was up 16%. We had robust overseas demand for Canadian grain coupled with strong U.S. corn and soybean export. We also had a Q2 increase in fertilizer which was reflected by the delayed potash application, basically weather related. Grain prices are high and the farmers want to use more fertilizer.</p>
+          <p>Overseas intermodal was up 16%. We gained volume with our new supply chain service where the CN focus starts right from the time the overseas box hit the dock to the time it is picked up in the city served by CN.</p>
+          <p>Our volume growth in the west coast, by that I mean Vancouver and Rupert combined, exceeded the North American west coast port average.</p>
+          <p>Domestic intermodal volume was up a strong 14%. We were basically off in volume in all segment of the domestic retail. Our non-rail volume was up 2%. We had a nice increase in the CN Great Lakes vessel fleet activities as well as the CNPL trucking, which was offset by a decrease in our freight forwarding activities.</p>
+          <p>Now we turn to what's ahead of us, the outlook. I will go on page 10 for the intermodal. Intermodal is a core growth &#x2013; is a core growth engine of CN. We are refining constantly our port services at all three coasts and we are expanding our network of final destinations to bring product into the hinterland from these three coasts.</p>
+          <p>Our merchandise business unit sales force is also helping generate export container business from our merchandised customers, which is giving us a better import/export balance. We will take delivery of roughly 1,400 domestic containers, mostly insulated containers, which we will deploy in the fourth quarter in our domestic service. We will continue to drive our strategic focus to expand our repo program of 44 overseas containers into domestic freight/domestic service.</p>
+          <p>The fall peak this year &#x2013; the fall peak will be later this year as reflected by the weaker consumer confidence index and the recent trend in inventory to sales ratio. Nobody wants to gamble on big inventories this fall it seems. In the meantime, we still expect the transpacific volume to be higher than last year, and for CN we expect to outperform the west coast average.</p>
+          <p>Turning to bulk and the outlook on page 11, the Canadian crop is expected to be more or less in line with five years average. It is also expected to be a little late. Therefore, the Q3 results for Canadian crop might be a little flat, waiting for the fourth quarter coming in with a new crop.</p>
+          <p>Also of note, the revenue cap hedge pricing has been set at 3.5% by the federal government for the coming season. According to U.S.D.A.'s latest report, the next production of U.S. corn is estimated at roughly 10% above the five year's average and the soybean production is estimated slightly below last year.</p>
+          <p>Demand is strong for offshore coal for western Canada. However, mine operation on our line are currently still affected by heavy rain related issues and flooding in the areas, and they are still working their way through that. U.S. thermal coal for CN might be flat in the third quarter and we continue to work on expanding our Rupert PRB business, and we hope to add another shipper during the third quarter.</p>
+          <p>Finally, manufacturing; not last but least. We have a very strong manufacturing franchise. We continue to see strength in offshore demand for lumber and pulp, as well as significant expansion of wood pallet production coming on line in British Columbia. Shale gas drilling activities will remain a very strong business for CN. We will also benefit from FRAC sand production increase capacity in Wisconsin. The IMS &#x2013; the ISM purchasing manager index remained in expansion territory, which is positive, and we have continued some overall positive automotive data. However, of note, inventory level is high for pickup truck at dealer lots, so there's some uncertainty out there. Canadian manufacturers are facing, which are mostly in the East, Canadian manufacturers are facing an ever rising Canadian dollar, so far in July roughly $0.08 higher than July of last year at the same time.</p>
+          <p>Iron ore production in the Minnesota and Michigan looks very good for the second half of this year and our new vessel addition, the Great Republic, started its sailing last June.</p>
+          <p>In closing, this is not a marathon, this is a sprint, and neither the sprint nor long-term marathon. So far this quarter, you've seen our carloads. We've had about 5% carload growth so far this quarter. This is led by intermodal both overseas and domestic, also metals and minerals, good lumber, good fertilizer, good sulfur segment and the lagger so far has been Canadian coal mine. As I explained earlier, it's because they faced short term production problem related to the heavier rain that they have.</p>
+          <p>On that, I will pass it on to Luc and he will cover the financial.</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Great. Thanks, J.J. I think good numbers, clearly as Claude and Keith and J.J. pointed out. Let me just cover briefly the overview of the financial results. We are reporting an adjusted diluted EPS of $1.26, which is 12% above last year and on a constant currency basis that translates to 14% improvement. Our reported EPS will reflect the $40 million deferred income tax item, and so we will show a $1.18 on a reported basis. This relates to changes that have been regulated or pass through in terms of state income taxes during the quarter.</p>
+          <p>Our operating ratio is a stellar 61.3%, which under the adverse conditions that we have been facing in the quarter I think is quite an achievement.</p>
+          <p>Turning over to our operating expenses, we were showing operating expenses at $1.386 billion, which is 8% up versus last year, and on a constant currency basis this is an increase of 12%. The biggest story here is the fuel. In terms of fuel, the WTI increased from $78 in the second quarter of last year to an average of $103 during this quarter, so an increase of some 40%.</p>
+          <p>Fortunately, we were able to offset a little bit of that with some productivity improvement of 1%, which probably would have been twice that if the weather had cooperated. In any event, so that's the biggest increase in terms of our expenditures.</p>
+          <p>Then we have some labor and fringe benefits, which was up 7%. The lion's share of that increase relates to stock-based compensation as the stock price &#x2013; our stock price increased by some $4 on a relative basis versus last year. The balance is really just labor and fringe benefits inflation.</p>
+          <p>Then, our purchased services in material increased by some 10%. In this case, this was driven by higher volume and more difficult operating conditions, which required a lot more of maintenance work and repairs to our track and our rolling stock. So this is one where the temperature and the weather took a bit of a toll.</p>
+          <p>Last is our casualty and other expense category. In this case, we've shown an improvement of some $30 million, mostly from the fact that we had lower legal, environmental and other expenses versus last year.</p>
+          <p>On a free cash flow basis, turning to page 16, we generated $823 million of free cash in the first half of the year. That's $135 million lower than last year and most of the reason for that decrease is attributable to higher income taxes where we paid some cash taxes of $138 million more than last year. And, as well, our capital expenditure program is actually about $600 million in the way to a total program of $1.7 billion. So in the first half of the year we're running about $160 million more in terms of capital expenditures than last year. This was partly offset by higher proceeds in the first quarter from sale of our Kingston sub division versus the disposal last year. So, very good free cash flow position in the first half and continuing for the second half.</p>
+          <p>Turning to our financial outlook, I think we've actually delivered a very solid first half. I mean, I think as we stand today, we can see some mixed signals in terms of the second half in terms of global and North American economic indicators. However, I would say that we are cautiously optimistic and what we know is that we're well positioned from an operational and a service standpoint to handle all the business that's going to come our way. So, we'll continue to leverage the global and gradual economic recovery, even if it's a bit bumpy and we continue with our productivity initiatives, as well as our supply chain and service excellence drive. We're continuing to see some solid mid-single digit carload growth and pricing above inflation.</p>
+          <p>We do have a few headwinds to deal with in the second half. It continues to be a bit of a challenge in terms of the Canadian dollar. It's currently running a little bit above $1.05, and &#x2013; so clearly this is a headwind that we'll have to contend with.</p>
+          <p>Fuel is actually fairly well-behaved these days, and we'll see how things go moving forward, but we continue to see it between $100 and $110 on the WTI. We also have higher Canadian cash taxes and higher depreciation. All of that to say that we continue to be very comfortable with our previous guidance. We see double digit earnings growth for the year and we're expecting up to 15% growth over our 2010 adjusted diluted EPS, which stood at $4.20.</p>
+          <p>From a free cash flow standpoint, again, we continue to see the $1.2 billion of free cash flow to be generated in the year and that's after setting aside a potential additional voluntary pension contribution of some $200 million, and fulfilling our capital investment program for &#x2013; to the tune of $1.7 billion. So, all in all, I would say that we're well-positioned for the second half and we continue to be focused on strong shareholder value creation. Claude?</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Luc, and thank you, teams. I think we have, indeed, a solid first quarter; a solid first half behind us. We're monitoring the direction of the economy, but we're very constructive about the second half and we have good momentum taking us forward.</p>
+          <p>So, I think in terms of financial results, we feel good about 2011 and our ability to finish the year on a very positive note. More broadly, in terms of our strategic agenda, I feel very good. I think we are firing on all the cylinders that we have in our game plan. Clearly, we are taking our game to the next level in terms of operational excellence and juggling one more ball in terms of service and supply chain collaboration. It's paying off in terms of our ability to grow with our customers. Our strategy of delivering sustainable top-line growth ahead of the economy is coming true. You can see it in terms of solid volume, but also in terms of market share versus trucking versus other gateways that we compete with and solid pricing; pricing in line with the value of the services that we provide in the marketplace.</p>
+          <p>So, solid top-line growth, excellent performance in terms of operating efficiency, that's what you need to do to deliver solid earnings and solid cash flow as we have in the past and plan to continue to do for many, many years to come.</p>
+          <p>And with that we'd be happy to take questions from those who are participating on this call.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you. We will now take questions from the telephone lines. <mark type="Operator Instructions" /> The first question comes from Cherilyn Radbourne from TD Securities. Your line is now open.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Thanks very much. Good afternoon.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Good afternoon, Cherilyn.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Since I'm going first, I guess I'll stay fairly high-level. At this time last year, as I recall, we were talking about containers whooshing back to Asia in anticipation of the peak and this year you're talking about sort of a later start to the peak, as are your peers. Your peers that reported last week seemed to indicate that they felt customer inventory levels were low and would require replenishment by Christmas. I think I heard you say something different in terms of the inventory to sales ratios. Can you just elaborate a little bit more on what you're hearing from customers at this point?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, our view is that customers' inventories are in line with what they need today. We don't see people already trying to build their sales stock in speculation of the fall. I don't think we're saying something different here, but what we're saying is that the peak will be late. The peak will be in-line as we get closer to the fall, people will kind of hold their decision to the last moment not to get stuck with excess inventory. So, as much as we believe there will be an increase year-over-year in overseas container, as much as we believe that we will fare well in that transpacific trade versus others, yet, the fall peak will be later and it will not be as much as what us and the shipping line were hoping for say five months ago.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay. Thanks very much. I'll stick to one, so that's it for me.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you, Cherilyn for sticking to one.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question comes from Bill Greene from Morgan Stanley. Your line is now open.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Yeah, hi, good afternoon. I'm wondering if you can help us think about where rail inflation is and where it's going to go. CSX mentioned about 4.5% was a number that they have sort of used as an inflation rate we should think about. How is it for CN?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Just before I let Luc comment, we're not going to try arbitrate between UP and CSS. And we each have our own inflation factors which probably are closer to the 3, 3.5 than the 4.5 that was referred to. But Luc, where would you put it?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah, I'd probably put it close to 3.5. I mean it will run between 3% and 4% depending on what types of commodities that we're out securing and where the commodity prices are running. I mean, we know that labor on average is going be around 2.5% to 3% and so it's a bit of a moving target. But between 3% and 4%, it's probably not a bad place.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>And so when we talk about rail inflation and pricing being above that, is there a scenario whereby Canadian pricing could be better than U.S. pricing, or is it really just the U.S. has a different dynamic from a regulatory standpoint that won't be the case?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think we've been trying to consistently price in-line with our service and for many years now have guided in the range of 4% and I am pleased that this is exactly what we're delivering. And this is clearly ahead of inflation and at the end of the day pricing is on the basis of the strength of your service and how you are able to help your customers grow. And it's set in the marketplace. It's not related &#x2013; you can have aspirations to be ahead of inflation, but you price in the market and that's what we've been able to consistently do and do well for many years now.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay, thanks for the time.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question comes from Jacob Bout from CIBC. Your line is now open.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Good evening. Question for you on the Canadian Wheat Board. It looks like it will be going away likely by August 2012. Maybe you can talk a little bit about changes that you could see happening to your network asset utilization. I know there's been some speculation about changes for the Churchill one.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I think all these grain companies are good customers of CN, including the Canadian Wheat Board, and at this point it's still early as to why these things might happen. There's many, many months to go as to how the Wheat Board will look like next year. We're looking at different scenarios. We'll make sure we have a product that's appealing to those customers when those change are better known.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>We &#x2013; just to add to this, Jacob, we have to move the grain no matter what. And the important point from the government's standpoint and the policy that needs to take place is to have a framework that all the players including transportation suppliers can understand. As that framework develops, we'll be more able to give you color on the puts and takes and what that could mean. At this point in time, it would be speculation on our part.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>All right, I'll leave it there. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question comes from Tom Wadewitz, from JPMorgan. Your line is now open.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Yeah. Good afternoon. Wanted to touch base on the volume side. I think that clearly, Claude, you had focused your strategies or have focused your strategies on improving service and attracting incremental volumes and it seems like you've had some good success with that. I think at the same time your competitors had some pretty material weather impact and so maybe that's played into your hands a bit as well.</p>
+          <p>Can you make any kind of a guess at how much volume you may have achieved because of some of the competitor issues and the weather issues on their network, and is that something that maybe swings back and, perhaps, some of the intermodal strength you've had would swing back and if that's later this year or next year?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, let me put it to you this way. I think we've all had extremely difficult weather to contend with and I am pleased with the way Keith and his team reacted to protect service. And, at the end of the day, water tries to find its level, and if we have good service then customers would naturally tend to want to move the business with us. We think it's more than temporary. Clearly, CT had some difficulty with weather over the last couple of quarter and some business may flow back as they improve their service. We're here to serve the customer base. It's actually a good thing we were able to accommodate this business and we hope to keep it as long as we can, but we will keep it by selling service and doing so going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>I mean, do you think that impact is material, or looking out a couple of quarters you may not be able to see that material kind of flow back?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think some business will naturally flow back. Liquor and grain would be an example. But, at the end of the day, there is a market out there and if we all compete on service and if we all innovate to get better, this is what we need to do as an industry to earn the revenues that we need to sustain our high capital investment. And those carriers that innovate faster and improve service quicker should be rewarded and that's our game plan and that's the success we've been having for not just a few quarter now, for several quarters, and that's the path we're on.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>That's right. We don't take anything for granted and our game plan is not based on the weather.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Right. Well, congratulations on executing well. Thanks for the time.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question comes from Walter Spracklin from RBC Capital Markets. Your line is now open.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thanks very much. Good afternoon, everyone. So my first question here is just on the pipeline, Claude you mentioned, the CN pipeline right now allowing you to grow at an incremental basis above that other competition, and J.J. you mentioned a few specific examples. I wonder if you could sort of prioritize, not prioritize, but if you could sort of order the ones that you see the most opportunity in. Now obviously you've outlined to us in the past a big, big pipeline, but if you could narrow it down to three or four that you really consider to be a significant growth opportunity. You mentioned coal up through Ridley, I mean, that's brand new obviously. Intermodal, you mentioned the engine of growth. Alberta &#x2013; crude oil is another one you said you could do 1000 to what 200,000 BOE a year? If you were to sort of order some of those from a magnitude perspective, what gets you most excited?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I think I would you bring you first and foremost on the intermodal service, whereas the overseas import or export and as well as the domestic service that we have, whether it's Canadian cross country or northbound movements from United States. That's really truly is a very strong product, even stronger now than ever. We're investing in that product. We're making the focus on very many aspects; the capital investment, the terminal in land, the terminal at the coast that we work with them. We've beefed up quite a bit our customer service group in intermodal, so that's definitely an area of us of good mid-term where we have a lot of leg room.</p>
+          <p>On the bulk side, you're right, we are strong. So with potash and coal and grains as well, we want to ride that very hard and get this product to market before these markets fades away on you. And because they are commodity markets, they will go up and down and that's what you need to ride. You need to be there when the market is there, because if you are there after it's too late.</p>
+          <p>Merchandise &#x2013; quite excited about the potential in M&amp;M in metals and minerals, whether it's steel product; that recovery, which might be choppy from time-to-time. Construction material, the oil sands is a great story. I think the oil sands is a long-term story, hasn't really fully &#x2013; nowhere in the fully developed yet. It's back major investment; that means first and foremost construction material and then we hope one day we can have a first terminal set up somewhere in the Fort McMurray to do pipeline on there, but that's yet to be anywhere near conclusion.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Nothing commercial on that I guess yet?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah. Let me &#x2013; if I could add one comment in line with J.J.'s comments on the steel side. Some of the approaches we've taken this year providing more flexibility to our car fleet; strategically storing them. I mean the market has recognized that value. They've certainly rewarded that value and we've picked up additional carloads as a result. So anywhere we have an opportunity to execute that strategy, we'll continue to squeeze additional revenue carloads out of this marketplace.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Does mid-single digits doable for the foreseeable future? Is that's what we're &#x2013; with everything that you've got lined up, is that we should get our head around here on the volume growth side?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think, Walter, it all depends on the economy. We want to grow faster than the economy and the first quarter has had still some fairly solid rebound from the economy in general. So, our goal is to grow a little faster than the economy from a volume side and price a little faster than inflation from the rate standpoint. If we do both, we will deliver it to the bottom line at low incremental costs.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>That sounds good &#x2013; like a good formula. Thanks very much guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question comes from the Ken Hoexter from BMA Merrill Lynch. Your line is now open.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Hi. This is Steve Sherowski in for Ken Hoexter. On the coal side, it looks like your volumes are impacted by &#x2013; you mentioned a new tech interchange contract, but your average revenue per carload was up fairly significantly. Is that just a reflection of your lower carloads, and, if so, is this a good run rate going forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>When we look at the Canadian or what I call the west coast coal, because some of our Canadian coal also now have some PRB coming to crossover the gateway. The volume was up 20% in RTM terms, but it was down in carload terms. So this is where there's a significant shift here in our Canadian coal business because we did move more coal in terms of revenue ton-mile but we moved less coal in terms of carload. And that's an effect of the short haul model &#x2013; short haul move that we used to do in large quantities <mark type="indiscernible" /> (40:33) the Kamloops. We'll still do that, but at a much lower run rate. And the Kamloops volume, you got to remember, it's only 270 miles. So, that's a big shift in our mix. But price on coal is up. The business is robust, but there's a shift in length of haul because of the &#x2013; what we move today versus yesterday.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay. And you mentioned the FRAC sand opportunity in Wisconsin. Is that natural gas or is that primarily liquid?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>The FRAC sand is all going for shale gas. So, what we have in Wisconsin where we're sitting very near these deposit of the right quality sand and we have more and more of the sand producers who are using CN to ship their sand. Either they come and set up on us, so they have reload on CN. So we're perhaps stealing the FRAC sand business from the origin. And from a destination market, the big destination market that we serve is British Columbia. So, we serve the big growing FRAC sand producing area in Wisconsin and that's what I was referring to.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>And can you just quantify what production growth you're supporting on your network?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>That will be a good strong double digits. It's been a good strong double digit now for quite a while and some of that production is basically yet to come. We're talking to people who are building track and building plant right now.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question comes from the Scott Group from Wolfe Trahan. Your line is now open.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Thanks. Good afternoon guys. First, Luc, just wanted to clarify your comments on casualty and other. Was there something unusual about the number this quarter, or should we thinking about somewhere in the $60 million range going forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Well, I think what happened is that we had some higher &#x2013; much higher level in the last year. Going forward, I would still look at a higher number than the $60 million. I mean, I think it's probably going to be somewhere in the $80 million, $85 million range. Historically, I'd kind of use about $90 million as a benchmark, but with the Canadian dollar helping a little bit, that's honing it a down a bit. So, that's where I think things are heading.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay, that's helpful. And then also, can you just talk about where we are in the hiring cycle? So head count is up 5% year-over-year in the quarter. Should we expect that trend and that growth rate to continue, or does that moderate going forward as maybe hiring levels level off or attrition starts to kick in?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Look, as we've said in the past, effectively we're looking at an attrition curve that's going to be lasting for the next three to four years at the pace it is now. So, you could expect similar numbers to that. There's some double counting, of course, as we hire conductors, we have to take conductors out to train to become engineers. So, there's some overlap that once we get passed this attrition bubble, you'll see that come back down. But from a go-forward basis in the near future, I would expect something similar.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Scott, the key is, you don't want to be short crews, but it's an easy call when the economy is rebounding. When you have, like we do at the moment, a bit of a pause and the macro environment that's a little bit more uncertain, we want to make sure that we calibrate. And the good news is, if we're a little long in terms of head count, we have enough attrition that it takes only a few months to correct our target and get right back in line.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>You have a target for where you are expecting head count at the end of the year?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>We will hire in line with volume growth and we've been &#x2013; from where we are at the moment, I would not suspect significant increase on a sequential basis, but we will hire as we see people retire from our workforce.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay great. Thanks for the time guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question comes from Turan Quettawala from Scotia Capital. Your line is now open.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Yes, good evening. I guess my question was just on the fuel productivity line. You know obviously this quarter, you had some problems with the flooding and so on and so forth. Just wondering in the past, you've guided to about 1% to 2% improvement on an annualized basis. Is that still the target for the year?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>That's certainly still the objective. Some of the noise we experienced in the first quarter impeded our ability to deliver that 2%, but I fully expect to get to that run rate for the balance of the year.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>So, should it be sort of on an annualized basis, Keith, or just for the second half?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>The second half, certainly. I mean, you do the math if I can deliver 2%. It's going to be somewhere close to 2% &#x2013; between 1.7%, 1.6% and 2%.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>And I'm sorry, that's the full-year number you're talking about?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Right.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question comes from David Vernon from Bernstein. Your line is now open.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Just one quick clarification on the income tax item. Is that jump of $50 million &#x2013; or $46 million or so, is that a non-recurring item then?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes, that's a non-recurring item.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay. And then just one question on the intermodal piece. It looks like there was a little bit of a shift towards some shorter haul domestic. Is that &#x2013; am I reading that right, or could you maybe comment on that a little bit?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>On the domestic side, we have gained some business. The average gain per business we have may have been shorter than the historical length of haul, which as you know would make sense, because as we compete with truck in some cases, we have pretty much all the long haul business already because of our cost, so where we compete with truck is increasingly on slightly shorter and shorter distance.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>You think that's more truck competition versus any type of weakness in the international container freight?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>For example, when you look at one of the business that's where we have strong success last 12 months is the northbound business from United States. It may not be the same length of haul, say, as a Vancouver to Toronto for example. That's domestic freight.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Yeah. So it was not &#x2013; it was less reflective of weakness in international and more reflective in being more competitive over shorter domestic?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Both international and domestic have been very strong in the second quarter, so both of them had double digit growth in volume.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Very much so. When we move our containers, there's less overlap between our domestic and our overseas business. The domestic business we move is domestic and both segments have been growing.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question comes from Gary Chase from Barclays Capital. Your line is now open.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Good afternoon, everybody. Wondered if I could ask you to maybe elaborate a bit more on some of the gains that you think are now evident on the intermodal side. You mentioned &#x2013; you know, J.J. mentioned some data points on volume growth versus western ports. Wondering if you think it's helping on the price side and, more importantly, if there are efficiency gains that are coming out of this as well. And just was curious if you could give us a few data points, just to help us get our head around what the impact might be outside of volume, if any.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, let me give you a few there. Clearly, when you take a mindset of end-to-end supply chain, you start looking at all of the pieces from the time a container lands at the terminal to &#x2013; at the terminal on the dock, to the time that we get it off the ramp in our own terminal inland and put it on a truck to get to destination. We're measuring every piece of the supply chain. We're doing so on a daily basis with our partners and we are seeing significant improvements that are benefiting the customer in terms of end-to-end transit time, whether it's shorter dwell time at the dock, whether it's more tight connection with our trains, whether it's better inland performance. But we're also seeing, at the same time, more throughput out of the terminal and better efficiency in our train service.</p>
+          <p>Our slot utilization with the terminal partners we deal with, for instance on the West Coast, has improved on a year over year basis by &#x2013; in a range of 3% to 4%. So if you can get slot utilization out of Vancouver, for instance, to improve, that's 4% of trains which are now filled with a box are &#x2013; is helping us getting more efficiency. So, we're being more nimble. We have more, better car supply. We have a train service which is aligned with growth and we're getting rewarded with higher volume growth and train efficiency. And that's the true win-win nature of our supply chain collaboration approach.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Do you think it would be fair to say, Claude, the efficiency side of it rivals what you're getting out of the incremental volume?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think it's a good balance of both. And it's &#x2013; we're just &#x2013; I firmly believe that we're just beginning on this journey and that the opportunity to line up and execute from an end-to-end standpoint to the benefit of all stakeholders, we're just scratching that opportunity in my view.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thanks guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question comes from David Newman from Cormark Securities. Your line is now open.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Good afternoon, gentlemen. Just in terms of pricing, once again, not to beat a dead horse, but obviously the customers are taking fuel surcharges at these levels and as fuel rises, there's a bit of an impact there and some of the volume metrics have softened to a certain degree. How much can you &#x2013; do you use pricing, I guess, in negotiations and does the sort of service trump all that, in terms of the offering that you have and protects your pricing?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Well, we got to go, as we said, for inflation plus pricing. We recognize the fact that when the fuel goes up, it is a price increase right to the customer, because that's how our tariff is done. And by the way, we have no exceptions to this tariff. Everybody's paying it. That's why we have a way to basically hedge against that. And then you have the service offering. In some cases, we do &#x2013; I mean our customers are shopping. They're trying to get the best deal possible. Some of our customers are losing money right now; they are in a tough <mark type="ph" /> tougher (50:47) market which are very difficult. So they would like to get better price, but that's not what we're all about. We're about offering a good product. We're about representing &#x2013; we're in the rail industry, where our market condition is the market that we're in, transportation over rail. And in some cases, we may lose an account if they can get a better price somewhere else but...</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>So it sounds like, J.J., you really stick to the pricing plan and you really don't use pricing as a sort of an opportunistic lever at all, in any circumstances, to try to win volume share if you can?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>No we don't, because in the long run that would back spiral on us. In the end, what really makes sense, as Claude said, is the marathon. You have to have sustainable pricing; you have to have fuel surcharge coverage across the board without discount. And if you have that as a backbone and good service and a good operating ratio, the price you put out should be able to be good enough to marketplace. And there's a point where you got to withdraw from the table and leave that to others.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Excellent. Thanks, gentlemen.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Fadi Chamoun from BMO Capital Markets. Your line is now open.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Yes, good evening. I just have a question. Anyhow, you've been doing, sort of trying to leverage this good railroading to help your customer win for a while. I was just wondering if you can give us some color, whether there are some specific area you are seeing more success in this strategy than others? And, along the same lines, I wanted to see whether you had more discussions, or more compact with Canpotex, with respect to the future of that business after having had some success with them Q1. Have you followed up with them? Have you sort of started to look at how you can position CN for that business in the future?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think that, Fadi, where we are getting benefit is really across our whole book of business. And I've discussed, for instance, the example of supply chain approach end-to-end in the intermodal sector. Keith mentioned, in the bulk sector, our new bulk supply chain visibility approach in &#x2013; to use an example, with Ridley in coal, is transformational. We're collecting and sharing information that allows us to see, from mine to ship, what is happening in &#x2013; for all of the customers that are feeding that facility.</p>
+          <p>We're engaging daily, and we have seen Ridley terminal hit new records in terms of its throughput capability, because we are now looking at the end-to-end performance and we are willing to trade-off the way we are bringing the trains if we can address bottlenecks at the terminal, which is the bottleneck to the overall throughput of the supply chain. And it's helping us grow with the PRB coal customers. It's helping us grow with our Canadian met coal customers. We're rolling that concept to potash. We're scheduling our service like we did in grain, and it's helping us gaining market share. And as it relates to Canpotex, we believe that that service offering, the need for Canpotex to add diversity in its supply chain as it becomes a larger and larger export producer, will bring them to the view that they should have CN in their mix of transportation supplier.</p>
+          <p>We're certainly determined to convince them of that opportunity, and like we do in very other business segment, we will sell service, sell the value of our supply chain approach, and we are confident they will come to the view that adding CN for a chunk &#x2013; small chunk perhaps, initially, of its business in Vancouver is the right thing to do for Canpotex. And as they grow, perhaps they will build on CN's services in Rupert so that we can become a full-fledged partner over time. We will do this based on service and based on the strength of our supply chain collaboration approach.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Okay. Thank you. Maybe I can just shove in one more question to Luc. The cost inflation excluding fuel and FX year-on-year was a little bit higher than volume; I think about 5.5% roughly. Should we think about this moderating as we go into the second half towards where the volume increase is at, or?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Well, actually, I mean if you were to just strip out the variance that was attributable to fuel and to the fuel price, I mean I think you'd find that our costs were actually up just slightly above 4%, and we had 5% RTM growth. So, in the scheme of things, I would expect that we had to deal with some higher cost as it relates to dealing with weather in the first half of the year. That will hopefully alleviate as we look to the backend of the year. And generally, I think our &#x2013; costs continue to be well managed and well behaved, so probably more of the same.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Good. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question comes from Chris Wetherbee from Citigroup. Your line is now open.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Greetings. Good afternoon. I was just wondering, on the coal side, how much volume are you doing of PRB through Rupert right now and how do you think about that opportunity as you move forward, to continue to grow that volume?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>This is not a huge amount of volume at this point. We've, as I said, we're hoping to add another account this summer. We're looking at what could be done in 2012 and beyond. I think what's good for Rupert is, this terminal is expanding and has a vision of spending capital, which it's doing this year, and then some further capital in 2012, 2013. And the northern BC mine also expanding. So, our program objective is basically to keep the terminal busy. Make sure the terminal has enough business that it never stop investing capital to expand itself. It will be mostly, over the next five to six years, a Canadian terminal for Canadian mine. However, there is room for us to &#x2013; for it bringing, in a permanent basis, couple of million tons of PRB coal and that's what we're working on.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Okay. That's very helpful. And then one quick follow-up on a separate note. Just the tax rate going forward, what's your best estimate for that? I apologize if I missed that.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>No, I mean it continues to be around 29%.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Okay. Even though you've done a little bit better than that the last couple quarters.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yep.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Okay. Thanks for the time guys. I appreciate it.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question comes from Jason Seidl from Dahlman Rose. Your line is now open.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Thanks. Good evening, guys. Quick question. You talked a little bit about the weather impacts in the quarter. Could you quantify it, both from a revenue and cost perspective? I don't think I caught that if you said it.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>You know what. You know railroading is an outdoor sport and we like to think as CN as one that can prevail and do well for its customers and shareholder whether the weather is good or bad. So, I would add hesitate to give you an exact number because I would just be focusing on the negative and whining about weather. We're here to please our customers and our shareholders in all weather.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>But you haven't seen any carryover this far into 3Q, have you?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I didn't get that, Jason.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Have you seen any carryover from the weather into 3Q at all?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>No, I think we're remarkably current on the revenue side because Keith was able to step up and protect the integrity of the supply chains we serve. So, we don't see much carryover from Q2 in terms of revenues and we certainly don't see carryover from an operations standpoint unless we have few events. But it's starting to be in the middle of summer now. Other than <mark type="ph" /> some kinks (59:04) and termites, we're gearing up for next winter.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Well, let's hope we don't get too many termite infestations. Really quickly, to tack onto the coal question, could you maybe quantify sort of how big the PRB export market could be for Rupert?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, as I said earlier, we want to keep step with our partner, the coal terminal in Rupert. They have expansion plan. Some are very well known, very well defined. Some could be come into play two or three years from now and our game plan is to make sure that we bring enough business to keep pace. There is a number of mine expansion in BC. We think most of them will come into play, and Rupert is a very logical shorter distance terminal for that. But there is room for coal from PRB to come either over Vancouver or the Edmonton interchange and I would say a couple of million tons.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Okay, fantastic guys. Thanks for the time as always.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you Jason.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question comes from Matt Troy from Susquehanna Financial. Your line is now open.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Hey guys. This is Bascome Majors in for Matt Troy. Earlier, I believe you said you were driving outbound intermodal volumes with some of your merchandise marketing teams. I was wondering if you could talk a little bit about what the balance is in your intermodal business there between out and in, and sort of where you think you can take that over time?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I was referring to the overseas container, the 40 foot, where we focus on &#x2013; try to balance the import and export as much as we can. Because we know for the &#x2013; for the shipping line, we're always talk about the import, but the shipping line, now losing money and they need some ways to get back for the least cost possible over some revenue where that's called an export. That's also called a domestic repo.</p>
+          <p>So what the merchandise sales force does, it talks to a pulp customer or a lumber customer, our steel customers, our grain customers and try to find &#x2013; they just try to do a match making between them and what we call the CN friendly shipping line. Find ways for the CN friendly shipping line to get some freight for the return back. And ideally, that this freight is what we call source loading where you get the export not from the port of Vancouver, but you get it inland where you basically have a way to pay for the return volumes of these containers.</p>
+          <p>And the other way we help the shipping lines who balance their return is domestic repo. You take a 40 foot container from Chicago, you move it with domestic freight into Winnipeg or Calgary and that's also helpful. And so, we're not 100% balanced. We're balanced going east, for example, Halifax, Montreal, fairly balanced. In fact, Montreal &#x2013; Halifax is more export than import, but we're working on to generate more export towards the west coast. And we have very great traction with that. Our merchandise sales force knows the merchandise &#x2013; Canadian merchandise customers better than anybody else and we are able to create some positive upside for the shipping line that do business for us.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We call it selling one CN.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>All right, guys. Thanks for the time.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. I would like to turn back the meeting over to Mr. Mongeau.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Matthew, and thank you for all of you who have listened to this call. As you heard we're very constructive about our game plan and how the &#x2013; our strategic agenda is unfolding. We think the first half is setting us up well to finish the year on a very positive note. And with that, we'll look forward to meet you again on the third quarter call, with hopefully with just as good results.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The conference has now ended. Please disconnect your lines at this time. We thank you for your participation.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

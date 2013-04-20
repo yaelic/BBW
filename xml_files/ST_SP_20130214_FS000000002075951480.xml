@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1537481" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q3 2013 Earnings Call</title>
+    <date>2013-02-14</date>
+    <companies>
+      <company>2911</company>
+    </companies>
+    <participants>
+      <participant id="0" type="corprep" affiliation="Director-Investor Relations">Sin Yang Fong</participant>
+      <participant id="1" type="corprep" affiliation="Group CEO &amp; Non-Independent Executive Director">Sock Koong Chua</participant>
+      <participant id="2" type="operator">Operator</participant>
+      <participant id="3" type="analyst" affiliation="HSBC Securities Brokers (Asia) Ltd.">Luis Hilado</participant>
+      <participant id="4" type="corprep" affiliation="Executive Vice President-Digital Consumer Group">Kuan Moon Yuen</participant>
+      <participant id="5" type="analyst" affiliation="Morgan Stanley Asia Ltd.">Navin Killa</participant>
+      <participant id="6" type="corprep" affiliation="Chief Executive Officer-Group Consumer">Paul O'Sullivan</participant>
+      <participant id="7" type="analyst" affiliation="CIMB Securities (Australia) Ltd.">Alan Stuart</participant>
+      <participant id="8" type="corprep" affiliation="Chief Executive Officer, Consumer Australia, SingTel">Kevin Russell</participant>
+      <participant id="9" type="corprep" affiliation="Chief Financial Officer, Optus">Murray King</participant>
+      <participant id="10" type="analyst" affiliation="Citigroup Global Markets Singapore Pte Ltd.">Arthur Pineda</participant>
+      <participant id="11" type="analyst" affiliation="Macquarie Capital Securities (Malaysia) Sdn. Bhd.">Prem Jearajasingam</participant>
+      <participant id="12" type="corprep" affiliation="Group Chief Financial Officer">Jeann Low</participant>
+      <participant id="13" type="analyst" affiliation="Nomura Singapore Ltd.">Sachin Gupta</participant>
+      <participant id="14" type="corprep" affiliation="Chief Executive Officer-ICT Division">Bill Chang</participant>
+      <participant id="15" type="analyst" affiliation="Goldman Sachs (Australia) Pty Ltd.">Raymond Tong</participant>
+      <participant id="16" type="analyst" affiliation="HSBC Securities &amp; Capital Markets (India) Pvt Ltd.">Rajesh Raman</participant>
+      <participant id="17" type="corprep" affiliation="Chief Executive Officer-Group Digital Life">Allen Lew</participant>
+      <participant id="18" type="analyst" affiliation="UBS Securities (Australia) Ltd.">Richard Eary</participant>
+      <participant id="19" type="analyst" affiliation="CIMB Group Holdings Bhd.">Ian Martin</participant>
+      <participant id="20" type="analyst" affiliation="CIMB Investment Bank Bhd.">Kelvin Goh</participant>
+      <participant id="21" type="analyst" affiliation="Merrill Lynch (Singapore) Pte Ltd.">Roshan Raj Behera</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>A warm welcome to all investors and analysts. You are listening in to SingTel's Earnings Conference Call for the Third Quarter ended December 31, 2012. My name is Sin Yang Fong, and let me introduce management on the call. Ms. Chua Sock Koong, Group CEO; Mr. Allen Lew, CEO, Group Digital Life; Mr. Paul O'Sullivan, CEO, Group Consumer; Mr. Bill Chang, CEO of Group Enterprise; Ms. Jeann Low, Group CFO. They are also assisted by other members of the management team from Australia and Singapore. Before we start taking questions, I would like to invite Sock Koong to share some highlights from this set of results.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, Yang Fong, and good morning or good afternoon to everyone. May I also take this opportunity to wish everybody a very happy Chinese New Year and a very happy Valentine's Day as well. Let me give you some quick highlights of our results for the quarter ended December 31, 2012, before we go into Q&amp;A. We have continued to invest in transmission initiatives to drive long-term growth, while operations remained stable across Singapore, Optus and the associates. Net profit was up 8%, that's due to higher depreciation on network investments, exceptional charges and adverse currency impact. Excluding exceptional and one-off items underlying net profit fell 2%.</p>
+          <p>In Singapore, revenue and EBITDA increased 1% on contribution from new digital services. We also saw a continued strength in mobile and ICT operations. In Australia, despite a decline in revenue, cost efficiencies drove a 3% growth in Optus EBITDA. The regional mobile associates continued to deliver strong customer growth. Key regional associates, Telkomsel and AIS recorded strong performances, mitigating lower earnings from Airtel and weaker regional currencies. In constant currency, earnings from the regional mobile associates would have grown 11%.</p>
+          <p>Let me now quickly talk through some of the highlights of the different businesses groups. In Group Consumer, we have made substantial progress. In our 4G or LTE rollout, Optus has achieved coverage in major capital cities in Australia, while Singapore will get to island-wide coverage by end of March.</p>
+          <p>In December, we saw the listing of Bharti Infratel, a multi-tower company, that raised more than US$750 million, making it India's largest IPO in the last two years. We've also announced the divestment of our entire stake in Warid for US$150 million.</p>
+          <p>In our Group Enterprise, you would note that in November last year, we hosted i.lluminate, that is Singapore's largest ICT forum. It was attended by global audience and industry experts as well. We unveiled over 200 innovative ICT solutions targeted at different customer segment <mark type="ph" /> there (3:22). We also hosted our mio TV, pay-TV service in Singapore content suite with the introduction of new genres of TV entertainment including kids, music and comedy with Viacom International Media Networks. Additions of Nickelodeon and Nick Junior channels in particular will enhance mio TV's appeal to many young families.</p>
+          <p>So with that, I'll handover to Yang Fong.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, Sock Koong. Before we invite questions, I should mention that due to the auction process in Australia that's currently underway, we will not be able to make any comments or take questions in relation to spectrum. Our operator will now assist you to put through your questions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="2">
+        <plist>
+          <p>Thank you. Luis Hilado, HSBC.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Hi. Good morning and thanks for the call. I had two questions, one is on Singapore and the other one is on the prospects of Myanmar. On Singapore, you noted that your postpaid ARPUs have increased by 2% quarter-on-quarter. Just wanted to check if that is mostly due to the subscribers who are on tiered plans, and therefore exceeding the data allowance. And whether the 9% that are exceeding refers to 9% of postpaid plans or 9% of the 17% who are on tiered plans? And the second question was just if there is any update in terms of timelines for the Myanmar government to give a decision and what the next stages are in terms of your interest in Myanmar?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. Let me just quickly answer the Myanmar question, because there isn't a lot to say other than that the government had <mark type="indiscernible" /> (5:06) expression of interest and they talked about issuing two licenses. Other than that, there is a key relative information. We know that significant number of operators have indicated interest in wanting to operate in Myanmar. There is actually no information <mark type="indiscernible" /> (5:24) on the terms of the issuements of the licenses as of now. Clearly, they know the market offers significant potential with the lever of network development and customer penetration, but certainly early days yet for us to comment further on our investment interest there. I am going to ask Moon Yuen to take your question on Singapore.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Hi. Good morning, everyone. With regards to tiered data plans that we introduced since July 2012, we've seen very strong momentum. And as of December 17% of our postpaid base have actually gone on to the tiered price plan, which is of lower data allowances. And of the 9% who actually exceeded their data allowances are of that 17% of the tiered plan customer. And the ARPU Q-on-Q growth is nearly more on a blended basis. Customers are taking up higher value plans. That has pushed up the ARPU growth on a Q-on-Q basis. And also a bit of the impact on the seasonal quarterly &#x2013; quarter-on-quarter because of the higher roaming in the last quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Okay, great. Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Navin Killa, Morgan Stanley.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Hi. Thank you for the opportunity. I have actually three questions. One, I wanted to understand, back to the question on tiered pricing in Singapore, apart from the take-ups that we've seen as of December, what is the general kind of customer feedback? Are you seeing these trend lines that you talked about improve steadily during the quarter? Because, obviously, the 17% and the 9% are the numbers that probably stand as of December 31. So, I just wanted to see whether &#x2013; what the trend line there looks like.</p>
+          <p>The second question I had was in your &#x2013; again, on the Singapore side, you've mentioned that there was bit of a data roaming packages introduction that had an impact on your voice and SMS roaming. Can you explain what that refers to?</p>
+          <p>And the third question I had was on Philippines, where we've, obviously, seen good revenue growth at globe for quite a few quarters, but the EBITDA margins continue to be under pressure. And part of that is the result of, I guess, a deliberate strategy on their part to move to subsidies. And I just wonder whether SingTel as a group has any views on that, given that generally in emerging markets you have avoided subsidies. So what is different about Philippines that Globe is going for this subsidy strategy? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>
+            <mark type="indiscernible" /> (8:32) will take the question on data pricing, and then maybe Paul you want to talk about the margins at Globe?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Sure. Last year, when we announced the tiered data pricing in June/July last year, we actually informed the media that we expect about 10% of our customers who are likely to pay more with new the tiered pricing plan on data. And as of December last year, we have seen 9% of the customers who have actually moved over to the tiered pricing actually paying more, because of the exceeded their data allowances. So that's just one aspect of it. But on the other hand, I think we are also seeing a trend that because of the higher usage of data in the whole market because of smartphone, because of the drive towards LTE, more customers are actually also trading up to higher value plans. So that has actually helped us in improving some of our ARPU on a quarter-to-quarter basis as well.</p>
+          <p>The second part on data roaming and <mark type="ph" /> internal (9:44) roaming, we are seeing similar trends in roaming behaviors of our customers just like using data domestically. So when they roam, they are also substituting voice with data. So what we are doing &#x2013; or what we have been doing in the past year is to encourage more customers to take up the data daily unlimited plan while they roam. So that has actually helped mitigate the migration of voice to data during roaming. And we are managing that at the EBITA level, which is margin neutral, because we are seeing a decline in roaming revenue on the top line because people are moving away from voice. But at the same time, they are using a lot more data. So on the balance basis, the margins on roaming are still protected so far.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>So it's Paul and I will pick up the question on Globe. I think there is probably two aspects of the question I'd like to <mark type="indiscernible" /> (10:46). First of all, it's very much our core strategy in the Philippines, and indeed something we look at &#x2013; are looking at across our market. But as we see some emerging income growth in the customer base, we see an opportunity to convert high value prepaid customers to postpaid. And that very much makes sense in developing markets, because quite often customers are in a multi-SIM environment, and by being be prepared to subsidize and move a high value prepaid customer to postpaid, we're able to move them into a situation where we're the dominant SIM. So we've been following find that strategy quite aggressively over the last 12, 18 months. It has paid off for us.</p>
+          <p>It's underpinned by not just winning the customers while some transformations we're making in Globe. So the network modernization which is underway, the IT grade, and also the work we're doing to develop more on payments and <mark type="indiscernible" /> (11:38) in Globe are all designed to make those customers stickier once we've got them over. That's one dynamic. And from our point of view, as long as the opportunity is there and the customer migration can be shown to be a profitable proposition for us, we continue to do it.</p>
+          <p>I think that the second trend in the Globe numbers, which you might be picking up on, and that is there has been a lot of aggression in the market over the last 12 months, particularly with the merger of our competitor with the small player they acquired. We were of the view that there would probably be some stabilization in the market. We've yet to see that. And if anything, it's actually been a very aggressive market during that period. Possibly some of that is because we have been successful in winning market share.</p>
+          <p>So moving forward, while we're picking our two trend lines, we will continue to look for opportunities to migrate profitable customers to postpaid from prepaid. And second of all, obviously, <mark type="ph" /> while part (12:31) of the market will be very competitive, but clearly, we are waiting to see whether or not the consolidation <mark type="indiscernible" /> (12:37) greater market stability. Hope that helps in terms of some context.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Alan Stuart, CIMB</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Hi. Thanks. I've got three questions. Firstly, it all relates to  Optus. So with your fixed consumer business, you recorded net subscriber losses in your on-net broadband subscribers. I think that's the first time we've seen this. You also had broadband ARPU down about 7%. So I was wondering if you could talk through your strategy in the fixed market. Also in terms of mobile, wholesale continues to grow as a percentage of your base. I think you are reviewing some of your channel partners there. I was wondering how far you are through that process. And do you think your low wholesale pricing is having a negative impact on your fixed business? And lastly on the 4G, I was wondering if you could maybe talk through your progress there in network footprint, subs. And maybe do you think this 4G premium is justifiable?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Kevin, you'd like to take those questions please?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Yes, I'll take the last two, and I'll ask <mark type="indiscernible" /> (13:54) to talk about the fixed consumer and I'll chime in there as well. Wholesale is increasing as a percentage of our baseline question, we've seen in the latter half of the year <mark type="indiscernible" /> (14:04) strong wholesale performance in terms of SIM-only BYO in the marketplace. You're correct. We are reviewing our strategy there. We are making sure, particularly that partners are complementary to the <mark type="ph" /> Optus (14:20) brand position going forward. So we're clear in terms of segments we are going after, and also clear that there isn't too big a price differential buildup in the marketplace between potential MVNOs &#x2013; MVNO pricing and core network brand pricing. We believe that's fundamental in terms of making sure that the market has the opportunity to monetize <mark type="indiscernible" /> (14:42) and there happened some gaps <mark type="indiscernible" /> (14:44) during the course of 2012. Tentatively, we are &#x2013; through that process we are working with all key wholesale partners at Optus in terms of implementing appropriate strategies, and I think you'll see development there certainly by the middle of this year.</p>
+          <p>In terms of &#x2013; you asked a question around cannibalization of the fixed business? And wholesale, you' were actually talking about the mobile business there, weren't you?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>That was, whether the mobile wholesale pricings maybe, I guess, allow you competitors to pick up share in there by bundling their whole mobile with fixed, and that's why you are losing out.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>I don't know that. We haven't seen that <mark type="ph" /> strength through yet (15:33). On 4G, obviously, we've been very clear that we need to go <mark type="ph" /> live (15:38) in 4G. We can't allow network gap to build up <mark type="indiscernible" /> (15:41) 4G selling, so we have been rolling out aggressively since September in all capital cities across Australia. So it's been <mark type="indiscernible" /> (15:48) Adelaide completed as well just in the last few weeks. We have good network footprint in Sydney, Melbourne, Perth, increasingly Brisbane as well.</p>
+          <p>In terms of take-up, we're not releasing any specific 4G numbers, but obviously iPhone 5 in Q3, last year calendar year Q4 was positive for us. We will give more detail as we go forward and we start to understand the trends coming through the 4G. We really need to have a broader throughput before we can talk more specifically about profitability and more detailed numbers and trends. But clearly it's a strong battleground and we think we're performing well in 4G this month. You'll see us over the next two years continue to rollout strongly 1800 in 4G, and you should see some plans coming forward during the course of this year in terms of what, we'll do 2300 as well. Murray?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>Yes, Murray King here. <mark type="indiscernible" /> (16:47) questions on the fixed business side. <mark type="indiscernible" /> (16:50) quarter-on-quarter we've seen subscriber numbers or customer numbers there. But if I look at year-on-year subscriber numbers are up. The biggest influence from the revenue line is the APRU, particularly the broadband APRU being down, and that's a consequence of some of the plans we've had in the marketplace to decrease some of discounted plans. Now those plans were discontinued at the backend or at the beginning of the quarter, and we also have good price increases through to the customer base essentially mid-quarter. So the quarterly results don't fully reflect the full impact of those price increases. So if I come to the question around strategy, it's really about looking to improve the yield and profitability, while we're protecting the scale position we have in fixed at this point in time.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Arthur Pineda, Citi Investments.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Hi. Thanks for the call. Three questions from me. Firstly, one thing, with regards to your pricing bias in LTE in Singapore, once you complete your build-out in the first half of this year, is there any <mark type="indiscernible" /> (18:06) bias there on the pricing. Competitors have basically indicated that they want to charge a little bit more for LTE if things are on the same page.</p>
+          <p>Second question I had is with regard to LTE again, but this time on Optus. Could you talk about your coverage levels and your targets for Optus, and how you actually compare versus competition now on LTE coverage? Is it important in the eyes of consumers and do you think there's room for you to better monetize versus your 3G investments there?</p>
+          <p>Last question I had is with regards to Singapore again, sorry to swing back. Wondering if you're seeing your Wireless SG platform actually takeoff in terms of usage traffic. It's unique in that sense if you have free WiFi here. Are people thinking or moving to offload traffic to the Wireless@SG platform instead of paying more and topping up on the data plans? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Hi, Arthur. Can I just clarify, your first question is about our intention to up price &#x2013; to adjust prices for LTE services, and your &#x2013; can you repeat your second question again? I probably missed that.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yes. The second question is regards to Optus, if you can talk about the LTE coverage levels and targets versus where your competition is at the moment?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Right, okay. Okay. Moon will help answer the first question for you <mark type="indiscernible" /> (19:32).</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>First question, then I'll <mark type="indiscernible" /> (19:35)</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>
+            <mark type="indiscernible" /> (19:37). Kevin will talk about LTE coverage in Australia first, and then Moon can talk through LTE pricing and Wireless@SG.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Okay. Thanks. <mark type="indiscernible" /> (19:52) just come back, obviously, to September time was for me actually first introduced LTE at Optus across Australia. We've now got four, five months on, but now got good coverage across all the key capital cities. As I mentioned, <mark type="indiscernible" /> (20:11) Perth, Brisbane, Adelaide, and obviously Sydney and Melbourne. We've also got coverage down &#x2013; good coverage down in the Gold Coast and Newcastle as well.</p>
+          <p>In terms of comparability versus the competition, Telstra unquestionably has gone broader and regional. We have focused more strongly on the core capital cities. I believe in Sydney and Melbourne mix was just now &#x2013; our coverage in 4G will be relatively comparable to Telstra <mark type="indiscernible" /> (20:43) during the September, October, November timeframe had road test and media trials, identified better speeds and actually broader coverage in the Optus networks. So I think we are reasonably well positioned as an initial network starting point.</p>
+          <p>For us, we announced back in April the expanded joint venture with VHA. And that joint venture was really about expanding our safe footprint, and that joint venture <mark type="indiscernible" /> (21:15) over the coming 24 months in terms of expanding our LTE footprint across those core metro areas. We would like to see ourselves <mark type="ph" /> settle (21:25) in the next couple of years. We have a position where our 4G footprint will be comparable to our 2100 footprint. We see as a key battleground for the business.</p>
+          <p>In terms of being better positioned to monetize, these are relative to 3G investments. The market is different and that really does help. I think there's been some lessons in the marketplace and the industry in terms of how you price data and how you value data, and definitely been some more rational position is taken as an industry over the last 12 months with some <mark type="indiscernible" /> (21:57). And I think we're actually as an industry in a very good position to make good revenues in 4G data over the coming 12, 24, 36 months. And, obviously, given the investments we'll put into it, it's key that we achieve that. Koong, back to you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah. Moon.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Hi. Okay. With regards to the LTE, we announced the launch of LTE service last year in July. We actually mentioned that &#x2013; we introduced a tiered pricing at the same time, but we also mentioned that in April this 2013 we will be re-looking at our excess data charges. That means once our customers have exceeded their original allowance of the data in their monthly plan, the rates will be increased from the current $5.35 per gigabyte to $10.70 per gigabyte. So that was announced early when we launched, and we are on track to do that. And the reason why we have put future date on April 1 is we expect to have nationwide rollout by end March 2013. So that's where we make that announcement way back in July 2012.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Just to clarify, that is just for the excess data usage, but -</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>That's right.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>You're not looking to maybe raise it on the base price?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>That's right. I think from consumers' perspective, today it's more difficult to differentiate between 3G and LTE when they start to use, because the phone actually switches automatically from one network to the other network. I think the easiest way is to ensure that we have got a wide LTE coverage where all the customers who are on LTE plans and on 3G smartphones will be able to get access to the LTE network better experience. And in doing so, they enjoy better speed and overall performance of our service.</p>
+          <p>On second question on Wireless@SG, Wireless@SG is really an IDA initiative to provide free Wi-Fi access at public area all over Singapore, and SingTel is one of the participant to provide this service in many places within Singapore. We continue to support this initiative, because we see a lot of &#x2013; we see this as a complementary service to our mobile service. And especially so when we have got tiered mobile pricing plan now, our customers can actually go to these hotspots and sign on to these Wi-Fi to offload their mobile data usage without incurring &#x2013; drawing down on their data allowances. So we will continue to see this. And I think as the infrastructure gets upgraded within the IDA program, more and more users will be also switching into these Wi-Fi hotspots. So we -- SingTel will continue to support this initiative.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Are you seeing any traffic flow from your mobile network into the Wi-Fi?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I think it's extremely difficult to tell how much traffic gets offloaded, because overall data usage has been growing rapidly and because of our mobile network improvement, more customers actually use more data over time. So we do not see a decline in our mobile data usage, because more &#x2013; customers are using more. But at the same time, I think Wireless@SG just play a part in actually absorbing more traffic in public areas, especially where it is located in more <mark type="indiscernible" /> (25:50) traffic competition at the same time.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay, Very clear. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you. Prem Jearajasingam, Macquarie.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Good afternoon. Thank you for the opportunity. I've three questions. Firstly, with regards to the Indonesian tower sale that's being talked about, do we see this progressing? And what is &#x2013; could you talk about SingTel's role in all of this? How do you &#x2013; do we get any money upfront? What are the implications from this tower sale? One.</p>
+          <p>Number two, with regards to Singapore, could you help clarify what percentage of your cost of sales actually is handsets? And do you see this trend of lower handset subsidies continuing into the future, given the mix change that we're seeing in the market? And finally, could you comment about Africa? That business seems to be coming along pretty nicely. Is there any scope for SingTel to increase its exposure in Africa, i.e., by helping Bharti increase stakes in some of the markets that we are not already in, or is there anything else that we would like to do to increase our exposure to that market?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. I think on the Indonesian tower sale, maybe I can just quickly take that, because frankly they've &#x2013; I mean, there has been various discussions on how Telkom, Telkomsel and SingTel can maximize the value of the towers that Telkomsel owns, but there is no structure <mark type="indiscernible" /> (27:44) on hand currently. So I don't think I've have anything to comment on that. But clearly, as shareholder of Telkomsel, we would be keen to see how we can maximize the value of our tower assets. There, obviously, there is rules around the tower sale, and of course, we're also concerned that the operating performance of Telkomsel is not adversely affected as a result of any tower sale. So bearing that in mind, we'll be keen to support the deal that helps maximize value for shareholders.</p>
+          <p>I'm going to pass to Paul to talk about Africa and what Bharti plans on Africa. I should highlight that Bharti does have a controlling stake in all these countries that they currently operate in, but I'll let Paul talk a bit more about Africa, before I ask Jeann to talk about what is in the cost of sales item?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Yeah, thanks <mark type="indiscernible" /> (28:45). I mean, actually just been in Africa myself over the last few weeks, and I certainly agree with the sentiment that there are significant opportunities in the market. I think you've also seen out of our own business there, these improvements over the last 12 months. So our revenues, for example, out of Africa are up over 7% year-on-year. <mark type="indiscernible" /> (29:06) expansion of over 6% in the period. You also saw net adds of 3 million <mark type="indiscernible" /> (29:13) through the period. But all heading in a good direction.</p>
+          <p>I think that realistically, of course, there are also some challenges in Africa that we have to work our way through. For me, the biggest of those is just navigating the currency environment, and the fact that our business <mark type="ph" /> trade in (29:27) local currency. For the moment, our focus is very much on the work that Manoj has indentified is priority, which is to drive synergies across the operation to bring the benefits of Bharti management and its skill sets to lift <mark type="ph" /> CBDA (29:41) performance in all of the businesses. And overall, to try and move the <mark type="indiscernible" /> (29:45) business on a positive trajectory in terms of EBITDA and revenue.</p>
+          <p>And in terms of expansion to other markets, <mark type="ph" /> it's pretty (29:52) there is a lot on the plate at the moment. Our focus is very much on maximizing performance at the existing businesses. And the discipline we have as investors <mark type="indiscernible" /> (30:00) would be that should any other opportunities open up, we look at them strictly in the terms of what value could be created by the investment. It's not about putting price on a map. It's a lot more <mark type="ph" /> across (30:10) about maximizing the performance of the business we have today and see if there's any synergies with it. <mark type="indiscernible" /> (30:17), but happy to take any follow-ups. And then I think there was -</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="a">
+        <plist>
+          <p>On the question about cost of sales, I think if you are referring to handset cost, if it is related to the sale of the handset, I will just point you out to the sale of equipment of about S$119 million, that's the revenue number. The cost of sale would include &#x2013; the cost of sale figure that you see in our MD&amp;A, well, our costs include the cost related to the handsets that we sold, as well as the cost of sales related to the NCS, IT services, because we do procure item for customers, and that would be reflected as well in cost of sales. And then, of course, there is a smaller element this quarter because of the rollout of the fiber <mark type="indiscernible" /> (31:08). If you are looking at historical quarters, cost of sales would have been higher because of the fiber rollout that we have undertaken on behalf of OpenNet.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Any indication of what that handset cost is as a percentage of that cost of sales?</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="a">
+        <plist>
+          <p>We've never disclosed a split of the cost related to the handset. But I think you could look at the sale of equipment, a large part of the sale of equipment related to handset sales. We also provide the acquisition cost for wholesale subscriber, which is again an expense item under selling and admin. So I think you will recognize the sale of equipment. We are not in the business of making <mark type="indiscernible" /> (31:54) margin from sale of handset, so the cost would be very close to the revenue number.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Sure.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="a">
+        <plist>
+          <p>In terms of the sale of equipment.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>And just a touch off on the African question again, would SingTel consider making its own investments in Africa outside of what Bharti has already done?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We've agreed with Bharti that Bharti would be &#x2013; they know the African investment. If you look at the historic link between India and Africa, those are extremely close. And Bharti also has the manpower to <mark type="indiscernible" /> (32:42) to Africa, to help to kick start the operations, improve operating efficiencies in the various locations, et cetera. So to us, we think it makes a lot of sense for Bharti to be fronting all investments into Africa.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Perfect. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you. Sachin Gupta, Nomura.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Yeah, thank you. Just a few questions. Firstly, on this NetLink Trust, you obviously need to divest passive infrastructure by April next year. Just wondering any indication on what form it could take. And if the assets is sold, let's say, how the funds be deployed? That's question number one.</p>
+          <p>Question number two, I guess, is on the Singapore market, you have been gaining share pretty much in every single segment. Just wondering, is the management team happy with the current market share and the focus is actually on increasing profitability. Or you still think that the market share will remain a focus going forward as well? And I guess, lastly on just the Bharti business, I guess, <mark type="indiscernible" /> (33:44) contribution is still pretty weak, obviously, the combination of many things. Are there any thoughts on if and when this will turn around from your point of view? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I think we are here to count chickens before they are hatched. I think I'm we have &#x2013; I'm going to ask Jeann to talk about the divestment question, and then Paul to talk about Bharti and Moon can talk about Singapore. Although, I have to tell you, before Moon answers you that we've always been focused on profitable market share, and not just market share alone.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="a">
+        <plist>
+          <p>Sachin, I think we have always <mark type="ph" /> in the cases (34:24) that we do have an undertaking in terms of the divestment plan, which you know and there is a timeline, which is April 2014. But clearly that is subject to various approvals, and of course, the key issue around divestment is always around valuation and market condition. So as Sock Koong said, we don't count chickens before they are hatched. <mark type="indiscernible" /> (34:50) I would stay clear of any &#x2013; how we intend to re-deploy the cash. We must first of all have the divestment, and clearly that is a subject that we will look at very closely, particularly in terms of shareholders' value creation.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>So, Sachin, it's Paul here picking up on India. So I'll provide you maybe a little bit of perception from how we see it. Obviously, it's been a very difficult and challenging market, and a lot of that has been related to market structure over the last few years. So we certainly anticipate and hope that as the people who have had their licenses cancelled exit the market over the next quarter, <mark type="indiscernible" /> (35:31) greater rationality in the market.</p>
+          <p>There is probably some early <mark type="ph" /> read (35:35) indicators that show that people are already moving into that mindset. So if you look at what's happened over the last quarter, Airtel has taken a number of important steps. And there was some great commentary at the results announcement in India last week about the contrast between the headline rate that we advertise to customers, and in fact the effective rate most customers are paying, they've had half that. And in many cases, the customers may not fully appreciate some of the benefits and discounts they're getting.</p>
+          <p>So during the quarter Airtel took a leadership role in reducing promotions of three minutes and of changing what's allowed in some of the plans without needing to change the headline tariff. They also took a strong stance in terms of changing dealer payment, so as to reduce the incentives for rotational churn. And so if we look at the impact of some of those during the quarter, we've actually seen underlying rate per minute stabilize for the first time, I think, in about six quarters, and that's very healthy in terms of showing some degree of improvement in what underlying earning could be. We also saw that despite a negative net add, which is probably a product of reducing dealer incentives and reducing rotational churn, our traffic was actually up 3%.</p>
+          <p>Another initiative during the quarter was to take a lead in raising data prices. And you saw Airtel move on 2G data prices, which is where there is a significant activity today. Again, we would hope that that's going to drive some improvement moving forward. And so, while characterizing it overall, <mark type="indiscernible" /> (37:02) very early days. The market still has a lot of challenges with it. However, the fact that we've been able to make these changes and that several of them have stuck and pulled through in terms of the <mark type="indiscernible" /> (37:14), we would hope it's beginning of some sign of stabilization in India.</p>
+          <p>I'll make a final point, which is that you saw Airtel demonstrate it was going to get very focused back at the micro telco level and protect some of our revenue market share, and they've delivered on that. Revenue market share has now gone from 29.2% last year to 31%. So we are seeing some signs of improvement in performance. Moon?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Thank you, Sachin. I think Sock Koong mentioned that we only pursue profitable total market share and not just blindly going after market share. Maybe I'll give you a bit more color in each of the respective services and how we see the business. I think from the area of postpaid, the focus in the last two quarters has been really about driving our tiered data plans to see how we could monetize data better. And I think that has come out pretty well and we reported 17% of customers have moved on to tiered pricing plan. And, obviously, by leading the market in that &#x2013; in moving up to the tiered pricing plan, it has helped us both in terms of gaining a bit more revenue in that space, so we will continue to pursue that. I think the market share movement is actually very slight. I wouldn't read too much into that.</p>
+          <p>In the area of prepaid, while we have gained bit of a market share, it is really more about driving data usage and getting our customers to use more data, as opposed to just to swing gross adds, and then generating a lot of rotational churn. So our focus in prepaid is really about getting quality subs, getting the customers to use more of our services. And, obviously, in the home space on fiber and TV, this is where we will continue to pursue aggressively, and especially in the area of TV. I think <mark type="ph" /> there are few (39:04) relatively small in terms of market share as compared to the incumbent. So we will continue to pursue aggressively to gain more share in that space on the TV, while fiber is really the anchor in the home, and that's where I think by leading in fiber will set us very nicely for the entire home &#x2013; ownership of the home. So I hope I've given you a bit more clarity on how we see market share as growing our business together.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>If I may also, Sachin. See, if you look at the customers that we are gaining in Singapore, I think the important thing is also, if you look at this from where telco is going and where we're transforming ourselves, the <mark type="indiscernible" /> (39:46) of customers that we have on mobile and in the home also gives us ability to go beyond carriage and upsell them into new services. For example, if you look at mobile payment and financial services that we're starting to go into, especially now with government mandating certain things with NFC, and with NFC handsets becoming more predominant in 2013 and 2014, the ability also to have a captive base of customers that you can upsell different media products to. I think home, obviously, it's TV. On the mobile, obviously, it's things like <mark type="indiscernible" /> (40:24), we've now move on to a paid model, which is music. Also our ability to upsell to them things related to books, media, games, et cetera. So I think the important thing here is market share is important and profitable market share, which is based off yield and revenue of customer, which today is very much on carriage product, but increasingly now we're moving beyond that to other data products. And also the advertising dollars that we can get as a regard of sending <mark type="indiscernible" /> (40:58) to the customer base. So I think our perspective is not just looking at it from a carriage perspective, beyond that as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="a">
+        <plist>
+          <p>Sachin, this is Bill here for the business segment. On the business side we <mark type="indiscernible" /> (41:13) strategy within the fiber take-up what do we do around the value added services in the fiber, primarily in a cloud-based services we've been known in the fiber place to be a sort of value added service player with a price premium against all the other competitors.</p>
+          <p>But the key here is though it's a price premium, the value we bring the cloud-based software service delivers much more value to SMBs, for example, and that has really driven our growth in market share and profitability.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Great. That's clear. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you. Raymond from Goldman Sachs.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thanks, guys. Just a couple of questions from me. Just you saw a pretty strong growth in wireless broadband in Singapore. Just wondering whether you've seen any change in the declining trends in Australia, just given the launch of LTE last year. Secondly, just in terms of postpaid ARPU in Australia, I think a decline of 7% driven by roaming and churn. Just wondering whether you can talk about the trends behind this.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Kevin, do you want to take both questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Yeah, I'll take the first one, and then Murray <mark type="ph" /> will through the offer (42:27) in detail. We are seeing opportunities now coming through in wireless broadband. Obviously, the efficiency in LTE and the cost in LTE gives us a bit more flexibility in terms of <mark type="indiscernible" /> (42:40) price on more sustainable basis. So our wireless broadband growth is starting again. We're not &#x2013; we are wary in terms of subsidizing aggressively in wireless broadband, as we said earlier. However, we are starting to see a bit of a pickup in terms of 4G take-up. So there is an opportunity there, Raymond, that we will pursue more aggressively as the network obviously rolls out.</p>
+          <p>There is probably one other point I should have touched on earlier, which is the 2300 spectrum you'll start to see developments on it during the course of 2013, which obviously presents us opportunity as well in terms of wireless broadband and LTE. Murray, and the ARPU breakdown?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>Yeah. So as you rightly pointed out, if you look at our postpaid ARPU excluding the impact of device repayment plan and service credit, it's down 7%. That's a consequence of lower roaming revenue, so customers substituting alternative products for roaming and services. And in respect to high <mark type="indiscernible" /> (43:42) customers starting to reduce their rate each from &#x2013; in respect of the <mark type="indiscernible" /> (42:49) within the churn customer base. So it's a consequence of the way the customers are using their devices that we see the churn down &#x2013; the ARPU down, sorry.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>So is that a consequence of any loss in terms of high value customers over to potentially <mark type="indiscernible" /> (44:13) in the last quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Clearly, in the quarter, you've had the iPhone 5 launched and there's been quite a bit of activity around that, which has meant that the churn number you see in our reported results is up slightly. It has had some impact on ARPU, as we've articulated in the MD&amp;A. That is part of the answer, but as I said, it will be small part of it. It's more a consequence of customer behavioral change that's having the impact on the ARPU.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>Similar to at Telstra <mark type="indiscernible" /> (44:49). The only other part, we've also seen similar trends at Telstra in terms of reduced termination fees during the quarter. That was the other trend, I think, both of us have seen.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>All right. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Rajesh, HSBC.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Hi. This is Rajesh from HSBC. Thanks for the call. I have two questions. Firstly, you mentioned that you've renewed your TV broadcast rights for ESPN/Star Sports this quarter. So just wanted to check if this is on a non-exclusive basis? And should we expect any content cost escalation in this &#x2013; in subsequent quarters? Secondly, are you seeing any material differences between data usage trends between smartphone models, primarily Apple and Samsung, and any data point you can share with us on that? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I think on the question on data on different smartphones, I think that's probably getting to the level of detail that we are not quite prepared to share. Obviously, as operators we do track data usage by different models, quality of voice or data, et cetera, but probably not for us to talk about this in this forum. We can see how we can share some of the highlights with the investment community at a later date. I'm going to ask Alan to talk about the ESPN renewal.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="a">
+        <plist>
+          <p>For our TV product, obviously, content and in particular sport content is very important to us, and we've been monitoring content engagement on our different channels, including the ESPN channel &#x2013; <mark type="ph" /> ESS (46:42) channel, ESPN/Star Sports as well. And if there's any &#x2013; the time was opportune for us to move from the exclusive arrangement that we used to have to a non-exclusive arrangement. So we've discussed that with the content provider and we agreed in December to move to a non-exclusive arrangement. So I think that will have the impact on our content cost. We are not allowed to share the details of that, because of the reason that we signed the content provider. But you can certainly recognize as we move from exclusive to the non-exclusive environment, there will be some changes in the content cost.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Understood. Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Richard, UBS.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Morning, everyone. Just a couple of questions please. Firstly, just on CapEx numbers, obviously, CapEx trends have started to pick up a little bit, obviously, with network rollout. I'm just wondering whether you're still comfortable with the $1.1 billion guidance now for 2013. It looks as though that could be a little bit light, given obviously trends that we've seen so far. The second question just becomes more around, obviously, spectrum auctions and just wanted to hear your thoughts in terms of how important you think the 700 is to the business over the longer term. And what strategy you have in place to sort of <mark type="ph" /> combat things (48:09)?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. I think on the guidance that we've provided for the financial year including CapEx across Singapore, Australia, et cetera, we are affirming the guidance for the year. And, obviously, we will look at fresh guidance for the next financial year when we announce the May results, yes &#x2013; well, March result full year results in May, sorry. Thanks for the clarification. Yang Fong, on the second -</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Richard. I think you would have probably missed it, but early on I had said that because there is an auction process that's underway in Australia, it is rather difficult for us to be commenting on spectrum questions. So appreciate if you have some patience in that context.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>No, no, I understand. I was just trying to understand is that how important do you think 700 is to the business longer term. It doesn't have to say, but I'm trying <mark type="indiscernible" /> (49:05) your spectrum strategy.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Richard, it's Paul here. Obviously, we have to observe lot of the governance and the auctions very carefully. So we are actually precluded from making any commentary at the moment. So the topic we just <mark type="indiscernible" /> (49:17).</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Okay, understand. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Ian Martin, CIMB.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>I had a question on the 700 &#x2013; the value of the 700-megahertz spectrum here as well, so I'll just wait, but I'll tell you it is an important issue for investors. Thank you. Sorry, can you hear me?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Yeah, thank you. This is Paul. Thank you for understanding. Hopefully, the topic we can all move beyond fairly quickly once the auction has taken place. There is, obviously, a great degree of sensitivity now that any comments we make publicly could be designed somewhere to try and shape an outcome or <mark type="ph" /> signal outside (50:03). So for all those reasons, we just have to stay quiet. But, hopefully, with your understanding, we can come back and have a longer discussion with you and with other interested parties on this once everything is out in the open.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Thanks, Paul.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Kelvin Goh, CIMB.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Hi. One question from me. In the event that &#x2013; this is regards to <mark type="indiscernible" /> (50:31) in the event that if Bharti is also interested in making a bid, how would SingTel work with Bharti? Would you put in a joint bid or would you put in a separate bid? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>It's definitely early days. The government released a one page statement basically saying that they are two operators now. They are going to look at issuing two more licenses. They are inviting expression of interest. So at this stage here, it's probably too early for us to speculate as to the conclusion for us entering Myanmar what it would look like.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Okay. Thanks. And I'll just quickly squeeze in a question on &#x2013; basically a follow-up to comments by Allen regarding the sport content in Singapore that it has now moved to a non-exclusive basis for the ESPN content you expect some changes to the content cost. Would it be fair to assume that it's a significant change, and if it is a downward trend?</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="a">
+        <plist>
+          <p>I'm sorry <mark type="indiscernible" /> (51:44) stringent disclosure requirement as a result of signing the commercial agreement. So I can't comment. I think you can expect that with non-exclusivity, the pricing will be significantly different <mark type="indiscernible" /> (52:02) in terms of where it's likely to go.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Okay. Thanks, Allen.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="a">
+        <plist>
+          <p>
+            <mark type="indiscernible" /> (52:07).</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Roshan, Merrill Lynch.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Hi. Thanks for the call. I just have one question. This is on the competitive landscape in Australia, and particularly the trends from Vodafone Hutch. Just wanted to understand your thoughts on how this is impacting the overall landscape. And what does it mean for Optus' growth in profitability over the next 12 to 24 months? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Kevin, you want to talk about that? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Sure. This question is very specific in terms of Vodafone Hutch. I think the challenges network-wide are well-documented and the market share losses is well-documented. But I think an appropriate assumption would be that during the course of 2015, the network performance will improve and it will have more credible competitor in the marketplace. However, I will place that in terms of the pricing strategy over the last twelve months after the change of leadership has been, I think, very clear and very rational. I think they are &#x2013; personally I think they are concerned a bit. The industry <mark type="indiscernible" /> (53:22) and focused on getting our cost structure right.</p>
+          <p>So I believe overall competitively, there's a good environment and a good understanding in terms of the yields we have to make in the industry going forward <mark type="indiscernible" /> (53:38) part of that. We will see how aggressively they come in in terms of regaining market share, but that's probably <mark type="indiscernible" /> (53:46). We are very clear that the marketplace from our competitor standpoint will have strong players and will have strong players <mark type="indiscernible" /> (53:59) from a network standpoint, and we have to accordingly strengthen our proposition, our core network and other parts of our customer experience. I think we're well-placed to compete over the coming two, three years.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Okay. That's very helpful. I just wanted to just &#x2013; I had a follow-up question. This is more on the revenue growth outlook for Optus and the industry as a whole. On Page 42 of the MD&amp;A, I see there is lot of stress on really managing cost. But I did not get a good sense of how maybe revenue growth for Optus is really going to improve going forward. Any color there will be very helpful. Is it going to be just about 4G pricing, data tier plans, or are you looking at new revenue streams in this market? Any color there will be great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>There is, obviously, some key trends in the marketplace. Obviously, the ongoing reductions in termination rates have a significant impact in terms of income and revenues. The key point there is, they are offset by similar reductions in interconnect costs overall profitability wise. It isn't the issue in terms of profit growth. Our focus is very much on making sure that from an outgoing revenue standpoint, we are strong in the marketplace and we do see significant growth potential in terms of 4G. We talked about <mark type="indiscernible" /> (55:32) we need to get our 4G network footprint out there as aggressively as we can over the next two years. We are focused in terms of pricing funds and put in place structures very much <mark type="ph" /> in Sydney and (55:44) Singapore that actually enables us to make better returns on data, and we think that will be key to revenue growth looking forward. I'm not going to comment any further in terms of projections or shapes, but those are two broad trends you should look for.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>
+            <mark type="indiscernible" /> (56:04) context, very important context. Quite interesting, if you strip out all the accounting changes for the way device repayment plans are being handled, and look at EBITDA in the mobile industry over the last two and half years in Australia, actually it's pretty flat. And that's <mark type="ph" /> what quite we're seeing a (56:19) period in which all of the carriers have had to invest in increased capacity for data networks, and indeed we're about to head into now a new investment cycle. We're <mark type="ph" /> always trying (56:29) to going to have to invest even more. So the reason you're seeing a strong focus in the narrative about some of the work we're doing in cost, because Kevin is leading a major retooling of the business in Australia. And basically, we believe that the ratio <mark type="ph" /> maybe (56:43) between cost and income has to change because the market is changing, and that is a key element of success to make sure that we can pull through our revenues and our annuity stream off a much more effective cost base. And that's using clever things like online capability and much better analytics. So, Kevin is very much driving that change. So I think it's important to emphasize that at the revenue line, as he has identified, we do see that in the future there will be continued mobile data growth, and <mark type="indiscernible" /> (57:13) company is in a great position to capture that, particularly with the investments we're making in mobile network.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Okay. Thanks, Paul. Thanks, Kevin.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>I understand there are no further questions. But if you do have further questions, please feel free to contact the IR team in Singapore or Sydney to clarify. So on behalf of everyone in SingTel, thank you and goodbye.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

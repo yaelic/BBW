@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1140028" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q3 2008 Earnings Call</title>
+    <date>2008-03-26</date>
+    <companies>
+      <company>389</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Roy Lobo, Investor Relations</participant>
+      <participant id="2" type="corprep">Safra Catz, President and Chief Financial Officer</participant>
+      <participant id="3" type="corprep">Charles Phillips, President</participant>
+      <participant id="4">Heather Bellini</participant>
+      <participant id="5">Safra Catz</participant>
+      <participant id="6">Sarah Friar</participant>
+      <participant id="7">Charles Phillips</participant>
+      <participant id="8">Larry Ellison</participant>
+      <participant id="9">Kirk Materne</participant>
+      <participant id="10">Brent Thill</participant>
+      <participant id="11">Kash Rangan</participant>
+      <participant id="12">John DiFucci</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good day everyone and welcome to today's Oracle Corporation Quarterly Conference Call. Today's conference is being recorded. At this time, I'd like to introduce Mr. Roy Lobo, Investor Relations of Oracle. Please go ahead sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Great, thank you Operator. Good afternoon everyone, and welcome to Oracle's Third Quarter Fiscal Year 2008 Earnings Conference Call. This is Roy Lobo, Head of Investor Relations. With me on the call are Oracle's CEO, Larry Ellison; Oracle's President, Charles Phillips; and Oracle's President and CFO, Safra Catz. We will begin with a few prepared remarks and then take a few questions from the audience.</p>
+          <p>Let me begin by reading the Safe Harbor statement. Today's discussion may include predictions, estimates, or other information that might be considered forward-looking. While these forward-looking statements represent our current judgment on what the future holds, they are subject to risks and uncertainties that could cause actual results to differ materially. You are cautioned not to place undue reliance on these forward-looking statements, which reflect our opinions only as of the date of this presentation. Please keep in mind that we are not obligating ourselves to revise or publicly release the results of any revisions of these forward-looking statements in light of new information or future events.</p>
+          <p>Throughout today's discussion, we'll attempt to present some important factors relating to our business that may affect our predictions. You should always review our most recent Form 10-K and Form 10-Q for a complete discussion of these factors and other risks that may affect our future results or the market price of our stock. A PDF copy of our press release and financial tables, which include a GAAP to non-GAAP reconciliation can be viewed and downloaded on the Oracle Investor Relations website at www.oracle.com/investor.</p>
+          <p>So, with that, I'd like to turn the call over to our President and CFO, Safra Catz for her opening comments.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks Roy. Good afternoon everyone and thanks for joining us. I'm going to focus on our non-GAAP results for Q3, then I'll review guidance for Q4 and turn the call over to Charles and Larry for questions.</p>
+          <p>For Q3 we delivered another very strong growth in EPS and net income of 23% and 22% respectively. We've now completed 15 quarters of our original five-year EPS growth plan of 20% per year, and we've delivered another earnings growth well in excess of that target.</p>
+          <p>One highlight of the quarter is clearly our margin story, which continues to accelerate. For the quarter we delivered another -- nearly 200 basis points in year-to-year margin improvement, bringing our non-GAAP operating margins to 41%. This is an addition to the margin improvement we delivered in each of the prior two quarters and we've already met our fiscal year margin improvement goal of 100 to 200 basis points in just the first nine months of the year.</p>
+          <p>Our operating margins are substantially higher than any of our peers including Microsoft reflecting the unique leverage in our model and the strength of our strategy. On license, we were within our guidance range, but customers got a little more cautious at the end of the quarter given what was going on in the financial markets. Deals are getting done although they took a bit longer than anticipated in the last few days of the quarter. Interestingly, some of the deals that slipped past the February cutoff already closed in the first few days of March. As you will see from my Q4 guidance, our pipeline growth continues to build at a very rapid pace.</p>
+          <p>With that, let me go through the numbers. New software license revenues were up 16% to $1.6 billion that is after a very tough comparison to 27% growth in Q3 of last year. Technology new license revenues were extremely strong growing 20% year-over-year to 1.2 billion. In technology, we are clearly beating the competition and taking market share away from our competitors.</p>
+          <p>Our Applications business delivered new license growth of 7% year-over-year to 451 million, but that's after a 57% growth rate in Q3 of last year. Our trailing 12 months application license growth rate is 29%, well ahead of our peers, double that, more than double that actually of SAP and well ahead of our own expectations. Hyperion contributed 64 million in license revenue during the quarter and Agile contributed 14 million.</p>
+          <p>Software license update and product support revenues were up 23% on a non-GAAP basis to 2.6 billion and we are still on a revenue run rate to achieve over 10 billion in this high margin business for fiscal '08. As I mentioned we are delivering strong operating income and margin, our non-GAAP operating income grew to 2.2 billion with our margins increasing nearly 200 basis points to 41%.</p>
+          <p>EPS grew 23% to $0.30 on a non-GAAP basis and on a trailing 12 months basis operating cash flows increased by 2.3 billion year-over-year to 7.3 billion while free cash flow increased 48%. In Q3 we bought back about 24 million shares at an average price of 20.64. As we said, the rate of our buyback will fluctuate from quarter-to-quarter taking into account our alternatives and anticipated uses of cash including paying down the debt associated with the acquisition of the BEA.</p>
+          <p>The currency impact for the quarter was a positive six points on revenue. In summary, we are confident in our strategy and extremely satisfied with our sales execution in Q3. We have a broad, highly diversified customer base both by industry and geography and we'll continue to benefit from the weaker dollar. We believe there is a lot of leverage in our model to continue to deliver strong earnings growth.</p>
+          <p>Now let me give you a quick update on BEA. We are very pleased to have cleared Hart-Scott-Rodino quickly in the US and we've submitted our notification in Europe and anticipate a timely review there as well. BEA has scheduled its shareholder meeting for April 4th. We expect to close as soon as we receive clearance in Europe and are optimistic that that will occur during Q4. We believe our acquisition of BEA comes at precisely the right time both financially and strategically. The BEA support base will add to our cash flow, margin and earnings story.</p>
+          <p>Today's guidance though will not include BEA. With that our guidance for Q4, our seasonally strongest quarter, is as follows: new software license revenues are expected to be up 10 to 20% year-over-year. Looking at the continued growth in our pipeline there actually could be quite -- some upside, quite a bit of upside to the guidance, but I want to be cautious given the macro news over the past few weeks.</p>
+          <p>Total revenue is expected to be up 14 to 18% year-over-year on a non-GAAP basis. Total revenue on a GAAP basis is expected to be up 15 to 19%. Non-GAAP EPS is expected to be $0.43 or $0.44 as compared to $0.37 last year. GAAP EPS for the fourth quarter is expected to be $0.37 to $0.38 up from $0.31 last year. This guidance assumes a tax rate of about 28.6 for Q4 versus 29.2 for Q4 of last year.</p>
+          <p>Now, if the current exchange rates hold for the entire quarter, that will result in 7 points of positive currency impact in Q4. But as you know currencies are likely to fluctuate and as a result the currency impact in Q4 could be different than our guidance assumes. With that, I will turn the call over to Charles for his comments.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thanks Safra. I think in the context of the economy, we delivered a good quarter. There was an economic inflection point during our Q3, but I think we adjusted quite well. We know what we're dealing with now. We've adjusted our close plans, in some cases we need additional sign offs at the board level etcetera, we are doing that.</p>
+          <p>And customers have also adjusted; some have different procurement cycles in a tighter environment. The other thing we have going is just the time factor as we get past the inflection point, people do eventually get back to business and we're seeing that now already early in Q4. Safra mentioned a lot of those deals have closed already and we are off to a good start. So, we've been through this before and we know how to adjust to it.</p>
+          <p>It is an environment that favors large stable suppliers who already have broad geographic coverage. The good news is the pipeline; the sequential growth in pipeline as we enter Q4 is higher than the sequential growth we saw entering Q4 a year ago. But of course we have a lot more ways to get to the numbers than easier comparisons. Q4 of course is always magical for Oracle given our annual buying cycles and the indicators that we look at are there in place for another strong quarter. Assuming &#x2013; we're also assuming a fairly conservative close rate for Q4. If you look at the average of the last five years, we are 5 percentage points below that in our assumption. So nothing heroic assumed here. So with that let me touch base on some of the key product areas and key customer wins.</p>
+          <p>On Database, we're up to 12,000 RAC customers now; we had good performance out of the options especially for Enterprise Manager and Database Vault. 11g is off to a good start. We've have had over 200,000 downloads already. Key wins in the quarter, Real Networks a great infrastructure for all their mobile entertainment platforms. Omni Hotels for their reservation system and salesforce.com, in this case as a customer, a good purchase for us.</p>
+          <p>In the Middleware business, we are up to 55,000 customers, down 5,000 ISVs. Key platform wins in the quarter; AT&amp;T, Michaels, CNET. For our SOA platform, GM-OnStar, Delta Airlines, the Kennedy Space Center.</p>
+          <p>Enterprise Performance Management and BI where we had a breakout quarter more than double in BI. We had key wins at Amazon, Avery Dennison, Univison, USG Corporation.</p>
+          <p>Content Management; Fidelity, UnitedHealth Group and CIT Group. All of those were wins over FileNet and IBM.</p>
+          <p>A really strong quarter in Identity and Access Management. We had a new release in the quarter, end-to-end wins for Hyatt Hotels and Boeing over Sun and IBM in each case.</p>
+          <p>On the Applications side of the business, some good wins for major enterprise deals at Herbalife, Abercrombie &amp; Fitch, The Bank of New York, Toyota Motor sales, Nissan, NTT Communications.</p>
+          <p>G-Log had some good wins at DHL, United States Mint over SAP.</p>
+          <p>And lastly in our Telco Billing Unit, Dow Jones, EDS, Vodacom and US Cellular, very strong quarter there as well. So with that, I guess we will open it up for questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" />. And we will go first to Heather Bellini with UBS.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Hi, good afternoon Charles and Safra. I was wondering &#x2013; you commented that you could have some upside to Q4 given your conservative close rate assumptions. Given Charles' comments that close rate expectations for Q -- given his comments on close rate expectations for Q4, I'm wondering if you could give us an idea of where close rates came in during Q3 versus what you had planned. I guess I'm just wondering was the -- is the margin of conservatism the same?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>No. Actually...</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>And then I had a follow-up. I'm sorry.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Sure, no problem. For Q4, looking at the sort of massive increase in the pipeline for this Q4 that we're looking at. I've gone ahead and used a lower close rate than we had both this quarter and than we've had historically for Q4, much &#x2013; significantly lower to get to the guidance. Simply because, as we mentioned, deals seem to be taking a little bit longer. And they end up coming in, but we're seeing the news reports all the time and we just want to make sure that we have got close rates really quite low such that we're very comfortable with our numbers.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Okay, and then the follow up would just be on your margin comp, you obviously did better than people thought on that front this quarter and you're on track for your 200 basis points of year-over-year improvement. I guess what I'm wondering here is that looking out and maybe if you could give us some sense of fiscal year '09, even ex-BEA given that hasn't closed yet, what type of margin expansion expectation should we be thinking about for Oracle looking out over the next four to five quarters?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>So Heather, you're basically asking, "What have you done for me lately?" And that's okay, no problem, the reality is 200 basis, 100 to 200 basis points, so we're on track to do and we actually expect our margins to continue to improve with scale. And to the extent that the model has got that in it, we bring in a very large and profitable maintenance base, which directs a lot of that. We have huge economies of scale here at Oracle, we stay very close to our knitting. So we reduce duplicate efforts. And I wouldn't be surprised if next year we continue on our path of improving margins.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we will go next to Sarah Friar with Goldman Sachs.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Good afternoon, Safra, Charles. Can you give us a little bit more color on the slowdown or the elongation that you saw at the end of February? Any particular verticals? Geographically, it looked like all North America more so. I mean just some &#x2013; a little bit more color around where that weakness was so we can maybe get a handle on why it should get better as we move into the May quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Well, there are a couple of things. First of all, just for all of you to know on the call, Larry is also available on the call. He is not in the office today, right now, but he is available right now for questions. So feel free to ask him anything.</p>
+          <p>The -- as far as actual verticals, the reality is that, what we saw I think is folks just reading the papers even in businesses that they were not necessarily impacted, it wasn't just banks. We did deals, some of our largest deals in the quarter are with banks. And it's not just financial services or just necessarily any one industry. We just saw a few things just get delayed a little bit, adding a second level of approval and in most cases they got those level of approvals, but sometimes they just didn't make our cut-off. And I think we're just, as Charles said, we are sort of building that into our close process and I think we think we understand it.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>And geographically, did you see any kind of spillover from the US contagion into EMEA? I'm assuming not the emerging markets.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Well, you know I don't know Charles you want to--.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>APAC was pretty solid; EMEA it's been seasonal and it moves around anyway. I am not sure I can directly relate it to what's going on in the US. But again as I look at the pipeline going to Q4, they are shaping up solidly as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Can I ask one more question for you? On BEA, as you bring BEA into the fold, obviously there is a lot of kind of probably discussion internally about which products you keep, which products you consolidate down into kind of single areas of middleware. Is that a more lengthy process than when you buy an apps company for example? And how should we think about the sales force going to market with multiple appservers, multiple integration products and so on?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Let me take a crack at that one. Actually, it's a shorter process because both BEA and Oracle develop middleware according to industry standards. It's fairly easy for us to pick, to consolidate the products very well in. And it's very easy for the customers to take the next version because again our products are -- have the identical user interfaces based on those industry standards. So the integration of BEA should happen more quickly both on the selling side, on the customer side, and on the development side than almost any of our other large acquisitions.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Great. Thanks a lot Larry.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll go now to Kirk Materne with Banc of America.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Yes, thanks very much. Safra and Charles, just a follow-up. I just want to make sure in terms of some of the delays that you saw in purchasing; it looked like it was mainly around the Applications area. Was there any impact on the Database or Middleware area? I just want to double check; it was mainly around from the Apps business?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>You know, it really -- So I know the numbers show as if it's specifically to the Apps. But really the business is very lumpy. A year ago, we have very tough Apps comparison with 57% growth in Q3, the previous. So the reality is that there is nothing specifically going on in our Apps business. They remain extremely strong. We are looking at Q4; it looks extremely strong and so it wasn't one or the other. I know how the numbers sort of shake up. But you remember, it's very hard to guess the exact breakdown in advance and it's just a bit lumpy and...</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>It's more by size of deals, the larger deals are the ones that get reviewed and Apps deals tend to have a lot of consulting dragged behind them so they're bigger projects. So maybe in that sense, but she is right, it was both were affected, it's just how the mix came out this quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>And then just one follow-up for either Charles or Larry. Clearly Middleware and Database had another good quarter. Can you just talk about some of the conversations you are having with joint BEA and Oracle customers right now? And sort of the reception to what some of the historical BEA customers are thinking about in terms of either bringing on some Oracle products in that area or vice versa? What should -- what are some of the tone of the conversations you are having right now with those kind of customers?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Well actually, if I could just take it for a second, we're -- our customers generally have been extremely, extremely responsive on the announcement. We're not merged yet, so we don't talk with them together with BEA or anything like that. Our customers asked us to buy BEA, that's how we get our ideas because they think it's better for them. And in general, and Charles and Larry go right ahead; I just want to make sure you can understand; we are not with BEA talking to customers.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>We are not closed yet. But the feedback directly that I have gotten from a lot of CIOs is releif; this is great. I know this product is taken care of. This makes total sense. And what I didn't anticipate was the number ISVs who are calling, because they were pretty strong with ISVs, probably stronger than we recognized. And so they just want to make sure that &#x2013; raise their hand, "I am here, I am a partner. Take care of me as well." So all indications have been good; the feedback has been great. This has been one of those deals where people call and congratulate you when you get it done and that is the type of tone it has been so far.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Great, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll go now to Brent Thill with Citi.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thanks. Just on the Apps business, it definitely seemed like the common metric across geos &#x2013; that was weak. This is probably one of the weakest quarters in the last four years in the Apps business. I guess what gives you confidence in what you're seeing for Q4 that the Apps business will recover? And do you think that there is a risk that the database business will follow what's happening with the apps?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Number one, some of those deals have already closed. Two, as I mentioned as we get past the inflection point, people do at some point start to focus back on the business. It was all happening right in the middle of our Q3, all this news came out. And then I'll say third is our Q4. So a lot of people have annual buying cycles around our Q4 partly as our reps because of past behavior and accelerators and those sorts of things. And partly it's the customers, they think that they are going to get a better deal it they wait to Q4, so they've trained themselves to buy in Q4 from Oracle. So a lot of things just happen in Q4 for historical reasons and those deals are there.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Yes. Let me add to that, actually it was an unusually strong business -- our growth in our technology business, both the Database business and the Middleware business. So, on the technology side our growth rates are accelerating. And what happen with Applications was very simple, I mean, our growth rate is how we did this quarter versus a quarter a year ago and we just had an exceptionally strong quarter a year ago and a very, very difficult comparison in Q3 in the applications business. I believe though Safra we -- do you have the -- what was our growth rate in applications in Q4 of last year?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes, 57% last year.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>That was in Q3.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>I'm sorry; what's the question?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>The question is in Q4 I believe we have an easier comparison?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Yes. So, again, since the growth rate is how we did a year ago versus how we did this year, we had a really tough comparison in our Q3 Apps business. We think our Q3 Apps business was quite good.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes, I mean we were about 13% Q4 last year.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Yes. So again, we have a much more manageable comparison going into Q4. That's &#x2013; so on a relative basis that Q4 versus this Q4 we think our Apps business will rebound strongly, looking at that one metric, you know, growth over the same quarter last year.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay. And Safra just as a follow-up, you've mentioned in the past some of these bigger Enterprise License Agreements because of such &#x2013; the big broad portfolio that you're offering more customers are stepping up to these bigger ELAs. Can you just comment in terms of where you stand today and what you think the trajectory for that segment of the business is?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes, I would say that that continues to accelerate, it really started in the US over a year ago and it's really standing out worldwide. Our customers are &#x2013; really prefer to have the flexibility to have enterprise agreements and to use more of our products. And that really continues to grow for us and makes a lot of sense of the customers, so they are basically voting with their pocketbook.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we will go now to Kash Rangan with Merrill Lynch.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Hi, thank you very much. Safra, I just wanted to clarify the arithmetic behind the close rate and the guidance. If I understand correct, close rate you are assuming to be 5% lower than what it was in the prior quarter, so if you hit the close rate that you are expecting, should you -- would you land at the high-end of your range or the midpoint of your range? And also coupled with that how does the arithmetic on the slipped deals fall, so if the slip deals and closing in this quarter. You said you'd had -- have upside, would that be upside above the top end range if your close rates come in exactly in line with your expectations? Sorry for the complicated question...</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>No, that's okay. It doesn't really matter. Sort of all in, Kash, the reality is that my guidance is where it stands. I'm giving you 10 to 20% in new license, because that includes some deals that have closed in the quarter and that would have -- could have -- should have closed in the other quarter. Yes, it does because they didn't close, so they are going to be in Q4. Is it absolutely true that the forecast that we have from the field, I looked at extremely conservatively and it's got some conservatism to it? Yes, absolutely. Is it absolutely true that I look at the total pipeline, and used a lower close rate than you would really expect for Q4? Yes, I have.</p>
+          <p>And with all that we end up with 10 to 20, and it is absolutely true that as we have done in just a whole string of quarters, it could mean we could be at the extreme high end of the range or even above it. However, I can't see into the future, so I just have to use the numbers I've got and the judgment that we have to take together to give you guidance. And our current guidance is 10 to 20 and we expect to be within it. But, we may be at the high end or above it, and we could find ourselves at the low-end though I would think that is less likely.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay, great. That's it, thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our last question will come from John DiFucci with Bear Stearns.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Thank you. Just a question going back to the geos or regions. When we look out across, look at for instance, Americas and everybody knows about the macro environment here and actually you had a very difficult comp, actually the results looked pretty decent. EMEA we haven't heard as much about through other companies in reporting but, it did have a much &#x2013; an easier comp and the results sort of question that and then especially Asia-Pac, it was a difficult comp. Everybody keeps talking about emerging markets and how strong they've been but, Database and Middleware, which was not -- it wasn't an easy comp but it was flat year-over-year on a constant currency basis. I'm just wondering if you could give us a little more, I don't know conversation around especially EMEA &amp; Asia-Pac and what you're seeing there in regards to the macro environment?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Well, yes. So we can take every product by every geography, it's hard to do that. But, I guess the general comment was, it was &#x2013; we saw some, like we said, more difficulties closing near the end of the quarter. We got through it. We've adjusted and the pipelines of all those regions are significantly higher and we've adjusted our closed plan in all those regions. And so we think we're in a good position to power through Q4 in pretty good shape and all the indicators we normally track are pointing in the right direction. That's all we can look at. So I don't think there is going to be a magical explanation by product, by region.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Great, thank you very much then. And with that we'd like to thank everyone for participating in today's call. A telephone replay will be available for 24 hours. The replay number is 719-457-0820, and the pass code is 2346728. You can also access the webcast replay on the Oracle Investor Relations website. The webcast replay will be available through the close of market on April 2. Thank you and with that I'll turn the call back to the operator to close.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Ladies and gentlemen that does conclude today's conference. Thank you for your participation. You may now disconnect.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

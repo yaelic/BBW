@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1385218" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q1 2011 Earnings Call</title>
+    <date>2011-04-19</date>
+    <companies>
+      <company>2927</company>
+    </companies>
+    <participants>
+      <participant id="0" type="corprep" affiliation="Vice President-Investor Relations">Andreas Ekstr&#xF6;m</participant>
+      <participant id="1" type="corprep" affiliation="President &amp; Chief Executive Officer">Lars Nyberg</participant>
+      <participant id="2" type="corprep" affiliation="Chief Financial Officer &amp; Executive Vice President">Per-Arne Blomquist</participant>
+      <participant id="3" type="analyst" affiliation="Swedbank LC&amp;I">Sven Sk&#xF6;ld</participant>
+      <participant id="4" type="analyst" affiliation="SEB Enskilda (Sweden)">Andreas Joelsson</participant>
+      <participant id="5" type="operator">Operator</participant>
+      <participant id="6" type="analyst" affiliation="Exane BNP Paribas SA">Justine Dimovic</participant>
+      <participant id="7" type="analyst" affiliation="Nordea Capital Markets (Sweden)">Stefan Gauffin</participant>
+      <participant id="8" type="analyst" affiliation="Cr&#xE9;dit Agricole Cheuvreux International Ltd.">Peter K. Nielsen</participant>
+      <participant id="9" type="analyst" affiliation="&#xD6;hman Fondkommission AB">Thomas Heath</participant>
+      <participant id="10" type="analyst" affiliation="Alandsbanken Sverige AB">Lars S&#xF6;derfjell</participant>
+      <participant id="11" type="analyst" affiliation="UBS Ltd. (Broker)">Andy W. Parnis</participant>
+      <participant id="12" type="analyst" affiliation="Deutsche Bank AG (Prime Brokerage)">David A. Wright</participant>
+      <participant id="13" type="analyst" affiliation="Goldman Sachs International Ltd.">Andrew J. Lee</participant>
+      <participant id="14" type="analyst" affiliation="Citigroup Global Markets Ltd.">Laurie Fitzjohn-Sykes</participant>
+      <participant id="15" type="analyst" affiliation="Nomura International Plc">James S. Britton</participant>
+      <participant id="16" type="analyst" affiliation="Jefferies International Ltd.">Ulrich W. Rathe PhD, CFA</participant>
+      <participant id="17" type="analyst" affiliation="Joh. Berenberg, Gossler &amp; Co. KG (UK Branch)">Barry R. Zeitoune</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Okay Good morning, everyone, and welcome back here to TeliaSonera to our Press Conference for the First Quarter of 2010. My name is Andreas Ekstr&#xF6;m, Head of Investor Relations. With me today I have our CEO, Mr. Lars Nyberg; and our CFO, Mr. Per-Arne Blomquist. We will start with a presentation from Lars and then go over to a review of the financials with Per-Arne. We have the ambition to finish this call within one hour, as I know that there are other telecom operators with similar press conference here in Stockholm.</p>
+          <p>So with that, I leave the floor to Lars. Welcome.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you and good morning. I'd like to make first a comment &#x2013; maybe the most important issue that we will discuss is the grow rate and our adjusted guidance on it. But before I go into that, I'd like to point out here that the currency has a great effect on our topline. I mean you can see here, we are losing SEK1.5 billion because of currencies and still we maintain the EBIT &#x2013; the earnings per share basically on the same level. So, there is a lot of work that has been done. Yes, I think we were disappointed with the 2.5%. We had hoped for a bit more. For the rest of the quarter &#x2013; I think we are very pleased with the quarter, both in terms of EBITDA margins and earnings per share results. And obviously, we shall talk a little bit about this growth rate.</p>
+          <p>You might remember when we started the year, I said, we believe we can do 4% but it's really based on three things that have to happen in order to &#x2013; at least to continue. Number one, Eurasia has absolutely delivered the growth of around 20%. The Swedish mobile business has continued to grow high single-digits and Spain has continued to grow. I could say it all happened about just a little bit less in two of the three areas. Eurasia did come through and delivered exactly what we hoped for. If you take Swedish Mobile, that was a little bit slower, around 5%, compared to high single digits last year. And Spain grew 39%, which is not bad at all but it's maybe not exactly what we had hoped for. So therefore, I think that those are the main drivers of the result coming in at 2.5% growth in local currency.</p>
+          <p>When we talk about outlook, the visibility in our industry is limited compared to some other industries. We don't have order intake. We don't have <mark type="ph" /> all the (02:42) stock. So we really &#x2013; in one way we extrapolate on the results that we have and say it will continue. We did that last year, if you remember. Last year, we said &#x2013; we started the year with a CRM 1% growth. After the first half, we had already 2.5%. So we said, it's going to be more than that, it's going to like 2.5%. And then in the third we even got more growth and we said it's going to be like 3.5% and then it turned out to be around 3.5%. So, it's a mixture of using what we have to create these results. Maybe we also take into account some information points like, what is happening in the consumption in the Swedish market household telecommunication; so if retail is slowing down and &#x2013; then we take that into account and try to make a judgment. So our judgment, and you'll see it in the end of this presentation, is that the growth rate that was 4% we think will be around 3%. Now we'll see what happens in the second and the third quarter, but that is the best judgment we can make.</p>
+          <p>And on the right-hand side, you can see the Eurasia really came in on the level that we had hoped for. This picture here on the right-hand side is comparison sequential quarters, fourth quarter versus the first quarter obviously.</p>
+          <p>Broadband, partly a reason for the decline is International Carrier. I'm not worried about International Carrier because really we have taken down the growth rate or even reducing the revenue by increasing the bottom line, which is more important than having growth in International Carrier. Voice is about flat in Broadband but IP is not growing as fast as we wanted it to grow. And here comes the issue of our investment in VDSL2 and fiber, particular in Swedish market but also in the neighboring &#x2013; some of the neighboring markets, Finland and the Baltic states. We were delayed with the VDSL2. We had hoped to do that already last year. Now, we have the technology and we are rolling it out. And I think the fiber in the VDSL2 is going to be the key to increase IP business in broadband, particularly in Sweden.</p>
+          <p>Yes, we had strong margin developments. We improved the margin, and you might all think it's all Spain. Yes, it did help, but also excluding the Spain we improved the margin, I think clearly noticeable. This is not only OpEx, it's also gross margin. We worked pretty hard on cost of goods sold and not only on OpEx.</p>
+          <p>This is an interesting picture for all of you and for us. Clearly, the iPhone is the dominant operating system when it comes to handsets but there is a shift in this business. Android is clearly gaining momentum, which I think is good for us or for all the operators. To have one dominant supplier of handsets is not good for us. The other one I think is also very interesting. If you look at the iPhone, the first version, and then you look at the last version of iPhone and then you look at the consumption of data, it increases dramatically as you move to iPhone 4, not because the phones are so different but because I think our behavior changes. We get used to surf on the iPhone 4 all the time. I have an iPhone 4, I surf all the time. I didn't sure that much with the first iPhone I had. It's a behavioral change. And this just confirms what I have been saying for several years now that the appetite for bandwidth is absolutely unlimited among our customers.</p>
+          <p>This is very important for the future of broadband. We have said all along that broadband is the most efficient way to deliver telecommunication services to fixed points like homes and offices. Yes, it's got to be VDSL2 and fiber, it's got to be maybe 1 gigabit per second and you fill those pipes with moving pictures. That's why TV is so important to us. And you can see now we have reached 1 million TV subscribers in the countries listed here. And again, we rent out more videos than anybody else in this country.</p>
+          <p>Eurasia, something we have called our growth engine. I thought it could be interesting for you to take a step back and say, okay, let's not just look for one quarter or year-over-year; let's look a little bit longer. The &#x2013; on &#x2013; the picture on the top shows you the development between 2007 and first quarter '11 of course. We go from 12 million to 30 million subscribers, which means we added 18 million subscribers in three years in these countries. That's about Sweden. Now, ARPU is not the same in these countries as in Sweden but there is a significant value creation by having that kind of growth in subscribers. Especially if you look at three countries, the two last ones, Uzbekistan and Nepal are the new countries; Uzbekistan we acquired in 2007 and Nepal in 2008. And you can see the development of the subscriber base in both those countries. Remarkable is also the growth in Kcell where we have been 10 years &#x2013; we have been 10 years in Kazakhstan, very encouraging.</p>
+          <p>We talk about three priorities in TeliaSonera. We talk about quality network and we also say that in related to network we want to be early adopter of technology. And we invest quite a bit of the money of the 13 billion, 14 billion, we invest in CapEx, we invest it in technology whether it is now 4G that is now commercially available in Nordic countries and Estonia. We buy licenses; I think we paid SEK854 million for the 800 megahertz license in Sweden. Yes, we're now rolling out VDSL2, particularly in Sweden. And I think the 3G rollout in Eurasia is very important because mobile data is exploding for three years now in our home markets, and in Eurasia there isn't a fixed network like we have here. So, I believe that Internet access in those countries will probably be totally mobile. And for that of course you need 3G; later on you will need 4G. And we are rolling out 3G and we have now finally licenses in all countries for 3G.</p>
+          <p>I must admit I have spent a lot of time in the first quarter outside of Stockholm; particularly I spent a lot of time in Turkey. Actually, I was there as late as yesterday night. And the points I am making in Turkey and I will make here too are the same. We are the biggest owner of Turkcell. We own 38% of Turkcell. The second biggest owner is actually the public. The public owns 34%, that is Turkish private investors as well as international investors. We have since quite some time a deadlock in the Board of Turkcell. A deadlock is never good for any company, because if you have a deadlock you don't have a functioning Board that can take decisions. You need a Board to take decisions. Why is this deadlock? Why do we have this deadlock?</p>
+          <p>We have three strategic partners in the Board plus one person who is supposedly &#x2013; to be independent. He is also the Chairman of the Board. And we use the &#x2013; this is a fairly normal setup that we use the independent as a swing vote. He swings the decision left or right. But if the Chairman always sides with one of the strategic partners and never votes in any other direction and together they don't get majority, then you have a deadlock. And that's exactly what we have. On top of that we &#x2013; there is an AGM in Turkcell on Thursday where we as the biggest owner has requested to put an item on the agenda for the shareholder meeting, mainly the composition of the Board. And we've been very clear with our intention. We would like to replace Mr. Williams with a truly independent member. So, we would eliminate the deadlock. We have a legal right to do this according to Turkish corporate governance. And so far, this Chairman has refused to put that on the agenda and therefore we have sued him for that.</p>
+          <p>Ultimately we also want to increase the Board beyond seven, because the Capital Markets Board, the SEC or <mark type="ph" /> finances performing (12:17) in Turkey, as for years requested the Board of Turkcell and the shareholders of Turkcell to improve and increase the number of independent Board members with the argument that 34% of the ownership is actually in the public's hands. And therefore, they should have more than one independent person on the Board to represent them. We have supported that request for quite some time, but again <mark type="ph" /> Supernova (12:46) and the chairman have blocked that decision. So if we can change the Board composition on Thursday, you will then go and change the articles of associations, so we can put more people on the Board. And of course, we would have one &#x2013; or both of those should be, hopefully then, independent.</p>
+          <p>This is the outlook that we revised. I have spent enough time, I think, on explaining why we took it from 4% to around 3%. For the rest, it's the same. I must admit, I'm not totally sure what the growth will be in the marketplace. I think really, like last year, we will have to wait, look at the second quarter, and get a better guidance on what's going on. Clearly, if you take the Spanish growth rate of 39%, that we had hoped for a little bit better, I think it's clearly affected by the economy in Spain and the mood in Spain now, maybe that's changed. I think, as I said, the consumption &#x2013; the consumer consumption in Sweden is going to be very interesting for our Mobile business. We will continue to manage the cost, as well as the cost of goods sold, to safeguard the bottom line, the EBITDA margin and ultimately, the earnings per share. We will continue to invest in the things I talked to you about, early adopter of new technology, and that's where we spent most of the CapEx-to-sales ratio of 13% to 14%.</p>
+          <p>So, I'll let Per-Arne now go through more details on the numbers.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Lars. As Lars said at the beginning, we have had a &#x2013; it was a big impact on &#x2013; from the currency side during, not only this quarter, but also previously. But, if you look here at the numbers today and you take the euro/SEK development, it has actually gone down roughly 11% during this year. So, the difference between reported figures and the underlying sort of organic growth is close to 8%. We will have this effect, I will say, given that we have sort of a stable now euro/SEK, US dollar &#x2013; US/SEK development this year, during the whole year. This will not change, so that will be sort of effect here in 2011. And that's why it's so important for us also to talk about, what is the underlying growth in the companies, as well as the reported?</p>
+          <p>If you then look at the quarter, I think we are very satisfied, as such. The EBITDA margin holds up pretty well. We are growing with 5.3%. And if you talk in EPS terms, the EBITDA is actually growing roughly at <mark type="ph" /> SEK10 (15:50). That disappears at bottom line EPS, due to the FX effects <mark type="indiscernible" /> (15:55) the real result. Cash flow is still strong, even though it's somewhat lower. I'll come back to that later on. And yes, we have improved the gross margin. <mark type="ph" /> We'll also (16:06) talk about that, and it's with 1.8% units. You can see that is happening in the Mobility Sweden business. We have it in Spain. We see it in Kazakhstan. We see it in Nepal. And we also see it in Broadband. This is something that we now start to work with. Without the effect of the gross margin, it'll be much tougher to keep up the EBITDA margin as we do today.</p>
+          <p>Mobility has had, I think, still a pretty strong quarter anyway. They are growing with 4.6%. You can see growth in countries like Sweden, but also Finland and Norway and Spain. I think Sweden, with a growth rate of 5.3% at the same time delivering a &#x2013; close to 44% gross margin, is a fantastic achievement. I also think that it's encouraging to see that Norway, with the tough environment, is actually growing, this time with <mark type="ph" /> 38% (17:02). However, if we look at the Baltic countries, I would say that we are missing somewhat the &#x2013; I would say the rebound that we had hoped for. What we see today is that we are still under pressure when it comes to voice and also interconnect. Meanwhile, equipment sales has actually increased in all countries, especially in Lithuania, where we have seen a very strong increase. So, we hope for that this will be the start for sort of a recovery in the economy but, so far, it's not visible to the extent that we had hoped for.</p>
+          <p>At the same time, if we look at the Nordic countries, even though we see growth in some of the countries, I would say that our ARPU is under pressure in countries like Denmark, Norway and Finland. We are holding up pretty well in Sweden. Churn rates are pretty stable. Sweden is at 15% right now. Denmark is still at 50% and Finland roughly at 34%, somewhat higher than before, but it's not a dramatic change &#x2013; sorry, Finland at 28% and Norway at 34%. So we see a price pressure in the Nordic countries outside Sweden.</p>
+          <p>Broadband declined <mark type="ph" /> over 6.8% (18:21). I think with that decline &#x2013; I think it's impressive to see that they're keeping up the margin pretty well, from 34.8% down to further 34.3%, even though we're declining with the close to 7% on topline. It's also fair to say that we are partly helped by the improvement in International Carrier. It's interesting to see that even though we are losing 20% on topline we're actually improving the margin. I think this is the correct way of <mark type="ph" /> attracting (18:52) the business right now. It's better go now for profitability than have a growth with a very, very low top &#x2013; margin. If you look at Broadband excluding the International Carrier business, their decline was 4.4%, which is more or less in line with previous quarters.</p>
+          <p>Eurasia continued to be, I would say, impressive with strong growth in Nepal, Uzbekistan and Kazakhstan. Very pleased to see now that we have been able to launch the 3G in Kazakhstan since December; and you can see now that data revenue is growing in Kazakhstan with 11% and in Ucell with 16%. You can also see that Nepal is continuing to deliver very, very good growth, close to 100%. And they actually have EBITDA margin of well above 50%. Ucell 43%, Kcell 28% and also these countries all have a very, very strong margin to take Uzbekistan well above 40%. I think that it's good to see that we continue to have this stability in this business and still we believe that this will continue for a couple of quarters.</p>
+          <p>MegaFon continued to be a leader in the mobile data in Russia. They have now established themselves as sort of the number one when it comes to mobile data revenue, up close to 40%, as &#x2013; <mark type="ph" /> operator such (20:30) as a clear number two. They had after the fourth a topline growth of roughly 20%. And I think we could expect something similar also for the first quarter, because the market continue to be strong in Russia.</p>
+          <p>CapEx, I would say, stable as expected. And I'm please to say that this time in the first quarter we actually delivered what we thought. Last year, we came out with a very low CapEx number depending on certain delays. Today, we are up to 15% including the fee for the license we bought in Sweden. If you take away that, we are down to roughly 11.2 unless you can see we're distributing the CapEx pretty similar into the different business areas. But it's the <mark type="ph" /> four-year route (21:19) in Mobility, we have the fiber in Broadband and we have of course Nepal, Kazakhstan and Uzbekistan on the Eurasian side.</p>
+          <p>Cash flow, somewhat reduced. This time we have the income taxes paid which has been very low at the beginning of last year, but also cash CapEx going down from SEK3.4 billion to SEK2.6 billion. Anyway, I am satisfied with the cash flow and we continue to have <mark type="indiscernible" /> (21:52) down the line cash flow. And we'd expect this perhaps to somewhat improve during this year. We have a good control of this and we also expect sort of the income taxes paid to be slightly sort of lower during the year comparable with the last year. That also means that our net-debt-to-EBITDA continues to be stable today at 1.2. Of course with the dividend payments and also with the extraordinary &#x2013; not extraordinary but the repurchase program, we will come up slightly above, I would say, 1.6 in the next quarter, perhaps even close to 1.8, trending down during the year. But still, we feel comfortable with this leverage for the time being. And we can also see that &#x2013; if you look at the debt maturity schedule that we have very few, say, repayments during this year remaining in June and also November. So it's &#x2013; that's also the reason why we feel comfortable on the cash flow side.</p>
+          <p>Lars has already talked about the outlook, 3% on topline and we reiterated growth and the rest, of course EBITDA margin and CapEx-to-sales.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, Per-Arne. I will also invite Lars back to the podium to start the Q&amp;A session. And as always, we will take a couple of questions from here in Stockholm and then also over the conference call.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0" type="a">
+        <plist>
+          <p>I am a little bit concerned about the time, given the other press conference that I mentioned initially. So, could you please limit your questions to one or two per person? We will start with a few questions from Stockholm. Sven?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Yes. Good morning. This is Sven Sk&#xF6;ld from Swedbank. I was just wondering about the growth rate. I mean has actually anything changed from the Q4 report until now? I know it's lower, but on the other hand figures were little bit high &#x2013; higher than expected at the end of the year. And if I remember correctly, you spent a lot of money in Spain last year to grow the subscriber base. So &#x2013; I mean in reality has something changed in the way you run the company now compared to a year ago?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Certainly not, and yeah, it's a justified question. It's really a judgment call. And if you look at last year, what did we do, we look at actual performance and we sort of said it will continue the same. And I think it will be incorrect to stand here and say, when we started the quarter we were expecting 2.5% growth, we expected more and we didn't get it. So, one, we get it. Well, I told you there were three things we had to deliver. Two of them didn't deliver exactly that we had expected. So, that's why it was a bit lower. And I think it's prudent then to say, there are maybe some consequences of the first quarter.</p>
+          <p>I could have argued, let's not do anything, and let's hope second quarter going is to be compensating this one, but we didn't do that last year and then the trend was the other way and we're not going to change the philosophy. We will base on what has the performance been, and we think it will be sort of similar and if it's lower than we expected, as one of the quarters, <mark type="ph" /> the 4%, (25:23) then we will go out and tell the market that we think it's going to be somewhat lower. Nothing has fundamentally changed, no.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Do you see any other changes to how that will affect that rate, negatively or positively, in Q2 or Q3? I know that, for example, the MTRs in Spain will be cut; you have informed about that?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, that &#x2013; no, the regulatory issues, I think, we have into account because we are well aware of those. I actually think it's going to be more an issue on what is happening in the overall economy in Spain. I think &#x2013; it's an anecdote, but <mark type="indiscernible" /> (25:58) tells me that, when the Prime Minister or some senior people go out on TV and talk about the very difficult situation in Spain, the traffic goes down the following week or two weeks. I also think that the economy in Sweden is &#x2013; the first quarter consumption seems to be a bit lower, is that the first sign of interest rates going up; people are scared about real estate prices, I don't know. I think those things will affect it more than anything else. I don't think we have changed anything. I think we are as efficient, as good, as we were a quarter ago; hopefully a little bit better. But I think it's really the world around us that will affect the growth much more than ourselves.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Okay. We have a question here from Andreas.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Good morning; Andreas Joelsson, SEB Enskilda. A question on Sweden, very impressive intake in the quarter; I'm just wondering what kind of subscribers that is; is it voice or is it broadband subscribers? And also, since you keep the margin very high, what's happened subscriber acquisition costs?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I have to look at Andreas a little bit, or Per-Arne. I have been too much in Turkey.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Well, if you see &#x2013; if you look at the difference between postpaid and prepaid split, I am happy to say that all the intake comes from the postpaid side. And again, as we have seen in the previous quarter, smartphone is driving that, and of course we have a positive intake on mobile broadband as such. I don't have the exact split, but I would say that the majority is smartphone contract users. You are right, the margin &#x2013; Per-Arne said that the gross margin was 44% in Sweden. It was actually more impressive than that. The EBITDA margin was...</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I am sorry for that.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>44%, and maybe we are not subsidizing to the same extent that we did in previous quarters, and that is also the reason why margin is holding up that well.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>We'll take one more question here from the front row before we take a couple of questions from the conference call.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>
+            <mark type="ph" /> Amina Hedlan from Telecom Online (28:11). I wonder &#x2013; talking just about the Swedish market, could you please talk a little about the hardest, most difficult challenges you see in the Swedish market right now?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I think the most exciting thing in the Swedish market right now is fiber, getting the pricing agreed upon with the regulator. We are rolling out fiber in the suburbs of the big cities right now and seeing the uptake is very, very exciting, I think. I think it's actually interesting. I think I said this before on some reports. It's very long time since Telia rolled out anything, and to roll out a fiber network, and how do you actually convince people to buy service, is something we struggled with six, seven, eight months ago. I think we've got it under control now. So, I think that's the &#x2013; both the most challenging, but also the most exciting, piece of the business in Sweden right now.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>We have a number of calls on the conference call; so please operator, could we have the first question?</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Certainly. The first question comes from Justine Dimovic from Exane. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Thank you very much. My first question is a follow-up on what you just talked about, fiber in Sweden. I was wondering if you can provide some insight into what delayed you with last year. And &#x2013; so, that's the first question. The second one, related to that as well, is the guidance for 800,000 households' coverage, could you say by when and how much that is going to cost? I assume it's in the guidance already, but if you can provide some insight into that? And as well, just a little bit technical part, if you have any indication as to the average length of the local loop in Sweden, that would be much appreciated. So, that's for my first question on fiber in Sweden.</p>
+          <p>The second one, if I may, is about M&amp;A strategy, and you talked a lot about your interest in Polkomtel and the fact that you prioritize increasing stakes in minority, where they are minority owners. I was wondering if, on the flip side, you can say anything about potential asset disposals, where you probably find it hard to see a standalone value creation, and I'm not thinking about staying here. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Well, that was many questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Where do we start, Justine? Should I take the 800,000 VDSL rollout that you talked about? The cost for that will be about 0.5 billion, and it will start now in April and will be finished by 2013. It will be rather front-heavy loaded.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>There was a question on why we were delayed on fiber rollout last year, I think. We weren't really delayed. We decided not to roll it out until we feel comfortable that the regulator will provide a price that justifies the investment. And we haven't still &#x2013; we have still not got it. We will get it in the second quarter, we've been told. But we have indications that says that we probably can live with it, I hope at least. So, we have started now a little bit of rolling out. If it would turn out to be bad, then of course we can slow down or stop the investments. But I think fiber in the Swedish market is very important for the country of Sweden, and it feels very natural that Telia is the one that rolls out, or at least participates in rolling out fiber.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>When it comes to M&amp;A, we continue to work with our M&amp;A strategy, that we'll like to increase ownership of our present holdings, that has not changed. When it comes to disposals, we have all the entities under what we called holding or up for sale, but we don't &#x2013; I'll say in the short-term perspective, we don't have anything that <mark type="ph" /> we've done right now (32:14). We sold Stofa last year, which was a big disposal, but this is &#x2013; sort of takes time and is a bit event-driven.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Thank you. Operator, can we have the next question please?</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Next question comes from the Stefan Gauffin from Nordea. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Yes, hello. Looking at Denmark, we see that Onphone is being aggressive in the market. And looking at your performance, you have had subscriber losses for the last couple of quarters. You have weak sales development and this quarter, around 15% EBITDA margin. Yesterday, Telenor was out in a local newspaper announcing a new strategy in Denmark where they will stop subsidizing handsets, simplify price plans, and make price reductions. Could you give us some indication on what you are doing with your strategy in Denmark to change your performance?</p>
+          <p>Secondly, just the Baltic operation, as you said, the recovery's being slightly &#x2013; it takes longer time than expected. And this quarter, you also reported slightly weaker margins than at least in my expectations. Is this a result of a marketing push, or is it difficult to sustain margins with eroding top line? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay, this is Lars. When we operate in different markets, we are normally number one or number two. That's clearly our ambition in every market. In Denmark, we are number three, and there's a very strong correlation between EBITDA margin and actually market share. We are clearly not happy with the performance in Denmark, and we haven't been happy with the performance in Denmark for several years. That's why H&#xE5;kan Dahlstr&#xF6;m decided to make a change in the management there, to see if we can get a new focus, maybe another position in the marketplace. On top of that, the market in itself is under heavy competition right now, and I think every player is suffering from it. And yes, we did notice the Telenor initiative yesterday, but I don't have an answer on that today. But clearly, there will be some changes, I think, in the Danish market. Everyone will have to change a little bit, I think, to regain profitability in the marketplace.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>When it comes to the Baltics, you're right, we see some lower margins there. But if you look back the last two, three years, they have been extremely good in keeping up the margins even though they have had a top line decline of sometimes 15% to 20%, 25%. What we do right now is, yes, you're right, somewhat sort of a marketing push in here. We see that in Estonia, we also see that in Latvia, where we have sort of increased OpEx, which is market related. And I hope that there will be some kind of payoff of that later on.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Thank you, Stefan. We'll take one more call from the &#x2013; one more question from the conference call.</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Next question comes from Peter Nielsen from Cheuvreux. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thank you. I have two questions, please. At the Q4 results, Lars, you announced some efficiency cost reduction measures in Sweden and Finland. I assume that, since then, you've had some discussions with the unions. Would you say those plans are on track to be implemented as scheduled? And will we see a positive effect already in the second half of this year, as you're sort of hinting in the report? And my second question relates to your introductory comments about Turkcell and the AGM next week. Who will vote for &#xC7;ukurova Holding at the AGM? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Let me start with a &#x2013; the cost question. We've had the discussions with the unions in Sweden. And I think they have been very constructive, and both parties have agreed to something, which has been published internally. And I am very happy with that, because you &#x2013; some of you might remember the kind of relationship and dialogue we had three years go with the Swedish union, it's sort of another world today, more like Swedish industry in general I would argue. Yes, I think they are on track. We won't see anything &#x2013; benefits of this in the first half, but we will certainly start seeing it in the second half of the year, particularly, I believe, in the fourth quarter we'll see some. On the issue of voting, I don't want to go into those details.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Thank you, Peter. We have a few questions here from the floor. We'll go back to the floor and ask a first question here on the front row and then we have the...</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>
+            <mark type="ph" /> Bobby Marlowe from Dulbreake Finland (37:26). Well, I would continue the one &#x2013; or if you could specify the situation in Finland, where they are striking right now for the second time in April?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, they are striking illegally, to start with. I think that's important. Maybe they don't view that as important &#x2013; some people don't view that as important. I do view that as important. Actually, less than, I think, one-third of the employees striked the last time. The strike this time, we believe, is even less than one-third that actively participated in the second. Their argument is that they don't like us to move some activities from some cities to some other cities. That's one argument. And the argument is, they would like to have the same conditions as in Sweden. That's fundamentally a big issue for me. Why should we relate salaries in one country to another country? The labor market in Finland is in Finland, the labor market in Sweden is in Sweden. And we should compete for the best people in that marketplace. If you use that argumentation, then I could argue we should have American CEO pay here, with a lot of bonuses. So, the fact is &#x2013; and I want to be clear on this one, the fact is that, if you look at the proposal that we have made to the unions for the people that got laid off, and you compare that with the Finnish market, the conditions are in the upper quartile. So, I think we have nothing to be ashamed of, we have nothing to negotiate about, and they strike illegally.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Thank you; if you can hand over the microphone to <mark type="ph" /> Pierre (39:24).</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Hello. <mark type="ph" /> Pierre Dee from OCEF (39:25). So I just want to check the hardware; is there some delays in delivery due to what happened in Japan with the earthquake and tsunami and such things?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We have not seen any consequence of that yet anyway.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>We have a question from Thomas at the back.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thank you. Thomas Heath with &#xD6;hman Equities; two questions, if I may. Firstly, on Turkcell, wonder if you could say something about what you are trying to achieve with increasing the Board size, and sort of what the concrete difference will be, because as I understand it, you now have four Board seats together with Altimo out of seven. And what would be the sort of practical consequence of having four out of nine in an enlarged Board? Then my second question is for Sweden which does so phenomenally well, do you see any risks that we'd see low-cost alternatives MVNOs for MVNOs on home brands? They seem to be causing trouble in all the other Nordic markets, but we don't see much of them here in Sweden. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, potentially there could be a problem. I think we are ready here if that were to occur. You compare for instance prices between Sweden and Norway for instance, the prices are much lower in this country. So I mean the reason &#x2013; part of the reason why we are so successful with Yoigo in Spain is because the Spanish prices are so much higher. We go in at maybe 70% of Telefonica's prices. That price level is still higher than what we have in Sweden. So, it's also an issue of price level I think.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>And I mean we have <mark type="ph" /> HELOC in (41:10) Sweden.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, that was taken care of as part of the market as well. On Turkcell issue, when you have three strategic owners each having two seats and not necessarily agreeing, you have to have a mechanism to get the decision made. And as I said earlier, a very critical way to do that is to put in one or more independent Directors, truly independent, that are experienced in the industry and they will make up the judgment and they're also in the vote. On top of that, the Capital Markets Board, as I said, have requested a public eye function &#x2013; a Turk sits on the Board representing the float, which we think is a fair request. That in itself would increase the Board with one. And we think we should have another independent, so that's how we go from seven to nine. And we have to discuss the details, and we're in &#x2013; sort of sitting and talking about them with regulators and our co-owners, et cetera. So, we're not ready to tell you exactly how it's going to be because I don't know. What I wanted to tell you about is what TeliaSonera would like to achieve. We would like to break up the deadlock in the Board. We would like the C&amp;B to get his public eye into the Board. We would like to increase the number of independent to ensure that we don't get back to the &#x2013; to deadlock. That's what we want to receive. Now whether we can achieve it or not, I don't know. We'll do our best.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>We'll take one more question here from Lars before going back to the conference call.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Lars S&#xF6;derfjell, &#xC5;landsbanken. A quick one on the wholesale side, I mean the impact from the new strategy is pretty clear, but do you feel that we've seen the full impact on revenues yet? Is this a sustainable level around 2.4 billion do you think, or should we expect even further sales declines in the quarters to come?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think &#x2013; we will see, but I think the most important thing is that <mark type="indiscernible" /> (43:12) has started on a new path where it looks more at profitability than it is <mark type="indiscernible" /> (43:17) and that's something else. Now they're starting built up something new and I think that's what was more important for us. But what is important to understand was that unlike if you take away this, the underlying decline in Broadband was 4.4. So I think that's where we might be a bit more transparent in the future. If I have this kind of seeing on International Carrier to help you to understand what is actually going on.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>We have a number of questions still at the conference call. So please operator, could we please have another question?</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Next question comes from Andy Parnis from UBS. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Yeah, hi. It's Andy Parnis, UBS; two quick questions. The first one is just on Norwegian service mobile revenues were down about 12% year-on-year. I just wondered how much of this was due to the mobile termination rate cut on the 1st of January and how much was just underlying deterioration in pricing due to the competition. And the second question was just on Finnish mobile. There's a revised law on mobile number portability coming in, in May. I was just wondering, what are you assuming the impact this has on your Finnish mobile business. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Shall I start with the first one, and Per-Arne you can take the second one. With Norway, it's still down and it's even excluding the MTR cut. I haven't got the exact numbers in front of me, but SEK85 million is the impact on MTR cut in the first quarter and then you can work your way to what that means in lower revenues underlying, but it will be a couple of percentage points.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>On account to the number portability, I mean we will see. We don't really know today. I mean we know that we will implement this and we are prepared with different offers and so on to be a part of the market, but we don't know right now what will happen exactly. It's impossible to say.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Next question, operator, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Next question comes from David Wright from Deutsche Bank. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Yeah, it's David here, couple of questions. First, just on the guidance change, when you gave us the full-year guidance at the beginning of February, obviously you had a view there of January operating performance. So has it just got so much worse since January or was January already sort of below the run rate as it were for full-year and you hoped things to get better? And then my second question is regarding some conflicting messages from Mr. Usmanov on his ambitions &#x2013; or his potential support of the merger, suggesting now that he might even support the merger. And he is also saying that at one point he did offer to buy the MegaFon stake from you. So could you tell us what messages you are receiving and did you receive an offer? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, I'll take the Usmanov first at least. First of all, I want to be very clear. We have never talked about a merger of Turkcell and MegaFon, never. We have talked about having a partner that actually is both co-owner in Turkcell as well as in MegaFon. And we chose that partner because we thought maybe we can resolve the problem in both MegaFon and Turkcell. We never talked about merging Turkcell and MegaFon. We have never received an offer from Mr. Usmanov. What was the first question?</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>And also visibility after...</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah. Listen, I don't want to get into the discussion on how was February or how was January or how was March. That's the first issue. When you do an outlook and you then have January number, it doesn't really matter in my book so much what the January numbers look like, it's only one month and I don't think you can change an outlook based on one month. You need at least a quarter to be sure. So, I felt very comfortable in February saying 4%. And as somewhat has sort of alluded to, we could probably have just said nothing now. But I think we have a bit of another philosophy. We assumed three things. Two of them didn't really materialize the way we had hoped. And we think we should be prudent and say, maybe there is a chance that we won't reach the 4%. That's exactly what we've now done.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay, that's great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Operator, can we have another question please?</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Next question comes from Andrew Lee from Goldman Sachs. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Good morning, everyone. Thanks for taking the question. Just on Swedish mobile revenue growth, your Swedish slowed down basically because of low equipment sales. I wonder if you could talk through why this was and your expectation through the year. I mean is the reduction in equipment sales mainly due to the share taken by Tele2, which had a strong quarter or is it a sign of Swedish consumer weakness? And on a more personal note, would you expect the strong equipment sales you saw through 2010 to start driving an acceleration in service revenue growth through 2011, especially as you saw throughout LTE? And then just maybe a follow-up question on the Usmanov question. I know you can't really comment on what he has been saying, but if we were to see, Usmanov co-own Turkcell with you &#x2013; Turkcell and MegaFon with you and were able to get a <mark type="ph" /> core on the (48:49) MegaFon Board. Would you expect to pay out any initial cash distribution from MegaFon directly to TeliaSonera shareholders? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I will take the last one. There were three ifs in that sentence and you know, I am sitting there in reality and I know if there is even one if, it's already too complicated. So I have no clue is the answer.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>And when it comes to the Swedish market the &#x2013; we still have growth on equipments there but the growth is somewhat lower and &#x2013; so I mean if &#x2013; that means that someone is waiting for new models or not, that remains to be seen here in Sweden. I don't know if there are any more questions about Sweden.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>If the strong intake of smartphone that we had previous year, if that will drive revenue growth in this year?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, I hope so. I suppose we will still see data growth. I think it's close to probably a 40% <mark type="ph" /> drop there (49:44).</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>So of course I mean, what we have sold before is obviously giving us a more growth on the topline when it comes to data.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay. Thank you, guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah. We can see that sequentially the growth in data was actually higher in Q1 than it was in Q4 and that supports your argument there, Andrew.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>We'll take one more question from the conference call.</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Next question comes from Laurie Fitzjohn from Citigroup. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Good morning. I've got one question on Swedish broadband. It's also worsening and the decline is about minus 5.7%. I'm just wondering, are you seeing any change in trends from the migration of households to mobile only and from the migration of voice minutes to fixed? We understand Sweden is someway behind the other markets in the transition of mobile fixed to mobile minutes. Are you seeing any change in those trends driving that variation in revenue? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>No, we haven't. I mean if you look at <mark type="ph" /> the TSN (50:38), I mean the losses here were more or less the same as in the last quarter. We lost 80,000 customers, which was the same in the last Q4. ARPUs are pretty stable and we are actually increasing when it comes to the fixed broadband with &#x2013; I think with 5,000 customers, which is the third quarter in a row where we see this tendency. So I think it's more a question of that &#x2013; the IP-based services is not growing as fast &#x2013; they're still growing, but not as fast as they had done before.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>That's going to be the key issue.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Can we get the growth on IP to increase. And I believe that therefore the investment in VDSL2 and fiber are pretty important.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>We'll take one more question from the call before leaving a question here to Sven again, but one more question on the call, operator, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Next question comes from James Britton from Nomura. Please go ahead. James Britton from Nomura, your line is open.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Hi there, James Britton from Nomura. Just another question on Turkcell, if you don't mind. Can you just remind us how you would like to &#x2013; to act differently on the vital decisions that are under deadlock? Is it more a matter of disagreement over distribution more linked to capital allocation and M&amp;A or all of those things? <mark type="indiscernible" /> (52:01) question on Turkcell.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, when you have a deadlock Board, you create vacuum and somebody got to fill that. And typically management fills it. And management need a Board. We have a Board at TeliaSonera that functions very well. And they take the kind of decisions they're supposed to take. And in Turkcell, well, right now, we don't a functioning Board taking the decision they're supposed to take and that's bad and it affects every thing that the Board is suppose to decide.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Is it also impacting operational performance in your view?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I think so. I think there are more things. I don't really want to talk too much because I am neither on the Board or certainly not in the management. But if I look at the numbers for the past six, seven quarters, and we know that there's been tough decisions by the regulator in the Turkish market and the competition ahs heated up in Turkey, that has also affected the results of the company. But I think any company gets affected &#x2013; or any company's results get affected if you over a longer period of time have a non-functioning Board. It doesn't matter which company or which industry, it's that's simple.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Thank you, James. We have one question here from Sven, a follow-up.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Yes please; about fiber rollout in Sweden, actually I was offered that to my house recently and...</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Did you buy?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>I signed up yesterday actually.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Very good. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>But &#x2013; and as always when it comes to these kind of agreements, it's a fairly low price per service but in total I pay more to TeliaSonera because there are many new services, TV, broadband and telephone. And actually many people in my area signed up. So when do you think this will impact the consumer side of the broadband services significantly? When can we see an inflection point in the consumer side? I know that the corporate side is a bit different game.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, I wish we have the answer. I'm fairly optimistic about this investment and seeing that inflection point. And it is based on the number of assumption, the appetite for the brand is being unlimited that you cannot do everything you want to do via the wireless mobile technology, you have to have a fiber. And I think when some people like you start buying this service and friends of yours see it, then they will go and buy too because to have &#x2013; if you look at the 4G versus 3G, people think that's pretty impressive. Well, compare an ADSL 4, 5, 8, whatever with a 1-gigabyte fiber, I think people will say, wow, what a difference, what many things I can do. But it will not happen next quarter, I am sure of that, but it won't take 10 years either.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>I mean you must have some predictions, of course you don't know but you must have some predictions, is it 2018 or 2013 or...?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>'18 is way too late, that's for sure. How we measure this, what is the uptick &#x2013; what is the initial uptick and I think &#x2013; I will be a little open about this. I think the number of houses or &#x2013; houses passed, I think we would like to see a 30% sign-up ratio, and I think that if we get that and if it's as good as we think it is, people perceive it, and you soon see it grow to over 50%. And I think when you get towards the 50 and maybe above 50, I think you have a pretty good business. If you get an 11% uptick and it stays at <mark type="ph" /> 11% or about a 15% (56:01), you have a real problem. So actually I am following <mark type="indiscernible" /> (56:07) all these suburbs now, not because I am so interested in one of them but I want to see how the market reacts and I am particularly into &#x2013; we haven't been able to dig because it's been so cold, as you know. We've started digging now and I am really keen to see how this develops in the coming &#x2013; well, before the rest of the year, let's put it that way. I think it's going to be very important to be able to do exactly what you say, have an opinion on when does the inflection point come. And 2018 is too late for me; it better be better.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>We have at least one more customer than we had yesterday since Sven signed up. Thank you for that. We'll go back to the Conference Call and we have a few more questions before we need to end it here. Operator, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Next question comes from Ulrich Rathe from Jefferies. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Yes, thank you. When you revised your topline guidance, sort of the wording of the EBITDA bit of the guidance sort of stayed more or less the same. But obviously you sort of have been pretty sort of straightforward saying that the revenue outlook sort of disappointed you and you really felt like you want to take it down. How does this look on EBITDA relative to what you thought before? Does it mean you have lowered your EBITDA expectations for 2011 internally as well or do you think the lower growth can be compensated, this cost measures? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We think it's something else than the 3%. We said that the cost will be &#x2013; we'll have a growth lower than the topline growth rate and consequently EBITDA margin will go up. That's what we said a quarter ago and that's what we're saying now.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Yeah, but I was wondering about absolute EBITDA, not the margin. I understand the margin...</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We haven't made any outlook for the absolute number, right.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Yeah, no. My question was how internally your expectations have changed. Have the expectations for EBITDA gone up or down as a basis &#x2013; on the basis of lower expectations for revenues?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I totally understand your question. But let me just explain to you. When we talk about expectation, we talk about outlook externally and you just heard me repeat what the outlook externally is. And how the internal discussions are on different components, they are internal and not external.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Of course. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>I think that there are more questions than we can handle today. And please give me a call after this conference call. We'll take one final question and then we'll break it here as I know that people will have to leave to the other press conference. But last question please, operator?</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>The last question comes from Barry Zeitoune from Berenberg. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Hi, good morning, it's Barry Zeitoune from Berenberg. I was just wondering, outside of Sweden which of your mobile businesses do you believe could deliver market repair through a consolidation and is this something that you are exploring? And I was just wondering if you could give us a bit more detail in terms of the timeline if you're buying out the Fintur minorities. If you indeed do, is that dependent on the JV with Altimo or is it dependent on Board structure at Turkcell? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, if I start with the Fintur, that's probably one of the last things that will happen if it happens. I have just declared that I think it would be a good thing for TeliaSonera to have a 100% ownership of Fintur. And I also think that Turkcell should take that money and invest it in something that they can operate and control. We actually run the whole Fintur business since 2002. That's what we would like. Of course, we have to pay fair market value and it's the Turkcell Board that has to decide whether they are willing to do this or not. And it's not something that's going to happen soon but it's something I think I would like to see happening.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>The first question was around &#x2013; was it in market consolidation?</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, well, I think we strongly believe that that would be good for the market, with such small countries like Sweden, Denmark, Norway and so with &#x2013; something between 5 million up to 9 million people living here and we are having three to four networks, is too much. But I think we are a bit pessimistic on the regulatory side that this actually could happen in a <mark type="indiscernible" /> (01:00:28) perspective even though we would like it.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Can you be specific about what markets you think would benefit most from it?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>No, I mean just look at the countries we have and then you compare that with Hamburg with the surrounding all 5.5 million people living there. I mean no one <mark type="ph" /> could dream of (01:00:44) that Asia has four separate networks.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Yeah. Okay, thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

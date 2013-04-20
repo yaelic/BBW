@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1260248" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q1 2010 Earnings Call</title>
+    <date>2010-01-27</date>
+    <companies>
+      <company>426</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Warren Kneeshaw, Investor Relations</participant>
+      <participant id="2" type="corprep">Steven R. Altman, President</participant>
+      <participant id="3" type="corprep">Steve Mollenkopf, Executive Vice President and President, Qualcomm CDMA Technologies</participant>
+      <participant id="4" type="corprep">William E. Keitel, Executive Vice President and Chief Financial Officer</participant>
+      <participant id="5" type="analyst">Tim Long</participant>
+      <participant id="6" type="analyst">Brian Modoff</participant>
+      <participant id="7" type="analyst">T. Michael Walkley</participant>
+      <participant id="8" type="analyst">Tim Luke</participant>
+      <participant id="9" type="analyst">Tal Liani</participant>
+      <participant id="10" type="analyst">Matthew Hoffman</participant>
+      <participant id="11" type="analyst">Ehud Gelblum</participant>
+      <participant id="12" type="corprep">Derek Aberle</participant>
+      <participant id="13" type="analyst">Simona Jankowski</participant>
+      <participant id="14" type="analyst">Mark McKechnie</participant>
+      <participant id="15" type="analyst">Glen Yeung</participant>
+      <participant id="16" type="analyst">Craig Berger</participant>
+      <participant id="17" type="analyst">Phil Cusick</participant>
+      <participant id="18" type="analyst">Mark Sue</participant>
+      <participant id="19" type="analyst">Stacy Rasgon</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Ladies and gentlemen thank you for standing by. Welcome to the Qualcomm First Quarter Fiscal 2010 Conference Call. At this time all participants are in a listen-only mode. Later we will conduct a question-and-answer session. <mark type="Operator Instructions" /> As a reminder this conference is being recorded January 27, 2010. The playback number for today's call is 800-642-1687. International callers please dial 706-645-9291. The playback reservation number is 50788237.</p>
+          <p>I would now like to turn the call over to Warren Kneeshaw, Vice President of Investor Relations. Mr. Kneeshaw, please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you and good afternoon. Today's call will include prepared remarks by Steve Altman, Steve Mollenkopf and Bill Keitel. In addition, Don Rosenberg and Derek Aberle will join the question-and-answer session. Dr. Paul Jacobs is unavailable as he is chairing a next-generation mobile communications workings group at the World Economic Forum in Davos, Switzerland. An Internet presentation and audio broadcast accompany this call and you can access them by visiting www.qualcomm.com.</p>
+          <p>During the conference call, if we use any non-GAAP financial measures as defined by the SEC in Regulation G, you can find the required reconciliations to GAAP on our website. I'd also like to direct you to our 10-Q and earnings release, which were filed and furnished respectively with the SEC today and are available on our website.</p>
+          <p>We may make forward-looking statements relating to our expectations and other future events that may differ materially from Qualcomm's actual results. Please review our SEC filings for a detailed presentation of each of our businesses and associated risks and other important factors that may cause our actual results to differ from these forward-looking statements.</p>
+          <p>And now it is my pleasure to introduce Qualcomm's President, Steve Altman.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you Warren and good afternoon everyone. In the first quarter we had continued strong operating performance with pro forma earnings per share of $0.62, exceeding the high end of our prior guidance. Our results were driven by healthy demand for our chipsets, strong shipments of 3G devices by our licensees and lower operating expenses. Operating cash flow was 1.2 billion for the quarter and we had approximately 18.9 billion in cash and marketable securities at the end of the quarter.</p>
+          <p>We continue to execute on our strategic objectives, see healthy growth in 3G and are very encouraged by customer traction with our new products including our industry leading Snapdragon chipset as evidenced by the many recent product launches and announcements made by our partners.</p>
+          <p>Industry analysts and trade groups report that approximately 85% of worldwide operators have now launched 3G networks underscoring the continued migration of 2G to 3G. According to Wireless Intelligence there are now approximately 945 million 3G subscribers worldwide, an increase of more than 30% year-over-year.</p>
+          <p>Operators continue to leverage their 3G investments with improvements in their mobile broadband offerings. With consumer demand for data services on the rise, we continue to see a growing number of innovative and exciting 3G devices.</p>
+          <p>According to Informa Telecom, smartphone shipments as a percentage of total handset shipments are expected to increase from approximately 20% in 2009 to approximately 40% in 2014. The success of smartphones is creating an increased level of competition amongst traditional handset companies as well as a new set of entrants vying to capture a piece of this fast growing segment.</p>
+          <p>The convergence of the computing, consumer electronics and wireless markets is under way. We are seeing new emerging 3G connected device categories such as smartbook devices and e-book readers that provide exciting opportunities for us and our partners. The recent Consumer Electronics Show highlighted a significant increase in the level of innovation and competition for e-book readers with 3G connectivity becoming a critical must have feature.</p>
+          <p>We believe that our mirasol display technology will further drive innovation in this space by providing color and video capabilities while consuming much lower amounts of power than traditional displays. We are ramping up to commercialize these capabilities in order to have mirasol color displays for e-book readers toward the end of calendar year 2010.</p>
+          <p>Mobile data continues to be a key component of revenue growth for 3G operators around the globe. For example, according to the industry research, in the United States 20% of Americans are accessing the mobile web every day, and in Asia Informa Telecom reports that the ARPU of a 3G user is generally 25% higher than that of a 2G user. On a global level, according to analysts, service revenues from mobile broadband are expected to double from 2009 to 2013.</p>
+          <p>North America continues to be one of the leading regions for advanced 3G devices in the world. Yesterday, Verizon announced quarterly wireless data revenue growth of greater than 26% over last year and those data revenues now account for 31.9% of all wireless service revenues, up from 26.5% reported in the fourth quarter of 2008.</p>
+          <p>In addition, AT&amp;T recently announced a significant initiative called Apps to All, which aims to expand the universe of mobile applications beyond smartphones to more mobile devices. Included in this plan is a move to our BREW Mobile Platform on AT&amp;T's quick messaging device category which according to AT&amp;T is one of the company's fastest growing categories. Devices will begin rolling out in the second half of this year. By the end of 2011 AT&amp;T expects a majority of their quick messaging devices to be based on our BREW Mobile Platform. We're also seeing more innovation in data pricing strategies with several operators recently announcing new pricing plans aimed at spurring data usage.</p>
+          <p>In Europe, 3G growth continued despite continued economic headwinds. According to Wireless Intelligence, the number of European 3G subscribers exceeded 200 million during the fourth quarter of calendar 2009, representing more than a 45% year-over-year growth. Attractive new devices continue to be introduced and carriers remain committed to driving data usage and connectivity as evidenced by the relatively strong demand for 3G data modems in the region. The transition to HSPA Plus has been a bit slower than forecasted, but download speeds of 21 megabits per second supported in HSPA Plus is still expected to be the next data rate baseline according to a recent survey of operators by the Global mobile Suppliers Association.</p>
+          <p>Emerging regions will continue to be a key growth area for 3G in the years to come. Informa predicts that by 2012, emerging regions will account for more than 50% of 3G handset shipments. We are addressing these regions with products such as our QCT single chip solution and the BREW Mobile Platform operating system.</p>
+          <p>In China, operators have been focused on the aggressive build-out of their 3G networks. According to China's Ministry of Industry and Information Technology, China 3G carriers invested more than $20 billion in 3G infrastructure in 2009, including the deployment of 325,000 base stations. China Telecom has been successful with their initial focus on driving subscriber growth by leveraging their 1X network. Operator reports indicate they have added more than 28 million CDMA subscribers over the last 12 months; at the same time they have been expanding their EV-DO Rev A network, which now covers more than 340 cities.</p>
+          <p>China Unicom has also been aggressively rolling out their 3G network and has reported that their network now covers approximately 300 cities with HSDPA download speeds of greater than 7.2 megabits per second. With mature networks in place and operators gaining 3G experience, we expect a variety of new devices and services to be introduced in calendar year 2010 that will help to continue to drive growth in China.</p>
+          <p>In India, recent reports indicate that 3G licenses are anticipated by the end of March, but this process has been delayed several times so we will not attempt to predict exactly when licenses will be granted. In the meantime, operator reports indicate both BSNL and MTNL have launched HSPA services and as of the end of December 2009, they have reached a subscriber base of just under 1 million. The Indian CDMA service providers have launched EV-DO mobile broadband services with strong initial traction in USB modems and dongles.</p>
+          <p>Latin America operators now report 65 3G networks in operation, an increase of 18% as compared to last year. As a result, more than 50% of the population now has access to 3G services. In addition, 3G spectrum auctions are on the horizon in Mexico and Brazil, which will provide operators with additional spectrum to support 3G data services.</p>
+          <p>Turning to the licensing business, we continue to license and enable additional companies to manufacture and sell products for the growing 3G and future 4G ecosystems. We now have more than 100 in CDMA based licensees worldwide. We continue to make good progress with our single mode 4G licensing program and have now signed long-term royalty bearing 4G license agreements, which cover LTE and WiMAX with the top three handset manufacturers in the world.</p>
+          <p>Looking forward, we are reaffirming our calendar year 2010 3G device forecast, which is an increase of approximately 21% year-over-year based on midpoint estimates. As anticipated, we see a competitive pricing environment in chipset this year and we are leveraging the R&amp;D investments we have made to offer single chip integrated solutions to target share gains in this environment.</p>
+          <p>A subdued economic recovery in developed regions, including Europe and Japan combined with relative strength at the lower end of the market is impacting our estimated 3G device average selling price and the chipset mix for this fiscal year.</p>
+          <p>Accordingly as Bill will cover in more detail, we are modestly reducing our revenue estimates to reflect this near term market situation, but are maintaining our earnings per share guidance.</p>
+          <p>The fundamentals of our business remain strong, as does the outlook for 2010 and beyond with the continuing migration of 2G to 3G and the introduction of new types of cutting edge 3G devices. We continue to invest in innovative new products and solutions that will reinforce our leadership position and drive growth.</p>
+          <p>That concludes my comments. I will now turn the call over to Steve Mollenkopf.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thank you, Steve. QCT continued our track record of strong execution and I would like to discuss the highlights. QCT shipped approximately 92 million chipsets in the first quarter of fiscal 2010. This is at the high end of our most recent guidance and a 46% increase compared to the same quarter a year ago.</p>
+          <p>We generated revenue of approximately $1.6 billion, an increase of 21% year-over-year. Our earnings before tax for the quarter was $425 million, which is more than 150% higher than a year ago quarter. Consistent with our previous guidance, the average revenue per MSM was approximately 6% lower than the previous quarter. As we anticipated, chipset demand increased for entry level phones and USB modems, particularly for emerging markets, and became a larger percentage of our total unit volume.</p>
+          <p>We expect this trend to continue in the near term, indicating healthy demand for our data device chipsets and relative strength at the lower end of the market in multiple regions. In regions like China and Europe, the pace of transition to new technologies such as EV-DO Revision A and HSPA Plus has been slower than expected. Historically the migration to new technologies has been one of the more difficult events to forecast and in these cases has been further complicated by macroeconomic conditions. These migrations are underway, but as yet are not showing through in our product mix and average ASPs.</p>
+          <p>We remain positive about the opportunities in 3G. We are confident in our position supporting products across all market segments. QCT has invested in highly integrated products in recent years to specifically address the current market environment. We are thus able to offer compelling solutions for all device tiers while also maximizing cost efficiencies.</p>
+          <p>Our broad chipset road map has led to steady market share gains. For example, QCT UMTS shipments this quarter grew 52% year-over-year and our calendar 2009 UMTS shipments grew at a greater rate than overall UMTS device shipments and we believe we continue to build share in this segment.</p>
+          <p>Adding to go our confidence in our market position, QCT has seen growth in design-in activity across our entire portfolio of products over the last quarter. As seen at the most recent Consumer Electronics Show, our first generation Snapdragon chipset powers some of the most compelling devices on the market today, including the Google Nexus One Smartphone and the Lenovo Skylight smartbook device. Other Snapdragon enabled products introduced to the market include Lenovo Ideapad U1 hybrid, Sony Ericsson's Xperia X10, HTC's HD2 and LG's eXpo.</p>
+          <p>The fact that the new devices are based on a variety of different high level operating systems underscores the breadth of our software capabilities. QCT's chipsets power the vast majority of smartphones in the market today running Android and Windows and we continue to expand our support for other high level operating systems such as Symbian and Chrome. As these products begin to ship in volume, and additional devices launch over the next few quarters we expect the industry momentum behind our integrated product offerings will continue to grow.</p>
+          <p>For mass market device categories beyond smartphones, Qualcomm's BREW Mobile Platform is being adopted by AT&amp;T for their fast growing quick messaging category as part of the Apps for All initiative. BREW Mobile Platform will enable carriers like AT&amp;T to expand the capabilities offered by their mass market devices and provide an enhanced data experience.</p>
+          <p>For the most cost sensitive segments of the market, our QSC single-chip solutions are enabling affordable yet fully featured devices. Huawei recently launched a handset in Indonesia and South America based on our QSC 1110 solution that features a QWERTY keyboard and a strong emphasis on access to social networks. Our cost effective integrated solutions position us well for the emerging geographies where open markets dominate the distribution channels.</p>
+          <p>We recently announced that we are working on 28-nanometer process geometry with both TSMC and GLOBALFOUNDRIES. QCT's emphasis on integration allows us to take full advantage of this technology. Our fundamental approach of offering as much functionality as possible in one chip allows us to reap the technology and cost saving benefits of investing in the 28-nanometer node.</p>
+          <p>Discrete solutions will not gain the same benefit from the smaller geometrics. QCT is leading in collaborating with our diverse base of foundry partners to drive the fabless industry toward commercialization of 28-nanometer.</p>
+          <p>As seen over the past several quarters and most recently at CES, the merger of the consumer electronics and wireless industries is taking shape. QCT is well positioned to lead this trend and there's an increasing breadth of customers, many from outside the traditional wireless industry who are relying on us to help them succeed in this converged marketplace.</p>
+          <p>With our technology leadership and broad chipset road map, we view the current competitive market environment as an opportunity to further leverage our strengths and to target gained share.</p>
+          <p>Thank you. And I will turn this call over to Bill Keitel.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Thank you, Steve, and good afternoon, everyone. I'll begin with a review of our first quarter results. Revenues of $2.67 billion were up 6% year-over-year and better than the midpoint of our prior guidance. Pro forma operating income was $1.1 billion, up 15% year-over-year.</p>
+          <p>Pro forma earnings per share were $0.62, exceeding the high end of our prior guidance. Pro forma combined R&amp;D and SG&amp;A expenses decreased by approximately 5% compared to the prior quarter and were modestly better than our guidance.</p>
+          <p>We shipped 92 million MSM chips during the quarter and average revenue per MSM declined sequentially, consistent with our estimates. We estimate that our licensees shipped approximately 133 million new CDMA devices in the September 2009 quarter, slightly above the midpoint of our prior guidance.</p>
+          <p>We estimate the average selling price of CDMA devices was approximately $184 per unit in the September quarter, below our prior estimate of approximately $198. This reflects greater than expected price erosion within certain developed regions including Europe and Japan as well as greater overall mix of lower tier device shipments including data cards.</p>
+          <p>During the quarter we finalized the accounting treatment of the Samsung license renewal including the nonrefundable lump sum payments totaling $1.3 billion and an estimated fair value of $136 million in intangible assets for the patents assigned as part of the agreement. Revenue will be recognized over the 15 year life of the agreement on a straight line basis effective January 2009. And the intangible asset value is being amortized to cost to sales beginning from the date the patents were assigned. As such, our fiscal first quarter results include $71 million in revenue attributable to fiscal 2009.</p>
+          <p>Operating cash flow was approximately $1.2 billion. Cash and marketable securities grew to a total of $18.9 billion at the end of the first quarter, including $8.6 billion onshore and $10.3 billion offshore. During the first fiscal quarter we paid dividends of $284 million or $0.17 per share and on January 7, we announced another cash dividend of $0.17 per share payable on March 26.</p>
+          <p>Turning now to our guidance, we estimate that approximately 144 to 149 million CDMA-based devices shipped in the December quarter and that calendar 2009 CDMA device shipments were approximately 515 to 520 million new devices. Based on the midpoint of this new estimate, 2009 CDMA device shipments grew approximately 8% year-over-year. Furthermore, we estimate approximately 210 million CDMA2000 units and 308 million WCDMA units were shipped worldwide in calendar 2009.</p>
+          <p>We are reaffirming our estimate that calendar 2010 CDMA device shipments will be between 600 and 650 million devices, an increase of approximately 16 to 25% year-over-year. We estimate that of the 625 million device midpoint, approximately 231 million units will be CDMA2000 and approximately 394 million units will be WCDMA.</p>
+          <p>We anticipate average selling prices for CDMA2000 and WCDMA devices combined will decrease approximately 9.5% year-over-year to approximately $181 for fiscal 2010. Expectations for a subdued economic recovery in developed regions such as Europe and Japan, increasing price competition in the smartphone segment and relative strength at the lower end of the market are decreasing our estimated 3G device average selling price for this fiscal year.</p>
+          <p>Our fiscal year guidance continues to include revenue from the potential resolution of the two licensee disputes we disclosed in November. One licensee continues to pay, but we are deferring revenue recognition and proceeding with arbitration. The second licensee is underpaying. Accordingly, our fiscal first quarter results and second quarter guidance reflect less licensing revenues than we believe we truly earned because of these disputes. If these disputes are favorably revolved in fiscal 2010, the associated revenue benefit will be in the range of approximately $200 million. There is the potential that one or both of these disputes will not be concluded this fiscal year.</p>
+          <p>We also continue estimate that the average QTL royalty rate for fiscal 2010 as you calculate it with the information we provide and excluding revenue related to the two licensee disputes to be approximately equal to the rate of our fourth fiscal quarter 2009.</p>
+          <p>As we mentioned in November, QCT is proactively addressing the competitive dynamics in their market. We've made investments in recent years focused on single chip products and these chipsets enable us to offer compelling lower priced solutions while maintaining gross margin percentages through manufacturing cost reductions.</p>
+          <p>Although we expect our chipset average selling price to decrease more this fiscal year than in prior years, as we ship a greater mix of single chip products and lower end products, we are targeting market share gains and leveraging our technology in integration leadership.</p>
+          <p>Based on the current business outlook we are refining our fiscal 2010 revenue guidance. We now expect fiscal 2010 revenues to be in the range of approximately 10.4 to $11 billion as compared to our prior estimate of 10.5 to $11.3 billion.</p>
+          <p>We are reaffirming our fiscal 2010 earnings per share guidance. We anticipate pro forma earnings per share to be in the range of $2.10 to $2.30, an increase of 60 to 76% year-over-year. We expect the combination of pro forma R&amp;D and SG&amp;A expenses to increase approximately 3% year-over-year, lower than our prior guidance of approximately 4% growth.</p>
+          <p>We estimate our pro forma annual tax rate to be between 21 to 22% consistent with our prior expectation.</p>
+          <p>For the second quarter of fiscal 2010, we estimate revenues to be in the range of approximately 2.4 to $2.6 billion. We estimate pro forma earnings per share for the second fiscal quarter to be approximately 49 to $0.53. We anticipate shipments of approximately 88 to 92 million MSM chips during the March quarter and our estimate for CDMA channel inventory is consistent with our prior expectations and remaining at the low end of the historical range.</p>
+          <p>We estimate that new CDMA-based devices shipped in the December quarter at an average selling price of approximately $179 per unit. We anticipate second fiscal quarter pro forma R&amp;D SG&amp;A expenses combined will increase sequentially approximately 8%, reflecting normal seasonality as well as increased investment in select R&amp;D programs and increased patent filings.</p>
+          <p>That concludes my comments. I will now turn the call back to Warren Kneeshaw.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, Bill. Before we go into our question-and-answer session, I would like to remind our participants that our goal in this call is to address as many questions as possible before we run out of time. I would encourage you to limit your questions to one per caller. Operator, we are ready for questions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" /> Tim Long from Bank of Montreal. Please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Thank you. Bill, if I could just get back to the ASP numbers here. Just curious, a few things here. Obviously a big miss for what you were expecting, the 198 to 184. You did give your guidance about a month, a little over a month after the quarter. So could you just talk a little bit about the surprise there and was it &#x2013; and then you gave some of the high level impacts there, but what does it tell you about the forecasting as well? And also if you can just talk, generally a pretty price-elastic market, how come we didn't really see any unit upside based on an almost 10% miss in the average selling prices? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Tim, yes, it was, given our past accuracy, a relatively large miss for us. So we've spent more time on it obviously. I think the &#x2013; we think the bulk of the miss was just a pure ASP erosion. Although there was a substantial regional mix and product mix impact as well, but the bulk of it we think was ASP erosion. Our digging in so far is telling us that there was a fair amount of unloading of feature phones from inventory and we think there was a little more stocking up of high end there.</p>
+          <p>Recall though, although we gave that guidance in November, as of that time we really essentially had no licensee reports. So it was just a pure estimate and then the licensee reports came in subsequent to that. We did see some trends that I think we'll use going forward, namely, that we see some markets that we think it is showing a trend of unloading some phones in this quarter. This will be the September quarter that we're speaking of now in preparation for the December quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Brian Modoff from Deutsche Bank, please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Steve, can you talk about kind of some of the design activity you had last year in Barcelona which has been almost a year you announced an agreement with Nokia. Can you give us an update on how that is progressing and can you talk about activities with other vendors for your basebands that you currently aren't shipping into?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Sure, so yes, we're pretty happy with design-in activity and design-in activity share and actually new customer activity. I think we really don't have anything additional to say. But I'd say we're feeling pretty good about that.</p>
+          <p>With regards to the OEM that you've mentioned, Nokia, which we talked about last year, things are going the way that we want it to go. In all cases we're monitoring how the different OEMs are doing in the various markets and waiting for how that's going to play out for us. But in terms of the development and how we're progressing with those activities kind of upstream of the sell through, we're pretty pleased about that.</p>
+          <p>As you've seen in the past, we've announced a number of new OEMs or strengthened certain OEMs really being accelerated by the smartphone transition. So if you see &#x2013; as people have been going to smartphones, I think it's been playing toward our integrated solution quite a bit. You're starting to see that with Palm and you're starting to see that with Sony Ericsson as well. So we're pretty happy with how that's playing out right now.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mike Walkley from Piper Jaffray, please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Hey thanks. Yes, Steve, just maybe building on that question too. Can you just talk a little bit about this BREW OS and how you size up that market opportunity and if BREW OS has any impact on kind of slowing the development of 3G smartphones? Does it gives another leg to the feature phone market?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Sure Mike, so it's a very similar view than what you, as you described. I mean the high end smartphone market is moving mass market. It's moving toward an integrated solution. But there's also a market tier underneath of that, which I think AT&amp;T really described well, which was the quick messaging tier. And that tier also is looking to go toward, more toward using data and taking advantage of some of the same capabilities that you get in a smartphone, but at a different price point. And we're supporting that through BREW Mobile Platform. We also think that that technology will be useful for us in order to go after the open market. We think that that tier of device is also going to be looking for an app store or data usage capability and it sizes up well for us. So very much a barbell strategy for us in the chipset and the OS side.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Tim Luke from Barclays Capital, please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thanks so much. Just some clarifications, Bill, on the way you've guided. With respect to first just the handset ASPs, for the year going forward, I think you were saying that it's going to be at 181 and for the coming quarter you're somewhat below that at 179 having seen a fairly significant decline from 196 in the June period. What's your expectation in terms of what you think is going to happen that will ebb the ASP higher as you move through the year to get to that 181 average?</p>
+          <p>And then, Steve, clearly the mix in terms of your ASP is lower. Can you just give us some framework for thinking about how you look for it to progress through the year should this rate of broad slippage in the ASP be continued through the fiscal year? And it looks &#x2013; well, you've guided the OpEx, but are you going to see significant saving build in OpEx in the back half of the year given what you said about sustaining the EPS? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Okay. On the handsets, Tim, we're looking for after this next quarter, we're looking for improvements in both regional mix and product mix. So those are the key drivers to the ASP question you had there. Steve, do you want to take that next one?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Sure. On the chipset side it's obviously the same story. What we've seen is really two phenomenons. In the developed world we are seeing a bit more of the low end chipsets being sold. And I think that's consistent with some of the carrier reports you've seen as well. We think that's a near term phenomenon. We think that that is something that will correct itself over the fiscal year.</p>
+          <p>And then the second event is really the delay in some of the emerging markets going to new technology and again we think that's going to correct itself but it's a little bit later than what we had thought.</p>
+          <p>If you look at understanding sort of our operating profit guidance and our ASP, we're not changing that outlook that we gave in November. So you're going to see us exit the fiscal year a bit more in the range that you're used to, but during this near term issue, you're going to see a little bit of a uncharacteristic number there from QCT.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>So similar, Tim, then your question on operating expenses and how we exit the year. We think we'll grow total OP expense 3% year-over-year. We're looking for a similar modest Q3 as we're expecting here for Q2 and then a stronger pick up in Q4 both revenues and operating margins.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Tal Liani from Bank of America Merrill Lynch. Please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Hi, I want to go back to the ASP question. This ASP is relating to look back; it's relating actually to September quarter and China shipments of 3G in China didn't start much until after that. And the plan was, if you look at the numbers, 3 million and 5 million for WCDMA and TDS and the plan for next year is about 40 million together. So first what happens to ASP when you think about TDS? Is TDS in your general total market size? Does it impact ASP? So if TDS suddenly grows substantially it lower ASPs? Does it bring down the ASP or it doesn't have an impact? How do you take care of TDS?</p>
+          <p>And second what happens after that? Are we going to &#x2013; how do you think about ASPs going forward just even directionally, because the explanation you give here about ASP erosion is about feature phones. But we all think that feature phones are going to be replaced in the long run by smartphones, which are more expensive. So are you expecting a U-shape in ASP? Do you expect it to go up, or you think that there are other factors that we need to take into account later in the year and into 2011, et cetera?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>In China Tel, we think the predominant 3G sales today are low-end CDMA2000 and low-end WCDMA. We're looking for improvement as year goes on and the operators leverage their more advance data networks and get the product and the offering such that they can start getting the data ARPU uplift that we're seeing most everywhere else around the world, everywhere else around the world. But right now, we think it's primarily low-end.</p>
+          <p>On TD-SCDMA, it's &#x2013; we have a small amount in our estimates for the calendar year, but it's just that, a small amount. Visibility in there for us we think is relatively low. We are getting reports and payments on TD-SCDMA, but nonetheless it's still relatively low visibility. So it's a very small component of our forecast at this time.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Matthew Hoffman with Cowen &amp; Company. Please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thanks. A question for Steve. The company's now had flat to down chip units each of the last three quarters while sell through of CDMA-based handsets increased in each of those periods. You indicated in your prepared remarks you were gaining share in UMTS, but is there a segment out there like high end HSPA or low-end CDMA where you worried about your positioning and specifically are you seeing share losses in those segments? And then finally, is any of the ASP pressure you're seeing in chips related to an effort to regain share in those segments? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Sure. This is Steve. The &#x2013; maybe two part answer. On the first side, I don't think we're concerned about share. In fact we think we're building share particularly as the smartphone transition occurs. Consistent with what we've said in previous quarters and in New York in November, we are seeing price competition in these tiers, but I think we're able to defend that reasonably well and things are going with respect to the pricing pretty much the way that we thought it would go. But I think we definitely feel good about the share position. And in fact, we feel good about not just share but new customer acquisition. So I don't think that's really the issue as much as a kind of a change in mix here over the near term.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Ehud Gelblum from Morgan Stanley. Please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Hi, thank you very much. First of all, when I do the math on comparing this quarter to last, your guidance for fiscal Q2 versus the quarter you just reported, and I do a walk-through from the EPS of $0.62 to your new guidance. This quarter you had roughly about $0.04 versus my model of below the line and maybe the tax rate, maybe $0.005 or so. But normalizing for that, you're still sequentially dropping maybe seven or $0.08 from your Q1 to your Q2. Your chip number's basically the same, 92 million, 82, 89 to 92 million for next quarter. Your handset ASP is down clearly for next quarter, but handset units are up. There seems to be a lot of things that are sort of canceling each other out. Are you &#x2013; can you give us a sense as to what the assumptions are that get us down to that lower EPS? The only thing that's left is chip ASP and is that the only difference in the difference in the seven, $0.08 between this quarter and next quarter?</p>
+          <p>And then in a separate thing that's related, did your &#x2013; in terms of the handset ASP, have any of the contracts that you've signed, whether it's Nokia, Samsung or any of the other ones, did they have any clauses that perhaps put new caps on the highest level of ASP that you could collect a royalty on? And so what used to be a royalty on a four or $500 phone would now be only a royalty on a $300 phone because they're capped or is there something like that, that could be causing some of what we're seeing on the chip and handset ASP? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I'll take the &#x2013; this is Bill, Ehud, I'll take the first part. Q1 to Q2 sequential change is primarily threefold. One, you had the pickup in Samsung the past three quarters brought into this quarter because the proper amortization was from last January. So we're not going to have that in the March quarter, number one. Number two, our guidance is holding for the year and we're saying that chipset prices are coming down. We're shipping more of our single chip solutions. The gross margin percentage is holding, but revenue per chip and gross margin dollars per chip is coming down. And then number three, we're forecasting a modest decrease in ASPs which will have its impact on QTL Q1 to Q2. Those three combined drive the difference.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="a">
+        <plist>
+          <p>This is Derek. Let me just answer the second question. There really hasn't been any changes across the licensing program or agreement to change the landscape on caps for high-end, high-price devices.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Adam Benjamin from Jefferies &amp; Company, please go ahead with your question. Mr. Benjamin, your line is open. And we're moving on to the next question. Simona Jankowski from Goldman Sachs, please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Hi. Thank you so much. Just wanted to follow up on the prior question in terms of the royalty first. So it sounds like the December quarter was positively impacted by the catch-up vis-&#xE0;-vis Samsung. But Bill, I think I heard you say that looking forward for the rest of the fiscal year the royalties are going to be at this slightly higher rate as well. So can you just comment on why that would remain at a slightly higher rate even though that was positively impacted in the December quarter from Samsung?</p>
+          <p>And then, on the chipset unit guidance which is flat to down slightly, your normal seasonality is up slightly in the March quarter and obviously inventories are pretty low and demand is generally improving. So can you just comment why this would be a worse quarter than typical, especially since you don't think you're losing share?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>On your first question, what I said about the royalty rate, again royalty rate as you would calculate it based on the information we disclose, that we ended the fiscal 2009 &#x2013; going out of fiscal 2009, the rate was approximately 3.4%. For fiscal, all of fiscal 2010, we expect it to average about that same rate, approximately the same rate, not including the 71 million of Samsung revenues that were earned last year, but properly accounted for in the first quarter and not including the upside potential from resolution of the two licensee disputes. The quarter MSM, Steve, do you want to?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Sure. So on the quarter to quarter, I think what we've seen in the past is there's always been some mild seasonality. It's been sitting underneath of new carrier launches and right now I think there are less in the grand total of things, less new carrier launches that are pushing the units. So we're seeing a little bit of what I would think is normal seasonality. But in the second half of the year you're starting to see some of that come back. So from year to year it's not exactly growing linearly, but I think we're still confident in our share projections.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mark McKechnie with Broadpoint AmTech, please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Great, thanks. Steve, can you tell us a bit about whatever you can share with us in terms of your market share of 3G chips? And then I also wanted to ask if, is China ramping up fast enough to actually have an impact on the royalty ASPs and royalty rates? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Mark, this is Steve. Maybe I'll take the first part of the second question and just talk about chipsets and maybe one of my colleagues can take the ASP side. But in terms of share, as you may know, we don't tend to talk about share in terms of WCDMA other than sort of broadly with respect to how our chipset shipments are going kind of in aggregate. Although I would say that we feel that that is going well, both with share inside of existing customers and also acquisition of new customers.</p>
+          <p>Within China, on the chipset side, it's ramping in terms of units but those units have been a bit on the lower end relative to what we had thought. We had been looking a little bit more at units coming in at the higher data rates than what we're seeing right now. We think those will happen but near term we're seeing a little bit of a softening in terms of the mix, not the units.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>And Mark, this is Bill. On the China ramp, we think China is ramping well. We expect that to continue through the year. Near-term we're seeing more of a low end CDMA2000, low end WCDMA focus than what we had hoped for. But we do expect improvement to the higher end devices as the year progresses. So it is a positive to the business, and including the licensing business.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Glen Yeung from Citi. Please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thanks. Do you guys have any opinion about handset inventories that are out in the channel right now and whether or not you think that's impacting some of your sales? And then the second part is actually looking backwards. On the chipset side, what's the status on the capacity to make those chips today and how do you think that looks as you look through the rest of the year?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Glen, this is Bill. On your first question handset inventories, we continue to think the channel is quite lean, averaging in the low end of a very low end of a normal band. We continue to see people being cautious. And so our forecast for the year is &#x2013; our forecast assumes that that channel continues to stay very lean throughout our fiscal 2010.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>And this is Steve. On the capacity question, I think we feel pretty prepared to deal with any uptick. So I don't see that as a big issue at this point.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Craig Berger from FBR Capital Markets. Please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Hey, guys thanks for taking my question. Can you just help us think about how to understand the timing and magnitude of some of these Snapdragon programs? How big are smartbooks going to be? You've got the HP win, any other color or detail you can provide? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Sure, this is Steve. For Snapdragon, you should really think of Snapdragon as being sold into two markets, into the handset market and then to this incremental market which we would &#x2013; which we call smartbooks. And I think on the handset side, the move to smartphones clearly has been something that's been moving in the direction that I think benefits us.</p>
+          <p>This new category, the smartbooks, it's a bit too early to say how they will sell through and sort of how you should model them, whether they should be modeled as a PC type unit volume or it should be a phone type unit volume. We tend to view those products as something that looks like, that tends to act like a big phone. So we're encouraged actually by the category seems to be developing in terms of consumers' view quite a bit. There's pretty innovative products coming out and being announced. But it's a little bit too early to see how the customers are going to react to them. And then also how the new OSs that will be used in that market segment, how they are received by the consumer. But in general we're pretty happy with how smart, or how Snapdragon has been looking in terms of meeting the proper design point. And I think the integration play and the combination of multimedia 3G and the custom processor has been something I think that's been working for us.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Phil Cusick from Macquarie, please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Guys, can you hear me?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Cusick, your line is open. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Guys, can you hear me?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yes, we can.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>All right. Sorry about that. So sort of on the same vein, can you remind us of the portion of non-voice devices that are in your 3G forecast and the licensing model there? And then second of all since nobody else is going to ask it, I'll ask. We do see a 3G radio in the Apple Tablet. Can you tell us if that's yours or whether that isn't? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Non-voice devices are in our licensing program. I think the foremost there is data modules both embedded and what we call dongles. Last year, we came out and stated that we thought that market was in a range of about 40 to 50 million for 2009. We haven't updated that estimate. Industry analysts have it growing at a good rate this year and we see it growing at a strong rate as well.</p>
+          <p>Other than that, you got a growing e-book market, the Amazon device being the clear example there, but a lot of new devices coming along. Machine-to-machine is in a early stage, but seeing growing interest there. Telemax is the obvious one, but a growing interest there. I think there's going to be a lot of new areas coming along. The big one today though is embedded and dongles for laptops.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>But no update for what you think that market looks like?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>No, we have not given an update on our estimate. We see a number of industry analysts out there with their estimates, and they &#x2013; after ours last year they seem to combine around more, a little more consensus in what the industry guys were doing.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mark Sue from RBC Capital Markets. Please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Thank you. If we saw an inventory unwind which impacted ASPs, are there proof points that the rewind or restock is with higher ASP products or for higher ASP regions? Is that just a conjecture at this point? And would the &#x2013; as this happens would that just be one-time positive events or how can we kind of assure investors that a lot of <mark type="inaudible" /> is just one time? And then separately, does the Apple iPad make you less inclined to continue your investment in mirasol?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Okay. I'll take your first one, Mark. Well, what we're seeing is actually quite logical that it's having an impact on channel inventory. We're seeing a greater proportion of lower-end products, and so what we're seeing is the channel adjusting to that and for the developing part of the world. On the developed side, we're seeing a bit of the opposite, and I think the trends there were, everybody on this call is familiar with, with the growing interest in smartphones. So developing world growing on their low-end inventory and developed world easing up on low-end inventory.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Then this is Steve. On the question with regards to mirasol, I think we're actually very happy with the response that we've had from customers about the value proposition from mirasol. It's really the combination of color, video and the low power that they're used to in that existing technology that we're pretty excited about. I think if anything, a product that defines that category and I think the whole category itself will grow and I think that our technology is going to be a differentiator in the long term as well. So we actually feel quite good about it and I think we talked about it a little bit in November that first products based off of our new display, our larger display which has color, will launch at the end of this calendar year. So very much excited about that category.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Stacy Rasgon from Sanford Bernstein, please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Hi guys. Can you hear me? Hello?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yes, we can.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Great. Thank you. Just to get back to the guidance again, so you've got revenue guidance down. You held your EPS guidance. This is an environment now where you've got device ASPs which are way down, which obviously takes the royalty revenue down commensurately at higher margins. The new ASP guidance on devices still seems to imply an uplift in the second half. I mean can you just be a little clearer on what's actually going on on the chipset side or the OpEx side that gives you confidence in that, in maintaining that EPS guidance in the face of what obviously are some headwinds on the royalty business where the margins typically are much higher?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>If you step back from it, what we're seeing here is we're essentially holding our forecast. We brought down the range on our revenues, a very small low single digit difference. We're holding our earnings per share guidance. So the view we had as of November is we're saying we're largely holding to that for the year. There are some puts and takes to that. We're seeing the ASPs a bit lower. We're seeing volume a bit stronger on MSMs. We're seeing operating expenses we expect to be a bit lower. So there's puts and takes, but step back from it and we're essentially seeing the year we expect to unfold largely in line with what we said back in November.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>But even with that, it looks like the OpEx was down a bit beyond the guidance this quarter but it looks like it's stepping up again next quarter. And you talked about it going up again into the second half. We've got a device ASPs, your new guidance has them down whatever it is 4% again dependent on ASPs increasing again in the second half in order to reach that. We've got chipset ASPs which are still, fell 6% this quarter and that potentially is going to continue going forward.</p>
+          <p>It just, I guess where I just wonder a little bit is on the, maybe on the licensing side. If that stuff has like 85% operating margins and that's the area where you seem to be under a lot of pressure. Just what's, I'm still just a little unclear what happens or what needs to happen in the rest of the business in order to kind of maintain the same sort of an ASP or same sort of EPS range and given that the areas where you are having pressure tend to be at kind of higher margin than some of the others.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Well the pressure isn't necessarily on the higher margin stuff, but let's just back up here quickly. Operating expenses, we forecasted an increase in operating expenses 4%. So I don't relate to your point about what's going to happen first quarter or the second quarter. What's happening in operating expenses is exactly what we said. We expect for the full year instead of growing 4% we are going to grow 3%. In terms of average ASP for MSM, we're spot on right now to where we thought we were going to be and we continue to expect the year to unfold as we expected back in November.</p>
+          <p>ASPs on the royalty devices we think is a bit lower. There are some offsets to that as I said in our picture of the year and part of that is we do expect to ship a bit more MSMs in this fiscal year than what we had expected back in November. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Ladies and gentlemen, we have reached the end of the allotted time for questions and answers. I'll now turn the call back over to Steve Altman for closing comments.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, everyone. I'm not sure if you saw the press this past week noting that Qualcomm was ranked in the top 10 of Fortune Magazine's 100 Best Companies to Work For in America. This is our 12th consecutive year of recognition, an accomplishment that few companies achieve and we are all very grateful to our employees for their hard work and their continued efforts in making Qualcomm such a great place to work.</p>
+          <p>I'm pleased with our results in the first quarter and the continued execution by our business units on their strategic objectives. We are seeing good traction with products like Snapdragon and BREW Mobile Platform. Subsequent to the CES show we are seeing strong interest from companies in our mirasol displays and we passed some important milestones in our licensing business and the growth of 3G continues at pace.</p>
+          <p>Although we are still feeling some effects from the overall macroeconomic environment, we continue to invest in order to build our competitive position, grow our share, and create new and exciting business opportunities. We are excited about the opportunity ahead and our ability to capitalize on it. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And ladies and gentlemen, this does conclude today's conference call. We thank you for your participation. You may now disconnect.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

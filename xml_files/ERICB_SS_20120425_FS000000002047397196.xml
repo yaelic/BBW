@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1471404" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q1 2012 Earnings Call</title>
+    <date>2012-04-25</date>
+    <companies>
+      <company>192</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep" affiliation="Vice President, Head-Industry &amp; Investor Relations">&#xC5;se Lindskog</participant>
+      <participant id="2" type="corprep" affiliation="President &amp; Chief Executive Officer">Hans Vestberg</participant>
+      <participant id="3" type="corprep" affiliation="Executive Vice President &amp; Head-Networks">Johan Wibergh</participant>
+      <participant id="4" type="corprep" affiliation="Executive VP &amp; Head-Global Services Business Unit">Magnus Mandersson</participant>
+      <participant id="5" type="corprep" affiliation="Senior VP &amp; Head-Multimedia Business Unit">Per Borgklint</participant>
+      <participant id="6" type="corprep" affiliation="Chief Financial Officer &amp; Executive Vice President">Jan Frykhammar</participant>
+      <participant id="7" type="analyst" affiliation="Nomura Securities International, Inc.">Stuart Jeffrey</participant>
+      <participant id="8" type="analyst" affiliation="Deutsche Bank AG (Prime Brokerage)">Kai F. Korschelt</participant>
+      <participant id="9" type="analyst" affiliation="Citigroup Global Markets Ltd.">Zahid S. Hussein</participant>
+      <participant id="10" type="analyst" affiliation="Charter Equity Research">Edward Snyder</participant>
+      <participant id="11" type="analyst" affiliation="UBS Ltd. (Broker)">Gareth Jenkins</participant>
+      <participant id="12" type="analyst" affiliation="Arete Research Services LLP">Richard A. Kramer</participant>
+      <participant id="13" type="analyst" affiliation="Exane Ltd.">Aleksander Peterc</participant>
+      <participant id="14" type="analyst" affiliation="Cowen &amp; Co.">Matthew Hoffman</participant>
+      <participant id="15" type="analyst" affiliation="RBC Capital Markets Equity Research">Mark Sue</participant>
+      <participant id="16" type="analyst" affiliation="Barclays Capital Securities Ltd.">Andrew M. Gardiner</participant>
+      <participant id="17" type="analyst" affiliation="Cr&#xE9;dit Agricole Cheuvreux International Ltd.">Odon F. de Laporte</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Welcome to the Ericsson analyst and media conference call for the first quarter reports. To see visual aids for this call, please log on to www.ericsson.com/press or www.ericsson.com/investors. <mark type="Operator Instructions" /> As a reminder, a replay will be available one hour after today's conference. &#xC5;se Lindskog will open the call. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, operator. Hello, everyone. You are most welcome to our call today, where we'll comment on our first quarter report for 2012.</p>
+          <p>With me here today, I have Hans Vestberg, President and CEO of Ericsson. I have Jan Frykhammar, our Chief Financial Officer. I also have Johan Wibergh, who's head of business unit Networks; Magnus Mandersson, head of business unit Global Services; and also Per Borgklint, who's head of business unit Support Solutions.</p>
+          <p>So, to start with, I have to make the usual reminder that during the call today, we'll be making forward-looking statements. These statements are based on our current expectations and certain planning assumptions, which are subject to risk and uncertainties. The actual results may differ materially due to factors mentioned in today's press release and discussed in this conference call. I also encourage you to read about these risks and uncertainties in our earnings report, as well as in our Annual Report. And so, with this introduction, I would like to hand over to Hans Vestberg.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you very much, &#xC5;se. Let me start, before I come into the figures, just commenting on a couple of the key strategic developments in the quarter for us.</p>
+          <p>Starting talking about the portfolio momentum. I've talked quite a lot about the areas we've selected where we believe there is good portfolio momentum. We can confirm that down-the-line trends of mobile broadband users; mobile broadband data; and new type of devices with 3G and 4G smartphones, tablets, et cetera, are continuing to grow, which of course is putting good a momentum in the portfolio for mobile broadband.</p>
+          <p>On the service side, we'll also talk about that, and you will see later in the figures, that the service business also are addressing a lot of the needs in the market when it comes to efficiency but also complex projects and integration. And there our service portfolio is coming in very well.</p>
+          <p>Coming back quickly, just on the market share, mobile infrastructure. All competitors in that arena have now reported, and we can confirm that our market share went up to 38% from 32% in 2011, which was already reported earlier this year, but now everybody has reported.</p>
+          <p>Another thing that happened in the quarter was that we have come out with a revised strategy for Segment Support Solutions, which was previously called Multimedia. Very much focused on OSS/BSS, as well as TV and media and m-commerce. And here, of course, the Telcordia acquisition that we concluded in the quarter and we're in the integration of is a very important piece</p>
+          <p>Then on our joint venture, we have quite a lot of developments, strategic development, in the quarter. We sold the shares of Sony Ericsson, and we got the payment, which added quite a lot of profit to our P&amp;L in this quarter, SEK 7.7 billion in profit from the sale of the shares. And when it comes to ST-Ericsson, we'll come back to that a little bit later. Late Monday afternoon, ST-Ericsson released its new strategy, whereby focusing down on modems and ModAps, and basically doing two important strategic things. One is processors. ST-Ericsson will not focus on processors any more. That business will be taken over by STMicroelectronics. And also that we'll do a next step in our restructuring, given that we are now resizing it, which impacts on 107,000 employees.</p>
+          <p>If we then go into the figures, we had SEK 51 billion in sales, which was a negative growth of 4% sequentially, down some 20%, which mainly you can say is attributed to seasonal effects. However, below that, there are different growth and declines in our businesses, and our heads of the segments will talk about that. From a region point of view, North America, Japan, and Korea developed well on the mobile broadband side, whereby other regions like Europe, India, Middle East &#x2013; parts of Middle East &#x2013; and Russia, did not have that good development.</p>
+          <p>The quarter, we added Telcordia <mark type="indiscernible" /> (5:35) SEK 0.9 billion. From a reporting point of view, we split that 50/50 between Global Services and Segment business &#x2013; Support Solutions.</p>
+          <p>If I look at the profitability, and going straight for the bottom line, the net income then went up quite dramatically to SEK 8.8 billion, or &#x2013; a big portion of that increase coming from the sale of the shares of Sony Ericsson. And that concluded in EPS, non-IFRS, of SEK 3.14. Also, that is quite a big increase. Both of them, of course, impacted, obviously, on the Sony Ericsson gain. If you take away the Sony Ericsson gain, you have <mark type="ph" /> SEK 0.77 (6:21) of earnings per share on the rest of it.</p>
+          <p>But let's dig into the segments. And I would like to ask Johan Wibergh to start talking about Networks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thank you, Hans. So looking on Q1, then, we had sales of SEK 27.3 billion. That was organically FX adjusted down 18% year over year. And <mark type="indiscernible" /> (6:49) year over year. And of course, as before, we do expect it to continue.</p>
+          <p>
+            <mark type="indiscernible" /> (6:59) here down 18%. The business trend from the second half 2011 <mark type="indiscernible" /> (7:15) timings are impacted by technology choices and some business model changes.</p>
+          <p>Looking on the regions here, then, the bottom "Mix: regional development," we had several markets that went strong, like North America and a few other markets in Asia. But we also saw slower development in Europe, Russia, Middle East, and India. India had a very strong Q1 a year ago. Where we had good development, it was just because of more capacity for mobile broadband, both HSPA and LT.</p>
+          <p>Moving over to EBITDA margin, then, it was down as expected to 9%, which was a big difference than to 20% a year ago. And as we have said before then, this is negatively impacted by the business mix, with more coverage than capacity projects and European modernization projects. I mean, we have in there taken then 6 percentage points of market share during last year, and we decided then, in 2010, to do this market share gain.</p>
+          <p>Quarter over quarter, it is negatively impacted by lower volumes, and partially offset by mobile broadband capacity investments. We do believe that the underlying business mix is expected to prevail in the short term. And, as we have also talked about before, we have efficient activities ongoing to improve the <mark type="indiscernible" /> (8:56).</p>
+          <p>Also during the quarter, we did close the acquisition of BelAir, a leading range of carrier of Wi-Fi grade products that we have closed and have now started to sell, as well as we are integrating in our portfolio.</p>
+          <p>With that, I'm done. And I'll hand over to Mr. Magnus Mandersson.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Thank you. Hello, everybody. We have a few comments on Global Services.</p>
+          <p>So we had a growth in the business with 14% adjusted. We did SEK 20.6 billion, that we should remember then that we had a fairly slow Q1 a year back. Of course, we are sitting on a growing, big market here, which is expected to grow 6% to 8%, as I said at the Market Day. Early indications <mark type="ph" /> in terms (10:05) is showing that we have, again, taken 1 percentage point, which means that we are now reaching about 12% market share for this fairly fragmented market.</p>
+          <p>Our professional services continue to grow with 18% year on year. We have very good momentum in consulting and systems integration, mainly driven by that the network is now getting data-centric, both in the telco networks but also <mark type="indiscernible" /> (10:34) networks.</p>
+          <p>Managed service continued to grow 16% year on year. <mark type="ph" /> We are seeing a good impact of new contracts in Q4, (10:46) which we are now recognizing revenues on. Also, <mark type="indiscernible" /> (10:55) contracts in Q1, as we did a year back. The troublesome part is the network rollout. We're growing in volumes, but complexity is increases in these projects. It's, again, very much driven by the high volumes we're having in Europe, but also in other places in the world. Very much linked to the networks as well, of course.</p>
+          <p>Our EBITDA margin is stable on 7%, as we had in &#x2013; back a year ago. But we should also remember that we have 2% included here on restructuring charges. So all in all, I think we are having a fairly good EBITDA margin here, taking that into consideration. The professional services margin is consistently delivering higher margins, then, being on the 15-plus percentages.</p>
+          <p>With that, I hand over to Per Borgklint.</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>So thank you very much, Magnus. Hi, everyone.</p>
+          <p>As you've seen probably, we changed the name of the business unit Multimedia in the quarter to business unit Support Solutions. This is part of the fact that we're focusing our strategies around OSS, BSS, and media, the big three main drivers of the business going forward.</p>
+          <p>We had a 12% year-on-year growth, with very strong development and growth in TV during the quarter, and also in the project brokering. OSS sales was fairly flat in the quarter, and BSS was hit by some unfavorable product mix but also fairly slow development in India. We're also integrating Telcordia according to plan and step-by-step, moving different areas into the solution orientation and putting together a strategy jointly with Telcordia.</p>
+          <p>We increased our EBITA margins <mark type="indiscernible" /> (13:11).</p>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Per. And then a quick regional update. We'll talk about some of the markets, but here's a couple of quick highlights.</p>
+          <p>North America we talked about still down by 3% but sequentially then up 14%. This is very much coming from the HSPA capacity sales and of course even the 4G/LTE. That should be <mark type="indiscernible" /> (13:51) a CDMA decline of 40% So here we have some of the factors impacted on the second half has gone away. Some are permanent, they're staying there, like CDMA decline.</p>
+          <p>Latin America continued growing. Then you can see Northern Europe and Central Asia, down some at 32%. This is very much Russia and quite a substantial decline there due to lower investments in Russia.</p>
+          <p>India, 55% down year over year. Here you can see that quarter over quarter is 7%, but year over year as big as 55%, and that's of course because we had a portion of first quarter last year on 3G, when 3G came out in the market. And now we have a much slower market when it comes to investment, partly because of the uncertainty in the regulatory environment.</p>
+          <p>Then you can look at Asia. <mark type="indiscernible" /> (14:50) Asia is growing. Korea, Japan, but also Southeast Asia is growing, with 9%. So the Asian region is growing at the moment.</p>
+          <p>Other &#x2013; region Other, growing 9%. Here we have a stable development on IPRs, and the main part of the growth is coming from IPX, which is &#x2013; we had included in the regions before, and now we have that Other region. So that was the main &#x2013; on that.</p>
+          <p>Jan?</p>
+        </plist>
+      </speaker>
+      <speaker id="6">
+        <plist>
+          <p>Okay. Thank you very much, Hans. So let me then give some further color to some of the P&amp;L highlights then.</p>
+          <p>So if we start with the gross margin, which I'm sure will be the focus for the questions today and has also been the focus during the press conference earlier today, there is &#x2013; the dynamics on the gross margin continues to be business mix, meaning then coverage and capacity projects; modernization projects in Europe; and service.</p>
+          <p>Quarter over quarter, then, we had a positive development in the gross margin, with give or take slightly more than 3 percentage points. I think also important here to remember is that typically if we look historically at the fourth quarter, it's the lowest quarter for us in terms of gross margin. So <mark type="ph" /> it's a little (16:20) bit of a seasonality effect there on the gross margin. The other important highlight, obviously, is that we had some mobile broadband capacity investments coming in the quarter and also a lower Global Services share.</p>
+          <p>However, the underlying business mix, as also Johan mentioned, is there with the higher share of coverage and network modernization projects and capacity projects. And that has been the mix now for basically starting second half of 2011, and that will continue then to prevail short term.</p>
+          <p>We also, on this slide, repeat some of the parameters around the network modernization projects, which I think is still very important to keep in mind. We have <mark type="ph" /> all the one (17:10) projects that are in full execution, or was in full execution in the fourth quarter. The average duration of these projects is expected to be between 18 to 24 months.</p>
+          <p>And then if we look at restructuring charges, SEK 600 million in the quarter, compared to SEK 400 million last year Q1. We continue then to forecast for the full year a restructuring charge of SEK 4 billion. We have now detailed all the activities and actions across the company. And after having done that, we can conclude that the activities will be evenly executed throughout the year. I recall that last quarter I said that the bulk of the charges will take place during the first half. Now, we have concluded that the activities themselves will be executed evenly throughout the year.</p>
+          <p>If we then take the operating expenses, SEK 14.2 billion versus SEK 14.4 billion last year, please now remember that Telcordia is in the numbers for the first quarter, so the underlying operating expense reduction is progressing well. R&amp;D, we would like to say that we did some extra efforts towards the second half of last year in terms of securing certain important deliverables. It was around <mark type="ph" /> securing that our IP portfolio, with its more service rate came to the market (19:01) with good timing. It had also to do with the TD-LTE radio product, as well as securing that we had a CDMA baseband for the RBS 6000.</p>
+          <p>This, all in all, was of course to secure technology leadership, which is one important cornerstone for the strategy. This meant from a P&amp;L point of view that we ended the year with a higher run rate from an R&amp;D point of view than we started the year. This is something, now, that we gradually over the year will work ourselves down to a more normal run rate. And so the profile of the reduction will be gradual. Also here, we keep the range of SEK 29 billion to SEK 31 billion in terms of R&amp;D spend for the year.</p>
+          <p>Then, the SG&amp;A reduction is progressing well. And here, I think, we have good momentum across the company to find good, effective ways of working and less of traveling and things like that. Then operating margin, excluding JVs and Sony Ericsson, gain of 5.5%. Hans mentioned the gain there; it's good money. And then, of course, the big reason for the decline is the lower volumes on Networks, together with gross margin.</p>
+          <p>If we then take ST-Ericsson &#x2013; I think a lot has been said here. I would like to refer really to the call that both Didier and Carlo had on the new strategic direction a few days ago, I think was Monday afternoon or perhaps Tuesday. And highlights, obviously, of the new strategies that the company will now focus on modems and MobApps, and they will source in partnership with STMicroelectronics the application processor. They will also work through their R&amp;D site strategy in order to gain efficiency in R&amp;D. And all in all, the ambition is to lower the breakeven point. It's not going to come only from operating expense reductions. It will also, of course, be a need to increase top line from this very low level we are right now and also with the gross margin improvement.</p>
+          <p>Balance sheet. So just a few highlights. Good collections in the quarter. We work hard on the inventory. This is project inventory, and it reflects the mix we have. And it is also worthwhile, I think, to mention that we have &#x2013; we see now, the impact of the lower volumes in Networks in reduced accounts payable. Overall, then, on the net cash, we had a reduction in the quarter of minus SEK 2.4 billion. We end the quarter on SEK 37.1 billion. It's a very strong net cash position. And this is in focus for us for all the reasons that we have mentioned before. Cash conversion of 17%. The target of more than 70% remains. We had, like we always have in the first quarter, a contribution to the pension trust of, this year it was around SEK 1 billion, and I think it was on similar level last year.</p>
+          <p>And I think with that, I hand over to Hans again.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks. I will do a very short summary then.</p>
+          <p>I think for the management right now, going forward, the strategy execution continues, very much focused on <mark type="indiscernible" /> (22:54) we are leading and want to keep the leadership position. Definitely in the <mark type="indiscernible" /> (23:00) broadband and everything attached to that, from <mark type="ph" /> radio core (23:02) and our routing business that we are investing in. And then, very much in the service field, where we also are number one and want to keep that. And then also <mark type="ph" /> finding (23:15) OSS/BSS with the <mark type="indiscernible" /> (23:16). That is really where we're doing the strategy execution.</p>
+          <p>Then not to forget, we continue with our cost and efficiency work. And maybe we don't talk about any global program, but I can assure that it's an ongoing work in all the units in the company, and so it will continue. And that's the best way to see do it in order to see that we continuously mitigate sort of the decline in margins with efficiency work, and that's what we'll do doing going forward as well.</p>
+          <p>Finally, we build these on technology leadership and service leadership, which means that we will, as much as we can, see that we have a good investment in R&amp;D but also that we do the investment in the tools and processes and methods and services in order to keep up that. So that's where the main focus is for management, <mark type="ph" /> that implement (24:10) to see that we bring this company forward and continue to be in the lead.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you very much, all of you. So by this time, we are ready to open up for questions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" /> As always, please limit yourselves to one question at a time, and please keep your questions at a broad level. Detailed information is provided in the report, and Ericsson's Investor Relations and Media Relations team will be happy to take any additional questions and discuss further details with you after the call. Please hold whilst we queue for questions. Thank you.</p>
+          <p>Excuse me, Stuart Jeffrey from Nomura is now on line with a question.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Great. Thank you very much. I've got a question on network modernization, surprisingly. Looking back, when you've done big network rollouts or replacement, such as Vodafone Italy and Telstra, you've done those quickly, in less than a year. So I was just trying to understand why these are taking 18 to 24 months, whether there's increased complexity or if it's just the structure of the contract. And then perhaps you can just help us understand what happens next. In the past when we built brand-new 3G networks, there's been excess capacity that takes time to fill in. Is that what we should be anticipating for these modernization contracts, or is it a more seamless transition because it's using existing technologies that existing phones are using? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you. I can try to answer that. The reason why this project takes some time, that's of course the complexity. We need to understand that these are networks with live consumers and customers on them. And <mark type="indiscernible" /> (26:09) have interruption <mark type="indiscernible" /> (26:15). And that is only allowed to happen in certain maintenance window. So you cannot shut down the network. And on top of that, <mark type="indiscernible" /> (26:24) so that's why it takes time. <mark type="indiscernible" /> (26:33) So that's why it takes some time. But remember, <mark type="indiscernible" /> (26:44) and seeing that the consumer <mark type="ph" /> impact is as (26:52) little as possible. And that's why it takes some time.</p>
+          <p>The other question was about what we expect after this. I think what is important, <mark type="indiscernible" /> (27:01) then what is important after that is underlying sort of indicators. Will the mobile broadband grow? Will the new phones coming in attract usage of the network? Those are the indicators <mark type="indiscernible" /> (27:18) There's no general rule how operators in <mark type="ph" /> Europe network utilization (27:29) has decided to deploy the network. Some are deploying with a little bit more capacity, some with less. So there's no general rule that they will be sort of needing capacity straight after or not needing straight after. It will be case by case, I would say, depending on these underlying factors.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Great. Just a quick one. There's a lot of background noise, and your microphone keeps cutting out. So I don't know if maybe you can get closer to the microphone to stop that?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, we have the same problem here. It's cutting here as well for us as well, so not sure &#x2013; there's some problem with the sound quality. Hopefully even though I'm cut up, you hear what I'm saying.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Excuse me, Kai Korschelt from Deutsche Bank is now on line with a question.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Yes, thanks for taking my question. The first one was just on the U.S. capacity upgrades that you highlighted. Presumably that's AT&amp;T and T-Mobile. It is good for the margin, obviously. So I'm just wondering, do you expect that to continue into the second quarter or maybe the second half, or is that actually something that is more of a one-off nature? And also, particularly as some of the other lower-margin projects, such as Sprint in the U.S., ramp, whether &#x2013; how you see the gross margin mix evolve in the second quarter and the second half. And then maybe just as a follow-up, if I may, in the press call, I think you alluded to the fact that there are actually not a great deal of network modernizations happening in Southern Europe yet. I'm just wondering, in terms of timing, when do you expect the carriers there to make those decisions? And if Ericsson wins a decent share of that, should we expect another potential negative impact, maybe six or 12 months down the road? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Okay. Let me see if I can sort this out. Starting with the U.S. then, first of all, we don't guide in the future &#x2013; on future quarters on how North America will pan out. But what I can say is that we said in the second half of 2011 was that we would have a decline in our business in North America. There were three reasons for that. One was CDMA transition to LTE. The other was some mergers taking place in the market. And the third one was that it was a high activity in the first half of 2011 in North America. So if you look at that over the first quarter, you can say CDMA is still there, and it will continue. And if you look at the merger, that we all know is public information, that did not happen. So that is gone away.</p>
+          <p>When it comes to the spending pattern in North America, strong in the first half, a little bit slower in the second half, that remains to be seen how that is coming through. And as you rightfully mentioned, there are also some operators that are doing larger investments at the moment, when it comes to network technology transfers. So some of it will remain, sort of, and some will go away, and again, the CDMA, that's we think a permanent change in North America.</p>
+          <p>On the Southern European question, I think you alluded to the question about modernization, the same time as we say that <mark type="indiscernible" /> and why volumes are going up. Yes, the activity is high where modernization is tight, where (30:50) we work with those operators. However, what we also see, where we don't do modernization in different countries &#x2013; which we are not doing modernization in all regions and all countries &#x2013; there we see a little bit more cautious operators when it comes to investment levels. That's what I'm trying to say. So activity on transformation is quite high in Europe, but where we don't have transformation, it's lower. And then the transformation business is coming with lower sales, because that's where we competed the most for the footprint. So that is the combination. <mark type="ph" /> That's why we see fewer coming down in volumes, as well as see some cautiousness <mark type="indiscernible" /> (31:40)</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>
+            <mark type="indiscernible" /> (31:44), Hans. I think, to be more precise on where it's really slow in Europe, is in countries like, for instance, Greece and some countries in the Balkans and so forth.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Zahid Hussein from Citi in now on line with a question.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Hi. Thank very much. A couple for me. One, on the SSR router portfolio, can you give us any customer feedback you've had so far and really an update on the contract win to date? Maybe a revenue run rate; that would be very, very helpful. And really another question really around the carrier spending. So although you're seeing some cautious demand, have you had several conversations around outsourcing networks to reduce network operating costs or are carriers still at the moment, deciding on the best way forward? Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>This is Johan. So let me comment on the SSR. I think I should start by saying that everything is going as planned with the SSR. I mean, this is a major new product and product platform, a whole <mark type="ph" /> network (32:59) of products that are coming out. And, I mean, all these things, it always takes time. Usually operators want to do a lot of testing and confirmations, but since more than two months back, it's in commercial operations. It's working fine. We have had good feedback, and we know <mark type="indiscernible" /> (33:19) competitors that we have extremely <mark type="indiscernible" /> (33:26). That we now have the absolutely highest capacity among packet core competitors. And we also have started receiving orders then <mark type="ph" /> for more customers on its solid (33:41) deployments. And especially on evolved packet core. So that is going fine.</p>
+          <p>However, in all these things, one needs to think about it always takes some time when you're introducing new platforms and new products. There is always a certain cautiousness and slowness, et cetera. I'm always wanting to go quicker than what it usually takes before it picks up, but I do expect then that shipments will continue to pick up, especially during the second half of this year. I'm very pleased with the development. It's actually been less problems than I was anticipating.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Hello, Magnus here. On the outsourcing then and the traction on the marketplace, I think it's, again, our customer <mark type="indiscernible" /> (34:29) contracts this quarter. We did the same in Q1 last year. About half of it is renewal, and half of it is new contracts. So I would say that we are pacing basically on the same level as we did a year back.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Excuse me, Edward Snyder from Charter Equity Research is now on line with a question.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yeah. One clarification, and a question if I could. On the U.S. market, which was up, do you &#x2013; clearly after the merger was declined, in T-Mobile and AT&amp;T, that held off on spending, have you seen that snap back, and do you feel like that's all back into your order patterns now, or will that continue? In other words, are we going to see a continued growth just on the snap-back from the lack of spending in previous quarters? And then on the debt crisis in Europe, which seems to be becoming acute again at summertime &#x2013; so we go through this every summer &#x2013; you've pointed out that most of the countries that are particularly slow are the ones that are suffering the most from the sovereign debt crisis. If that spreads, we can certainly expect Ericsson to see a slowdown in orders for the &#x2013; what would now tend to be the strong countries like France? Or are you anticipating that they've got a longer tail to their order patterns and you shouldn't see as much of effect there? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Starting with the U.S. market, I mean, you were mentioning a few number operators there. For certain reasons, I cannot comment on their plans, what they're doing. So &#x2013; but, again, if you look back to what I said before, we had a slower pace in the second half of 2011 because of the mergers planned in the market, and of course as they &#x2013; and then that <mark type="ph" /> constrains; that would (36:46) happen for any merger in any place in the world. That &#x2013; of course after, when that merger will not happen, we are seeing then that <mark type="ph" /> operation lessening. (36:55) Not confirming if it's back on normal track or something, but it's just normal that during a period of all the merger discussions, then you look into your assets, and it's a little bit slower investments. So I would refer to those operators or talk to them straightaway, than rather to asking us about it.</p>
+          <p>About the macro economy, again, of course the nature of some of the business in Europe is quite long. We're doing long projects that are sort of contracted and are doing transformation, and even though it might be macroeconomic uncertainty, they are in the midst of those transformations, especially European modernization. And usually, not saying that we know, but usually those type of capital investments you want to do, you want to execute on even though you would have a little bit harder around you, because making a stop in the middle of a transformation is quite complicated. But, again, that's usually what we're seeing. But, again, what I said at the conference call, I'm saying right now as well, is that when it comes to the macroeconomic outlook and how it impacts us, it hasn't deteriorated in the first quarter. It's the same as we said in the fourth quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Gareth Jenkins from UBS is now on line with a question.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thanks, a couple if I could. Firstly, I just wonder whether you could talk about competition and pricing dynamics in the industry. It feels like it's relatively benign, and <mark type="ph" /> I just thought there were (38:31) modernization issues that are hampering margins. But I wonder if you'd talk to that. And then just secondly, one for Jan maybe, just wonder if you could talk to the inventory. And specifically on the call this morning, you mentioned it's project inventory. By that, do we mean that there are some TRXs that you're holding on hand for delivery in Q2 and maybe Q3 that could come in at higher margin? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>
+            <mark type="indiscernible" /> (39:01) I can just try to generalize <mark type="indiscernible" /> (39:11) always difficult but in general, we don't see any new trends. The trends that we have had for several years is when there's a new footprint, a new technology rollout, a greenfield, then of course the competition is at highest because then you establish it, and then it will be different, and that would go for a network rollout or a new network. It can go for an outsourcing deal in the beginning, et cetera. So that pattern has not changed on a general level. Then we can probably, <mark type="indiscernible" /> (39:41) because they have different brand names as competition, all of them, and what they're seeing. So I can only do a generalization <mark type="ph" /> on the top. There's no new fab, (39:54) that's what I'm saying.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Okay, Gareth. So on the project inventory then. What I mean by project inventories, of course, it's inventory related to customer projects, and it can then be both product that is sitting for execution in the projects, as well as manpower or anything related to executing the projects. And this obviously then related to the fact that we have more <mark type="ph" /> of coverage (40:29) projects in the mix right now. And if you look historically at our balance sheet, if you take several years back, each time that we have more of these turn-key engagements and so forth, we have a tendency of building these kind of project inventories, and that is also why we focus so much on improving the lead times of the project execution.</p>
+          <p>I mean, we will execute in accordance with the KPIs and building milestones, but it's important for us to really turn this capital faster around. If nothing else, and execute faster. So I would say project inventory, whether the building milestones will be reached in Q2, Q3, and Q4, that depends of course on the project itself, as well as the terms that they have <mark type="indiscernible" /> (41:24) if that helps you with your understanding.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>And could I just follow-up on that, Jan? Where you're providing services and base stations and sort of turn-key projects, do you recognize the revenue when the base station lights up effectively and goes on air? Or do you recognize it on delivery at the customer site? I'm just looking at customers like Sprint that have announced that they haven't lit up all of the base stations yet that they've sited. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>I mean, when it comes to revenue, we recognize the revenue in accordance with IFRS, which means that when the obligation in the contract has been fulfilled by us, and in most cases this is equal to the payment terms in the contract, right? So &#x2013; and that's also why, obviously, it's important to get the contracts to really, from a billing milestone point of view, match IFRS as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Richard Kramer from Arete Research is now on with questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Hi. A couple questions, please. Hans, the U.S. is remaining really a critical market for Ericsson. But with some management changes at some of the larger carriers and some movement in the markets, is there a risk longer term over the next two, three, four years that Ericsson's very high share at nearly all the leading carriers will be brought down just because they feel the need to introduce other vendors? And a question for Jan. Can you shed some light on why in the statement you said the licensing revenues have been stable year on year, when we're seeing really a sharp growth in 3G devices? Some competitors are seeing very nice upticks in licensing in common. Can you tell us whether there was any income from the ZTE settlement that made its way into these results? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>On the North American situation, we are, of course, being very strong in the North American mobile, as you know. And we have good relations throughout the companies in North America. Of course, there are always changes on different companies. I'm not really sure what changes you're referring to, but anyhow, I think we have a good relationship on all levels on these operators, and we continue to work on that. But, of course, it's a competitive market. But we think we have a very solid relationship and a solid business in North America.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Okay. On the licensing revenue, that was just if I start with reminding ourselves on what the licensing revenue constitutes of. It's really two main buckets. One is the cross-license agreements that we have with our infrastructure competitors. Secondly, it is the licensing revenue related then to different type of end user devices, like mobile phones or tablets and so forth. And from time to time, we also have some one-time revenues if we decide, for instance, to sell a certain part of the patent portfolio. We had one of those events in Q1 of last year, as we also disclosed then.</p>
+          <p>On the question on ZTE, yes, we have some revenue on ZTE in the numbers. So that is correct. But it's more of the ongoing nature, nothing dramatic on that. But I think also when it comes to then, over time, if you look more long term, there will be those two main elements impacting revenue, both in terms of the cross-license agreements, as well as more the long-term uptake on different phones. Then exactly when we reconcile the contracts and take revenues and so forth, that obviously differs contract by contract.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay. Thanks, guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Aleksander Peterc from Exane BNP is now on line with a question.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Hi, thanks for taking my question. I was just wondering if you could give us a little color on the gross margin mechanics throughout the year. Simply, would it be correct to assume that your progressive roll-up of modernization deals should have a positive impact in the second half and that that should be amplified at the EBIT level by restructuring efforts that you have put through. Am I missing here some of the negative mechanics? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>So thank you for the question. I think &#x2013; so on the dynamics of the gross margin, it's really on the slide that I have in the presentation. It is the business mix, it is the modernization projects, and it is the Services share. So, obviously, for instance, if the Services business continues its good momentum, that has an impact on the overall gross margin. If we look at the modernization project from a modeling point of view, if all projects were started in Q4, we had the full impact of the projects in Q4, the same amount of projects as in Q1, and the average duration of the projects is in 18 to 24 months. Of course, a project then that, for instance, was started in late Q1 of last year, if it has 18 months of duration, then that project comes to an end, then, by end of Q2, for instance, of this year, right? So &#x2013; but I think from a modeling point of view, I will recommend to model that we have this modernization impact throughout this year.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Matthew Hoffman from Cowen &amp; Company is now on line with a question.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>All right. Thank you, Hans. The divestiture of the ST-Ericsson app processor business and an overall restructuring there seemed to have improved the situation of the JV. However, the business does appear to have drawn down most of its $1.1 billion credit line at this point. So two questions. First, do you think you can be profitable as a stand-alone business again with this new strategy and ultimately repay the parents with this new look? Or could the debt ultimately be converted into equity with one of the parents taking a majority ownership stake? That's it. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you very much. No, with this new plan, we believe that we can get profitability on our loans back. That's of course why we have done this restructuring and of course trying to also reduce the need for funding by having the focus on modems and MobApps. So that's the best sort of information we have right now on the business case that we have for this. So we don't see that we shouldn't be able to succeed with this. However, we need to say it's going to take some time. We are in a transition, and it will hurt for some more time here, but we are doing everything we can to convert these as soon as possible.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Did you and the other parent, ST, actually ever consider spinning out the modem business, or is it still too strategic to let it go?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think we're very much focused right now on the business that we have, and that's the modem business, and doing the transaction and moving the processors. And I think that's &#x2013; we are committed, and we &#x2013; this new strategy, focusing on modems and MobApps is a good and sustainable strategy.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>I also &#x2013; hi. I think it's extremely important for you to understand that this is &#x2013; the thin modem business, also being part of the MobApps and so forth, is really important for a JV performance. And &#x2013; I mean, to start any other discussion in the middle of a very, very important execution would not at all be &#x2013; so I think that now it is important to focus on executing the modems. Ericsson is extremely committed to the modem business and MobApps business. We think it's strategically important. And this organization needs to continue to focus on delivering the modems. And so I've read several analyst reports and rumors and so forth. So, again, from Hans and myself, the modem business, we think, is extremely valuable, and the organization should focus on executing the modem strategy.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Excuse me. Mark Sue from RBC Capital Markets is now on line with a question.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Hi. Thank you. If we look at the business model for wireless operators, it seems to be changing, and selling data is actually becoming quite lucrative. Subsequently, do you think that this is the start of a change in how network operators look at their wireless infrastructure as an asset? And can that change the outlook for Ericsson over the longer term? And also, recognizing that you'll continue your network modernization projects at least for this year, should we think of that as just kind of a normal course of business over the longer term just going forward, or is there actually some end to that in the future?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>So let me start with the network modernization. I mean &#x2013; so, again, we took a strategic decision in 2010 to try to gain some market share in the transition from the legacy 2G and 3G technology to multi-standard radio, and we have been successful in that. We have been very transparent with that this has an impact short term on the P&amp;L. We have also been very clear that this is an investment for us in footprint, and we are a management committed to improving the earnings out of that footprint in a good way. So we don't see this as a structural decline in the gross margin, if that was your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>May I just ask you to repeat the first question? You cracked up a little bit in the beginning, so I missed it. So if you might repeat that one.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Sure, Hans. I mean, the &#x2013; selling wireless data is actually becoming quite lucrative for the operators because of tiered pricing and everything. Does that actually change the way they kind of look at wireless infrastructure as an asset? And does that actually change the outlook for the industry going forward and Ericsson in particular?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think you're on to something that's very important. I think if I look at the trends in the industry &#x2013; and just generalizing on a very high level, so don't take it against someone. But two, two and a half years ago, we had more discussion if mobile broadband and mobile data is a good business case to doing investment in it. The last 12 months, the discussion is clear that's the biggest growth engine for operators all around the world today, mobile data. And that's why we have seen a lot more of customer segmentation or that's based on quality of service, based on tiered pricing, different buckets, different groups. And I think that we're only seeing the beginning of that, and that is also why we have said it's so important invest in our radio technology, our edge routing technology, because you need to have that technology to be able to do tiered pricing, and finally you need the OSS/BSS.</p>
+          <p>So, yes, that is, I think, one important indicator if operators will succeed to monetize mobile broadband in all the segments. That will mean that the capacity will go up, and the producers will have different needs. That's something that long term that is an important indicator for us to follow. If that succeeds, our customers will be more successful. If they are more successful, of course, it's a bigger chance that we can succeed as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Okay. Thank you. Good luck, gentlemen.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Andrew Gardiner from Barclays is now on line with a question.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Good afternoon. Thank you. I just had a question about something you mentioned, Jan, in terms of gross margin. You spoke of how gross margin normally is at its lowest in the fourth quarter, and certainly we saw it improve in the first. Why wouldn't normal seasonality prevail as we move through this year? Or perhaps put another way, it seems as though everything you've mentioned in terms of business mix, regional mix, technology mix would perhaps point to gross margin pressure relative to what you've seen in the first quarter. So what could cause this to be differing?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>What I said was that typically if we look a couple of years back, the fourth quarter gross margin is the low point of the year. And let's see if we manage to change that trend this year, but I think that if you look back, that's really the seasonality impact we have in terms of gross margin.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>But in terms of what you saw in the first quarter, would you say seasonality was more of a factor in the first quarter than any of the other items you may have mentioned in terms of the mix shift between Networks and Services and perhaps the mix shift within Networks in the quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>So what I said and I've said all the time that typically the fourth quarter gross margin that we have in the company is the low point for gross margin, and then if you look at the gross margin in the first quarter that we report today, it indicates that obviously the gross margin has improved with 3 percentage points. So again, the fourth quarter is typically the low point from gross margin. The rest of the modeling and dynamics is what we have explained. It depends on the business mix. It depends on the pace of the modernization projects and the Services share.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Operator, we have time now for one final question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Odon de Laporte from Cheuvreux is now on line with a question. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Yes. Good afternoon, gentlemen. I have a follow-up question about your business mix. So I understand that of course you in your business mix you have more coverage than capacity projects, but you also say that you experienced mobile broadband capacity investments. So I was wondering if you can provide more color. What is exactly this mobile broadband capacity investment?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Mobile broadband capacity investment is when you do <mark type="ph" /> the ceilings (56:58) to the installed base by means of hardware expansions or software expansions. So that's what it is. And as we have described before, our business has a lower margin when you're in the coverage phase because of the nature of more hardware being deployed and more type of <mark type="ph" /> network-allowed (57:25) services and so forth. When you go into the capacity, which then could be hardware infill to the base station, software expansion, but also more <mark type="indiscernible" /> (57:36). All of those elements are higher margin. In this quarter, we had some elements of mobile broadband capacity investments, which we <mark type="ph" /> highlighted in the report. (57:47)</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Do you expect this to continue more or less in coming quarters?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Well, now we report the first quarter today, and what we have explained here in the report is what we would like you to model, and that is that the business mix that we currently have will prevail short term, and the modernization project has an average duration of 18 to 24 months.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you very much, all of you. This concludes today's call. So thank you, and have a good day.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, ladies and gentlemen. This concludes today's conference. Thank you for participating. You may now disconnect.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

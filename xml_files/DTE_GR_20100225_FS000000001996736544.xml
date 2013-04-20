@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1271772" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q4 2009 Earnings Call</title>
+    <date>2010-02-25</date>
+    <companies>
+      <company>683</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Company Representative</participant>
+      <participant id="2" type="corprep">Ren&#xE9; Obermann, Chief Executive Officer</participant>
+      <participant id="3" type="corprep">Timotheus H&#xF6;ttges, Chief Financial Officer</participant>
+      <participant id="4" type="analyst">Simon Weedon</participant>
+      <participant id="5" type="analyst">Ulrich Rathe</participant>
+      <participant id="6" type="analyst">Mathieu Robilliard</participant>
+      <participant id="7" type="analyst">Peter Nielsen</participant>
+      <participant id="8" type="analyst">Nick Delfas</participant>
+      <participant id="9" type="analyst">Lawrence Sugarman</participant>
+      <participant id="10" type="analyst">Justin Funnell</participant>
+      <participant id="11" type="analyst">Hugh McCaffrey</participant>
+      <participant id="12" type="analyst">Robin Bienenstock</participant>
+      <participant id="13" type="analyst">Andrew Beale</participant>
+      <participant id="14" type="analyst">Jacque de Greling</participant>
+      <participant id="15" type="analyst">Joeri Sels</participant>
+      <participant id="16" type="analyst">Paul Marsch</participant>
+      <participant id="17" type="analyst">Laura Janssens</participant>
+      <participant id="18" type="analyst">Tarkan Cinar</participant>
+      <participant id="19" type="analyst">Emmet Kelly</participant>
+      <participant id="20" type="analyst">Morton Singleton</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good afternoon and welcome to Deutsche Telekom's Conference Call. On our customer's request, this conference will be recorded.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Disclaimer. This presentation contains forward-looking statements that reflect the current views of Deutsche Telekom management with respect to future events. These forward-looking statements include statements with regard to the expected development of revenue, earnings, profits from operations, depreciation and amortization, cash flows, and personnel-related measures. You should consider them with caution.</p>
+          <p>Such statements are subject to risks and uncertainties, most of which are difficult to predict and are generally beyond Deutsche Telekom's control, including those described in the sections "Forward-Looking Statements" and "Risk Factors" of the Deutsche Telekom's "Annual Report" on Form 20-F filed with the U.S. Securities and Exchange Commission.</p>
+          <p>Among the factors that might influence our ability to achieve our objectives are the progress of our workforce reduction initiative and other cost-saving measures, and the impact of other significant strategic, labor or business initiatives, including acquisitions, dispositions and business combinations, and our network upgrade and expansion initiatives.</p>
+          <p>In addition, stronger-than-expected competition, technological change, legal proceedings and regulatory developments, among other factors, may have a material adverse effect on our costs and revenue development.</p>
+          <p>Further, the economic downturn in our markets and changes in interest and currency exchange rates may also have an impact on our business development and the availability of financing on favorable conditions.</p>
+          <p>Changes to our expectations concerning future cash flows may lead to impairment write-downs of assets carried at historical cost, which may materially affect our results at the Group and operating segment levels.</p>
+          <p>If these or other risks and uncertainties materialize or if the assumptions underlying any of these statements prove incorrect, our actual performance may materially differ from the performance expressed or implied by forward-looking statements.</p>
+          <p>We can offer no assurance that our estimates or expectations will be achieved. We do not assume any obligation to update forward-looking statements, to take new information or future events into account, or otherwise.</p>
+          <p>In addition to figures prepared in accordance with IFRS, Deutsche Telekom also presents non-GAAP financial performance measures, including, among others, EBITDA, EBITDA margin, adjusted EBITDA, adjusted EBITDA margin, adjusted EBIT, adjusted net income, free cash flow, gross debt and net debt.</p>
+          <p>These non-GAAP measures should be considered in addition to, but not as a substitute for, the information prepared in accordance with IFRS. Non-GAAP financial performance measures are not subject to IFRS or any other generally accepted accounting principles. Other companies may define these terms in different ways.</p>
+          <p>For further information relevant to the interpretation of these terms, please refer to the chapter "Reconciliation of Pro Forma Figures," which is posted on Deutsche Telekom's Investor Relations webpage, at www.telekom.com.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Good afternoon, ladies and gentlemen. Good morning to the U.S. Welcome to the Deutsche Telekom Q4 and Full Year '09 Conference Call. We will start, as usual, by a presentation by our CEO, Ren&#xE9; Obermann, and our CFO, Tim H&#xF6;ttges, followed by a Q&amp;A session.</p>
+          <p>With that, let me please hand over to our CEO, Ren&#xE9; Obermann.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Good afternoon or good morning to our listeners from the U.S. We are pleased with our full year 2009 results, which we achieved despite the economic crisis and a significant negative impact from currency and regulation.</p>
+          <p>We achieved our revised targets for the year, namely &#x20AC;20.7 billion of adjusted EBITDA and 7 billion of free cash flow. We also achieved an adjusted net income of &#x20AC;3.4 billion, which was almost stable compared to 2008.</p>
+          <p>We delivered on our free cash flow guidance, despite significant investments into our operations. Full year cash CapEx amounted to &#x20AC;9.2 billion. In the fourth quarter, we had a solid operational development with revenue growth of 0.6% and adjusted EBITDA growth of 8.6%. With the joint venture in the U.K., we also made good strategic progress.</p>
+          <p>In terms of our strategy, focus, fix and grow, we made good progress in 2009. We improved competitiveness in Germany and Central Europe, improved the adjusted EBITDA margin in the Germany segment consisting of fixed and mobile from 37 to 37.7% in 2009, and in the fourth quarter we even achieved absolute adjusted EBITDA growth in Germany.</p>
+          <p>Mobilize the Internet was the second spot. In 2009, for the first time, data revenues exceeded &#x20AC;1 billion per quarter. In grow abroad with mobile, we had a strong margin performance in European mobile in the last three quarters.</p>
+          <p>And the last building block was build network-centric ICT. That was the turnaround for T-Systems Solution. It continued in 2009 with a good margin improvement, a relatively good performance in the difficult ICT environment, and significant big deals being won. However, Systems Solution has further to go in terms of efficiency improvements with the EBIT margins still significantly below industry average.</p>
+          <p>With our Save 4 Service cost-cutting program, we achieved total gross savings of &#x20AC;5.9 billion in 2007 to 2009. This compares to the original target of 4.2 to &#x20AC;4.7 billion by 2010. Net savings in fixed-line Germany amounted to &#x20AC;2.5 billion.</p>
+          <p>In terms of shareholder remuneration, I am pleased to announce that for 2009 the Supervisory Board and the Management Board propose an unchanged dividend of &#x20AC;0.78 a share. This is based in particular on our strong free cash flow generation. As last year, this dividend will be paid free of German withholding tax.</p>
+          <p>Turning to our expectations for 2010 and beyond, there are four key messages myself and Tim would like to convey to you, our shareholders. First, we have managed the crisis well. We are already fully financed for 2010 and we have reduced our net debt in the last six months by more than &#x20AC;4 billion, thereby entirely compensating the additional net debt from the OTE acquisition.</p>
+          <p>Second, we have a realistic outlook for our business, which is neither conservative nor overly optimistic. Growth prospects are limited, but there are pockets of growth, which we want to exploit.</p>
+          <p>Third, we believe in the future of our business and the organic cash generation capability of DT. This last point, cash generation capability allows us to further invest into the future of our business and at the same time provide you, our shareholders, with a three-year shareholder remuneration commitment. That is a paradigm shift at Deutsche Telekom. We have restructured our business, we have refocused it and we have repositioned particularly our domestic fixed-line operation and our Systems Solution business.</p>
+          <p>We have taken more costs out of our domestic business over the last three years than any other European incumbent. We are managing our portfolio more actively and value-oriented than in the past. A good example is the joint venture in the UK. And as you can see, we are acting more shareholder value-oriented than in the past, which is why we are introducing a three-year shareholder remuneration policy. And we'll be actively using share buybacks as an instrument of capital allocation and shareholder remuneration.</p>
+          <p>Turing to the guidance for 2010. We expect an adjusted EBITDA for the Group of around &#x20AC;20 billion and a free cash flow of around &#x20AC;6.2 billion. The free cash flow guidance assumes slightly higher cash CapEx than in 2009. This realistic outlook is based on the difficult economic environment we are still facing in our markets.</p>
+          <p>Please note that our guidance includes T-Mobile UK for the full year 2009, as we don't know yet the exact timing of the closing of the deal. The guidance assumes constant currencies on the basis of the average exchange rates in 2009 and no further economic deterioration. Also, there will be no major M&amp;A.</p>
+          <p>Operationally, we plan to invest more in broadband access both in fixed and in mobile, in particular in Germany in 2010. Also our investment focus will be on new service initiatives such as content management platforms, content distribution especially for SMEs, cloud services and further execution on efficiency improvements such as automation and a unified CRM platform for fixed and mobile in Germany.</p>
+          <p>Today, we are pleased to announce Phase II of Save 4 Service. With this phase, we expect to achieve gross savings of around &#x20AC;4.2 billion in 2010 to 2012 for the Group with net savings of &#x20AC;1.8 billion in the Germany and SEE segments. We will have more details on this later in the presentation and are also &#x2013; and also provide more details at our upcoming Investor Day on March 17 and 18.</p>
+          <p>Finally, today we're also very pleased to be able to announce a new shareholder remuneration policy, which is backed by the Supervisory Board. For the next three years, 2010 to 2012, we're committed to an unchanged shareholder remuneration for Deutsche Telekom shareholders of &#x20AC;3.4 billion per year with a minimum annual dividend of &#x20AC;0.70 per share and the rest via share buybacks.</p>
+          <p>With this new policy, we're the first Dutch company with an explicit three-year dividend guidance per share, plus additional share buyback policy. That is a new policy and it's a clear signal of the confidence of Management and Supervisory Board in the medium term outlook for Deutsche Telekom.</p>
+          <p>Before turning to the revenue of our Q4 operations, let me say a few words on the economic environment in 2009 and its impact on Deutsche Telekom. I'm not telling you a secret that 2009 was extremely difficult in terms of the economy. With our operations in Europe, especially Eastern Europe and the United States, we were heavily exposed to the economic crisis.</p>
+          <p>We were fortunate that private consumption was relatively resilient in our home market in Germany. However, we were not so lucky in our other markets especially in Eastern Europe, where private consumption shrunk by almost 4% in 2009.</p>
+          <p>In Mobile in particular, we saw a clear impact from the economy with visitor revenues for Europe down by 25% and net roaming revenues down by more than 28%.</p>
+          <p>The dire state of the economy in Southern and Eastern Europe has led a number of countries to introduce new taxes which had a negative impact on profit after taxes of more than &#x20AC;0.1 billion in 2009.</p>
+          <p>In addition to the economy, we have seen a negative regulatory impact in many of our European markets in 2009. We also faced a significant currency headwind in 2009 with most relevant currencies depreciating against the euro, compared to 2008 we lost overall &#x20AC;0.1 billion of EBITA by our currency translation.</p>
+          <p>When it comes to the economic outlook for 2010, there are quite some uncertainties around this. While some early cyclical indicators like the Baltic Dry Index, show some sign of improvement, this is not necessarily the case for the latest cyclical indicators. We have also witnessed huge volatility around the economic prognosis. While GDP is expected to grow slightly again in our main markets, the recovery is expected to be fairly anemic with the possible exception of the US. However, even in the US, private consumption is expected to significantly lag the expected GDP development. Tuesday's significant decline in the US Consumer Confidence Index is another reminder of how volatile the US recovery still is.</p>
+          <p>Also employment is expected to remain high or even increase in 2010, in our markets, which is further impacting consumer spending. This demonstrates clearly that there is an on-going necessity for cost reductions. Down the line, additional risks may arise from inflation, and further tax introductions induced by high public debts and further bankruptcies. At the same time, we do not see a negative impact this year from the interest rate and currently, we have some tailwind from the currency side.</p>
+          <p>So all-in-all, we will continue to operate with a difficult economic background. Let me now turn it over to Tim for a review of the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thank you, Ren&#xE9;. Good afternoon, ladies and gentlemen. On balance, we are pleased with our fourth quarter results. We achieved our guidance despite an considerable currency headwind. In Q4 alone, currency had a negative impact of &#x20AC;0.6 billion on revenues and 0.2 billion on adjusted EBITDA.</p>
+          <p>Nevertheless, we achieved a Group revenue growth of 0.6% and a remarkable adjusted EBITDA growth of 8.6% in the fourth quarter. As a result, the margin improved from 29% in Q4 2008 to 31.2% in Q4 2009. Adjusted net income also grew nicely, by more than 5%. And free cash flow, once again, grew very strongly by almost 50% to &#x20AC;1.9 billion in the fourth quarter.</p>
+          <p>We are very pleased with our German results. Despite a revenue decrease of 3.1%, we achieved a 3.1% growth in adjusted EBITDA, to more than &#x20AC;2.3 billion. We achieved this strong result with a good operational performance and a strong net cost reduction of &#x20AC;947 million in 2009.</p>
+          <p>Sources for the net cost reduction were less third-party contracts especially with regard to call centers' rental, maintenance and energy costs, personnel reduction and lower IT costs.</p>
+          <p>Our strong track record is demonstrated by the adjusted EBITDA margin development over the last three years. The margin increased from 35.3% in 2007 to 37.7% in 2009. In German fixed-line revenues declined by more than 6% year-on-year, but were sequentially stable around &#x20AC;4.7 billion. Reasons for the year-on-year revenue decline were a one-time effect due to a revenue credit for fixed network support services performed in previous years, a decline in terminal equipment revenues due to the successful launch of our terminal equipment rental model. And a slowdown in IP Internet revenues, driven by the fact that we proactively changed the pricing of many Double Play customers to the regional pricing of &#x20AC;35 per month.</p>
+          <p>While this had a short-term negative impact on revenues, we expect this to have a positive impact on future churn rates. Thanks to excellent cost discipline, adjusted EBITDA declined by only 3.1%, half the rate of decline of revenues.</p>
+          <p>For the year as a whole, adjusted EBITDA declined by only 2.4%. Since 2007, we've improved the adjusted EBITDA margin continuously from 31.2% to 32.4% in 2008 and to 33.3% in 2009.</p>
+          <p>This excellent result was achieved by a good operational performance and significant cost savings. Adjusted OpEx of fixed network were reduced by &#x20AC;0.9 billion in 2009 with the cost base reduced to &#x20AC;13 billion. The net head count reduction amounted to approximately 4.4 or minus 5.5%. In German Broadband, we successfully defended our market share of 46%. Our net add market share was back to normal with 43% in Q4.</p>
+          <p>For the year, we achieved our guidance of a net add market share of more than 45%. This good result also reflects a successful launch of our Triple Play offerings. We over achieved our target of more than 1 million Entertain customers by year-end. The success of our Double and Triple Play offerings is helping us to reduce line losses. Line losses in 2009 were down approximately 17% compared to 2008, slightly better than predicted.</p>
+          <p>In the fourth quarter the reduction was even stronger with minus 38% to 417,000. Double and Triple Play customers together now account for 44% of our lines, up from 37% a year ago.</p>
+          <p>We continue to be very excited about our German Mobile results. Service revenues returned to growth with a growth rate of 0.2% year-on-year in the fourth quarter. This compares very favorably to both Vodafone and E-Plus, further expanding our service revenue market share leadership over Vodafone to almost two percentage points.</p>
+          <p>Data revenues were up a very strong 46% to &#x20AC;947 million in 2009. This reflects in particular the continued success of the iPhone. Since market launch, we have dispatched 1.5 million iPhones in Germany, of which 1 million in 2009 alone. In Q4, smartphones accounted for 53% of handsets sold to new contract customers compared to 34% in Q4 2008.</p>
+          <p>Minutes of use by contract customers was also up strongly by 6.2% in 2009 with total contract minutes of use growing by 9.3%. Contract net adds amounted to 62,000 in Q4 and 194,000 in 2009. Non Voice is now contributing 26% of service revenues, up four percentage points year-on-year.</p>
+          <p>Even with this very strong sales result, we achieved a significant improvement in adjusted EBITDA, with fourth quarter adjusted EBITDA alone by &#x2013; up by 16% to almost &#x20AC;900 million. Adjusted for the catch-up effect of the booking of the O2 roaming deal in Q4, EBITDA still would have been up by over 8% year over year.</p>
+          <p>Turning now to the U.S. We are still far from being pleased with the progress although there were some green shoots in Q4. Service revenues declined by 3.5%, ARPU was supported by data ARPU growth to $10.20. After a negative quarter, we returned to net add growth of 371,000 in the fourth quarter. However, this improvement was predominantly driven by Prepaid.</p>
+          <p>In terms of contract customers, we only achieved a slight improvement to minus 117,000 net adds, following minus 140,000 in Q3. However, this very modest improvement hides a more significant improvement in the development of core postpaid customers, which was offset by significant reduction in the net adds of machine-to-machine customers, which are also included in our contract customer numbers.</p>
+          <p>In fact, core postpaid gross adds improved by 17% from Q3 to Q4. However, the improved contract cost adds had a price in terms of increased customer acquisition cost. We also spent more on advertising in connection with the launch of the new tariffs and the holiday season.</p>
+          <p>Accordingly, adjusted EBITDA decreased to just below $1.4 billion or a margin of 25.6% compared to 27.8% in Q4 2008.</p>
+          <p>In terms of our roadmap to further improve our competitive position, the U.S. team demonstrated good execution. With the population coverage of 205 million POPs, we over-achieved our 3G population coverage target of 200.</p>
+          <p>Q4 also saw a nice sequential acceleration in smartphone sales. 3G-enabled converged devices on air, amounted to 3.9 million at the end of Q4. This demonstrates the success of our new handset lineup, with devices such as the Motorola CLIQ and the T-Mobile myTouch 3G.</p>
+          <p>In terms of distribution, we ended the year with 2,051 owned shops and more than 7,500 national retail stores, including RadioShack. This means that we extended our total presence in terms of own stores at national retail by 80% in 2009.</p>
+          <p>We're pleased with the success of our new Even More and Even More Plus rate plans, which contributed toward a significant sequential increase in core postpaid gross adds, as already mentioned.</p>
+          <p>Even after the recent price cuts by Verizon and AT&amp;T, our rate plans remain very competitive. For example, Even More Plus unlimited talk, text and web with a smartphone is $80. This compares to $120 per month for comparable price plans at Verizon and AT&amp;T.</p>
+          <p>Turning to the European segments. Results were heavily impacted by currency and regulation. Nevertheless, we achieved a good margin performance in most markets. Let me briefly discuss the developments in the individual markets, but you could see them as well in our presentation.</p>
+          <p>In the U.K. we could not compensate the revenue decrease of 10% in local currency in Q4 with cost reductions. Therefore, the margin decreased to 20% in Q4. However, the U.K. team was able to deliver very strong prepaid net adds of 570,000 in Q4 with its prepay push campaign. Contract net adds were positive with thousands.</p>
+          <p>In the Netherlands, the revenue decline was overcompensated by OpEx optimization resulting in a very strong margin improvement in the Netherlands to 30%. Synergies from the Orange integration are running higher than expected. Data revenues grew by 61%, driven by the iPhone. We are very pleased with the progress in the Netherlands and see it as a clear example of successful intra-market consolidation.</p>
+          <p>While the Austrian market remained difficult, even here we were able to achieve a margin increase driven by good cost management. The margin improved year-on-year to 31%. Without the impact of regulation, revenues would have shown approximately 2% growth.</p>
+          <p>In the Czech Republic, revenues decreased by 9% in local currency, but adjusted EBITDA grew by 0.6%, nevertheless. In Poland, after a challenging start in 2009, PTC is back on track with a margin of 36%, up five percentage points year-on-year. Revenues in local currency decreased by 7% in Q4, driven by regulation.</p>
+          <p>Overall, the margin in the Europe segment, including the UK amounted to 27% in Q4, up two percentage points year-on-year. In this context, let me update you on the UK joint venture. We expect the deal to close in the first half of 2010. Remedies are under discussion with the relevant authorities.</p>
+          <p>We've filed the JV document with the EU on January 11. As you know, the UK office of Fair Trade asked for referral on February 3. I am very pleased to inform you that we expect deal clearance from the European Commission on March 1.</p>
+          <p>In terms of business operations, a strong focus is being kept on the day-to-day business by both T-Mobile UK and Orange. The businesses continue to be managed independently with products, services, distribution strategy and network unchanged. The joint venture management team will be selected by the end of first quarter 2010. We are quite confident of the business case and the net present value of expected synergies of &#xA3;3.5 billion sterling.</p>
+          <p>Following closing of the joint venture, we plan to provide you with an update at a half-day Investor Day, some time between June and September in the UK and with the new management.</p>
+          <p>In the SEE segment, revenues and adjusted EBITDA growth was obviously driven by the consolidation of OTE. Results were negatively impacted by currency with negative impact on revenues of 0.2 billion and an adjusted EBITDA of &#x20AC;0.1 billion. Encouragingly, the margin for SEE remained at the high level of 40% in 2009 and 36% in Q4. Our results across the various markets are a clear example of how market leadership translates into profitability leadership. We achieved these strong margins despite strong operational results. Broadband lines grew by 15% year-on-year to 3.8 million. IPTV customers grew by remarkable 94% to 425,000 with 88,000 net adds in Q4 alone.</p>
+          <p>And Mobile net adds amounted to 2.9 million in 2009. In terms of OTE synergies, we are tracking ahead of target with a run rate of &#x20AC;105 million achieved in 2009. CapEx synergies account for 60% of these synergies, with 37% coming from OpEx. We are also very pleased with the operational performance at <mark type="inaudible" /> which contributed 600 to &#x2013; 600,200 net adds to the Group in Q4, 2009, accounting for all Group net additions outside of Albania.</p>
+          <p>Turning to System Solutions. In 2009 we won several new big deals, which set the basis for future revenues. As expected, the revenue in 2009 was affected by the financial crisis in line with an overall severe market environment.</p>
+          <p>For the full year, external revenues were down by 4.5% due to continued pricing pressure and postponed investment decisions by our customers. In terms of revenues, Q4 was actually the strongest of all quarters in 2009.</p>
+          <p>We also saw strong order entry, up 15.3% compared to Q4 2008. This development was driven by international big deals such as BP UK, Phillips, Eskom/Transnet and SAP Europe.</p>
+          <p>The deals underline Systems Solutions' ability to deliver globally. We're very pleased with the ongoing margin development and turnaround in Systems Solution. Adjusted EBITDA was up 8.2% to &#x20AC;250 million in Q4.</p>
+          <p>Accordingly, the margin improved by 8.9 to 10.5%. We've seen a strong adjusted EBIT improvement over the last six quarters with a further sequential increase in Q4.</p>
+          <p>But the EBIT margin is still significantly below industry average. The adjusted EBIT improvement demonstrates the success of our efficiency program, but additional steps are necessary and are laid out in Phase II of Save 4 Service.</p>
+          <p>In total, Systems Solution contributed &#x20AC;0.6 billion to our Save 4 Service cost cutting program in 2009. Some of the biggest drivers were data center consolidation, near- and offshoring, the reduction of production cost and increase of utilization at Systems Integration. And the optimization of delivery costs and reshaping of local organizations internationally.</p>
+          <p>Coming to the overall numbers, we're very pleased that we were able to achieve our revised free cash flow guidance for 2009 of &#x20AC;7 billion, despite the fact that cash CapEx, interest and taxes all increased compared to 2008. We were able to offset the increase in all these items by the increase in cash generated from our operations.</p>
+          <p>Due primarily to the consolidation of OTE, working capital on balance had a neutral impact on the year-on-year change in free cash flow. In terms of the bottom line, we achieved an almost stable result of &#x20AC;3.4 billion in terms of adjusted net income.</p>
+          <p>In terms of reported net income, earnings in 2009 were heavily impacted by special influences. These include the special write down of the carrying value of our U.K. operation, you remember in first quarter this 2009, expenses associated with personal restructuring and a goodwill write-down in the South and Eastern European market segment in Q4, due to a change in the discount rates, mainly increase.</p>
+          <p>In Q4 2009, especially we therefore had a reported net loss of 3 million, which compares to a reported net loss of &#x20AC;730 million in Q4 2008. Our balance sheet remained very solid. Despite higher net debt due to the OTE consolidation, net debt to adjusted EBITDA remained at two times, unchanged from the end of 2008.</p>
+          <p>Gearing increased slightly to one from 0.9 times. Compared to June, we were able to reduce our net debt by more than &#x20AC;4 billion. With 30.2%, the equity ratio was right in the middle of our comfort zone of 25 to 35. Speaking of comfort zone ratios, we made a slightly change recently. We now aim to maintain a liquidity reserve that covers redemption of the next 25 &#x2013; 24 months compared to 30% of net debt before. All other comfort zone ratios remain unchanged.</p>
+          <p>Let me turn it back to Ren&#xE9; at this point.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks, Tim. I would just like go into the priorities for 2010. There are just seven key points.</p>
+          <p>The first point is that we will have to work hard on improving the US position further economically as well as in the market. Execute on German fixed mobile integration is the second point. That is a process, which is by far not completed yet and we hope to achieve tangible benefits for our customers but also efficiency and service performance. Make the JV in the UK a success, after the approval &#x2013; the execution begins. Defend our market and profitability leadership in SEE, in South Eastern Europe, which is not easy given the strong position we're in and the aggressive competition. But we will work hard to keep our positions stable both in market performance as well as in profitability.</p>
+          <p>Further financial turnaround and improvement of the market position of Systems. The point before last is execute on Save 4 Service, so going to Phase II and have a strong focus on Save 4 Service and the new targets.</p>
+          <p>And the last point is, deliver on our financial targets and new shareholder remuneration. In terms of longer-term strategy, we plan to update you at the Investor Day in Bonn on March 17 and 18, to which I personally invite you.</p>
+          <p>In terms of our first operational priority for 2010, improve the U.S. market position, we continue to focus on network, devices, distribution and pricing. The network side, following the successful trial in Philadelphia, we plan to roll out the HSPA+ technology with a top speed of 21 Mbps to the top 30 markets in 2010 with a population coverage of approximately 185 million.</p>
+          <p>Supporting this rollout, 75% of 3G cell sites will have Ethernet backhaul by year-end, mostly fiber. We also plan to add more than 5,000 additional 3G cell sites, mostly to further increase the density of the existing network, focusing on home and neighborhood coverage to attract churn. The upgrade to HSPA+ provides us with a window of opportunity to go from network laggard to network leader with the fastest 3G network.</p>
+          <p>Devices, in line with the HSPA+ roll out, we plan to introduce the first HSPA+ data stick in the U.S. market in March. HSPA+ capable smartphones are in our device pipeline for the second half of 2010. In the near future, we'll launch further new 3G smartphones, for example, the HTC HD2 and the Motorola CLIQ XT.</p>
+          <p>The HTC HD2 offers the largest touch screen on a smartphone in the U.S. and will come ready with access to millions of ebooks, to millions of movies, television programs and so forth.</p>
+          <p>Distribution, we plan to capitalize on our expanded distribution including RadioShack and particularly want to leverage our increased number of own stores for great sales and service delivery.</p>
+          <p>Pricing, we will capitalize on the tariffs Even More and Even More Plus rates plans, strengthening our position as consumer value player. The family rate plan versions of these plans are also very competitive, supporting our strategic focus on families.</p>
+          <p>Coming to our Group guidance for 2010, as highlighted at the beginning including T-Mobile U.K. for the full year 2010, we expect an adjusted Group EBITDA of around &#x20AC;20 billion and a free cash flow of around 6.2.</p>
+          <p>This guidance reflects the difficult economic realties we're still facing, but also recall that the O2 roaming agreement ended in 2009 so we will no longer benefit from that.</p>
+          <p>Specifically with regard to free cash flow, we expect slightly higher CapEx in 2010, which combined with the lower expected adjusted EBITDA, and it pretty much explains the change from 2009.</p>
+          <p>The guidance assumes constant currencies on the basis of average exchange rates in 2009 and no further economic deterioration. For the U.S. dollar, this means an exchange rate of approximately $139 per euro.</p>
+          <p>At the Investor Day, we plan to provide you with more color regarding the expected developments in the divisions. However, we do not plan to provide divisional guidance in line with our practice of previous years.</p>
+          <p>I'll hand over again to Tim, after having given him a short break on Save 4 Service. Don't worry. It will be another mostly, hope, not more than 20 minutes.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Okay. Then, I take an hour. No, but sorry. I going accelerate a little bit. Before coming to the next phase of Save 4 Service, I'm going to, let's say, briefly update you on the current developments on our program so far.</p>
+          <p>In total, we have achieved &#x20AC;5.9 billion from 2007 to 2009 compared to the original target of 4.2 to &#x20AC;4.7 billion by 2010. More than half of these savings came from the German fixed-line business, with the significant contributions also from T-Systems, T-Mobile, excluding the U.S. and GHS.</p>
+          <p>This significant cost reduction freed up capital to reinvest into strengthening competitiveness and enable growth. For example, our investments into service and quality, T-Shop rollout, Entertain and VDSL in Germany, big deal acquisitions and quality improvements at T-Systems and an improved net add share sales and network development at T-Mobile US.</p>
+          <p>Deducting these reinvestments of &#x20AC;4.6 billion, this left us with consolidated net savings on Group level of &#x20AC;1.3 billion. At German fixed-line alone, the net savings amounted to &#x20AC;2.5 billion. Savings in domestic personal expenses amounted to 1.7 billion, or minus 17%, due to the 20% domestic head count reduction from 2007 to 2009.</p>
+          <p>In 2009 alone, we were able to reduce the cost base by almost &#x20AC;1.8 billion, net of changes in the scope of consolidation, primarily OTE. The impact from currencies and market spend more or less offset each other.</p>
+          <p>Of the 1.8 billion cost reductions, again German fixed-line contributed more than 50%, while Systems Solution contributed one-third of the total cost reduction. Accordingly, on Group level, the adjusted EBITDA margin increased by 0.4 percentage points to 32.</p>
+          <p>Let's turn now to Phase II of Save 4 Service. Targeted gross savings are &#x20AC;4.2 billion from 2010 to 2012, of which 2 billion we expect to realize already this year. This is a continuation of our successful track record. Save 4 Service became a DNA &#x2013; a part of our DNA.</p>
+          <p>As promised, this phase of Save 4 Service has a more global scope, with a stronger focus on international units. Specifically, the U.S., South and Eastern Europe and the European segment are expected to contribute almost 30% of the total savings from 2010 to 2012. Other big contributors remain Germany and Systems Solutions.</p>
+          <p>The program also has a strong focus on net savings, with the biggest contribution coming from Germany where we expect &#x20AC;1.5 billion net savings for the next three years.</p>
+          <p>SEE with 0.3 billion net savings and domestic G&amp;A with 0.4 billion net savings. It goes without saying that we as in the first phase of Save 4 Service are continuously challenging all savings ambitions along the road of implementation. We will provide you with more details on this phase of Save 4 Service and initiatives the measurement behind it all, on our upcoming Investor Days on March 17 and 18 in Bonn.</p>
+          <p>Before closing, let me discuss our new shareholder remuneration policy. Our financial framework is aimed at reconciling the interest of all stakeholders. This means, first, for the Group, 2010 CapEx will be slightly above the 2009 level, as we are maintaining consistent investment for the downturn. Our expectation is to broadly maintain this CapEx level in 2011 and 2012. At the same time, there will be no major mergers and acquisitions.</p>
+          <p>For the employees, it means safe jobs with a perspective. Let me be clear, head count reductions will continue and are an important part of the next phase of Save 4 Service. But any necessary staff restructuring will be done in a social responsible manner. For the bondholders, we want to maintain net debt to adjusted EBITDA in the corridor between two and 2.5 times, also a liquidity reserve that covers redemptions of the next 24 months. For 2010, we're already fully financed. We want to keep the solid balance sheet ratios. And last but definitely not least, we have a now &#x2013; new approach for investors' managers and the Supervisory Board have adopted a new shareholder-oriented dividend policy.</p>
+          <p>In particular we are committed to maintain shareholders remuneration at the current level of &#x20AC;3.4 billion for each of the next three years. Also for investors, we will drive operational performance with a close eye on the development of returns on capital employed in our various businesses. This is a big paradigm shift for Deutsche Telekom. As highlighted at the beginning, the Supervisory Board and the Board of Management will propose for 2009 a dividend of &#x20AC;0.78 per share to the AGM on May 3. This is based on our 2009 results, which saw growth in revenues and adjusted EBITDA, stable free cash flow and an almost stable adjusted net income.</p>
+          <p>As last year, the 2009 dividend will be paid out without withholding tax in Germany. The &#x20AC;0.78 per share dividend compare to adjusted earnings per share of also $0.78 per share in 2009 and &#x20AC;1.60 of free cash flow, maintain shareholder remuneration at the current level of &#x20AC;3.4 billion for each of the next three years.</p>
+          <p>Sorry, I'm missing a part. As highlighted at the beginning &#x2013; sorry, I was &#x2013; with our new shareholder remuneration policy we are the first Dutch company with an explicit 3-year dividend per share, plus additional share buybacks policy.</p>
+          <p>Let's compare our previous shareholder remuneration policy with the new one to see the fundamental paradigm shift we're undertaking. As you recall, we were always committed to an attractive dividend. We also did not rule out share buybacks. Under the new shareholder remuneration policy, we commit. We commit to a total remuneration to our shareholders of &#x20AC;3.4 billion per year for the next three years, 2010 to 2012.</p>
+          <p>We will pay an annual dividend of at least $0.77 per share, while the remainder will come from share buybacks. The share buyback alone could lead to earnings per share and free cash flow per share accretion of 3.3%. The new shareholder remuneration policy substantially closes the gap to our competitors.</p>
+          <p>Thank you, very much for your attention. Ren&#xE9; and I now look forward to your questions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="1">
+        <plist>
+          <p>Thank you very much, Tim. We start now with the Q&amp;A session. And as there are other telcos today in the pipeline, we'll be having a very sharp cut-off. So please restrict yourself to one, maximum two question. We'll be having at maximum 40 minutes' time for the Q&amp;A.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" /> Mr. Simon Weedon from Citi, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Yes, thank you very much. I wondered you would mind elaborating a little on why you didn't set the dividend payout target at $0.78 and that would have left no doubt about the nature of the shareholder remuneration that you had in mind for next few years? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Because currently the forecast for 2010 is a little below this year's level and we thought that a floor of $0.70 is good particularly given the additional opportunity to reduce the number of shares by a share buyback program. So the total remains more or less the same. I guess we have demonstrated to you that we listen to you guys. In numerous discussions, you told us you expect a longer-term commitment on the remuneration. That's what we're doing. We do feel comfortable in providing a stable three-year outlook in total remuneration but there are some uncertainties in the economic development and also in the U.S. business. So we don't feel it's appropriate to provide at this point in time, a prospect of a rising remuneration, or even a remuneration at $0.78, so therefore we've done it this way. We also wanted to include the element of share buyback, because we think it makes sense. Stock seems very low valued.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Rathe from Soci&#xE9;t&#xE9; Gen&#xE9;rale, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Thank you. I was wondering about the regional activity in German fixed, you highlighted that you lowered regionally to &#x20AC;35 in the Double Play. I was just wondering, how do you see that playing out in '010? Is this sort of the precursor for a national round of price cuts or is it sort of a very specific situation and then would that continue in 2010 at the similar level or higher levels? And was just interested on the pricing environment of German fixed. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Look it's one of the means, which we have introduced to compete against the cable guys in specific regions. For us, it's important to be more flexible and regionalize our marketing and sales and propositions, but I don't think it's the precursor for a major massive nation-wide price decrease. I think everybody is under some pressure, I believe you know, to also provide decent returns. And so everybody, as we say, in German, cooks with water. So, no, I don't think it's going to be a major price drop.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Mathieu Robilliard from BNP Paribas, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Good afternoon. I have a question regarding the US. I note that the prepaid net-adds were significantly higher than in the past. Is that just a one-off or does that reflect any change in your priorities in terms of what kind of customer base you are targeting? And second quickly on the free cash flow guidance, you gave us sense of EBITDA and CapEx levels for 2010. Can you tell us if there are any other moving parts, for example, working capital, will you have another sale of receivables included in your guidance? Or do you have lower or higher taxes, things of that nature? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Mathieu, maybe I'll start with the cash flow question. I think the two major working parts in order how to get down from EBITDA to the cash flow is obviously the reduction in EBITDA and then slightly higher cash CapEx. We don't expect relative to this year, a major shift in terms of the other movements. That is taxes, that is interest rates. So it's 0.9 billion of taxes, it's 2.5 billion in the interest rates. And we don't expect any further change in dramatic change in working capital.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>To the first part, prepaid nets higher. The focus remains still on improving the performance in contract, and in core contract in particular. But the Even More Plus plan is really successful and it's also very successful in prepaid. So that, I guess gave us an overall better performance in terms of net adds than in previous periods.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Peter Kurt Nielsen from Cheuvreux, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thank you. Yes, question related to CapEx guidance, in particular the expectations of maintaining CapEx at similar levels in 2010 and 2012. What have you factored in here in terms of fiber rollout in Germany? Is there a potential increase in net CapEx, when once you have better regulatory clarity or is this fully factored in your expectations here now? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>We expect to spend a touch more than 2009. And we would expect gross cash CapEx of approximately 9.3 to &#x20AC;9.4 billion which compares to slightly lower amount in '09. We would expect to see CapEx in the US to come down by around 20%. It's still high. It's still at around 3 billion or so but due to the somewhat lower less 3G network rollout, it's going to come down a bit.</p>
+          <p>On the other hand, we expect CapEx in Germany to increase by approximately 20% driven by preparing ourselves for fiber rollout and also particularly you have to do something in Mobile, because we want to retain the leading position in Mobile. Not only on revenues, which we've successfully done, but also on the network side and we have to do something there to catch up. And also we have further investments into transformational efforts in automation of the business.</p>
+          <p>The other segments are expected to remain broadly unchanged.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Nick Delfas from Morgan Stanley, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Yeah. Thanks very much. First of all, I just wanted to register a bit of an objection against a couple of numbers in the release. On page 35, the free cash flow per share of 1.60, I think I'm right in saying that doesn't subtract anything for majority interests and of course includes the factoring as well. I mean just to be clear, my first question is, does your free cash flow guidance for 2010 include more factoring similar to the 100 million you did in 2009? And secondly, it wasn't very clear on the contract net adds in the USA. How many of those are human net adds or losses as apposed to machine-to-machine you mentioned?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Very good question on the free cash flow development and working capital. We had launched in 2009 a quite successful working capital management program, specially focusing on Germany. We will do that across our entities internationally. But there is no factoring or no other extra programs planned so far. If that would make sense from an interest perspective, from an economic perspective, we might proceed. But it's not you know a plan in the free cash flow guidance yet.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>All right. Let me just see all the composition of the whole thing in terms of net adds. We lost some core customers in Q4 contract. And we gained in comparison to Q &#x2013; sorry, in comparison to Q3 we did a bit better on &#x2013; quite a bit better on core customers and flex pay contract. However, we still lost customers there. We had quite a bit of net adds in terms of prepay as well as MVNO, as well as machine-to-machine, only a few. But as commented is we improved, but still lost net adds customers in core contract. And we had a significantly better customer number by prepay and also by MVNO customers. I think that's the &#x2013; broadly the message here.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Lawrence Sugarman from ING, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Yes, just a quick one the U.S. please. In the U.S. GAAP accounting, the service revenue decline I think comes to around about 5%. But under the European accounting that you've published, it's around about three. Could you just explain what that difference is and what do you think is the underlying trend, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Very good observation. The reason for the difference is the count &#x2013; the counting treatment under IFRS rathers U.S. GAAP. And it's &#x2013; in particular the recognition of sales discounts between service revenues and equipment revenues. U.S. GAAP is following another logic than IFRS. This does not impact the total revenue trends. So it's just on the equipment revenues, not the revenue trend for the business. That is the reason for the difference in this presentation.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Justin Funnell from Credit Suisse, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thank you. I think our general understanding is you got off to a good start in Q4 in the U.S. Your contract adds were positive October-November and then went negative December. I just wonder if you could give us a bit of color. I understand it's looking forward a bit but into January and February, we're hearing the general comment that the U.S. Mobile market is slowing quite fast at the moment. The net adds are drying up a bit. Should we be bracing ourselves for a sort of continuation of the December trend in Q1 as well?</p>
+          <p>Secondly, you mentioned that you have confidence to get the European Commission approval imminently. But infers actually you do expect it to go to the OFT to reference as well, given your deadline. Am I right that you do expect the referral to the Office of Fair Trading, and do you have any preliminary views on what their stance is going to be?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, let me try the first part. Where have you gotten your numbers from? You said that we had October-November was positive and then December was negative. That's not something we have published. At least I don't think we have published something like that. So I can't confirm that, Justin, I'm afraid.</p>
+          <p>And I can't also give you a forecast for the first quarter. Generally, according to our competitors, it has been also affected by a very bad weather &#x2013; very bad weather conditions. But whether or not the Q1 also will look stronger or not, we'll have to wait.</p>
+          <p>Confident of the EU approval. Well, it's because we have negotiated with the smaller network in the U.K. with three potential remedies or concessions. Hence, we believe we have a fair solution now, which should give comfort to all the regulatory approval bodies. And we hope to be able to get it over with in the European &#x2013; on the European level in Phase I.</p>
+          <p>So at this point in time, we are more optimistic that it gets approved within Phase I. Of course, there is no final guarantee, but we are optimistic that it doesn't get referred back to the U.K. But you never know. I mean it depends on the registration process.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Hugh McCaffrey from Goldman Sachs, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Good afternoon, guys. Just on the U.S., do you expect any net savings to be generated in the U.S.? And if not, how much do you intend to invest commercially in 2010?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>The focus this year is really on improving the performance, the market performance and get more momentum in the business. So that's the focus rather than just purely on cost cutting.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>So, Hugh, if we would have the choice in 2010 to improve EBITDA versus improving the operational performance of our business and regaining momentum the market, we would go for the latter. That is crisp and clear.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Ms. Robin Bienenstock from Sanford Bernstein, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Yeah. Thanks very much. Two short questions, please. The first is just a clarification on M&amp;A. I just want to understand whether, when you say no major M&amp;A, you mean no sale of any assets, or whether you just mean no acquisitions?</p>
+          <p>And the second is just a question about ARPU. So you seem to be comparing yourself to VisaW and AT&amp;T in terms of pricing. But I am wondering whether this is the right comp and actually it looks like your ARPU decline got a little bit worse this quarter. So, I'd like to know what you're expecting in terms of your ARPU going forward. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, let me speak on the first point, no major M&amp;A. We just say it to hopefully be able finally to reduce the level of speculation, which is always going on, by saying, we're not expecting any multi-billion kind of acquisition. If at all then we would see smaller our own deal on smaller complementary moves. But you know it's not really in the focus, except for smaller things like Internet based businesses or so, where we've made some successful investments recently. And things like that, which help to change the revenue profile of DT over time, but no major multi-billion acquisitions.</p>
+          <p>When it comes to ARPU, we believe that we're close to or may have really already achieved the bottom in terms of contract ARPU. Growth in data ARPU should mostly compensate any further potential Voice ARPU declines. So there could be some further weakness on the Prepay ARPU side, which would be primarily driven by Voice, due to the proliferation of lower ARPU products. But on the contract side, we believe we have reached the bottom.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Andrew Beale from Arete Research, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>There's a bit of gap between your 6.2 billion of free cash flow guidance and the 3.4 billion of shareholder remuneration that you're promising. Obviously you got some liabilities for spectrum in Germany, perhaps some legal liabilities, toll collect and so on, and obviously minority dividends. But I guess, what you're suggesting implies continued de-leverage on a three-year view. Is that what you're suggesting is the 3.4 billion a sort of absolute commitment to shareholder remuneration or is it possible that you'll actually increase the amount of buyback that you do over time?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>So the first answer is with the 6.2 billion we have lot of headroom for the topics like spectrum, for legal obligations we might see and also for smaller obligations and we could use the headroom as well for de-leveraging the Company further as we did in 2009. Think about it, what we have more or less repaid all the debts which we have inherited from the OTE acquisition already in 2009. We believe, let's say that our leverage position these days is good. BBB+ is the area where we want to be. We do not see let's say need for further leveraging and we do not see further room &#x2013; need for de-leverage. So we feel quite comfortable with that position.</p>
+          <p>If you would ask now for a higher share of the remuneration, honestly, we made a step change. In the German environment, we're the first company with this kind of guidance. We have now 3.4 billion as a commitment to our &#x2013; to the owners of these companies. So therefore, now let's deliver on that program, let's start making our experience with the share buyback program and then coming back to you.</p>
+          <p>The underlying operational performance has to improve or even get stabilized as &#x2013; at the same time and don't forget we're still in a big economic crisis and we've brought that ship through the storm and I think pretty well in the first phase, but we should not getting over-excited now for the second phase of this crisis. And therefore, we're carefully managing it. I think we have a big commitment now out in the market, strong confidence from our Supervisory Board and as well from the Management with regard to the share remuneration. And let's make that first and then talk about the next step.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Jacque de Greling from Natixis Securities, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thank you all. I would like to understand why depreciation in South and Eastern Europe went down sequentially so much. I believe, as much as 30%. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Jacque, I will come back to you on that question. I'll call you right after the conference call. Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Sels from DZ Bank, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Yes. Hello. Good morning, everybody. I have two questions. The first one is that you mentioned that you maybe will increase CapEx in Germany by 20% and alluded that may include some preparations for fiber rollout. Could you be a little bit more specific on that topic, please? What kind of a rollout are you planning? What will be the timeline? And where would &#x2013; were you regionally selective? And in particular, also what could be the costs? I mean, for me, that sounds a little bit more like a multi-billion euro project.</p>
+          <p>The second question is on Toll Collect. Would you please update us as good as possible? I heard these days that total damage including interest payments stands at &#x20AC;7 billion. Is that magnitude roughly correct, and is your exposure 45 or 50% currently? And what is going to happen here in this context? Do you think that a settlement &#x2013; a private settlement has become more likely following the recent court ruling? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>For the network rollout plan, first of all, we are preparing for getting ready to roll out fiber and then to be able to produce and provision services on fiber. As far as the further rollout plan for the next years goes, of course, you can expect us to be regionally selective and see where we have to compete, where we have better or worse competitive position, how to partner with other networks, et cetera. So it's not going to be we just go for it and then spend as much as we can kind of thing. It's going to be selective and targeted, coupled with marketing and sales activities and &#x2013; anyway, but let me go into more, or let us go into more detail when we meet hopefully in mid of March.</p>
+          <p>Toll Collect, we do not agree to the position of the government. We think their requirements or their claims are not justified and therefore it's down to the lawyers to find the right judgment here. We do not agree to what the suggested damages look like. So therefore, I can't give you any number on this topic. We have to wait for the ruling or for the hearing or for the arbitrage or whatever the final settlement regime will be.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Paul Marsch from Berenberg Bank, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Yeah. Thank you. A couple of questions. Firstly, you've been very keen to describe the $0.70 dividend as a minimum dividend. I wonder what the criteria is for you to consider a higher level of dividend going forward. Is it some kind of earnings payout ratio or cash like payout ratio?</p>
+          <p>And secondly, having ruled out M&amp;A, I am wondering what options you might still be able to consider to improve the structural position of T-Mobile in the U.S. Do you see any advantages to an IPO for example?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I don't know whether we've been very keen, at least we just said what we think, which is build the bottom at $0.70, so give you guys clarity on what we intend to pay in terms of dividend over the next couple of years. That's the agreed position between Supervisory Board and Management. For us, that's, Tim described it earlier on, it's a really change in policy. And for us it means a lot because the Company turns more towards investor-friendliness as you hopefully see from that move. And so the $0.70 are considered to be a floor. There are some conditions of course under which we can deliver those $0.70 minimum, but every year for instance has to be decided by Management and Supervisory Board year and year again. And then by the GM, but that's what we expect to be able to deliver. When we consider more, I don't know, we shouldn't talk about it. The $0.70 for today are the minimum and on top of that come share buyback as a tactical means as long as the stock price is so cheaply valued. We consider that as more appropriate. And then let's see how the business goes in 2010 and 2011. We'll do our best to improve our performance, you can be sure.</p>
+          <p>Options to improve structural position of T-Mobile U.S., look our focus is pretty much on the operational performance. And if we continue to improve our network and continue to go from a network laggard to the network leader in speed and access speed, at least where we cover it and then do a good job in marketing and sales and propositions and so forth, we believe we can improve our position in the U.S. business. And that's the most important thing at the moment. I won't comment on any other speculation.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mrs. Laura Janssens from UBS, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Hi, thanks very much. I had two on T-Mobile USA, please. The first is, I think various members of the management team had commented towards the end of last year that they hope to see T-Mobile USA return to growth in 2010. Given the magnitude of the declines that we are seeing in Q4, do you still think it's a realistic aim that T-Mobile USA grows its revenues in 2010? And then secondly, T-Mobile is the only one of the national carriers in the US now to be seeing rising contract churn. Do you think you can reverse that in 2010, or should we expect further increases from here? Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Look we expect to see some better data ARPU growth due to the acceleration in smartphone growth. Earlier last year, we said, we are pushing more 3G capable devices into the market and that's what happened. However, trends are still somewhat difficult as we saw in Q4. And we hope to have the right instruments now at hand to be competitive going forward, but do not expect a quick turnaround in revenue trends, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>And when it comes to the churn rate, Laura, it is quite clear, we are not yet satisfied where our contract churn rate is. It went up from 2.4 to 2.5% in the quarter and it is number one priority to bring down the churn rate, because we have been doing pretty well in the fourth quarter with a core contract cross adds, but we are still facing a significant churn and that is the number priority. We have to turn that around.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Tarkan Cinar from WestLB, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Hello, ladies and gentlemen, and thank you very much for taking my question. Question regards on VDSL, in Germany. You said that some CapEx will be used for VDS expansion &#x2013; for VDSL. Does it mean that you rollout VDSL in more than the current 50 cities or do you just invest into increase or to increase the penetration in households within those 50 cities?</p>
+          <p>And the second question is on your pricing strategy. We currently see that VDSL 50 including IPTV costs as same as KDG's 100 Mbit product. So, can we expect a price decrease in this product? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think you should not only compare the 100 megabit with the 50 megabit or the 25 megabits which are in the market. You know that our Entertain product is coming with much more service than just bandwidth. It's coming with the Entertain platform with the movies, with all the services which we have around it. And therefore we are not just comparing bandwidth. Nevertheless, in the market we're in as well in the regions we're in, we're carefully looking on the 46% market shares we hold. And we look as well to the ambition level we have with regard to Entertain sales this year.</p>
+          <p>And if it's needed that we have to do some promotions around pricings or we might do that. Don't forget that we have no &#x2013; that the set-up box is now based on a rental model. This was helping us heavily already in the fourth quarter. So nobody has to pay for that set-up box any more, which is as well an advantage to the cable operators here in Germany. So therefore, I think we're well positioned with Entertain these days and we have an even more ambition run rate for 2010 and if we're missing something, yes we might react as well on prices, but I believe mainly in regions.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>And Tarkan, on your question with respect to the CapEx in the German domestic fixed-line business, we want to do two things primarily. First of all we want to try further the all IP transmission and transfer, because we &#x2013; that is the prerequisite for further OpEx savings. At the same time, we want to make ourselves fiber ready.</p>
+          <p>We want to aggressively compete with cable. We want to aggressively defend our market share and we want that to reflected also in the first fiber-to-the-home rollout in 2010. It will be albeit a very, very small one. That is embedded in the current CapEx envelope. But we will want to set a clear message when we're ready to compete with cable.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Emmet Kelly from Merrill Lynch, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Yes, good afternoon everyone. Two quick questions, please. Firstly, you've talked a lot about T-Mobile USA and the focus on revenue growth. Just trying to figure out what do you see as the core drivers in improving your revenue growth rate in the States? And like specifically whether you're seeing any benefits from the RadioShack deal that you signed, especially in the contract market. And perhaps whether you can win subscribers off the likes of AT&amp;T, they've got well-documented network congestion issues at the moment. So I am just trying to figure out what the drivers are to getting T-Mo back into positive revenue territory.</p>
+          <p>And just a second question, just very generally on the German fixed-line business. The cable operators have obviously made a lot of noise about their digital upgrades and their move to DOCSIS 3. Just wondering if you have seen a large step up in competition from the cable guys over the last six months or so? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Okay, the core drivers in improving revenue growth is clearly mobile internet services and mobile internet access and therefore, the key to get there is to improve the network performance even further and to have an attractive range of devices. We have already made good progress last year as we announced with more and more 3G devices on the stock &#x2013; on the shelf and that will have to continue. We will introduce a new data stick, USB stick for laptops for the high performance network and then we'll come with &#x2013; in the second half of the year with HSPA+ capable devices. So that's a big driver, plus of course, attractive tariffs to win share and to retain contract customers. Because if we continue to lose contract customers &#x2013; we have improved the performance in Q4 slightly or quite well over the previous quarter but there is still a net loss of contract customers. That has to get stopped eventually and therefore that's another key. And then the RadioShack deal in the course of the year, of course we hope to continue to see more customer net adds and contract net adds also through that great new distribution opportunity.</p>
+          <p>Step-up in competition from cable, actually no, because the &#x2013; in Q4, we had a good market share. I think in the vicinity of 43% if I'm not mistaken, but in net adds and I saw the numbers and I think they were about 100,000 but I'm not sure what their &#x2013; their net adds in detail was, but not much more than ourselves. Even though they have of course, lower churn because they have a much smaller base. So they are a competitor, we take them serious. We will be very focused on &#x2013; to stay competitive, but not yet a major impact.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Jonathan Dann from Barclays Capital, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Good afternoon, guys. This is Osman Khalid for Jonathan Dann. Just two quick questions, the &#x20AC;6.2 billion free cash flow guidance that you have given for 2010, does that have any assumptions for dividend per share from the UK JV? And if so, you know, what assumption are you making in that regard? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>You know the entire planning and guidance is made under the assumption that we &#x2013; the full consolidated T-Mobile UK business is included. So we do not know when and at what time the joint venture might be approved from the authorities. But we did some scenarios and so, at the Investors Days we might give as an update. We might then have got approval and then we will see the impact as well from the JV.</p>
+          <p>And as we always said, and that is I think very important, Jonathan, we always said that the joint venture is free cash flow accretive already in the first year.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" /> Mr. Morton Singleton from Collins Stewart, may we have your last question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Thank you very much, gentlemen. Good afternoon. Two quick questions, if I may. Firstly, on net savings you've highlighted 1.3 billion worth of net savings, but in Germany 2.5 billion, which basically means you got 1.2 of net investments in other parts of the network. Can you just tell us where in particular those investments have gone to materially? I'm assuming it's probably T-Mobile US and maybe at Mobile in Germany. That's the first question.</p>
+          <p>And the second question is just in terms of the brands within the UK. We've heard before the intention to retain both brands in the UK market, whether that might be subject to a review. However, is it now part of the concessions that you've offered to get the joint venture approved that those brands will be retained indefinitely, or is it still the intention that that issue will be subject to review?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>So, on the net savings, Morton, the 2.5 billion net savings in Germany where over the period of the last three years. The 1.3 billion net savings were on the Group level. So basically the difference is, we saved more money in the &#x2013; in Germany and we reinvested it in the markets where we actually needed it, particularly the US. That's the differential.</p>
+          <p>And then with respect to the UK, I think we should be A) wait until the deal closes. First of all regulatory approval, B) deal closing and then we'll be updating you together with our colleagues of France Telecom in somewhere between June and September on the business case, on exactly what we're doing with the brands in the UK. But bear with us, with more &#x2013; with some more patience. I think it's much too early to comment upon that.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'd like to thank you for participating at this conference. The recording of this conference will be available for next seven days, by dialing Germany, 49-69-920-5-3333; I repeat Germany 49-69-920-5-3333. We are looking forward to hear from you again.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

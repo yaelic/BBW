@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1246292" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Interim 2009 Earnings Call</title>
+    <date>2009-07-31</date>
+    <companies>
+      <company>7870</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Jean-Pascal Tricoire, President and Chief Executive Officer</participant>
+      <participant id="2" type="corprep">Emmanuel Babeau, Chief Financial Officer and Member of the Management Board</participant>
+      <participant id="3">Alfred Glaser</participant>
+      <participant id="4">Christel Monot</participant>
+      <participant id="5">Andreas Willi</participant>
+      <participant id="6">Ga&#xEB;l de Bray</participant>
+      <participant id="7">Scott Babka</participant>
+      <participant id="8">Olivier Esnou</participant>
+      <participant id="9">Carina Ho</participant>
+      <participant id="10">Mark Troman</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good morning, ladies and gentlemen and welcome to Schneider Electric 2009 Half Year Results Conference Call. I'd now hand over to Mr. Jean-Pascal Tricoire, Chief Executive Officer. Sir, you have the floor.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Good morning, everybody. We are please to be with you on the edge of the month of July and review with you our first half year result. I sit here with Emmanuel Babeau, Carina Ho and Gr&#xE9;goire Rougnon.</p>
+          <p>I would like today on, I mean slide three to take you through four main topics. First, one come back on overview of Schneider. Most of you know well our company but some of you might not be as acquainted with the company as they should.</p>
+          <p>Second, review the progress of One, the company program that we launched at the beginning of the year after the cycle of the previous company program. Then the finance presentation that will be delivered by Emmanuel, who is new on the block in Schneider and you will see that he has adapted very fast to the company and then share with you the outlook for the rest of the year.</p>
+          <p>So I am moving now in slide five to review or come back on the outlook of Schneider Electric. Remind you that we have chosen a very clear positioning in the chain of energy. We are the global specialists in energy management. What does it mean? We don't generate energy. We are not in power plants. We don't do solar panels, we don't do windmills. We don't manufacture products which consume energy. We don't do appliances. We don't do lifts, machines, conveyors.</p>
+          <p>Our key positioning is to manage energy. We are the global specialists of energy management and we make energy safe, reliable, efficient, productive and green &#x2013; an equation which has very lately totally integrated which is &#x2013; and it is a complicated equation and this is an equation that we want to resolve for our customers. We help our customers to achieve more while using less of our common planet. We help our customers to make the best &#x2013; the best of the energy.</p>
+          <p>I'm moving to slide six. A characteristic of Schneider is to be global. We do 28% of our turnover in North America, 35% in Western Europe, 6 in Eastern Europe, 11% in the rest of the world and 20% in Asia-Pacific. We have a presence in more than 100 countries and we've invested consistently in new economies that's now reached 32% of the sales of the Group.</p>
+          <p>We have also diversified our end-markets. Where we used to be a few years ago a company mainly positioned on buildings and industry, today we do 26% of our turnover in industry with a preferred positioning in energy intensive industry. We do 31% of our turnover in buildings. Remind you that half of it is commercial or tertiary building and half of it is either industrial building on infrastructure or government buildings. 10% in residential, 17% in data centers, we are the largest supplier of energy to data centers which is a very technological and very sensitive application. And finally 16% in energy infrastructure with the key segments of utilities, oil and gas, marine and water waste treatment.</p>
+          <p>Page eight. We are a group continuously committed to innovation. We spend 5% of our turnover in programs of R&amp;D. Some examples of products which are coming on board during the first half and during the Q3 while in the field of plugs and sockets, a green power batteryless and wireless switch based on a universal standard Zigbee technology.</p>
+          <p>For power, we are launching a key range of product called Compact NSX, and this breaker is using its functions of measurement to trip to also measure every parameter of the line, voltage, ampere rating and all the characteristics of the current. In industry we are launching a very simple and very innovative software solution that you can embark on every part of the automation system that can go on the traditional PLC, but more than that on the HMI, on the drive, on other &#x2013; on the motion controller and this enables the OEM, the machine manufacturers, to reduce their time of design from 18 to four months with the clear choice of simplicity over complexity.</p>
+          <p>And in IT Surge protectors which work on energy saving. This is a product which is more adapted to smaller features on residential and it makes it probably more understandable for most of us but we do exactly the same functions at the level of the distribution.</p>
+          <p>We are keeping on developing partnerships on opening our R&amp;D to a larger ecosystem, to a broader world. We have partnerships with IBM, Cisco on their &#x2013; on their energy wise operation with Microsoft and with MIT, with Shanghai University we've got more than 50 partnerships of that sort.</p>
+          <p>We are really committed to operate on open standards. We believe that the customer has a right to choose and therefore we develop on open standard, interoperable standards with our competitors. And finally we lead innovation projects. We've got two examples in France, but we have other example for instance in the U.S. through the Green grid which is leadership of the ecological data centers in U.S.</p>
+          <p>Page nine: remind you one other characteristics of Schneider. We are a socially responsible company. We consider it to be part of our DNA. It's a matter of pride for employees, it's a matter of recognition by our customers and we never regretted that investment in aid of the phase.</p>
+          <p>We've got a foundation that has defined the objective to provide energy access to the 1.6 billion people currently without electricity in the world, with the possible insertion of underprivileged young peoples who have business. We contribute to start up companies which support the reconstruction for the victims of natural disasters. Take the example of Citron last year in China. So we are progressing consistently on this index and we get more recognition of the socially responsible investment indices.</p>
+          <p>Now I'd like to move to the next part of my presentation and review with you the qualitative progress on the main results of the first half in the deployment of the One Schneider program. Well, we introduced the program to you at the end of January. One Schneider is a three-year program which is at work for resilience and to prepare the future. So it has this double &#x2013; this double objective.</p>
+          <p>And when you look &#x2013; and I'm moving to slide 11, when you look at the first results of the program in the first half, I would jump to the bottom of the page, and so while we've &#x2013; thanks to the simplification on globalization part of the program, the One global company part of the program, we've ensured an EBITA margin over the first half of 11.6%, before restructuring cost which makes us well in line with our guidance to maintain 12% of EBITDA before restructuring at the end of the year.</p>
+          <p>And what has been even more striking is a very strong free cash flow generation of &#x20AC;726 million, up 8% versus 2008 H1. For the people I've met during the first half and I met quite a lot of you guys because of the vacancy of the financial position for some months, I had always said that the priority of the first half was cash generation, then EBIT preservation and then volume. I think at the end of the day, we did a very good job on three aspects and I'm happy that we stop by this.</p>
+          <p>Now, I have to tell you that if there is one priority at Schneider today we realize that the economy will remain challenging for the next period to come. I think we have got a great momentum on the great addition inside the company around the launch of One and I want the company to stay absolutely focused on all the progress directions that we have printed inside the company at the beginning of the year around One.</p>
+          <p>The good news is that the program has been massively executed throughout the company and people are really working to the direction, but there is no loss of momentum. The fair side is just a good news that we are in line with the deployment.</p>
+          <p>So if we go a bit into the details. One solution provider: effectively in the first half Solutions grow at 11% above the Group average. One leader in new economies. The new economies after a shaky first quarter had a good second quarter. And the new economies are six points above the mature countries. And they are recovering their role of gross engine of the Group. One global company, the super function cost reduction is far -- is very ahead of plan. Actually, we worked very hard on that part of the plan and we'll keep working on that part of the plan. We have reached in the first half &#x20AC;310 million. I'll come back on that but I remember that we have a target of 1 billion over three years. So clearly, we started strong on that aspect.</p>
+          <p>The productivity resisted to sharp volume fall and is ramping up fast. Tell it in another way, Q1 was very difficult for two reasons &#x2013; we have some hedging and the second thing that there was a sharp decrease of the volumes. Q2 really started to ramp up very strongly and we get more confident for the second half of the year.</p>
+          <p>Now I'll take you through a bit more details, quite quickly. Page 12, solution and services approach reduces impact of market slowdown. Here what we are prompting on is a growing need for energy efficiency which is becoming really real in many geographies. In Europe, certainly in China, really and in the U.S. now with the new administration starting to become far more tangible.</p>
+          <p>Strong demand in services from our customers especially as they are &#x2013; as they layoff until their cars and ask for outside partners to take on more services, deployment of complete solutions for renewables. Around Xantrex that we acquired last year, we are building full solutions and we really start to accumulate success in this sector. So it's a small startup but the powerful startup inside Schneider. And finally we accelerate our solutions capability. We are gearing up EcoStruxure and we've trained 900 people in the first half to the topic of energy efficiency and solutions for energy efficiency.</p>
+          <p>So clearly you see that the solutions are growing 11% better than the average of the Group on their route within those 32% of the sales while they were 28% during the first half of 2008.</p>
+          <p>Moving on to slide 13 and reminding you that EcoStruxure is a major investment of the Group. EcoStruxure is a global system, technological system in which all the functionalities we bring to the customer are integrated with clear benefits, a guaranteed compatibility of different offerings, up to 30% energy efficiency in every application, noticeable CapEx on OpEx reduction. CapEx because things are integrated on the same green wire, are concentrated on the same software. And OpEx reduction because you can on one screen in one system gather all the elements to be monitored. And this is enabled by the right connecting technologies, IP as a common highway, web services on the growing use of wireless technologies.</p>
+          <p>Now we've already put on the market some quick wins, power monitoring integrated with building management system. This is already done. Integration of remote video control within the industrial process software, very useful when you are dealing with scattered sites like water treatment plants like mining and here, the integration of Telco software inside our scanner extremely powerful on consolidation of power monitoring with manufacturing execution system at enterprise level for the reasons of complete energy monitoring in the industry field.</p>
+          <p>Now moving on to slide 14, on the second large transformation of the One Schneider program. Well the new economies held up better than the mature countries. You see that mature economies during the first half were at minus 20%, the new economies at minus 14. Clearly we see a better momentum in China. China is definitely gaining momentum with a great June, with a good May. Africa is a pocket and it's a strong pocket for us of growths and is positive and we've been always strong in Africa in developing &#x2013; keeping on developing in Africa.</p>
+          <p>And Eastern Europe has been certainly hard hit, but we see now some sequential improvement over the past two months. So we've kind of touched the floor in Eastern Europe and we're getting more positive. So, positive signs on that side.</p>
+          <p>Progressive recovery of their structurally higher growth potential, we see the new economies coming back to the status of growth engine for Schneider. And we accelerated our penetration with bulk bolt-on acquisitions, Conzerv in India which is a leader of energy metering and energy efficiency on Indian market, that will help us on the local point of view, but also on the global point of view by giving us access to cost efficient meters by -- to cost efficient meters, sorry.</p>
+          <p>On &#x2013; just look on Microsol, which is a company making slow secured, or cost effective, secured power systems in Brazil and benefiting from its very <mark type="inaudible" /> network of sales. Those two acquisitions complement very nicely to the set up that we have in energy management. We had very specific attention on tenants during the first half, those were shaky times in some of those economies and we made sure we'd be protecting the key elements of our teams.</p>
+          <p>Now moving on to the third part, which is one global and simple company. We did a job that we have never done in the past in this magnitude in Schneider, reducing the support function cost. If you build a comparable base, which would be consistent with our objective, we &#x2013; during the first half, we have cut the support function cost by &#x20AC;310 million, while this compares to a target of three years of &#x20AC;1 billion.</p>
+          <p>Clearly, we've accelerated this cost cutting because the economy was not as good as we thought on the sales we're going down. So we've adjusted to the conditions with a good level of reactivity. Remember, we view that the target savings by the end of 2009 is 600 million structurally and 400 of supplementary adaptations of crisis which we triggered in the March. But again, we go from 300 in the first half which is very good sign for the realization of the plan.</p>
+          <p>What we're going to do is really keep on working on this subject. From the One Schneider program we are resimplifying our organization, this is a project that we call One Organization inside Schneider. We specialize by business. We mutualized the shared services by countries and we globalize all the functions which need to be able</p>
+          <p>Moving to slide 16, give you a bit of more detail view of what we are doing. We are putting together our finance and HR organization around shared services and we are globalizing all the extra functions, tax deal, component, all those are getting global. This is also helping us to drive in the direction of One Schneider on &#x2013; to operate on common systems.</p>
+          <p>Marketing simplification, this is a big potential of savings on efficiency in Schneider. This initiative has started a bit later. We are auditing our forces in every entity. We are globalizing our marketing and we are unifying our web in &#x2013; we have unified our web in more than 85 countries, which makes also our web access to the customer and especially the global customers far more consistent than it was before.</p>
+          <p>Sales force effectiveness, we are keeping on deploying the methodology that we have put into place last year with significant gains of productivity.</p>
+          <p>And finally we have other actions like co-location, reducing the number offices and factories that we have in the group. IT globalization is on the One App and we have now one CIO who has all the IT forces of the group. We are rationalizing our commercial sites and putting together all the branches, ex-branches of Schneider like APC, the TAC, that Schneider put on the one roof so that they can build together solutions. On the top of that collateral benefit is reduced cost. And finally brand migration, most of brand migration of Telemecanique and Merlin Gerin, which are two pillar brands of the group, will be completed by the end of the year. This is in process of being done.</p>
+          <p>Moving on to slide 17, which is one lean company, so applying cost reduction to the elements of supply chain. We've reduced the number of SKUs by 170,000 over the first half and we're on track to make our target of 400,000 SKUs. We are pushing, accelerating the concentration of our suppliers, where in 2008, 39% of opportunities were concentrated on these key suppliers, we are moving in H1 to 44% and again we are in line to reach our target as one.</p>
+          <p>A strong effort to absorb manufacturing base &#x2013; I'm moving to slide 18. The big issue on the supply chain on the first half has been the sharp drop of volume. I have to say, the teams did a great job to do productivity in this period &#x2013; in this difficult period on purchasing, on lean manufacturing, on rebalancing to offset the under absorption of fixed manufacturing costs. It took us &#x2013; it takes us some time to readapt the fixed manufacturing cost in West Europe, particularly in the U.S., but the productivity just offsetting &#x2013; productivity &#x2013; the drop of volume on this under absorption.</p>
+          <p>Now what makes me optimist for the second part of the year is that there has been a real start or real acceleration of productivity in Q2 and we get more positive as we enter into the second part of the year.</p>
+          <p>To finalize on this qualitative part on this review of the One program key actions of H1, I like to review the slide 19, which is putting in perspective here <mark type="inaudible" /> the achievement of Schneider in the first half. We've got a review of the performance in EBITA margin and in free cash flow over the past 10 years. And you see that the steepest decrease we had in sales was in 2002, minus 5%.</p>
+          <p>Our free cash flow has noticeably increased since the good times of that early cycle in '99/2000. At that time the free cash flow we were generating was around 2.53. Now last year we are up 9.5 of free &#x2013; of sales in free cash flow.</p>
+          <p>The EBITA, the peak EBITA has moved from 13.4 to 15.1 last year and you see that with the very, very steep decrease in sales that we had anticipated, but we have acknowledged at the beginning of the year that it was lack of visibility. This decline in sales was a bit further than what we thought at the beginning of the year. But we maintain an EBITA, before restructuring, I have to say, of 11.6%. That puts us in a good position to be meeting the guidance that we gave you at the beginning of the year.</p>
+          <p>But more so, the free cash flow generation has been extremely resilient and is representing 9.4% of the sales &#x2013; of what we did in the first half of last year.</p>
+          <p>So that concludes the first &#x2013; the second part of the presentation. And now I'm handing over to Emmanuel for his first presentation and the review of the results of Schneider.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Jean-Pascal, and good morning everyone. I'm very happy to be doing my first presentation on Schneider's result. Jean-Pascal you set the bar very high saying that I was adapting very fast. So the pressure is on me now. Just as an introduction I'd like to say that I'm really looking forward to meeting every one of you in the short future.</p>
+          <p>Let's start on page 21 on reviewing our top line for H1 and how we did perform by division and by region.</p>
+          <p>If we look at the division and the business units first, you'll see that for the average of group of minus 17.9, the best performing division has been Electrical Distribution at minus 13% even if Q2 has been more difficult for this division than Q1.</p>
+          <p>Then Critical Power is second in ranking with minus 17.7% and that has been also deteriorating, although at a lower pace compared to Q1.</p>
+          <p>The worst performer is Automation &amp; Control at minus 26.7. This division has been hit particularly hard by the difficulties of the machine manufacturer and the customized sensors business, which is very linked with car industry and the space industry and that has been hit very, very hard during this first half.</p>
+          <p>If we now look by region, the best performer here is rest of the world at minus 2.1%, so we are very close to stability for this region. This is due to the growth that we have experienced in Africa. Africa has been the only growing region for the first half and is anticipated to continue to be a growing region on H2.</p>
+          <p>Two other regions have been resisting pretty well, Latin America and Middle East. It's a decline for these two regions, but it's a low single-digit decline to mid single-digit decline. So a more moderate decline for these two regions.</p>
+          <p>Then Asia-Pacific, minus 15.3 where you have a mix of performance with some markets doing very, very poorly, such as Japan and some market, although negative, resisting better, such as China. China even became a growing market toward the end of this first half and we do expect that China will be growing on H2, partly, but not only based on the stimulus package.</p>
+          <p>Then we move to Europe, minus 19.1% with globally difficult situation, although the intensity of difficulty has been different from one market to the other. We seen very tough market in Spain, in the U.K., in Italy, where we are experiencing decrease by, between minus 20 and down to minus 30% for Spain. Russia has been difficult as well, although after a steep decline at the beginning of the year, we see some sign of stabilization in the decrease of the business. And France has been resisting relatively well, even if Q2 has not been as good as Q1, we are around a 10% of decrease for France.</p>
+          <p>Last region in term of performance, North America, minus 22.6%. This reflects very much the performance of the United States, which is close to this average for the region. Canada has been performing better, we are closer to minus 10% for Canada and Mexico has been worst with minus 30%, or close to it, performance.</p>
+          <p>Let's dive into more detail for our P&amp;L now. Sales amounted at &#x20AC;7.755 million. That is a decrease of minus 13.3%. The gross profit amounted to &#x20AC;2,974 million, down 19%. And as you can see the margin rate, gross profit on sales has decreased by 2.8 point to reach 38.3%.</p>
+          <p>R&amp;D expenses amounted to 180 million, very close to the R&amp;D expenses of the first half last year. And I must say that we have been very consistent in what we spent in R&amp;D during this first half compared to last year. We are of course protecting the future growth of Schneider.</p>
+          <p>SG&amp;A expenses, that's certainly where the bulk of the effort has been realized in term of achieving savings. Globally, SG&amp;A expenses amounted to &#x20AC;1,895 million and this is down 8% compared to last year. And this is what generated the &#x20AC;300 million plus savings that Jean-Pascal mentioned already.</p>
+          <p>In total, our EBITA before restructuring reached &#x20AC;903 million. This is 11.6% of our sales. A pretty good resistance compared to the rate of 15.8% last year.</p>
+          <p>Moving down to page 23 and the restructuring cost, minus &#x20AC;112 million for the first half compared to minus 52 million last year. So not a big increase in terms of restructuring cost, especially compared to the saving that we have generated during this first half and that clearly illustrates the fact that the savings generated has been more during this first half, on cutting expenses like travel advice and so on. Certainly benefiting from the easiest savings in term of salaries, not renewing interim employees, as an example.</p>
+          <p>You should expect for H2 a higher level of restructuring cost, as we will be entering into phase of restructuring in term of really structure and global footprint. So the continuation of the savings program will be generating more restructuring cost in H2.</p>
+          <p>Although I can not be more precise at this stage, something around to double of what we have achieved in H1, look at that stage as a kind of reasonable amount for H2.</p>
+          <p>Then amortization and impairment of intangible, 108 million. Beyond the normal 50 million of amortization. There is an impairment of &#x2013; including 50 million on the customized sensor business, which reflect the difficulty of this business. Depending on the evolution of the second half, we could face a more impairment on H2.</p>
+          <p>The total of this amount give us an EBIT of &#x20AC;683 million. Then moving to the financial result, it is a net expense of &#x20AC;198 million, a significant deterioration compared to the first half of 2008. This is due to several elements that I would detail further in slide 31.</p>
+          <p>Income tax &#x20AC;114 million, we have improved significantly the income tax rate of the group, 23.5% compared to 26.5% last year. We do expect the rate for the full year to be around this rate of 23.5%.</p>
+          <p>Taking into account the equity investment impact and the minority interest in profit, that is less &#x2013; lead us to a net income group share of &#x20AC;346 million, but adjusted net income, i.e. excluding the non-recurring impact, reached &#x20AC;514 million and this is down 44% compared to the &#x20AC;925 million for the same reference last year.</p>
+          <p>If we go now through the various impacts that we have experienced to explain the difference between our EBITA before restructuring between H1 2008 and H1 2009; first and foremost, of course impact is volume, which generated a decrease of &#x20AC;746 million of profit. Then the impact also of volume on our productivity and on absorption of fixed manufacturing cost and that cost us &#x20AC;95 million. Then the mix which has been playing negatively for &#x20AC;100 million and that is largely due to the fact that Europe which is a profitable region has been a poor performer during this first half.</p>
+          <p>Inflation is about neutral with good news on raw material compensating some of the negative news on inflation. And then we are entering into all the positive elements that we've been able to generate during this first half and globally they account for a global improvement of &#x20AC;528 million. First price increase, we were still able to post a positive price impact on our profit during H1, plus &#x20AC;126 million. Productivity that Jean-Pascal described, plus &#x20AC;95 million, and support function cost, huge savings, plus &#x20AC;310 million.</p>
+          <p>You have other and scope elements playing for a total of minus &#x20AC;39 million, and we have been impacted by a negative currency impact of minus &#x20AC;53 million. And that is driven by the transactional negative impact, the fact that we have been selling our product in a number of market and notably emerging market but not only because that has been the case also in the U.K. where the local currency has been depreciating significantly versus the dollar, versus euro or versus the Chinese yuan.</p>
+          <p>Looking now on page 25 to the evolution of profit and profitability by region; you see that rest of the world has been able even to improve the level of profitability and the total profit generation. Profitability improved by 2.8%, a remarkable performance of course in this environment. Asia-Pacific was not that far from stability minus 1.9%, which shows the magnitude of the effort which has been delivered locally in order to compensate for volume impact.</p>
+          <p>Then North America with profitability down minus 3.5%, so significantly impacted by the negative trend of the sales. And the worse performer, Europe minus 6.3% which illustrates the fact that structure adjustment is as you know more difficult in many European market and notably of course the Western European market and therefore any decrease in sale is impacting much harder the level of profitability and it takes more time in order to recover its profitability.</p>
+          <p>If we look now at evolution of the profitability by business line; you see that the best performer has been Critical Power with a good end of the semester profitability is close to stability, minus 0.8%. Then Electrical Distribution which decreased by 2.7% and the worst performer is Automation and Control. The magnitude of the drop of course translated into a very sharp drop in terms of profitability which productivity and cost reduction has not been able to compensate significantly and the profitability of the business line is on minus 8.2% to reach 7.7%.</p>
+          <p>And now moving to cash flow generation and debt evolution which has been of course one of the great achievements of Schneider on H1. If we look at the free cash flow we generated a positive free cash flow of &#x20AC;726 million, which is more than 50 million that of what we've done during the same period of 2008. And this is of course due to the excellent work that we have achieved on making sure that the working capital was following the evolution of our sales and the working capital contributed positively close to &#x20AC;300 million of cash during this period.</p>
+          <p>Given that a significant shape of the dividend has been paid in shares and we only paid in cash &#x20AC;315 million and that the rest of the element are zero impact. We have then decreased our net debt by &#x20AC;411 million during this first half to reach a little bit more than &#x20AC;4.1 billion. And if you look at the last 12 months, it is more than 1 billion decrease of debt that Schneider has been able to generate, a very impressive result.</p>
+          <p>A quick highlight on the working capital, just to demonstrate that we have been able to follow the evolution of the business with the various element of the working capital. As you can see there is little bit of plus and minus on receivables, inventories and payables, but globally the percentage of working capital on sales remain the same.</p>
+          <p>On receivables and payables, we have been impacted by the <mark type="inaudible" /> economy in France, which in total cost us a little bit more than &#x20AC;30 million, so a negative impact. Without that we would even have been better. And on inventory we have a slight deterioration in terms of days of inventory, 88 days plus four days, but given the violence of the decrease of the sales in some country, it is clear that to be able to keep up with same kind of level of inventory is a remarkable achievement.</p>
+          <p>If we look at some indicators on cash &#x2013; cash generation and on our leverage today and I'm on page 29. You see that free cash flow for the last 12 months at the end of June is an all time high for Schneider, &#x20AC;1.786 billion, but the cash conversion has just been excellent, 152% for the last 12 months.</p>
+          <p>In term of ratio of leverage, net debt to EBITDA is just very stable. At the end of June you see that from the last 12 months we are at 1.5 compared to 1.4, so it's a great stability. And in term of free cash flow on net debt I think we set a new record, 43%, so accelerating the de-leveraging and generating very, very strong cash flow on net debt in the last 12 months.</p>
+          <p>And now coming to the analysis of our performance on the financial expenses, which has been a negative of 198 million. We have been impacted by several negative elements. The first one is the fact that we received less dividend and some capital gain that we achieved in the first half of 2008 did not reproduce and that accounts for &#x20AC;23 million decrease in our financial result.</p>
+          <p>But the biggest element is coming from the evolution of our gross debt and the evolution of our cash position. During the first half of 2009, we have been of course building extra liquidity capacity in order to make sure that we were having all the resources to cross this more challenging period and that has led us to increase the level of the gross debt from 6.3 billion to 6.5 billion.</p>
+          <p>In average, the debt is a really bit more expensive, especially because the debt that we raised through bond issue at the beginning of 2009 has been a bit more expensive. But globally we keep a cost of the debt which is reasonable around 5% as the total cost of our debt &#x2013; gross debt.</p>
+          <p>And at the same time, as we were still generating a lot of cash, our cash situation &#x2013; business cash situation did increase significantly, moving from 1.1 billion cash excess at the end of June 2008 to 2.3 billion cash excess at the end of June 2009. And at the same time, as you know as we are of course taking absolutely no risk on our cash position, the remuneration that we are receiving for this cash excess situation is close to zero, let's say a few tenths of business points.</p>
+          <p>And therefore, that is increasing a gap between the cost of the debt and what we are getting for our excess cash situation and that does account for the deterioration of our expense &#x2013; financial expense for the first half 2009.</p>
+          <p>Just to highlight the fact that on top of the cash excess situation of 2.3 billion, we also enjoyed undrawn credit facility for three billion which as you can realize give us a lot, a lot of flexibility in term of resources.</p>
+          <p>Jean-Pascal for the outlook I'm handing over back to you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>So very shortly just &#x2013; I'd like to say you just &#x2013; rather Emmanuel didn't take in too much time to get inside Schneider. And we, the management team, really appreciate his personal and professional contribution to our team.</p>
+          <p>I share with you some elements about the outlook; on the business trends, we think the end markets will remain soft and there is still lack of visibility on what is happening. We still &#x2013; we now see our exposure to new economies as a factor of resilience, that was during Q1 where the new economies were declining as much if not more than the major countries, which is over in Q2. And it seems somewhat we perceived but the new economies will be again a matter of resilience, it's not a matter of growth in some parts of the world. This is clearly true in China, this is already the case in Africa.</p>
+          <p>And we see also early signs of sequential improvement in some business segments, these can be geographical, we spoke about China, but Eastern Europe from a very robust &#x2013; I mean is now sequentially &#x2013; I am speaking about Russia &#x2013; improving since a few months at the low level but it is an improvement.</p>
+          <p>Some business segments also the one which has been hit first would seem to be ready to get some improvements in some geographies, residential in some parts of the world, but also IT industry from very, very robust and very fast reaction, may be some over-reaction, starting to sequentially improve. Now we look at that with cautiousness. We think &#x2013; and we think the hypothesis is that the end markets will remain soft and that we have to work on our cost basis.</p>
+          <p>On the profitability side, I said that Q2 productivity ramping up, and making us more optimists about the second part of the year. We really put as a first priority our effort in cost reduction. It's a way not only to adapt to the crisis but a way to prepare a better Schneider for the rebounds. Lower material prices to offset price effect in H2. The price has been good in the first half 1.4% of &#x2013; in first half, a little bit decline in Q2 with respect to Q1, but good on <mark type="inaudible" />.</p>
+          <p>More restructuring charges definitely in H2 to support 2010 savings that would be mostly due to an impact in Western Europe. So we expect second half organic sales trend to be above the level of H1 without trying to be extremely precise because of the lack of visibility. But we are firmly determined to &#x2013; on the 12% EBITA margin before restructuring cost even if the top line is not at the worst level we anticipated at the beginning of the year. I think the company has adapted to <mark type="inaudible" /> level of activity.</p>
+          <p>Now let's I move to slide 34; we are working towards long term resilience and I would say long-term strong growth capability. Energy management is definitely a promising business. We see that everywhere and as we move into Copenhagen this topic will become more and more visible in the world. We have a unique business portfolio with leadership position that we want to keep develop. We have a strong footprint in new economies which is a strong asset for the company.</p>
+          <p>We have very clear ideas about how to move. We have One, an ambitious program to guide us through to 2001, it's one global company, it's one link company, it's one organization. We are putting together. It's one brand, It's one web. We are really making one Schneider and so we have a crisis is a stronger catalyzer to this transformation than any other period.</p>
+          <p>We are putting into place a leaner cost structure. We are focusing the company on cash management. It had been a stronger point of the company in the past period but this is a real time to make our management very focused on this parameter.</p>
+          <p>On where we capture growth opportunities, services on the installed base, energy management everywhere. New niches of applications for every of our product are things that we are pursuing actively now. What we want to do here is to lay a strong base for long-term growth on profitability and as you notice the only place where we really didn't touch our costs is the R&amp;D where we keep investing for innovation on putting on the market innovative products for the future.</p>
+          <p>With that this concludes the formal presentation of our H1 results. And we are ready, with Emmanuel carrying on as I go out, to take any questions you may have.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" /> We have our first question from Mr. Alfred Glaser from Cheuvreux. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Yes. Good morning.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Good morning Alfred.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Good morning. I just wanted to know looking at the business in recent weeks in July and looking at the orders in Q2, can you be a bit more specific about the potential leveling of the business decline in some areas? And a bit more specific maybe about the sales outlook for Q3 alone. And I had a question relates to cash generation, you've done really very impressive in H1 cash generation. Is it achievable to be at comparable levels in the second half of the year? And how much improvement potential is there still in working capital?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. I am going to take the first part of your question on the outlook.  I just re-insisted on the fact that visibility was not at its maximum. If I would try to characterize things I would say probably the free fall is behind us. We'll see things &#x2013; the decline slowing down and again we see some green shoots that I mentioned whether it be China, whether it be some sequential improvement in businesses on geographies.</p>
+          <p>How would I characterize it by geographies? We think that in Asia-Pacific, we've kind of reached a floor, and that we would see either some stabilization or some improvement. International has resisted pretty well over the first or there may be some decline but still we remain optimistic about the dynamics of these geographies -- and those two geographies are places where we have a very strong footprint.</p>
+          <p>Well, North America is still impacted -- we see that trading is really at the bottom now. It's up to floor, but the non-res is declining. We think that most of the decline has happened in the first half but more of it will happen during the second half or it may bottom I would say probably in the first part of 2010.</p>
+          <p>We are still trying to understand with such ruptures where we are with respect to the key indicators on the building spending particularly. It seems we are a bit ahead of phase with respect to this indicator. So we see some further declining on res. At the same time we now see some part of the stimulus package that could kick in North America at the end of the year during the second half of the year and we are well positioned to capture some of that stimulus package.</p>
+          <p>Europe declined a lot in H1. We still see that weak in the second part of the year, again with the non-res coming on. In other terms, and I don't want to be too vague in my answer, but we see really an H2 which is in trend within the same trend as H1. If you look at the main businesses of Schneider, which IT industry, residential is the first, certainly bottoming &#x2013; at the bottom in the U.S. and with some rebounds maybe beginning of next year. In Europe still declining in some places, it is declining now in Australia for instance so some places where it's &#x2013; there is still some down to be integrated in the near future.</p>
+          <p>Non-res we believe that we've done a big part of the decline due to non-res, but there will be more of it in the second part of the year. Industry has been extremely sharp as a decline and we believe that our customers are now unfreezing from a very frozen attitude. IT is a bit of the same, so there would some slow sequential improvement in those businesses. Now everything we do in infrastructure linked to public spending and sometimes it touches the building, sometimes it touches infrastructure is resulting &#x2013; it's clearly the case in China already which is that in our figures. It will come in the U.S. with a stimulus package and it's coming at the end of the year probably in Europe from which we can gather. So we are cautious and our priority is to adapt our cost to the level of activity. We don't expect a sharp rebound so we are adapting to this level of activity and taking the opportunity to make us leaner and fitter for the future. Emmanuel on the cash...</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Our cash generation of course what has been done on the working capital cannot be reproduced in H2 but still we will be doing everything we can in order to improve our performance on the various elements of the working capital and certainly we believe that in terms of inventories there is more things we can do in order to improve our situation.</p>
+          <p>You can expect that we will be also cautious on capital expenditure in H2 where we will really try to focus on what is absolutely necessary and critical for further growth. Globally we can say that we do expect another six months of strong cash flow generation during H2 but of course I cannot say that this will be at the same level as H1.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we have a question from Christel Monot from UBS. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Hi, good morning, gentlemen and good morning...</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Good morning, Christel.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Good morning to Carina. Two questions please quickly, the first one is on destocking. I think you commented that you have seen less severe destocking over Q2 that in Q1. Just wondering how &#x2013; whether you think you could see some restocking by the end of the year maybe sometimes in Q4? And also about the base of comparison and it's likely that Q4 is going to be easier in terms of base of comparison. So how do you feel it regarding that?</p>
+          <p>And the second question is on savings that you think you now could do for this year. I think you were aiming for about 450 million in total and you are now ahead of that. So I was just wondering what you could now do for this year compared to your initial expectations. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Christel, we are concerned that there was a lot of destocking in the first part of the year. My estimation is around 2% of destocking across the borders. It has some variation across geographies. But it would be something around 2%. Now our distributors are certainly very cautious, and it's difficult to estimate when they will restock. Some of them can be tight financially. And we are actually working actively with them to really optimize the total of the supply chain. So there is active action between us to share the load and make sure that we keep on serving our customers.</p>
+          <p>So, difficult to say when restocking would kick in, and personally, I'm not taking much hypothesis on that one. I would say that once people have destocked, they are staying at this low level of stock while there is no better visibility on the market. Now one of our priorities is also to be able to respond to some kicks of restocking which has already happened. When people have destocked too much and they want to be delivered the next day and we have to keep the flexibility to be serving, which we have been doing rather reasonably in the first half.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>On &#x2013; to tell you &#x2013; your question on savings, of course we do believe that we're going to do a better than 450 million. I would remain a little bit cautious on the saving on the support function costs. I think that probably multiplying by two the number of the first half is a little bit too aggressive because that is the number of one half.</p>
+          <p>So, I think we will be below that but certainly still expecting a significant amount in H2. My sense is that we could do probably more than half of the total of 1 billion in the first half. In terms of productivity, we do also believe that H2 will be better than H1 and that in net -- netted from the volume impact on absorption of fixed cost, we should start to see some positive savings in H2. Difficult to be more precise, but we should see some significant number in H2 in that respect.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>In other terms I think it will be great to do something around 70, 80% of what we did in H1 and H2 for the super function cost. Because there are things which are pure variable things which are discretionary spendings which are the first one to go that you come through is repeat, and that we have started to activate from Q3 last year.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Okay. Thank you. Can I have follow-up question on impairment, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Please.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Please.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>On APC, the plan is actually much weaker than you initially could expected when you acquire that business a couple of years ago. How do you see it regarding potential risk of impairment on APC?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>No, I think we feel pretty comfortable on APC.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>That's very helpful. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Our cash generation has been very good on APC. And the margin is resisting very well. We're close to stability, so &#x2013; no, we feel pretty relaxed about that.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Just to correct, not relaxed, I mean we are working on it.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We have a question from Mr. Andreas Willi from JPMorgan. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Yeah, good morning. Two questions, please. The first one Critical Power where you &#x2013; where you showed good margin resilience. To what degree is that due to savings you are still realizing from the original combination of APC and GE and to what degree is that just because it's just has a very flexible cost structure when compared to maybe your Automation business?</p>
+          <p>And the second question, you &#x2013; on the maximum net debt EBITDA where would you see the level for your company as kind of a headroom versus the <mark type="inaudible" /> here now?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>On EPC, I think the integration synergies are behind us from last year. So what you see here as residence is a good work of the teams to adapt to the new volume. They have been quite aggressive in reorganizing themselves and at the same time also on the gross margin. Remind you that the large part of this business is into new economies with flexible adaptation, a lot of manual adaptation. So it's been a good preservation of the gross margin.</p>
+          <p>So I would say it's really the work of the team on the flexibility of the model which has driven to that good residential margin. The pure progress is due to the integration are behind us since I would say mid of 2008.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>In terms of ratio debt net to -- on EBITDA difficult to give a number because I'm not sure it always makes a lot of sense. One thing is absolutely clear we want to retain a strong rating and we will be more focused on our free cash flow generation on net debt -that's really on the net debt to EBITDA ratio. So that would be our focus.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We have question from Mr. Ga&#xEB;l de Bray from Soci&#xE9;t&#xE9; G&#xE9;n&#xE9;rale. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Yes, thank you. Good morning, everyone.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Hi Ga&#xEB;l.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>The first question is &#x2013; Hi &#x2013; it's related to pricing. Could you just maybe give us a sense as to some of the businesses that you are seeing under pressure and also a sense as to what your competitors are doing at the moment? That would be the first question. The second one is about your interest in Areva distribution, I know this is a bit early in the process, but did you have any view as of today on the potential synergies from such an acquisition in which areas, just if you could give us a kind of an idea on that please?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. Well on the pricing, the first half is finishing with around 1.4, 1.5 of pricing across the borders. We finished the first quarter with two points. So you see that it's, the prices, price is moderating in the second quarter. Overall, we &#x2013; I'm happy with the way we are maintaining our prices. At the same time we are staying &#x2013; starting to gain on the raw material quite significantly, on -- globally on what we do through the <mark type="inaudible" /> market, prices are holding quite strong because every of our competitor is facing a massive problems of drop of volume which is putting another form of pressure on the gross margin, on cost control.</p>
+          <p>On the projects there is more price aggressiveness and probably more reflection of the evolution of the raw material inflation. So this is what we are managing case-by-case. But I remember you &#x2013; I remind you that we're putting clearly our priorities in the order of cash, margin and volume because well, it's a very specific time in the cycle and we want to ensure our resilience.</p>
+          <p>On Areva, well it's very early in the process and some people would like to make a big splash of it but the process has not really started yet. But I tell you that first it's -- it's not strictly a must have, because we are already strong in medium voltage and in the distribution field with very strong bridges established with low voltage on a real capacity to supply full packages medium voltage and low voltage and make those packages smarter on connectable and connected to the smart grid, so well prepared for the future, generating or managing the demand response and managing the network. So it makes for us a lot of sense. But reinforcing what we do today in the distribution sales in the medium voltage field would be a great industrial on strategy projects. Why is that? Because it would build force in the field of medium voltage which will be equivalent to the one of ABB who is by far the leader today in this sector. It would be very complementary in technologies, we tend to be stronger in secondary distribution and Areva is stronger in primary distribution. Clearly, there is a complete complementarity of channels by nature and by belonging to Alstom and then Areva, T&amp;D was more oriented to utilities.</p>
+          <p>We are far better on the <mark type="inaudible" /> market that we cover solar voltage. So I would say that we don't have a utility division in Schneider, and if T&amp;D would board on Schneider there would be the division for utility on channel all, the offers low voltage automation to the utilities, that would be an enlargement of the business and there would also be the division in charge of the medium voltage offer, including all the aspects of medium voltage, and driving the package directly to the utilities.</p>
+          <p>Finally, another potential synergy is geographical. T&amp;D is strong in India and Brazil which in those sectors of medium voltage is a weak point of Schneider while their big weak point when you are in distribution is China and the U.S where Schneider has very strong platforms. Not to mention, Russia also which is also a weak point of T&amp;D where Schneider has a very, very powerful platform. So, strategically makes a lot of sense, we are just at the beginning of the process. The process may be complicated. So we're going to do it if we can do it in conditions, authorization and execution which are reasonable for us.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Now, I would like to say something which is important. Don't &#x2013; we've got a team dedicated to that in the company that is doing only this. And the rest of the company is focused on what I consider central to my priorities and our priorities which is the execution of one &#x2013; on building one Schneider platform for the future.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay. Thank you. Just maybe one question for Emmanuel, maybe could you quantify the impact of the bench and reclassification on the margin in bps maybe for the full year 2009?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>No, but I am sure you can have a pretty good view. It has been open for point on H1. So I am sure you can make your assumption for the full year and given the fact that the impact in H2 should be similar to H1 in terms of total amount.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay, so you don't expect any increase in interest -- in pension related interest cost in the coming...?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, <mark type="inaudible" /> -- today that the H2 amount should be in line with the <mark type="inaudible" />.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay. Is it a little bit too early for 2010 to know what it's going to be?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yes, very much so because that will largely depend on evolution of market towards the end of this year, so we will be able to tell more around the end of this year, beginning of next.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We have a question from Mr. Simon Smith from Credit Suisse. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Oh, hi. Thank you. Question I had on raw material, was just if you could clarify what you think their sort of absolute level of benefit will be this year? I think you'd previously been estimating anywhere between 100 and 200 million. I wondered how that had developed as the year progressed? And second question was really just that &#x2013; the under-absorption you saw in the first half, do you expect to see that coming through at a similar level, you obviously mentioned you thought you could do more in terms of inventory, does that mean you sort of have a similar sort of under-absorption in the second half?</p>
+          <p>And then really just my third question was in the Electrical Distribution business, your volume decline seems to have been better than some of your competitors and obviously it would seem an element of that has been the performance of the Solutions business. Do you think there's -- in any way the Solutions business is maybe a slightly later cycle within that, that we may see effects coming through later there or do you just think it's a different business dynamic? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I am going to take the Solutions -- the Solutions question and then we are going to share the answer with Emmanuel on the raw material, though it's a bit of a crystal ball exercise on raw material. But Solutions is not at all a story of late cycle, I mean the late cycle is impacting the various markets we are on. It's just that when our five years ago positioning was set in products to integrate us to a market. The technology has become more complicated. The expectation of our customers especially on the equation of energy has become more sophisticated. And our customers are in many cases asking us to commit ourselves far more in the definition of the solution. So, if where you used to sell 100 of products and suddenly you come into the position to sell 200 including integration into the increasing project management that you can still deliver with the partners including service contracts where we didn't have a footprint before and where we have a footprint today. So it gives more resilience by nature because you create more value from the same opportunity.</p>
+          <p>Now, there is a big condition on that, is that as you grow that you have to do it profitably which we have been doing consistently for the past few years and we still do well in the first part of the year. I would say that the present downturn is probably creating opportunities on that side because every of our customer is confronted to choices of cost decrease on outsourcing which we do or so with Schneider, when we say we give more to our suppliers or we concentrate with our suppliers more value. It's something that every company is doing to refocus on the key part of its chain. And in the field of energy, many of our customers are ready to give us more of their energy management which we are doing and which is creating the better resilience.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>On raw material of course it's difficult to give a precise answer because we are impacted by the evolution on a day-to-day basis of raw material cost. I think certainly our view today would be that we would be at the lower end of the bracket that you have mentioned at the higher end of the market of the bracket. Let's be clear, the raw material cost has been for some of them evolving pretty negatively i.e. some increase has been seen in the past few weeks or months. And that is clearly we'll be weighing down our target of global savings coming from raw materials.</p>
+          <p>And regarding your question on under-absorption and how it can progress on H2, we'd believe that the amount will remain significant, also maybe lower than in H1 to be confirmed.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We have a question from Mr. Scott Babka from Morgan Stanley. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Hey, good morning, gentlemen. I have just question on M&amp;A excluding Areva. Is there &#x2013; given the strong cash flow position you have and the reasonable net debt to EBITDA, is there a decent pipeline of other things you're looking at and how much time are you spending on that right now? Is there opportunities or is the spread between what the buyers &#x2013; the sellers want versus what you want to pay is too high? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well as I said earlier in the &#x2013; I said several times during the conferences that if Areva was for sale, because there were some rumors in the market past year, I was very clear on EPG, I was very clear in a different conference in JPMorgan, that we'd certainly be interested, because it was making strategic sense for us &#x2013; and, by the way, for the distribution part of Areva. Because, all compounded total would be several billions while we close to four billions and with big perspectives of &#x2013; large perspectives of development.</p>
+          <p>At the same time, I also saying that we are not very active on other acquisitions, because we thought it was probably too early in the cycle to be looking at those opportunities. So we are still working on a few small or medium opportunities, which are more heritage or legacies of the past. But I would say my agenda &#x2013; my present agenda as well as in the new agenda of Emmanuel, priority is really on the operation.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Can I add, Jean-Pascal, that the fact that we are sitting now on a significant amount of cash is not going to push us for acquisition. We will keep exactly the same behavior as if we were short of resources. So we will be buying only strategic and always extremely disciplined on price.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>As Emmanuel said, the constitution of those reserve, of those capacities was done in the provision of a crisis that could have been more severe than what we have experienced during the first half. I can't say the first half was not severe, but it could have been even worse. So it was cautiousness. And we always say that we don't want to be financially at risk. But now I repeat that except sales which are provoked by elements &#x2013; unexpected elements, and this is somewhere the case in Areva, we are focused more on operations than on acquisitions. Definitely. By far.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Great, thank you much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We have a question from Mr. Olivier Esnou from Exane. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Hi, yes. Good morning to all of you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Hi Olivier.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>I have three questions please. First two questions relate to the EBIT bridge. In terms of the first the FX impact &#x2013; that the transaction impact was higher than I was looking for. I understand it's coming from a lot of emerging market where it's difficult for you to be balanced. If foreign exchange in these countries remains where they are as of today, should we expect no impact or still some impact in the second half? And do you think you've been able to compensate a lot of that pressure on the FX via higher selling price from your side? That's the first question.</p>
+          <p>Second question, still on the EBIT bridge. I was a bit surprised by the still significant dilution from the mix, which I would have thought would decline as the project margin was declining. So where do you think this is coming from? Is there a specific sector? I think you said earlier in the call that project prices are difficult. Do you see something else and is it run rate that we should also expect to continue in the second half of minus 100?</p>
+          <p>And third question regarding Areva T&amp;D. You mentioned earlier that your own medium voltage business was strong. Maybe is it possible of have some indication of performance of that business within Schneider, in terms of margin today? Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Right Olivier, Emmanuel speaking. Maybe I should start answering your question on the transaction impact. I mean as you will remember, most of the currency which fall against the euro, the dollar or the Chinese yuan started to fall in Q4 last year. So we do expect still some negative impact on transaction in Q3, but then the situation improving in Q4. So I'm not sure I'm fully answering your question, but that certainly provides for an improvement on H2 globally but knowing that Q3 will still be impacted. Jean-Pascal, question on price, I will let you answer on that.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>There is not only emerging countries on the forex effect if we consider the U.K. or Canada as a &#x2013; and Australia. So there is -</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>We won't get there.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>So we certainly are not there, but there has been a lot of volatility on &#x2013; as Emmanuel said, there is more probably more stabilization coming up than before.</p>
+          <p>Dilution from the mix, I mean the mix has been &#x2013; there has been also lot of volatility in our portfolio of product sales, geographic sales and solution to product sales. So these have carried the mix to be negative. On the geographies, I don't want to answer specifically, because these are informations which are pretty important to us that could go to our competition. But it's clear that you see that Europe has declined quite a lot and has suffered from the certain rigidity, industrial rigidity in the adaptation of the gross margin. There has been some products impact on tat one on anyway the evolution to solution and services going from 28 to 32% of the sales wide But it is still very good for the development of the company on the retail and capital employed on the company, as is been done at lower levels of EBIT than what we are doing in products.</p>
+          <p>On the medium &#x2013; on the third question, your question about our medium voltage, our medium voltage is doing in the portfolio better than the low voltage today in terms of resilience, slightly better, due to a presence on the utilities. I remind you that last year we are doing a turnover of 1 billion on utilities. And we know that the business on utilities is greater cycled than what we do on the <mark type="inaudible" /> market.</p>
+          <p>If I look back in the past five years, the big strong point of Schneider medium voltage, a large strong point is to be able to articulate complete offers, integrated offers from the electrical automation intelligence point of view between medium voltage and low voltage. So a thing that we do regularly is MV/LV package with a transformer in the middle. And this have enabled us to grow across the cycle where we are doing a 10% organic in average in Schneider. We are more around 15% in the sale of medium voltage, building on the strength of this integration between low voltage where we are strong worldwide leader again and with a strong footprint in emerging countries and a strong footprint in every geography.</p>
+          <p>By the way, the margin that we have on that medium voltage is higher than what we see today in average on the market, because we've productized a lot, this approach. We think that these synergies that we are bringing as a new strategy to the T part of T&amp;D is a strong asset for the teams that will join us. It's a different game, but when you look at the small grid there is a transmission and duration part, which generating the upper part of the intelligence of the smart grid. But more so, there is the downstream part of the grid. On there, the game is read the automation of the medium voltage, low voltage, down to the utility inside the house, the building, the plant or the infrastructure of the customer.</p>
+          <p>And this is where Schneider can &#x2013; we're a world leader in low voltage automation on bringing bridges to medium voltage automation makes a huge difference. And that translated in higher than average of the sector growth in medium voltage over the past five years.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>Okay. Ladies and gentlemen, I think we have time for just one last question and then we'll have to stop the conference call. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The last question is from Mr. Mark Troman from Merrill Lynch. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yes, good morning Jean-Pascal and Emmanuel. Just one question please. Interpreting your outlook, you seem pretty confident about your cost restructuring program. You're starting to indicate that areas like China and maybe the Eastern European areas are bottoming out, if not getting better. Just interpreting that on your slide 26 with your margins, how would we interpret the &#x2013; where we are in the cycle with those? Is it fair to say that Automation &amp; Control must be somewhere near close to its bottom? Critical Power does sound quite resilient given the volume fall. And could we see some more downside on Electrical Distribution or how do you see it?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>This is the subject that I just touched before. I can just say again what I said. I mean it's a lot of hard work and determined work to be confirming the resilience guidance on EBITDA, but this is what we are retargeting inside and saying outside. What I said is that the early stoppers in the cycle were residential. Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>And there we can expect some kind of re-bounce. Everywhere we saw slow re-bounces, not sharp re-bounce, as I said before. So residential, starting from the U.S probably, a bit up. On then industry and IT business, we are really hit by customers who are extremely swift to decrease their expenses. On that we start to see some sequential &#x2013; sequential increases. We are conscious about that. The non-res &#x2013; and I remind you that building is 30% off of &#x2013; down a little bit &#x2013; but only half of it is non-res, half of it is industrial which has been hit as fast as the automation on the industry part of it.</p>
+          <p>And the rest is public buildings, where actually we see more investment than before due to the stimulus packages. The non-res will keep on declining probably in the U.S. and in Europe on the second half. On everything that we do in infrastructure, as proven so far, more resilient than the res and should be positively impacting and it is already the case in China.</p>
+          <p>So just a bit of the same of what I was saying before. And we consider that anyway emerging countries are recovering, even if they are negative, their roles of resilience and then growth engines on doing 32% of our turnover. I repeat on that I have always been convinced that that is a strong asset of Schneider.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay. That's great. Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you. So I think with that last question we are going to close this conference. For those who have to chance to do so, I wish you a good break. For Schneider the second half will be more of the same, a lot of focus on cost efficiency, resilience of the margin, on capturing the growth opportunity in the energy management sales and in the green business. Have a good rest. Talk to you very soon. Bye bye.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Have a good break. Bye bye.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Ladies and gentleman, this concludes the Schneider Electric conference call. We thank you all for your participation. You may now disconnect.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

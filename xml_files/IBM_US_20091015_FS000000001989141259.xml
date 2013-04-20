@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1264573" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q3 2009 Earnings Call</title>
+    <date>2009-10-15</date>
+    <companies>
+      <company>261</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Patricia Murphy, Vice President, Investor Relations</participant>
+      <participant id="2" type="corprep">Mark Loughridge, Senior Vice President and Chief Financial Officer</participant>
+      <participant id="3" type="analyst">David Grossman</participant>
+      <participant id="4" type="analyst">A.M. Sacconaghi, Jr.</participant>
+      <participant id="5" type="analyst">Keith Bachman</participant>
+      <participant id="6" type="analyst">Ben Reitzes</participant>
+      <participant id="7" type="analyst">Bill Shope</participant>
+      <participant id="8" type="analyst">Moshe Katri</participant>
+      <participant id="9" type="analyst">Richard Gardner</participant>
+      <participant id="10" type="analyst">Rob Cihra</participant>
+      <participant id="11" type="analyst">David Bailey</participant>
+      <participant id="12" type="analyst">Chris Whitmore</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Welcome and thank you for standing by. At this time, all participants in a listen-only mode. Today's conference is being recorded. <mark type="Operator Instructions" /> Now, I will turn the meeting over to Ms. Patricia Murphy, Vice President of Investor Relations. Ma'am, you may begin.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you. This is Patricia Murphy, Vice President of Investor Relations for IBM. I'm here with Mark Loughridge, IBM's Senior Vice President and Chief Financial Officer. Thank you for joining our third quarter earnings presentation. The prepared remarks will be available in roughly an hour and a replay of this webcast will be posted to our Investor Relations website by this time tomorrow.</p>
+          <p>Our presentation includes certain non-GAAP financial measures. In an effort to provide additional information to investors, all non-GAAP measures have been reconciled to the related GAAP measures in accordance with SEC rules. You'll find reconciliation charts at the end and in the Form 8-K submitted to the SEC.</p>
+          <p>Let me remind you that certain comments made in this presentation may be characterized as forward-looking under the Private Securities Litigation Reform Act of 1995. Those statements involve a number of factors that could cause actual results to differ materially. Additional information concerning these factors is contained in the company's filings with the SEC. Copies are available from the SEC, from the IBM website or from us in Investor Relations.</p>
+          <p>Now, I'll turn the call over to Mark Loughridge.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you for joining us today. We just finished another great quarter driven by strong profit performance in Software and Services and share gains in both hardware and software.</p>
+          <p>This quarter, our revenue was up sequentially, and our growth rate improved versus second quarter. We expanded gross margin by almost two points and pre-tax margin by over three points year-to-year. Our earnings per share is up 18% to $2.40. In addition, we generated $3.4 billion of free cash flow, up almost 1.3 billion year-to-year, and ended the quarter with 11.5 billion of cash on hand while reducing our debt by $4 billion since June. We now expect to deliver at least $9.85 per share for the year, up $0.15 from our previous view of at least $9.70.</p>
+          <p>When you look at the third quarter as compared to the second quarter, though earnings per share growth is the same, both up 18%, we extended our share gains this quarter. For instance, in Software we gained almost three points a share in WebSphere where we compete head to head with Oracle. We also gained share in Information Management, Tivoli and Rational. These share gains drove five points of constant currency growth in branded middleware revenue.</p>
+          <p>In hardware, we gained five points a share in System p and two points a share in System x. That's a lot of share and we're taking it from both Sun and HP. These share gains drove the improvement in our hardware revenue growth rate, which is 11 points better than last quarter.</p>
+          <p>Revenue growth from our Services business was fairly consistent with second quarter. But the real story here was our ability to deliver double-digit profit growth by continually expanding margins. This quarter our Services pre-tax margin was almost 15%. On a comparable basis, our Services margin is better than any of our key competitors. And believe me, we're not done.</p>
+          <p>Overall, with an improving trend in revenue performance, we've continued to generate profit growth through margin expansion. Over the last several years, we've been shifting to higher value areas and significantly changing our mix of business. At the same time, our ongoing focus on driving productivity in all areas of the business is reducing our fixed cost base and improving the operational balance point.</p>
+          <p>We continued to expect about 3.5 billion of costs and expense savings this year from the structural actions we've taken. And remember, we've got a spend base of almost $90 billion to work with. So we've got a lot of opportunity to continue to reduce structure and make our business more efficient.</p>
+          <p>The impact of our transformation on this quarter's profitability is clear and compelling. Our combined Services segment pre-tax margin was up 2.4 points year-to-year. And in Software, we grew segment pre-tax profit by over 20% and margin by over six points. For the year, we continue to expect to generate about $8 billion of profit in Software and $8 billion in Services.</p>
+          <p>We're using this strong profit and cash generation to invest in capabilities that differentiate IBM and accelerate the development of new market opportunities, areas we've discussed in the past like business analytics and Smarter Planet and cloud computing. Now, we've just closed a strong third quarter, consistent with the momentum in our business throughout 2009 and we're well equipped going into the fourth quarter.</p>
+          <p>Now, let's get into the details of the third.</p>
+          <p>Our revenue was $23.6 billion, down 7% as reported, and 5% at constant currency. Despite the revenue decline, we increased pre-tax income by 12% and net income by 14%, with outstanding margin performance.</p>
+          <p>Gross margin expanded 1.8 points due to better margins in Services and Software and a more profitable mix of business. Our expense was better by 11% year-to-year, driven by actions we've taken to continue to transform and globalize the business, and focused expense management in a tough environment. Pre-tax margin was up over three points year-to-year, to 18.6%. And IBM's net income margin was up 2.5 points to 13.6%.</p>
+          <p>And finally, our ongoing share repurchase activity drove a lower share count year-to-year, though it was up sequentially due to increased dilution. So bottom line, we delivered $2.40 of earnings per share, up 18% from a year ago.</p>
+          <p>Now, let's turn to revenue. Our total geographic revenue was down 7% as reported, and 5% at constant currency. As always, I'll focus my comments on constant currency.</p>
+          <p>Revenue growth improved versus the second quarter in every geography. Americas was down 4%, three points better than second quarter. EMEA was down 6% and Asia Pacific was down 4%, both improvements from last quarter.</p>
+          <p>Turning to the major markets and growth markets, we had improved performance in the major markets. The U.S. was down 5% year-to-year, an improvement of three points. The growth markets were down 1%, though China had great performance, up 26%. Overall, the growth markets delivered 19% of IBM's geographic revenue in the quarter and outpaced the majors by five points of growth.</p>
+          <p>So now let's turn to revenue by sector. Total sector revenue was down 7% as reported and 5% at constant currency, which is one point better than last quarter's growth rate. Since the third quarter of last year, financial services performance at constant currency has generally been in line with total sector performance. This quarter, financial services revenue growth at constant currency improved five points versus last quarter, down 2%.</p>
+          <p>Within FSS, the banking industry returned to growth at constant currency. Public sector was again the fastest growing sector with 2% growth at constant currency, led by healthcare and education. Now I think this is quite logical given the rollout of stimulus spend globally.</p>
+          <p>Let me give you an example of what we're doing with healthcare clients. At St. Elizabeth's Hospital in Kentucky, IBM is helping to connect hospitals, clinics, and physicians offices in the state's largest rollout of electronic medical records to improve patient care and lower costs. The system is expected to replace a warehouse full of paper-based records on more than 50,000 patients in the St. Elizabeth Healthcare system. These are real systematic approaches to improving healthcare.</p>
+          <p>Communications sector was down 6% at constant currency, but underneath it, the utilities industry grew. We're working on nearly 50 smart grid engagements across growth and major markets. Let me give you an example here as well.</p>
+          <p>IBM is providing expertise in smart metering, large meter data management, business analytics and security to help Oncor, the largest electricity delivery business in Texas. This quarter, Oncor achieved a significant milestone &#x2013; the reporting of interval meter data to the market. With our help, Oncor is expected to replace over three million standard meters with advanced meter systems by 2012.</p>
+          <p>Distribution sector performance improved slightly from second quarter, down 9% year-to-year at constant currency. In the growth markets we had strength in the travel and transportation industry, as infrastructure investments in airlines and passenger rail continue. While industrial sector also improved, it remains the most challenging, down 14% at constant currency, as clients are impacted by the economic downturn and are focused on cost cutting to position for the recovery.</p>
+          <p>Now let's turn to revenue and profit by segment.</p>
+          <p>Our ability to deliver value to customers and our ability to take share in a competitive market resulted in improved revenue performance. Software was driven by strong demand for our key branded middleware. Services has a solid recurring revenue base, but also reflects challenges in the more economically sensitive consulting business. And hardware had significant share gains and cut its rate of decline in half from last quarter.</p>
+          <p>Our gross profit margin improvement of 1.8 points in this environment was quite impressive. As part of our ongoing transformation, we continue to shift to higher value, the most obvious driver being the mix to Software, which contributed almost a third of the margin improvement.</p>
+          <p>This quarter, our ongoing initiatives to improve our Services margins through global delivery capabilities and improved resource deployment models also contributed to the improvement. Our initiatives are driving consistent improvements in our gross margin over time. In fact, this is the 20th quarter of the last 21 that we've expanded our gross margin.</p>
+          <p>Now let's take a look below the gross profit line to our expense and spending profile.</p>
+          <p>Our total expense and other income was down 11%, currency drove five points of the decline, and reflects both translation of non dollar-based expenses and the impact of the hedging program that flow to expense. Acquisitions contributed a point of growth. But the largest contributor to expense reduction was our operational expense, which improved eight points year-to-year.</p>
+          <p>With almost $90 billion of cost and expense to work with, we've been executing our operational plan to increase efficiency and drive productivity, leveraging scale and our global footprint. We've focused on all areas of the business from sales efficiency, to supply chain management, to service delivery, to global support functions. And we're on track to yield $3.5 billion of cost and expense savings in 2009 from our recent initiatives, such as the globalization of our support functions and rebalancing our work force.</p>
+          <p>The initiatives reduce our cost structure and make it more variable. A lower level of fixed cost improves our operational balance point. So with improved operating leverage, every dollar of revenue yields more profit. At the same time, our strong margins enable us to continue a significant level of reinvestment focusing on capabilities that will help to drive the next growth cycle by delivering value to clients.</p>
+          <p>One of the primary investment areas is business analytics. Advanced analytics software and services allow customers who generate enormous amounts of data to predict trends, optimize their operations, and create new sources of revenue. It provides a solid platform for our Smarter Planet initiatives.</p>
+          <p>We're continuing to add to our capabilities. We've just closed another key acquisition, SPSS, a leader in predictive analytics. With this, we've now invested $9 billion in strategic acquisitions since 2005 to build our business analytics capabilities. And we recently announced a new Advanced Analytics Center in New York City with 450 consultants and researchers, connected to the service line we launched earlier this year.</p>
+          <p>To close out the discussion on spending, as always, I'll lay out the roadmap of items that had significant year-to year-impacts to our profit. Two items hurt our profit growth. We had a year-to-year impact of $100 million from investment transactions, driven by Lenovo transactions in the third quarter of last year. And within other income and expense, interest income was down almost $70 million year-to-year reflecting the current interest rate environment.</p>
+          <p>A few items helped our profit growth. First, I'll start with accounts receivables provision. Last year our reserve coverage was 2.0%. This year it's 2.2%. So we've got a higher rate of coverage year-to-year. But with revenue down and receivables down, this level of coverage resulted in a year-to-year reduction in A/R provisions of about $150 million. Second, our workforce rebalancing charges were down over $50 million. And finally, we have a $100 million year-to-year benefit from our hedge of cash flow programs, reflected in other income and expense, SG&amp;A and cost of goods sold.</p>
+          <p>Our retirement-related plans had little impact on our profit growth this quarter. But let me comment on the fourth quarter. As you know, we're constantly working on our plans. And in the fourth quarter, we expect a one-time curtailment gain of over $100 million due to a change we're making in our non-U.S. plans. This will be more than offset by additional workforce rebalancing activity outside the U.S. We now expect retirement-related costs to be about $1.3 billion for the year.</p>
+          <p>So now let's turn to our segment margins.</p>
+          <p>This is a snapshot of both gross and pre-tax margins by segment. With gross margin up 1.8 points and expense reduction of 11%, we delivered a 3.2 point improvement in pre-tax margins. And as you can see, for the second consecutive quarter our pre-tax performance was led by GTS, up over three points, and Software, up over six points. Overall, we delivered pre-tax margin of 18.6%.</p>
+          <p>And as you can see in the next chart, there's a lot of room to continue to improve these margins. Looking at the S&amp;P 500, 25% of the companies have pre-tax margins above 20%. And if you look at the tech universe, as defined by the companies with a market cap over a billion dollars, 30% are above 20%. So with our mix to higher value and higher margin areas such as software, and our ongoing initiatives against nearly $90 billion of spend, we have a lot of opportunity to continue to expand margins and drive profit growth.</p>
+          <p>Now let's turn to the segments, starting with Services.</p>
+          <p>Despite the continued challenging economic climate, the combined Services businesses drove an 11% increase in pre-tax profit and expanded pre-tax margin 2.4 points to 14.9%. We're improving margin by focusing on a competitive cost structure while delivering value and quality to our customers.</p>
+          <p>In the quarter, we signed $6.7 billion in total outsourcing contracts, up 1% year-to-year. In addition, we signed three deals in the first two days of October with a total value of nearly a billion dollars. These three deals would have pushed our outsourcing growth rate to 16% at constant currency, which is consistent with the first-half performance of 18% growth. With a solid start to the quarter, and looking at the pipeline of deals we have, we should be able to grow outsourcing signings double-digits in the fourth quarter.</p>
+          <p>Signings in our shorter-term offerings of Consulting and Integrated Technology Services continue to reflect the economic environment. These signings are down a combined 16% at actual rates, and down 15% at constant currency.</p>
+          <p>Total Services signings were $11.8 billion, down 7% year-to-year. We signed 13 deals larger than $100 million. But backlog at the end of the quarter was an estimated $134 billion. That's up almost $3 billion since second quarter and $5 billion year-to-year. Excluding currency, it's up a billion dollars year-to-year. So that puts us in a pretty strong backlog position as we enter the fourth quarter and 2010.</p>
+          <p>Now, I'll go to the key drivers of performance in the two Services segments.</p>
+          <p>In Global Technology Services, total signings are down 11% at actual rates and 10% at constant currency. Outsourcing signings were down 9% at constant currency, but with the three deals signed by October 2, GTS outsourcing signings would have been up 10% at constant currency. Global Technology Services revenue in the quarter was $9.4 billion, down 2% at constant currency. Year-to-date outsourcing signings are up a very strong 13% at constant currency, which will add to the revenue base over a longer period of time.</p>
+          <p>In Integrated Technology Services, we continue to shift our portfolio to higher value, higher margin offerings. Revenue performance largely reflected several quarters of signings declines in the OEM offerings that support capital intensive product rollouts. So while this quarter we had lower signings and revenue in ITS, the shift to higher-margin standardized offerings as well as mix away from OEM, gives us better year-to-year and quarter-to-quarter gross profit performance.</p>
+          <p>Global Technology Services delivered strong gross profit contribution across all lines of business, with total pre-tax profit of 24%. Margin improved 3.4 points year-to-year to 15%. This was the ninth consecutive quarter of double-digit pre-tax profit growth. The margin performance continues to be driven by the structural changes we made in service delivery and a shift to higher value in Integrated Technology Services. Global delivery, tools and automation, lean process techniques, hardware and software optimization, and subcontractor efficiency all contribute to productivity improvements. And we've maintained a focus on our customers with high levels of quality, customer satisfaction and service level agreement performance.</p>
+          <p>Turning to Global Business Services, signings were down 1% at actual rates and down 2% at constant currency. Application outsourcing signings were up 42% and 39% at constant currency, with strong growth in both major and growth markets. Application outsourcing can provide our clients with compelling cost savings, driving out both application maintenance costs and legacy application costs. Our pipeline has been steadily improving, and our rolling fourth quarter signings growth rate has now turned positive.</p>
+          <p>Consulting and Systems Integration signings were down 18%. Signings continue to be impacted by economic conditions on a global basis. However, we did have good signings growth at constant currency in North America, up 20%, and public sector globally, up 7%.</p>
+          <p>Global Business Services revenue was down 11%, with a year-to-year margin improvement of half a point to 14.5%. Global Business Services delivered better than balanced pre-tax profit, down 9%.</p>
+          <p>In a tough environment, our business continues to be supported by a very dynamic delivery model. Our global delivery infrastructure and framework includes expanding global delivery capabilities, scalable subcontractor management and improved resource deployment models. This quarter these capabilities enabled us to drive improved cost and expense management, lower subcontractor spending, and improved utilization both in our delivery centers and overall.</p>
+          <p>So overall for Services, the team did a good job managing margin in a tough environment. We believe that these dynamic infrastructure and delivery capabilities we've built give us a real competitive advantage. And it's why we are confident that we'll be able to deliver segment profit of about $8 billion for the year.</p>
+          <p>Systems and Technology revenue was $3.9 billion, down 12% year-to-year at actual rates and 11% at constant currency, consistent with what we said in July. These results will substantially outperform the industry, gaining share in systems and technology, in servers and in storage.</p>
+          <p>We now expect STG to deliver double-digit profit growth in the fourth quarter.</p>
+          <p>System z revenue declined 26% against a very strong compare. MIPS were down 20% but up 9% on a two-year compounded growth rate. This performance is consistent with what we would expect at this point in the product cycle.</p>
+          <p>This quarter we introduced a set of new System z workload called System z Solution Editions, which expand the platform's value proposition to both new and existing customers. System z gross profit margin expanded by four points year-to-year driven by a higher mix of upgrades in the quarter. Converged System p revenue declined 10% or 9% at constant currency, and we gained five points of share. This is the sixth consecutive quarter of share gains.</p>
+          <p>We have increased the revenue generated from competitive displacements of both Sun and HP customers to over 150 million this quarter. This amounts to more than 400 million in sales from UNIX competitive takeouts year-to-date.</p>
+          <p>System x server revenue grew 1% year-to-year or 3% at constant currency. We took two points of share, and it's our third consecutive quarter of share gain in x. Our improved sales model and enhanced product sets are the key contributors to this performance.</p>
+          <p>System x blades grew over 20% year-to-year and we gained two points of share. Storage revenue declined 13% year-to-year. In disk, we again gained share. Our storage acquisitions, XIV and Diligent, had strong performance. XIV added more than 65 new customers during the quarter, and over 275 customers since we purchased the company. We gained share in tape as well, as we continue to displace competitors.</p>
+          <p>Microelectronics OEM revenue was down 1% year-to-year, a significant improvement over recent performance. Our 45-nanometer technology was sold out in the quarter. When you look at the broader demand for our 45-nanometer technology, we're building POWER7 now and are on track for our systems launch in the first half of 2010. We have strong yields. In fact, we're running five months ahead of our 65-nanometer ramp. So this is going very well.</p>
+          <p>Systems and Technology revenue performance significantly improved from last quarter, as we took market share in a tough environment. In System p, we took five points of share. In System x, we took two points, and also two points of share in blades. And in both disk and tape storage, we gained share.</p>
+          <p>Gross profit margins increased in most of the brands. And so I'd say this team did a really good job this quarter, and STG is on track to deliver double-digit profit growth in the fourth quarter.</p>
+          <p>Software revenue of $5.1 billion was down 3% year-to-year, but flat at constant currency. We had another quarter of market share gains in Software and very strong profit performance. Segment pre-tax income was up 21% year-to-year, and pre-tax margin was up six points to 32%. Key branded middleware grew 2% year-to-year or 5% at constant currency, and we gained share year-to-year for the eighth consecutive quarter.</p>
+          <p>Before we discuss the brands, I'd like to comment on the makeup of our Software business, and why we focus on key branded middleware. On the right side of the pie chart are primarily our legacy products, which generates substantial profit and cash. On the left side is our key branded middleware, the fastest growing portion of our portfolio as you saw again this quarter. As this middleware becomes a larger percentage of the total, it lifts the overall Software growth rate. This quarter, key branded middleware was 57% of total Software, up three points year-to-year.</p>
+          <p>In Software, we have a broad portfolio of products that have a strong value proposition in this environment. Many of our products like WebSphere Portal and Tivoli Storage deliver a fast payback. These types of products grew 8% at constant currency year-to-year in the quarter. And our transformational offerings, including Cognos and Information Integration, grew double-digits at constant currency.</p>
+          <p>Now let me take you through the brands.</p>
+          <p>WebSphere had another exceptional quarter. In this space, our primary competitor is Oracle since they acquired BEA. This quarter we gained nearly three points of share with revenue growth of 14%, or 17% at constant currency.</p>
+          <p>Application servers, which provide customers with secure resilient infrastructure for mission critical business applications, grew 11% or 14% at constant currency. Business integration software, which includes our very successful ILOG acquisition, grew over 30% at constant currency. These two solutions are key components of our WebSphere offering.</p>
+          <p>Information management software was flat year-to-year but grew 3% at constant currency and gained share. Cognos and InfoSphere software, which enables continuous extremely fast analysis of massive volumes of data, both posted double-digit growth at constant currency and gained share. These are two key components of our business analytics offerings. IBM's acquisition of SPSS, which was completed in early October, further strengthens our business analytics and optimization strategy by providing predictive analytic capabilities that help customers drive better business outcomes.</p>
+          <p>Tivoli had another strong quarter, growing 5% or 8% at constant currency. Tivoli grew and gained share across all three product areas &#x2013; systems, security and storage management. Our enterprise asset management software grew over 25% year-to-year and is a key component of our Smarter Planet offerings.</p>
+          <p>This past week we announced smarter transportation projects with three of the largest and busiest mass transit systems in the U.S. &#x2013; Long Island Rail Road, Bay Area Rapid Transit and Washington D.C. Metro. All three of these clients are using Tivoli's asset management offerings to predict where and when equipment needs to be repaired or replaced, ultimately improving the safety and reliability of the transportation system while reducing traffic congestion in these cities.</p>
+          <p>Lotus Software declined 9% or 8% at constant currency. With this performance, we held share. Lotus continued to be impacted by a softening in demand driven by customer consolidations and downsizing.</p>
+          <p>Rational grew 2% or 5% at constant currency and gained share. Rational's integrated software tools improve the speed, quality and efficiency for our customers with software development projects.</p>
+          <p>So in summary, Software had a really terrific quarter and we gained significant market share across the portfolio, in WebSphere, Information Management, Rational and Tivoli, in key branded middleware and in total middleware. Obviously, with this performance, we're taking share from key competitors like Oracle and Microsoft. We delivered 21% profit growth and expanded margins. And we remain on track to deliver about $8 billion of segment profit this year. That's up from $7.1 billion in 2008, and up from $2.8 billion in 2000. So that demonstrates the substantial transformation in IBM's business model.</p>
+          <p>Turning to cash flow, we generated $3.4 billion of free cash flow in the quarter, up $1.3 billion year-to-year. This is exceptional performance &#x2013; in fact, a record level of free cash flow in the third quarter. The increase was driven by higher net income and improved cash from sales cycle working capital, as collections remain strong and inventory low. These were partially offset by higher retirement-related funding. Through the first three quarters, we generated free cash flow of almost $8 billion. That's also a record, and a year-to-year increase of 1.5 billion.</p>
+          <p>Looking at the uses of cash year-to-date, we reduced our non-financing debt by over $6 billion, including four billion this quarter. And we also returned 6.5 billion to shareholders, 2.1 billion was in dividends and 4.4 billion in share repurchases. This drove a reduction in average diluted shares of 4% year-to-year, and we had $4.2 billion remaining from our board authorization.</p>
+          <p>Now let's turn to the balance sheet where we see the impact of our strong cash performance.</p>
+          <p>We ended the quarter with a cash balance of $11.5 billion, that's an increase of $1.8 billion from the third quarter of 2008. Total debt was $25.5 billion &#x2013; $23 billion of debt is in support of our financing business which is leveraged at seven to one, 2.5 billion is non-financing debt. Our non-financing debt is down from $9.6 billion at year-end 2008, and almost 10 billion from a year ago. And it's down from its peak of almost 12 billion in the middle of 2007, when we completed the accelerated share repurchase.</p>
+          <p>Our strong cash flow has enabled us to afford this large debt reduction without impacting our cash reserves. So we continue to have a very high degree of financial flexibility. Non-financing debt-to-capital is 14%, down from 35% in June and 49% at year-end. The balance sheet remains strong, and positioned to support the business over the long term.</p>
+          <p>I'll start to wrap up with a brief discussion of the drivers of our earnings per share performance. Our improved mix and ongoing actions to drive productivity yielded significant margin expansion. In fact, the benefit from a lower tax rate and share repurchase activity nearly offset the impact of our revenue decline. And so the real driver was our gross margin expansion and expense productivity, which together contributed $0.39 of earnings per share growth.</p>
+          <p>This quarter, with our earnings per share growth of 18%, we continued our second quarter momentum and improved our revenue performance. Our leadership technology combined with our focus on delivering value to our clients resulted in broad-based share gains. In hardware, we took share in System p, System x, blade, disk, tape and Systems and Technology overall. In Software, we took share in WebSphere, Information Management, Tivoli and Rational, in total branded middleware.</p>
+          <p>We continue to expand margin and delivered strong profit growth through a combination of higher value mix, globalizing our operations and driving productivity across the business. These transformational changes have reduced our fixed cost base and improved the operational balance point, generating more profit from each dollar of revenue. We generated a lot of cash, paid down four billion of debt in the quarter, and ended the quarter with 11.5 billion of cash.</p>
+          <p>We're using our strong profit and cash flow to drive the investments needed to expand our base of opportunity, organically and through acquisitions. This month we added to our capabilities with the acquisition of SPSS. The strategic transformation of our business has allowed us to deliver strong performance in this environment, but also positions us for the future with a much better business profile and more competitive cost structure.</p>
+          <p>For the full year, we're increasing our expectations for earnings per share to at least $9.85 for the year. That's an increase of $0.15 since July, and double-digit earnings per share growth for the year.</p>
+          <p>And while it's early to talk about expectations for 2010, with the current view of 2009, we certainly remain well ahead of pace to deliver our 2010 roadmap.</p>
+          <p>Now, Patricia and I will take your questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, Mark. Before we begin the Q&amp;A, I'd like to remind you of a couple of items. First, we have supplemental charts at the end of the deck that complement our prepared remarks. And second, I'd ask you to refrain from multi-part questions. When we conclude the Q&amp;A, I'll turn the call back to Mark for some final comments.</p>
+          <p>Operator, please open it up for questions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you. <mark type="Operator Instructions" /> The first question comes from David Grossman with Thomas Weisel. You may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Thanks. Mark, there seem to be several moving pieces in the Services business this quarter. GBS, I think, was down 11% in the third quarter versus down nine I think in the second quarter, I guess an easier comp. And it looks like SO was down about 2%, and I think earlier in the year, you were hoping it would flatten out in the third quarter and return to growth in the fourth quarter. Perhaps the SO results reflect the push out of bookings into October.</p>
+          <p>However, just wondering, is GBS continuing to weaken? I think one of your primary competitors recently said that they don't expect to see sequential growth in their consulting business, at least as defined by revenue per day, until mid-2010. So just curious what your thoughts on that, and maybe if you could help us better understand what the trends are?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Okay, I'll be glad to do that. When you look at the overall GBS performance, couple of things I'd keep in mind. First of all, there is variation in what we saw in performance across geographies. So if you look at that signings performance, one of the very encouraging signs that we saw in it was C&amp;SI in North America was in fact up 20%. That's pretty strong performance. And if you looked at the geography that I would look at as being kind of a leading indicator of progressive recovery, I would look towards North America.</p>
+          <p>In addition, if you look at application outsourcing, application outsourcing signings globally were up 39%. So both of those to me give us kind of a good handle on where we think future performance could drive.</p>
+          <p>Now, across the Services business, I got to add, I think they did a pretty darn good job in the quarter driving profitability. And we are very focused on that, still feeling very confident as we close out the year that our Services business will achieve eight billion in profitability, double-digit profit for the year. And I would think we'd be looking at kind of a revenue performance in the fourth quarter not dissimilar from what we saw in the third quarter.</p>
+          <p>A lot of good opportunity in our signings base as we go into the fourth, and as I said, some early indicators that I think were encouraging, specifically again, North America C&amp;SI up 20% and our application outsourcing signings up 39%.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thanks, David. Operator, can we take the next question please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Toni Sacconaghi with Sanford Bernstein. You may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Yes. Thank you. You referred, Mark, several times to improvement in growth rate in the third quarter relative to the second quarter. I think at constant currency your growth rate overall improved about 2%, but your comparison was actually four percentage points easier at constant currency.</p>
+          <p>Moreover, when I look to your guidance for Q4, it looks like you're guiding for about 5% EPS growth relative to 13.5% EPS growth in the first three quarters of this year. So the question I guess is &#x2013; do you really believe that corporate technology spending is improving at all, because it's not evident from this quarter's performance relative to last quarter and your guidance? So do you believe corporate technology spending is picking up and/or fully stabilized? And if so, why &#x2013; what appears to be &#x2013; relatively tepid EPS guidance for Q4?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Okay. Let me &#x2013; that's a very good question. First of all, let's talk about the second quarter to third quarter dynamics. First of all, I'd say that we had pretty good revenue performance I think in the third quarter. One indicator &#x2013; we did have quarter-to-quarter growth. And as you know in our business, often times we have seen actually a decline going second to third because we have large vacation content in our European business. But this quarter we had good quarter-to-quarter growth of 300 million.</p>
+          <p>In addition, when you look underneath that and you go by geography and you just look at that year-to-year performance, comparing second to third, IBM overall had a better performance in year-to-year basis as you pointed out by two points. But if you look at the geographic mix of that, Americas was better by three points, which I think was quite significant, Europe is better by one and Asia-Pacific better by two. So I did, I think, see better year-to-year performance with a lot of share gain especially in our hardware businesses and our Software businesses.</p>
+          <p>Now, as far as corporate technology spending, I think the results that we're seeing are more indicative of the strength of IBM's offerings and our ability to drive value in our offerings to our client base. So I wouldn't make a comment on technology spending.</p>
+          <p>What we see more broadly, I think, is some stabilization in the economic environment. And one of the key indicators I think of that stabilization, which I would think you'd agree with, is credit markets have certainly improved on a year-to-year basis. You remember last time at this point in time, we were talking about questions like &#x2013; well, do you have commercial paper or do you have a financing business? And we're certainly through those kind of questions. So with that improvement in credit markets, I believe the environment has stabilized. But I do think we had some very good offerings driving performance in the third quarter.</p>
+          <p>If you now turn to EPS guidance for Q4, I guess the first point I would make is that we took that guidance up now from 9.70 to 9.85 &#x2013; that's our third increase this year, and I think it indicates the confidence we have. Secondly, I would say remember that 9.85, that's an at least. Right? Third, if you just look at that 9.85 roll-through and you look at the profit growth that it would imply in the fourth quarter, that profit growth on a PTI basis is really just shy of double-digit performance.</p>
+          <p>And if you now say, well, what does that set up for the year? Even at that at least base of business, I mean, we're driving double-digit earnings per share growth in the year, on the back of double-digit EPS share growth last year and the year before, and on a compounded basis since 2002. So I guess my perspective is we have constantly taken this number up. We have a lot of confidence in our offerings. And I think we're looking forward to a good year for IBM.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you, Toni. Operator, can we take the next question please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next question comes from Keith Bachman with Bank of Montreal. You may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Hi, thank you. Mark, I wanted to ask you about the Software segment. The PTI margin was up substantially year-over-year basis. And you also mentioned that the legacy software is very profitable. But as branded middleware grows against that legacy, how should we be thinking about the profit margins on Software? Does it stay at these levels? Can it keep moving higher? If you could just add some color there, please? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yes. I think the encouraging part underneath this &#x2013; if you look at branded middleware &#x2013; branded middleware has typically grown much more rapidly at very, very attractive gross profit margins. So as we continue to grow branded middleware as a component of our overall software element, we should see, I think, some acceleration of that overall revenue growth at these very attractive margins.</p>
+          <p>And we've certainly seen that as we've gone through the year in our Software business. As you point out, Software profitability was pretty attractive, up 21%, margins were up six points. And we see that kind of effectiveness and efficiency continuing because Software will continue to be the beneficiary, not only of providing mix benefits to the IBM Corporation, but they also should see the benefit of all the work we're doing on the structural efficiency and our balance point as we continue to work on driving productivity across shared staff and across process efficiencies.</p>
+          <p>And you remember, we really focused on that on the Analyst Meeting, and Software plays a big part in that. So I think we're &#x2013; I'm quite confident in our Software performance. I've been pretty impressed with it. And as we continue to mix into the Software businesses, Software generally, on a segment basis, has twice the gross profit and twice the net profit. So it's a good opportunity set for us.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you, Keith. Let's take the next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Ben Reitzes with Barclays Capital. You may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Yes, thanks. Mark, you generated some pretty good cash. You only have 2.5 billion in non-financing debt. Debt-to-capital non-financing is down to 14. What do you plan to do with your cash right now? How are you looking at that? I mean, it would seem like you could do &#x2013; you could reaccelerate your buyback and still do the string-of-pearls acquisitions. And given where the stock is after-hours, wondering what you were thinking regarding that, but also over the long-term sir?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yes, you bet. Good question. I mean, as you look at it, I was very impressed with our overall free cash flow performance. I mean, in this kind of an environment, to drive that year-to-year benefit, 1.3 billion, or on a year-to-date basis, 1.5 billion, that's quite impressive. And a cash balance 11.5 billion, having paid back four billion of debt in the quarter. What does that give us? Boy, that gives us a lot of financial flexibility as we go into the fourth quarter and into 2010.</p>
+          <p>Financial flexibility to drive investments in the IBM business, financial flexibility to continue this operational cadence on acquisitions which has very strong benefit for us &#x2013; you know that we just completed the acquisition of SPSS to provide predictive analytics to our business analytics base of business. And financial flexibility to continue to repatriate value to our shareholders through both share repurchase and dividend. And dividends which we took up this year by 10%, and I think we're one of the few businesses certainly be taking dividends up in this kind of environment.</p>
+          <p>So as I look at it, Ben, a lot of flexibility not only moving into the fourth and 2010, but that will continue to be a strong and powerful element of our roadmap going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you, Ben. Let's go to the next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Bill Shope with Credit Suisse. You may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay, great. Thanks. Mark, you guys have demonstrated tremendous growth in margins for the Services business throughout the downturn, and even in years prior to the downturn, but the recent improvement has been most pronounced. Now your largest competitor here has also shown improvements as well, largely due to integration synergies.</p>
+          <p>But now my question is &#x2013; beyond IBM's specific efficiencies that you've discussed and created over the years, is there something more structural occurring in the industry that is generating a richer profit profile for all the leading players? And if so, how are customers starting to react to this since, in the past, customers have been quick to seize on any margin expansion from vendors in services?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yes, when you look at our performance in margins, you're quite right to point out that the performance from both of our Services business has been pretty impressive, especially if you look at the GTS side of the business with PTI margins up 3.4 points. Now, underneath that, I can tell you that they continue to drive very strong process efficiencies both on the GTS and the GBS side of the business to deliver better value and better usage of the shared asset content across the IBM Corporation, which we will continue to deliver upon.</p>
+          <p>Now I'll also say that year in, year out, when we did the Analyst Meeting, when we pointed out that we had a spend takeout of about $3.5 billion for the year, you remember the way we described that spend takeout was a mix of workforce rebalancing of about two billion, and 1.5 billion of improvement in our balance point to optimizing our shared services content, our shared staff, and our process efficiencies. In addition, all of the business units continue to rapidly and aggressively take cost out to deliver that cost benefit back to the customer set.</p>
+          <p>So as you look at this, the bulk of that margin improvement is stuff unique to the value we're creating and the efficiencies that I think we're creating on a global basis with a global business structure. But don't look at that 3.5 billion and say &#x2013; is that the only cost and spending that we're taking out? The answer is absolutely not. We're taking even more than that. The Services business, when you look at delivery, they took a billion out. And a lot of that content they deliver straight through to the customer and through price and price competitiveness.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you, Bill. Let's go to the next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Moshe Katri with Cowen and Company. You may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Yes, thanks. Given some of the things that you're saying today, are you prepared to make any remarks about corporate spending for 2010? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well again, if you think back to the question that Toni asked, I wasn't really making a comment about overall corporate spending. Again, as we look at the economic environment currently and moving into '10, it looks like as I had said earlier, it's really stabilized. So within an environment of general stability, that's a big improvement as we go into '10 versus what we saw as we went into '08 and '09. Now that said, as we look at the opportunity we have, we have a lot of unique opportunities for IBM as we go into 2010.</p>
+          <p>First of all, on the hardware base of business, new announcements. I mean in 2010, we're going to have a new z series. We're going to introduce POWER7 across the p series, high-end, mid-range, and entry levels. We'll do that &#x2013; start to introduce first half of '10 and we'll have that done by the end of '10.</p>
+          <p>We'll have a full year of the new high-end storage that now double the speed and efficiency based on the introduction of POWER6. We'll have the improved capability in our x series &#x2013; as you saw this quarter, picking up two points of share, growing blades by 25%. That hardware velocity, we think, really continues against an easier set of compares and helps propel 2010.</p>
+          <p>Additionally, if you look at our longer-term outsourcing content and you include those deals that fell over the goal line in the first two days of October, that would put our longer-term outsourcing signings on a third quarter basis, up 16%, and a year-to-date of 18% which is consistent with the first half. So that's a strong position to be in.</p>
+          <p>And then, we also have improvements in our backlog, that's now at 134 billion, up five billion. Along with that, the real momentum that we see in our Software business.</p>
+          <p>So I think we have opportunity and strengths unique to the IBM corporation. And as we outlook and our assumptions, we're assuming stability. If in fact, the economic environment improved beyond that, we could have upside. But we're not counting on that as we make our projections as we go to the fourth quarter and 2010.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you, Moshe. Let's go to the next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Richard Gardner with Citigroup. You may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay. Thank you very much. Mark, I was just hoping that you would provide, as you have in past calls, some general color on the fourth quarter pipeline in both the Services and the Software businesses, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Sure. As we look at that pipeline, we do see improvements in the pipeline going from third quarter to fourth quarter. And as we evaluate the quality of that pipeline, we think that both our Software and our Services business should see revenue performance in the fourth quarter similar to what we saw in the third quarter.</p>
+          <p>Now, also I remember as you look at that, our hardware business, the revenue performance should actually improve going from third quarter to fourth quarter. And really the ramp in performance that we're looking for going from third to fourth is delivered predominantly by our Software business, where we think we're in strong position, and our hardware business.</p>
+          <p>But we also see, if you take C&amp;SI as an example, we saw some good leading indicators as I pointed out earlier with North America signings up 20%. And we see an improving pipeline as we go from third quarter to fourth quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you, Rich. Let's go to the next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Rob Cihra with Caris &amp; Company. You may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Hi. Thanks very much. I know it's less of the overall impact increasingly anyway, but with the hardware margins, and you are saying it should have good improvement in Q4. Is the year-over-year decline though that we've been seeing, is that just simply a function of mix and that mainframe going down as a percentage of mix? Or is there more to it in terms of whether it's sort of price pressure, or on the other end, just less absorption across Microelectronics and that sort of thing? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, I mean if I looked overall on a year-to-date basis on our hardware business, the hardware business has been wrestling with the difficulty we've seen in the economic picture. And I would put most of that on that kind of a view of the world. But as we go into the fourth quarter, remember, we're not just saying we see an improvement in profitability for our hardware business going from third quarter to fourth quarter.</p>
+          <p>We're looking at it, saying that really that segment-based hardware business ought to be growing profitability at double-digits as we go into the fourth. So that's a pretty substantial improvement. And I think it indicates the strength we see in the product line and it puts us in a much better posture as we go from fourth quarter to 2010.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thanks, Rob. Let's go to the next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from David Bailey with Goldman Sachs. You may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Great. Thank you very much. If you look at the Services signings and you move the three deals that closed in the first few days of October into Q3, you'll see a pretty sharp deceleration in outsourcing signings growth in Q4. So how should we think about signings growth over the next few quarters?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, I think one aspect and we've talked about this a lot in the past, but when you're looking at these long-term signings, they do not evenly distribute across the quarter. I mean, there's big engagements, a big signings base, they can easily fall all across the date line. But as we look at our fourth quarter and our full-year perspective, we're looking for double-digit growth on our outsourcing signings.</p>
+          <p>Now, one of the big, I think, that indicates with that &#x2013; how in fact your backlog's doing? And I think it's encouraging that as we look at our entry into the fourth quarter, our backlog at 134 billion is in fact up $5 billion. So good opportunity set in the fourth quarter. We're looking for a double-digit outsourcing performance. And if we get that, we're going to have it certainly for the year. And I think when we say on a year-to-date basis that we're performing up 13% through the third quarter, or up 18% including those deals that fell over the date line, I think that's pretty strong momentum that we have.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you, David. Operator, let's take one more question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The last question comes from Chris Whitmore with Deutsche Bank. You may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Hi. Thanks very much. Just to follow-up on the Services commentary, wanted to ask about your revenue outlook for Services in 2010 given what you know about your pipeline, your recent bookings growth, et cetera. And if that business does grow as these large contracts get layered onto the model, how do you drive margins as these contracts ramp? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, we're going to continue to focus on the same elements that we have so far this year on those overall process efficiencies, on lean process management, on globalizing the back office and staff functions. And one way to look at this, when you kind of do the analysis on the impact of short-term signings versus long-term signings and the momentum in those two, long-term signings do layer in over time. But they have been very strong on a to-date basis.</p>
+          <p>On short-term signings, one aspect that I would remember is that short-term signings &#x2013; if you exclude the software support content in that business that's predominantly associated with software performance, it's not part of short-term signings &#x2013; really the profitability in short-term signings is about 10% of IBM's performance. And so I wouldn't overweight short-term signings as an element of our business equation going into the fourth quarter, nor into 2010. And we feel pretty confident in our capability to continue to drive margin.</p>
+          <p>Again, going back to the Analyst Day that we had, we pointed out that even if you just took the actions that we had in place this year, another 400 million of savings would flow into 2010. And in addition, we're clearly targeting to continue to take out about a billion dollars of back office shared service spend across our business, both in that absolute spend and in process efficiencies, which has gone I think quite well.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>So let me now take a moment to close out the call. As you know, I think IBM did have another great quarter. Like the second quarter, EPS was up 18%. But this time we had better revenue performance and share gains.</p>
+          <p>Really I think this is led by strength in Software, profit up 21% and up 18% year-to-date, capitalizing on the strength of solutions like business analytics to drive share gains in branded middleware. Our full-year basis, as we look forward, we should enjoy double-digit profit achievement and we're looking to achieve that $8 billion objective that we set for Software. And I'd remind you that that is up from 7.1 billion last year and up from 2.8 billion in year 2000. So it's one of the best indicators of the substantial transformation that we've seen in our business.</p>
+          <p>When you turn to Services, we're going to continue to drive our margin performance and double-digit growth in outsourcing signings that we've seen year-to-date. With backlog of 134 billion, up five billion, that puts us in good position going into the fourth. And like Software, we expect to achieve eight billion of full-year profit, again up double-digits on a year-to-year basis.</p>
+          <p>But I think most distinct, when you look at our hardware business, with strong share performance in the third quarter, with p up five points of share, that's quite significant; x up two points of share. We think that we're going to turn around in the fourth quarter generating double-digit profit growth, with new products going into 2010 &#x2013; a new z series, POWER7 now across the p series line by the end of the year &#x2013; to continue this momentum.</p>
+          <p>On a free cash flow base, year-to-date we generated almost $8 billion, up 1.5 billion year-to-year. So on a stable to improving environment, at the current spot rates, IBM expects to return to revenue growth at actual rates in the fourth quarter.</p>
+          <p>And we've increased our view of 2009 to at least $9.85 of EPS, which is the third upward revision this year. And we were, in my opinion, without a doubt well ahead of pace to our 2010 roadmap.</p>
+          <p>So once again, thanks for joining the call. And with that, as always, it's back to work.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you for participating on today's call. The conference has now ended. You may disconnect at this time.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

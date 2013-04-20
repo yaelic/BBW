@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1493238" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q4 2012 Earnings Call</title>
+    <date>2013-01-23</date>
+    <companies>
+      <company>769</company>
+    </companies>
+    <participants>
+      <participant id="0" type="corprep" affiliation="Head-Investor Relations">Stefan Gruber</participant>
+      <participant id="1" type="corprep" affiliation="Chief Financial Officer">Werner Brandt</participant>
+      <participant id="2" type="corprep" affiliation="Co-Chief Executive Officer">William R. McDermott</participant>
+      <participant id="3" type="corprep" affiliation="Co-Chief Executive Officer">Jim Hagemann Snabe</participant>
+      <participant id="4" type="corprep" affiliation="Chief Technology Officer &amp; Member-Executive Board">Vishal Sikka</participant>
+      <participant id="5" type="operator">Operator</participant>
+      <participant id="6" type="analyst" affiliation="Credit Suisse Securities (USA) LLC (Broker)">Philip A. Winslow</participant>
+      <participant id="7" type="analyst" affiliation="Morgan Stanley &amp; Co. International Plc">Adam D. Wood</participant>
+      <participant id="8" type="analyst" affiliation="Nomura Securities International, Inc.">Rick G. Sherlund</participant>
+      <participant id="9" type="corprep" affiliation="Member-Executive Board">Lars Dalgaard</participant>
+      <participant id="10" type="analyst" affiliation="UBS Ltd. (Broker)">Michael J. Briest</participant>
+      <participant id="11" type="analyst" affiliation="William Blair &amp; Co. LLC">Laura J. Lederman</participant>
+      <participant id="12" type="analyst" affiliation="Goldman Sachs International Ltd.">Mohammed E. Moawalla</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>So hello everyone and welcome to SAP's Fourth Quarter Results Conference Call today. My name is Stefan Gruber, I am Head of Investor Relations SAP. And would like to give you an overview on the agenda for our event today. First our CFO Werner Brandt will walk you through our 2012 results and our outlook for 2013. Then Bill McDermott and Jim Hagemann Snabe co-CEOs of SAP will talk about the regional growth in 2012 as well as our growth and innovation strategy and how this strategy will drive further our profitable growth. Then Vishal Sikka, Executive Board Member in charge of Technology and Innovation will speak briefly about our flagship innovation SAP Business Suite powered by SAP HANA. And Lars Dalgaard, Executive Board Member and CEO of SuccessFactors will join us for the Q&amp;A session.</p>
+          <p>I would like to point out that some of the statements we'll be making today will be based on a new line item we began reporting this quarter, software revenue together with cloud subscription. We believe this metric gives you a comprehensive view of SAP's overall business performance. And as usual I have a couple of technical comments. This conference is being webcast on our Investor Relations website, www.sap.com/investor. After the prepared remarks, we'll be taking your questions. For those of you on the phone, the operator will give you instructions on how to submit the questions and for those participating online, you can email your questions to investors@sap.com.</p>
+          <p>The slides for today's presentations are available for download on our website and finally the Safe Harbor statement. Any statements made during this call that are not historical facts are forward-looking statements as defined in the U.S. Private Securities Litigation Reform Act of 1995. Words such as anticipate, believe, estimate, expect, forecast, intend, may, plan, project, predict, should, outlook and will, and similar expressions as they relate to SAP are intended to identify such forward-looking statements.</p>
+          <p>SAP undertakes no obligation to publicly update or revise any forward-looking statements. All forward-looking statements are subject to various risks and uncertainties that could cause actual results to differ materially from expectations. The factors that could affect SAP's future financial results are discussed more fully in SAP's filings with the U.S. Securities and Exchange Commission, including SAP's annual report on Form 20-F for 2011 filed with the SEC on March 23, 2012. Participants of this call are cautioned not to place undue reliance on these forward-looking statements, which speak only as of their dates.</p>
+          <p>And with that, it is my pleasure to hand over to our CFO, Werner Brandt.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you Stefan. I will start with the income statement, talk briefly about balance sheet, cash flow analysis and then focus on outlook and additional information. If you look to our performance versus the guidance, you see that we outperformed our guidance on the top line software and software-related service revenue, non-IFRS at constant currency plus 13%. You see the guidance here, and I think this achievement is also driven by very strong organic growth with more than 10%.</p>
+          <p>On the operating profit side non-IFRS at constant currency, we are below our guidance by &#x20AC;30 million, achieving &#x20AC;5.02 billion for the year 2012. You see also the tax rate here are &#x2013; we are in line and I do not want to refer to it in more detail.</p>
+          <p>If you look to the top line on the non-IFRS SSRS side, we exceeded as we said our guidance and we have the 12th consecutive quarter of double-digit growth.</p>
+          <p>Software grew by 10% at constant currency, as reported 13% to &#x20AC;4.7 billion and here are mentioned HANA and mobile. HANA software revenue grew triple digit to &#x20AC;392 million, exceeding our expectations clearly. We will refer to this later. And mobile software revenue also was a very strong contribution, here also we more than doubled.</p>
+          <p>If you look to the cloud, here we summarized our total cloud revenue for Q4 and for the full year, you see we have cloud subscription and support revenue, and we have the related service revenue. And if you look to the full year, we achieved &#x20AC;456 million in total revenue, including the two components I just mentioned before. If you look to Q4, we achieved &#x20AC;212 million in total cloud revenue and this gives us an annual run rate of roughly &#x20AC;850 million. That's a very strong performance on the cloud side.</p>
+          <p>If you look to the segment reporting, you know we have two divisions, one the On Premise division and the Cloud division, and I would like to focus only on the Cloud division for a moment. First comment is that we for the first time consolidated Ariba and you see here external revenue of &#x20AC;120 million. That's 25% of our external cloud revenue in 2012. And there is one point I would like to stress that the Cloud division reported a profit of &#x20AC;15 million in Q4, so we are on a good way with regard to our overall cloud business.</p>
+          <p>Now here we show you the growth rates for non-IFRS and cloud subscription revenue, which increased in fiscal year 2012 by 21%. We do this simply because this new KPI non-IFRS software and cloud subscription revenue really underlines our hybrid solution offering we have. You know that all of our customers have equal choice to buy on-premise software or cloud solutions. And I think the importance of this combination brought us to the point that we now also will refer to this in our financial reporting.</p>
+          <p>We also do this to be transparent and provide a comparable number to our main competitor, Oracle, which also discloses a combined revenue number, and it is a PUC this &#x2013; it's a service of the P&amp;L, also the PUCs of the P&amp;L. Also the two components, meaning software and cloud revenue.</p>
+          <p>So I mentioned before the 21% growth, which is &#x20AC;5 billion for the full year in 2012, &#x20AC;4.7 million (sic) [&#x20AC;4.7 billion] (7:07) on the side of the &#x2013; on the software and &#x20AC;342 million on the cloud side. You see also the growth rates here for Q4, but I think I don't need to go into more detail.</p>
+          <p>Here is the summary of the P&amp;L from a top line perspective. Worth to mention beside our strong performance in software and cloud subscription revenue, and Bill will refer to this in his part of this presentation.</p>
+          <p>I want to reiterate the strong growth on the support side, this 14% or 10% at constant currency. That's a very healthy business for SAP. And you also see on the professional service side at constant currency only 1% increase, and this indicates that professional service business is here to support our software business, number one. And number two, we don't drive this for growth, we drive this for profitability.</p>
+          <p>If you look to the expenses, you see operating expenses increased by 12%, whereas total revenue increased by 10%. This reflects the fact that we invested in 2012 purposely into innovation, HANA and Cloud. Jim and Bill will refer to this one. And we also invested in go-to-market activities.</p>
+          <p>Then you see the operating profit, an increase of 7% profit before tax &#x2013; profit after tax and the metrics with regard to basic earnings per share. Also indicating that on the margin side, we see a reduction of 110 basis points compared to 2011. But I think with our guidance, we will explain later, you will see that we come back to the previous level in 2013.</p>
+          <p>If you look to the non-IFRS operating profit in a bit more detail, you see we had an increase of 11% to &#x20AC;5.2 billion, that's &#x20AC;500 million more than the 2011. You see also the &#x2013; what I explained already the amount at constant currency and the margin. And to provide some additional information, we have invested in innovations, HANA and Cloud. And Cloud definitely here, it's all about scalability and extended our go-to-market activities.</p>
+          <p>And here we invested in really the sales machine we have, which is very successful to really capture the growth potential we see in 2013 and going forward.</p>
+          <p>We had two acquisitions, SuccessFactors and Ariba, impacting our non-IFRS operating margin by one percentage point. Non-IFRS expense grew 12% at constant currency also impacted by acquisition &#x2013; or the impact by acquisitions was 4 percentage points.</p>
+          <p>I mentioned before, we added roughly 1,800 FTEs in the sales arena, and I'm sure Bill will refer to this one to capture growth opportunities. And I think here we see and have to consider the fact that these individuals cannot be productive from day on &#x2013; day one onwards, and we will see the benefit in 2013. And finally non-IFRS R&amp;D expenses also increased. Thereby I must say that the &#x2013; we'll see in a minute that the ratio decreased also in 2012.</p>
+          <p>Stable G&amp;A ratio, despite two large acquisitions. That's a good achievement considering that the second acquisition was done in Q4. And we see room for improvement here going forward.</p>
+          <p>Final word here on the non-IFRS performance, significant investments in a limited number of customer projects negatively impacted our service margin.</p>
+          <p>If you now look to it from an IFRS perspective, only one word regarding 2011, you all know that we had this release of the provision related to the TomorrowNow litigation. This of course had a huge impact on our operating income and related margin, you see is the amount of &#x20AC;717 million or 5.1 percentage points. You also have seen that our acquisition-related charges increased, and this has an impact of 50 basis points to our margin, due to the acquisition of SuccessFactors and Ariba.</p>
+          <p>And finally stock-based &#x2013; share-based compensation expenses increased from &#x20AC;68 million to &#x20AC;519 million in 2012. And this shouldn't be a surprise for anybody, because this was part of our additional information we provided in the context of our 2012 guidance. This increase corresponds with an impact on our margin of 2.7 percentage points.</p>
+          <p>If you look to the gross margin, we have an improvement here of 60 basis points, strong 83.9% on the SSRS margin, professional service margin went down. I explained why and I think we are going back to track during 2013. And if you look to the cost ratios around R&amp;D, sales and marketing &#x2013; sorry R&amp;D, sales and market &#x2013; sorry there's somebody playing with the slides. I'll try it once again, R&amp;D, sales and marketing and G&amp;A, you see a decrease in the R&amp;D ratio due to the fact that we provide more efficiency within this organization.</p>
+          <p>Sales and marketing went up by 190 basis points. That's mainly due to the investments we did on the go-to-market side. And G&amp;A flat and I mentioned before this considering the two big acquisitions we did in 2012 is going into the right direction. Mine &#x2013; thank you.</p>
+          <p>Now we come to the balance sheet. Here you have the balance sheet, only one, two comments. If you look to cash, if you look to goodwill, if you look to intangibles, deferred income and financial liabilities, all is driven by the acquisition of SuccessFactors and Ariba. Especially on the goodwill side, &#x20AC;2 billion for SuccessFactors and &#x20AC;2.3 billion or &#x20AC;2.4 billion for Ariba. If you look to the provision side of the house, current and non-current, that's mainly driven by the newly introduced share-based compensation program, the employee participation program amongst those being the biggest one contributed to this increase in provisions.</p>
+          <p>If you look to cash flow, it's slightly below last year's level. And if you really dig into detail, it has nothing to do with our capability to provide operating cash flow. It's more the fact that in 2012, we paid more taxes than in 2011. Nothing else and nobody should be worried that we do not see a continuous increase in our operating cash flow going forward. The cash conversation rate is good with 1.29 and also DSO decreased contributing to improvement in operating cash flow, except for the one item I mentioned before.</p>
+          <p>Group liquidity is at &#x20AC;2.5 billion, despite increase the dividend payment and acquisition related spending. You see that our total net liability is negative by &#x20AC;2.5 billion. That's due to the fact that we had this huge cash outflow in connection with the acquisitions, but you also see the operating cash flow, you see the dividend paid and that should be sufficient with regard to the balance sheet and cash flow analysis.</p>
+          <p>Let's come to the outlook. As we said in the press release, we are going to adjust the outlook format by introducing one additional KPI being software and cloud subscription by combining software and cloud subscription revenue and at the same time providing a guidance for cloud subscription and support revenue.</p>
+          <p>Now if you look to the numbers, then you see that the outlook for software and cloud subscription revenue provides a range, non-IFRS at constant currency of 14% to 20%. Our cloud subscription and support revenue is guided at &#x20AC;750 million. Our SSRS revenue non-IFRS at constant currency should grow in a range of 11% to 13%. And finally our operating profit at non-IFRS constant currency should be in the range of &#x20AC;5.850 billion to &#x20AC;5.950 billion.</p>
+          <p>You also see here the guidance related to the effective tax rate under IFRS and non-IFRS. I don't need to read this.</p>
+          <p>Now if you look to the guidance, we have some additional information prepared here and they relate to four elements. The first one is HANA software revenue, our expectation for 2013 is &#x20AC;650 million to &#x20AC;700 million. Remember we had &#x20AC;392 million in 2012 and that again a very strong growth for our HANA software revenue expectation.</p>
+          <p>Professional service and other service revenue, we expect this to grow in single digit, not more. This is in line what I previously said about our professional service business.</p>
+          <p>If you look to the cloud and here I refer to the total cloud revenue, we expect to approach &#x20AC;1 billion in fiscal year 2013. And I mentioned before we have a run rate based on Q4 of &#x20AC;850 million; of course, we have additional new business coming in 2013. So that's a total revenue, including the subscription revenue but also the subscription of the cloud-related professional service revenue of &#x20AC;1 billion.</p>
+          <p>And then we have our non-IFRS adjustments. And the estimated amounts are &#x20AC;65 million to &#x20AC;75 million for deferred revenue write-down, mainly related to the cloud business we acquired; discontinued operations &#x2013; activities, less than &#x20AC;10 million; share-based compensation expenses in a range of &#x20AC;500 million to &#x20AC;450 million (sic) [&#x20AC;540 million] (18:59). And, of course, this depends on the share price evolution of SAP. And I can provide you a [ph] fifth rule (19:08) that with every euro the share price moves up or down, we have an expense associated with this movement of roughly &#x20AC;8.5 million.</p>
+          <p>Then we have acquisition related charges, &#x20AC;510 million to &#x20AC;530 million, and restructuring, charges about &#x20AC;25 million to &#x20AC;30 million.</p>
+          <p>Then we have some explanations on the non-IFRS measures, but I think I don't need to read it. It's only for your information and reference and with having said that, I think that Bill takes over and provides more color on the results of 2012.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Well Werner thank you very much. I know many people were curious as to what SAP would do after its best year ever in 2011. Well we came roaring back in 2012 and essentially bested our best. We told you last January, we would grow 10% to 12% SSRS. We actually did 13% at constant currency. And it was in fact the best year in the 40-year history of SAP, and we're pretty proud of that.</p>
+          <p>Some color, what are the standout numbers? First we reached &#x20AC;5 billion in software and cloud subscription revenue, which was a 17% increase in constant currency, amazing. We reached &#x20AC;13.2 billion in SSRS revenue and &#x20AC;16.3 billion in total revenue, which was 14% at actual rates, 10% in constant currency.</p>
+          <p>All of our regions delivered in significant double-digit form, and Q4 was the best single quarter in the history of our company. And Werner, Jim and I are proud to inform you that it was the 12th consecutive quarter of double-digit growth since the new co-CEOs and the Executive Board came together in 2010.</p>
+          <p>What about Q4? Well over &#x20AC;2 billion in software and cloud subscription revenue, which was a 16% increase in constant currency. Over &#x20AC;5 billion in total revenue and that is the first time we've ever eclipsed &#x20AC;5 billion in total revenue in a single quarter, pretty exciting.</p>
+          <p>We're clearly outperforming the marketplace. As software and software-related service growth of 13% is four times as fast as the market growth based upon Gartner's research estimates for the overall software market. Our software and cloud subscription revenue grew by 21%. Let me be clear, there is a new way to look at software revenue now, as customers will more and more consume from the cloud. So the On Premise and the Cloud in-combination was 21% growth in actual currency in 2012.</p>
+          <p>For context, that's 2.5 times faster than our next closest competitor. And yes, that competitor is Oracle. So let there be no doubt that we're growing much faster than Oracle. We understand that the consumer will adopt things in the cloud for ease of consumption, and we're raring and ready to go. We're winning everywhere with innovation and sales execution. It's a great story.</p>
+          <p>Let's take a closer look at the regional performance and give you some color. It's amazing, in the Americas we had the best year ever in 2012, delivering almost &#x20AC;2 billion for the full year in the Americas, growing at 24% in constant currency. Americas also had a solid Q4, and I know there was some speculation that might not be the case. Let's go to the facts.</p>
+          <p>We reached &#x20AC;773 million in software and cloud subscription revenue. This is over US$1 billion, the first time we ever broke through US$1 billion for software and cloud in the Americas in a single quarter. And it's especially impressive when you consider the strong prior year comparison and of course the headline of the fiscal cliff every day.</p>
+          <p>So here again we're winning market share. In 2012 we grew two times faster than Oracle. And our market share growth is reflected in customer success. Take the case of Molson Coors as an example, a leading brewery in North America. They will migrate from BW on Oracle to BW on HANA. SAP HANA will provide faster reporting, faster aggregate, data aggregation and they will enable Coors to make smarter, better and faster decisions. That's what HANA does.</p>
+          <p>Let's take a look at EMEA. EMEA had a solid overall performance especially in light of the well reported euro debt crisis in 2012. Our full year software and cloud subscription revenue in EMEA grew by 12% in constant currency. This is particularly significant when you compare our performance against the nearest competitor, who was down 2% year-over-year in EMEA. And we're already the market share leader, which means we're gaining share faster than ever before. So our growth in Europe was consistent throughout the year, and we ended the year on a strong note in Q4 by growing 10% software and cloud subscription revenue.</p>
+          <p>Southern Europe, despite the financial crisis, has its success stories too. Take Portugal Telecom a leading European communications company. They will leverage SAP HANA to drive their innovations strategy for their company. They will also drive an offering on SAP HANA in the cloud, providing better services to their enterprise customers.</p>
+          <p>Let's take a look at APJ. APJ had their best ever year in 2012, growing at 20% year-over-year in constant currency. They're growing two times faster than the nearest competitor, and our performance was largely driven by, unexpectedly perhaps, Japan, which grew 25% year-over-year, and has now grown eight consecutive quarters of double-digit with SAP.</p>
+          <p>China, our investments are paying off. China is doing fantastic. The customers are seeing the value of our solutions, especially in industries like retail and manufacturing. Take Century Ginwa department store, they are one of the largest luxury retailers in Western China. They selected SAP solutions to do precision world class retailing for their consumer, integrating the whole planning to execution cycle from the supply chain to the customer relationship, driving shopping insights to their consumer on mobile device.</p>
+          <p>We remain committed to emerging markets. That has been a hallmark of SAP. And we're not only expanding our presence in the BRIC, we're also going after Turkey, Mexico, Middle East and North Africa, where our growth rates are fantastic.</p>
+          <p>So we think SAP is clearly the better choice. And I thought to put context on that, I'd summarize three areas where we're really driving the differentiation. One is industry business value, then there's rapid time-to-value with pre-packaged software and services, and of course customer co-innovation.</p>
+          <p>Let's talk industry business value first. We have proven domain expertise in 24 industries. It's a competitive advantage. When you combine it with benchmarking and best practices from the content that we derive from thousands of customer relationships all over the world and our world class value engineering process, we can replicate this and help customers move the needle faster than ever before.</p>
+          <p>That brings me to rapid time-to-value, it's an ease of consumption, fast time-to-value market. So by combining our solutions and services in packages, we lower TCO, we lower risk and we drive fast time-to-value. Now customers are implementing HANA and mobile in a matter of days or weeks, not months. We have a Suite of pre-packaged offerings that is included in our B1, our all-in-one and of course, our Business One offering.</p>
+          <p>This has changed in the game, because we now have broken through with rapid deployment solutions B1, A1, a &#x20AC;1 billion mark in pre-packaged applications that are ready to run for customers, game change.</p>
+          <p>Then there's customer co-innovation. We're always at our best when we're closest to the customer. We have adopted design thinking and innovation as a culture across our company. We have 3,000 trained experts with our customers each and every day. These design experts work with the customer to unlock their imagination to help them rethink their business models, innovate and grow.</p>
+          <p>We focus on three things. Desirability, do we have the big idea? Feasibility, can we get it done? And viability, is the business outcome and the business case rock solid? Retailers for example are now delivering shopping experiences on mobile devices with HANA they never thought possible.</p>
+          <p>And our ecosystem of partners that are co-innovating with us are doing things like developing 100 terabyte HANA appliance all the way through to developing solutions on the device.</p>
+          <p>So we built our strategy on a growth and innovation platform. We chose not to consolidate the past. We left that for others. Now with this open ecosystem approach, our indirect revenue is growing by 35% as evidenced by 2012, and we're well on our way to having 40% of the revenues of the company come from indirect channels by 2015, and this is clearly our stated goal. Our ecosystem footprint is expanding like never before, demonstrating the broad adoption for our innovation. We now have over 12,000 ecosystem partners. The number of consultants trained on SAP is up 14% year-over-year to 370,000. And we will aim to reach 1 million developers and inspire them with our innovation as well.</p>
+          <p>We think ecosystem is a force multiplier, and we have now achieved great success in OEM and our distribution business models and that will only grow. Take for example Ingram Micro, world's largest technology distributor. They will offer SAP Managed Mobility Solutions to all of their small, medium sized enterprise customers. Now we have a non-payroll sales force working for us at Ingram Micro as well. With our community of collaborative partners, we'll deliver on our ambition to make SAP the knowledge company.</p>
+          <p>In February 2010 we launched a new vision and strategy for SAP. We have executed on our strategy, and we have made some bold moves to drive results. Since that time, we have nearly doubled our software and cloud revenue. In fact in the last three years we've grown at 83%. Our software and software related services revenue is up over 61%, and our total revenue is up over 53%. We've also increased operating profits by more than 60%.</p>
+          <p>And our sales execution is amazing, and is better than ever before. In the first 18 years of SAP, we reached &#x20AC;400 million in revenue. We reached that in 18 months with SAP HANA. And more importantly in the last three years, we have significantly outperformed the competition and gained substantial market share. In fact we're growing more than 1.6 times on a compounded annual growth rate basis, our nearest competitor. All of this shows a rock solid story in our strategy for 2013 and beyond.</p>
+          <p>So as Werner clearly demonstrated today, we remain ever confident in our guidance of software and software-related services at 11% to 13%. And we expect our software and cloud revenue contribution to be before &#x2013; be between 14% and 20%. And if you just compare that to others, let's say Oracle for example, their guidance was 4% to 14% in software and cloud. So we start where they stop and take it from 14% to 20%. And we're confident that we will once again outperform the market in 2013. We have the solutions, we have the products, we have the innovation and we're growing faster than the market.</p>
+          <p>I do want to underscore HANA, Werner stated it, &#x20AC;650 million to &#x20AC;700 million in 2013. We also remain ever confident that we will be a &#x20AC;20 billion business by 2015 with 35% operating margins and 1 billion people using and loving our software. We also are absolutely committed to a &#x20AC;2 billion business in the cloud by 2015. By doing all this well, we will achieve the winning dream and that is to make every customer a best run business. Jim Hagemann Snabe my partner and co-CEO, over to you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thank you, Bill. Well as Bill mentioned, our strategy is clearly working and gaining significant momentum. In many ways 2012, besides being a great financial performance, was a tipping point in the industry. And for SAP a new era of enterprise computing has started through our innovations for the last three years.</p>
+          <p>In the core our success is really our innovation. And you may recall that in 2010 in February, we declared this innovation oriented strategy. We said we will add three new areas of technology that would radically change the way business is done, the mobile device, the memory computing, and cloud. And with that, we wanted to double the addressable market of SAP.</p>
+          <p>Now three years later, our portfolio is the broadest in the industry and each of these categories we're either number one or the fastest growing. The results speak for themselves and if we just look at those three new categories. First of all, I think the most transformative innovation the last 20 years is SAP HANA, redefining a mature data based market into something that is real, real time. It performed better than our guidance for the year as mentioned by Bill, and it's the fastest growing product in the history of the enterprise software business.</p>
+          <p>In mobile we took the lead and we have become the leader in enterprise mobility in secure and relevant ways for users everywhere in the world.</p>
+          <p>And last but not least, in 2012 SAP became a significant cloud player, with a run rate in the cloud of more than US$1 billion in Q4 and a triple digit growth rate in billings. That means all of these three new categories, which we declared back in 2010, are now major contributors to our portfolio and to our financial results.</p>
+          <p>Now I get the question often, why are we so successful when other IT companies complain that IT spend is not going up and there is no growth in the market? It's very simple. We are with this portfolio, delivering the innovations that companies need to maneuver in a unpredictable, dynamic and hyper-connected world. Companies are looking for ways where they can see what will happen tomorrow already today, and we act faster in turning uncertainty in the market into an opportunity to be faster than competition.</p>
+          <p>To do that, they need to understand and treat every customer individually, which they do through the mobile device, the real-time analytics, predictive analytics capabilities of HANA. They need to react fast to new business insight of change and demands. And of course they need to mobilize and empower their workforce, who is in the front of their business, knowing best what the market right now is needing. And that is exactly what we do.</p>
+          <p>Maybe even more importantly for IT department, this portfolio coming from one company also lowers the IT cost at the same time. We actually see the IT spend not going up. and yet we're growing rapidly. And this is the essence of the transformation that these innovations are creating in the industry. With our innovations, we reshuffle the spend from low value infrastructure to high value innovative business software.</p>
+          <p>We have a unique combination of leading solutions now in five categories, and it's not just each category that's successful. I actually believe that most of the companies that you see on the slide choose SAP because of the combination of the five.</p>
+          <p>PepsiCo is a good example of an old time SAP customer, who run best with SAP <mark type="ph" /> since years (37:45). And in 2012, they decided to expand the scope of their partnership with SAP to now also include the enterprise central, the HR software from SuccessFactors delivered through the cloud, and Business Warehouse on HANA. With that they can manage their 300,000 people in 80 different countries much better, develop the right skills and get high speed in reporting. So people make better decisions to run the business better.</p>
+          <p>They realized that having one vendor for applications, analytics, mobile and cloud is a huge advantage if you want to keep costs low and value high, and they realized that the future infrastructure is in main memory in SAP HANA.</p>
+          <p>So in many ways 2012 was the tipping point, the moment it got clear that the strategy works and the shift is happening. And that is true for SAP in two major categories, one, of course, the cloud. As mentioned we have become a very serious large cloud vendor, and we're redefining cloud for the enterprise. With the acquisition of SuccessFactors and the addition of the SAP cloud innovation portfolio, 2012 was really the tipping point, where we could prove the value of having cloud solutions that integrate in real time to the On Premise software.</p>
+          <p>We cover now four dimensions, relationship to customers, relationship to suppliers, relationship to people and, of course, the financial relationships. And with that we can extend beyond the reach of the traditional On Premise software. And of course for companies who don't want to spend time on IT at all, they can run the entire business in our Suite in the cloud.</p>
+          <p>The slide shows you customers that were SAP customers and have now chosen to add on SuccessFactors capabilities in the cloud, more than 250 companies in Q4. Actually the win rate of SuccessFactors as part of SAP is now three times higher. That shows that SAP customers prefer cloud from SAP now. And I think Lars would say it &#x2013; and I'm sure he might later &#x2013; that 2013 will be legendary based on the growth that he has seen in 2012.</p>
+          <p>And finally we added Ariba as well to the cloud, with that redefining cloud not just to be about software as a service but the value of a network effect in the cloud. With Ariba we have the largest enterprise network in the cloud, and companies will benefit from this additional value of connecting with other companies and optimizing their processes across company boundaries, not just within company boundaries.</p>
+          <p>We are a major player in the cloud. We have the most users. We have the broadest portfolio, the most consistent portfolio, and with Ariba, the largest cloud-based business network in the world. We are in a very, very good spot to become a &#x20AC;2 billion cloud player by 2015 and as Werner mentioned, a profitable cloud business.</p>
+          <p>The second big invention that really changed the game in the industry is of course HANA. And with HANA we are challenging a number of fundamental assumptions. I remember an analyst's meeting back in 2010 where I was asked what is the most important decision that the Board of SAP needs to make in the coming years for its success? And I said it is probably how we choose to leverage the memory computing technology. I think we are now proving that that was the right statement. Since 2010 our team lead by our innovator Vishal Sikka, have not just delivered and reinvented real-time computing, they have probably made the biggest breakthrough happen in the enterprise computing industry the last 20 years.</p>
+          <p>HANA is challenging the mature database and redefining real-time and adding simplicity. HANA was delivered in three stages as visioned by our Co-founder and Chairman Hasso Plattner. We started with a sidecar as an accelerator back in 2010. 2011 we delivered business warehouse on HANA for the first time, replacing the disk-based relational database in a system and giving real timeliness to analytics.</p>
+          <p>And a very important launch was a couple of weeks ago on the 10 of January when we launched the Business Suite on HANA. With that for the first time in history we have a transactional and an analytical environment running on one real-time in-memory based database. This will change the way businesses are run.</p>
+          <p>We believe that with this starts a new era of enterprise computing, like we started a new era in 1992 with R/3. We chose not to call it R/4 because we're delivering this in non-disruptive way to our customers, which means we expect faster adoption because of the value of the Business Suite running on HANA.</p>
+          <p>So clearly we made investments in 2012 in sales, and you see that in the numbers, and in opening up two very important parts of the future, the cloud business and the HANA technology to drive not just growth in 2012, but in the years to come and accelerate the transformation of the industry.</p>
+          <p>One of the key differentiators that Bill already mentioned is our industry experience. And from the solutions point of view, what that means is that we combine all of our products across five different categories and pre-package them based on best practices into specific solutions for 24 different industries. We have now added the new technologies to these solutions, the mobile, the in-memory and the cloud. And this has meant a radical improvement of our competitiveness in each of these industries where we were typically already the leader.</p>
+          <p>In manufacturing we've added the capability of constant re-planning because a material requirement planning can now be done in minutes instead of hours. We of course optimizing the supply chain so that companies in manufacturing can make sure they produce the right stuff at the right moment in time and get it to market fast.</p>
+          <p>In banking, we are redefining risk management to be a real time event, and I do believe that that's very important in the financial industry in general. We see the interest. And of course, most importantly, we're bringing the banking experience and the services to everyone in the world, the consumers through their mobile device, which is the new bank.</p>
+          <p>And finally in retail, another example of adding mobility, in-memory computing, and cloud to understand individual requirements of customers. Bill mentioned Burberry as a great example of how you can now understand individual requirements and deliver on them instantly through the mobile experience.</p>
+          <p>You look at this from a distance, over a three-year period, you will realize that the performance is very much based on our pace of innovation.</p>
+          <p>Since 2010 we have become twice as fast. We are now, in average, have a time to market which is below eight months. Which means we're as fast as a start-up, but we have the muscle of a large company with the best field organization in the world. This combination is why SAP is now taking market share in new categories and creating new opportunities for us to increase our value delivery to the customer and, of course, our share wallet at the customer, causing this transformation of the industry to happen.</p>
+          <p>We've a new innovation process that is faster. Because of our early involvement with customers, we build beautiful products that meet customer needs, first time. Because of our non-disruptive innovation strategy, it's easier for customers to consume our software. Because of our RDSs, we are now able to reduce the cost of implementing the software at the customer. And all of this has led to the speed that you see from SAP. This is a sustainable, competitive advantage and the reason why we feel good about the future.</p>
+          <p>So let's come to an end. We believe that we are in a very good spot. Our guidance, you have seen for 2013, tells that the momentum will continue. We also feel good about our opportunity to exceed the &#x20AC;20 billion by 2015 at 35% margin. Our innovations and momentum that we started have caused SAP to take the lead in a new era of enterprise computing. We are proud of our progress the last three years and feel very good about the opportunities ahead.</p>
+          <p>Back to you, Stefan.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, Jim. As you know, we had an important announcement two weeks ago and many investors and financial analysts were unable to listen to the press conference. So it's my pleasure to hand over to Vishal Sikka, our Executive Board Member in charge of Technology Innovation who will speak briefly about our flagship innovation SAP HANA.</p>
+          <p>Vishal good morning to you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Good morning Stefan and thank you. Thank you, Jim. As you just heard that 2012 was a breakthrough year for SAP on many different fronts, especially in technology and innovation which is driving SAP's overall growth. In particular with HANA, our flagship in-memory technology, we revolutionized the data warehouse and analytics market as well as in the application development market. HANA gives us an opportunity to reinvent the entire enterprise software platform. As Jim just mentioned, in 2012 HANA experienced strong momentum with 142% year-over-year growth.</p>
+          <p>The success with HANA is because of many factors, and a key point is that we have really embraced design thinking principles and have partnered closely with more than 1,000 customers so far to build solutions that address typical customer needs.</p>
+          <p>HANA is a modern platform for delivering new applications, analytics and entirely new user experiences. And at the heart of this innovation is the ability to conduct business within the smallest windows of opportunity in real-time and analyze the business, predict outcomes, make decisions, and drive new business transactions that the reality of today's markets demand. HANA is changing the way business gets done today.</p>
+          <p>With HANA, customers can not only rethink their existing business processes and applications without disruption, but more importantly can deliver an entirely new class of applications and business processes that were not possible before.</p>
+          <p>Co-innovation and design thinking exercises together with customers have been a key contributor to our success so far with HANA. Bill already talked about this. It is clear that design thinking is key to our collaboration with customers and a significant differentiator that we have in delivering value to our customers. And we have sparked excitement in the existing SAP development community and new development communities in an unprecedented way.</p>
+          <p>We have opened new ecosystems for the developers from more than 160 startups and others who are building on HANA, cloud and mobile. We are focusing on the total developer experience from how they can find, try and experience our software to the software development experience itself, which we believe can be retaught with the power of HANA.</p>
+          <p>And on January 10, SAP achieved a significant milestone. The culmination of the HANA and the SAP business with teams working together over the last year with the delivery of SAP Business Suite now powered by HANA. Customers are now using HANA as their transactional database under their Business Suite instances. Once again, SAP is changing the game in the enterprise software industry just like we did 20 years ago with R/3.</p>
+          <p>SAP is also committed to customer choice and an open ecosystem. This means we will deliver all the Business Suite innovations and optimizations across all the supported databases, firmly delivering on customer choice and an open ecosystem.</p>
+          <p>So what does all of this means for SAP in 2013? It means that HANA will continue to be a strong driver of growth with expected revenues of &#x20AC;650 million to &#x20AC;700 million and a triple-digit number of Suite on HANA customers by the end of the year.</p>
+          <p>To sum it up, with this delivery of Suite on HANA and the work that we have done on consumer applications and on the HANA platform, we have set the stage for next generation enterprise computing, one with a new modern platform like HANA as the foundation and one that will enable us to scale new heights in 2013 with some amazing initiatives that we have coming.</p>
+          <p>And with that, I will hand it back to Stefan.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>So thank you, Vishal, for the overview on one of the most exciting innovations we have at SAP.</p>
+          <p>I would now like to start the Q&amp;A session. We're happy to take your questions. For those of you who are on the Internet, you can send us questions by email to investor@sap.com. If you are on the phone <mark type="Operator Instructions" />. I think we have to wait a short moment in order to line up all the questions.</p>
+          <p>Operator we would like to take the first question, please.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="5">
+        <plist>
+          <p>Mr. Winslow, can we have the question please?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Hi yes this is Phil Winslow from Credit Suisse. This question is for Bill. Bill, you've had a lot of sales head count in 2012 and you talked about sort of leveraging those going forward. Wonder if you could kind of step us through in how you're going to focus the sales force across HANA, mobile, the core and cloud? And then also similarly for Jim, you've seen a similar kind of increase in R&amp;D expenses in 2012, how do you sort of imagine leveraging that in 2013? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, Phil, this is Bill. I'll go first. The first thing we want to do is create an organization where we know more, care more, and do more for customers than any other company in our space. So we have our sales and services business aligned around the customer. That was one shift that we made to get service and sales working together. So we can rapidly deploy pre-packaged software and services with a rapid fuse to value.</p>
+          <p>If you think about Ariba, you think about SuccessFactors, you think about database technology in HANA, think about those categories as having a specialist sales force that works in collaboration with the SAP account executive. So we have the best of both worlds. We have the account executive who owns this very strong SAP relationship plan, but it's a specialized world and you can't go against best of breed competitors without the best of breed specialist.</p>
+          <p>So we combine our AE who is an expert in our Suite and analytics with our specialist who knows the cloud, database technology, in-memory HANA and of course mobile. And that's the way we've structured it in a highly consistent way across all regions of the world.</p>
+          <p>And incidentally Phil, some of that head count also went after some real growth markets such as Turkey, the Middle East, North Africa and China just to name a few, where we know the size of the prize is big, and we don't want to undersell the opportunity. That's the key to get the growth now so we can get the scale later.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>So let me take the question on R&amp;D effectiveness. We have for the third year in a row improved the R&amp;D ratio to revenue. And I'm proud of that in particular in 2012, because it included two acquisitions where the strategy was not to take out cost but to accelerate innovation. So if you look at that &#x2013; and don't forget these were cloud-based revenue companies, so they don't add the full value, so to say, on the top line.</p>
+          <p>We have a very consistent program in place since 2010, and we have a significant increase in R&amp;D and because we are not planning big acquisitions in the near future, we see part of the margin expansion also happening in R&amp;D in 2013.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>
+            <mark type="indiscernible" /> (55:17)</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>So thank you. Thank you Jim. We would like &#x2013; sorry, Phil, did you have a follow-up question?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Oh, yeah just one quick follow-up for Werner on the Ariba breakout, cost of revenue was a little higher than we've seen previously for Ariba standalone. Was there anything sort of one-time or is the change in allocation of COGs versus what they had in the past?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>This integration related expenses.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Got it. Thanks guys and congrats.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks Phil.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Thanks much Phil. Operator, we would like to take the next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Next question is from Adam Wood from Morgan Stanley.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Great. Thanks very much for taking my question. Just two if I could. First of all on the guidance, on the licenses and the cloud subscriptions, obviously you've given &#x2013; you have very strong growth guidance around HANA and also on the cloud, and of course that implies slightly slower growth in some of the other business areas.</p>
+          <p>I wonder if you could just help us out understanding what you're seeing on the core business units around ERP and BI and then maybe on some of the areas that have been growing very quickly in the near past, the database business and the mobile business. Are there any headwinds or kind of unusual items there that we'd expect to see that slow? Or are you confident that the kind of growth rates that we've seen can continue on those?</p>
+          <p>And then just secondly on the U.S. side of things, we've seen another change on the U.S. Again can you just reassure us on what's happening in that market and how quickly you expect the execution to be back to where it was in the past? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Adam, thank you very much for the question, this is Bill. First of all I want your help, because when I saw the headlines reading the U.S. is slow at 3% growth, I knew we had a communication problem. Because when you combine the On Premise and the Cloud, it grew at 24%.</p>
+          <p>So the swing can be quite large, and we need you all to adjust your thinking around the license growth is now going to be a combination of the On Premise and the Cloud, we give choice and the customer gets to consume our software any way they want, that's a competitive advantage. Incidentally, our nearest competitor also has recognized the need to record revenues this way, so please keep an eye on that.</p>
+          <p>As it relates to our innovation products, HANA continues to be a break-out growth story. We guided &#x20AC;650 million to &#x20AC;700 million, but let's face it. The Suite on HANA is one of the greatest inventions of all time. Let's see.</p>
+          <p>As it relates to the cloud, we have been triple-digit growth in the cloud, we expect that to continue. Werner gave very strong guidance, &#x20AC;750 million in the cloud, &#x20AC;1 billion when you add up the services with the software, beautiful. And mobile continues to grow well above 50% on a year-over-year basis.</p>
+          <p>So we feel great about the innovation, but we also feel great about the core. Make no mistake, the core applications and analytics of the company have to grow very well for us to have given you an 11% to 13% SSRS guidance. Incidentally, is there any other software company this transparent, that breaks out a cloud as a line of business, software plus cloud and SSRS? So you have it all and everything is growing.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>And if you look to the midpoint of our SSRS guidance, the underlying software would be around 10%.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>In the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Thank you very much. We now take...</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>All right thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>...the next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Next question is from Rick Sherlund from Nomura.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>...calibrate as we try to look at organic growth, what is the &#x2013; if you were to put SuccessFactors and Ariba numbers in last year, what kind of revenue growth or billings growth are we seeing? And then if we could just drill down with Lars, maybe get his perspective on what he's seeing in the field? How this is working out for him? And how much of a benefit he's seeing from being part of SAP?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Maybe I could just answer one question Rick, which is the organic growth is 98%. Don't forget SuccessFactors came to us in February. We didn't even get Ariba until October. So it's 98%. And I think Lars is on the line, who I'm sure is very excited to tell you how unbelievable the cloud story is. Lars?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>Absolutely Bill. So Rick, what we're seeing is a shocking, I'd say extremely fast. I have to say, I had not expected it to be this fast, and it's fast everywhere. And what you're really realizing is the global access of SAP. SAP is in 160 countries, no other cloud company is. And we are now therefore, with our cloud products and Ariba and SuccessFactors and the SAP cloud products, in all those markets instantly in one brand. And you see it in our acceleration of growth.</p>
+          <p>We've accelerated our growth. And not only have we accelerated it, the way we've accelerated it, the way you want to do it, all yield sizes are up. And they're up significantly. In most categories, particularly the big ones, you're quadrupling. So you're running into a quadrupling of your multi-million dollar deals, and that's just not done and heard of in cloud.</p>
+          <p>It took around I'd say six to eight months to get there. Q3 and Q4 have just been shocking in the growth. And now we're feeling it. We're right now at FCOM, this is our global launch for all our sales forces in all the regions. And the energy is just astounding and shocking, the way everybody is talking to each other about how great and legendary 2013 is going to be. But most people say, they've never seen market conditions, products, opportunity and market precision like this ever in their life before.</p>
+          <p>And the partnership we're doing with people like Rob Enslin, who has become a friend, who is a &#x2013; truly a real rock star in the sales world globally. The way we're working together with his teams in every region and all of the people working together and both of us accelerating our sales forces, so we have complete access to all the opportunities that are there. It's increasing our total available market.</p>
+          <p>But what's more exciting to me personally, and I know you like to drill in Rick, is that we're doing deals now that couldn't have been done before. When Bill McDermott invited me to the Executive Advisory Board meeting of SAP's largest customers in Washington, D.C., I met several customers that have been SAP customers for 20, 30 years. They were not ready to buy cloud, and they told me cloud is not for them.</p>
+          <p>Well in Q4, six, seven months later they all bought multimillion dollar deals in all regions APJ, <mark type="ph" /> DAC (1:01:52) EMEA and North America and Latin America. That's just shocking to me, but that's the power of SAP and the real cloud products coming together and the real people in the field getting together. So that's the way we're increasing the total available market, which is unique to me and quite frankly, unbelievable so quickly.</p>
+          <p>When you look at a deal like the Pepsi deal, this is now the world's biggest cloud core HRS market deal with 100,000 seats, the biggest at 300,000 in total. They came up to me after I got off the stage at SAPPHIRE, so again this is the true SAP power working. Off the stage at SAPPHIRE mid-year, walked up and said, you sound like you're ready.</p>
+          <p>With the type of engineering resource, the experience of going global the way only SAP goes global and being double as big as number two in terms of apps, you now have the knowledge and the local access and all the specifics that are so complicated to achieve and takes a decade to achieve in terms of content, for local HR knowledge in each of these regions. I went to get <mark type="ph" /> Oswald and Ben Liautaud (1:02:55), who runs these areas and said, can we get all that content please? And they gave us the 200 people and then said you can have them as long as you want. That's the type of partnership that makes us unstoppable and that's what's going on everywhere we are.</p>
+          <p>We are now also powering the whole Suite on HANA, launching that this year. And in totality what we've experienced is that when we go to these customers first the way we do and they see cloud, they not only buy cloud at a great price, they also accelerate their on-prem buys. That's what I have to say.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>And maybe &#x2013; Werner here, Rick &#x2013; the last comment from my side. You asked for the contribution of the acquisitions to our SSRS growth rates. If you look to it at a &#x2013; at constant currency, the contribution was 2.7 percentage points, and on the margin side I mentioned before, it was 100 basis points.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Thank you very much. Let's take the next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Next question is Michael Briest from UBS.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Good afternoon. If I could follow up on Rick's question. In terms of Employee Central, can you give us a sense of how many customers you have out there now? And I appreciate there was nearly 100% growth in the subscription billings at SuccessFactors in Q4. I don't think we have a like-for-like number from Q4 2011. Could you actually give us the hard figure for that? And then finally on HANA, you're now over 100 &#x2013; over 1,000 customers. How many of those are actually live?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Lars, do you want to comment on the cloud and Vishal do you want to comment on HANA, do you want me to?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>Yes, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>So...</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>So the story is in SuccessFactors, our real &#x2013; our growth in new which is what matters, what's add to our recurring. It's 100% in each quarter. It's basically &#x2013; we've &#x2013; as you heard Jim say, we're in a situation where we've doubled our win rate. When we show up in this constellation with the powerful industry expertise of SAP and the knowledge of these people in the field, we just win. And we win pretty much everywhere we show up.</p>
+          <p>In terms of Employee Central, what we're able to do there, which is &#x2013; I've not heard about a acquisition of a company be so powerful in terms of positive synergies, not negative synergies. What happened with Employee Central is that we've grown it 4x, and the reason we've grown it 4x is because we were able to take some of the amazing engineering power in Germany and in Palo Alto and put that immediately on SuccessFactors the day we got acquired. And that has accelerated not only our capabilities, but our content and thereby massively our competitiveness.</p>
+          <p>And so there is no better, but also better looking, and fresher experience in core HRS system of record, than the total ERP in the cloud that we can now deliver in 2013. We have My Finance, which is built from the people who built R/3. They're working for me on this cloud product. It's a beautiful financial product.</p>
+          <p>We have the core HRS, and we have suppliers from the company that absolutely has had the most success in that market, Ariba. And then we have the sales and the customer and all of the support piece and marketing on the customer side of the business. This is a excellent and really relevant offering to all of our customers. And I'll hand it over to Vishal.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Thanks Lars. We have more than 500 implemented HANA projects already. We had a &#x2013; in terms of the number of live customers, we are approaching 200. And in addition to that, we have close to 300 live implementations of HANA 1.0, which is the HANA installation running on the cloud, on Amazon's cloud or on other clouds. And we have more than 70,000 hours of development systems of HANA that have already been turned on.</p>
+          <p>So we are seeing tremendous adoption of HANA not only in the sales but also in the go lives, and across the board we see that the time it takes for a HANA instance to go live is rapidly coming down. We have had customers that have gone live, for example with BW on HANA or with COPA Accelerator on HANA, or even standalone HANA instances within days. We have major customers that have gone live with BW on HANA within nine days and so on.</p>
+          <p>So we are seeing tremendous adoption not only in the sales but also in the go live of HANA.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Thank you very much. Let's take the next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Next question is from Laura Lederman from William Blair. Mrs. Lederman?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Yes thank you so much for taking my questions. If you look at HANA and ECC, all working together, can you kind of talk a little bit about the adoption curve? In other words, BW on HANA happened very quickly, because it's so logical and I guess a little less of a change than running an OLTP system on HANA. So could you just talk a little bit on how you would expect that curve to look in terms of adoption?</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Vishal do you want to comment on that?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yes I can say something and perhaps Bill and Jim can add. Our sense is that we will have triple-digit customers on Suite on HANA before the end of this year. As Jim talked about and I talked about earlier, we expect that our Suite on HANA is a non-disruptive evolution for customers, so that it is not only an opportunity for customers to accelerate and simplify their Business Suite deployment, but also it is an opportunity to simplify the underlying landscape by bringing together OLTP systems and OLAP systems in one, under &#x2013; with one underlying foundation.</p>
+          <p>In terms of the adoption, these are complex systems, complex deployments, complex choices that customers have to make. So we are assuming that we will get to triple digit number of customers this year, and then we will take it from there as we go forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay. And Bill, a question for you. When you look at this Q4, obviously if you add in the cloud revenues, the quarter looked quite good. Can you talk a little bit about was there any impact at all from fiscal cliff? Was this Q4 different than any Q4, any more slippage to the normal? Just a general feel versus expectations when you went in. What was different?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah Laura, one of the things we try to encourage the SAP team to recognize is there's always going to be challenges, whether it was the European debt crisis or the fiscal cliff in the U.S. So we seek no cover behind challenges.</p>
+          <p>Having said that, there is no doubt that in the United States on a CapEx basis in particular, there were some large customers that right to the end were rationalizing their CapEx budgets. And if they had handed out that budget already, and you were late in that cycle, you simply were left at the waiting line. So that was the biggest thing, just really dealing with the big ones on the CapEx side.</p>
+          <p>Having said that, we see early evidence already, now that we're through the fiscal cliff, that into the new calendar year that has loosened up and returned to a normal state again, which is quite encouraging.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>You're welcome.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Thank you very much, and due to time we have only one more question. Operator, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>And the next question is Mohammed Moawalla from Goldman Sachs.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Can you perhaps talk a bit about the profitability of the Cloud business? You talked at length that you're seeing this big acceleration in both bookings and revenues. Does that change your thinking with regards to the profitability, goals for that business and timeline? And then also can you give us a sense of when this business can be cash flow positive, given that this is a sort of a revenues build over time?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah Mo. Let me take this question here. I think whatever you said about the Cloud business is factored into our 2015 guidance. And I think I mentioned before, Q1 from the segment perspective &#x2013; sorry, Q4 from a segment perspective provided &#x20AC;15 million in profit. And I think we're on a good way with our run rate in the cloud, with the expectation on our total cloud revenue for the full year 2013 that we will definitely be profitable in the cloud in 2015. More is going to come and we do not want to disclose it at this point in time.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Right. And just following up on the cash flow side, can you comment any further?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We will do this in combination with regard to the &#x2013; an overview on the total Cloud business in 2015.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you very much. This concludes our financial analyst call for today. Thank you all for joining and hope to see you soon. Thank you very much and bye, bye. Thank you.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

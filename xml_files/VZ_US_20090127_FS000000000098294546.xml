@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1201675" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q4 2008 Earnings Call</title>
+    <date>2009-01-27</date>
+    <companies>
+      <company>532</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Ronald H. Lataille, Senior Vice President, Investor Relations</participant>
+      <participant id="2" type="corprep">Ivan G. Seidenberg, Chairman and Chief Executive Officer</participant>
+      <participant id="3" type="corprep">Dennis F. Strigl, President and Chief Operating Officer</participant>
+      <participant id="4" type="corprep">Doreen A. Toben, Executive Vice President and Chief Financial Officer</participant>
+      <participant id="5">Thomas Seitz</participant>
+      <participant id="6">Ivan Seidenberg</participant>
+      <participant id="7">Ronald Lataille</participant>
+      <participant id="8">John Hodulik</participant>
+      <participant id="9">Doreen Toben</participant>
+      <participant id="10">Dennis Strigl</participant>
+      <participant id="11">Michael McCormack</participant>
+      <participant id="12">David Barden</participant>
+      <participant id="13">Simon Flannery</participant>
+      <participant id="14">Michael Rollins</participant>
+      <participant id="15">Jason Armstrong</participant>
+      <participant id="16">Timothy Horan</participant>
+      <participant id="17">Christopher King</participant>
+      <participant id="18">Phil Cusick</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good morning and welcome to the Verizon fourth quarter 2008 earnings conference call.  <mark type="Operator Instructions" /> Today's conference is being recorded.  If you have any objections, you may disconnect at this time.</p>
+          <p>It is now my pleasure to turn the call over to your host, Mr. Ron Lataille, Senior Vice President, Investor Relations of Verizon.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, Stacy, and good morning everyone and welcome to our fourth quarter 2008 conference call.  Thanks for joining us this morning and I'm Ron Lataille.  With me this morning are Ivan Seidenberg, our Chairman and Chief Executive Officer; Denny Strigl, our President and Chief Operating Officer; and Doreen Toben, our Chief Financial Officer.</p>
+          <p>Before we get started, let me remind you that our earnings release, financial statements, the investor quarterly publication, and the presentation slides are on the Investor Relations website.  This call is being webcast.  If you would like to listen to a replay, you can do so from our website.</p>
+          <p>I would also like to draw your attention to our Safe Harbor statement.  Information in this presentation contains statements about expected future events and financial results that are forward looking and subject to risks and uncertainties.  Discussion of factors that may affect future results is contained in Verizon's filings with the SEC, which of course are available on our website.</p>
+          <p>This presentation also contains certain non-GAAP financial measures.  Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures are also on our website.</p>
+          <p>I'd like to very quickly cover the differences between reported and adjusted earnings for the fourth quarter.  Reported earnings per diluted share were $0.43.  Adjusted earnings per share before the effects of special items were $0.61.  We are excluding the following special items from adjusted results.  The first is an after-tax charge of $424 million or $0.15 per share for severance and other related expenses.  Included in this charge are pension settlement losses for employees receiving lump sum distributions resulting from our previous separation plans as well as charges associated with additional employee severance in 2009.</p>
+          <p>We are also excluding an after-tax charge of $35 million or $0.01 per share for merger integration costs as well as a charge of 31 million after-tax or $0.01 per share related to an other than temporary decline in the fair value of our investments in certain marketable securities.</p>
+          <p>With that, I will now turn the call over to Ivan for some opening remarks.  Ivan?</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Ron, and good morning everyone.  Before Doreen presents a full financial review of the quarter's results, Denny and I would like to provide a few opening comments.  To state the obvious, 2008 was a difficult economic environment and there is more than the usual uncertainty as we try to plan for 2009.  It is pleasing to report, however, that throughout 2008, we stayed focused on our strategic business model and made progress in delivering value to both customers and shareholders.  We were able to grow earnings more than 7%, increase the dividend by 7%, and grow free cash flow before dividends by about 14%.</p>
+          <p>We feel confident that we took the right steps during the year to maximize growth and potential returns of the business going forward.  For example, we improved our spectrum position with the purchase of nationwide 700 MHz licenses.  We acquired the Rural Cellular and Alltel properties and we spun off some wireline properties in northern New England.  We passed more than 3 million additional homes with fiber, opened 3.3 million homes for sale of our FiOS TV service, and expanded FiOS availability in big city markets like New York.</p>
+          <p>We also reached long-term agreements with our labor unions, the CWA and IBEW, and very progressively put that issue behind us; and as we expanded our worldwide reach, product and service portfolio, and customer support capabilities for our large enterprise customers served by Verizon Business.</p>
+          <p>Our strategic investments are driving innovation and allow us to have better products and services and therefore be a very formidable competitor in every market we serve.  As a result, we were able to effectively gain share and at the same time grow revenues by 5% and increase ARPUs, the key metrics for our success.</p>
+          <p>Denny and Doreen will review many of the operating numbers with you, but I think the results reflect solid execution by each business unit; and in the context of 2009, indicate that we clearly have the potential to continue to perform well both absolutely and relatively in this very challenging market.</p>
+          <p>So with that, I'd like to ask Denny now to provide us with some additional comments on our operational performance.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thank you, Ivan; good morning everyone.  I share Ivan's confidence.  Our business will continue to compete effectively and we think it will do so in any environment.  Within each of our businesses, that means we must continue to innovate and be leaders in the marketplace, and I think we can demonstrate that leadership in each of our strategic areas in 2008.  I'd like to give you some examples.</p>
+          <p>In Wireless, we launched a total of 36 new devices in 2008, more than one-third of which were PDAs or smartphones, and we already have about two dozen new devices scheduled to launch in the first half of 2009.  We were the first to introduce nationwide unlimited plan aimed at the high end of the market and the first to introduce megabit pricing for data usage.</p>
+          <p>Our Open Development initiative is another platform for innovation and we made solid progress partnering with developers this past year with 29 approved Open Development devices.  We were again recognized by industry organizations and publications in 2008 for providing the highest level of satisfaction and setting the standard in customer service for the wireless industry.  And just last week, our focus on providing customers with the most reliable network service paid off at the Presidential inauguration when our service held up under the strain of significantly higher than normal usage while others struggled.</p>
+          <p>FiOS was also a market leader in 2008.  In terms of speed, we expanded our industry leading consumer broadband connection speeds of up to 50 megabits downstream and 20 megabits upstream to our entire FiOS footprint.  We expanded our high definition offer to include over 100 HD channels.  We continue to add features, enhancements and upgrades that no other provider has matched in our home media DVR, our interactive media guide, our content search, and our interactive widgets.  And FiOS has been recognized by various publications and surveys as being a superior, best-in-class service.</p>
+          <p>And in Verizon Business, we continue to expand our capabilities as the leading provider of advanced communications and IT solutions to governments and businesses throughout the world.  Nearly 70% of our customers have or are in the process of transitioning to private IP services.  As in our other businesses, industry experts and partners gave us recognition for our capabilities throughout the year.</p>
+          <p>Although the environment continues to be challenging from both a competitive and economic perspective, our strategic focus has not changed.  We will continue to focus on growing revenue, taking share, and at the same time improving profitability.  So from our perspective, the fourth quarter demonstrates that our business continues to perform well, both operationally and financially.</p>
+          <p>If you look at the fourth quarter in absolute terms or relative to our historic growth, it was a good quarter.  We delivered year-over-year revenue growth in all strategic areas, over 12% in Wireless, nearly 37% in broadband and video, and over 8% in the key strategic services offered by Verizon Business.  In addition, ARPU grew 1.4% in Wireless and over 14% in Consumer.  Customer growth was also good this quarter: 1.4 million Wireless net adds, record net adds for FiOS with over 300,000 new TV subscribers, and 282,000 new FiOS Internet customers.  We also saw some sequential improvement in retail residence primary line losses and DSL.</p>
+          <p>We were also focused on productivity, of course, and improving productivity throughout 2008.  Wireless once again showed improvement in our already industry leading cash cost per subscriber metrics, and we remain the industry leader in margins.  In FiOS, we reduced install times by 15%.  In addition, the Telco group reduced force by over 10,000 last year, and by the way over 22,000 in the last three years.</p>
+          <p>So as we said in the third quarter, Verizon Business also saw some increasing competitive pricing pressures and some upfront costs related to new contract wins that affected our margins.  This quarter, some volume declines tied to a weakening economy increased the pressures on margins.</p>
+          <p>So in summary, we made progress but we can do more and we will stay operationally flexible and look for ways to simplify the business and manage the cost structure for long-term margin improvement.</p>
+          <p>Doreen, I'll now turn it over to you for a review of the details of the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Thanks, Denny.  Turning to slide five, consolidated revenues grew nearly 1.1 billion or 4.6% in the fourth quarter, finishing the year at 97.1 billion, representing top line growth of 5.1% in 2008.  Our margins also expanded in the fourth quarter and full year.  Operating income grew 6.6% in the fourth quarter and 9.2% for the year with full-year margin expansion of 70 basis points.  EBITDA grew 5.4% in the fourth quarter and 6.2% for the full year with the 2008 EBITDA margin increasing to 33.5%.  Finally, we ended the year with earnings from continuing operations of $2.54 per share, up 7.6%.</p>
+          <p>Turning next to cash flows and the balance sheet, we ended the year with 26.6 billion in cash flows from continuing operations.  As we expected, total capital spending declined 300 million year over year to 17.2 billion.  Our ratio of CapEx to revenue improved 120 basis points to finish the year at 17.8%.</p>
+          <p>In 2008, we also returned value to shareowners, paying 5 billion in dividends and repurchasing approximately 1.4 billion of our stock.  Our balance sheet metrics remain strong with net debt of 42.2 billion, including more than 9 billion in cash held in anticipation of the Alltel closing and net debt to EBITDA of about 1.3 times at the end of 2008.</p>
+          <p>With regard to the financing for the Alltel transaction, we used a combination of Verizon Wireless and Alltel cash, proceeds from prefundings, and a 12.35 billion bank bridge loan to fund the acquisition.  Looking ahead, we anticipate that the bridge loan will be paid off with Verizon Wireless free cash flow, proceeds from the required asset divestitures, and term-out financing which we estimate will be somewhere between 6 and 7 billion.</p>
+          <p>Now let's look at our segments, beginning with Wireless.  Wireless had a strong quarter of high quality retail customer growth, capping a year in which we added 5.8 million organic net new retail customers.  Excluding divestitures, total net adds for the fourth quarter were 1.4 million.  All of these were retail and 93% were postpaid.  We divested a net 122,000 customers, primarily in Rural Cellular markets, as part of a previously announced exchange agreement with another carrier.  We ended the year with a total customer base of 72.1 million, 67 million of which were retail postpaid.  We have just over 3 million prepaid customers and only 2 million customers from resellers.  Retail growth adds in the fourth quarter were essentially flat both sequentially and year over year.  On an annual basis, retail growth adds were up 3.5%.</p>
+          <p>Churn was up two basis points sequentially; and on a year-over-year basis, total churn was up 15 basis points to 1.35%, and retail postpaid churn was up 11 basis points to 1.05%.</p>
+          <p>We also maintained a strong Wireless revenue performance, delivering double-digit revenue growth for the quarter and for the year.  Total revenue grew 12.3% in the fourth quarter and 12.4% for the full year, and service revenue grew by 12% on both a quarterly and annual basis.  Total service ARPU increased 1.4% in the quarter and 1.2% for the full year, making this 11 consecutive quarters of year-over-year growth in ARPU.  As we've seen all year, about 70% of service revenue growth is driven by wireless data.  Wireless data represented 26.8% of total service revenue in the fourth quarter.  Data revenue is now in excess of 10 billion annually, up 44% in 2008.  Total data ARPU in the fourth quarter grew by $3.02 or nearly 28% year over year.  The main drivers of this growth continue to be broadband access and usage, e-mail, and messaging.</p>
+          <p>Revenue from non-messaging data services represents more than half of the total wireless data revenue.  Non-messaging data revenues grew 52% in the fourth quarter and 53% for the year.  The fact is we are still in the early stages of non-messaging services with relatively modest adoption rates so far.  So we continue to see plenty of upside potential as we further penetrate the customer base and as the proliferation of new devices stimulate demand for more and more wireless data usage.</p>
+          <p>Smartphone sales continue to accelerate, representing more than 37% of the retail devices sold in the fourth quarter, up from 30% last quarter.  Obviously, we expect that the ARPU, particularly the data component, will be significantly higher from these devices.</p>
+          <p>With our enhanced spectrum position, 4G plans with LTE, and our Open Development initiative, we are well positioned to compete for future wireless data growth.  As it is today, our focus will be on driving revenue growth, increasing ARPU, and generating cash flow.</p>
+          <p>We also enhanced our growth opportunities through the acquisition of Alltel.  This acquisition has many compelling long-term strategic benefits.  It expands our network to cover nearly the entire United States population, improves our revenue mix by increasing the Wireless portion to about 55% of total Verizon, and makes us the largest US carrier in terms of total customers, which will be in excess of 80 million following the required divestitures.</p>
+          <p>In addition, the Alltel merger also provides us with significant synergy opportunities.  To refresh your memory, we identified saving opportunities with a net present value in excess of 9 billion.  Our estimates for cost synergies, both capital and expense, as well as the estimates for integration cost to achieve those synergies are unchanged from our announcement last June.  Having just closed the transaction, we are still reviewing the Alltel financials to determine our opening balance sheet.  Higher than expected financing and interest costs will impact earnings accretion in the short term; however, this is clearly a value creating transaction.</p>
+          <p>To summarize, Verizon Wireless continues to demonstrate success in achieving both strong growth and profitability.  Chart 10 displays an impressive list of metrics for 2008.  Our continued focus on increasing retail market share, retaining customers, and improving operational efficiency has resulted in sustained double-digit revenue growth, increasing ARPU, industry leading margins, and substantial cash flow.</p>
+          <p>The EBITDA margin on service revenue was 47.2% in the fourth quarter and 45.5% for the full year.  We had some favorable impacts in the fourth quarter, which resulted in higher profitability than normal.  Absent these items, the fourth quarter and full-year margin would have been in the 45%-plus range.  Going forward, you should continue to expect us to maintain EBITDA margins within the previously stated range of 43 to 45%.</p>
+          <p>Wireless capital spending for the year was 6.5 billion and the CapEx to ratio revenue [CapEx to revenue ratio] was 13.2% at year-end, an annual improvement of 160 basis points.</p>
+          <p>Let's next move to Wireline, starting with the consumer market.  Our FiOS results this quarter demonstrate the power of our triple play offer and show the resilience of our value proposition, even in a slowing economy.  We had our best FiOS quarter ever with record net adds for both TV and Internet.  And while we remain pleased with our progress in New York City, I will once again say that it was only one factor in the strong results across the board.</p>
+          <p>During the fourth quarter, we added 303,000 new FiOS TV customers, ending the year with just over 1.9 million subscribers and a penetration rate of 21%.  So during 2008, we more than doubled our TV subscriber base, adding 975,000 customers, and increased our penetration by roughly 500 basis points.</p>
+          <p>At the same time, we also significantly expanded the availability of the FiOS triple play, ending 2008 with 9.2 million homes open for sale for FiOS TV and a 57% increase in market availability in just one year.  More than 2.2 million of these homes opened for sale during the third and fourth quarters.  And earlier this month, we passed the 1 million mark for premises open for sale in the multi-dwelling unit or MDU category.  So we're clearly building momentum and gaining critical mass.  And as we previously said, there is a strong correlation between homes open for sale and customer growth in subsequent quarters.</p>
+          <p>On the broadband side, we added 214,000 net new subscribers in the fourth quarter, a 66% sequential improvement.  We added a record number of new FiOS Internet customers with 282,000, and we saw some sequential improvement in DSL.  We ended 2008 with 2.5 million FiOS Internet subscribers, adding 956,000 customers during the year for an increase of 63%.  We also saw our penetration rate increase by about 400 basis points to 25%.</p>
+          <p>From a FiOS deployment perspective, we passed 12.7 million homes as of the end of 2008, so we're a bit ahead of our planned rollout schedule of 3 million homes per year.  Fiber-to-the-home now passes about 40% of the total households in our land line footprints and 93% of the 10 million FiOS data homes open for sale can purchase a triple play, up from 80% a year ago.  We will continue to expand FiOS triple play availability as we further expand existing markets and enter new urban markets later this year.</p>
+          <p>On the traditional access line side of the business, we saw some sequential improvement in retail residential primary lines, which were down 460,000.  Total switched access lines declined by 911,000.  We continue to see an increasing correlation between our triple play availability and line retention.  In the past, we referenced an average improvement in line retention of about 250 basis points when we look at video markets open for sale for more than six months compared with markets with no fiber-to-the-home.  By the end of the year, we were tracking average improvements of about 400 basis points.  As FiOS continues to scale and we extend triple play coverage, we are optimistic that this correlation will strengthen and we see a more meaningful improvement in overall line loss trends.  FiOS remains at the center of our consumer strategy as our broadband and video services continue to drive consumer revenue growth.</p>
+          <p>Legacy consumer revenues grew by 2.9% in the fourth quarter and were up 1.7% for the full year.  Broadband and video revenues totaled 1.2 billion in the fourth quarter, up 42%, and totaled more than 4.2 billion for the full year.  We are also seeing consistently strong growth in consumer retail ARPU, which increased 14.3% from fourth quarter a year ago.  About 80% of this increase is attributable to new services we've introduced within the past few years.  Our overall FiOS ARPU continues to grow and now stands over $133 per month, and the FiOS triple play ARPU is even higher.</p>
+          <p>Now let's take a look at Verizon Business.  Total revenues in the fourth quarter declined 124 million or 2.3% year over year.  We are starting to see some revenue softness that we believe is cyclical and economy related due to a combination of delayed decision-making on the part of the CIOs and lower volumes tied to rising unemployment.  With the strengthening of the dollar, the negative FX impacts this quarter were also significant.</p>
+          <p>As we said all along, there continues to be a shift within enterprise customer spending toward strategic services like private IP, managed services, and security.  Our strategic services now comprise 30% of the total Verizon Business revenues.  Revenues from these services continue to grow, up 8.4% in the quarter.  Looking ahead, you can expect us to continue to be disciplined and balance new sales and profitability, and we are focused on increasing the range of our professional consulting services and improving our competitive position in this area.</p>
+          <p>In summarizing Wireline, I'd emphasize that we've made good progress in improving our revenue mix and competitive positioning.  Broadband and video services now comprise more than 31% of legacy consumer revenue.  FiOS is on plan both financially and operationally and will continue to provide us great opportunity to drive customer growth and revenue growth.</p>
+          <p>We are also very focused on continuing to improve capital and operational efficiency.  In Verizon Business, the continued shift to services like private IP resulted in strategic services revenue growth in excess of 16% in 2008.  So we are well positioned to compete in all the strategic growth areas of the company.</p>
+          <p>As you can see, Wireline EBITDA margin in the fourth quarter fell below the 27% we experienced in the first three quarters.  There were several reasons for this.  First, pressure on Verizon Business as significant increases in non-farm unemployment late in the fourth quarter resulted in volume declines in higher margin services as well as lower volumes for small business customers.  In addition, there were some timing issues related to forced reductions and organizational realignments as well as increases in bad debt, marketing, and some information system contracts.</p>
+          <p>So to wrap up, from a financial perspective in 2008, we were able to continue growing revenues in the mid-single digits, deliver bottom line earnings growth, generate solid cash flow growth, and return value to shareowners through dividends and share repurchases, and we were able to arrange the necessary financing to fund the 28 billion acquisition of Alltel; all things considered, solid performance.  Our balance sheet is healthy and we are in a strong financial position.  Our investments are clearly paying off, driving volumes and revenues in our key strategic areas, and the capital efficiency of the business continues to improve.</p>
+          <p>In terms of net pension and other post-retirement benefits expense, we are estimating an incremental negative impact on earnings per share of between $0.09 and $0.11 in 2009.  And from a funding perspective, we estimate a 300 million funding requirement in 2009 for our qualified pension trust, which is slightly less than last year.</p>
+          <p>For 2009, we are targeting capital spending excluding amounts related to the Alltel acquisition to be less than the 2008 total of 17.2 billion.  We've indicated that as a cautionary measure, we intend to start out the year at a lower annual run rate and ramp up as we move through the year as appropriate.  And we expect that our ratio of CapEx to revenue will continue to improve.  And finally, we have confidence in our ability to generate cash, invest for growth, and return value to shareowners.</p>
+          <p>And with that, I'll turn it back to you, Ron.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, Doreen.  Stacy; Ivan, Denny, and Doreen are now available to take questions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you.  <mark type="Operator Instructions" />  Your first question today comes from Tom Seitz of Barclays.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Good morning, thanks for taking the question.  Can you describe the economic forecast that underpins your view that you're going to be able to grow earnings this year?  I think you previously said that.  Are you assuming current trends will hold throughout the year, or does growing earnings require some improvement in the economy?  And then secondly, we're just through the election.  Can you give us some early insight into whether or not you think the more radical net neutrality proposals might start popping up?  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Tom, Ivan here.  I don't think we have any magic economic forecasts that we have looked at, but here's a theory of the case.  When we look at '08, our view is we stay focused on our strategic innovation or capital investments and the execution on the part of Denny and his team.  We obviously layer in things like the Alltel transaction.  Our view is that, as I said earlier, we have the potential to continue to perform well absolutely and relatively.  So I don't think we have any specific forecast.  I think Doreen will reaffirm this, but the idea is visibility into 2009 is less clear than it has been in other years, but the thesis here for us is clear focus on outperforming our competitors in the market and doing well relatively.</p>
+          <p>On the election, I think the new administration has been very responsible.  They've been reaching out.  There's lots of dialogue.  I think they recognize that the most important issues they have right now are to focus on the balance in the stimulus package between tax benefits versus grant approaches to things, stimulus spending versus tax.  There are lots of meetings going on.  The Business Roundtable is focused on this issue.  We've been working with the Administration.</p>
+          <p>Net neutrality, I haven't had anybody ask me about it in the last couple of weeks.  I'm sure it's out there someplace, but even some of the players within net neutrality, Tom, have already modified their position on it.  I don't view that as an issue that will dominate the headlines for a while.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Okay, great.  Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, Tom; Stacy, next question?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you.  Your next question comes from John Hodulik of UBS.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thanks, good morning. If we could talk about margins real quick, both on the Wireless and the Wireline side.  On the Wireless side, very strong, obviously above the longer-term corporate guidance.  Could you talk about some of the drivers there?  And then as we look out to how the competitive environment keeps evolving, is that what we can expect going forward?  And then on the Wireline side, obviously very different than your longer-term guidance; is this the level or in this range is what one can expect while the economy remains weak?  It sounded like a lot of the drivers that you talked about in the prepared remarks were really driven by the economy.  Obviously, it could be some time before things improve, plus this sector is generally thought of as something of a lagging indicator.  Is this the right level going forward in 2009?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>John, it's Doreen; I'll start with the Wireline and Wireless margins.  I think as I've said every time I meet with investors, there can always be a quarter that will bump up over the 43 to 45.  Clearly if you want to miss, you want to miss on the upside.  This quarter, there were some one-time having to do with vendor credits, some other systems pieces, so I would look at this more as a one-time, and we will go back to the 43 to 45, so nothing earth shattering that happened, just a lot of moving pieces this particular quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>I'm sorry, Doreen.  Can you maybe quantify some of that, or is it a lot of just little nits and gnats that you don't want to break out?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>Mostly nits and gnats; I'm not going to give you the vendor credit number because that's not something that we disclose, but it was more significant than it typically is in the Q, and the rest were nits and gnats that added up to a number that bumped over the 45.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay, got you.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>John, this is Denny.  On the Wireline margin, I'd make several comments on this.  First of all, FiOS is on plan and helping, EBITDA positive for the full year in '08.  And as we look at FiOS, the strategic transformation has gone very well for us.  Of course, there's always a lag in the margin when you go through a transformation like we have on FiOS.</p>
+          <p>FiOS productivity is improving.  On the line loss side, as you have heard, there's no change there.  We continue to reduce for scenarios that are not growing, and we're in the process of consolidating our Wireline, Telecom, and Business network organizations.  We expect that will generate some efficiency and productivity improvements in the network planning area, engineering, the maintenance functions, and we have a number of ongoing initiatives in the areas of customer self-service, process automation, flow-through, back office productivity, and so forth.  Longer term, our guidance on Wireline margins really hasn't changed.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>The additional comment I would add is I did give the guidance of pension and OPEB of between 0.09 and $0.11.  You should think of that as almost exclusively Wireline...</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Right.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>...which will hit obviously in '09, so that will certainly be an impact for next year.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Okay, John, thanks.  Stacy, next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you.  Your next question comes from Mike McCormack of JPMorgan.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Hi, thanks guys.  On the Wireless side, can you just give us a little more data?  You talked about non-messaging data revenue being an opportunity.  Maybe comment just on the impact of the economy, head count reductions, the use of BlackBerries, and also the AirCard business.  And secondly on the enterprise side, can you just give us some sense for the impact of FX on the international side because it certainly looked like it rolled over pretty hard on growth rates.  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>I will start on the FX, and Denny, do you want to go...</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Sure.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>Actually, the impact was the largest impact that we've seen ever, Mike, to the tune of say 110 to 120 million sequentially.  We have a very sizable international portfolio, so it was, in fact, a very big number sequentially.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Mike, on the Wireless question, I guess the underlying question there is, is there a slowdown in Wireless, or what has changed in Wireless.  I think you need to look at a number of factors.  Service revenue grew 12%.  ARPU increased 1.4%.  Data revenues for us continued to grow about 41% as Doreen had said.  And non-messaging revenue, that is non-messaging revenue increased 52%.  So we're selling more smartphones, Doreen mentioned in her comments about 37% of the retail devices that have been sold.  We're increasing our focus on the business segment where we have relatively lower share, so our growth drivers are clearly performing for us.</p>
+          <p>So we're the first to report, but I don't think that we lost share this quarter.  Our porting ratio actually improved.  We have no evidence of slowing or customers trading down either on plans or features.  Our churn did pick up a bit compared to the prior year, and I think you saw about 11 basis points increase on postpaid churn.  I can give you specifically where we see most of that; about five basis points from access cards.  That probably reflects the employment issue, the layoffs in many businesses.  About four basis points on third and fourth line disconnects, and we see no porting evidence that they're going to other providers, so I think that's economy related.  And I would just conclude by &#x2013; I think we're well positioned to compete and we'll continue to have strong financial performance in our Wireless company.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Denny, as you look into '09 with Boost and Leap and Metro entering your markets, is there anything you guys are going to differently?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Mike, no.  We're going to do nothing differently and this always comes up two or three times a year.  So if you look at Sprint, Boost, Leap, and Metro, I think, as you know, that's not our primary focus.  And our primary focus is on the retail postpaid market, so that's not something that we're going after strongly.  And I don't see it having any impact or at least a negligible impact to date, so I don't think there's any need for to us respond.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Do you feel the same way on the Wireline business, just from a replacement standpoint?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Yes, we do.  Yes, we do.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Great.  Thanks, guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Okay, Mike, thanks.  Stacy, next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question comes from David Barden of Banc of America.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Hey guys, thanks, just a couple if I could; number one, if you could just share how the Qwest relationship impacted net adds reporting in the quarter.  Obviously, we're expecting you guys to see an acceleration in that, bringing adds over to your base over the course of the year.  And then just second, maybe Doreen, on enterprise; obviously incremental to the currencies, could you talk a little bit about the financial sector and some of the consolidation we're seeing there and what impact you think that might have incremental to the standalone currency impacts we saw year to date?  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>David, let me start with your Qwest question and frankly, I don't have much to tell you there.  Qwest started selling Verizon Wireless service to new customers in the fourth quarter.  These are &#x2013; they're Verizon customers.  It's not, I think as you know, a reseller agreement.  Notification of Qwest's Sprint customers will occur starting this quarter, so no specifics to give you but we expect Qwest to be overall a very good distribution partner.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>David, I think we saw an impact in both the financial and retail sectors, particularly in LD minutes.  After you started to see the November and December unemployment and the job losses is where we really saw it kick in.</p>
+          <p>Verizon Business is probably the hardest visibility for next year.  You saw the job announcements yesterday, so trying to determine what impact that's going to have on the different sectors has been difficult.  The one thing has been financial and retail that we've seen the biggest changes in to date.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>If I could follow up real quick, Doreen, just on CapEx, you guys have been talking about slowing it up a little bit at the beginning of the year, trying to come in lower last year.  Is this more of containing Wireline to right-size the business?  Is this maybe holding off on LTE deployments to see how the year unfolds?  Where are the savings going to be emerging in this business?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>I would say it's not a containment.  It's really to start out slow, see what we need to do so we don't get ahead of ourselves and putting in capacity that we don't need.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Okay, David, thank you.  Stacy, next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you.  Your next question comes from Simon Flannery of Morgan Stanley.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thank you very much, good morning.  Denny, I wonder if you could expand a little bit on the Open Development initiative.  You talked about 29 devices approved.  Are we going to see those coming online in the next month or two, or is that somewhat longer term?  Also on LTE, if you can just update us on the timeline of what we might see in the next &#x2013; in the remainder of '09 and into 2010?  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Okay, thanks, Simon.  We're planning on the LTE piece to do our market trials later this year, so they are scheduled for '09.  We are working with our manufacturers, very good cooperation in that regard.  Commercial availability in 2010, and our goal is within the first half of 2010.</p>
+          <p>The ODI, those devices will come online as we roll out our LTE initiative, so in conjunction with that.  But the 29 devices, some of them are actually ready to go on our existing 3G network, so I think it's positioned very well.  Obviously, machine to machine is the focus of our ODI, and I think we've got a good start in that regard.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>A delay on the cutover of digital TV shouldn't cause a problem there?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>No, it shouldn't.  We're trying to work through that issue, but certainly later in the year had been our plan on the trials, and we're trying to work through whether even with the DTV delay, whether we could use some of that spectrum to work out the trial.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Simon, the bill as we understand it, allows certain programmers to cut over sooner if they're ready, and it gives us a chance to use that spectrum where it's available for testing and to move forward.  So, I think the way the bill is currently constructed, the potential for further delay beyond the June 12 date is probably very low.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Great, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Okay, thanks, Simon.  Stacy, next question,</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you.  Your next question comes from Mike Rollins of Citi Investment Research.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Good morning, just a follow-up on the Wireless side.  As growth in the industry slows and potentially more of the growth comes from data and upselling customers, why wouldn't margins improve above the guidance that you've had of 43 &#x2013; 45 over time just as marketing could be scaled across slower adds but better revenue from existing users?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>Mike, this is the age-old question and it's the same answer.  We continue to balance growth and margin.  And so we want to make sure as the growth is available to us, we don't slow down the growth enough to impact the margin, so it's really a growth and margin and we just think that continues to be the right balance.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Okay, Mike; Stacy, next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question comes from Jason Armstrong of Goldman Sachs.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thanks, good morning; a couple questions, maybe just for a start, one more on the Wireless margin outlook maybe from a different angle.  43 to 45% range that we talked about, the Alltel deal synergy targets get you somewhere in the range of 150 to 200 basis points of margin enhancement.  So I guess the question is what keeps us at the 43 to 45 in the context of the Alltel enhancement, because what it implies if you stay there is that you intend to reinvest those synergies back into the business?</p>
+          <p>And then second question on enterprise, you obviously flagged the pricing pressure.  There are the FX headwinds.  Denny, you mentioned volume slowing down.  Can you give us the outlook for this business?  I think a lot of us, we look at a framework of the last cycle where enterprise was down double digits.  Can you just help us think through that?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>I guess if I start on Alltel, I don't know that I agree that it should kick us up above 45.  There clearly is reinvestment that we're doing.  If you think about the handsets that need to be replaced for Alltel to enable us to get more data revenue growth, that's probably a short-term piece.  So I just still think 43 to 45 is all right and will not bump us up above that on an ongoing basis.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>On the enterprise side, let me cover just a number of things that hopefully will help here.  We did see of course specifically weakness in financial services and in the retail sectors.  I think we're seeing a correlation between the significant force reductions.  Certainly Doreen had mentioned this.  And the force reductions are causing lower volumes.  LD usage dropped from quarter to quarter and was at the lowest level in at least two years.  So we expect the layoffs and consolidations will probably continue to have an impact in 2009.  Certainly, as Doreen indicated, the announcements that you heard yesterday will have an impact.  For our part though, we're still focused on driving growth where we can, and we're enhancing our long-term growth opportunities.  Long term, enterprise customers we think will seek more bandwidth capabilities, add new applications, buy our managed services, and we're well positioned to deliver in all of those areas.</p>
+          <p>And of course, we continue to manage the cost side of the business.  Now I might mention here too that we continue to look for ways to partner.  And you will soon see a formal press release that Verizon and Accenture have reached agreement on a strategic partnership that leverages our complementary assets and capabilities.  We'll do joint marketing, sales initiatives which will be launched first in the United States, and then will expand globally as opportunities arise.  And again, you can expect to see a formal press release in that regard shortly.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Denny, on the enterprise side, as we think about how we could bottom out this cycle versus how we bottomed out last cycle, I guess as people think through the puts and takes, the positive is that you've got a heck of a lot more pricing discipline this cycle relative to last cycle.  The negative is this cycle is a heck of a lot more broad based across enterprise.  As people look at a framework of down high singles, low double digits, is it better or worse this time?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>This is Ivan.  I think we all have an opinion, but let me just make a couple of points.  First of all, we have a much better industry structure than we had the last time out.  We're more consolidated.  We're more focused.  We have better products.  I think we have much better products to sell into the market once the market starts to pick up.  So my guess is there are some positives there, and you're correct, it's broader so you have some issues on that side.  But this is where I think Denny has talked about productivity and cost and doing partnerships.  Net-net to me, the industry is healthier this time around so I think we should bottom out differently and we should see the upside in a much better way.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Okay, thanks a lot, guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>All right, Jason, thanks; Stacy, next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, your next question is from Tim Horan of Oppenheimer.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Sorry, just back on the enterprise front again.  Can you talk about maybe what percentage of revenues are more usage base correlated there; and then secondly, maybe where you think some of the pricing pressure is coming from because clearly the industry structure is a lot better than we saw last time?  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>Tim, the biggest usage base is LD and I don't have at the tip of my tongue what percentage of it is really LD to be honest.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Sure.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>Ron has it here, so he thinks it's about 20 &#x2013; 25%, so that would be the usage piece; and I'm sorry, the second part of your question?</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Where do you think the price competition is coming from?  Is it driven by customers because it doesn't seem like you have an awful lot of competitors right now?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>It is driven, Tim, by contract renewals.  So every time we see a customer, a three-year, four-year contract expiring, there is very heavy price competition, and essentially that's where you see it.  It's price takedowns on renewals.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Thanks and then one last one, Doreen, on the FiOS side.  As you do all your puts and takes, it looks like your mass markets revenue should turn positive here in '09.  I'm not looking for guidance on it, but do you think access lines have peaked or how are you feeling about those trends in terms of overall mass markets; if not maybe this year, when you think that turns positive?  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>The consumer revenue was positive this quarter, right, and so if you take out &#x2013; when we have mass market, we have if you will the old MCI long distance, which is national.  So you've already seen consumer be positive this quarter; so obviously, FiOS just gets better from here.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, Tim.  Stacy, next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question comes from Chris King of Stifel Nicolaus.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Good morning, two quick questions for you.  First of all, I just was wondering if you had any broad commentary on the broadband stimulus proposals that have been flying around Washington over the course of the last couple of weeks, what you were looking for, what you would not like to see in any of those plans.  And secondly, I just was wondering; you guys are evidently selling a femtocell now over the course of the last couple of days really as just a signal enhancer it appears at this point; any longer term plans for that product offering?  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>I'll take the stimulus issue.  Look, I think we're part of the process.  We appreciate it to give you a benchmark.  What we like, things like depreciation and tax policy; what we probably don't like are grants that have a lot of government conditions on them.  So given the two benchmarks so far, the dialogue has been pretty good and we'll continue to comment on that.  But I think as you look at our company, we've made a lot of investments in broadband and what we don't want to see is additional government regulation on any new broadband that would have any backward looking impact on the company.</p>
+          <p>Femtocell, as you know, is the secret weapon of the century.  So you will I'm sure after one day of sale, we can tell you that it is the next millennium secret weapon.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>I do think it opens some good opportunity for us.  And for those of you that haven't followed this closely, it is a signal-enhancing device for both homes and businesses where we have weak signal.  We just see a good opportunity here, particularly as more and more customers begin to use broadband applications in the home and in the business and want to be portable with those devices, but nothing specific to tell you at this point.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, Chris.  Stacy, next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question comes from Philip Cusick of Macquarie.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Hi, guys; thanks for taking the call.  Working capital management was really good this quarter.  In particular, inventories were down 16% sequentially, which isn't typically what happens.  Can you talk about, was that an effort by you guys and do you expect that to come down further going forward, or how are you thinking about it?  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>I think one of the biggest changes that we had in the quarter was set-top boxes, and it was a concerted effort on our part to manage that process better.  And so that was really the biggest change to tell you the truth, and we are very focused on set-top box management going forward.  Also to some extent handsets; we had some handsets in the third quarter that we needed to work on and move those through, which we did.  So those are the two biggest changes that we will continue to work on all through '09.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Okay.  Do you expect that inventory to come down further going forward?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>The absolute inventory number in the balance sheet, I'm not sure.  Do I expect the inventory in the set-top boxes to come down, yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>That's great, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, Phil.  Stacy, I'd like to now turn the call over to Ivan for some concluding remarks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Okay, Ron, thank you and thank you all.  We are exhausted from all these questions here, so we appreciate all your interest and your interest in probing in the business.  Just a couple of comments, we think we had a very solid quarter.  We had an excellent year and we think that we have built solid momentum as we head into 2009.  Hopefully, you would think of us in 2009 as having built a solid foundation on execution, great financial discipline, innovation.  So we see no reason why the momentum we've developed in terms of our progress in the marketplace should not continue in some way.  Like all of you, we don't have perfect visibility into the economy, so the level of success we will have will be tempered somewhat by what the economy gives us.  But at this point, our view is that we'll continue to perform well absolutely and perform well relatively, and we're looking to continue to be a formidable player in the markets we serve.  And as the year unfolds, we'll obviously have more insights to offer you as we start to build the track record in 2009.  Thank you, Ron.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay, thank you, Ivan.  Stacy, that concludes our call today; and once again, I'd like to thank everybody for joining us, and see you next quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>This concludes today's conference.  You may now disconnect at this time.  Thank you for participating in today's conference call.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

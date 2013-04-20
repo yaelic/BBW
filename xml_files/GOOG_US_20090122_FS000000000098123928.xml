@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1205306" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q4 2008 Earnings Call - Q&amp;A Session</title>
+    <date>2009-01-22</date>
+    <companies>
+      <company>8238</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Krista Bessinger, Investor Relations</participant>
+      <participant id="2">Jeetil Patel</participant>
+      <participant id="3">Jonathan Rosenberg</participant>
+      <participant id="4">Patrick Pichette</participant>
+      <participant id="5">Krista Bessinger</participant>
+      <participant id="6">Mark May</participant>
+      <participant id="7">Jeffrey Lindsay</participant>
+      <participant id="8">James Friedland</participant>
+      <participant id="9">Youssef Squali</participant>
+      <participant id="10">Marianne Wolk</participant>
+      <participant id="11">Sandeep Aggarwal</participant>
+      <participant id="12">Gene Munster</participant>
+      <participant id="13">Ross Sandler</participant>
+      <participant id="14">Steve Weinstein</participant>
+      <participant id="15">Mark Mahaney</participant>
+      <participant id="16">Jason Helfstein</participant>
+      <participant id="17">Rob Sanderson</participant>
+      <participant id="18">Imran Khan</participant>
+      <participant id="19">George Askew</participant>
+      <participant id="20">William Morrison</participant>
+      <participant id="21">Sameet Sinha</participant>
+      <participant id="22">Benjamin Schachter</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good day, everyone, and welcome to the Google, Inc. Conference Call. This call is being recorded. At this time, I would like to turn the conference over to Ms. Krista Bessinger, Director of Investor Relations. Please go ahead, ma'am.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, Operator. Good afternoon, everyone. And Welcome to today's Fourth Quarter 2008 Earnings Follow-Up Conference Call. With us are Patrick Pichette, Chief Financial Officer, and Jonathan Rosenberg, Senior Vice President of Product Management.</p>
+          <p>After we cover some housekeeping items, we'll open the call immediately to your questions. Please limit yourself to one question and one follow-on. Also please note that this call is being webcast from our Investor Relations website located at investor.google.com. Please refer to our website for important information, including our earnings press release and the latest slide deck. A replay of this call will also be available on our website in a few hours.</p>
+          <p>Please note that we routinely post important information on our Investor Relations website located at investor.google.com, and we encourage you to make use of that resource. As a reminder, the purpose of this follow-up call is to give participants the opportunity to ask more detailed financial and product questions in an efficient and Reg FD compliant manner.</p>
+          <p>Let me now quickly cover the Safe Harbor. Some of the statements we make today may be considered forward-looking, and these statements involve a number of risks and uncertainties that could cause actual results to differ materially. Please note that these forward-looking statements reflect our opinions only as of the date of this presentation and we undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements in light of new information or future events.</p>
+          <p>Please refer to our SEC filings, including our quarterly report on Form 10-Q for the quarter ended September 30, 2008, as well as our earnings press release for a more detailed description of the risk factors that may affect our results. Copies can be obtained from the SEC or by visiting the investor relations section of our website.</p>
+          <p>Also please note that certain financial measures we use on this call, such as EPS, net income, operating margin, operating income, and our effective tax rate are expressed on a non-GAAP basis and have been adjusted to exclude charges relating to stock-based compensation. We've also adjusted our net cash provided by operating activities to remove capital expenditures, which we refer to as free cash flow. Our GAAP results and GAAP to non-GAAP reconciliations can be found in our earnings press release.</p>
+          <p>With that, we're ready to take your questions. Operator?</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you. <mark type="Operator Instructions" />. And we'll take our first question from Jeetil Patel from Deutsche Bank.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>Hey, guys, a couple of questions. I know you talked about on the main call, the just the advertisers having excess budgets to work with. Can you guys, just quantify what you have been hearing anecdotally. What kind of budgets are available still that haven't been spent or is there any difference between U.S. and maybe Europe and U.K. in terms of kind of budget availability out there among some of the marketers and customers you deal with? And then secondly, can you talk about depth in the fourth quarter? What have you done as it relates to depth of AdWords as it relates to Q4, relative to let's say Q3, or as a good proxy? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I'm not sure I fully understand the second part of the question on depth of AdWords. So, maybe you can figure out how to ask that one a little bit better. I can try to address the first part. I mean, I think we mentioned on the call that most of the advertisers are not budget constrained, and the way I think one of the folks internally talked about it is, it's almost like a broken slot machine. If you're a reasonably intelligent ROI guided marketeer, you're not going to cap your spending. It's basically like finding a broken slot machine that you're not going to get up from. And it's broken in the sense that every time you put a dollar in, n dollars come out, where n is bigger than the amount that you put in. If that's the case, you're going to want to do it 24 hours a day, seven days a week.</p>
+          <p>The traditional marketeer is kind of set quarterly, daily budgets along with ROI goals, and in our world in many ways, they have sort of decided to walk away from the machine and let someone else sit down in the seat. And we're not really sure why some of them choose to do that, so fortunately, it is a minority that are budget constrained.  I'm not sure I have much color on how that differs geographically. Patrick might.</p>
+          <p>On depth, I'm not exactly sure what you're asking. We talked about coverage on the call. Are you talking about ads per query? What exactly were you asking?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>Yeah. Just the number of ads you are serving per search result out there. I mean, obviously that may differ in terms of two ads versus three versus four. I guess what have you been doing in the fourth quarter as it relates to the number of results you're putting up, let's say top fold relative to let say quarters past.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I really don't think we go into any detail on the sort of intra ad serving dynamics with respect to the queries.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>Is that one way to generate more inventory as it relates to, obviously, you've got kind of the broken slot machine concept, where the ROI is still positive and it's working, why wouldn't you actually open up more inventory. But obviously, be selective and be careful about it. But is that something you're constantly refining, let's say every month or every couple of months around just yield?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well, we're constantly sticking with the original vision that we had for ads, which is basically trying to improve the quality and show the best ads that we possibly can. We want to really avoid showing poor ads. So we're not really thinking of it from the standpoint of, gee, we could increase yield by adding a few more ads. We're continuing to try to the show best ads.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Let me give an example on this. As we prune for quality, relevance and all of the other things that the engineers work for, you've heard that we've &#x2013; think back to early 2008 levels. You can imagine in a quarter where the exchange rate tanked really rapidly in a certain geography. You couldn't in the algorithms, right, make action &#x2013; the algorithms say, well, people are paying less for this pattern and willing to pay less for this ad because if it's converted into U.S. dollars it's a lot less &#x2013; and all of a sudden that would have been totally fine, because of the change in currency may not be fine any more, even though intrinsically it's totally fine in the algorithm.</p>
+          <p>So engineers spend a lot of time when they look at these wild fluctuations that we have, to look at it as an example to make sure that all the relevant ads that should be seen are placed. And they are relevant because they have the right cost and then when &#x2013; the adjustments in this example, but more importantly, they're what people want to see.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>So I think we're going to move on now to take the...</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Next question. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Mark May from Needham and Company.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Thank you. I guess this is an expense question for Patrick, pretty broad. But how confident are you that even in your worst case revenue forecast for this year that you can maintain the EBITDA margin roughly where you ended the year?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Well, first of all, let me clarify, we don't give guidance. We don't give guidance on margin either. So the one thing that I would say, as Eric mentioned, I think the management team is really working with two agendas always. One is, manage our resources prudently, given &#x2013; we are still &#x2013; I think Eric was right in saying in some ways, the easy part was done in Q4. In that sense, we have very &#x2013; this is a worldwide recession with a lot of poor visibility on what's going to happen in the world. We just have to be prudent. And that's what we're focused on.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>One of the things that's sort of subtle point that I'm not sure came across in Eric's remarks about Q4. One of the things that I think we did see and benefit from is that there was a lot of inventory on the part of a lot of retailers who had anticipated a better Christmas. And once it became clear that sales were really required and two for one deals were required and a whole different dynamic needed to occur to flush that inventory through, interestingly, what we saw in November and December was consumers searching much more disproportionately for two for ones, for sales, for coupons. And advertisers really trying to make sure that they were able to sell the inventory which they had purchased when they were anticipating a better economic situation.</p>
+          <p>So one of the things we have to ask ourselves now is how much of that inventory has actually flown through &#x2013; flowed through the system, which gets back to my answers from a revenue standpoint on commerce. And obviously, we would be adversely impacted if there were less total commerce moving forward. So that's really the wildcard from a user's standpoint that we need to watch.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>I guess the follow-up and another way of asking it is to what extent, Patrick and team, have you identified sufficient enough amount of expenses that you could cut in your worst case revenue forecast and the nature of those expenses, how quickly could you act on those?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Well, again, I'll only talk about what we've done in Q4, and I'll let the facts speak for themselves, right? I think the management team is managing the company and it's not just me. I mean, we're a management team focused on making sure that we deliver the results that we set for ourselves. I'm sorry, I am not going to get &#x2013; otherwise I'd fall into guidance, which I don't want to do. We're very prudent in our management for sure given the uncertainty. We'll go to the next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Jeffrey Lindsay from Sanford Bernstein.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Hi, thanks for taking my question. Can I ask, will the company be changing its wireless search strategy now that Verizon has decided to move its business to Microsoft? And so what can you do about this? And is this a priority for you to actually address that issue? And then second, could you just give us some sort of sense of what you're doing to improve the product development process? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Sure. This is Jonathan. I don't think that our wireless or our mobile strategy really is going to change. I think we have a pretty good balance of both searches that come via the partner channel as well as searches that come directly. So I'm certainly pretty confident that we've got lots and lots of organic search opportunities that will allow us to continue to move forward aggressively.</p>
+          <p>In terms of fundamentally changing the product and development cycle, yeah, I don't think it's changing that much. I think we're just getting better at measuring it. And I think we're getting better at figuring out how to more expeditiously allocate talent to the sets of things that are the most important, and that's really what the whole resource allocation exercise that we did in the fall looked at.</p>
+          <p>We went through every product, and we looked at the big drivers of cost, be they bandwidth or CPU, or storage intensive products, and the relative revenue opportunities. And really tried to quantify both short run and long run what our expectations were, so that we could do a better job of allocating resources. I don't think we're changing any of the core notions that we probably set forth in the Founders' letters when we got started. People are still working on 20% time. We're still putting a big premium on innovation. We're still putting a big premium on focusing on the long-term, and I think we're increasingly putting a premium on internationalization.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Just one last point I would make on the mobile strategy. I think that as Eric mentioned earlier, in the previous call, it is front and center in the strategy in the company, and Android and mobile continues to be a huge push . So the fact that one deal versus another deal I don't think is central to the strategy.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>And Jeffrey, just going back to the question you originally asked on Verizon, one of the things we didn't really get a chance to talk about on the previous call is that we're really seeing significant increases in the sales of these smarter phones, both the iPhone, which we mentioned, but also Android. And with those kind of phones, it's going to significantly grow the pie for mobile searches, and these smart phones have full browsers. And when you have a full browser, then you are typically &#x2013; you're not as dependent on a deal that locks somebody into a particular direction from a search perspective. So the better browsers get, the better phones get, and the better ecosystem that evolves there, the better from our perspective.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Yeah, but you're not on either of the major platforms though. You're not really on AT&amp;T, and you're not on Verizon. Verizon is the largest carrier. That means your partners  really are T-Mobile and Sprint. I mean, is that enough really to make Android viable?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well, we think the Android numbers will start to speak for themselves, particular this year, now that we've got some additional partners signed up to get to the next generation from a hardware perspective on the platform. So we are very optimistic about Android.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>We'll move to the next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Jim Friedland from Cowen and Company.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thanks. Two questions relating both to TAC [Traffic Acquisition Costs]. First on site TAC, it reached 5% of GAAP site revenues, up 50 basis points sequentially and it's growing a lot faster than the sites GAAP revenue. What's driving that, are new deals, changes in deals, et cetera. And then on network TAC, that was down on an absolute basis quarter-over-quarter, as well as a percentage basis, and what's driving that? You mentioned cleaning up AdSense for search on the previous call. If you could add a little bit more color there? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Just a couple points on that. One is, on our own Google properties TAC, are driven a lot by the deals that we have on the toolbars and all of the others that we're &#x2013; that we have. And obviously, these deals are multi-year, and so as they come true, they will increase in short-term, but we see tremendous value out of these, and therefore, they are good economics for us.</p>
+          <p>On the Partners TAC, obviously mixed overall TAC, obviously mix is a big element of it. Because of our mix during the quarter, that's had a big influence on us for sure. And then we also had &#x2013; then the second issue is DFS being weaker, obviously it influenced it as well. And then finally, on a more marginal basis, but nevertheless, revenue from our hedging activities was also recognized between our properties and than on partner properties as well. So the combination of all of that makes it that our partner properties have lower TAC versus the total TAC, as a percentage. I hope that answers the question.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Youssef Squali from Jefferies Company.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thank you very much. Patrick, the U.K. was down 1% sequentially &#x2013; I'm sorry, 1% year-on-year and 12% sequentially. When you FX neutral that, could you -- do you have those numbers? And then I guess, as part of that, how much of that is really FX versus maybe the U.K. market starting to mature a bit? From a monetization perspective, it was already over monetized or more, relatively more monetized than the rest of your territories. And lastly, on the stock option exchange, why did you guys decide to give employees options or repriced options when you could have maybe opted for restricted stock? Wouldn't that have been less dilutive?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Okay, two sets of questions, let me start first by the U.K. We don't give &#x2013; we don't do the math for everybody. So please, if you do the analysis and reverse engineer where the FX has gone over the last quarter, you will find that the FX has been a significant factor for the number that we reported. And, but you can't discount all &#x2013; I just &#x2013; the biggest issue for me is the issue of FX from these results, but you can't discount the fact that the macroeconomic environment, and the pressures that they have in the U.K., the U.K. is in a deep recession right now. So does the market also get influenced by this and the dynamics of advertising and spending and products? I am sure it is. I mean, it would be wrong to say that it's not, right? The U.K. is really being impacted by a deep recession. So it's a combination of those two rather than the maturity of the market that I think really impact it, with the first being the most significant factor.</p>
+          <p>In the case of the stock option versus the DSU or GSU restricted stock, I think there's a philosophy issue that Google has, which is that it wants to continue to make sure that people think of the company and manage the company as a growth company. And because of that, the mindset is that stock options is, in fact, the preferred way in terms of compensation versus DSUs, in the balance of things.  So that's why we kept on with stock options as the right vehicle. We'll go to the next question. Thank you for your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Marianne Wolk from Susquehanna.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>The first was regarding AdSense for content, which you implied or it sounded like you are implying grew faster than even Google.com this quarter. Is that because you are adding partners with the DoubleClick Ad Exchange or is that because pricing is improving? Can you just help us try to understand what kind of legs are there? And then the second question I had, if you will, will you talk a little bit about the competition, if there is any from Microsoft's cash-back program? Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>This is Jonathan. I'm not sure that we said that AdSense for content was growing relative to Google.com. I think we were talking about TAC and I think it would have grown relatively faster compared to AFF where we did some of the arbitrage cleanup. So I'm not sure that's what we said, but it is the case that AdSense for content has been growing.</p>
+          <p>I think that one of the interesting dynamics that we're seeing there, because we're monetizing better, and, yes, I think a lot of it is the product efforts that we're doing along with DoubleClick. We're getting more and increasingly it appears that we are getting better inventory, and it's particularly more recently with &#x2013; as the economy has slowed, it appears that some folks are giving us more of their inventory than they had in the past, and particularly some of the better inventory.</p>
+          <p>So, I think we see, if another network can't sell, the inventory comes to us, we're monetizing better. So I think that's basically the story.</p>
+          <p>The cash-back efforts that Microsoft is doing, we're watching that as carefully as we can. We don't really see much, and we don't see anything that is particularly sustained. We're continuing to see Google product search do very well from a traffic perspective in the last month, both domestically and internationally, so I don't think we're seeing anything different.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Thank you. Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Sandeep Aggarwal from Collins Stewart.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thank you. Jonathan, I know you have answered multiple questions on coverage but, I have one question on coverage, and then one or two product related questions. When you were decreasing your coverage ratio in '07 and maybe in '08, you theoretically sacrificed some of the searches for clicks which could have generated some revenue, and as you expand your coverage again, is it fair to assume that you may not regain all those searches which you probably lost when you were decreasing the coverage ratio?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well, sure, yes. I'm not going to gain a search that I lost last year.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>No, I mean let me clarify in the sense because you were decreasing your coverage ratio because you were improving the quality score, so as you expand your coverage, will you be able to capture the nature of those queries which were let go last time?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I don't think it's really symmetrical. I mean I'm not really sure, if increasing coverage is directly the opposite of decreasing coverage. So, I don't know. I think we'll be showing ads on a better set of queries and continuing to get business out of that.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay. And let me move to actually two product related questions. One is how similar or different is a mobile Internet generated search query versus a PC generated search query in terms of a CPC as well as a mix of commercial versus research related searches?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah, that's interesting. I'm not sure we know the answer with respect to CPCs, because I don't think that market has matured as well as it needs to from an auction dynamic standpoint. One of the things that we just started doing is making it much easier to run your PC-based queries on the mobile devices and customize the ads so that they look better and work better on the mobile devices.</p>
+          <p>The only data points that we've seen so far is that click-through rate seem similar to that of desktop computers, but I don't think we have a good sense yet for what CPCs will look like in a more mature market. I personally think that they could be much higher, because I think when people are going to the trouble of running a search on a small portable device, particularly a location-aware small portable device, they're much closer to consummating a transaction and so you can imagine that that search is more valuable, particularly to an advertiser in close proximity to where the search is run. Mobile is bigger on the weekend, which is another trend that we've seen. I think desktop is bigger during the week but those are really the only other clear trends that we've observed.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Thank you. We'll go to the next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll go next to Gene Munster from Piper Jaffray.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Hey, good evening. If you could talk a little bit about &#x2013; just from a very high level from the economic environment, I know you're not economists, but is it reasonable to expect some form of seasonality emerging in the business in 2009?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>There's obviously seasonality within the business, just because the economics of &#x2013; as you look back to last few years, Q4 is a very strong quarter. Q1 is also our stronger quarter relative to Q2 and Q3 where people are on vacation and they do a lot less browsing. So, seasonality is part of the business, always has been and continues to be.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay. Great. And then second is that you mentioned on the previous call that some of the behaviors around the holiday quarter in comparison shopping and so forth and more people doing searches, but do you have any expectations about some of that search behavior in 2009, that same kind of Wal-Mart effect continuing or just any general thoughts on search behavior in '09?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>No, I guess the only comment that I could have there is the comments that we made about consumers shopping for deals everyday. We certainly measured some of those things and I think we've shared some of the data points that we had. It was true that on days like cyber-Monday, which everybody looks at after Thanksgiving, you see people looking more on coupons and rebates and price comparisons. But I don't think that behavior was limited to key shopping days. The increase of deal-seeking queries then was minor compared to the surrounding weeks, and I think you're going to see that people are going to keep &#x2013; people are going to continue to shop for deals if it's clear that there are deals out there.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>The next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Ross Sandler from RBC Capital Markets.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thanks for taking the question. First, on international, and then the second question on display. So on the international side, if my math is correct, international revenue ex-FX was up 35% year-over-year in the fourth quarter. That was an acceleration from 32% last quarter in 3Q '08 on an FX-neutral basis. So if the comments around the U.K. showing some macro sluggishness, where was the accelerated growth coming from? Was it particular to a geographic region, or was it more a factor of company-induced growth initiatives, like improving coverage? And then, a follow-up on display. Google's approach has been to kind of position the company for the days when purchasing display ads is an automated format, similar to how search is bought today. Do you think there's a need for a strategy in the interim to give large display advertisers and agencies a little bit more handholding to get things going in display before the buying process is fully automated, which could take a few years? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I'll answer the first and I'll let Jonathan answer the second. We're not going to comment specifically on the numbers you provided, but it is true that in the grand scheme of things international continues to perform well, where Continental Europe certainly is much less mature than the U.S. and the U.K. and grows, as we discussed in the previous call in some countries like Germany and a few others, Netherlands and others, have done fairly well, even in this economic environment.</p>
+          <p>It's also true that we have a number of environments where we are growing rapidly in our BRIC countries, so we've talked about China, we've talked about Brazil, and we have a lot of optimism for these countries because they are much less mature, so there's a lot of run runway in them. Different economics but a lot of runaway, so that covers the international. I'll let Jonathan cover the other question.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah. I think your observation is well taken. I think Eric said we want to make display advertising easy and we want to make it accessible for all advertisers and publishers. The challenge is, today it is extremely inefficient so that does make for a very big challenge. Lots and lots of activity in the display world happens even via faxes, never mind phone calls, and the logistics involve people doing things like literally cutting and pasting HTML code to get ads up and running on a site.</p>
+          <p>So I think we absolutely recognize that between now and when we can achieve the kind of science that we'd like, we've got to do a lot to continue to help advertisers get these ads going. One of the things, we've launched a display ad filter which does make it much easier for the small advertisers, particularly AdWords customers to use display and get reasonably creative professional looking display ads with the AdWords interface.</p>
+          <p>But, yeah, I think getting to the long run goal of making this more like Google AdWords is going to take time, and I think we need agencies to help with it, and there are some great agencies and SEMs who are helping carry this forward, and we'll keep doing whatever we can incrementally to make it easy for advertisers as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Steve Weinstein from Pacific Crest.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thank you. I'm curious, in your toolbar or other distribution deals, as those relationships and whether contract ends or you go with another partner, does your revenue commitment to that partner continue as long as someone continues to use that toolbar? Or is there a finite date where we could stop modeling that as an expense of the business? And then second, you've talked a lot about the display business, and you're obviously very optimistic about it. Can you help us get a sense of scale or size for that business today at Google and where it might become a meaningful piece of the business?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>We definitely don't &#x2013; you are not going to &#x2013; we're not going to give you detailed answers to either of these questions, unfortunately, but typically, in most of the deal type of efforts that we're engaged, we're paying for what we're directly receiving. So I'm not going to go beyond that. And we don't comment on the relative size of different businesses. But obviously display is getting to be quite significant and Omid [Kordestani] alluded to the degree to which the DoubleClick integration has made significant progress and YouTube is really using DoubleClick as a platform for the business that they're building. So it's already a meaningful and growing part of the business, but I think that's all we can say.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Thank you. Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Mark Mahaney from Citigroup.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thanks. Two quick questions. Patrick, back on the cost side I know you are not talking about costs going forward but what would you point to us as the best examples of cost constraints in just the fourth quarter, and the setup for the question is if we remove the revenue contribution, which must have been all margin from the hedging program, margins &#x2013; operating margins, non-GAAP operating margins, actually declined sequentially. So what do you think is the best evidence of the new cost controls that are at the company?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>So let me give you, I'm just looking for my list here &#x2013; I have a few lists of some of the ideas. We have in Q4, and I can share that with you, a couple of areas where it's pretty easy to understand how do you contain cost growth. So obviously hiring pace is a clear one, right, all right. I think last quarter we had, what, 400 people net new, or 500, somewhere around there. We have 100 for this quarter. We have talked about, in the previous quarter as well we did talk about managing our contractors and our temps in a better fashion, so again, opportunities there.</p>
+          <p>We have a lot of office space, Google has, right, because we're everywhere, and we've been sub-leasing some of this office space that we don't need in the short term; well again we have opportunities there. Improving machine utilization, I talked about it on the call a bit earlier. Using better machines save us a lot of CapEx and OpEx. Same thing for better utilization of bandwidth. So we have, in general, a number of other elements, if you think of our professional services, including self-service as well within Google, so that just to give you a sense of the broadness, it's a comprehensiveness, and it's one where we are just being responsible at managing our resources. So there is &#x2013; this gives you a sense of the expense management that we'll do.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thanks. And a quick follow-up just on the AdSense for search. I think the comment was made during the call about cleaning up the AdSense for search network, can you give us any sense of how far along the process you are in doing that?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I'll let Jonathan talk about it. It's more a treadmill than a climb.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I'm not sure I can give you a sense in terms of proportionally how much of the way we're there. Certainly, I think there was a disproportionate number of &#x2013; I think there were a good number of sort of shopping-oriented sites that were working in a manner that wasn't consistent with our terms but I don't think I can give you a sense of to what degree we've have gotten rid of all of it. Part of it is &#x2013; it's like dealing with e-mail spam. You get rid of it and then it comes back. So I think it's kind of going to be an ongoing battle, and I'm not sure I can &#x2013; how much I can predict how that's going to play out.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Great. Thanks. We'll move to the next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Jason Helfstein from Oppenheimer.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Thanks. I'm going to try to get three quick ones in. So, one, there was no mention of apps in the release, and I'm wondering if we should read into that. My second question, without giving specific numbers can you comment on paid click trends by geography, so perhaps like better or worse than the 18% you reported? And then just lastly, on cash, how much cash resides outside the US? And then connected to that would you consider buying back stock to offset option dilution? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>On the paid click stuff, I just wanted to say, we don't comment on the details. All I can say is as we have said in the previous call, right; we have healthy growth across all major geographies. So I'll cover that one. I'll let Jon talk about the apps and I'll come back to you on the cash issue.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah, I mean, apps are certainly one of the top things that I mentioned. I think I talked at the beginning about the fact that we've released over 100 enhancements to the whole application suite in 2008. So I think I said momentum is particularly strong, both Eric and I focused on the million business on apps number as well as the 10 million users and 3 million active users from schools.</p>
+          <p>So we continue to be innovating aggressively on apps. If I think about this last year, there was Google site, Google video. I know we had sync tools for outlook and Blackberry, numbers of large enterprise deployments. Eric's mention of the general continued demand for cloud driven effort and I also think that the opportunity here in 2009 is that as the enterprises are struggling to deal with increasing IT costs in a recession that should be a good opportunity for us. It's a relatively low-cost platform that's easily updated and delivers a lot of the functionality that they need.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Let me come back on the cash issue. I just wanted to check before &#x2013; we don't disclose that. So that's why. If we had disclosed it, I would have given you the latest update but we do not disclose that, so I'm sorry about. Is there a question on OBIDA? Ah, no OBIDA. We look at it all the time, like companies do all the time and there's no announcement we can make on that. Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Rob Sanderson from Broadpoint AmTech.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Two questions. One on the macro, one on the currency hedging program. Just want to revisit some of the things said here on the macro environment and impact it might have on seasonality. I think Jonathan was discussing, the two-for-ones and discounts. I think that also led to some more aggressive keyword bidding, but don't these dynamics set up a much more seasonal Q1 than we've seen in previous years?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well, again, we don't give forward guidance, but it goes back to the same thing I said before. It depends on the total amount of commerce and services that are occurring in the economy at large, so I wouldn't read much more into it other than that. Your ability to predict what's going to happen from a macroeconomic perspective in Q1 there is probably similar to ours. If there's less commerce overall, then that's going to adversely impact Google. If there's not, and there isn't sort of consumer-driven reductions in commerce and spend, then we should be fine.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Okay, thanks. And then on the currency hedging program, Patrick, you mentioned you're not fully implemented in the U.K. Is there any way you could give us a sense of what it may have looked like in Q4 had you been? And just on the basic mechanics of the program, it's a forward cash flow you're attempting to hedge out here, and I think &#x2013; does this mean as the dollar strengthens you see an unrealized gain that the flows back through the income statement over future periods that you are hedged against? So first, is that the right general mechanics and then if that's the case then, if currencies were to remain constant from here should we expect a similar gain in the future periods as we saw in Q4?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>The mechanics is right. I'm not going to pronounce myself about the future, because in the last six months I've been living through this rollercoaster so who knows. And on the first part of your question, we just &#x2013; all I can say is we implemented our Great Britain hedges in Q3. It is a partial affect in Q4 and they're taking full affect in Q1. And that's all we can give you. We'll take the next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll go next to Imran Khan from JPMorgan.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Hi. Thank you again for taking my questions. Two questions, then I have a clarification, just because I think there was some confusion about that. So the first two questions are, if you look at the seasonality in the fourth quarter business was there anything abnormal? Have you seen the growth rate, if I look at the year-over-year growth rate, October and November, versus December? Any color on that would be very helpful. And secondly, question for probably Jonathan, there was a &#x2013; it has been reported about the relationship with Warner Music, they are pulling out of their content out of YouTube. If you can give any color on that in terms of monetizing those music content that would be very helpful. And in terms of the clarification, the $129 million FX hedging, that helps your US &#x2013; that flows through your US revenue line or international revenue line, and Google.com versus AdSense. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Okay. On the seasonality issue we're not going to give you &#x2013; we just don't divulge October, November, December, we just don't go there. Could you just repeat your hedging question?</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Yeah. So the $129 million benefit that you had, do you recognize the revenue on your US revenue line, or does it help the international revenue line, or does it help the...</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I understand now. Sorry that was my &#x2013; we recognize, of the 100% of the 129, roughly, you can think of it as 70% for Google properties and 30% for the network properties. And so, therefore, you have to have a sense of what US versus international to actually &#x2013; but we do it actually not as much &#x2013; it's 100% obviously international, because we're hedging &#x2013; we don't need to hedge US. Right?</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Right.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>International, but the real question is, is it Google or network.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Got it.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>And then you had a question also on --</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>About YouTube, about Warner Music and it's been reported that Warner Music pulled out of their content out of YouTube. Any update on that, and it seems like it's also been reported about the how to &#x2013; or basically maybe phrase the question this way. How can we better monetize those music content that you have &#x2013; you license through the music industry?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>We've certainly still got great relationships with thousands of partners, including many in the music industry. So, we'd love to work with Warner, but I think we're going to continue to do what we've been doing, try to continue to make mutually beneficial deals and then try to do some of the things like we talked about on the earlier call with respect to better monetizing YouTube, which we sort of went through that on the call, that we're currently working on. So I don't think I have more of an answer than that.</p>
+          <p>On Q4, I think we have actually written in the past a little bit about exactly how Q4 differs from other quarters, particularly the blog that Hal Varian posted, which I think if you click Conversion Christmas 2008, you'll see it. And that basically talked about how CPCs tend to go up at the end of the quarter, and conversion rates go up even more, so that you have better advertiser ROI in December. I think we did still see that this quarter. I think it's a little bit more muted than it had been in previous quarters &#x2013; than in the previous two quarters, I should say.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>We'll go to the next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from George Askew from Stifel Nicolaus.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Yes. Thank you very much. The two quick questions. Does the employee stock option exchange program require a shareholder vote or any other approvals beyond the Board actions already taken?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>The answer is no.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>No. Okay. Fair enough. And then secondly, I believe in the past you may have tested display ads on Google's search result pages. What is the current thinking about that possibility as a new rollout, new opportunity?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>This is Jonathan. I'm not sure what tests you're referring to with respect to display ads on search. In fact, I can't remember our ever having done that. I can get somebody to verify that for you. We have done a number of tests on AdSense for content, and obviously we're presently running display there. But I'm not sure what you're referring to with respect &#x2013; but the only thing I can think of is, we did some very limited tests on image search and we're now beginning to experiment with that. But other than that, I don't know of any tests.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Okay. What is the appetite for possibly pursuing that? On Google's search result pages.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I think we've got &#x2013; we have to figure out the ad format, we'd have to figure out where it makes sense. I think as a general rule, it's &#x2013; there are not that many scenarios in which we have a big appetite on search. Maybe if you run a search for a movie, it would be nice to show you a movie trailer. So I think there are some limited number of scenarios, where that might make sense. But, maybe &#x2013; but beyond that, I can't really say. I certainly wouldn't say we'd never do something. But we've got to figure out a elegant way to do it in the right way for the user.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Thank you. We'll go to the next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll go next to William Morrison from ThinkEquity.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Hi, thanks for taking my question. Couple of questions on the use of data. I'm curious &#x2013; or I should say my understanding is that you do not use data you collect from Google search to improve monetization or the ads on AdSense for content. I just want to confirm that's true. And if it is, I'm curious if you &#x2013; if that's something you would never do, or it's something you would consider in the future. And then the second question is, on social media. I think the last quarter or the quarter before, you mentioned that monetizing social media was a little bit more difficult than you thought. I'm curious if you could give us an update on where you're at, and if you're making any progress there. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah, I think we can get pretty quick short answers on these. The answer to your first question is, no, we don't do that. The answer to the second half of the first question is that I generally don't want to say what we would or wouldn't ever do in the future, so I'm not going to comment there.</p>
+          <p>And the second &#x2013; the third question, I guess, on social media, I think is that it continues to be very, very challenging, and I don't think we have any big breakthroughs to report in Q4 with respect to how we're monetizing social media.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Move to the next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll go next to Sameet Sinha from JMP Securities.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Yes, thank you. Couple of questions I'll try to squeeze in here. When we spoke about advertisers bringing down CPCs just to make sure that campaigns are running successfully with the right ROI, can you talk about what was the extent and which verticals did you see that in? Second question is, with you allowing alcohol ads in the US, gambling in the UK, did you see any benefits from that, any initial reaction? And then the third question, Patrick, looking at your cash balance quarter-over-quarter, your interest income increased about 50 million, if I do the math there, it seems like you have an interest rate of 3.5%. I was wondering if those numbers look right?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>So let me cover the issue of &#x2013; let me cover the second point first, which is the issue of alcohol and otherwise. What we had found is simply that we had inconsistencies in the way- in the number of places all these things were legal and fine and in some cases we did offer it, and in some cases it was totally legal also in another country but we didn't. So what we did thus far was basically a cleanup to be consistent in our rules, wherever they apply.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>And it is generating revenue.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>And it is generating revenue. We &#x2013; on the issue of what we've learned it's really in a range of about 1.5 to 2% annually on our cash balance, and that's driven by the conservative stance we've taken in our portfolio right now, given all the uncertainty in the environment, we took the position to be very conservative in our &#x2013; in the management of our cash balances, and that's why we have a lower yielding portfolio than we would have otherwise contemplated.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Okay. I'm not sure that I can comment specifically to the observation that Omid saw in advertiser behavior and changes in bids by vertical. I did mention on the call, as I think he did, that by size of advertisers, we're seeing strength in the small and medium advertisers relative to the large ones. Some of the surprises I think that we saw with the verticals that I could &#x2013; that are interesting, is that autos really did much better than I would have expected, given the fact that the auto industry is doing fairly poorly. It appears that the subset of people buying cars are still of enormous value to the folks in the auto industry.</p>
+          <p>I think real estate still remains the hardest hit vertical, although the mix is changing. You see things like suddenly there are more searches on property management. Maybe people are buying houses at cheap prices then have to figure out how to use them as rentals. Foreclosures is bigger relative to mortgages than it was a year ago. Then I think maybe the one other area that surprised me, was you typically think that entertainment is a little more recession-resistant, and as a category that category I think didn't do as well as I have thought. So I assume that that has to do with some of the bid dynamics.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Okay. Just to do a follow up on the cash question. Your interest income increased by 50 million sequentially, your cash balance increased by 1.4 billion. Was that increase in interest income just due to the higher cash balance, or was there something else in it?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>No, we also had a realized gain on investment of 29 million from Q4.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>You'll find that in the numbers some place. We have time for one more question, so we'll take the last question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll take our last question from Ben Schachter from UBS.</p>
+        </plist>
+      </speaker>
+      <speaker id="22" type="q">
+        <plist>
+          <p>Just a housekeeping on that last point. It was there bad debt, that was also &#x2013; can you give any thoughts on the bad debt? And then Patrick, you've only been there about five months. And clearly a big part of your focus is on the cost containment initiatives. Could you talk about sort of where you are in terms of how you've actually influenced the numbers for this quarter? Or should we expect more of your sort of focus going forward? And then Jonathan, and broadly speaking, I was wondering if you could talk about any products that are not performing particularly well that you are rethinking and related to any specific comments about how Checkout performed in the quarter and the future of that business. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>On bad debt, basically &#x2013; do we have, so they're not yet. So, we're &#x2013; I mean, we're very comfortable with our bad debt, where they stand right now and you'll see that in all the filings. And so I'm totally comfortable on it and we're managing it very closely, as you can see, as you will see and so that is an area of real focus but not an area of concern for us. We'll continue to manage it tightly.</p>
+          <p>On the issue of cost containment, yes, it's true I've been here five or six months. I think my observations are as follows. And that's why in the script I gave a few minutes ago on the previous call, I really said and I meant it, Googlers have responded to the call. This is not an issue of one individual, it's an issue of leadership obviously at the Operating Committee. In these times where you have no visibility what can come ahead of you and every week you get another surprise in the economy and in the market and the banking system, we just need to be prudent as an Operating Committee and we asked Googlers to respond. And they have done so well. And frankly then you know you go to the extreme of that, right, there's no sense in throwing a big party while everybody else in the economy around you is losing their job. It's just not the responsible thing. And so I think Googlers have clearly responded well to this calling. Let's be prudent let's be responsible.  And of course, like every business, we have a lot of levers we can use to manage the business responsibly, but let me identify the most important point, which is we are really focused on growing this business for the long term. Yes, we are in fact managing the short term because of all the hiccups going on around us, and Google is not immune to the economics in which we live around us, but I can tell that you 90% of my agenda is really focused on building on the big opportunities that Google has, and that's the features of my agenda as well so now that's how I will comment. You had a question for Jon too as well, I'll let Jon...</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well if you could focus on the big opportunity to give me my bottled water back, Patrick, I'd be a lot happier.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>No bottled water. Not good for the environment.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>So, Ben, I think we &#x2013; what you really saw after the reviews that I talked about in some of my remarks at the beginning was that we got a much more &#x2013; we became a lot more careful about how we were allocating resources as a result, and I think there were some areas that were concerning, some of which you probably read about, the resources in Google Video and in Notebook and Dodgeball and others did seem disproportionate relative to what we were getting. So I think you've seen already most of the ramifications of reviews that we did.</p>
+          <p>Checkout actually had pretty solid performance. We've got millions of buyers. We've added half a million sellers. There's billions of dollars in transactions. It's only been in the market for two years. Holiday performance was good, particularly if you look at the state of the macro environment. We still see advertisers reporting much better click-through rates on the badged ads and a higher conversion rate. So, I think that there are advertisers who are having good success with Checkout.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Good. On that note, we're going to end the call. I'll turn it back to Krista for whatever is proper, and thank everybody for having participated and &#x2013; with your questions for today. We look forward to follow up with Krista and Maria.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Patrick, thanks. I just wanted to thank you all for your participation, and we look forward to speaking with you again soon. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>This concludes today's conference. We thank you for your participation. You may now disconnect.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

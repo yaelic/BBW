@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1460709" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q4 2011 Earnings Call</title>
+    <date>2012-03-27</date>
+    <companies>
+      <company>7874</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep" affiliation="Chief Executive Officer">Federico Ghizzoni</participant>
+      <participant id="2" type="analyst" affiliation="Morgan Stanley &amp; Co. International Plc">Natacha Blackman</participant>
+      <participant id="3" type="corprep" affiliation="Chief Financial Officer">Marina Natale</participant>
+      <participant id="4" type="analyst" affiliation="UBS Italia SIM">Matteo Ramenghi</participant>
+      <participant id="5" type="analyst" affiliation="Citigroup Global Markets Ltd.">Azzurra Guelfi</participant>
+      <participant id="6" type="corprep" affiliation="General Manager">Roberto Nicastro</participant>
+      <participant id="7" type="analyst" affiliation="Goldman Sachs International Ltd.">Domenico Vinci</participant>
+      <participant id="8" type="analyst" affiliation="Morgan Stanley &amp; Co. International Plc">Francesca Tondi</participant>
+      <participant id="9" type="corprep" affiliation="Head-Corporate &amp; Investment Banking">Jean-Pierre Mustier</participant>
+      <participant id="10" type="corprep" affiliation="Chief Operating Officer &amp; Deputy General Manager">Paolo Fiorentino</participant>
+      <participant id="11" type="analyst" affiliation="Keefe, Bruyette &amp; Woods Ltd.">Ronny Rehn</participant>
+      <participant id="12" type="analyst" affiliation="Joh. Berenberg, Gossler &amp; Co. KG (United Kingdom)">Pedro Fonseca</participant>
+      <participant id="13" type="corprep" affiliation="Chief Risk Officer">Karl Guha</participant>
+      <participant id="14" type="analyst" affiliation="Merrill Lynch International (United Kingdom)">Alberto V. Cordara</participant>
+      <participant id="15" type="analyst" affiliation="Mediobanca SpA">Andrea Filtri</participant>
+      <participant id="16" type="analyst" affiliation="Credit Suisse Securities (Europe) Ltd.">Ignacio Cerezo</participant>
+      <participant id="17" type="analyst" affiliation="RBC Europe Ltd. (Broker)">Anke Reingen</participant>
+      <participant id="18" type="analyst" affiliation="Equita SIM SpA">Matteo Ghilotti</participant>
+      <participant id="19" type="analyst" affiliation="Barclays Capital Securities Ltd.">Antonio Rizzo</participant>
+      <participant id="20" type="analyst" affiliation="Exane Ltd.">Andrea Vercellone</participant>
+      <participant id="21" type="analyst" affiliation="Intermonte Sim SpA">Pierluigi Passerone</participant>
+      <participant id="22" type="analyst" affiliation="Kepler Capital Markets SA (Italy)">Anna Maria Benassi</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good afternoon. This is the Chorus Call conference operator. Welcome, and thank you for joining the UniCredit Full Year 2011 Group Results Presentation. As a reminder, all participants are in listen-only mode. After the presentation, there'll be an opportunity to ask a question. <mark type="Operator Instructions" /></p>
+          <p>At this time, I would like to turn the conference over to Mr. Federico Ghizzoni, Chief Executive Officer of UniCredit Group. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay. Good afternoon and welcome to all of you. Let's start with our presentation. I would start this time just reminding you our strategic plan that we presented 14 of November. Just to give you an indication, we are moving accordingly to the plan. As you remember, we announced in terms of  management at that time, that we want to be a rock solid European commercial bank. And we gave four major pillars of our plan. Balance sheet structure was one, as you can see on page four. Simplification and cost management, business refocusing, and turnaround Italy. That would be the next slide.</p>
+          <p>What I want to give you here as I mentioned is that in the first quarter, as you know, we have completed successfully our &#x20AC;7.5 billion capital increase. This was subscribed 99.8%. So a great success considering also the difficult times we went through the market. As you can see from the slide in front of you, when we look to the balance sheet structure, the target substantially has been achieved. We have added 157 basis points to our core Tier 1. Then we had a tender offer on Tier 1 and Tier 2 instruments successfully completed with an additional 10 bps on core Tier 1. And the run-off portfolio with consequent reduction of risk-weighted asset is on schedule. So on the first pillar, we are definitely moving according to expectation.</p>
+          <p>Simplification and cost management, anyone is familiar with the Italian situation, they know that we had an introduction of the new law on pension, new pension reforms. This has created some problem in terms of FTE reduction. We had a delay substantially of the exit of people from 2012-2013 to 2014-2015. Nevertheless, the negative impact that inevitably comes from this delay has been substantially almost entirely offset by one, lower integration cost; two, a national contract renewed at the beginning of the year that is less penalizing, let's say, versus what was our assumption in the five years plan. And finally, new initiatives in HR that are altogether, as I said, compensating the cost coming from the delay in the exit of people. So also in terms of cost management, notwithstanding this issue, we are on track.</p>
+          <p>On business refocusing, good news from loans-deposit ratio in CEE. As you know, it's improving. 109% is the ratio for CEE, 87% in Poland, so mostly in this case on schedule. Same for risk-weighted asset management in the CIB. We will see more details later on. But year-on-year, we have reached a quite impressive decrease, &#x20AC;19 billion of risk-weighted assets.</p>
+          <p>The fourth pillar was Italy, Italy turnaround. Of course in this case, as you can appreciate from the slide, the numbers are quite positive. Year-on-year revenues are up 6.3%. Here, this is the commercial bank here in Italy, what we call the One4C perimeter. So revenue is up 6.3%, costs are down 3.3%.</p>
+          <p>Gross operating income up to a massive 20.1% and loan loss provision down 3.1%. All of this result in a net operating profit of &#x20AC;1.1 billion versus &#x20AC;120 million one year ago with a profit before taxes of almost &#x20AC;600 million versus a negative result of &#x20AC;177 million in 2010. Cost income is improving to 53.7%. So also in Italy, we are quite okay.</p>
+          <p>Let's go now to the real Q4 and full year result. First of all, have to underline that the group returned to profit after the loss in Q3 despite the number of one-off, basically the Greek bonds impairment for &#x20AC;70 million and &#x20AC;63 million provision for severance pay, both net of taxes. Without this one-off, the net income would have been &#x20AC;247 million. It compares with the &#x20AC;321 million of one year ago. So, net $114 million. Without one-off, &#x20AC;247 million, in any case below the result of group for 2010 reflecting the difficult and adverse economic environment.</p>
+          <p>The Q4 has been supported by stable core revenues, decreasing cost, lower provision and better trading income. In term of cost of risk, it dropped from 131 basis points to 106 basis points. So a good improvement from the peak, the spike of Q3 when we provisioned single names, as you remember, in the third quarter.</p>
+          <p>The underlying full year net income came to &#x20AC;1.1 billion net of one-off versus &#x20AC;1.5 billion of one year ago, again reflecting the difficult macroeconomic condition especially in the second half of 2011. And in spite of this difficult condition, another good news is that UniCredit successfully executed the 2011 funding program which led to a better loans deposit ratio. And again, I think it's quite important considering the market condition of the third and fourth quarters.</p>
+          <p>In term of 2012 funding plan, as of today, we have already done 30% at group level and almost 36% for Italy. Substantially, if we were to include the LTRO funding, our need would be more than covered already now. We will continue to go, by the way, to the wholesale market as we have done also recently with the &#x20AC;1.5 billion senior bond where we got orders for more than &#x20AC;5 billion from 360 different international investors showing that the group favor still create some market value. So we'll continue to go to the market. But in theory today, we already cover for all our funding needs.</p>
+          <p>Risk-weighted asset have been actively managed. Q4, we saw a drop of &#x20AC;10 billion as Basel II impact. So at the end of the fourth quarter, we have a core Tier 1 which stands at 8.4%, including capital increase is about 10%. We are also very much above the 9% required by EBA. And if we look to the common equity Tier 1 target, we are online with our expectation for 2012. I can also add that if I look the first result of this quarter, the activity seems progressing very well with very good result. Clearly, it's too early to say this will continue for the full year, but results so far are quite encouraging.</p>
+          <p>Let's now go quickly through the various slides. Page eight is just the net operating profit. As I said, &#x20AC;114 million is the net, &#x20AC;247 million not including one-off. The full year has spent &#x20AC;3.7 billion of net operating profit with a decrease of 3.7% versus previous year. Decrease after all manageable, that proves that the group is resilient to the adverse market condition. The quarter is at a level  of &#x20AC;800 million.</p>
+          <p>Slide nine, net operating profit breakdown. Here we'll say that all the indicators are heading in the right direction. As you see, revenues are up, costs are decreasing, and loan loss provision are down significantly. Also, Poland and CEE, even though impacted by FX effect, shows positive result year-on-year. The negative effect comes mostly to Russia for loan loss provision. We had a return to normality, let's say, in Russia after a very exceptionally good third quarter. Other region is going up 22.6% year-on-year. It shows how important it is for us to invest in Central and Eastern Europe. As you see, the opposite in Western Europe where there was a decline of 29% partially affected due to the market conditions.</p>
+          <p>Total revenues on slide 10. They have been increasing since third quarter. The improvement comes mostly from trading revenues. But I think it's very important to underline and to note that the core revenues remain substantially stable throughout the whole year. So in spite again of conditions very different quarter-after-quarter, the core revenues are substantially at the same level which is promising through the market comeback.</p>
+          <p>Slide 11, let's have a look to net interest. Here, we start to see excluding FX effect, the first positive impact of loan reprising. It is helping to offset the higher cost of funding that we have seen in the last quarter. An important point is that even though Western Europe is almost flat, Italy was up quarter-on-quarter. So in this case, Italy is offsetting poor results in Germany. And also in this case, I think, considering the difficulty that we had in Italy, it's good news. CEE and Poland have been impacted by regional FX effect. Without this, it would have been 1.8% quarter-on-quarter.</p>
+          <p>We go to Slide 12 about Italy where you can see how the re-pricing action very much has been offsetting the higher cost of funding. And you can see how asset and liabilities spread improved over the last two quarters. So as you see, spreads are improving both in term of loans and deposit. Important is the trend, loans are slightly down. But more important, the project are stable, I would say up if you consider also certificate of deposit.</p>
+          <p>And again considering the tension in the market, this is another stronger confirmation our network and customer base is solid. So overall deposit up. Network bond as well up. Even though still, we have a level of penetration very low, 7% on total financial assets partially compensating a decrease on wholesale funding. So I will say that we can really rely on a strong network also in Italy.</p>
+          <p>Volumes at the group level we see loans slightly down quarter-on-quarter, deposit opposite up. All in all, the loan deposit ratio, as I said already, is improving. The trend in sequence in Central Eastern Europe and Poland is positive both in loans where we are still seeing decent growth, confirming that the region is still expanding. At the same time, you have seen a growth in deposit.</p>
+          <p>Fees and commission, back to growth again after the third quarter. In particular, the financing service segment, that is up 16.5% in the quarter and 10% year-on-year, driven in part by Italy again, which shown an improved cross-selling quarter-on-quarter. So the cross-selling is generating good return. Opposite, investment services suffered from lower upfront fees due to market turmoil. They were down 8.2% versus third quarter and 9% year-on-year. It was indicated that CEE and Poland slightly up had constant FX rate.</p>
+          <p>And moving now to page 15 where we have good news in terms of cost. There is a significant reduction of 7.6% quarter-on-quarter. Overall operating costs are down 2.1%. The 7.6% is referring to staff expenses. So staff expenses minus 7.6%. All in all, the old costs are down at 2.1% quarter-on-quarter and substantially flat over the year.</p>
+          <p>Of course in this case, partially the trend is negatively influenced by Central Eastern Europe where we are still reinvesting. I think we have opened this year more or less 150 branches. And this clearly is impacting partially on the cost trend. If I'm doing this case other than cost, they will think about investment for the growth. The overall cost-to-income is deteriorating a bit from 58.8% to 61.4% year-on-year, but recovering from the third quarter.</p>
+          <p>FTE slightly down with different trends in particular. In Central Eastern Europe, we have countries as Turkey where we are still opening branches. We are still hiring people. And accounts as well have for different situation. Localities, we are decreasing a number of people like in Kazakhstan and Ukraine. In total, it is 1,650 people less year-on-year. We have seen a decrease of the reduction of people in the fourth quarter. But we have a good start in the new year 2012. I think if I remember correctly, that they already decreased 700 people starting from the first of January.</p>
+          <p>Cost of risk is down 19.3% quarter-on-quarter. It's down 12.6% on year-on-year. It's a good improvement. So we move from 131 bps Q3 to 106 this quarter. The quarter has been primarily impacted in positive by the decrease in cost of risk in the CIB in Italy. As you can see, we have quite good progress. Central Eastern Europe, we have an increase of cost of risk, but I think is not alarming. As I said already, Russia. Russia was releasing provision in the third quarter for exceptional reasons. It's back to normal, and this is impacting on the final number for the region.</p>
+          <p>Slide 18, on asset quality. Gross impaired loans still slightly up to &#x20AC;72.5 billion versus &#x20AC;71.6 billion in September 2011. The coverage ratio is down, as you can see, from 45.5% to 44.6%. And we have the effect of write-off much higher in this quarter versus the previous one. As you know, when you write-off a loan, it's 100% covered by provisions. So this is impacting overall foreign equivalent of 117 basis points. So without this one-off, coverage ratio would have been substantially in line with the previous one, actually a bit better. Even though it's fair to say that we would have been 223 basis points more in term of gross impaired loans, instead of 72.5% to 72.7%. Now, the coverage ratio is impacted by the write-off of the quarter.</p>
+          <p>Slide 19, I'm quite sure I will get question from yourself at the end of the presentation. Here, the picture shows once again that Italy remains challenging in term of asset quality. As you can see, gross impaired loans increasing, reaching up to &#x20AC;48.1 billion compensated at a group level from a good trend, especially in Germany and in Central Eastern Europe. The coverage ratio, I already explained, and is affecting in particular Italy.</p>
+          <p>You are used to the slide number 20. It gives you the long-term perspective about our quality of asset and cost of risk. I would say that the main message here is that the net addition are well below the 2009, 2010 average, despite of the difficulties and turbulence of the economic environment of the last quarter. So the trend is positive in spite of the difficult situation.</p>
+          <p>We'll go now to a slide about balance sheet structure, 21. I would not comment too much. Total assets are down from &#x20AC;950 billion to &#x20AC;956 million in December. Important I think is the leverage ratio that goes below 20 if we include the rights issue. So I think a very good level that makes UniCredit probably as one of the less competitively leveraged bank in Europe.</p>
+          <p>Staying again on the balance sheet structure. In this case, I would focus on the net interbank position. As you can see from December 2010 to December 2011, there is a big increase from &#x20AC;41 billion to &#x20AC;75 billion. Substantially, the increase is exclusively due to the &#x20AC;30 billion exposure in ECB. So what is the real interbank position is stable, to this we have to add the &#x20AC;30 billion exposure in ECB.</p>
+          <p>A few words about the medium-long term funding plan, page 23. It has been quite large in 2011, &#x20AC;42 billion, completely and successfully done. In 2012, we are expecting the need for &#x20AC;31 billion. As I said, considering what has been already done 30% at the group level, 36% for Italy plus LTRO. Substantially, we have already achieved this level. Nevertheless, we will continue to be in the market through covered bond and network bond. As I said, here we have good penetration. We have a channel that is &#x2013; can be activated anytime with 7% only of network bond from total financial assets. So we don't feel particularly pressured, let's say, in term of funding. We are now working on other bond that probably will come to the market pretty soon.</p>
+          <p>Capital position. First of all, risk-weighted asset &#x2013; if we exclude that the regulatory impact, so Basel 2.5, risk-weighted asset would have been down quarter-on-quarter by almost &#x20AC;10 billion. Thanks to a proactive management of our balance sheet and better risk-weighted asset efficiency actions. So &#x20AC;10 billion would have been the Basel 2.5 impact or market risk-weighted asset was almost &#x20AC;20 billion. Nevertheless, this has been partially compensated by a reduction, as you can see, from credit risk. The plan to reduce risk-weighted asset accordingly to what we have announced on our strategic plan in mid of November is ongoing and is on schedule. Important also, the composition of risk-weighted assets pretty well balance as you can see between Italy, Germany, and in Central Eastern Europe and Poland.</p>
+          <p>Capital with the Basel 2.5 effect, we had negative impact of 37 bps. So the total, the core Tier 1 is down from 8.74% in September to 8.40%. The bps comes from organic capital generation. If we add the 157 bps coming from the rights issue, we reach 9.97% Basel 2.5. So core Tier 1 is quite a good, I would say, level. As I said already, EBA is over. So we are by far over 9% and we are on track to reach our target in term of Basel III. So 9% already 2012. Basel III, clearly fully facing.</p>
+          <p>I would stop here the presentation just to sum up. Since we spoke three months ago, we have successfully concluded our &#x20AC;7.5 billion rights issue. We have now a very sound and sustainable balance sheet. We have a strong funding and liquidity provision. I'm saying so without hesitation. And we have taken serious action in term of cross management and reduction of FTE. CIB refocusing is on schedule. We will say better than expected one-off and risk-weighted management. And again, the Italian turnaround is ongoing with good return especially from re-pricing, cost control and declining loan loss provision.</p>
+          <p>So thank you for listening me. And now, we open the session for Q&amp;A, for questions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" /> The first question is from Ms. Natacha Blackman of Morgan Stanley. Please go ahead, madam.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>Hello, thank you. I just have a question on funding. You mentioned that UniCredit is still planning on further accessing the market this year. Could you give any color on how much senior unsecured you aim to rise in the public markets please? Thank you</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Good afternoon. So we are planning to top the market in the next few months with unsecured. As you remember, we met for the industrial plan. We clearly stated that we were not in the position to project for 2012 senior issuance, since there was not enough clarity about the market development. Now, we see improvement. And as you have seen, we have already come up with &#x20AC;1.5 billion which resulted in a successful issuance. Now, we will see in the next few months if the market is offering the opportunity to which extent we can exploit to this opportunity.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>And on top of this we have to keep in mind that in any case, we have the possibility to cover our need almost entirely also with covered bonds or network bonds.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Matteo Ramenghi of UBS. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Yes. Good afternoon to everyone and thanks for a very clear presentation. I have only a couple of questions. First, if I look at page four in your presentation, it seems to me that there is further upside available to UniCredit in terms of cost management in Western Europe ex Italy, where you already have initiatives in place. Is there anything that we should expect on this front in coming quarters?</p>
+          <p>And secondly and surely linked to the previous question, in Q4, it should be lost money in CIB in retail and also in private banking although small numbers. I assume that the HVB group however has reported a profit, although they haven't released the press release yet for the fourth quarter, even the income they generate in their excess capital. But any color on that would be useful. And also, any color you could share about the potential to reallocate capital more efficiently within the group and perhaps to achieve more savings in Germany. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Starting from HVB. If we look at the commercial business, HVB is pretty stable I will say. In Germany, there is a completely different situation compared to Italy in term of loans. For example, growth is negative. Negative because of the fact that companies are very cash rich. So we are working a lot on cross-selling, especially on CIB, it still represent 80% of the business of the company. So commercial business is quite okay. Also on the repay side, we see, this means we see some improvement.</p>
+          <p>Obviously on the trading business, Q3 and Q4 has been not positive and this is entirely booked substantially at group level in Germany. So overall, let me also say that the first half has been very good and the second was expected to be less wild, let's say, than the first one. Good again in Germany is also the cost of risk that is pretty stable, definitely under control and also looking forward doesn't create, we think, any particular issue.</p>
+          <p>The cost in Germany, we are on track with what we have announced on our strategic plan. So a reduction of people ongoing. You know that the market here is more rigid compared to other markets. Everything has to be agreed with unions. But the plan of reduction in investment banking and in the corporate center of the bank, what we call <mark type="indiscernible" /> (00:32:46) project is ongoing and is on track.</p>
+          <p>Page four, M&amp;A CEE. Let me confirm what again we have indicated in the strategic plan. So some countries where we are investing, other countries where we may consider to rethink our presence. We are not for sure derogating from the plan. We are trying to be as much as possible proactive. The M&amp;A market is not yet, let's say, particularly aggressive. We are now completing our capital increase. So we can look to the opportunities without the need to do it in six month. But we are very determined to go in the direction we have indicated by the plan.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Azzurra Guelfi of Citigroup. Please go ahead, madam.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Hi, good afternoon. I have a couple of question. One is on the asset quality. Can you comment how do you see the outlook of asset quality in Italy and in Germany? And also looking at the number in detail, I've seen that the Italian retail business has been quite up quarter-on-quarter. While instead on the corporate, the fourth quarter seems quite lower than the run rate of the first three quarters, excluding the one-off that we had in the third quarter. One is that Germany had a reverse as well. And also on the LTRO, could you comment how are you planning to use the LTRO fund, and if you can provide us the number of the Italian government exposure that you had at the fourth quarter and also the recent development in the Q1? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, when I talk about asset quality, I will start with Germany because it's much more easy. As I said, in Germany, the level is very low I think. I don't remember correctly the number, but it's around 30, 35 basis points. And again, we were in Germany one week ago. We went through the portfolio. We are not expecting deterioration in the portfolio overall, corporate plus retail. Clearly, corporate prevails on retail. So the situation seems stable.</p>
+          <p>In Italy, we have, as you have seen also in the presentation, the gross impaired loans keeps growing even though not with the speed of the past, but still is not fixed. If I look the first two, three months of this year, a good trend in term of LLP is confirmed for a while. So we don't see yet the effect of the negative GDP growth that we are expecting this quarter. We don't see yet the effect on our portfolio. But we can expect a pressure in term of cost of risk for sure. Our ambition and target is to compensate the growth with a more and more aggressive and rational, let's say, approach on the whole area of restructuring, recovery and so forth where we have invested a lot in order to be much more effective than in the past.</p>
+          <p>So our budget is still confirming a decrease on the overall cost of risk even though, again, we have to be very careful because we will see what will be the real GDP growth will be negative. How much is not clear yet. We have a clear difference between companies that are pure domestic companies that are suffering and companies that are exporting that are still in a good trend. Let's keep in mind, by the way, that three-quarters of the business of UniCredit are in north Italy. But in this moment, it's suffering less especially because most of the company are exporters.</p>
+          <p>Retail business is up. I will ask Roberto Nicastro to comment a bit. But before coming back to retail, LTRO. LTRO, we have a total exposure of $26 billion, of which $20 billion with state guarantee and &#x20AC;6 billion without. Last, we have another &#x20AC;3 billion or &#x20AC;4 billion of short-term exposure to ECB. We don't plan to buy Italian government bonds. We have today an exposure of &#x20AC;37.2 billion. Maybe can change 10% more or less, but substantially, we will be around this level. So, no investment in treasury bonds massively. We will try to utilize this money especially for good lending clearly because I think we have the possibility to go in this direction, it's not a case.</p>
+          <p>If we look at the Italian portfolio, we have seen an increase of 70% of the volumes year-on-year of the first three rates classes of customers and a decrease quite substantial on the other higher classes of rated customers. So having liquidity, now we can choose substantially the good customer to lend with margins that, in my opinion, are even better than treasury bonds currently. So, I think also that we will be probably in a position to start to pay back some of this LTRO sooner or later, but not this year. For retail business, I will go to Roberto.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Yes. We've seen some increases in the cost of risk for Italy, which is due mainly to SME and small business, but shown especially in the last two months both deterioration within the already classified files, as well as some new inflows due to the worse economic condition. On the other side, instead the development of consumer finance is completing  expectations and the mortgage book is now absolutely stabilized.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Mr. Domenico Vinci of Goldman Sachs. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Good afternoon. I have a couple of questions, one on the outlook. As you show in your numbers, you are well on track on your business plan. Unfortunately, the Italian macro seems to have deteriorated quite significantly since you presented the business plan. I want to look at the GDP expectation for 2012, for example, the Bank of Italy ones are below your plan. And also, the Euribor level now is below 1% and you, I think, included an estimate of 1.3%.</p>
+          <p>So, I wonder what kind of negative impact do you expect on the profitability of the group. I'm not referring at the provision line. That is, I think, everyone gets, but to the top line. And also, are there any significant practical adjustments you are planning to bring to the plan to compensate for this? And just curiosity on costs, you mentioned the new LIBOR national contract that is last week. If I remember well, you were including the plan of sort of 2% financial growth in the wage cost. What is in your new assumption? Is it significantly lower than that? Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Now, you're completely right. The outlook and the GDP expectation is worse compared to our plan. It's difficult to say how much. For me, it would not be important in itself in this quarter, next quarter would be negative. But it would be important to see if we have a recovery or not in the second half of the year. But my impression talking with customers is that they can resist if it's short. Obviously, if it will be longer, it will be an issue.</p>
+          <p>But in our case that there's on one side, yes, we can have some negative impact especially with same cost of risk coming from this deteriorated scenario. Not in term of revenues, because we have business primarily conservative. We had basically indicated flat growth in Italy in 2012 and 2013. So we can, I don't think &#x2013; we don't need to review the target here at all. The potential impact on cost of risk will be, in any case, compensated by an additional effort in term of cost as we are already doing. Plus, a cost of funding that is definitely lower than what we have put in our plan at least, what we can see today, and most of the year is difficult to predict. But if we project the cost of funding we see today versus what is in the plan, there's a good improvement.</p>
+          <p>So we don't feel yet the need to review our plan to a point that our budget is done in accordance with the plan. Wage cost substantially, I mean, it's too early to say here because formally, it still has to be signed the agreement. But the growth I expected is substantially flat in 2012 and 2013. Then it will get a bit complicated because include those other criteria, but substantially is just about zero. And so, the result, the improvement is quite significant.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question is from Ms. Francesca Tondi of Morgan Stanley. Please go ahead, madam.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Hi. Hello, good afternoon. I also have two or three questions. On the cost side as you've just commented that you can flex those payments of that of the impact of a weaker macro. How much flexibility do you think you might have, where that is going to come from? And ultimately, why not actually be generally more aggressive on cost, I know it's difficult, whether if you to recover a little bit faster, your profitability which is still very low.</p>
+          <p>As a second point, you seem to be doing well on loan re-pricing. I think this is a trend especially  the need to be discontinuing. How far do you think you can go, how much of have you done, how much have you got left? And thanks for the update also on the funding cost. So that is not looking too bad. Can you give us an indication of how the total funding cost is increasing in terms of budget points, so we can also compare that to the customer loan spread?</p>
+          <p>And as a last question on interbank, I understand the &#x20AC;30 billion increase which is pretty much ECB money. But the underlying things to be in terms of the interbank position still seems to be increasing, while I remember at the time of the plan, you indicated that you want to decrease that position. What are the moving parts and what we should expect there going forward? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>In term of cost, as I said, here is a never ending story, meaning we're really working day-after-day in order to improve the cost side. I'd give you a small example but not too small. For example, in term of traveling cost, we have reached now a 50% decrease versus one year ago. And at the end, it makes quite a significant contribution. So, we are really looking on the two sides, cost cutting in itself and simplification of the structure in order to create sustainability in this respect. I would then ask Paolo to add some points here, Paolo Fiorentino. So, it's an ongoing process and clearly, we want to do better than what was our plan if possible. Loan re-pricing is ongoing.</p>
+          <p>I will say that, also replying to the previous question, in this phase, the decline of Euribor partially and the spread partially is helping in the sense that we tried to resist with the price on the loan side creating some better return for the group. So the tendency Euribor is in a declining side. And most important for us, at least in Italy, the cost of funding is lead to the government spread even though it's declining partially, at least on a short run, is helping. So we have less cost of funding. We try to stay up in term of cost of loans. Because I think that in Italy, one of the major problems has been on the time to price loans accordingly to risk because it is important to maintain positions.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Do you see that your...</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>With interbank...</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>I'm sorry just a one.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yes. Jean-Pierre, okay. On the loan re-pricing.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>Just on the loan re-pricing side, I think that I'm going to state your views. But on the short term and overdraft loan, we have actually re-priced quite aggressively. If you look at Italy, we have re-priced the loans by, in average in the last quarter, by 40 to 50 basis points basically. Clearly, on the long-term loans, I mean we can only re-price when the loans mature. And there, we have quite a substantial volume of loans to be re-priced. If you look at Italy, we have more or less &#x20AC;25 billion or &#x20AC;26 billion overdraft in short term, while we have &#x20AC;40 billion of medium term loans.</p>
+          <p>So the re-pricing is still ahead of us, while we still have, I mean to-date, quite good success on the short term side. It's the same in Austria basically and we have been able as well to keep our margin on the deposit side. So it's not only re-pricing on the loan side, but it's also to keep the margin on the deposit side. So we have a positive flow to a certain extent right now in the right country. It's slightly less effect in Germany because there's a little bit more competitive banking environment, but there we benefit from a quite favorable running rate.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>That's very clear, thank you. Just one follow-up in Italy, do you see any change in behavior by the banks now that the update in particular with LTRO  becoming again a little bit more competitive on the lending price or generally everybody's going to re-price and be more sensible?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>My impression, maybe then Roberto can add something, is that for some banks, let's say, LTRO is substantially a reserve to be utilized when, let's say, funding maturity will come. So they are still conservative on the lending side. In any case, what they can see is that till end of January, mid February, we have not seen so much growth on the lending side. Again less demand, poor demand, and also banks quite reluctant. We start to see more volumes emerge, still low but more than before. We don't see too much in term of long term investment loans. Maybe Roberto can add something.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Yeah, I can just confirm that on the market after that in the last month of 2011, the actual stock of total loans has gone down in Italy for the banking system as a whole. In the last two, three months, there have not been any aggressive return by any banks. In fact, also one has to say that in the first two months of the year, the demand for lending has been subdued, especially in the investment part while there's a little bit more demand in the working capital part.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Maybe on the cost base, a few words, as Federico said before, splitting HR cost. So the cost of HR cost is just about the contract renewal impact. On top of that in order to manage the potential redundancies that in any case we will keep in our plan, we already identified 2,000 job positions that we outsourced in the past. So, we have three ways of projecting which will inspect this activity in order to implement activities for our internal activity which will free up for other position, mainly corporate center and network in Italy.</p>
+          <p>While on non-HR cost, as you know, the main legacy that we have is real estate cost. We have &#x20AC;1.2 billion of real estate cost for which we have two different projects. One is mainly for some corporate centers in different locations starting from Milan. As you know, we have this product we call Garibaldi. That is for 2013. We created for us &#x20AC;22 million of saving on a running basis. We have seen that project also in Munich, in the main &#x2013; Hamburg in the main location in Europe.</p>
+          <p>On IT, by semester we want to invest. For this year, we have &#x20AC;530 million of additional investment in IT that clearly, for us, it's crucial in order to leverage additional synergies. In the network, to implement more and more our multi-channel. So, it's one of the drivers in order to free up people for the network and also to free up space from our real estate locations.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>On interbank, maybe Marina can comment because it's quite important and the number in the presentation seems to be misleading, so.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>So looking at Italy since June, <mark type="indiscernible" /> (00:52:35) spending fund decreased materially. So it dropped by &#x20AC;35 billion approximately. And this funding has been replaced mainly by the figure of financing. So we have already commented about the amount, almost &#x20AC;30 billion at the end of the year and this is impacting the deterioration of the net interbank position. This is the main result that I see on the chart about interbank.</p>
+          <p>Yeah, you were asking about cost of funding. I think that if you look at page 12 of the presentation here you can see in an &#x2013; the cost of funding that the main bulk is customer deposits and the level and the dynamics that proves that we managed to keep under control the cost of funding and also in the recent weeks we see we have not experienced a different trend.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thank you for that. Just a follow-up on the interbank, what I was saying is the interbank position has gone from minus &#x20AC;41 to minus &#x20AC;75, of that increase &#x20AC;30 billion is the ECB but it would seem the underlying excluding the ECB from the end of 2011 is still slightly going up &#x2013; or put it another way, maybe not improving?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I have to consider also &#x20AC;20 billion more or less. So, if you take &#x20AC;75 minus &#x20AC;30 is &#x20AC;45, then we have more or less &#x20AC;20 billion in Austria that in reality is not interbank because substantially we are kind of a broker between government agencies that are subsidizing export companies. We take the money and we give the money without even taking a credit risk. The lag between us and the agency is booked on interbank and it's more or less &#x20AC;20 billion, if I remember correctly.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Mr. Ronny Rehn of KBW. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Good afternoon, few questions from me as well. At first, the NII in Germany was pretty weak this quarter. I just wondered what the impact of more like a trading oriented item was or whether this is a real underlying margin pressure? Secondly, the AFS result didn't quite improve yet as of year-end. How much of a improvement have you seen year-to-date? Maybe also a little comment on the trading in general, how has this been going? And then on Eastern Europe just a little update in terms of volume outlook and the asset quality trends that you have in mind for 2012 and in particular in Russia, we have seen quite significant margin pressure there and just want to get some thoughts where this is coming from and that's it. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Jean-Pierre Mustier will reply to.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>It's more generally, my comments on the financing and advisory side where we see a decrease this quarter compared to the previous quarter. We have seen a certain number of impact which have been &#x2013; which are non-recurrent to a certain extent. Perhaps one which is the higher cost of funding which had an impact on the financing and advisory for the quarter for around &#x20AC;120 million.</p>
+          <p>So that would be recurrent, let me say, in the coming quarter. But in spite of that for the SME side, the drop in revenues that we have seen of &#x20AC;115 million is coming from the consolidation where some shareholding is actually included into estimates. So we have seen a negative impact of around &#x20AC;60 million.</p>
+          <p>We have had the consolidation as well of an SPV on aircraft financing which is expending &#x20AC;11 million more or less and some other one-off like we had in the previous quarter, especially one-off on the restructuring of the loan for &#x20AC;11 million. So all in all when we take into account all these various impact, we have a decrease of the SME side, but we expect the long term impact to be more on &#x20AC;20 million to &#x20AC;25 million because of the higher cost of funding going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay. Clear.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is...</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Sorry, there was a question about trading. I was going...</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>Sorry, on the trading side, it's too early to comment about the first quarter, because it's still not finished, but I think that clearly a more positive environment in terms of liquidity and now in price, I mean that the result on the trading side for the first quarter will be better than the fourth quarter. And I would say not very dissimilar to what we have seen last year.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay. And on the AFS, I remember, Intesa told us they had like &#x20AC;1 billion year-to-date improvement, how much have you seen?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>it's a &#x20AC;1.1 billion if I remember, yes, &#x20AC;1.1 billion.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>&#x20AC;1.1 billion, okay. And, then on Eastern Europe, just an outlook in terms of...</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>Yes, on CEE, we have after that we saw a 9% increase in total lending in the close of 2011, the first two months have shown, but that's quite a tradition, relatively is low stat, so the stock is currently flattish but that was exactly what they been last year. We still are optimistic on seeing a nice lending growth in the year. Russia in terms of volume has shown us quite a good year and all points in the direction of seeing also positive growth this year. Behind the traditional good growth in corporate lending, we also saw positive improvement in the dynamics in the mortgage portfolio as well as in the car financing. In terms of margin pressure, we've seen some but it's not something which we expect to see net interest margins pressure in the course of 2012.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>In Russia, in any case, experience shows that, at least in euro, that you have to grow, but you have to grow up to a certain level meaning we are very much focused on quality also. On EVA creation, their hedging position is they are too high. So, we pursue growth but we want to be on the safe side. So, growing for growing is too much secure in this region and Russia included.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay. I mean demands &#x2013; when you say flat from &#x2013; no further pressure, on my estimates here you have like, you've  have dropped almost a full percentage point of net interest margin in the quarter when I calculate the confluence, running now at something like 4.4% in Russia. Is that the new run rate or should we see an increase again?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>2% once again is your estimate of the fourth quarter over third quarter, net interest margin erosion.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Yeah, the NII dropped like 14% in the quarter in euro terms also underlying and it's quite a big margin pressure 1% in one quarter is a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Look I think it's better if we look our numbers and then we give you a more precise question, because we don't find ourselves in euro analysis. This may be the effects that can play something.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>So, we don't think to have this big drop. Anyway, I will ask Simone Concetti to give you a call. There should be an effect because in constant terms we have different numbers.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Constant term it's quite stable.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay. Let's take this later. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question...</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>This is the numbers now and quite okay. Okay, sorry.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Excuse me, sir. The next question is from Mr. Pedro Fonseca of Berenberg Bank. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Hi, just a question on the loan loss coverage, which has gone down this quarter at a stage where some of your competition is raising coverage and economic outlook has deteriorated. Just like some idea, if you expect the coverage to go up next coming quarters or it will come down further?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We will may be ask more details from Karl Guha, the decrease this quarter, as I said has been generated by 1.6 more or less write off that we had. Without this, it would have been higher by 117 basis points. Therefore, in this quarter, we should go back to normality in term of write off and I'm expecting the coverage certainly will not decrease.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Possibly to increase.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Increase. Okay so just the write-offs?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>And something more.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Karl Guha, the Head of Risk.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="a">
+        <plist>
+          <p>Not to add a lot more, but except that when you have provisions, then you write off, in general the number goes up, so it just a mathematical...</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>So it's just the write-offs, okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="a">
+        <plist>
+          <p>And those provisions this quarter has been very consistent with the last few quarters. So no change in policy, it's just if you have provisions, you write it off, it goes down, that's it.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Alberto Cordara of Merrill Lynch. Please go ahead sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Hi good afternoon the first question is on deposits, I think that I see a good trend in rebound deposits on cash so much more from &#x20AC;392 billion in Q3 to  &#x20AC;398 billion. So I just wanted to have a bit more of a back ground to what happened there, if it is related to repos, or if it is related to real clients that coming back to the bank and where did you see this pickup in customer deposits?</p>
+          <p>The second question relates to the cost of credit in Italy which maybe is the main issue that you need to solve to get back to good earnings. You mentioned that there has been a write-off in the quarter, I don't know if you can give us an idea of how much of the domestic loan book you have written off since the outset of the crisis? And then also the other question is how long do you think it will take you to get in line with domestic peers in terms of cost of credit? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>In term of deposits we have increased in the fourth quarter, the size of deposit by &#x20AC;5.9 billion and it goes up to &#x20AC;7.8 billion including CDs, certificate of deposit, so that the growth is mostly entirely coming from real customers. And then in term of domestic loan book, so much has been write off. I don't know if we have the number, because I don't remember so maybe we'll check, we'll reply to the last question. In the meantime, how long it will take to go to the level of peers. Again in our plan we envisaged to reach 83 basis points in Italy at the end of 2015 and 75 at the group level, so 83 in Italy. As you know we start from a pretty high level and still we believe that in spite of the fact that the cost of risk may be under pressure this year due to the fact that we come from a higher level, we can reach the target of 83 that will put us potentially in line with peers. But we don't know what will be the trend with peers, but in our original assumption, strategic plan, we were supposed to reach this level at the end of the plan.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Mr. Andrea Filtri of Mediobanca. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Yes, thank you. I have got four quick questions, capital strength runoff, government bonds and business plan. On capital, now that you find yourself with a strong capital position, what do you do if you find yourself with an even stronger than expected capital position, and how does this element change the way you can run the bank?</p>
+          <p>Second question is on the runoff, you have hedged faster than expected runoff in the CIB risk-weighted assets in Q4, is it on top of the target you had or it's just an acceleration of the same plan of the &#x2013; part of the plan? On the government bonds you have, if I'm not mistaken around &#x20AC;27 billion government bonds maturing this year. What will you do with that and what impacts could you expect that will have on your P&amp;L?</p>
+          <p>And finally business plan, if you had to say of the actions of the plan, which ones are we likely to see impacting the business sooner and which one is later? If you could basically give us a temporary split between those actions? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well on the capital side I am now very, very, let's say cautious because with the trend they have seen with the regulators in the last two years, it's difficult to imagine to have excess of capital anyway. We are in a good position now, should we have more capital than expected, what I can imagine at the end of the day can be two situation. One is to see  if we can increase substantially dividend, that is what was the original plan. As you remember we were planning to distribute average 40% more or less of the profitability to generate it with additional capital, eventually the dividend can increase. Second, we have to, even with the limitation in Europe today of capital allocation, it's clear that if we have some excess of capital, especially in a good market, we may also consider to invest more. So we'll see case-by-case but I think this direction has a potential case such that the capital be more than expected, higher than expected.</p>
+          <p>On government bonds, we have a total in the portfolio &#x20AC;37 billion. What is expiring this year, it should be &#x20AC;13 billion or &#x20AC;12 billion.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>I was only speaking of Italian bonds?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, we have &#x20AC;37 billion of Italian bonds.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>We're talking of all the portfolio, not only Italian bonds.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>On a total portfolio. So, we have &#x2013; again let's take the number because we have &#x2013; in total we have &#x20AC;90 billion of portfolio mostly Italian, &#x20AC;37 million and then Germany. On the German side, it's purely, let's say, liquidity. So, you get &#x2013; you invest in bonds in order to have eligible assets for ECB. So no major difference I think compared to the situation today. In Italy it makes some difference because what is going to expire is coming with a yield that is definitely lower compared to what you can get today. So, on &#x20AC;12 billion expiring for Italy, we will have some good benefit in term of net interest income.</p>
+          <p>For the runoff, Jean-Pierre can say something.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>Maybe some explanation about the evolution of the risk-weighted assets on the CIB side for the fourth quarter.</p>
+          <p>We started from &#x20AC;186 billion at the end of September and we ended up at &#x20AC;196 billion, so an increase of &#x20AC;10 billion which was impacted as well by the change of &#x2013; implementation of CRD3 by &#x20AC;17 billion. So which means that we decreased our risk-weighted asset over the quarter by &#x20AC;7 billion. This &#x20AC;7 billion are split between outright reduction of exposure and some specific action in terms of foreign asset model.</p>
+          <p>In terms of outright reduction, we have &#x20AC;3.2 billion of reduction, so which is &#x20AC;4 billion of our wind plant portfolio which have been formulated and the plant exposure on the client side. We have $1 billion of debt equity action to basically make sure that the raising today cannot &#x2013; we can take the full benefit of the regulatory environment. &#x20AC;2 billion of <mark type="indiscernible" /> (01:11:34) and the reduction of $1.5 billion of the <mark type="indiscernible" /> (01:11:37) in terms of exposure on the debt maturity side, so that explains the whole evolution.</p>
+          <p>Of course for the wind plant portfolio, I think we will keep working on the reduction. Part of it will come from the natural evolution of our loan, we &#x2013; except if we have a very good price and I doubt that it will be the case. I mean, we let our loan run off basically naturally and on some of our market activities we'll take more pricing actions whenever we can.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>About the business plan I would say that considering the overall environment we have today for sure in Western Europe, acceleration on cost management is a priority. In Italy it remains a big priority. The cost of risk for real, I'm intending improving our effectiveness on the restructuring and recovery, where we have a space for improvement. So it's not the origination itself.</p>
+          <p>Stay with Italy, CIB Italy in my opinion shows a big space for improvement in term of revenues. I think here we have now a very good integration between corporate business and investment banking business never &#x2013; we never got in the past, with a dedicated, fully integrated channel here. CEE, as I said, thanks God, keeps growing, first two months of this year are definitely good, above budget and so it's business as usual but in a good trend.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Mr. Ignacio Cerezo of Credit Suisse. Please go ahead sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Yeah, hello. I had a couple of questions. One is a follow-up on the net interest income on Italy, I just wanted to clarify and understand whether there is something extraordinary this quarter. Obviously, I have seen the positive asset repricing and the moderate increase of the funding costs, but I wanted to know whether there is something else this quarter and whether the &#x20AC;1.9 billion for the total Italian business is the run rate for the future?</p>
+          <p>And the second is quicker in terms of capital, if you have any additional asset and liability management exercise that you can do? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>You mean this quarter, you mean 2012?</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Yeah, the net interest income of Italy, if you can give us the run rate, yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Rather than Italy, it's at the group level that we have this quarter, the benefit of the buyback of Tier 1 and Tier 2 is an equivalent of &#x20AC;670 million gross, net should be about &#x20AC;450 million. Other exceptional items this quarter we should not get. So one-off, not, so say nothing specific. So expect the buyback.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Yes, I think probably the question was not clear. I was referring actually to the net interest income in the quarter in Q4 in Italy where we saw a significant increase most of it is based on the asset repricing...</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Ah, no, sorry...</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>capabilities, if there was something else in terms of treasury or other balance sheet lines within Italy that have been boosting that number in Q4?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I would say, no. We don't have any specific, particular item in the fourth quarter for Italy. And the other revenue that are not net interest, other revenues we have a negative effect &#x20AC;52 million is the per quarter loss for the FONSAI stake but it is not in net interest income. So it's quite an ordinary quarter, I say.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Ms. Anke Reingen of Royal Bank of Canada. Please go ahead, madam.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Yeah, good afternoon. It's Anke from RBC. I just had a few follow-up questions. Firstly on the funding cost.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Can you speak louder, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Yeah, I'll try. Firstly on the funding cost benefit from LTRO. Is it as simple as using, I mean you say there's about &#x20AC;18 billion maturing debt in Italy this year and if I would just assume the &#x20AC;3.8 billion wholesale funding &#x2013; 3.8% wholesale funding cost minus the cost of the LTRO that would lead me to about &#x20AC;500 million funding benefit from you using on the LTRO. And secondly, did I understand your comment correctly, you're basically aiming to keep your Italian sovereign bond portfolio at around &#x20AC;37 billion? And then just lastly your comment on restructuring, does this basically mean the remaining restructuring charges from the business plan will not be coming in 2012? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>On the LTRO usage and the impact of our P&amp;L. The LTRO is not going to replace the wholesale funding, so unfortunately we can't replace the cost of long-term funding with the cost of LTRO. The cost, as already pointed out before, we suffered a significant drop in short-term funding, unsecured funding, CDCPs and interbank amounting to &#x20AC;35 billion and we have replaced this drop. Therefore we should compare the cost of the short-term funding versus the LTRO cost and not versus the long-term funding.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>On the sovereign as I said at the beginning, we have &#x20AC;37 billion right now in Italy. We may see some movement 10% more or less, but in the case of short term, so, three years eventually maturity something like this. Again it's questionable if you wish, but we prefer to have a conservative approach rather than taking positions on long-term sovereign bonds funded with shorter maturities. So this is our approach, to be conservative and do not &#x2013; to get it right in a massive way at least.</p>
+          <p>In term of restructuring, when I'm saying restructuring it means not that we have still, let's say promising portfolio pending. When we look to our portfolio especially for the large exposure they are all identified and well-known. What we mean for restructuring is starting from the portfolio in bonis. So not yet watchlist or impaired, in bonis. And we just activated for example in Italy in these weeks, what we call a special situation approach. So we have devised substantially a network that covers the portfolio in bonis between rating of customers. So we have a cluster of customer with good rating up to 5, 6, if I remember and second cluster with worse rating. Here we have dedicated relationship managers, fully focused on reducing this exposure or improving let's say the quality of the exposure through collaterals and these kind of stuff. Then there is also the normal restructuring action ongoing mostly for small positions rather than large position.</p>
+          <p>So, it's there &#x2013; it's in these two areas that we think we'll have a benefit in term of cost of risk. One when we look to the bonis, portfolio in bonis is to avoid rapid deterioration. So to be pre-emptive, let's say. Then we look to the watchlist portfolio, is to accelerate the restructuring for the smaller customer. So the two areas where we see more space for good result.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Thank you. I appreciate your answers but I actually meant integration costs as in restructuring charges, so should we expect some cost for 2012?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Our integration cost, as I said, the integration costs were mostly related to the reduction of FTE and basically we will not add integration cost in 2012 and 2013 because the problem has been postponed a couple of years.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>So we had something in the fourth quarter, it was in total 2011, third and fourth quarter &#x20AC;160 million but much less than expected.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Mr. Domenico Ghilotti (sic) [Matteo Ghilotti] of Equita SIM. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Thank you. Actually, it's Matteo, just three questions, the first one is about the loan loss provisions in the CIB sector in Italy which were down quite sharply. Can you give us maybe of the one-off items that had a positive impact this year and what could be the run rate in this division in Italy in 2012?</p>
+          <p>The second question is on the let's say first couple of months almost three months of 2012, I'm not asking a comment on trading. You're already said that the trading was good, I'm asking more a question on the commercial activity, if you can give us some color about the commercial activity of the group in first month of 2012.</p>
+          <p>And finally, a question on net interest income in 2012 because we know that there are many forces working in let's say in a different way, pushing up the net interest income or down. Can you give us an idea if 4%, 5% growth in net interest income in 2012 is something crazy or achievable from your point of view? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We'll start with CIB. Please, Jean-Pierre.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>Yes, on the loan loss provision for Italy, actually we have a lower level in the first quarter of &#x20AC;158 million compared to a much higher level of around &#x20AC;760 million on the third quarter, so I mean part of the impact of the low provision in the fourth quarter is actually due to the high level of the third quarter. But we had as well decreased from the previous quarter, everything being equally if I may say, because we have the reduction of inflow from performing. So that's a slight reduction, but at the same time I expect the level of loan loss provision for the first quarter to be more around a normalized level rather than the level we had on the fourth quarter basically.</p>
+          <p>To be noted, because it has been a slight change discontinuity for Germany, the question might come. We have on the CIB side, a slightly higher level of provision in Germany for the fourth quarter which actually are higher than in Italy. So that to be noted, but mostly because of requalification of provision which was in the <mark type="indiscernible" /> (01:24:28) charge and which has been moved up to the loan loss provision. So it does not show that we have a deterioration of all credit in Germany, it has been more technically impact basically, and we should go back to normality if I may say for the first quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Regarding 2012, well if I look at the commercial activities, I would say for Central Eastern Europe, the numbers are good. As I said, slightly better than inspected, so quite good. Western Europe we have seen January pretty weak for different reason. I think it was reaction of the Sovereign Crisis and for Italy, we had also the network pretty much focused on the rate issue. So people are working a lot on that. It is improving in February. I have not seen the number in March, the feeling talking with people is that March should be slightly better than February. So the trend seems to be positive. Overall, it seems to be slightly better than the fourth. On net interest income, look I am not commenting because I want to be sure that we have a sustainable numbers before making any comment.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Mr. Antonio Rizzo of Barclays Capital. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Hi there, only a few questions remaining from my side. On asset quality, I understand your view in asset quality going forward, but could you give us an indication of what is the stock of sofferenze in Italy and the coverage? Second, on PPA, your reported $92 million in Q4, that's much higher than previous quarter, is this the run rate going forward? Third question, looking at your division, the corporate center looks still pretty heavy, I'm wondering if you would expect some improvement going forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, you are commenting on asset quality, sofferenze and recovery?</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="a">
+        <plist>
+          <p>The first question, sofferenze in Italy, it's about &#x20AC;27 billion which is roughly 47% of the overall amount that we have on the impaired and if you are looking at the coverage in its entirety and total, it's about 74% on average.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>The recovery ratio?</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="a">
+        <plist>
+          <p>Sorry?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>There was a question about the recovery ratio by the way.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="a">
+        <plist>
+          <p>The recovery ratio is nearly always a function of the &#x2013; of time value and write back. In and of itself, it varies through the cycle. So it's &#x2013; it depends on quarter. If there is a single large recovery that will be beneficial to a large extent, but this &#x2013; the numbers that we give you are always the net numbers because unless you go into the detail and decompose the numbers, it's very, very difficult to give you a specific number which you will be able to put into a spreadsheet and get an answer.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Good. In terms of PPA, Marina will reply.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>On PPA, so due to the fact of the amortization of related to deposits ended in 2011, including with the deposit maturity which was estimated at the time of the HV acquisition. We are going to see a different pace in the next few years in term of &#x2013; for the PPA. And these PPA, now you have seen in the quarter the minus &#x20AC;90 million, almost &#x20AC;90 million, you can't really use it as a run rate for the quarter. I would say lower than this level for the quarter, significantly lower, I would say, half of this level.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>On the corporate center, basically we have two major costs. One, is the real cost. So how much heavy is the corporate center and here we have a quite &#x2013; if you remember the plan in terms of number of people was to reduce more or less 20% the number of people working in corporate centers, the so-called competence line mostly. There is an additional reorganization that has not yet been announced almost ready. Whereby we see ideally an holding, let's say, shrinking in term of weight. Once again dedicating more responsibility to countries overlapping also some overlapping and duplication of activities. Then the other big cost is on the cost of funding especially for the holding that, as we discussed already, hopefully will be slightly -would be lower than expected in 2012 because of the trend it demonstrates.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Mr. Andrea Vercellone. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Good evening. Just two questions and one curiosity. The first question is on cost. I'd like for you to detail what was the one-off in personnel expenses in Q4 since you mentioned it qualitatively but you don't quantify it. And also could you give us some color on the number of employees that you expect to exit the group, either through turnover or prior agreements between now and 2013. Since my understanding from the answer of the previous question is that you are not probably going to sign a new agreement covering the next two years. Also on cost, if you could quantify how much was the Austrian Bank levy in 2011 and how much we should expect for 2012 in terms of bank levies in Austria and other CEE countries, given that there is a number of other countries which are introducing it and is going up in Austria. I like to keep the German one separate. Then the second question is on Basel III, now that the impact of the RWA is related to Basel II is behind. Could you just give us an update on what will be the impact next year on the RWA side related to Basel III? And then the curiosity is out of the ECB funding, is it all drawn from Italy the sum of it which has been drawn from Germany and Austria? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>So, we'll start with the curiosity. As we said, forgetting the &#x20AC;3 billion to &#x20AC;4 billion it is short-term, so one week, et cetera. The &#x20AC;26 billion is &#x20AC;23 billion for Italy and &#x20AC;3 billion basically for Austria. And there is a very small amount for Slovakia but substantially mostly is Italy and &#x20AC;2 billion to &#x20AC;3 billion is Austria, nothing for Germany on three years term. Then about curiosity there was another point?</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>No, no, the curiosity was just this one.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay, only about this one, okay. About bank levies, this year has been &#x20AC;268 million in total. Austria was &#x20AC;124 million this year, so we have now a decision -it's not yet clear to me yet because I was in Austria a couple of weeks ago discussing also with regulators what will be the effect coming from the need to save <mark type="indiscernible" /> (01:33:31). So, we will see what will be the real effect. They think anyway that this we have paid &#x20AC;168 million  this year. I'm not expecting if there is an increase, huge increase to the fund, that can jeopardize our budget, let's say. But it's too early to say. Also for us from Bank of Austria we don't have clear indication in this respect.</p>
+          <p>Basel III impact, maybe Marina can.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>In terms of risk-weighted assets, we see which as &#x2013; to account for, let's say, all the other Basel III overall impact and it is going to have an impact in terms of risk-weighted assets, &#x20AC;30 billion ultimately. Last year, slightly below &#x20AC;30 billion and these &#x2013; but this is with the only the risk-weighted assets while you have to take into account also the other reduction in the other elements which are going to impact the equity.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Sorry, in this &#x20AC;30 billion do you also include the DPAs and deduction for &#x2013; and the amount of DPAs and holdings in financial companies above the cap or this is just related to matrix, CBAs and so on.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yes, we take into account.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>It's the full amount?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Regarding the first point you said about turnover in Italy, reduction of people et cetera. So we have still for 2012, 2013 agreed with unions 1,800 people that will go out. This is an agreement of October 2010. In terms of turnover as you know in Italy, it's pretty low and in case we have 500 people per year, so substantially, potentially another 1,000 that will leave between 2012 and 2013.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Okay. And one-off and personnel expenses in Q4?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>One-off...HR will...</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Yes, the one-off are related to release of &#x20AC;50 million on accrual related to the contract renewal because it was not providing any expenses for 2011 plus there is a provision of non-valuable compensation.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Mr. Pier Passerone of Intermonte. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Hey, good afternoon. Three quick questions. The first one is just to have an update if possible on the amount available for say reserve as of today. I presume it's coming down from 1.7 at the end of 2011. Second one is on tax rate which according to your fourth quarter results and also looking at what other banks are disclosing, it seems that taxes are going up. So my question is, shall we assume that the fourth quarter tax rate is a run rate also going forward or there are chances to keep such a rate below 40% excluding extraordinary items that we don't know at this stage?</p>
+          <p>Third question has been already partially answered, has to do with RWA decline. If I'm not wrong, the amount expected to decline &#x2013; to increase in terms of RWA was &#x20AC;34 billion according to the CRD3. So I guess this amount is wrong and the real one is the &#x20AC;20 billion that you disclosed with the set of results or there is an extra &#x20AC;14 billion increase in RWA due to the penetration of the CRD3. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>On the available for sale reserve which is accounted for the time being in our capital for equity for the purpose of regulatory filing, was in December &#x20AC;2.4 billion or &#x20AC;2.5 billion approximately and as already stated by Federico, it improved by approximately &#x20AC;1.1 billion during the last few months as a result of tightening of the spreads which improved the reserve.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>On the tax rate, I think we will not &#x2013; we should not go over 40% this should be quite an exceptional level, any case. I'm not expecting particular changes in this respect. We are checking but it should be below 40. And risk-weighted asset...</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>On the CRD3,  just the impact as I mentioned &#x20AC;17 billion because we managed to mitigate some of the impact during the year, so the final impact, as communicated &#x20AC;17 billion and there is nothing else which will come on top of that. So that's it, and that's the final number.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Okay. That's the net final number, the gross one was 20 and as Marina stated before the additional increase for the full implementation of Basel III is below &#x20AC;30 billion, is that correct?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Sorry, unfortunately it's bit late, so if you don't mind we are &#x2013; there is the next one and we have to close after the next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Madam, the last question is from Ms. Anna Benassi of Kepler. Please go ahead, madam.</p>
+        </plist>
+      </speaker>
+      <speaker id="22" type="q">
+        <plist>
+          <p>Yeah good afternoon. By the way, most of my questions have been already asked. So I'm left to ask...</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Sorry, Anna, we can't hear you.</p>
+        </plist>
+      </speaker>
+      <speaker id="22" type="q">
+        <plist>
+          <p>Hello?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>You need...okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Better now.</p>
+        </plist>
+      </speaker>
+      <speaker id="22" type="q">
+        <plist>
+          <p>Can you hear me? Okay. Most of my questions have been asked already. So my question regards your commitment to Italian loans or loan to Italians. You are down 2.8% Q-on-Q both on retail and corporate and you just mentioned the ECB funds are not going to be used much on Gavi, whatever regions but on good lending. Where these lending you think will be done, in what country? And second comment I ask for is the trend of commissions considering the several changes in regulation and taxation particularly in Italy but low demand I guess all across Europe. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Regarding the commitment to lend in Italy, we have publically announced recently in the states that in the next three years, we are prepared to lend approximately &#x20AC;40 billion for medium-sized and small companies, or SMEs, and &#x20AC;35 billion for families, next three years. And clearly, the other side we are also reviewing every day our portfolio. We have some position from where we want to decrease or even leave customers if possible.</p>
+          <p>On top, on the large companies, we are now pushing more on alternatives to lending. For example, we have been very active recently on the bond issue and we are very carefully managing risk-weighted asset. So, in terms of capital and liquidity, there is intention to lend. As I said, the &#x20AC;70 billion has been publicly announced, but this doesn't mean that we will have the increase of $70 billion on our stock obviously. We will see what will be the decrease coming from policy and quality as well.</p>
+          <p>On the commission side, he is more an expert than me on the regulation. Roberto will give because he is dealing inside the Italian Banking Association about this point. Obviously, it's an environment in Italy, very confused at this moment. I think anyway that banks in general terms have to be conscious that we will have the risk of some administrative cost imposed in some way. And so we need to work more and more on efficiency and I think on cost reduction, especially when we talk about the network fixed costs. But maybe Roberto can comment more.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>As far as the regulation, it's clearly something we are monitoring with a lot of attention. There have been two recent new regulation that could have impact. One is at that they moment avoided threat of eliminating all kinds of commission or lending. On that one, a decree has been introduced last week by the government. We understand that all political forces do understand that it would be very, very negative not only for banks but for the real economy, for companies and on top of that, it would generate a huge decrease in the taxation income for the finance ministry.</p>
+          <p>So we reasonably expect such threat not to come. Then there is the issue regarding the provision of free current account banking to retired persons. Also there, there is going to be a detailed discussion between the banking association and the finance ministry. We don't expect the additional cost coming from that to exceed the benefit coming from having no physical intake of the pension. So overall, we feel neutral about the impact of these regulations.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay, thank you very much and see you in three months' time. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Ladies and gentlemen, thank you for joining. The conference is now over. And you may disconnect your telephone.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

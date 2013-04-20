@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1306224" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q1 2010 Earnings Call</title>
+    <date>2010-04-23</date>
+    <companies>
+      <company>192</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Susanne Andersson, Manager, Investor Relations</participant>
+      <participant id="2" type="corprep">Hans Vestberg, President and Chief Executive Officer</participant>
+      <participant id="3" type="corprep">Jan Frykhammar, Executive Vice President and Chief Financial Officer and Head of Group Function Finance</participant>
+      <participant id="4" type="analyst">Rod Hall</participant>
+      <participant id="5" type="analyst">Joseph Longobardi</participant>
+      <participant id="6" type="analyst">Kulbinder Garcha</participant>
+      <participant id="7" type="analyst">Richard Kramer</participant>
+      <participant id="8" type="analyst">Alexandre Peterc</participant>
+      <participant id="9" type="analyst">Patrick Standaert</participant>
+      <participant id="10" type="analyst">Anuj Krishan</participant>
+      <participant id="11" type="analyst">James Faucette</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Welcome to the Ericsson's Analysis and Media Conference Call for the First Quarter Report. To view visual aids for this call, please log on to www.ericsson.com/press, or www.ericsson.com/investors. <mark type="Operator Instructions" />. As a reminder, replay will be available one hour after today's call.</p>
+          <p>Susanne Andersson will now open the call.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, operator, and hello, everyone. And welcome to our call today. With me here in Stockholm are Hans Vestberg, our President and CEO, and Jan Frykhammar, our CFO and Johan Wibergh, Head of our Networks Segment.</p>
+          <p>During the call today, we will be making forward-looking statements. These statements are based on our current expectations and certain planning assumptions which are subject to risks and uncertainties. The actual results may differ materially due to factors mentioned in today's press release and discussed in this conference call. We encourage you to read about these risks and uncertainties in our earnings report as well as in our Annual Report.</p>
+          <p>I have one comment to today's report and that is that the acquired Nortel business was reported under the region Other in Q4 '09. We will correct this during the afternoon and however, I wanted to note that all totals are correct. So it's just a matter of a difference between the regions.</p>
+          <p>With that said, I will like to hand over the call to Mr. Hans Vestberg.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Hello, everybody. I will go through, again, a little bit what I did this morning, because we know that we have quite a lot of people coming on to this call that couldn't attend in the morning, but I will try to make it quite briefly.</p>
+          <p>Starting with just what we announced yesterday, so we're all clear on that. We made some change in our external reporting, basically a combination of feedback that we got from investors how we should disclose, but also our ways of working internally.</p>
+          <p>The three that were done is number one, we are now reporting 10 regions or actually 11 regions. One region is other, but it's 10 geographic regions and that's how we work internally as from the 1st of April when we changed orientation internally in Ericsson as well. So it's going to be clearly transparent, our work internally as we report externally.</p>
+          <p>The second one is that we have moved the Network Roll-Out business from segment Networks and we have moved that into the new segment called Global Services, which then is a combination of Professional Services and the Network Roll-Out.</p>
+          <p>And finally, the third one is that we have also after discussion with investors changed to EBITA, which we then have replaced that we have before EBITDA, so we're sort of taking away the depreciation there, because that was sort of the feedback and that we have done as well. Those are the changes in the reporting and we can also see that the report as such is now text and a table on the first slide. All in all, it should give a better visibility where we are and where we're going. And as I said, we have done it both for transparency our work internally as we have changed, as well as feedback from the market. Good.</p>
+          <p>A couple of Q1 trends there starting with we see that operators are still varying in their activities and that continued in this quarter. We can say that the trends that we saw in the third quarter and the fourth quarter prevails that there are both macroeconomic is impacting certain regions, but it's also a technology shift from 2G to 3G as well as general cautiousness in our markets. So I think that is prevailing. We see still that some of the growing markets like in Africa, parts of Asia, and even part of Middle East are cautious and level is quite low when it comes to investments.</p>
+          <p>Finally, we have seen here in the quarter increased level of discussions with operators regarding their business when now the data is also coming, how they can contribute to good customer experience when it comes to quality and efficiency. And of course that is driven by the strong data growth. And some of you might have recognized that during the CTIA we released the press release where we basically -- as we are following the traffic in the networks presented or communicated that now we have more traffic from the data users that are some four -- plus 400 million in the world than all the voice subscribers, which are 4.8 after closing this quarter. So we definitely see that growth in data.</p>
+          <p>A couple of events that are important that has happened after the quarter, which I just wanted to highlight. The day before yesterday we announced that we acquired Nortel's share in the joint venture together with LG addressing the Korean market. And of course this for us is an important thing, because Korea is the third largest telecom market in Asia -- very advanced when it comes to technology, service and application. And Ericsson has a very limited business in Korea today. This enabled us to work with all the three major operators in the Korea market, both with the current portfolio, but also of course seeing that the technologies that will come that we will be good represented on the LTE.</p>
+          <p>We also the day before yesterday announced a cooperation with Datang, a Chinese vendor which we have been working before, on resource and development as well as a commercial cooperation in order to even get the stronger offering to the TDD customers, which is mainly China Mobile in China. And that's part of sort of our view to get a bigger foothold on that technology and going forward.</p>
+          <p>I will come back to the Sony Ericsson and the two announcements on deals in Asia we have talked about before. Talking about the net sales, we were down 9% in quarter, for comparable units down 16. We had good development in CDMA. Now we don't have that many bases to compare for us here because that entity not exist in that form, but we had a good performance on them and we are tracking on the integration and we are definitely tracking on the business plan.</p>
+          <p>Global Services has also good growth. I will come back to that. On the other side, we had Networks that had a continued decline and that is coming back to the same trends that we had in previous quarters. So it's nothing new there, it's basically same. Certain markets and the technology for the same time impacting the Networks business.</p>
+          <p>Multimedia, however, they had sort of, since they started reporting the lowest quarter sales, very much driven by geography. They have very stronger revenue management in the African, Middle East region, and that's also where we see less of investment and cautiousness, and that fell through to multimedia.</p>
+          <p>At the latter part of the quarter, we also saw that we got some impacts from the supply constraints or the supply chain in the world, especially the semiconductors. As we all know, the semiconductors are working for many industries. Some industries are coming up right now. So the demand has gone up. At the same time, the semiconductor investment and capacity has been fairly low the last couple of years here. So that's made some impact for us, but it's more important just to mention it.</p>
+          <p>If we talk about the margins, we saw the margins as holding up on the Ericsson before joint ventures. 10% operating margin, basically the same absolute number, 4.5 compared to 4.7. This is, I would say, work that we have done the business model and sort of getting a lower threshold in the company when it comes to volumes. And we can sort of even though we have a decline in volumes, we are able to deliver this type of profit. And you can see the EBITA level is on 13 and operating margin on 10.</p>
+          <p>If you then look at the regions, and this is a quick one, just to get the feeling for the regions. And you can see under 2009 there how they're distributed per region, which was fairly evenly distributed.  In the first quarter you can see definitely the impact of the Sprint as well as the CDMA acquisition, which is making North America a little bit larger than all other markets -- all other regions.</p>
+          <p>In Others, as we have disclosed, that's cables, modules and patents et. cetera in that other, so we know that.</p>
+          <p>Quick comments on the regions. Mediterranean, I would say down 17%, a little bit mixed, but still in a transition. We see the mobile broadband taking off there and of course being part of the growth, but we still have a decline and a cautiousness in the region. Western and Central Europe, with a little bit of adjustment on currency they would be actually flat. And here we have seen a very good transition of the leadership team in this region, because today that is a 3G and service business, which were 2G business just a couple of years ago. So that transition, they have done good and now we see also that LTE and 4G license is coming up in this region.</p>
+          <p>Latin America, 9% down. Here we can say that we see a good momentum of services still in decline, but we have some 3G auctions coming up, which are planned for this year in the region. Northern Europe and Central Asia, a little bit mixed as well, you can say that Northern Europe, here we have Northern Europe will be the portion here in the Nordics where I am based right now in Sweden and all the countries around here. Still have a good growth for modernization on the networks, et cetera. On the part of the Central Asia, including Russia and all these countries, we still see a very cautious investment level.</p>
+          <p>Here is a deep dive in North America and this is what Susanne referred to. In the fourth quarter, there, we are lacking the CDMA operation business in that column. But anyhow, you can see a quite impressive growth in North America. We have, both on acquired and non-acquired business, grown quite a lot. And you can see from one year ago it's a dramatic increase. And here of course we have the Sprint Managed Services, we have the CDMA assets coming in. But not only that, we have our traditional WCDMA business in this region as well.</p>
+          <p>We signed in the quarter -- very important for us, the LTE contract with AT&amp;T, the 4G. It's important. And you can say that we are now integrating the CDMA business quite quickly into all the different pieces of our company and migrating the portfolio as well, so that is definitely on track.</p>
+          <p>We will take the other regions, starting in Middle East. Middle East is flat now in this quarter even though first quarter last year was probably a little bit down, because they were quite early into this, but they are flat. There's mixed development, some markets are really growing and some are not, but you can see the trend of services and still the 2G decline and the 3G growth.</p>
+          <p>South East Asia and Oceania, that is the region that we have talked most about, I would say, when it comes to financial crisis; the Bangladeshs, the Thailands and Indonesias, we were really cautious. You can see there, still 32% down year-over-year, so that still seems that we are a little bit cautious in this region. And of course, we have a shift from 2G to 3G as well.</p>
+          <p>China, Northeast Asia, 15% down, little bit tough comparison for the region, and they are 15% down in China and Japan, two of the most important markets. Of course, China had a quite good first quarter last year. Here, as said earlier, we have added two important additions in acquisition and partnership with Datang and with the joint venture with LG in Korea to strengthen our position in Asia.</p>
+          <p>We take &#x2013; do a deep dive on Sub Saharan, which is basically half their volumes in one year. And here we have three things happening. First, we have the overall cautiousness and the capital constraints and the credit constraints. The other is that we have a 2G to 3G transition in this region and we also have an operator consolidation ongoing in the region. So that is impacting the whole business and you can see on the latter part of the graph already splitted by segment how we have decreased in both I would say Networks, but also in Multimedia. And this is the region where Multimedia is very strong when it comes to revenue management, but one of the regions where we are very strong. And this has impacted Multimedia in the quarter.</p>
+          <p>If you then take the segment starting with Networks, Networks down 14% in the quarter. Of course year-over-year comparable positively impacted by the acquired CDMA assets. As I mentioned before, we had at the last report, acquired the industry component supply in the Networks business, but that is more than offset by the CDMA business to be clear on that. But it's just important to understand it's an industrywide challenge right now with the semiconductor industry.</p>
+          <p>We see clearly the continued sort of trend of 2G, all products around 2G coming down, and 3G's growing -- due of course about the data growth and the technology, as you see. We can also see that the EBITA levels are positive and are improving. We're up to EBITA level of 16. Here we can say that we have both efficiency gains with the hard work on that. We have of course a product geographical mix that we always had that is good. And then we have a higher degree of software and networks in this quarter.</p>
+          <p>On the Ericsson level, so you're sort of clear on that, we had a normal quarter on software because when we come to multimedia, we'll see that they have come down and then of course they are very software intensive. But in Networks we had a somewhat higher level of software.</p>
+          <p>If we then take Global Services, Global Services had a good quarter. All the three parts of Global Services that we're now reporting were growing. Network Roll-Out with 3%, Professional Services with 12% in local currencies and Managed Services 17%. And of course fueled about efficiency view from the operators, we signed some 16 contracts in Managed Services in the quarter. Our margins on the whole Global Services including NRO were 12% and Professional Services were up to 16%.</p>
+          <p>So the efficiency work has definitely paid off here. We still have a couple of Managed Services contracts in transformation, the larger ones. But that we have had throughout the quarter as well. So, but it's important to know that we have still the Sprint in the base here in the beginning, even though it's declining over time or as it was a little bit bigger the transition in the fourth quarter.</p>
+          <p>Global Services, here are some key highlights, 410 million subscribers now in the networks that we are managing. Some 2 billion customers under support contracts in the world. And we have more than 40,000 service professionals right now in the company.</p>
+          <p>The last segment, Multimedia, or the last of the core Ericsson segments. As said, this was the lowest quarter since we started to report Multimedia. You can see we're roughly a little bit over 2 billion in sales with kroners, driven as I said before by the slower revenue management in certain regions, where the foothold or the stronghold of our revenue management is, Sub-Saharan Africa, Middle East and Southeast Asia and Oceania.</p>
+          <p>Another thing that is also important to highlight is that when we came into the crisis, the TV area was one of the first sort of areas where operators hesitated investment as the return on investment was a little bit longer. We can now see that we have a good development in that and operators are definitely looking to the team investments.</p>
+          <p>All in all, you can see that our EBITA is now negative in the quarter. I would say that's predominantly, the reason is the volume, the margins in general are fine. It's more a volume game here on the Multimedia. So we're seeing that in the fourth quarter with roughly three -- little bit more than SEK  three billion turnover, we had 17% EBITA.</p>
+          <p>Joint ventures, you have read about Sony Ericsson and probably ST-Ericsson quickly. Sony Ericsson has come down, volume was 20%. Still compared to last year it's of course a dramatic improvement from &#x20AC;358 million in loss to a positive result of 21. That has come from the reduced operating levels and the hard work on the portfolio, of course, and the management that is very focused. I would say there's still of course a lot of work to do. We are just breakeven, but the track -- is definitely on the right track.</p>
+          <p>ST-Ericsson reported yesterday night 18% down, adjusted operating income at minus US$114 million. We are still in the stage of doing the restructuring to come together as a company, and the volumes are still with the main customer there. So it is not that, it's more about getting together now the company. And the restructuring plan is going as planned.</p>
+          <p>Fine. With that, I'll leave over to Jan Frykhammar to talk a little bit about the financial data.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thank you, Hans. Hello, everyone. Let me just talk a little bit about the Q1 financial highlights. I think the first thing I would like to start with is that we have during the day, the course of the day, today heard lots of questions regarding the gross margin. And of course we are extremely happy about the improvements year-over-year and sequentially when it comes to gross margin. I just want to highlight the fact that there are several components in the gross margin improvement. One is of course the impact of the efficiency programs, but two other important factors is of course the one around product mix, but as well business mix or market mix, if you may.</p>
+          <p>So I think with that clarification, I think it's important to consider all of those three things. If you look at the operating income than in absolute money, we have managed to keep the numbers stable basically compared to last year excluding restructuring costs. And that is something that we are satisfied about and I think that we have seen now impact from all the hard efforts on the efficiencies. If you then look at the share in earnings of joint ventures before tax, there you can also see the impact of the hard work that Sony Ericsson has done, but also of course the hard work that ST-Ericsson is doing, but Sony Ericsson obviously is the major contributor to the improvement.</p>
+          <p>If you then look at net income, net income of SEK 1.3 billion in the quarter compared to 1.8 last year, this then includes of course the restructuring charges. That's one of the explanations of the decline. The other important thing to take note of here is the impact of the financial net. And we are sitting on a very strong cash and the interest rates then are coming down. So we have a negative impact of financial net, but also some currency impacts in that.</p>
+          <p>On the cash flow side, 2.3 billion positive compared to 2.9 last year. I will come back to cash flow in a moment. If we look at the debt maturity profile, this is nothing new. Really it is just the same situation as I reported in the fourth quarter. We think we are, we have a strong debt maturity in the sense that we have no maturities within the coming two years and a good balance in terms of duration for the loans. We should also remember that we have a backup facility that we haven't used to close the $2 billion. So overall, we have a strong financial position, which is very important to have in this marketplace.</p>
+          <p>If you then look at the change in gross cash, we have an improvement here between Q4 and Q1 of SEK 1.1 billion improvement in gross cash. On the operating cash flow side, if we exclude the impact of restructuring SEK 3 billion in improved cash flow there. Worthwhile to note as well is the around SEK 900 million that we set aside for capitalization of our pension trusts, majority of that is in Sweden. I also would like to mention that we paid dividend here last week, SEK 6.4 billion, that then would impact the financial numbers in Q2.</p>
+          <p>So, if we go the balance sheet and the ratios there, we see a days sales outstanding of 117 in the quarter, improvement compared to last year Q1, sequential increase, part of that is volume driven. We continue to work hard with the balance sheet. We have our long-term targets there of less than 90 days of DSO, that is what we are working on. The inventory days, some seasonal buildup of inventory continue their hard work there, the internal target is less than 65 days. This is obviously very difficult to say just on a single quarter basis, but we should look at it over more of a rolling 12 month or at least calendar year basis, but these are internal targets.</p>
+          <p>Strong equity ratio of 53%. If we then look at the cost reduction program, here we are still now talking about the original program, if you like, that we presented in the beginning of 2009. And we estimate the savings by mid-year 2010 to be estimated to between 15 to SEK 16 billion. We estimate then the restructuring charges for this program overall to be SEK 15 billion. This means that there is around SEK 1.5 billion that remains to be taken in the second quarter. It's also worthwhile I think to mention that there will be cash outlays over this program in the second half, but no more restructuring charges in the second half.</p>
+          <p>With that said, let me turn over to -- hand over to Hans again.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Jan. Just summing up then and you will know we are not totally familiar with our focus areas here. And this is important for me because now we're modeling the company based on these areas. To be on top here of course very much according to our core Ericsson business and the last one very much geared to our joint ventures. And the first one is of course growing faster than the market. And as said, it's a little bit hard to say the first quarter here where the market is how much has grown or not, but definitely where we focus on growth. And we will that's partly what we have geared up and you have to go-to-market with the 10 regions to strengthen up, because we think this is very important. We think also we have a portfolio that should be in hold of stronger regions.</p>
+          <p>Best in class margins, yes, as I said before, we continue to work with our profitability and our profit levels and we have said that we are working to improve that. So that's an important target for us as well. And then for strong cash conversion, I think that we have now proven that we're generating cash here for every quarter for quite a while. Important here is of course that we still see, as Jan mentioned, more improvements to be done on the capital structure, how much we are tying up. Not easy of course in this environment, but at least you should feel that we have targets internal to work on that as well.</p>
+          <p>And then finally, growth in the JV earnings. Right now, we're basically flat from them, but of course that is a target to see that they are generating earnings for us as well. So these sort of four focus areas is that we are deploying in all the dimension either regions or segments internally to see that we have to drive to deliver that, because we believe if we can deliver on these four, we can deliver value for our customers, shareholders and for our employees.</p>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay. Operator, we are ready for Q&amp;As.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" />. We now have our first question from Rod Hall from J.P. Morgan.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Yeah, thank you for taking my question. I just have a couple actually, quickly. On the -- and they're going to be on the gross margin, obviously. The first one is with regards to the mix within the gross margin. I noticed that you've got some of the more hardware-oriented regions or countries like India are slowing quite aggressively. And I wonder if you could comment on the degree to which that has impacted the mix shift towards software that you talked about in networks? Hans, maybe you could comment on that.</p>
+          <p>And then I also would be interested in knowing whether that particularly on the slowdown in India, whether you would expect that to cease or at least partially cease in the next quarter or two. We've heard other competitors talking not only about the slowdown ahead of 3G builds, but also the fact that there's a major security review going on in India and that that has slowed investments in the short-term, but it's not expected to last indefinitely. So if you could comment on that, I would appreciate it.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Okay. If we talk about the mix shift and discussions, of course usually we have been more driven of the type of business. We are doing more than maybe the type of countries we're into. I mean, as I said before, but of course we are predominantly a 2G market in India and as 3Gs are doing the auctions as we speak. There are very little 3Gs, one operator has 3G in the country only. So of course that is impacting because it's more hardware on 2G than 3G. So that's correct. But that's over time, of course, we will probably see more 3D deployment in India. And on the second question, I mean, I wouldn't guide if it is going up or down, but the only thing I can conclude it's an ongoing auction in India right now. What we are seeing is of course a little bit of a slowdown in Q4 and still into Q1, when it comes to investment, especially as they are waiting to get Spectrum for the 3G auction. So we're going to see how that turns out, but probably if we get Spectrum operators, they would probably deploy 3G and that will have a different profile then.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Okay. Hans, could you just specifically comment on the security review point though. Do you -- have you guys seen that? And is it having an impact outside of the 3G build situation, I mean is there a security review underway?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>We read the same reports that you are doing. And I couldn't comment anything more than you are doing at the moment.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Okay. Great. Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question is from Zahid Hussein from Citi.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Yeah. Hi, thanks for taking my question. Just a couple again. In terms of the gross margin, you've been talking about some of it not being too much software orientated and sort of being ongoing. Given that some of this is going to be some cost savings, how sustainable is this going forward? I mean should we be thinking about a gross margin above 36, 37%? Or should we be thinking of the moving parts so this could actually be below 30, 35%? And just wanted to get your feedback on that and also to -- I've got a follow-up after this.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Now, first of all, we don't guide on gross margin and something like that. What we can say we have a sustainable impact on our efficiency improvements. That's for sure and that we're mentioning. Then of course there is always moving parts when it comes to product mix, regions and competition, but we are doing the cost savings in order to improve our margins, of course. But to guide where they will end up, that we're not doing.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>All right, fine. And then more importantly on the market, you're sort of talking about growing faster than market. We haven't really got anything to benchmark here. You haven't given anything about where you think the market will grow at this year or in terms of where you see competitors. So it's just saying that you're going to grow faster than something and not giving us anything to measure that by is almost a useless metric. I mean, are you going to give us something to judge it by or should we discount that?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think that we will continue to do as we have done before. We will conclude after the quarters how we have done, then we will reflect over that and not giving any guidance where we're going. And when the year 2010 is closed, we can measure if we have performed. As I said, we decided for quite a time ago not to guide and there's always pros and cons with that. We are now concluding that there are more pros for us not doing it and that's why we're not doing it. But we would like to show the performance of the company and then we can measure that against the facts that is happening instead of a guidance.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question is from Mark Sue from RBC Capital Markets.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Hi, this is Joe Longobardi on for Mark. Are you seeing operators in developing markets return to investing in their networks or do you foresee them sitting on the sideline for an extended period?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I see in the developing market, we still see technologies, but also some cautiousness as I said before. And we are of course, yes -- and we still see some of those markets being fairly weak then, but again there is no new trend. It is same trend that we had in the third quarter and the fourth quarter that we have now in the first quarter. So it's nothing worsening like that, but we don't see -- we see that there are some cautiousness, but also the technologies as well as the macroeconomics. So we have three of those factors. And then of course now with the 10 regions that we are elaborating on, we are trying to talk about in each sort of 10 regions to get a better flavor for what is happening in all 10 of the regions instead of doing a general brush over the whole world, which is quite big.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Okay. And the recent pullback in China on the 3G-network build out, do you see that delaying transition to 4G going forward or could that rate of adoption continue?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>No, I think that of course last year was very much a focus of initiating 3G in China and then this year it's continuing deployment of that. It could be a little bit different between different years as they kicked it off last year and this year sort of they are rolling it out and getting consumers on it. So it's a little bit different, but we don't see any difference in from what we thought were the plans, at least.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question is from Kulbinder Garcha from Credit Suisse.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Hi. Another question on the gross margin and a clarification on revenues. On the gross margin point. Hans, I just want to be clear, so if you were to rank the reasons for this sequential and higher year-on-year gross margin, is efficiency first, then mix and then software, is that right? Is that how you would rank the order of the drivers and you're saying the efficiency could be sustainable. Is that how you want to communicate? That's my first question. The second one is on sales. It seems to me that if India is depressed because 3G auctions and South America to a degree, in Sub Sahara you got consolidations holding back investment and your component constrained. At some point this year, we can debate when it is, we should have a very strong start back in revenue. shouldn't we? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>On the second one, you know that we're not going to guide on that one. But let me start with the gross margin again then. As I said, in the Networks segment, we have the features again, product mix and software that are impacting the gross margin and the overall margin. On the overall Ericsson and as I said before, let's hope there was pretty normal as we came down quite a lot, almost 30% in Multimedia, which is software intense. So that's what I'm trying to say. Then of course it's always going to be different between different quarters, but we have been working with efficiency in a company of course. That is somewhat paying off. But all other things equal of course, you can always say that the gross margins are where they are, but we are of course are in the market as well that is dynamic in that sense.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>And so, okay, on the revenue side then, are the component constraints sort of hindering your ability to pay equipment in the near term, I think for Q2, will that affect your ability to ship sales?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think that as we elaborated that we saw that semiconductor industry were a little bit having higher demand than supply, at the last of quarter, we had a certain impact of that in the first quarter. Maybe it was a little bit too naive and believe it's just going to go away in one quarter, but we have a very strong and proactive sales supply and sourcing organization in Ericsson that I think it's top-class. They have been working proactively to see that we can actually meet the customer needs. But I cannot say at this stage that we will have not any impact in the second quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay. And finally, just one very quick thing. Hans, which is I guess you've been CEO now for several months. I'm just thinking Ericsson is a world-class company in terms of market share, but do you honestly believe with the guidance you give that you're giving world-class communication in giving no real absolute margin targets and no real revenue targets to the business, not even for this year even over the longer-term. Is that not something that should be considered, do you think?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>We always consider what types of things we should disclose. And as I said, we now took a step forward to a couple of new disclosures here, which we have this discussed with the market, which we think is important I guess that the market also thinks is important. Measurements that we want to both internally to be followed and externally. We always debate these type of things. At the moment, we have more <mark type="inaudible" /> than not doing any guidance, and that's why we decided not to have that. But again, we always review what we have, but that doesn't mean that we will do it. It's just that we review all these to see that we are doing the best.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question is from Eng Haven from Syntax</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Good afternoon. A question, how fast do you need to run to stand still in the market? And the meaning, the question regarding that is, if you think the amount of traffic, the traffic is growing very, very rapidly for the moment, especially the data traffic. But at the same time, prices on base stations are falling, the equipment is getting more efficient than bringing out more <mark type="inaudible" />. So how fast do you need to run to grow the market, or say how fast when you calculate it, how fast do the traffic need to grow in order to grow your top line given the price pressure, given the more efficient equipment you're bringing out?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>It's of course a fairly complex question, but I think that this is of course a certain element a more slower in all the technology we are doing. We're all the time getting more technologies being more capable all the time. So that's true, But on the other hand, and we see the data growth right now. And as I said, we are now some 400 million mobile broadband users using more capacity than the two -- the 4.8 billion mobile subscriptions that we have. So of course, it will have an impact if that continues to grow that way. And we talked about before that maybe it's only one-third of the 2G footprints worldwide that is 3G today, and even less if it's going on HSPA. So it's still quite a lot that has to be covered. That was what we have disclosed before. So I think that's the important parameters.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>But if you think about the hardware, if you think 10 years back, your sales is half roughly what it was 10 years back. You're probably shipping three times the amount of equipment that you did and. Prices have come down quite a lot. So your top line is halved and the traffic has been exploding, so to say, So how do you see it in the future, how fast does it need to grow in order to get the top line?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I have a number here that you were asking for. I think that again remember also we are moving from having a lot of hardware on 2G to less on 3G and even less on 4G or LTE. That's also a reality we're living, but we also need to remember that we now have more than 40% of our business in Services, which also is an important part of the company. And the combination of the technology leadership what we have in technology together with services is going to be even more important going forward when the net proceeds out there and you need to modernize.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Okay. Thank you, Hans.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question is from Richard Kramer from Arete.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Yeah, I guess just a follow on from that question and to dig into a little bit more, we've now had a couple quarters where there has been sharp declines in core network sales on an organic basis. And can you break down a little bit or give us a little bit of color on the pricing environment? It seems that several of your larger competitors, certainly European ones, are extremely aggressive right now trying to rebuild share and there is a new Chinese competitors also very aggressive.</p>
+          <p>And maybe one other question for Jan, we are seeing again sort of 14% organic decline in sales or 16% -- a 13% increase year-on-year in head count and it seems to be that you're seeing the restructuring programs of the current restructuring program will end fairly shortly. Are you telling us that we'll have quarters later in this year where there will be no restructuring charges or would you anticipate looking at another restructuring program over the course of the year given how quickly head count has risen in the other direction from sales? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Jan will start.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I'll start and I think first of all the -- as Hans mentioned, the business, the Services business is growing and the Services business is in head count driven obviously business. That doesn't mean that we are not changing or transforming that business. We are doing that on a daily basis and that we will continue to do of course.</p>
+          <p>With regards to the restructuring program, I mean, what I'm saying very clear is that, with the program that started in the beginning of 2009, there will not be any restructuring charges in the second half. If there is a new program, I am convinced that Hans and I will go out and tell you that in advance. If we don't, then from the second half of 2010 we will start to look at the bottom line without excluding restructuring costs, I would say.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yes, if we then take the price pressure and the question about what will elaborate on the trend that we see the 2G going down, including core and the pieces around whatever it's going to be and 2G's going down, at the same time 3G is going up. We think we have a very competitive portfolio in the 2G and as well in the core business regardless of it's 2G or 3G, but by nature it's going down on 2G right now.</p>
+          <p>When it comes to the price pressure, I got the question so many times right now, maybe I sound a little bit strange here, but we have had this price pressure for quite a while right now and tough competition for a long time as well. So I mean we usually live with it as a company and we used to fight with it, bring out our strategy and we stand firm of our strategy. We need to continue with the things that John is talking about, the efficiency gains and continue to work on our strategy. So I think that's the most important for us. Competition will always be there and it's going to be tough. But, and we need to understand it, but it's more about driving our agenda and our strategy right now.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>And just to be clear, there's been no lessening of price pressure given how many of your competitors seem to be keen to get share right now?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Sometimes you're <mark type="inaudible" /> or feel that you remember what actually happened on that. But as usual I update on the longer time when we have looked into it. No, it's no change. It's equally tough as I usually say.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Alexandre Peterc from Exane/BNP Paribas is next on line with a question.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Yes, hi, thanks for taking my question. I just like to understand what's going on in the emerging markets that remain fairly soft, not just in India but in other markets as well. I remember your comments saying that your cycle is lagging, the macro cycle by six to 12-months. Now given this credit markets bottomed out and the macro bottomed out about a year ago, how should we time then this recovering emerging markets. And then a very small follow-up would be on CDMA. I understand it was quite strong. Are you surprised and can this continue? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>On the emerging markets, I'll just go back and reflect what happened in the first quarter. And, of course, we try to go through region-by-region right now, but sort of the growth markets as I call them, instead of emerging markets like Africa, parts of Asia and et cetera, they have a combination of a couple of things. They have the sort of the cautiousness of operators after the ongoing financial turmoil. But at the same time they also have a transition with 2G and 3G. And especially in Africa, we also have an operator consolidation that is taking down the pace a little bit. But you can see also that in those regions, mobile broadband is a very important piece of it going forward. So that's sort of where we are on that. And I'm not say anything about the future, more about what you see right now.</p>
+          <p>On the CDMA, I think that we are happy with acquisition. We position ourselves with the largest CDMA operators in North America. I think that they're also are seeing the data growth in the CDMA networks as we've seen in WCDMA networks, which of course are bringing business to our CDMA business. So now we're happy with that acquisition and we think it's performing well.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Are there any market share gains there against competition in CDMA specifically?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>It's a little bit too early to the say. I mean, it's just one quarter that we had it. But I will come back and elaborate on that when we have a little bit more time behind us.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Excellent. Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We now have Patrick Standaert from Morgan Stanley on line with the question.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>A quick question on the CDMA business. I'm trying to understand a bit if the upside you've seen on sales really had a big impact on the profitability. I'm trying to understand a) one if you could tell us what the profitability came out from the Nortel business. And if you can't,  tell us how much more significant it is versus the group average.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Okay. As we said in the fourth quarter, we talked about CDMA being well above average. And remember we got CDMA business for the last six weeks and they are usually the strong weeks of the year. This quarter is a little bit more normal, but still a little bit above the average, to normal. But that's where we are. But remember, when we made the comment in the fourth quarter, we had the last six weeks, which are very important weeks for a year. So this quarter it was more normal, but still a good profitability on the CDMA business.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>When you talk versus historically, do you speak -- versus average, do you speak versus Ericsson average or do you speak with Nortel's historical average?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I had talked about more the Ericsson average here. I mean this business, we're not in business in Nortel ever because we took out the North American CDMA only. So that's we care, we have no historical data on that one.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>And when you look at your pipeline for the CDMA business, any reason to believe that the spike that you've seen in Q1 will continue in the beginning of the year, or if this should slow down? And then on that similar trend of question, if you had some component shortage in 1Q, is there any reason to believe that the sequential growth for Q2 will be higher than historical average?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>We don't comment on seasonality or something like that, that we don't guide. Secondly, when it comes to CDMA, again I think what we bring to the table on CDMA is of course the financial stability of our company. I think that's important. And then of course we want to see how the customer reacts and how they invest on CDMA. So far, it's progressing as planned and a little bit above plan as well. But it's finally going to be driven by the consumer demand on CDMA in North America. I think that's the most important, and that's &#x2013; want to see where it goes.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We now have a question from Anuj Krishan from UBS.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Hi. Thanks for taking my question. First of all, thanks for the additional disclosure around Network Roll-Out, that's very useful. But just trying to understand over here the profitability within that portion of the business. It appears that it is quite lumpy from quarter-to-quarter. Can you help us sort of understand how profitability, how we should look at profitability within that and how it sort of fits in within the overall Global Services business? And secondly, if I may, on the R&amp;D, we understand that you've not changed your guidance at this stage. But looking at the R&amp;D spend in Q1, it would appear that based on normal seasonality we might end up being higher than 30 billion. Can you help us understand the sort of drivers within that and how we should look at R&amp;D spend going forward? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>We'll start with then the Roll, yes you can see from the disclosure that we have been quite lumpy on the &#x2013; and then the reason of course depending a little bit of the projects we take on and what type of all products is ongoing in that quarter. But you can also see that we have improved our margins over time. We have a lot of focus on product execution and product management. But remember it's very important enabler for our Networks business. I mean, you sell it together. And that has not changed. So that's important to understand.</p>
+          <p>On the R&amp;D, maybe Frykhammar will comment on that.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Absolutely. I think though one more thing on the Network Roll-Out. It's very easy here, we have two former Heads of Global Service in the room. But it is a low margin business. And as such, it's extremely important for us to work very hard, as Hans said, on product management. So I think that is also important addition to make.</p>
+          <p>On the R&amp;D side, I don't see that there is a reason to change the guidance on the R&amp;D spend. I think we are -- I agree with you that there is a bit of a Q1 number there, but we have -- if we feel that there is a need to change the guidance, then we will do that. So I think by that we have leave it.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>All right. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We now have a question from Adnan Amet from Behrenberg.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Hi, guys. A question for -- and actually two questions for Hans. First of all, are you seeing any increased activity from operators to bundle services deals together with networks deals. And if you look at the industrial market, vendors such as K&#xF6;rner and ThyssenKrupp, they sell equipment at a cost or low margin and make the money on services of the multiyear deals. Are you seeing an increased activity of that in your pipeline over the next 12 to 18 months?</p>
+          <p>And the second question for you, Hans, is just on your CDMA strategy. Obviously you've taken up the Nortel business in the U.S. and you've recently struck the deal with &#x2013; I'm thinking the Nortel position out of the LG for the Korean market opportunity. What type of strategy do you have for CDMA and other markets such as in China, India and Japan over the next 12 to 18 months? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Okay. Regarding business models, I think of course it's always some innovation in that area and but nothing dramatic or <mark type="inaudible" /> or something. I think that in our case we're also looking into using our assets when doing business here where we have a strength in technology and quality on our network performance together with our service business to see that we can do tailored a deal for our customers. I think that we are doing it as well. But it's nothing big <mark type="inaudible" /></p>
+          <p>When it comes to CDMA, you are rightfully pointing out that that was a North American CDMA business. What we have said on the international business, we will do CDMA business outside North America if it makes sense for us. We have already announced one in the Nordics on the 450. CDMA, which is rural mobile broadband. So where it makes sense, we're going to do it using again our assets, which is a global reach, using that same channel and our service capabilities to get CDMA out in other markets, but we will do it when it makes sense. And then sort of when it make financially sense, I would say.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We now have a question from James Faucette from Pacific Crest.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thank you very much. I wanted to ask a little bit of a longer-term question. If we look at the way networks are moving, particularly with new introductions of things like <mark type="inaudible" /> cells et cetera, how would you expect that this will impact your equipment business and competitive position going forward, particularly as these new network elements seem to allow the smaller companies to compete effectively, at least at this stage? That's the first part of the question. The second part is then as it relates to these new pieces of the network, how are they going to change what needs to be done from a network management standpoint, et cetera? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Let's see if I understood your questions. When it comes to the network and continued evolution of the technologies on the networks, we of course are following that closely and sort out for us the radio technology, for example, is much based on the micro <mark type="inaudible" /> and the picocells and that where we are making our investments in order to meet this demand from the network with more usage from smartphone user or connected PC devices. That's how we want to support the operators to manage the loads. At the same time, it's very important, though, of course that the transport and the routing of it and the amplifying <mark type="inaudible" /> of it as well. You need to balance that.</p>
+          <p>On top of that, the provisioning and the data management is going to be even more important when you bring in many new devices to the network and very different usage from those type of devices. So that's what we're doing in the multimedia business. You can historically say that on voice it's been innumerous tariffs on voice, but very few on data. And of course going forward, we're going to see more different type of tariffs on data. And then we need to understand that in network what type of devices are these, and even what type of service it is in order to have different type of tariffs. So, that is sort of how we are gearing up to meet this market going forward. The second question, what was that?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Yeah, sorry, I'm just trying to understand what challenges are introduced as you basically introduce more network elements and more base stations or places that you need to control. I mean is that -- does that change for you, what capabilities you need to have within the company or is that basically a continued enhancement of the things you already own?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think we have the main assets for the radio technology. But of course, if you get more dense urban business, you need to think about how you deploy that, because maybe you cannot more sites. So you need to have more smarter antennas or smarter cell sites, et cetera. So that type of things we're developing all the time. So I think we have that in the portfolio. It's going to be more based on the assets of the operators one-by-one trying to understand what you have, where they need to go, what type of load do you have in networks, how you build it. So I think that's on the radio side and all that side we feel that we have the product.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>With that, operator, I think we have to conclude this call. So, with that we thank you for joining us today, and we hope to see you all here in Stockholm in a couple of weeks, May 5 and 6, for our Capital Markets Day. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, ladies and gentlemen. This concludes today's Ericsson conference call. Thank you for participating. You may now disconnect.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

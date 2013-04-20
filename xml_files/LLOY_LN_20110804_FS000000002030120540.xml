@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1410506" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q2 2011 Earnings Call</title>
+    <date>2011-08-04</date>
+    <companies>
+      <company>845</company>
+    </companies>
+    <participants>
+      <participant id="0" type="corprep" affiliation="Group Chief Executive Officer &amp; Executive Director">Ant&#xF3;nio Horta-Os&#xF3;rio</participant>
+      <participant id="1" type="corprep" affiliation="Executive Director &amp; Finance Director">Timothy James William Tookey</participant>
+      <participant id="2" type="corprep" affiliation="Managing Director-Investor Relations">Kate O'Neill</participant>
+      <participant id="3" type="analyst" affiliation="Exane Ltd.">Tom A. Rayner</participant>
+      <participant id="4" type="analyst" affiliation="Espirito Santo">Joseph Dickerson</participant>
+      <participant id="5" type="analyst" affiliation="Autonomous Research LLP">Manus J. Costello</participant>
+      <participant id="6" type="analyst" affiliation="Royal Bank of Scotland Plc (Broker)">Asheefa A. Sarangi</participant>
+      <participant id="7" type="analyst" affiliation="Barclays Capital Securities Ltd.">Rohith Chandra-Rajan</participant>
+      <participant id="8" type="analyst" affiliation="Morgan Stanley &amp; Co. International Plc">Chris R. Manners</participant>
+      <participant id="9" type="analyst" affiliation="Merrill Lynch International Ltd.">Michael F. Helsby</participant>
+      <participant id="10" type="analyst" affiliation="Nomura International Plc">Robert B. Law</participant>
+      <participant id="11" type="analyst" affiliation="Deutsche Bank AG (Prime Brokerage)">Jason C. Napier</participant>
+      <participant id="12" type="analyst" affiliation="HSBC Bank Plc (Broker)">Peter H. Toeman</participant>
+      <participant id="13" type="analyst" affiliation="Oriel Securities Ltd.">Mike J. Trippitt</participant>
+      <participant id="14" type="analyst" affiliation="Macquarie Capital (Europe) Ltd.">Ed H. Firth</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good morning. It's good to see so many of you here again. Following our strategy event five weeks ago, I am pleased to present to you the half-year results for the group. The theme of my presentation today is delivering resilient business performance, in line with expectations despite challenging market conditions.</p>
+          <p>Before I go into the detail of our performance, I wanted to provide some commentary on the economic and regulatory environment in which we operate which remains challenging. This continuing challenged market conditions were, however, a key consideration when developing our strategic review and in this presentation, I will also cover a number of the key aspects of our strategy and the resulting guidance. Though much of this will be familiar to you given that I only presented the strategic review five weeks ago, I think it will be useful to reiterate the key elements.</p>
+          <p>It is clear that the external macroeconomic and regulatory environment remains uncertain. Our marketplace and the expectation of our customers are changing. As I have said previously, we need to regain our customers' trust and provide the products and services they need in an increasingly competitive market. This is core to achieving our aim of being the best bank for customers. At the same time, the financial pressure on consumers has remained high with rising inflation more than offsetting incomes &#x2013; increases in income such that real incomes fell at the fastest rate for 34 years in the first quarter of 2011.</p>
+          <p>Consumers are continuing to grow the value of their spending in line with their incomes but that is translating into lower spending in real terms, a key reason why the economy has remained weak. Pressure on household finances has also resulted in a renewed slowing in growth in deposit market balances. Demand for credit also remains subdued in both unsecured and mortgage markets. Consumers appear to be managing the squeeze on real incomes without increasing borrowing but through reducing their savings levels.</p>
+          <p>The regulatory environment remains challenging, but we are starting to see greater clarity in a number of areas. There are, however, a number of different issues that are likely to have a fundamental impact on the business going forward, including future capital and liquidity requirements, the impact of any potential ring fencing and the impact of other ICB recommendations in September.</p>
+          <p>We continue to have a cautious outlook for the UK economy. Much has been written about the potential outcome of the austerity measures on the UK economy and their impact on key economic indicators in the short and medium term. What we can infer is that the most likely scenario continues to be one of a slow recovery and we will continue to remain cautious. There has been a softening of economic data in the last five weeks, but our economic expectations have not changed since I present the strategic review and the outlook for GDP expectations remains broadly in line with consensus.</p>
+          <p>We expect UK-based rates will increase at the end of the second half of 2011 with unemployment slowly improving from the second half of this year and property values stabilizing. Our main scenario continues therefore to point to a slow recovery in line with consensus with continued deleveraging and high inflation for some time to come.</p>
+          <p>On the other hand, as we discussed five weeks ago, there are some additional scenarios of additional macroeconomic risks such as a double dip or contagion from a sovereign debt crisis where the probability of occurrence has recently increased. Against this backdrop, our decision to accelerate our non-core disposals and strengthen our funding position in the first half of 2011 was key. Reducing the risk in the balance sheet and adapting our business model to be more resilient to any future volatility in the markets will continue to benefit the financial strength and competitive position of the group.</p>
+          <p>The business performance during the half-year has been resilient, given the economic and regulatory uncertainty and the significant challenges facing the business. These results are in line with our expectations. Tim will provide more detail on the financial performance of the group with substantially greater disclosure on both core and non-core businesses.</p>
+          <p>We are reporting an underlying profit before tax which excludes liability management and ECN effects of &#xA3;1.3 billion in the first half, up 36% on the prior-year. This is a resilient performance based on falling impairments and slightly lower costs substantially offsetting the fall in underlying revenues. In our core businesses, the group generating an underlying profit before tax of &#xA3;2.9 billion in the first half and Tim will have more detail on this.</p>
+          <p>At the same time, we have continued to reduce the group's risk profile and we have made good progress in improving the loan to deposit ratio from 154% to 144%, reflecting the balance sheet reduction and strong deposit gathering programs during the half year whilst maintaining our robust capital position.</p>
+          <p>We continue to make strong progress with integration and this is now in its final stages. The benefits of this and our property procurement and IT-related programs will continue to flow through and drive us towards our overall annual synergy target of &#xA3;2 billion by the end of this year.</p>
+          <p>From an IT perspective, we have already rolled out the Lloyds counter system to Halifax and Bank of Scotland branches and migrated HBOS ATMs to the Lloyds platform. This puts us in a good position for the final migration of Halifax and Bank of Scotland customer accounts and data to the scaled Lloyds platform.</p>
+          <p>This is a finance exercise, involving the migration of approximately 30 million customer accounts but this platform foundation &#x2013; this platform will be the foundation for the group's transformation plans. This exercise will complete later this year as we have forecasted. The focus will now start to move to simplification and as the integration initiative is complete, more resources will be freed up to deliver the simplification initiatives I outlined to you in June.</p>
+          <p>We have continued to make significant progress with reducing the group's risk profile and strengthening the balance sheets. We have reduced our non-core assets by &#xA3;31 billion in the first six months and it now stands at &#xA3;162 billion.</p>
+          <p>We've improved our funding position with &#xA3;25 billion of term funds raised in the first half and grew our core relationship deposits by 3% in the same period. These actions helped facilitate further substantial reductions in liquidity support from government and central bank facilities with only &#xA3;37 billion now outstanding at the end of the half year.</p>
+          <p>We also continue to progress the Verde disposal process. There is not much I can report here but we have now received a number of indicative offers which we are reviewing. We will now move on with the process and we continue to expect to have identified the purchase by the end of this year. In line with the original timetable, we do not expect the transaction to complete until 2013, given the complex separation and business migration issues that will need to be resolved.</p>
+          <p>I want to provide some additional information in the next few slides on the very real progress we are making on our commitment to placing the customer at the heart of everything we do. The Group continues to prioritize support for the UK's economic recovery at both corporate and retail levels through the range of services we provide to our business and mortgage customers.</p>
+          <p>Within the Merlin agreement with the UK government, the group and four other major UK banks announced in February the intention to enhance support for the UK economic recovery by jointly delivering increased gross business lending in 2011 compared to 2010. Based on performance in the first half of this year, the group is on track to deliver its full year contribution to the Merlin lending agreement.</p>
+          <p>As at the end of June 2011, we have provided &#xA3;21.2 billion of committed gross lending to UK businesses, of which &#xA3;6.7 billion has been to SMEs. The year-on-year growth to SMEs was 2% as at the end of June 2011, which continues to compare favorably with a negative growth of 4% in SME lending across the industry reported in the latest available data from the Bank of England.</p>
+          <p>From a retail perspective, the group has achieved an approximate 20% market share of gross mortgage lending in 2011 and we have continued to support the first time buyer market in which the group achieved an approximate 25% market share.</p>
+          <p>We continue to proactively support the UK housing market and our customers through other schemes including the Equity Support scheme, which enables people in negative equity to move houses, and the Lend a Hand Local Authority scheme, which enables local authorities to help people on to the housing level. We also continue to participate in the unsecured market and helped nearly 300,000 customers buy cars, improve homes or tidy up their finances.</p>
+          <p>We have continued to deliver strong deposit growth at sensible prices in a weakening market. We increased retail customers' deposits by 2.8% whilst the markets increased by just 0.7% in the half year. Our multi-brand relationship-led strategy and focus on delivering tailored products has been successful in both the Lloyds TSB and Halifax community banks with particularly success with our Halifax ISA product. Over 300,000 Halifax ISA accounts have been opened so far this year, almost as much as in the whole of last year already.</p>
+          <p>Overall, we have really invested in our customers launching the ISA Promise which ensures we pay interest from day one of receipt of the application to tackle a major cause of customer complaint, achieving a significant increase in best buy mentions and winning awards in a number of Moneyfacts categories.</p>
+          <p>To become the best bank for customers, we need to deliver improved customer service. We will be opening whole Halifax branches every Saturday by the end of August to provide added convenience for our customers and we have enhanced our Lloyds TSB Internet Banking offering to enable our retail customers to transact more online and, of course, Halifax customers will benefit from this after the migration is complete later this year.</p>
+          <p>To strengthen our vision of being the best bank for SMEs, we launched our Best for Business campaign and reaffirmed our continued support for the SME charter to respond to 90% of lending appeals within 15 days, which will exceed the industry standard of 30 days.</p>
+          <p>I am very pleased with the significant number of awards Lloyds Banking Group received in the first half of this year, including the Bank of the Year at the Real FD/CBI Excellence Awards which we have won for the seventh year running in recognition for our continued support of UK businesses, and I am particularly proud of the broad range of external recognition achieved across the group. These all reflect the outstanding commitment of our people right across the group to deliver quality products and high quality service to our customers and communities.</p>
+          <p>As part of our strategy to become the best bank for customers, we publicly committed to a number of stretching targets to reduce customer complaints and I am pleased to report that we have already made great progress. Our main target was to reduce the level of FSA reportable complaints we receive by 20% between the first half of 2010 and the first half of 2011 excluding PPI complaints. We have achieved a 24% reduction, which has also reduced our complaints per 1,000 accounts to only 1.7. Considering the last data reported by the FSA in February, this result would have ranked us at the top of our peers assuming no change since then.</p>
+          <p>This has been accomplished through the training and support we have provided to our 40,000 frontline colleagues. As a result, we are also now resolving over 90% of complaints at first touch. We have also reduced the number of complaints overturned by the Financial Ombudsman Service to less than two in five. In the second half of the year, we are rolling out an externally accredited complaint handling qualification to all of our complaint handlers. This program makes us the first financial services organization to have professionally qualified complaints handlers.</p>
+          <p>Despite the significant progress, we recognize that we still have much work to do, which is why we have now also announced ambitious targets for the remaining of 2011. This includes reducing complaints further by 20% year-on-year and reducing complaints overturned by the Financial Service Ombudsman to one in five.</p>
+          <p>The considerable progress on these customer initiatives is entirely consistent with the key objectives outlined within the strategic review, which I will summarize in the following slides. Our strategy, as you know, has a three to five-year outlook. But as I have already outlined, we have undertaken a series of rapid, focused actions including starting a number of strategic initiatives. These include accelerating the divestiture, Project Verde, required by the European Commission; delayering the group's organizational structure; and further strengthening its balance sheet by paying down &#xA3;60 billion of government and central bank funding in H1 2011.</p>
+          <p>As part of our strategy, we will refocus our business portfolio to fit our assets, capabilities and risk appetite. We will focus on attractive UK customer segments, reduce our international presence and continue our disciplined reduction of non-core assets to ensure sustainable predictable returns on equity above our cost of equity. We will also simplify the group to improve service and target delivery of &#xA3;1.5 billion of annual savings in 2014.</p>
+          <p>I will provide more detail on the specific initiatives we are looking to implement on my next slide. Cost savings driven by the simplification program are expected to enable an additional &#xA3;2 billion of investment over the period 2011-14 to grow our core customer franchise and deliver strong stable high quality earnings streams over time. We will be very disciplined in assessing the investments we make and they will be subject to rigorous tests. These will include their fit with our overall strategy, their financial returns and their fit with our new risk appetite.</p>
+          <p>You heard me talk about simplification at the strategy review, and the problem is critical to delivering benefits for our customers, our business, and our colleagues. Simplification is about how we do business, and what we do day in, day out. It isn't just another program, but the way of life, ingrained in our day-to-day activities. We have more than 100 simplification initiatives planned, many of which have already started, and although I have already outlined a number of these, including the changes to the organizational structure, I thought it would be useful to provide some more detail on some of the specific activities being undertaken.</p>
+          <p>Firstly, simplifying end-to-end processes. We are looking to revolutionize the way we work with the introduction of end-to-end processing across the group. Transformation of our processing is the single biggest initiative within the simplification program which we expect to deliver over &#xA3;500 million in benefits alone. We will focus on simplifying end-to-end processes, through first touch execution, automation, image and work floor management.</p>
+          <p>Secondly, procurement. We are looking carefully at our suppliers, and the way we buy products, services and materials. The benefits of getting this right are enormous. We currently have more than 18,000 suppliers. Our target is to reduce this to 100 lead suppliers with 10,000 suppliers in total.</p>
+          <p>And thirdly, IT infrastructure and systems. I have already highlighted the significant progress made in integrating IT systems to date. We will continue to invest in further IT projects to support simplification and growth initiatives over the next few years. As we deliver improved and simpler systems, we'll become increasingly agile and we'll be able to react quickly to enhance our service and product propositions. In short, we'll have the right IT infrastructure to enable us to deliver significant benefits for our customers.</p>
+          <p>Five weeks ago, I outlined five example growth initiatives at the strategy review, including the development of Halifax as a challenger brand, becoming the UK's leading bank assurer, becoming the leading through-the-cycle partner to UK SMEs, developing our wealth proposition and developing our wholesale markets businesses to capitalize on our corporate lending relationships.</p>
+          <p>I should stress that these were only a few examples of the type of investment that we wish to make from the quite comprehensive and granular set of initiatives to be implemented over time to drive revenue growth in the future. Although it is only five weeks since the strategic review was announced, I can already update you on the progress we are making on reinvigorating Halifax as a challenger brand in the UK.</p>
+          <p>We want people to recognize the Halifax again for what we are good at: simple, great value products and friendly, upbeat service. We will therefore be revitalizing the brand and launching a new advertising campaign in the Autumn with the intention of cementing its challenger position in the competitive retail market.</p>
+          <p>Turning now to guidance on our financial targets, our guidance given in our strategic review announcement on 30 of June remains unchanged. Further detail on our 2011 guidance and 2014 financial targets is given in a news release and I have re-outlined the 2014 group targets on this slide.</p>
+          <p>In summary, we are making good progress in reducing the group's risk profile. Our success in reducing non-core assets and increasing customer deposits has meant we were able to accelerate the repayment of government and central bank facilities with only &#xA3;37 billion now remaining. We also continue to make great progress against our funding objectives and our loan to deposit ratio continues to fall.</p>
+          <p>At the same time, we have seen a resilient performance in the business in line with expectations with falling impairments and slightly lower costs substantially offsetting the fall in underlying revenues, despite the market conditions in the UK and abroad. Our focus will continue to be in supporting our customers and in doing so, we continue to support the UK's economic recovery. I am proud at the same time that we have substantially improved our customer service proposition and reduced complaints.</p>
+          <p>We continue to monitor economic conditions closely, notably in the UK and Eurozone and remain mindful of the challenges of continuing regulatory uncertainty, particularly ahead of the final report of The Independent Commission on Banking in September. As I said in June, this will be a three to five-year journey as it takes time to build a high-performance organization in retail and commercial banking.</p>
+          <p>Given the high quality people we have, the series of rapid, focused actions we have been taking and the progress made in the half year in strengthening our balance sheet, we are well-positioned to realize over time the full potential of our organization, brands and capabilities and ultimately to achieve strong, stable and sustainable returns to shareholders.</p>
+          <p>I will now pass on over to Tim to provide further detail on the financials for the first half of the year.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks. Thank you very much, Antonio, and good morning, everybody. This morning I'm pleased to present the group's results for the first half of 2011. In addition, I want to spend some time giving you an update on our continuing balance sheet de-risking through the run-off of non-core assets. And finally, we'll talk about capital funding and liquidity.</p>
+          <p>As you all have seen from the new release this morning, we have provided an enhanced core and non-core disclosure with more detailed cost and divisional financial informational and I hope that you find this useful.</p>
+          <p>Firstly then, looking at the business performance at the group level, in the first half of the year, the group delivered a resilient performance in line with expectation with underlying profits up 36% at &#xA3;1.3 billion. Underlying income which excludes ECN movements and last year's liability management gains fell 12% to &#xA3;10.4 billion. But this is also after including losses on non-core asset sales of &#xA3;875 million, the sale of which facilitated substantial central bank facility pay down during the half.</p>
+          <p>With cost down 2% and impairments down 17%, this shows that the fundamentals of the business are indeed sound. Aside from these factors, the reduction in underlying income was partly due to a lower net interest margin but in line with the reduction in our average interest earning assets, both for the group and for the core business.</p>
+          <p>Looking at our results on a statutory basis, well, I started this reconciliation this morning by adjusting the underlying profits that we just looked at by, of course, including last year's liability management gains and the movements in each period in ECN evaluations to show the combined businesses result. We saw a reduction in the statutory result to a loss before tax of &#xA3;3.3 billion in the first half. In addition to the reduced profit on a combined business basis which I just explained, the statutory result primarily reflects the PPI provision, as well as further integration costs and the absence of the pension curtailment gains that we saw in the first half of last year.</p>
+          <p>Let's now look at the group's income performance. As I said, group income decreased by 18% but underlying income decreased by just 12%. This increase includes a fall of &#xA3;470 million in the core businesses, which I will explain in a moment, and &#xA3;875 million of losses on disposal of treasury and other non-core assets.</p>
+          <p>But please remember that these losses were largely offset by a related and accelerated fair value unwind &#xA3;649 million, which is included lower down in the income statement. Excluding those losses on disposal of non-core assets, underlying income fell by 5% which is almost exactly in line with the reduction in average interest earning assets of 6%.</p>
+          <p>Let me look now at core revenue performance. So if I break out that single core brick that I had on the last slide, we can see here in detail the drivers of the 5% or &#xA3;470 million reduction in core income. The reduction is dominated by an adverse movement in banking volatility in other operating income. The reduction in core customer balances had only a small effect and was offset by other factors including modest core margin expansion.</p>
+          <p>Having noted the minor trending impact from core balances in the core margin, it's perhaps worth looking now at the overall core profitability and performance. As we saw, core underlying income decreased by 5%, which principally reflected subdued new lending demand and continued deleveraging. The core net interest margin increased slightly to 2.35%, mainly reflecting the improved funding mix in the core business with a higher amount of deposits and a smaller amount of wholesale funding.</p>
+          <p>The core impairment charge was flat on a year-ago and down on H2 2010, principally reflecting a reduction in the retail impairment charge driven by the unsecured portfolio and partially offset by an increase in wholesale which is primarily as a result of lower recoveries on disposals of assets. Core business profit before tax was down 28% compared to the first half of 2010, but excluding liability management and the ECN effects, core profit before tax decreased by just 6%, again broadly in line with the smaller balance sheet.</p>
+          <p>So having touched on the core margin here, perhaps it's now time to look at the group net interest margin in more detail. The net interest margin was 207 basis points in the first half compared to 208 this time last year and 212 in the second half of 2010. The H1 margin is actually a couple of basis points higher than I had expected as we enjoyed two favorable factors. Firstly, the benefits in the calculation of running off some low-yielding non-core assets. And secondly, the real benefit of a change in funding mix with an increasing proportion of funding income coming from retail deposits rather than wholesale funding. And this mix benefit is happening faster than expected.</p>
+          <p>As I've said on a number of occasions, predicting margins is far from easy. But as I look forwards, I still expect the full-year margin to be just over 2% which implies a second half margin of around 2%, of course. This guidance is supported by the growing impact of the annualization effects of repaying relatively cheap central bank funding and also the increasing weighted average costs of wholesale funding, including that the effects of the fairly expensive H1 issuance will only be fully felt in the second half.</p>
+          <p>In the medium term, the current margin trend will reverse, driven, as we have guided before, mainly by increasing base rates and lower new wholesale funding costs and an improving funding mix. The lower wholesale funding costs will come both from lower absolute issuance needs and the lower issuance spreads that we expect as funding markets settle over time and recovery sets in. These factors will, as I have said before, support the group margin expansion to our target range of 215 to 230 basis points by 2014.</p>
+          <p>Let me turn now to our cost performance. During the first-half, operating expenses were slightly down, 2% in fact, benefiting from further integration savings and lower levels of operating lease depreciation, and absorbing increased employers' National Insurance contributions, higher VAT and inflation et cetera. We've not been able to accrue for the cost of the bank levy during the first half of 2011. However, we continue to expect the cost of the levy for the full year will be approximately &#xA3;260 million. If this cost had been spread evenly and therefore, into the first half, cost would have been broadly flat in line with our previous guidance.</p>
+          <p>I'd now like to spend some time on impairments. The group saw a further reduction in the impairment charge in the first half. The charge was 17% lower than in the first half of 2010 with higher charges in Ireland and Australasia more than offset by improvements elsewhere in the group, particularly the substantial fall in the wholesale division's impairment charge. Impaired loans increased by just 1% compared to year-end and now represent 10.6% of closing advances. The group's coverage ratio over these is just over 45%.</p>
+          <p>Both core and non-core impairments reduced, and I will draw out some comments on this as I look at divisional performance. Retail's impairment charge reduced by 12% driven by the unsecured portfolio and supported by improved new business quality and a stable economy. And even though house prices remain depressed, our core credit performance remained strong with a number of customers entering arrears lower in the second half of 2010, both in the secured and the unsecured portfolios.</p>
+          <p>As expected, the secured impairment charge increased which reflects the predictive movements in house prices. However and also as expected, the unsecured impairment charge decreased, in fact by 32%, reflecting the improved quality of new business written over the last few years.</p>
+          <p>In Commercial, which we are reporting separately for the first time, the impairment charge decreased by 16% as we saw an improvement in the overall credit quality of the portfolio. At the same time, the stabilization of the economy in commercial property prices combined with low interest rates led to an overall reduction in the level of defaults.</p>
+          <p>The wholesale impairment charge materially reduced by 44%, driven by the significant reduction in the non-core businesses impairment charge. The overall charge as a percentage of average loans and advances to customers improved significantly to just over 2% in the first half of 2011 compared with 3.11% in the first half of last year.</p>
+          <p>The decrease has continued to be driven by the corporate real estate and real estate-related assets, together with the stabilizing economic environment in 2010 and, so far in 2011, a low interest rate environment helping to maintain defaults at a lower level, partially offset, the charge overall, by increased impairments on leveraged acquisition finance exposures.</p>
+          <p>In wealth and international, impairment charges increased by 14% on the first half of last year, predominantly as a result of our Irish portfolio where in Q1 we anticipated further falls in commercial real estate prices.</p>
+          <p>I want to look at the headline trends in our Irish portfolio in a bit more detail for a moment. Continuing weakness in the Irish economy resulted in an increase in impaired loans in the first six months of the year. Provision coverage levels have been increased due to actual and, as I said, anticipated falls in property values, as we have discussed. But we now have a coverage ratio of 56%, up from 54% at the year-end, and 42% a year ago. Although the portfolio is non-core and a dedicated UK-based business support credit team is managing the wind-down of the Irish book, current levels of redemptions and recoveries are low due to a severe lack of liquidity in Irish assets, a problem which we do not expect will be resolved quickly.</p>
+          <p>As it's topical, I'm now going to comment briefly on some Eurozone exposures. Our retail and corporate exposures are unsurprisingly dominated by our Irish positions. Our Spanish retail exposure consists of secured residential mortgage lending. About half of this portfolio is to expats, and the other half is local mortgages. The performance of these books is fine, with average loan-to-value of about 63% and about 5% of it impaired with a coverage ratio of about 30%</p>
+          <p>The Spanish corporate exposure is mainly local lending, comprising corporate loans, project finance, and some commercial real estate. The corporate loans and project finance books have seen only modest impairments, 3% impact is impaired, whilst the CRE book which is only about &#xA3;400 million in total, is 22% impaired, and with a 49% coverage ratio.</p>
+          <p>The corporate exposure we have in Greece relates to loans to Greek shipping companies where the loans are generally secured and where repayment is mainly dependent upon the international trade, rather than being linked to the state of the Greek economy. So whilst we manage all of these exposures carefully, they are modest in scale and we are not unduly concerned.</p>
+          <p>Looking now at exposure to sovereigns in local banking groups, more than 40% of these are secured through either covered bond or ABS structures. The group has minimal direct exposure to the sovereign risk of any of these countries, and this includes national governments and central banks. The other banking groups exposed as shown here are mainly short-term money market and trading exposures, or money market lines and repo facilities to some of the major banking groups in Spain and Italy. The counterparties are a limited number of well-rated financial institutions, with whom we have longstanding relationships, and more details about this are set out in the news release this morning.</p>
+          <p>Now, back to the UK and the performance of our UK mortgage portfolio in the first half. As expected, the security impairment charge increased, reflecting less favorable house price forecasts. Pleasingly, the proportion of the mortgage portfolio with an indexed loan-to-value of greater than 100% improved slightly to 12.2%. Perhaps more importantly, however, the value of the portfolio with an indexed loan-to-value greater than 100% and more than three months in arrears also increased slightly by &#xA3;0.1 billion and is now &#xA3;3.1 billion, still less than 0.9% for the portfolio.</p>
+          <p>But we also give you some insight this morning on forbearance activity. We are, of course, encouraged by our regulators to treat customers in financial difficulties fairly, and forbearance rightly plays a key role in achieving that. Forbearance is also an important tool in actually mitigating financial losses from impairment events, as all observers would, I am sure, agree. We apply forbearance under strict conditions, and forbearance activity in our portfolios is therefore limited, and well controlled. Where there is forbearance, the asset continues to be reported as past due, or is considered impaired, depending upon the arrear status. As a result, we're confident we're currently appropriately provided on accounts where there is forbearance.</p>
+          <p>And you can see from the charts behind me, the number of new cases of forbearance has seen a steady reduction over the last couple of years. And in addition, the number of mortgage customers new to arrears decreased again in the last six months. All in all, we continue to be satisfied with the performance of these portfolios.</p>
+          <p>Let me now take you through the profile on management of the non-core businesses which as you know excludes Verde. We're pleased with the progress made on our balance sheet reduction plans in the period given the challenging market conditions of the first half. On 30th of June, we updated our strategy to reduce the non-core portfolio and we set a new target to reduce the balance to be equal to or less than &#xA3;90 billion by the end of 2014.</p>
+          <p>In the first half of 2011, we achieved a substantial reduction of the non-core portfolio of over &#xA3;30 billion resulting in a portfolio now amounting to &#xA3;162 billion. We expect the remaining book to account for less than or equal to &#xA3;65 billion of RWAs by the end of 2014. And as you know, we are targeting non-core run-off and disposals to be net capital generative over the period 2012 to 2014, and I want to talk more about that specific point in a second.</p>
+          <p>But first let me look briefly at the continuing de-risking of the whole balance sheet. Group risk-weighted assets fell by 6% in the first half, driven by the rundown of our non-core asset portfolio, strong management of risk and appropriate risk criteria for new business. We expect further modest risk-weighted asset reductions in the second half of this year. However, we expect these to be offset by the effect of the implementation of the CRD rule changes and RWAs will, therefore, be broadly flat from now until the year-end.</p>
+          <p>Let me go back to the full non-core business now and look at its overall performance. The 51% fall in non-core underlying income was primarily driven by the losses on asset disposals in the first half of this year, but remember the fair value offset. Excluding these losses, non-core underlying income decreased by 16%. The non-core margin also decreased primarily as a result of higher wholesale funding costs and the income drag effect from increased impaired assets.</p>
+          <p>We have been rigorous on how we allocate operating expenses to non-core. Only considering an expense as non-core where we have a very high level of confidence that we can manage the expenses down will the assets go down. The non-core impairment charge reduced, principally as a result of the material reduction in the wholesale impairment charge and partly offset as we have noted already by an increased impairment charge in international, which principally relates to our Irish portfolio. Even though we have seen lower non-core income, the reduction in costs and in the impairment charge led to an improvement in the non-core loss of about 25%.</p>
+          <p>I thought it'd be useful at this stage to give you an illustration of the capital and funding benefits generated by our management of the non-core book. Despite the continuing impairments and reduced margin in non-core, the rundown of non-core portfolios in the first half has been close to capital neutral. The capital consumed by the loss after tax in the non-core business has merely been offset by capital released by the reduction in risk-weighted assets from their disposal and the adjustment in excess expected losses. But the progress made has further reduced the level of risk in the balance sheet, and in addition, we have achieved the obvious and substantial funding benefit from the run-off program. As I've said, we target non-core run-off being capital generative, over the 2012 to 2014 period in aggregate, although not necessarily in every reporting period.</p>
+          <p>Moving on now to capital liquidity and funding, I'm going to do liquidity for a second. That's better. Our Core Tier 1 ratio now stands at 10.1%, reflecting the effect of the statutory loss and partially offset by the reduction in risk-weighted assets of &#xA3;23 billion. As you can see, the business generated about 50 basis points of ratio improvements in the half, albeit that this was absorbed by the PPI provision that we took in Q1.</p>
+          <p>On 30 June, I also spoke of planned further capital restructurings which would reduce the total Core Tier 1 deduction under full Basel III relating to our insurance operations by about &#xA3;2 billion. That has just now being completed, achieving significant mitigation equivalent to about 50 basis points of Core Tier 1 ratio under full Basel III and reducing the transitional rules impact from insurance to approximately 20 basis points per annum.</p>
+          <p>We made excellent progress on our term funding issuance plans. In the first half, we achieved &#xA3;18 billion of publicly placed term issuance and in addition a further &#xA3;7 billion of term funding via a series of private placements. We continue to expect to issue new funding between &#xA3;5 billion and &#xA3;10 billion over the second half of this year across all public and private, secured and unsecured issuing programs and in aggregate.</p>
+          <p>During the first half, the absolute level of group wholesale funding fell by 1% despite the strong new term issuance, reflecting first-half maturities. Successful new issuance also allowed the Group to maintain its maturity profile with 49% of wholesale funding having a maturity date greater than one year despite, as you can see, a significant volume dropping into the less-than-one-year maturity bucket.</p>
+          <p>Turning now to the reduction in government and central bank debt. As we have said already, the group achieved a reduction of &#xA3;60 billion in the first half of this year leaving just &#xA3;37 billion outstanding at the half year. The liquidity support from government and the central banks have various maturity dates, the last of which is on October 2012 and current plans assume the remaining facilities will be repaid in line with contractual maturity dates.</p>
+          <p>As Antonio said, we've also been successful at further improving our loan to deposit ratio. By the end of the first half our loan to deposit ratio, excluding repos and reverse repos, had improved to 144% and we also further reduced our core business loan to deposit ratio to 114%. This reduction is partly due to the continued customer deleveraging and subdued new lending demand. But at the same time, we have successfully grown total customer deposits by 3% reflecting good growth in relationship deposits in retail and in wealth. And we continue to work towards our group loan to deposit ratio of 130% or below by the end of 2014.</p>
+          <p>So let me now summarize the material aspects of our first half performance and also reiterate our guidance for the full-year. Our view on 2011 is broadly unchanged. We're continuing to see various pressures on our net interest margin, as I have said. But despite these effects, we are still targeting a net interest margin of just above 2% for 2011.</p>
+          <p>As a result of increased margin pressures, we've seen a reduction in income, and we clearly expect a further slight reduction in core income. As a direct result of cost actions taken in the first half, we continue to expect costs to reduce slightly this year. And we remain on track to deliver our target integration cost synergies of &#xA3;2 billion per annum by the end of the year.</p>
+          <p>We've seen a good reduction in the impairment charge as improvements in wholesale and retail more than offset the further deterioration in impairments in Ireland. Our overall impairment guidance and the divisions of &#x2013; by division comments remain unchanged. Additionally, we're very pleased with the non-core asset reductions achieved in the first half.</p>
+          <p>Together with excellent progress on our term funding issuance plans and our deposit growth, this has enabled us to pay down material amounts of government and central bank debt. And lastly of course, we've seen that very strong improvement in the loan to deposit ratio which now stands at 144%. In summary, the group's performance in the first half of this year was in line with our expectations and guidance and we are making good progress towards our medium-term targets.</p>
+          <p>And with that, I will hand you over to Kate, who is going to help us organize question time. Thank you very much.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="2" type="a">
+        <plist>
+          <p>Hello, everyone. Thanks, Tim and Antonio. We'll open it up to questions. I know it's hard to restrict yourselves, but if we can just do a couple each, it will be the best way to get around the room. Tom?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Sir, good morning. Tom Rayner from Exane BNP Paribas. Just looking for a little bit more color, Tim, on the sort of trajectory now of the margin. I hear you've reiterated the 2014 target range. Guidance would suggest we dip below 2% in the second half or somewhere close to that. I think if you annualized the full-year effect of some of the expensive issuance this year, that's another drag as we go into 2012. So I'm just wondering, are we looking at sort of U shape or maybe a smile shape trajectory from here to 2014 on the margin?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Tom, thanks for the question and welcome back. In terms of shape of the margin, I think you're thinking about it in a similar way to me. I'm thinking that the second half margin will be around 2% and that will give us a full-year margin of just over 2% which is consistent with what we were saying at the 30th of June. The annualization effect of the items that you're talking about, so repayments of central bank funding which, as we all know, was relatively cheap when we had it and the Wholesale issuance cost which have been relatively more expensive, will continue to come through. So I do look at a smile shape in the margin as you articulate. And what I think will turn that is unchanged from what I've been saying for several seasons now or reporting seasons, which is that we will see movements in base rates, and we will see lower new Wholesale costs to us, both coming from lower spreads as recovery sets in but, also very importantly, from lower issuance that we have to make. And I think now that we have much less issuance coming forward, it's easier for us, if you like, to look into that crystal ball of the impact of Wholesale funding on our margin because the amounts of aggregate funding that I have that is going to change because I'm going to issue new is reducing, which gives me more confidence in the shape.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Okay. Could I ask my second now, I'll just keep it on margin, so it's really only one.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>All right. Just because you've just come back.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Just &#x2013; I wasn't quite sure from one of your slides whether the deposit &#x2013; it sounds like deposits pricing has been a positive because you've been replacing even more expensive Wholesale, but my impression is that deposit competition is pretty intense in the market, so I just wondered if you could comment on that going forward?</p>
+          <p>And also, within the Wholesale, I know you've split out Commercial now, but there looked like a fairly good margin improvement coming through in Wholesale, but there was a comment about market value of deposits. I just wondered if you could explain what the trends there were, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Yes, sorry, let me comment to you about the Retail deposits and the deposit evolution. We are very pleased as we both mentioned that we have increased Retail deposits by 3% in the first half substantially above the market. And we think it is key in that behavior the fact that we have a multi-brand strategy which enables us to segment and have appropriate offerings to the different type of customers segments we have in the different brands.</p>
+          <p>And to give you one example, one of the biggest successes that we have was in the ISA campaign through the Halifax brand where, as I said, we have provided a product that was not leading in price but gave value dates of the day of the application which was, from our research, one of the key points customers wanted and one of the key points of customer complaints. And therefore in the total ISA campaign, we have a net market share of ISA ins, so all ISA's transferred into banks. We have a net market share of more than 30% although we were not leading in price.</p>
+          <p>So, we think this is a very good performance in terms of volume. And also, given that deposits stay with us in relationships, there are also better deposits in terms of costs as you were saying, than Wholesale funding costs. So, from both perspectives and the multi-brand strategy is key in this respect and having tailor-made products in different customer needs.</p>
+          <p>We are also progressing well in corporate deposits where we are providing lending as customers want. But as you know, customers are deleveraging on the back book. And the relationship management in the different corporate segments, have been very focused on getting relationship deposits, which have been also progressing well. So, this is the global picture between the two segments. And this is a critical point in bringing our loan to deposits ratio down 10 percentage points in only six months. And if you look at our core book, our core business, we are now within the range that we want of a loan to deposit ratio below 120%.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Joe?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Hi, it's Joe Dickerson from Espirito Santo. I just have two questions. First of all, I was wondering if you could &#x2013; you mentioned the expensive H1 issuance in Wholesale funding. I was wondering if you could quantify, say, the impact in basis points relative to the second half of 2010 in terms of the increase in costs, so we can think about that for the margin as we go through the rest of 2011 and into 2012?</p>
+          <p>And the second question I have is just if you could provide some granularity. When I look at the net interest margin in the Retail business, it compressed more than I thought. And I was wondering specifically if you could comment on what is happening on the asset side of the margin there and if you're seeing any competitive pressures, say, in prime mortgage; and what the general trend has been on the asset side so again we can think forward on that number? That's all. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay, I'll take the first bit? We don't get into the level of granularity, I'm afraid, to answer the first part of your question on the issuance costs of what we did. But with 18 of the 25 having been public, I dare say somebody keen to do the research could work out to be like eighteen-twenty-fifths of it.</p>
+          <p>But when I talk about it being relatively expensive, it was certainly more expensive than we had anticipated at the start of the year issuance would be. But, actually, when I look at it today and I'm actually very grateful that I don't have to be in the Wholesale market at the moment. Note, we only need to do 5 to 10 for the rest of the second half of the year because of some &#x2013; a very good position in which to deploy our needs and select the programs and the structures and the tenors and the markets that we would need to access in the second half.</p>
+          <p>So, I don't get into that level of breakout of funding but it is, of course, fully embedded in the margin guidance that we're giving for the second half in the full year.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Sorry, would you mind repeating the second part of because I lost a bit of your question in the middle?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Sure. The second part of the question was on the Retail net interest margin and specifically what is happening on the asset side of the net interest margin in Retail. In other words, is there any competitive pressure on the asset side from, say, prime mortgage, et cetera?</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Our new business pricing continues to be above the stock price, so we have a positive trend there. But when you look at Retail as a whole, we have still a loan to deposit ratio of higher than one and as the Wholesale cost of funding is more expensive, that affects the margin that we have in Retail overall.</p>
+          <p>But I repeat, we continue to have better assets, new business pricing than the stock price with a positive dynamic there. You have a negative dynamic in terms of savings, in terms of new business versus stock, although the new business pricing is better than our Wholesale term funding. And what is impacting the Retail margin as a whole is the cost of the Wholesale funding given that our loan to deposit ratio is shrinking but it's still higher than one.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Can I just add? I think I might add something. I actually agree with what Ant&#xF3;nio said and that gives you the dynamics of what's happening in there. But I understand your point about it perhaps moving more than people had expected.</p>
+          <p>Remember, perhaps, that what we said back in February was that we had a certain amount of the funding costs from the whole business that were left in the center. And so we've actually changed marginally &#x2013; something is wrong with the word margin. We've actually changed slightly how we are allocating costs around the group in order to reduce the amount of unrecovered costs in the center. So, that dynamic also comes through in some of the divisional margin analysis that you have.</p>
+          <p>But my focus is really on the group margin and that's where we've seeing the dynamics in play. We've seen the expansion of margins over previous periods and now we're seeing the impact of the necessary repayment of central bank funding and Wholesale funding come into play. So, my focus really rests on where the group margin is going and that's where I'm actually very pleased with the performance we've had in the first half. I hope that helps.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Manus?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Thanks. It's Manus Costello from Autonomous. In the adverse scenario of the EBA stress test, you reported a cumulative loss on your Commercial Real Estate portfolio of about 14%, which was pretty much the worst of the 90-odd banks that reported. And in today's release, you talk about concerns that the trends in that market are deteriorating again for your portfolio. I wondered why is that portfolio still so fragile relative to peers, given the level of impairment you've taken on it already; and what are you doing to mitigate that?</p>
+          <p>And I had a second question as well which is that you're likely to post &#x2013; you have just posted and you're likely to post a significant statutory loss for the year. I wondered if that was going to impair your ability to switch back on hybrid coupons on next year.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Okay. Let me start with some general comments and then I'll pass on to Tim. We are very comfortable that the level of provisions that we have in the different credit portfolios is appropriate.</p>
+          <p>Second, we have the largest retail and commercial bank in United Kingdom, and we see no material change in trends in terms of the different portfolios and in terms of the impairment trends. And we are the largest bank in this country. So, I want to be very clear about this, that we are very comfortable if the level of provisions in the different credit portfolios is appropriate and we see no material change in the trends. Okay. Now, I'll ask Tim to comment specifically on those two questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yes. Thanks very much. I think it's important to remember that the EBA stress test uses a defined set of stress criteria. So, then there is a mathematical exercises that applies those to a book. I can't remember exactly, I'm going to look for a nod on the front row on this, but I think the EBA stress test required us to have a &#x2013; 36%? 38%? 36%? 36% fall in commercial real estate prices to be assumed. So, that if you like, is something that is a feature of the stress test. So, I think against that, actually where we came out in that stress test, I was very satisfied with.</p>
+          <p>I think on the other comment, I'd add in terms of the trends, I'm not quite sure you should take away that we're concerned about commercial real estate. I'd actually echo Ant&#xF3;nio's comments there. Indeed, commercial real estate was one of the biggest drivers of the improvement in the Wholesale impairment charge, so that has been the dominating factor in reducing the Wholesale impairment charge. So, if there's something left in there that concerns you, we're happy to have a chat afterwards.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>And on the ability to turn back on hybrid coupons next year?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I don't think that the loss &#x2013; you're coming back to the statutory loss point. I don't change my position on that and the answers we gave to questions on 30 of June because of course the loss you are referring to was something that appeared in the first quarter and therefore was factored into what we were saying in terms of future guidance as part of the strategic review.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Asheefa?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Asheefa Sarangi, RBS. I just have two questions. I noticed in the commentary on &#x2013; there wasn't really anything on IAS 19 or the need as of January 1 to recognize the unrealized and <mark type="ph" /> actuarial (1:01:50) losses of &#xA3;959 million by that date. Should we be thinking about that coming out of the tangible book over the next few periods?</p>
+          <p>Also with respect to CRD 4, we were thinking that you would fall under the regulation side of the equation, and therefore you'd fall under the Financial Conglomerates Directive which would be beneficial for the insurance deduction, but we see no mention of that within this statement and I'm wondering if you could comment on that.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Should we toss for that one? Can I do it in reverse order?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>On the FCD, I think, and I'm not too read what was written in the CRD 4 draft that came out in the middle of July. And I've seen some commentators, mainly European ones, look at this and say, "Oh, hang on a minute, this FCD route to a slightly more beneficial treatment of bancassurance looks like it's still open."</p>
+          <p>My interpretation is slightly different. And I don't actually believe that that route will really either remain open or if there is a route through it, it may be a continental route through to it rather than a UK-allowed route through into it. So, at the moment, I'd love to be banking the benefit of that, but I'm not, and hence why I'm especially pleased to have further mitigated since the 30 of June, the Basel III insurance impact on us.</p>
+          <p>As far as the IAS 19 is concerned, what you're referring to there I think is the expiry of the pension corridor accounting, which is indeed coming down the track at the end of a couple of years' time. Wherever we get to in terms of the deficit at that time, we'll have to be brought into the IAS 19 or revised IAS 19 compliant treatment. So, yes, mechanically it would fall in to net tangible assets. Although I'd hope by then that we have a positive progress and perhaps more than the NTA, the share progress we made in the first half.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>I'm going to be naughty and just ask one more question. On the German litigation risk that you pinpointed being potentially significant, a number of things that have come through that have been potentially significant have been between &#xA3;500 million to &#xA3;1 billion of late. Is that what we should be thinking about? And I know you've given a direction on timing, but should that be coming through over the next 18 months, do you think?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yes. This is an early disclosure we've made for that particular item. What we've got here is a small handful of individual complaints that have been made against closed book sales of our German operation. What we've had is a German regional court, give here a couple of decisions which have surprised us. And, therefore, we felt it was appropriate at this stage to make a disclosure although we are continuing to take legal advice on how we progress this, but it's very small at the moment.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Rohith.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thanks, good morning. Rohith Chandra-Rajan from Barclays Capital. A couple of questions on impairments, if I could, please; the first specifically on Wholesale. You highlight a very substantial drop year-on-year in Wholesale impairments, but if I look at Wholesale versus the second half last year, impairments up 20%, and looking at the quarterly disclosure, 2Q versus 1Q looks to have doubled. You mentioned lower recoveries. I just wondered if you could provide a bit more clarity around that. So that's the first one.</p>
+          <p>And then the second point also on impairments, really just kind of revisiting your guidance, which, as you say is unchanged at a reduction in the impairment charge year-on-year. Looking at the guidance division by division, you talk about modest declines in Retail and Wholesale, sort of fairly flat in Commercial and down in Wealth and International. Just sort of factoring in some sort of 10% declines for Retail and Wholesale and maybe 15% for Wealth and International will get you to a &#xA3;11.5 billion impairment charge for the full year, so a pickup in the second half. I'm just wondering if you could comment on that analysis, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Okay, I will start and then I'll ask Tim to make some comments as well. The Wholesale portfolio, contrary to Commercial or Retail portfolio, are more lumpy. The Wholesale portfolios are more lumpy. So, when we look at them, the results were in line with what we expected. As I said, we don't see any substantial, any material change in terms of trends and the fact that this in Wholesale you have lumpier movements from quarter to quarter.</p>
+          <p>And in terms of our Retail portfolios where the trends and in Commercial are much more clear, you have much more linear trends. In terms of our overall guidance, we are not providing guidance for impairments for the second half of the year but we have provided guidance for the whole of the year where we continue to expect impairments to be substantially down year-on-year.</p>
+          <p>Now Tim, maybe you can comment a bit more in detail, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yes, certainly. I obviously agree. That Wholesale by nature is going to be lumpy and therefore, there will be movements quarter-on-quarter. I think I would prefer to continue with quarterly reporting on the basis of improved transparency should be good. But one has to understand that with that will come some lumpy movements.</p>
+          <p>I also made a reference around it in my prepared words to some additional provisions we've taken on some of the leverage exposures, for example, and that's a feature of the second quarter. But if you look underlying this, not only is the actual full-year guidance unchanged but also the performance of the core book continues to be very strong indeed. And if you had the time to look, I think it's about page 47 or 48 of the news release, you'll see there that there is about &#xA3;79 billion of core lending in the Wholesale division and we've taken impairment charge of about &#xA3;400 million. And that's a very solid performance indeed.</p>
+          <p>I think the other comments you made around recoveries, I mean, to me recovery are always a bonus and the fact that I have lower recoveries in the first part of this year still means I'm having recoveries. And I guess I'll look at it and I say to myself -- what that tells me is I have further evidence that my impairment provisions are appropriate, my marks are sensible and we are managing the exposures that we have in a very measured and balanced way.</p>
+          <p>We've made good progress in the first half of this year on non-core disposals and as you have seen. And that's given us significant funding flexibility. So, overall I'm very pleased with the performance.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>And just in terms of the interpretation of your divisional guidance, so modest equals a 10% reduction, further reduction for Wholesale &#x2013; sorry, Wealth and International, maybe 15%. Is that the right ballpark to think about that level of reduction year on year?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, I go back to what Ant&#xF3;nio just said, which is where the guidance that we give is full year versus full year. And the guidance that we gave in February and that we reiterated again at the end of June stands. And so, I think the word modest is the same word that I use back in February and we used in June. So, I'm not going to get drawn into whether the first half can be interpreted as defining the word modest. Okay, I'm sticking with where I was full year and full year, and I'm very happy with that.</p>
+          <p>I think where you extrapolated it to, though, did concern me a little bit. I think you said that if you take all of your math and I couldn't write it down fast enough, you ended up at something we're over about 11.5 for full-year impairments? I think if you have that in your model then you're way above where consensus for impairments would be which is from memory is a high nine in terms of &#x2013; is that right about?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>9.6.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>9.6, a mid-9. Now, I'm not going to answer your follow-up question which is am I happy with consensus, but what I can tell you is I have some concerns about people who are modeling it at either end of the spectrum. And if you wanted to interpret that in one particular way, then that's up to you. But this is being recorded and I'm not allowed to say anymore.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>And the consensus will be 27% down year-on-year.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Chris is here in the third row.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Good morning, all. It's Chris Manners from Morgan Stanley here. Just a couple of questions. The first one was on the capital in the Insurance division. If you're taking &#xA3;2 billion out, firstly, how will rating agencies react to that, and does it matter? Secondly, if you're going to be doubling your revenues in bancassurance, won't you need more capital rather than less in the division?</p>
+          <p>And the second one was on funding. Obviously, funding markets are very tricky at the moment. You're saying you only need to issue &#xA3;5 billion to &#xA3;10 billion for the rest of the year. If the markets remain as high as they are at the moment, I mean, could you consider not issuing any more term funding for the rest of the year and running down your liquidity buffer? And if so, how far could you take that down and remain comfortable? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Thank you for your question. I will start with the third one. And then I'll ask, sorry, Tim, about the first ones. In terms of funding, I think what we did on the first half of issuing &#xA3;25 billion well ahead of our initial plan while the markets were opened, number one, and reducing more than &#xA3;30 billion in terms of non-core assets, number two. And number three, increasing deposits by 3% on the six months alone, is a clear indication of how robust and how much stronger our funding position is.</p>
+          <p>That's why Tim said, that we only need within our original plan to issue between &#xA3;5 billion and &#xA3;10 billion. But we are going to continue within our plan of having capital accretive in terms of the &#x2013; but we will continue for the future to decrease non-core. We're in a much better position after having decreased more than &#xA3;30 billion in six months alone. We are in a very good position also to choose when to issue even that we only need to issue in our plan between &#xA3;5 billion and &#xA3;10 billion. We have continued to progress well in our deposits. So, we are quite comfortable at the funding position. I think with hindsight, it is even more justified what we did in the first half because as you know the markets have been shut for the past two months as you correctly point out.</p>
+          <p>And in terms of liquid assets, apart from having &#xA3;100 billion, &#xA3;101 to be exact, &#xA3;101 billion of primary liquid assets, we have on top of that secondary assets unencumbered that we can use at any point in time. So, the two together, if you look at the RNS we have &#xA3;219 billion of primary and secondary liquid assets, so we're at a very, very robust position.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>So, I comment on the insurance bit. I mean, the restructuring I referred to you, you shouldn't read as a repatriation, it's a restructuring of the insurance in that division. And obviously, we have considered and discussed and shared it with the rating agencies and I'm not expecting any issues from that that would cause anybody any concern at all.</p>
+          <p>The capital structure in our insurance groups is perhaps now slightly more in line with some of our competitors rather than them all being, or virtually all being provided through common equity. So, if you like, we're normalizing something and that's a sensible way to mitigate the impact of the forthcoming Basel regulations.</p>
+          <p>In terms of what does that do to the capitals, that was on page 70, it's the left hand side. Must be an odd number, 73 &#x2013; than usual, is you'll find the IGD surpluses of the two insurance businesses. One of them is &#xA3;1.2 billion, the other is &#xA3;1.7 billion. I'm sorry I can't remember which way around they are for Widows and HBOS, but they're very strong IGD surpluses in those businesses.</p>
+          <p>In terms of the impact of growing bancassurance business going forward, I'd have to refer you back to the slide that we &#x2013; well, I gave in February, which showed the increase capital efficiency of new product sales where I mapped out the much reduced capital strain from the redesign of products that has taken place in the bancassurance offering that was launched in July of last year. And that's a good indication of the capital efficiency improvements that we've made in those businesses. So, it's a very strong position.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Michael?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thank you. It's Michael Helsby from Merrill Lynch. I've got three questions, if that's all right; one's a quickie. First of all, on your non-core run-off costs that you've allocated, how should we think about those costs running down? Should we think about them running down in line with assets, or is it going to be a lot lumpier that that? And also, is there a double counting of those costs within the simplification, because you hadn't broke out the non-core when you produced the strategy day? So that's question one.</p>
+          <p>Question two is pretty much around the fact that you've got very substantial deferred tax assets clearly at the moment. You've got zero expected loss. I think there's a bit of confusion certainly around, because you said that you expect a &#xA3;4 billion expected loss deduction from Basel III, and I'm wondering if there's a bit of double accounting going on with DTAs. So should we think about the DTA balance and the expected loss running in parallel together?</p>
+          <p>And then finally, I just want to clarify on dividend policy. Now I know this is quite a way off, but I think this is quite important. When you think about dividends, and I know you're not going to be starting them just around the corner, but should we be thinking about dividend policy on a transitional Basel III basis, or should we be thinking about dividend policy on a fully-loaded Basel III basis? Because clearly, it makes a hell of a difference in terms of timing. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Okay. In relation to the non-core costs, we have only allocated to non-core the costs that are directly related with the business, okay. So, the costs that will run down according to our plans up to the end of the rundown of the specific assets. And those include both the rundown of the assets and the simplification program that we have presented to you. So, there are no non-core costs which, if you want, are not directly related to the non-core rundown of the assets. Okay. So, we don't have more non-core costs allocated there, which will then be sticky in the end, which I believe is your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>I'm just trying to &#x2013; so, are those non-core costs tied up with your simplification process? I think you just said that they are.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Yes. They tie up into our total cost projection until the end of 2014 as we have showed on 30 of June.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>On your dividend question, I mean what we said in 30 of June is what we can say at the moment. We will wait for regulatory clarity in terms of capital requirements and we'll resume our dividend policy when we have clarity and our capital requirements will be presently met. So, we cannot say more at this stage. We know how important the decision is, we are certainly committed to doing that. But we do not have clarity at the moment to be more specific. Tim, would you like to comment on the <mark type="ph" /> competition (01:17:59) of the market.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>No. I think we need further clarity on the regulators on where they're going to be on this going forward. And of course, I'd love to think we'll get that in the coming months. There's a big G20 and Basel Group meeting in November, after which we may get some more smoke, hopefully the right color. And I think your second question was around tax and expense loss. I think you were there talking about, again, Basel III impact, was that right?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Is that right? Well, as I've said that at the end of June, with the strategic review announcement, we obviously may have an impact in the Basel III transition from any deferred tax assets that are still on the balance sheet when we get into that time, and obviously, that's a factual future profitability, so one would hope they will be somewhat smaller than they are today, for example. As far as the excess expected loss, there's quite a complicated interplay in here with how fair value works, but I absolutely stand by what I said on 30th of June, and you are right to recall that for the &#x2013; about a 20 bps, i.e., &#xA3;4 billion, roughly 1% core Tier, one spread over five years, 20 bps per annum.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Rob.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Robert Law, Nomura. Could I have three as well, as Mike got it? Firstly, in the area of capital release from non-core rundown, I know that you don't make that commitment for the current year. Could you comment on whether you expect non-core rundown to be accretive for the current year? And if not, what kind of non-core risk asset rundown you have in mind for this year? That's the first question.</p>
+          <p>Secondly, what are the fair value balances now? I can't see them in the release, but maybe they are. And finally, in the area of liquidity. And I realize obviously you're restructuring the balance sheet to reduce this, but can you give us some indication of how much higher your liquidity holdings will have to be at this point if you implemented currently proposed Basel III LCR requirements? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay, shall I kick off? Let me first comment about non-core. I think we ran down, I'm trying to remember, I think it was about &#xA3;23 billion, &#xA3;24 billion in the first quarter and we're saying &#xA3;31 billion for the first half. So, you can see there that even that has an element of a different pace in what can be achieved. The amount of non-core runoffs still to do to our target of &#xA3;90 billion or less is about &#xA3;70 billion and there's three and a half years to go, which would imply, if you straight lined it and I'm not suggesting you model a straight line, about &#xA3;10.5 billion. You can see that what we've achieved in various halves has been uneven and consistently uneven.</p>
+          <p>And I think what this reflects, Rob, is our policy here in which, as we've set out in June, is about balancing the tradeoff between the funding benefit that you have from the runoff versus the capital, either consumption, if you take a loss on selling versus release from the RWA disappearing, and of course, all that has to be balanced with the risk that is inherent in whatever asset you're saying. So, I don't therefore project a figure for non-core runoff for the second half but I do expect it to be &#x2013; we're not going to do another &#xA3;31 billion, I mean, if that's what you're thinking. Not by a long shot.</p>
+          <p>In terms of will it be capital general reconstruction in the second half, I don't know. We'll take a view as each opportunity comes along. What I'd like to do is be &#x2013; and this is our target, is to be capital generative over the 2012 to 2014 period, but as I said in my prepared words, I don't say that I'm going to do that in every reporting period because it will depend on the balance of liquidity, risks, it's too late for this capital destruction through the income statement just one part of it.</p>
+          <p>Capital release from the balance sheet side is equally important. And even at the end of 2014, we're likely to have &#xA3;6.5 billion of core Tier 1 tied up in our non-core portfolio really delivering not a great deal indeed. So, nurturing the capital else of non-core is a very important part of what we want to do because it will give us huge flexibility into the future.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yes, and that's the reason why I'm asking the question.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Because obviously you're putting some kind of floor under the prices you expect to get in the '12, '14 period. But you know, <mark type="indiscernible" /> (01:23:04).</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>The underlying is that still we'll still be making recoveries on what we sell. I think now that's just one part of your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>I think it's important to mention, for example, when you saw the first half when it was broadly neutral, but you'd have to take into consideration that the big portion of the assets that we sold was not for capital reasons. It was because of the liquidity progress; and those assets, some of them in terms assets are much more relevant in terms of liquidity, in terms of risk-weighted assets.</p>
+          <p>You see, so you can see the focus and the attention that we are having on a non-core portfolio on the first half of '11, where in spite of, we were rating more than &#xA3;25 billion in terms of liquidity, we have been broadly neutral in terms of capital generation with this secondary target of improving the liquidity position of the group as we just discussed. So, that is the type of mindset that we have in addressing this. And going forward, as Tim just said, in terms of needs of selling for liquidity considerations, we are going to have a very different profile given deemed with hindsight in half one.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I think the other part of your question was on liquidity levels. An honest answer, Rob, is I haven't done the math to see what I would need today if I had to comply with everything that isn't coming in, for the future. Indeed, I mean, NSFR is 2019, LCR 2015, so all of this is into the future. What we said on 30th of June is we intend to meet these, both the ratios by 2014, and as part of getting there, we would expect to see the quick assets rise, and I would expect overall liquid asset levels to be roughly equivalent to or less than one year maturity Wholesale funding, at that time which will be less than it is today. So, I guess from that, you can derive the tram rails within which the answer lies.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>And the fair value balance is now?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I haven't got a stock figure for that in my head. What you will find, though, is that the best place to look for it is within the credit risk disclosures which are broken out by business area, which is about two thirds of the way through the back of the news release, you will see the impairments. Then the fair value item that relates to impairment which is the principal levels, and that's broken out by division.</p>
+          <p>The other main element is what's left on the fair value of HBOS and debt, which has a long tail, in fact, if you look in the core business results, you actually see fair value on one. There is a small negative and that's because that bit, that is the bit that relates to HBOS. And in debt, of course, we regard the debt as supporting the whole balance sheet but only allocate to non-core, that which I can manage to zero.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Gary?</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thanks very much. <mark type="ph" /> Gary Green with Shore Capital (01:26:05). I just had a question on sovereign macro risk related to Ireland in particular. There's a lot of concern at the moment about the risk of a breakup of the euro, and I was just wondering if you have considered the potential impact on the business if Ireland was to come out of the euro and devalue its currency, and whether you've got any contingency plans in place for that scenario.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Well, we were very, very mindful of giving the full disclosure in terms of all the peripheral countries so you have &#x2013; in there essence we made a summary of our disclosures in terms of Ireland, Portugal, Spain, Italy, even Belgium in terms of the different types of securities and in terms of the different types of assets.</p>
+          <p>On the Irish-specific risk that you mentioned, of course, if Ireland left the euro, which we think is a really remote probability, there will be risks in terms of foreign exchange as you say because we have assets in the country and we also have deposits in the country, which is a risk that we monitor that it is included into our risk capital that we are conscious about. But it's a risk which you have to consider, but that's not hedgeable. You cannot hedge that type of risk. So, you can consider these five scenarios, you can consider the probabilities, but it's a risk that you cannot hedge and you cannot hedge in any other country.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>How would you react to it if it happened?</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Well, we think it is really an extremely remote probability in terms of that happening. We are not at all thinking that that might happen although in terms of our risk capital and the different scenarios we have considered that risk which we know it exists. But it's a risk that given there are no liquidity, there is no liquidity in terms of assets in  Ireland, there are no transactions. Of course, while we run down according to time and you know that we have already provisioned 56% of the incurred assets, but that's a risk which does not have many levers at the moment. I don't know if you want to comment?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>No, I agree with that.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>And that risk is the same to any other country you might want to consider.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Jason.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Good morning. It's Jason Napier of Deutsche Bank. Two questions, please. The first just goes to the increase in the expected loss deduction under core capital. I take the commentary that suggests that that's primarily because of sell-down of high provision assets, but at &#xA3;1.2 billion across the capital base, it's 20 basis points of loans. It feels like a big number, and I just wonder whether you could talk about whether there's any inference at all about changes to your own view on terminal loss in the portfolio and whether that deduction might increase as disposals continue.</p>
+          <p>And then the second question just on deposits. I note from the outlook you've sort of confirmed that base rates and perhaps cheaper Wholesale funding will drive you to the target over time. I just wonder whether in the deposit market you're modeling any kind of change in deposit cost spreads and/or mix; just noting that your International Online balances were up nearly 100% in the last six months. It doesn't feel like a market where price can be anything other than very keen if you're going attract those sorts of balances. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Okay. I'll start with the second one and then Tim will answer you on the first one. We believe, as you said that as base rates start to increase, the eventual increase by the end of the year or into early next year, we will have an impact which is both on our savings balance and also on our current account balances which have different types of reaction to base rate increases.</p>
+          <p>So, it's the two effects that will drive our profitability going forward from the liability point of view in the next few years. We are having very good behavior in terms of Retail deposits as we've just discussed through the multi-branch strategy and attracting specific as to the Halifax brands, significant deposits not being price-led.</p>
+          <p>And also as you  mentioned on our International Wealth and our International Wealth businesses we have been having very good success including online deposits, on attracting deposits at good prices and significantly lower than our Wholesale costs of funding and the two impacts together, as Tim mentioned on his presentation, is what drives the mix change in terms of the costs of liabilities, which we expect to continue.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thank you. So, to clarify, the international deposits are also cheaper than the stock of Wholesale that you're refinancing now?</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Yes, they are.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yes, they are. Jason, I'll pick up on your second point but Rob, on fair value we've put in &#x2013; I just found it, it's page 28, rather the back of the appendices you'll find the annual fair value on white unwind table that we have set out as usual and you'll see there in the tail, in the outer years that will recur for a few years which is the own debt unwind bit, which is bang on buck, said it was about &#xA3;300 million. I hope that helps.</p>
+          <p>Jason, EEL, I think you're asking about. I think naturally, over time we will see an increase in excess expected loss. So, yes, I agree with you on the analysis because what will happen here is we will see an improvement in the portfolio so we will assume reduction in the actual impairments that we're taking. But by definition, if you were taking less than the excess of the expected loss that you would see, it comes out in the model over what you've actually provided would increase. So, yes I would expect that to increase over time. That's one of the reasons I wanted to give transparency on where I thought it will get to by the time we get into Basel III in the start of transition, which we did in June.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Peter.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Peter H. Toeman, I'm from HSBC. Just coming back to the margin again. Thank you for giving us the numbers on the core business and the margins there, 2.35%. But on your own numbers, by 2014, this could be down to, I think, 2.10%, on your three-year forecast. Everything you've said about deposit behavior, lower issuance, cheaper cost of issuance is a positive. So, what are the negatives that you've got in your 215-basis-point margin assumption?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Peter, let me help you out. The margin guidance that we gave is actually for the full group, whereas which was a range of 2.15 to 2.30 bps by 2014 but as a group margin would be lower than the core margin. So, I don't recognize a 2.10. The bottom of the guided range is a 2.15 by 2014 and it's a group margin and I would very much hope and believe that we will continue to see the trend that we see now the core margin being somewhere higher than non-core. Does that help you?</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>It's just that the non-core assets run down, so the trend in the margin should be closer to the core rather than to the mix of the core and non-core.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yes, over time although sadly I will still have about &#xA3;90 billion of non-core assets by the end of 2014. I'd love it to be lower. And inevitably, some of those would be poorer returning assets. Remember that we actually calculate our margin on a gross basis. So, when I refer to income drag in the margin, it's because I'm still reporting our margin over gross assets, and therefore the more impairment that we take on non-core assets, I get more of the margin drag just because of the way it's calculated. I think it would be &#x2013; I don't think it'd be right to switch to doing it on a net basis because I'd get an answer for sure boost in the margin which really wouldn't reflect what I would think would be a fair and reliable trend.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I know we've got time for a couple more, Mike. Down here.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thanks. Good morning, Mike Trippitt at Oriel. I just want to ask you about the average risk weighting. The comments you've made about excess expected loss, does that same calculation drive up the risk weighting now from where it was in the disclosures at the end of last year? And secondly, what happens &#x2013; what's your understanding of the Project Verde process if the Banking Commission makes a firm recommendation for an enhanced divestment?</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Let me start with the second one on Verde. We have &#x2013; I think we discussed this in June here as well. In relation to Verde and the ICB, we started the Verde process in March because in our opinion, the timetable was short or was not, if you want, we did not have a lot of leeway to the end of 2013 to do not only the negotiating process but also the separation and completion of the sale.</p>
+          <p>In our opinion, let us start immediately. Point one. Secondly, related to that, as we finish our integration process, we are liberating a lot of experienced resources that we can use in terms of &#x2013; together with the buyer, planning the completion of the transaction. So, these two reasons together were why we planned the start of Verde already.</p>
+          <p>How is the process in terms of Verde? We have received a number of credible bids, we are analyzing those bids, this is quite a tailor-made process from now onwards, with each of the bidders and we continue to expect to be able to find a buyer by the end of the year as per our original plan.</p>
+          <p>In simultaneous as you were saying, we have engaged with the ICB, post their preliminary reports and we are continuing to engage, we have had a good and sensible dialogue with the ICB, and we are progressing. And we will continue to engage ahead of the final report. I'm sorry I can't tell you much more at this stage, but I think we are well-aligned in our plans of tying the two things together</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>But if there was an enhanced divestment, the process has to be delayed, surely. And that doesn't comply then with the EU.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Well, the substantially enhanced has not been defined. Substantially enhanced has not been defined. We have worked substantially since the preliminary report in enhancing the balance sheet and the availability of funding lines to the Project Verde, to the assets we are going to sell. And I repeat we have had good and sensible dialogue with the ICB which we'll continue to have until the final report.</p>
+          <p>So, we do not foresee delays on our process of finding a buyer for Verde until the end of the year. You also know that the buyer at his own option, the buyer at his own option, ventures to buy less mortgage originated, less intermediary-originated mortgages and have a smaller balance sheet with a limit on the loan to deposit ratio of our Retail business. So, we do not foresee, for example, that the numbers that have been stipulating in terms of funding gap which were relating to the 2010 numbers and the broad balance sheet will represent the problem for the several buyers we are speaking to.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Mike, the first part of your question was on risk weightings I think. I think that any impact there would be outweighed by the benefit that we would see from weightings from the lower risk business that we're writing. And we're seeing that the first benefit of that is coming through, for example, in the very nice drop in unsecured Retail impairments. And that's impairment charge, rather than risk weighting but is indicative of the improving quality of new business that's being written. So, we saw a small risk-weighted asset reduction in the first part of the year, even from our core portfolio, this is a good indication of improving quality.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>One more question, over here.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Hi, it's Ed Firth from Macquarie. And sorry, I didn't particularly want to bring you back the Wholesale impairments, but just looking on page 115, if you look at the non-core Wholesale book, your impairments are up almost 40% H1 compared with second half last year, and yet your coverage ratio was actually down from 46% to 41%.</p>
+          <p>Now, I hear what you say about it's a lumpy charge, but we're talking about &#xA3;400 million of additional provisions there. So, could you give us some creative guidance as to what's going on and why you're happy seeing your coverage ratio falling?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I'm very comfortable with the coverage ratio. I believe the coverage ratio is an answer. The coverage ratio is what comes out when you have done an asset-by-asset assessment of what you need to take, to reflect the reduction and the value you will derive from that asset.</p>
+          <p>Also in the period, we actually wrote off some of the impaired assets that we had, and those would have carried a weighted average higher level of coverage ratio. So, if you actually look at the level of impaired loans on that same page, 115, they are down from &#xA3;27 billion to &#xA3;25 billion, and part of that would have been write-offs, some of it would have, of course, been recoveries. And some of those recoveries would have been highly impaired assets where we were absolutely delighted to make a recovery in the period.</p>
+          <p>So, to me, the coverage ratio is an output rather than something I use to measure the overall appropriateness. And that's particularly pertinent in a book like the Wholesale book, where we do got assessments on an asset-by-asset basis, looking at the cash flows we expect to flow from the exposure.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>And that's the only way you can do it on the Wholesale book. I mean, the coverages are quite important when you look at Retail or small portfolios where you cannot on a statistical basis because it's basically the result of statistical models. And on the Wholesale, you really have to go asset by asset and see the recoverability of your impaired loans, and then when you add it up, you can have a different number that, as I told you, we are very comfortable that the level of provisions on our different credit portfolios is the appropriate one. And you have to take into consideration, as Tim just said, the right thoughts which obviously are done on a 100% basis in terms of loans and impairment.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Great. Well, thank you everyone for your questions. We'll leave the session there.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

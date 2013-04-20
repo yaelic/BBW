@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1496411" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q2 2012 Earnings Call</title>
+    <date>2012-08-14</date>
+    <companies>
+      <company>8597</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep" affiliation="Chief Executive Officer &amp; Partner">Nils Smedegaard Andersen</participant>
+      <participant id="2" type="corprep" affiliation="Chief Financial Officer">Trond &#xD8;deg&#xE5;rd Westlie</participant>
+      <participant id="3" type="analyst" affiliation="JPMorgan Securities Plc">Christopher G. Combe</participant>
+      <participant id="4" type="analyst" affiliation="Svenska Handelsbanken AB (Broker Denmark)">Dan Togo Jensen</participant>
+      <participant id="5" type="analyst" affiliation="ABG Sundal Collier Norge ASA (Denmark)">Lars Heindorff</participant>
+      <participant id="6" type="analyst" affiliation="Nomura International Plc">Mark J. McVicar</participant>
+      <participant id="7" type="analyst" affiliation="RS Platou Markets AS">Herman Hildan</participant>
+      <participant id="8" type="analyst" affiliation="Macquarie Capital (Europe) Ltd.">Rob J. Joynson</participant>
+      <participant id="9" type="analyst" affiliation="Clarkson Capital Markets">Michael S. Pak</participant>
+      <participant id="10" type="analyst" affiliation="Nordea Bank AB (Denmark)">Finn Bjarke Petersen</participant>
+      <participant id="11" type="analyst" affiliation="Jyske Bank A/S (Broker)">Frans H&#xF8;yer</participant>
+      <participant id="12" type="analyst" affiliation="Carnegie Bank A/S">Stig Frederiksen</participant>
+      <participant id="13" type="analyst" affiliation="HSBC Bank Plc (Broker)">Robin F. Byde</participant>
+      <participant id="14" type="analyst" affiliation="Equita SIM SpA">Gianmarco Bonacina</participant>
+      <participant id="15" type="analyst" affiliation="Sydbank A/S (Investment Management)">Jacob Pedersen</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Ladies and gentlemen, welcome to the A.P. M&#xF8;ller-Maersk Interim Report Second Quarter 2012. Today, I'm pleased to present the Group CEO, Mr. Nils Smedegaard Andersen; and Group CFO, Mr. Trond Westlie. For the first part of this call, all participants will be in listen-only mode and afterwards, there'll be a question-and-answer session.</p>
+          <p>Speakers, please begin.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Can you hear me well?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>There is a slight echo.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>We're having a little bit technical problems at this end. Okay. So ladies and gentlemen, welcome to this interim teleconference on our results for the first half of 2012. And with me, as the presenter said, I have Trond Westlie, our CFO and myself. And I'm Nils Andersen, the CEO of the group.</p>
+          <p>And we start, as usual, I hope you've downloaded the presentation. We start as usual with the &#x2013; taking some reservations to our forward-looking statements. And while you read that, maybe I'll give you the overall take, what we take from these results. And it's been a relatively eventless quarter. But we did promise at the end of Q1 to take Maersk Line back into profitable territory. And we've done that with a profit of slightly above US$200 million. And so, it's a first step in the right direction for Maersk Line. And in general, making a US$1 billion profit at times where the shipping industry is facing a lot of challenges, we consider that a pretty good result. We're satisfied with it, given the fact that there are no extraordinary movements in the quarter.</p>
+          <p>But we'll go into more details now and the group financial highlights on page four, if you can go there. The profit of the group in Q2 was US$965 million, compared to a result of US$1.6 billion last year. The difference here is that we had extraordinary income from the sale of Netto UK and that makes up for the difference. Otherwise, the result development is flat, which we consider pretty good, given the fact that we have declining oil production and we are in a turnaround phase within Maersk Line.</p>
+          <p>Maersk Line's profit was US$227 million against a small loss last year. Maersk Oil's profit was US$468 million against a profit of almost US$700 million last year. We'll come back to that, of course, in a minute. But this is the expected decline in oil production that takes its toll on the results and it's totally as expected.</p>
+          <p>The return on invested capital for the group was down from 14% to 8.8%. The majority of this movement is caused by the sale of Netto UK last year, so we are trading more or less in line with the last year figures in general. We had a cash grow from operating activities of US$1.6 billion. This was slightly below last year, US$1.8 billion, but still, a very healthy cash flow in a time where shipping is definitely facing challenges.</p>
+          <p>We upped our investments a little bit compared to last year for US$2.1 billion, so that means that we've had a negative cash flow in the quarter. The net interest bearing debt was US$16.6 billion compared to a level of a little below US$12 billion last year and we'll come back to that later in the presentation, how those figures have arisen.</p>
+          <p>Following the successful rate increases of Maersk Line in the first half, as well as the cost reduction plan that we have embarked on, we have decided to upgrade our forecast for Maersk Line to a modest profit for the year, and that also leads us to an upgrade for the group as a whole. So we're now guiding  towards a result which is slightly above last year's level, which was US$3.4 billion.</p>
+          <p>If you go to slide five, we'll talk a little bit about the group's strategy. And I'll not repeat the profits and ROIC figures, but important in this quarter is that the Maersk Line turned profit making. It's one of the four pillars of the group, and of course, we need to make good returns and profits in this area, and this is what we have worked on and will continue to work on in the coming quarters. The first step or the most visible step that we've taken to reduce cost has also been an attempt to make the Maersk Line more market-focused and has led to a reorganization of the headquarter, reducing with 400 positions.</p>
+          <p>Maersk Oil's profit was, as expected, affected by the declining production share. But we are now in a phase where we have, in addition, to continuing exploration activities, we have to start working harder on making plans for execution of projects on the reserves that we have identified or resources that we found during the last years in our successful exploration activities.</p>
+          <p>APM Terminals profit is unchanged. We have a 7% growth and are embarking on more projects. APM Terminals is giving a good return and is a good and important part of the group.</p>
+          <p>Maersk Drilling had a stable result and major rig contracts were signed, which we take as a good sign of customer interest in our business and the new very modern rigs we've ordered. And then, we continued our reduction efforts on our FPSO and LNG businesses. So we had &#x2013; we completed the sale of Peregrino in July. So this doesn't impact the second quarter figures. But we have now successfully divested the Australian FPSO at the end of last year, LNG vessels this year, and Maersk Peregrino, the second large FPSO, also this year. So we are progressing on our strategy.</p>
+          <p>If we take the activities on Maersk Line which is, as always, the most volatile part of the business, we continue to have a good volume development in spite of weak global trade development. This is a consequence of the gains in market share we had during the second half of the year. As you may recall, we've said to the market, we don't want to increase our market share from the present level or from the level we had at the end of last year.</p>
+          <p>And actually, in the second quarter this year, we hit exactly the same market share as we hit in Q4 in 2011. As we gain market share during our second half, that explains the strong volume growth we see here. But this will flatten out so we, in principle, in the fourth quarter should just grow with the market. We expect to have good solid growth also in the third quarter.</p>
+          <p>We've seen rate increases compared to last year, not dramatic, but we have seen an average rate increase of 4% which still doesn't bring the industry into profitable or a situation where we give an acceptable return on our investments, but it is sufficient to turn the business marginally profitable.</p>
+          <p>We also have seen a unit cost decline of 1% when we exclude the effects of the bunker price increases. This is also to be regarded as a first step. We'll have to work much more on reducing both overhead and operational cost over the coming quarters, but it is pointing in the right direction. And then, as I mentioned before, the restructuring of the headquarter of 400 people will impact cost and also, closeness to market over the coming quarters.</p>
+          <p>We continue, both we and we've noticed similar moves with competitors to reduce capacity somewhat through slow-streaming, vessel-sharing agreements and other measures, and this is less costly. It's saving fuel and it is less costly than being off-vessel, so it's probably a good model.</p>
+          <p>You'll see on the bottom part of this chart, you'll see the development in rates, that we are now above the levels that we saw in 2011, but still significantly below the levels which we saw in 2010. And we'll of course work hard to get closer to those rate levels. Our rate increases have been less than you will have seen, in percentage terms, than you will have seen if you follow various spot rate indexes, but that's the usual pattern. We have more contracted volumes than our competitors and therefore, going up, our rates increase is slower. And fortunately also in the past, we have seen that they also go down more slowly than our competitors, not that we expect rate declines needless to say.</p>
+          <p>Moving to the next slide, we talk a little about Maersk oil. And here, of course, the main impact is the reduction of share of production. It's driven by lower share in Qatar, as well as maturing fields in Denmark and the UK. The drop in production in the UK, of course, has been accentuated by the downtime we're seeing now both on Gryphon and what we saw in the first quarter on Janice, which fortunately came back onstream in April this year.</p>
+          <p>Nothing much to add. You've seen that the biggest drop is coming out of Qatar with 28% to 114,000 barrels a day. And this drop will continue so that we, for the rest of the year, expect around 100,000 barrels of oil equivalents per day from Qatar.</p>
+          <p>A consequence of the settlement in &#x2013; with the Algerian governments on the tax issue is that we will, over the coming 12 months or nine months from now, we will receive additional oil as payment of the compensation. We have taken or the tax refund, we have taken the refund into the P&amp;L in the first quarter on the tax. And of course, we are pleased to see that we now actually get to lift the oil. So, we will have a cash affect during the remainder of the year next year from that business, on top of the fact that we also increased production in Algeria slightly.</p>
+          <p>We have lower exploration costs than we had expected in the quarter, US$199 million and given the fact that we will end the year, or expect to end the year with more than a US$1 billion exploration costs, this is slightly below trend. But of course, it is difficult to hit the exact average in every quarter. We completed five exploration appraisal wells in Q2. So the drilling level actually continues to be quite high.</p>
+          <p>And we've also made a minor acquisition, the 30% in Dumbarton and Lochranza, where we're already active and we expect that transaction to be concluded in the second half. Also, relevant for the second half is the fact that the <mark type="indiscernible" /> (13:48) Foundation would enter into TUC as a shareholder with a 20% share. It starts in July and will have effect from the second quarter, but not on the profits. This will remain neutral for the business.</p>
+          <p>And if you go to Maersk Drilling, I think maybe I should add here that the guidance for the year is about just 265,000 barrels of oil today so it is slightly below what we have produced in the second quarter.</p>
+          <p>On APM Terminals, on page 7, the business continues to develop well. We had a 7% growth in volumes, driven by new terminals and good development in West Africa more than compensating the declines we saw in Europe. So excluding impact of portfolio and new changes and new terminals, we had a volume like-for-like that was 5% above last year.</p>
+          <p>A number of initiatives continues in APM Terminals. We have signed an agreement to invest in Ningbo, increasing the capacity of Meishan in China and we have also forwarded a proposal to operate all of the port of Virginia's facilities in the U.S. We already have our small terminal, our mid-sized terminal rendered to the port, but we think we can be a pretty good operator on the totality and we are in talks with the municipalities there.</p>
+          <p>We have also commenced now construction at Rotterdam's Maasvlakte II, which, of course, is a milestone in APM Terminals development. It will be a top, modern, very large facility in the largest port in Europe. We signed the concession for Lazaro Cardenas, which will also be a flagship terminal on the Pacific Coast of Mexico. So lots of exciting things are going on in APM Terminals.</p>
+          <p>Apart from good development in volumes, given the global trade situation, also the trend in increasing EBITDA margins continues. So we feel that we are on a very good development in APM Terminals towards becoming a business delivering more than US$1 billion in segment profit.</p>
+          <p>If we take Maersk Drilling, we have a result in line with last year in the second quarter. We have reversed US$30 million of an impairment and late startup of two large rigs have cost us some money in this quarter and will also cost us money in the third quarter as well until we get up running fully. This is, of course, unfortunate, but we see that the business is still on a good track. We're developing good, solid orders for the new rigs we've ordered and see a lot of interest in also our deep sea capabilities that are growing by the day.</p>
+          <p>I will not go into the details. You can see the figures on the various contracts in the presentation slide. But we're also determined to develop Maersk Drilling into an important fourth leg of the group, approaching US$1 billion over the midterm in segment profit.</p>
+          <p>And if we take very quickly the other business units, and here, we'll start with the text, start from the top. And we'll start with the figures from the bottom. And so starting with Maersk Supply Service, we have a result that is below last year. This is mainly due to less attractive rates in the North Sea spot markets. But we do maintain a high level of activity both in Brazil and in West Africa. And we have good contract coverage for these areas. So even if the spot market continues to be soft, we should still be able to deliver a reasonable result.</p>
+          <p>Going to &#x2013; if we take Maersk Tankers, we continue in the market having the situation of persistent oversupply. The order book is shrinking, but we see lots of oversupply in particular in the VLC area, but also in product tankers. The only segments here where capacity is more or less in line with demand is the gas area that delivers acceptable returns at the moment.</p>
+          <p>And Damco has an extraordinary gain on the sale of facility in China. But the &#x2013; well, we also have costs for restructuring in Europe where we're reducing cost. We're also focusing Damco more and more on the developing markets, where we have a very, very good skill set and feel we can drive a good development of this company going forward. Volumes are up in a good way, both in air and in sea. So the company is developing well. And we also see good traction on our supply chain activities.</p>
+          <p>Then Svitzer, we've been able to increase the Harbour Towage tariffs in a number of areas and the terminal startups that we're making are fundamentally with higher returns than we see in the traditional Harbour Towage area. So here, we also see a good, positive development.</p>
+          <p>The other businesses, which are primarily &#x2013; development here is primarily driven in a negative sense by Dansk Supermarked, which is delivering less of a result than last year. Therefore, we have a good development in Maersk container industry, so it's a modest negative trend in this business.</p>
+          <p>And that leaves me to hand the word over to Trond, who will take us through the group overall figures.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Nils, and good morning, ladies and gentlemen. I will take you through the consolidated numbers on page 10 in our functional currency of U.S. dollars.</p>
+          <p>I'll focus on the first column of the second quarter and I'll make some reference to the development from the first quarter. So our revenue based in the second quarter were $15.348 billion, an increase of approximately $1 billion from the first quarter. And the EBITDA have the same development in the nominal numbers, so we're ending up at $3.582 billion coming from $2.5 billion and that leaves a growth from first quarter to second quarter of $1 billion.</p>
+          <p>Going then to the earnings before interest and tax of $2.407 billion, that's an increase from first quarter of $746 million. We have net financial items in the quarter of US$237 million, slightly up from first quarter when the financial costs were US$166 million, and the profit before tax on US$2.170 billion.</p>
+          <p>And then we have a tax charge in the second quarter of US$1.205 billion, leaving us at a net profit of the period of US$965 million, down from first quarter, but first quarter included the Algerian tax settlement of approximately US$900 million. And that is the reason why the tax charge in the second quarter goes up from the first quarter. So all in all, a good quarter.</p>
+          <p>On the bottom, you can see that we do have return on invested capital of 8.8% and the capital base in the second quarter is US$53.7 billion. Net interest-bearing debt up to US$1.6 billion. I will come back to the development in that, and earnings per share in the quarter were US$208.</p>
+          <p>Going then to the next page on the development of net interest-bearing debt. Simple chart here, starting the 2012 with US$15.3 billion. The EBITDA is US$6.1 billion, change in working capital and other miscellaneous in the current account is US$1 billion. Paid taxes, US$1.9 billion, CapEx, the US$3 billion spent. Financial items, US$400 million, and we did pay the dividends in the second quarter and some other miscellaneous ends up at US$1.1 billion. And that means that we're coming out of the second quarter of US$16.6 billion on net interest-bearing debt.</p>
+          <p>Going then to slide number 12 on the outlook for 2012. The group revises expected result for 2012 upwards from slightly lower to slightly above the results of 2011. Cash flow used from capital expenditure is expected to be lower than in 2011, while cash flow from operating activities is expected to be at the same level.</p>
+          <p>Maersk Line now expects a modest positive result in 2012, based on higher average rates in the second half of the year. Global demand for seaborne container is expected to increase by 4% in 2012, but with declining inbound European volumes.</p>
+          <p>Maersk Oil expects a result for 2012 at the same level as the result for 2011, including the impact of the settlement of the tax dispute in Algeria. The expected result is based on share of production of 265,000 barrels of oil equivalents per day during 2012 and the average oil price of $108 per barrel for the remainder of the year.</p>
+          <p>Exploration costs are expected to be above $1 billion. APM Terminals, expect a result of 2012 above the results for 2011 and above market growth in volumes, supported by portfolio expansion.</p>
+          <p>Maersk Drilling now expects the results for 2012 below the results for 2011, due to postponing start-up of new contracts. The total result from all other activities is now expected to be lower than 2011, excluding divestment gains and impairments. That is primarily due to lower expected results in Dansk Supermarked and Maersk Supply Service.</p>
+          <p>The outlook for 2012 is, of course, subject to considerable uncertainty, not at least due to the development in global economy. And as we have shown you on the top right, we are of course also influenced by &#x2013; have some sensitivity guidelines for you relative to what is actually our primary drivers on what affects the numbers.</p>
+          <p>And with that, I'll leave the final remarks to Nils.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay. So coming back, just to sum up, the important thing, of course, is that this quarter is in itself not very eventful. And we are happy that we returned Maersk Line to profit, as we had promised. And &#x2013; but importantly also is that we continue to pursue our strategy, which is to concentrate our investments going forward in the four core growth businesses.</p>
+          <p>We expect and have as an ambition to grow Maersk Line in line with the market and it is also our ambition to grow our profitability to a level where we have an EBIT margin advantage of 5% above peers. With those two objectives, we see relatively limited need for new capacity investments in the industry. We have the Triple Es coming from the middle of 2013 until 2015 and that should cover our need for capacity for that period of time. So short term and medium term, very limited investment in this business, which means that the share of invested capital in that part of the group will tend to reduce over the period we're looking into.</p>
+          <p>Maersk Oil's aspiration is to reach a production or share of production of 400,000 barrels per day and that means, of course, that we will invest. We have made successful exploration activities over the last years. Since we upped the investment budgets in this area, we've been more and more consistently successful and that means that we have good funds that we'll invest in. the most significant projects that have not been sanctioned at this point of time seem to be Chissonga in Angola and Johan Sverdrup in Norway. That combined, will reach a level of production, our share above 100,000 when they become producers in 2018.</p>
+          <p>We will invest significant amount of money in these projects, but we have not finalized the project descriptions and we're also, of course, awaiting more input from Statoil, which is the operator on Johan Sverdrup.</p>
+          <p>We do appreciate that the extraordinarily high returns that we've seen in Maersk Oil over the coming years will tend to decline when we up the investment level. But we do expect to stay in double-digit return levels, even during the expansion phase, which will be, we feel, a good achievement.</p>
+          <p>APM Terminals is expanding, will continue to expand. And already today, we have a good EBITDA margin. It's improving and we also have a good return on invested capital. We want to continue investing in this attractive business and continue through cost measures and portfolio work to push, hopefully, the returns to an upward trend so that we can achieve a $1-billion-plus profit from this business within very few years.</p>
+          <p>Maersk Drilling has been very active on the ordering market. We've ordered seven large rigs. We already have contracts for some of them. And we have big interest in the &#x2013; or higher level of interest in the others. So also here, the ambition here is to grow Maersk Drilling into a business that would give us a profit in the area of $1 billion. It requires some additional rig investments, but these we'll be doing hopefully in a paced and sensible speed over the coming years to reach the level of $1 billion.</p>
+          <p>We are committed to profitable growth. We also remain committed to increasing the dividend per share gradually in nominal terms. And over the cycle, we want comply both with the financial ratios and, of course, also with the return criteria that are required to be a strong investment grade company.</p>
+          <p>And then as a last remark, we have, of course, limited time for these quarterly presentations. And being a conglomerate, we find it quite difficult to find, to get enough details communicated around both APM Terminals and Maersk Oil which are, let's say, the most complex and in many senses, also the most attractive growth areas of the company. So we've decided that we would like to increase the information level of these gradually over the coming years.</p>
+          <p>And the first next step that we will take in this is to make our Capital Markets Day on 9th of October, 2012. We'll send invitations out in the coming weeks, also detailing more the content of the day, but so far we've only defined the need to explain more about the individual projects, as well as the individual productivities that we are into. We hope it will be an exciting day and look forward to seeing some of you in that connection.</p>
+          <p>And that closes the presentation for now, and we look forward to having a very good discussion and some exciting questions as well. Thank you for listening in. Thank you for your patience.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" /> Our first question comes for Mr. Chris Combe from JPMorgan. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Yeah. Good morning, Nils and Trond. With respect to liner rates, you mentioned no expectation of declines. But at the same time, it looks as if the CCFI, which at least has some directional value, has come off a bit from its peaks in May. Is this necessarily indicative for what we should expect for Maersk Line?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, coming back to the explanation I gave before, we had a slower increase in our average rates than you would see in the market, and in particular, that you will see in the spot indexes, whichever one of them you look at. So we feel that there is &#x2013; even if the spot rates should peak now, there's still some room for us to improve our average rates.</p>
+          <p>Having said that, we also feel that the spot rates should stay on a reasonably high level and that they should improve from where they are now, because the industry needs a better return than it's been seeing in the last quarters. So we feel there's limited room for downward adjustments. It can come short term. But we will definitely continue our efforts to increase rates until the industry has a satisfactory return.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Okay. And...</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Even if the volumes should be unexciting in the second half, which we expect they will be, the solution to this for us is not lowering rates.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Okay. That's clear. And as capacity continues to rise in Asia to Europe, can you give us some color on what your utilization level has looked like in Q1 and Q2 and then relative to what you see in the broader trade line?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, we actually haven't brought in capacity. We've taken out some capacity and we've seen increased volume for our business in Asia, Europe. So we have seen quite a good capacity utilization. But again, I think we will warn against just looking at capacity utilization as the trigger of rate increases or decreases. It's a mistake we have done along with, I can say respectfully, others in the industry. But it's not the way forward. It's normal for an industry to have excess capacity when growth is slow. And we just have to live with that and avoid dumping our rates. You're not going to get more volumes in total onto the vessels by dumping the rates, because our competitors will dump their rates as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Okay. And very last question on your reduced CapEx guidance. Can you give us some idea of which areas afford you the greatest flexibility and does this imply deferred acquisitions, perhaps centered in the oil and gas division?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, we do keep a quite a high level of investments. So the reduced net investment guidance we're giving is mainly a consequence of having divested both the LNG as well as the FPSO businesses.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>All right. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next question comes from Mr. Dan Togo from Handelsbanken. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Yes, good morning. A few questions from me as well. Could you please elaborate a bit on the guidance? First of all, you are taking down drilling, you have given the cause here. And can you give some sort of amount or quantify the effects of these postponed projects and then some words on the downgrades on retail and supply? And then an additional question to guidance, if you wouldn't have sold Peregrino, yielding US$200 million, would you still have upgraded the outlook for the group?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I don't think we have given any figures for Peregrino anyway, but what we see as driving the upgrade is basically Maersk Line now expecting a modest profit.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>So it's not the one-off, so to say?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>So that's the way we see it and at Peregrino, a small profit from that is coming in the third quarter. This is good, but it's not really significant for the outlook.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>And then some words on retail and supply?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yes. On retail, the business is impacted by poor Danish demand situation. It's mainly the &#x2013; or it is the supermarkets and the hypermarkets that are impacted. It's mainly a non-food issue. Then the discount part of the business continues to grow well. So we actually also here feel that investment direction that we have focusing a lot on Netto is right, but the supermarket sector in Denmark, at the moment, is very complicated.</p>
+          <p>On supply, it's a &#x2013; we have had a relatively weak spot market in the North Sea. Nothing dramatic, it happens once in a while. The underlying business is still very healthy and we're still leading the industry on returns in a clear way, so we are happy with that business.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>And I had some questions on containers. I understand from the previous answer you gave that you, so to say, expect rates to be solid throughout second half from where we are now. That's at least what you implied. Is that correct or even moving higher?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, I think the &#x2013; it's difficult to say where spot rates are moving. We have upped the spot rates Asia, Europe and are at the moment the only one who has been doing that. We've done that towards the end of June and this impacts volume at the moment slightly. We do believe that the competition will follow, which will stabilize and potentially even increase the spot rates over the coming months. But even apart from that, there should be room for us to work on our contracts to increase our average rate over the coming quarters.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Okay. Because when you look into 2013, 2013 is still quite a sizable delivery year to the container market. And it looks, at least when you look at the spot, I know, increasingly difficult to drive up the rates further. So looking a bit further ahead, beyond second half, what will drive profitability? Will it be a cost exercise or is it pure rates that will drive up profits going forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, we of course will do our homework and do our cost exercises. I think we've been quite successful with that in the last five years. But don't forget, the competitors are doing that as well and we can't, as an industry, cut ourselves to success. We need stability of rates if we want to keep a reasonable level of earnings.</p>
+          <p>And I think having learned from 2009 that cutting rates doesn't create more business, maybe quite to the contrary. It's not the solution. We need to maintain acceptable rates and the customer also need to understand that if they want investments in the industry and good service, they have to look at the total cost of transportation and production in their results, not just on $50 more or less per container.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Okay. Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Mr. Lars Heindorff from ABG. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Yes, morning, gentlemen. Also, a couple of questions regarding the container rates. I think you stated in the second half of last year that you've not really sort of engaged in longer term contracts on loss-making volumes, also loss-making rates. I'm curious to find out...</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Could you speak closer to the microphone. It's almost impossible to hear you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Can you hear me?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Try again.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Is this better?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>All right. A question regarding the rates &#x2013; sorry, I think you said on an earlier occasion here, some of these conference call, that in the second half last year, that you were not going to engage on longer term contracts on loss-making rate levels. I'm curious to find out if your share of longer-term contracts, how that have developed during the quarter here. And if you can give us sort of indication maybe of how much is contract and how much is spot?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah. I think we &#x2013; first of all, we don't &#x2013; our longest contracts of any significance are a year. And this has traditionally been particular important in the Asia and the U.S., so the Pacific trade. And the Europe trade was actually half of the business, more or less. And if we go to Asia-Europe, we have a mix of spot and short-term contracts of three months and some yearly contracts. And of course, it's right now it's the yearly contracts that are giving us the trouble. I guess our share of yearly contracts in that business would be 30%, 40%.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Okay. And also staying with the rates, we can see in the slides package that you've been sending out here. I mean, you have had a decent increase in the average rate from March into April, and then from April into May and June, the average rate increase is actually sort of fairly small. Can you tell us a little bit about the recent rate hike that you announced on Asia-Europe, on $250 per box, how that had developed and if you foresee that these average rates will continue up here on a monthly basis?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, we did increase, it's actually US$250 per TEU. So we increased to US$500 per FFE and that was at the end of June and so far, it's sticking.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Okay. And the 1st of August, you have also announced a rate increase. Has that been successful as well?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We hope so.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Okay, all right. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Mr. Mark McVicar from Nomura. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Good morning. I have a couple of questions on the sort of the investment and future development piece. Can we just clarify the &#x2013; when you talk about the $1 billion of profits that you have to make from drilling and terminals, are you talking about NOPAT there or are you talking about EBIT?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Could &#x2013; we're talking about NOPAT. I couldn't really hear your question, but the others have better ears than me, so.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay. So the $1 billion is at the NOPAT level for the medium term guidance, yeah?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yes. That's right.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>That's lovely. Thank you. Secondly, on the Angola and Norway production plans, is 2018 where you would have expected that first oil to come from?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>It goes both. We've guided on both Chissonga and Johan Sverdrup for 2018. Of course, the Johan Sverdrup guesstimate is based on Statoil's statements there, the operator there.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Sure.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>In Chissonga, we feel that 2018 is realistic. We are actually going to drill quite a number of wells in Block 16 over the coming quarters. And the more we know before we do the final design, the better the design will be and the higher our chance of doing it on time and budget as we have done, for instance, in Qatar. So we'll prepare it very well, because it is potentially a sizable investment.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Sure. Okay. And just on overall production, is there anything further you can tell us about how much lower than this year's 265 that production might go and when are we expecting to see, and at what sort of level, the bottom of the production profile?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, we have previously guided that we would continue to see some declines during 2013 and 2014, but thereafter, we expect to grow. And we will be more specific on this in our Capital Market Day when we meet in October.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay. That's great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Mr. Herman Hildan from RS Platou Markets. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Good morning. I have two questions. The first is on the capacity on Asia-Europe. We saw at the beginning of the year, most operators had 10 vessels in Asia-Europe and you've now implemented 11 vessels in most of your strings. Could you say some few words about how far you have come in implementing 11 vessel and also, if you see that competitors follow suit?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yes. We believe that actually, most competitors are working towards lengthening their strings and we've come very far. We can see that on average speed and bunker consumption. You will still see some effect coming in the second half, because we're continuing, but it is flattening off from now on.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>And also, could you say something about how much further or how many more vessels you believe you can add on Asia-Europe? For example, a 12-string and at what time do you believe this could happen if demand fails to...</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We're not planning to add additional vessels in Asia-Europe. So obviously, no guess on when it could happen. The market is oversupplied. What surely it doesn't need is more capacity.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>I meant more on the string-per-string basis, if you feel the -call it the benefit of sole stringing, will it be diluted this year, for example, at the 12-vessel next year?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, it depends which strings you're talking about. We have different numbers of vessels. And don't forget that our most important trend or lane from Asia to Europe is actually Daily Maersk and that is not a string per se, as you define it there.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>And also, one last question. Are you happy about the way that the current share price reflect underlying models in the company and have you, call it, made any actions in terms of reorganizing the group? For example, you see &#x2013;  take Teekay Corp where you have listed subsidiaries. Is this something that you would consider in the future?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, if we do come to consider that, we'll surely tell you. What we will try to do now as the next step in making the group more transparent is to have a Capital Markets Day in October. But we're planning on &#x2013; we're planning that, come back certainly more in details what will be there. But we don't have any plans of listing subsidiaries or anything like that.</p>
+          <p>We have actually changed the structure of the group over the last many years. We've left industry. We've left data processing, we've left ship building, we've left ferry transportation, we've left LNG transportation and we've also reduced our exposure to FPSO. So some things are happening every quarter. As where the share price should be, there are many, many, very, very smart people out there, so I'm sure it's in exactly the right place.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay. Well, I guess we can look forward to the Capital Markets Day then. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Sure.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Mr. Robert Joynson from Macquarie. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Good afternoon, gentlemen. A couple of questions from me if I may. First of all, just on bunker costs. The average bunker cost paid by Maersk Line increased slightly between Q1 and Q2, which was, of course, the opposite the decline in bunker prices seen by the market in general during Q2. Now, I assume that that was due to the bunker fuel that you have stored in the tanks?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Exactly.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>And the lag effect which you've discussed on previous conference calls.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>But I mean because of that lag effect, would it be fair to assume that the average bunker cost per ton paid by Maersk Line will decline materially during Q3?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>It's not a bad model to assume that we'll be two to three months behind on average bunker prices. So the logical consequence of that is that you &#x2013; there should be a good chance of that.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Excellent, thank you. And then just a quick second question, more of a clarification. You mentioned in response to a previous question that on Asia-Europe, 1,200 contracts account for around 30% to 40% of the total volume. Just to clarify, did you mean 30% to 40% of the total volume or were you referring specifically to the contracts' elements of that volume?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>No, I can't be very specific on that, because I don't have the figures right here. But with we &#x2013; the share of contracts on Asia-Europe long term are lower than they are on the Pacific. 30%, 40% was meant to be, and it may not be entirely correct, out of the total volume.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay. That's very useful. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Mr. Mike Pak from Clarkson. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Yes. Hi, good morning, gentlemen. Just a couple of points of clarification. One is, am I to understand that the invested capital in the Maersk Line will reduce despite the new build program?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>No. We are not &#x2013; that's not the intention. We'll continue probably to see growth in the invested capital in Maersk Line, but it will be less than we see in the other four core businesses and it will be less than the average invested capital of the group.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay, great. And then, can you also talk about some of the levers of capacity reduction in the box business? I've heard other liners talk about deployed capacity versus, I guess, total physical capacity. How do you guys, sort of measure it and what are &#x2013; can you talk more specifically about some of the initiatives that you guys have done, like slow steaming and things like that? That would be very helpful. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I don't think we can make this into an exact shipping bulk analysis conference call. We have done a lot on closed steaming. You know the figures, I think, quite well. We've also done some things in the past on layoffs, but we actually consider handing back tonnage to charter tonnage and slow steaming as less costly and more effective than actually laying ships off. But if the market goes down, continues poor, we will reflect on it and if laying off tonnage is what it takes, then we'll do that.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Great. Thanks for your time, guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Mr. Finn Petersen from Nordea. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yes, Good morning, gentlemen. Cost cutting in Maersk Line is on the agenda. Could you elaborate a little bit about what you intend to do, what the time horizons and the effect on results would be?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>There are some things that will come very quickly, such as reduction of the headquarter. The effects of that, we'll see already in the &#x2013; excluding one-offs for indemnifications and so on, we'll see that already in the third quarter. Some things will take significantly longer, such as reducing overheads as a consequence of getting IT improved to service levels. So many, many different steps are being taken.</p>
+          <p>For me, the most important thing probably is the continued effort to upgrade IT and systems and procedures to simplify the company. I think over the coming years, this will be a gradual but very significant impact, both on customer satisfaction and efficiency of processes, but also on costs. But we have gone through cost exercises in the past. We've taken significant cost out of both overhead and operational expenses. So, of course, it gets more into really hard work. Then there are no lower-hanging fruits we can pick at the moment.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay. Slow-steaming, you were talking about slow steaming, Asia-Europe, what about other traits? As today, you probably have more capacity in emerging markets if we take Middle East, South America, Africa and...</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We slow steam in the entire network. So there's no difference to Asia-Europe and to the rest of the networks.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>So what is the potential? Well, what is the potential to further slow steaming globally, if it's necessary? I understand that it's probably limited there.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah. I think it's relatively limited. We are sailing at low speeds. But there may be some room on backhauls. The backhaul business is growing nicely for us. But it's actually a business where a lot of the cargo is not very time-dependent. So you probably could slow steam more on the backhaul. And apart from the container business, where there's definitely room for slow steaming is in the tankers area, where the tankers are sailing at far too high speeds, considering that there's so much overcapacity in the industry and that they're consuming a lot of fuel, could be much more environmentally friendly.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Just a final question. Rate increases in emerging markets, we've seen spot rates lately falling in emerging markets as such. And you have announced rate increases. Could you elaborate a little about how you see rates development in these tracks, South Africa, South America and so forth?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, I think that you will see volatility in the rates. But in general, when we look around the globe, we've seen an acceptable development in rates in the first half. It's been, of course, given the catastrophic rates we had in Asia-Europe, it's been the most significant increases but we've seen sensible developments in most areas.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Frans H&#xF8;yer from Jyske Bank. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Yes, good morning. A question about the rates again, on the rate earned in the second half, your guidance and everything you say suggests that you expect rates to be firm or even higher. But &#x2013; and of course, you have these various tools in the box, including slow-steaming and so on, but you also had those tools in the box last year and I'm just wondering whether &#x2013; what makes you so confident that this autumn is going to be markedly differently from last autumn? Is there something new in the toolbox that you can apply or is it something else that you are pinning your hopes on?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, I think the real issue here is industry conduct and I can't talk for the industry, but I can talk for us, that we feel that are maintaining our market share at the moment on a reasonable level and we have seen rates go up as a consequence of us behaving maybe less aggressive than we have in the past, and that's what we intend to do.</p>
+          <p>What the industry does is outside our, of course, influence. We can't influence that. But I think in general, the industry understands that you don't grow the market by cutting rates and when you cut rates, competitors follow. So it's really down to that and we've been through a number of iterations and we get wiser every time.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay, thank you. A question regarding the oil business. Do you &#x2013; are you still aiming for 400 million barrels per day in 2017 or are &#x2013; has that slipped into 2018 as the two big fields come onstream?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We have not given any indications of when the 400,000 barrels would be. So, so far, we can &#x2013; there hasn't been &#x2013; if there's any slippage, we'll keep it internally.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay. So there is still no particular timing in mind regarding the 400,000 barrels per day?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>In mind, yes. But not communicated.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay. And also perhaps this next answer falls into the same category. Could you give us an idea of the scale of the Chissonga investment, if and when that hopefully goes ahead? You mentioned it's very substantial. Could you help us a little more?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We will try to help you hopefully on that when we come to the Capital Market Day. But at the moment, we don't have further details. We're still, as I said, drilling exploration wells in the area. We want to make sure that we understand the size of the field before we decide on development. So the good news would be a very high level of investment.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Yeah. I understand. Okay, thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Mr. Stig Frederiksen from Carnegie. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Hello, gentlemen and first of all, congratulation with your turnaround in Maersk Line. A couple of questions. First of all, could you elaborate a bit on how you see the peak season going on? We have had some very weak data recently and all talking about a delay. That was the first question.</p>
+          <p>Secondly, when will &#x2013; if you could clarify a bit about your geographical split in your container Maersk Line, because it seems you have changed the way you now talk about Asia-Europe from 37% in Q1 to now 24%?</p>
+          <p>And then the final question, I think you, Mr. Smedegaard, talked about that you entered the year with too much capacity and you thought about that there would be a market share fight also this year. Is that still the view and that's one of the reasons why costs are still maybe a bit too high or higher than we assumed in this quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I think it's first of all, on development of different routes, you can see it on page 14 in the released report. So I won't go into details on that year, if you permit there. But there are still room for us to reduce or slimline our network, for sure. But what we've done so far is we're slow steaming rather than handing back tonnage, because that has been the most profitable way to solve the issue. And I guess this will be the way we'll do it also in the future, because fuel prices are heading back up again.</p>
+          <p>Now, we see the crude oil coming up. So I think the most realistic assumption is that slow steaming will be more important than actually reducing capacity. But you're fully &#x2013; it's completely correct what you're saying. We did enter the year with too much capacity for the business. But having slow steamed and having taken the measures on sharing strings and so on, we actually are at a good level of capacity utilization. So we don't &#x2013; there's probably less room than we thought three months ago for reducing the capacity overall.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay. Then maybe on the peak season, or maybe I should interpret that that is &#x2013;  when you add good utilization, you also look at a quite okay peak season for the time being?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We hope so. Of course, it depends on the global economy and demand in the U.S. and Europe, in particular, Western Europe. And that doesn't look too bright. But don't forget, last year, we didn't have any peak season at all. So the comparison levels we're entering into are not too difficult. So we're cautiously pessimistic, but not overly pessimistic.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Perfect. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Mr. Robin Byde from Cantor Fitzgerald. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Oh, yeah. Morning, guys, just two from me, please. On APM Terminals, could you say a bit about or talk a bit about the pricing environment? Are you able to sort of maintain or lift terminal handling charges at the moment? And then secondly, just on debt and financial ratios. You've mentioned this a little bit earlier. Do you have a target range for leverage that you can share with us? On my calculation, you're on about two times EBITDA including leases, which suggests that you still have a fair amount of balance sheet headroom to maintain that investment grade? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I'll leave the financial question to Trond. And I think that's probably the most important. So Trond, if you'll start.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Sure. What we have said is that we want to be a solid investment-grade company, and that's basically the guidance we've given you. When it comes to your metrics, just a comment on that is that on our EBITDA on the gearing level, even though you take into the charters, you have to take into consideration that the tax effects on the oil and gas is fairly high. So adjusting for that, you would probably be slightly higher than at two times on a comparable note to other industries.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>But taking that into consideration, I do think that we have a &#x2013; I mean, we have a solid balance and the US$16 billion is, we haven't given any sort of characteristics, whether how big or small that is relative to what we think we can do. But I do think, as we have said earlier, the CapEx going forward is going to be very much aligned with the operational cash flow going forward. But then again, it's not going to be one-to-one either in quarters or in years to actually do it.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay. Thank you. And can I just clarify, when you say investment grade, are you talking here about sort of BBB, a classic for an industrial transport company?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I'm not saying that. It's going to be &#x2013; investment grade is, of course, from BBB and upwards.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>And we haven't &#x2013; and a solid investment grade is probably higher than the lowest level.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Mr. ...</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We still have an outstanding issue on the last question.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Oh, yes. Please.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>That is the terminal pricing power.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>And it depends, of course, a lot on how the competitive situation is in the area where you're sitting. And, of course, you can also be more strong on pricing if you have bottlenecks in a fast-growing economy. But having said that, we actually saw in 2009, even when the container volumes dropped significantly, actually container handling charges didn't move a lot. So there's no doubt that pricing power is much more solid among the terminal operators than it is in the shipping lines. And, of course, also here, we try to stand firm with our APM Terminals business. And I think that they have done that successfully in the past.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Great. Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Mr. Gianmarco Bonacina from Equita. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Yes. Good morning. A couple of questions. One in Maersk Oil, if you can tell us what was the contribution from the settlement battles in Algeria in the second quarter? And then the other question is about the development of unit costs in Maersk Line? If you can give us more color on the 1% decline, making some reference to basically vessel cost, transportation cost, like, for example, terminal cost and administrative cost. So what was the development in the different items? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>The main saving was bunker consumption from slow &#x2013; from steaming slower. So that's really the savings element of it in this quarter. We're seeing the rest of the cost component staying pretty stable.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>And on the Algerian thing or the Algerian question, it's &#x2013; the payment of the US$0.9 billion haven't started at the end or middle of June and it's not going to affect the P&amp;L. And the settlement, the other settlement is only having a minimal or marginal effect on the entitlement production.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay. So just to understand that the quarter-on-quarter increase, which was the main driver &#x2013; were just some fields which were shut for maintenance that came back onstream?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yes. Well, it's more a lifting issue than anything else. So the &#x2013; El Merk is not coming onto speed until the end of 2012, so nothing really major has happened in Algeria.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, we did get Janice in the UK back onstream in the second quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" />
+          </p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>So, we'll take the last question now, if there is one.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Yes. We have a question from Mr. Jacob Pedersen from Sydbank. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Hi, gentlemen. I have just a question on Daily Maersk. Could you comment a bit on the customer feedback that you've gotten from this service? Also, the effect on your pricing power in the market from this service? And if you have any plans concerning a timetable for rolling out some similar offerings on another strings?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>It's &#x2013; the reliability of the service is 97% now and the customer feedback is really, really excellent. We hope over time to be able to translate this into better rates, but at the moment, we are pricing this service at a level with our other services from Asia to Europe. It's too early to say whether we'll do similar things on the other trades, but I think it really works very, very well on the Asia-Europe. So we are very happy with it and I think it's also showing the way that you can actually get better feedback from customers, if you're reliable and you have a service that is a little bit different from the rest.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>What would it take for you to get a pricing advantage on the Daily Maersk service, is it better market conditions or how do you...?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>No. I think this is a matter of time. When the customers get used to this and understand how valuable it is in their supply chains to get supplies every day instead of once a week, we do expect that we'll be able to price it up slightly. But, I mean, this is container transportation. We're not going to get a huge premium on this service.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Okay. Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay. So that concludes our teleconference today. Once again, thank you for listening in. I know it's been a slightly longer presentation than usual. And thanks for the many good questions. We wish you a good day and look forward to seeing some of you at the Capital Markets day, and hopefully, the rest of you for the next quarterly presentations in November. Thank you very much for listening in.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

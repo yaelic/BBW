@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1115795" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q4 2007 Earnings Call</title>
+    <date>2008-01-29</date>
+    <companies>
+      <company>184</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Tony Takazawa, Vice President, Global Investor Relations</participant>
+      <participant id="2" type="corprep">David Goulden, Executive Vice President and Chief Financial Officer</participant>
+      <participant id="3" type="corprep">Joseph M. Tucci, Chairman, President and Chief Executive Officer</participant>
+      <participant id="4">Brent Bracelin</participant>
+      <participant id="5">Joseph Tucci</participant>
+      <participant id="6">Tony Takazawa</participant>
+      <participant id="7">Keith Bachman</participant>
+      <participant id="8">Paul Mansky</participant>
+      <participant id="9">Shebly Seyrafi</participant>
+      <participant id="10">David Goulden</participant>
+      <participant id="11">David Bailey</participant>
+      <participant id="12">Bill Shope</participant>
+      <participant id="13">Kaushik Roy</participant>
+      <participant id="14">Chris Whitmore</participant>
+      <participant id="15">Kathryn Huberty</participant>
+      <participant id="16">Brian Freed</participant>
+      <participant id="17">William Fearnley</participant>
+      <participant id="18">Thomas Curlin</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Welcome to the EMC Fourth Quarter Earnings Conference Call. Parties will be on a listen-only mode until the question-and-answer session of today's conference. <mark type="Operator Instructions" />. This conference is being recorded. If you have any objections, you may disconnect.</p>
+          <p>I would like to introduce your speaker, Mr. Tony Takazawa.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, Julie. Good morning to everyone. Welcome to EMC's call to discuss our financial results for the fourth quarter and the full year of 2007. Today, we are joined by Joe Tucci, EMC Chairman, President, and CEO; David Goulden, EMC Executive Vice President and CFO.  David will provide a few comments about the results that we released this morning and he will highlight some of EMC's activities this quarter. Joe will then spend some time discussing his market outlook, his execution of the strategy, and how EMC is positioned in the marketplace. After the prepared remarks, we will then open up the lines to take your questions.</p>
+          <p>I would like to point out that we will be highlighting various non-GAAP numbers in today's presentation. A reconciliation of our non-GAAP comments to our GAAP results can be found in the disclosure today in our press release, supplemental schedules, and the slides that accompany our presentation. All these are available for download within the Investor Relations section of emc.com.</p>
+          <p>In addition, we are providing a full eight quarters of GAAP and non-GAAP information to help you reconcile EMC's consolidated results with the EMC Information Infrastructure business and the results of VMware within EMC.  Last quarter, we received very positive feedback from you regarding these schedules, and I am pleased to say that we are increasing the transparency of this disclosure.</p>
+          <p>As always, the call this morning will contain forward-looking statements and information concerning factors that could cause actual results to differ can be found in EMC's filings with the US Securities and Exchange Commission. Lastly, we will note that an archive of today's presentation will be available following the call on emc.com.</p>
+          <p>With that, it is now my pleasure to introduce David Goulden. David?</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks, Tony. Good morning and thank you for joining us today. I am pleased to report that EMC demonstrated very strong performance across the board in the fourth quarter and in 2007 and we are well positioned for continued success as we enter 2008. We had solid execution and as a result, we exceeded our growth, profitability, and free cash flow goals for the year.</p>
+          <p>For today's call you should all have the consolidated results from our press release in front of you but I'm not going to take time to repeat those now. Instead, I'm going to start by highlighting some results that we know you are very interested in, namely the results from our EMC Information Infrastructure business. This business is comprised of our Information Storage, Content Management, and RSA Security businesses. I will then make some comments about our consolidated results, which will also include VMware.</p>
+          <p>So starting with the EMC Information Infrastructure business results, Q4 revenues were $3.4 billion, up 15%, and non-GAAP earnings per share were $0.26, up 23%.  Q4 operating cash flow was $895 million, up 62%, and free cash flow was $688 million, up 98% from Q4 last year.</p>
+          <p>For the full year, revenues were 11.9 billion, up 14%, and non-GAAP earnings per share were $0.79, up 20%. Full year operating cash flow was 2.5 billion, up 43%, and free cash flow was 1.8 billion, up 86% from last year.  We are very pleased with these cash flow results in 2007 and you will note that free cash flow was approximately &#x2013; was a little over $100 million higher than our non-GAAP net income.</p>
+          <p>In Q4, the Information Infrastructure non-GAAP operating margin was 18.3%, up sequentially and flat year on year.  During Q4, we made investments in some starter businesses such as Mozy.  We hired salespeople for our BRIC [Brazil, Russia, India, China] and other high-growth countries and for our Commercial business, and we paid out sales force compensation accelerators tied to our strong full year revenue results. As a result, SG&amp;A expense grew faster than revenue sequentially from Q3 to Q4.</p>
+          <p>Now I would like to cover the revenue results from each of our Information Infrastructure business segments. First, let's take a look at our Information Storage business. In Q4, Information Storage revenues were up a very solid 14% over Q4 last year. We saw our storage business accelerate throughout the course of the year, reflecting strong momentum. For the year, Information Storage revenues were up 10% over 2006, growing faster than the market and representing share gains.</p>
+          <p>In the high end, Symmetrix revenues in Q4 were very strong, up 12% over Q4 last year and up 3% for the full year.  We continue to be very pleased with the demand we are seeing for our DMX-4 system, which is the highest performance, most cost effective, secure, energy efficient, and easy to use high end array on the market today.</p>
+          <p>Turning to the midrange, CLARiiON revenues were up 15% over Q4 last year and up 18% for the full year.  We achieved strong share gains in the mid-tier storage market this year, driven by the strength of our product portfolio that spans across this market's segments. We are also seeing that customers wanted choice across Fibre Channel, iSCSI, and IP connectivity in the mid and low tier.  EMC is extremely well positioned here with our CLARiiON CX3 dual-protocol systems which offer both Fibre Channel and iSCSI, with our NS20 and NS40 multiprotocol systems which offer Fibre Channel, iSCSI, and NAS [Network Attached Storage], and our new AX4, which comes in either Fibre Channel or iSCSI configurations.</p>
+          <p>Our breadth of choice is paying off here in a number of ways.  For example, in Q4 over 50% of our CLARiiON CX3 unit sales were again dual-protocol, Fibre Channel and iSCSI systems. In addition, our NAS business had a great Q4, headlined by the Celera NS20 products, which had excellent results in its first full quarter of availability. The NS20 is shaping up to be one of the fastest growing products we have ever brought to market. This product is making a real impact on the market and is very popular with customers and channel partners for its ease of use. In fact, a couple of weeks ago, I personally installed one in less than 15 minutes.</p>
+          <p>In addition to strong storage systems growth, there are several important trends that are also driving growth in our Information Storage software products.  Demand for backup and recovery solutions continues to grow and revenues from our BRA [Backup, Recovery and Archiving] software, which includes our Avamar and NetWorker products, were up double digits for the quarter and for the year.</p>
+          <p>Additionally, the trend towards backup-to-disk continues to gain momentum while backup-to-tape is declining. A recent survey indicated that the number of customers offloading primary storage to tape will decline from 60 to 70% today down to 30 to 35% in 2009. Other trends in storage include demand for file-based virtualization and model-based resource management.  Our Rainfinity and Smarts software products both grew double digits this year as a result.</p>
+          <p>I would also like to comment on the progress we have made in building out our storage go-to-market capabilities. As you know, we have been putting a lot of focus on investments in our Commercial business. I'm pleased to say that our storage product sales to commercial customers hit a $2 billion run-rate this quarter and revenues were up 25% this year. It's great to see our efforts paying off.</p>
+          <p>In Q4, Dell represented 12.6% of EMC total revenues. Within this total, Dell was about a third client revenues and the balance came from a broad mix of EMC's Information Storage, Content Management, Security, and VMware products.</p>
+          <p>As you are seeing from our recent announcements, we continue to raise the bar and entered into new storage markets in the first few weeks of 2008.  We are the first information storage provider to introduce Enterprise class flash drive technology into high end systems in addition to several other new capabilities like virtual provisioning. Out technology, innovation, and leadership for the high end market continues to outpace our competitors.</p>
+          <p>We introduced our new CLARiiON AX4 network storage system. This is a highly flexible and scalable SAN system for small and medium businesses that supports iSCSI or Fibre Channel SAN and works especially well in VMware environments. We entered the Consumer Storage market with our EMC LifeLine software that we sell through OEM partners. This powerful new storage software is designed for the consumer and SOHO [Small Office/Home Office] market and helps people centralize all their digital files: photos, videos, music, business records, safely and securely all in one place.</p>
+          <p>In October, we acquired Berkeley Data Systems, more commonly known as Mozy, which is an online backup and recovery service for desktops and laptops and remote window servers, and is very popular with consumers. Last week, we introduced our new MozyEnterprise service designed to help large enterprise customers. We are very excited about this market growth potential.</p>
+          <p>EMC has the broadest and most integrated portfolio of information storage products and solutions in the marketplace. Our portfolio now spans across the consumer, mid-tier, and high end markets; and our products are known as the most reliable in the industry and supported by the best service organization. We will continue to expand our storage portfolio this year, bringing out new products faster than anyone else whilst moving strategically up and down markets.</p>
+          <p>Turning now to our Content Managing and Archiving business, we had strong growth in Q4 and revenues were up 17% over Q4 last year. Within this, license revenues were up 8% and maintenance and professional services revenues were up 25% over Q4 last year. Last quarter, we expressed confidence in our pipeline of business, in enhancements we made to our go-to-market model, and in the overall competitiveness of our D6 product portfolio. These factors along with our partnerships with several of the leading global systems integrators drove our strong finish to 2007.  For the year, Content Managing and Archiving revenues were up 13% over 2006. After a sluggish start, we saw this business accelerate through the end of the year, heading into 2008 with good momentum.</p>
+          <p>There continues to be an avalanche of unstructured data being created by businesses across every vertical market and they are looking for scalable solutions to effectively manage their huge volumes of content. At the same time, customers are looking to improve their business efficiencies, increase productivity, and meet compliance and risk mitigation requirements.  EMC is the only content management provider that offers customers a comprehensive, unified content management platform to manage all types of content across the enterprise within a common information infrastructure. Our Content Managing and Archiving business has the right products and the right partners to achieve continued growth and share gains this year.</p>
+          <p>Now let me turn to the RSA Information Security business. Revenues in Q4 were up 30% over last year and up 24% for the full year on a comparable basis. We have seen consistently strong results from this business throughout the year. EMC is the only information infrastructure vendor with a dedicated security division and we have an unparalleled breadth of solutions that address many areas of risk across the data center. Our dedicated focus on information centric security and our ability to provide holistic solutions to risk management are very strong competitive advantages.</p>
+          <p>Information is a top priority for customers and this is driving &#x2013; information security, sorry, is a top priority for customers and this is driving strong demand for our information discovery and classification services and our identity assurance, data security, and security information and event management products.  Over the course of the year, we strengthened our security portfolio through acquisitions and via synergies with EMC products. In addition, our RSA business has benefited from EMC's strong alliance partner network.  Looking ahead, we believe that the market demand for information centric security solutions will continue to be strong and we are well positioned for future share gains in the security markets we serve.</p>
+          <p>An important factor in the success of our EMC Information Infrastructure business is our services organization, which spans across our Information Storage, Content Management, and RSA security businesses.  Just to give you an idea of how important this organization is to our customers, the services revenue grew 19% in 2007 to $3.4 billion. Over 11,000 Information Infrastructure professionals work in this organization. Approximately half of our Information Infrastructure services revenue and the fastest growing part is generated by our professional services organization that is helping customers lower their IT costs, meet service levels, protect their information, and gain maximum value from the use of our products.</p>
+          <p>We are seeing demand for our professional services business continue to grow. Several of our recent engagements have been generated by our expertise in compliance, risk assessments, and virtualization deployments. We expect these types of projects to be a strong focus for our services organization in the coming year and a strong catalyst for sales of EMC Information Infrastructure solutions. To support this demand, we have made investments in our integrated service delivery model and made acquisitions to expand our expertise and services capabilities. We are very proud of EMC services and believe they are an important competitive advantage. No one else has the number of people nor the level of expertise to match EMC's Information Infrastructure services capabilities.</p>
+          <p>Looking back at 2007, we achieved solid growth and market share gains in each of our business units. We grew revenues in Information Storage 10%; Content Management and Archiving 13%; RSA Security 24%; all clearly faster than the market growth rates and representing share gains in all three businesses. We believe these growth rates and share gains reflect the success of our strategy to deliver solution sets that are differentiated from both our traditional competitors and from small startups.</p>
+          <p>Looking ahead, we expect our core markets to continue to show good growth, driven by the explosive growth of information. In 2007, IDC estimated the amount of digital information created was growing at nearly 60% per annum. This growth rate might actually tick up a bit when they provide an update to their projections this quarter. The important point is that this information explosion is driving the need for new technologies and new approaches for customers trying to manage it all. And clearly some of the major areas where customers need help are Storage, Content Management, and Security. Because of these drivers, we expect the markets we address to again show good growth in 2008.</p>
+          <p>Taking into account the uncertain economic environments, we currently anticipate growth in Information Storage of about 5%; Content Management of about 8%; and Security of about 16%. Combined, this is a total addressable market growth rate of approximately 7% in 2008.</p>
+          <p>Given the dedicated folks we have on these markets, the strength of our offerings, and the share gains we achieved in 2007, we plan to again outpace the market this year.  We expect EMC Information Infrastructure revenues to grow around 9% to approximately $13 billion this year; and we expect EMC Information Infrastructure non-GAAP EPS to grow around 11% to approximately $0.88.</p>
+          <p>I will now turn to a few highlights of EMC's consolidated results. Total fourth quarter revenues were a record $3.8 billion, up 19% from Q4 last year and included approximately 320 basis points from currency. Our non-GAAP earnings per share were $0.30, up 28%, and included $0.04 from VMware.</p>
+          <p>For the full year, EMC consolidated 2007 revenues were a record $13.2 billion, up 19% over 2006, and included approximately 230 basis points from currency.  And EMC consolidated non-GAAP earnings per share were $0.91, up 26%, and included $0.12 from VMware.</p>
+          <p>So you can get a sense of the impact of VMware, I've broken out the VMware results as recognized within EMC on the slide as well. As you can see, they had a great quarter and a great 2007.  As VMware said last night, they expect revenues to grow approximately 50% in 2008. Within EMC, we expect VMware non-GAAP earnings per share to grow around 33% to approximately $0.16. The difference in these growth rates is primarily due to the accounting for the minority interest in VMware not owned by EMC.</p>
+          <p>VMware Virtual Infrastructure is having a tremendous impact on the IT marketplace. VMware's growth is being fueled by the rapid expansion of customers using VMware's products in production environments. We are very encouraged that we continue to see VMware Virtual Infrastructure as a key driver for network storage deployments. In fact, a recent survey estimates that penetration of network storage attached to servers in the enterprise will grow from 48% in 2007 to 77% in 2009, driven in large part by server virtualization. This bodes well for EMC's business in 2008.</p>
+          <p>Turning now to a few other consolidated income statements and balance sheet items. I am pleased to report we had double digit growth in all four of our major geographies: North America, EMEA, APJ, and Latin America in the fourth quarter and for the full year 2007. There are a few key factors driving this balanced growth that also position us well for continued success.</p>
+          <p>First, we have focused this year on investing in our worldwide presence. We now do business in over 50 countries and revenue from our international operations was up 23% in the fourth quarter and up 22% for the full year. Within this, I'd like to note that revenues from our higher growth countries were at a $1 billion run rate in Q4.  We define our high-growth countries as the four traditional BRIC countries plus another 13 emerging countries where we have a fast growing presence. These 13 countries are in Southeast Asia, Latin America, Eastern Europe, and the Middle East and Africa.</p>
+          <p>We have established Centers of Excellence in Russia, China, India, and Israel. These centers both expand our local presence and help us leverage the intellectual capital and economics available within these regions. We are excited about EMC's future opportunities in these emerging markets and we are only just starting to recognize the return from the investments we are making.</p>
+          <p>Secondly, we continue to expand our go-to-market model. In addition to our extremely strong direct sales force, we focused in the last 12 months on strengthening our channel relationships and our Velocity Channel Partner program is stronger than ever. And it's great to see we have been recognized for our efforts. We were ranked number one in VARBusiness's 2007 Annual Report Card Survey for network storage and storage management software. And in November, we were named CDW's Partner of the Year.</p>
+          <p>And third, we have expanded and strengthened our strategic partnerships and alliances. We partner with the top global systems integrators and outsourcers such as EDS, Accenture, and Wipro, and see tremendous opportunity to leverage these relationships with customers around the world, including the emerging markets. By investing in our worldwide footprint, expanding our sales distribution, and strengthening our strategic partnerships, we have built a strong foundation for continued success in 2008.</p>
+          <p>Now turning to a few balance sheet metrics and cash flow results, EMC consolidated cash flow from operating activities in Q4 was up 50% from Q4 last year, and for the full year it was up 46%, both excellent results. A few balance sheet metrics that impacted Q4 operating cash flow include inventory turns which were 7.7, up from 7.0 in Q4 last year, and DSOs, which were 55 days, up one day from Q3, mainly due to VMware. We continue to focus on driving DSOs closer to 50 days.</p>
+          <p>I'm very happy to say we are reporting excellent consolidated free cash flow results for the quarter and for the year. Consolidated Q4 free cash flow was $712 million, up 78% from Q4 last year. And for the full year, EMC consolidated free cash flow was approximately 2.2 billion, up 79%. We are very pleased with these strong cash flow results.</p>
+          <p>An important way we return value to shareholders is through our use of cash. In Q4, we spent $351 million to repurchase approximately 16 million shares. For the year 2007, we returned a total of $1.45 billion to shareholders by repurchasing 89 million shares. In Q1 '08, we plan to deploy $550 million towards our share repurchase, consistent with what we told you in October.  And looking ahead, our Board is currently considering an increase in our repurchase authorization.</p>
+          <p>In Q4, we spent $183 million on acquisitions across our four business units; and for the year, we spent $692 million on acquisitions. Acquisitions help EMC in several important ways. They extend the reach of our business with new products and put us into adjacent markets. They improve the value of our technology platforms for customers and they strengthen our competitive edge.  In 2008, we will continue to focus on smaller tuck-in acquisitions.</p>
+          <p>We ended 2007 with cash and investments of approximately $8 billion. 3.9 billion of this is held in our overseas operations and in VMware. Our investment portfolio is in good shape and managed conservatively. We have no collateralized debt obligations, no collateralized loan obligations, and no structured investment vehicles in our investment portfolio.</p>
+          <p>Now, just a few other items I'd like to mention that impact our consolidated income statements that you will want to keep in mind in your models; in Q4, our consolidated GAAP tax rate was 13.2%; and for the year it was 18.4%. For the year excluding one-time items, our tax rate was 19.4%. Over the course of the year, we made enhancements to our international tax structure and improved the profitability of our international operations. These improvements caused our actual 2007 tax rate to come in lower than our earlier projections of approximately 22%. In 2008, we expect the EMC consolidated GAAP tax rate to be around 20% and the non-GAAP tax rate to be around 22%.</p>
+          <p>The next two items are very important and are not factored into most of the models that we have seen.  EMC consolidated stock-based compensation expense for 2007 was $0.13 a share. In 2008, we expect this to be $0.18 a share, an increase of $0.05 on the year.  The majority of this is due to VMware. Amortization of intangibles for 2007 was $0.06 per share.  In 2008, we expect this to be $0.08, an increase of $0.02 year on year. The majority of this increase is due to timing of amortization for RSA intangibles.</p>
+          <p>And finally this quarter, we took a pre-tax restructuring and IPR&amp;D charge of $35 million. Approximately $22 million of this was for an increase in the severance expense associated with our Q4 '06 One EMC plan. This restructuring is almost complete, with just a small piece to finalize in Q1. And the remainder of the charge is for rebalancing actions that are underway and will be completed in early 2008.</p>
+          <p>In summary, our consolidated EMC performance in 2007 was very solid and we are very pleased with our company's accomplishments this year.</p>
+          <p>Now I will finish my remarks with some more comments about our expectations for 2008, this time on a consolidated basis.  As one of the most trusted technology partners in IT, we believe EMC is well positioned for continued success. We expect consolidated EMC revenues to be approximately $15 billion and our non-GAAP earnings per share to be approximately $1.04.</p>
+          <p>There are a number of reasons why we will continue to be successful this year and beyond. We are aligned with the key IT trends and priorities. Our business is focused on the right growth markets. We are successfully expanding our presence with commercial customers and in high growth countries. We are entering some important large greenfield markets.  Our product portfolio is stronger than it has ever been and we are focused on driving efficiencies across the business.</p>
+          <p>When you add all this together, we have a very strong and diversified business model. This model gives us advantages in the marketplace where our traditional competitors do not have the focus and expertise and startups do not have the scale. Our operational game plan is very much in place and our goal is to continue to gain share and deliver solid results in 2008.</p>
+          <p>With that, I'll turn the call over to Joe.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thank you, David. I would like to add my welcome and thanks to all of you who have joined today's conference call. I am very pleased with EMC's execution and performance in Q4 and throughout 2007. We said coming into the year that we would make 2007 our breakout year and I believe it was in several dimensions.</p>
+          <p>Let me take a quick look at the four key initiatives that underpinned our success. First and foremost was our laser focus on exceeding the goals which we set for ourselves at the beginning of the year. We achieved full year's revenues of 13.23 billion against a goal of 12.75 billion. Including the one-time gain on the sale of VMware shares to Cisco, we achieved adjusted GAAP earnings per share of $0.72 against a goal of $0.64. And we achieved free cash flow per share of $1.02 against a goal of $0.71 cents for the year.  And very importantly, these results were delivered very consistently quarter upon quarter, demonstrating the robustness and power of our business model and strategy.</p>
+          <p>Second, we organized ourselves into four business units: Storage, Content Management, and Security, which collectively executed on our Information Infrastructure strategy, and VMware, which executes on its virtual infrastructure strategy. This made it easier for both customers and investors to understand our strategy and distinctive value.</p>
+          <p>Third, in the middle of the year, we launched a very successful initial public offering of VMware. This IPO clearly met its key goals of unlocking shareholder value and putting a brighter spotlight on VMware and the power of its virtual infrastructure strategy.</p>
+          <p>And last, we launched our One EMC initiative. Our One EMC business model interlocked our Storage, Content Management, and Security business units to help create rich information based solutions for our customers.  This synergy made EMC easier to do business with and helped drive our top line. Our One EMC business model also provided for shared services and support that provided leverage to the bottom line.</p>
+          <p>Obviously, these accomplishments would not have happened without the commitment and sacrifices of all the people in EMC and VMware that they made throughout 2007. I would like to publicly thank them for everything they did to make sure our customers' experience was second to none.</p>
+          <p>Now turning to 2008, the economic environment will for sure be more challenging and more uncertain than it was in 2007. The forecasts do point to global growth both in GDP terms and IT spendings, but there will be opportunities for EMC to grow. As I look at 2008, I truly believe EMC has never been better positioned. We have the best product lineup in our history and a very favorable product cycle. Our proven go-to-market model is firmly in place, and we have plans to hone it even more.</p>
+          <p>Perhaps most important, EMC is well positioned in areas where IT spending will grow the fastest this year. CIO survey after CIO survey point out that virtualization, storage, security and risk management, business continuity, compliance, and energy efficiency are top-10 spending priorities, and again this is where EMC is positioned and focused.</p>
+          <p>So let's dissect the statement I just made, EMC has never been better positioned. In doing so, I would like to answer a question that I've been asked quite a bit lately that goes something like this.  Assuming there is a downturn this year, why is EMC better positioned now than it was back in the 2001-2002 downturn?  Now, the answer is it's night versus day. Looking back to 1999 and 2000, a significant portion of our revenues came from dot-coms, new wave telcos, e-business ventures, et cetera. When the '01-'02 downturn took place, almost all of these companies stopped buying from us.  In fact, a very large percentage disappeared altogether, and much of this equipment came back in the market.</p>
+          <p>In '01-'02, we were still primarily only a high end storage company that sold the vast majority of our products in large, developed countries. Our pricing strategy was to price at a significant premium, and with the downturn, our ability to premium price was diminished. To cap things off, our flagship product, the Symmetrix 5.5, was at the end of its product cycle and help was quite a ways off.</p>
+          <p>Fast forward to today, EMC in 2007, and start with a look at our storage lineup and strategy, which is in the midst of the strongest product cycle EMC has ever had. The new DMX-4 began shipping 4.5 months ago and is going strong. Two weeks ago, we announced the most comprehensive virtual provisioning capabilities in the market. This will take thin provisioning to new heights. We also announced flash drives and new software to utilize them properly. I truly believe flash drive technology will revolutionize the storage array industry over the next several years. EMC was first here, and we will lead this charge.</p>
+          <p>CX3 is the most widely deployed mid-tier platform in the world, and a new innovative software we announced last July continues to provide strong market momentum. We just launched our dual-protocol low end array, the AX4 is off to a very strong start, and we will set the bar in the iSCSI storage market segment this year.</p>
+          <p>Our recently announced unified storage product family that supports Fibre Channel SAN, iSCSI, and NAS, the NS20 and NS40, is just plain white hot. Q4 marked the second quarter in a row that we just sold out.  Look for us to extend this lineup this year. Our recently announced Centera Gen 4 features lower storage costs and reduces power consumption by 67%. The new Centera clearly helps customers to meet their needs for archiving their important information securely and cost effectively with quick access.</p>
+          <p>2008 will mark EMC's entry into the rapidly growing Web 2.0 storage market. In fact, we have already GA-ed an all-new hardware system which has been shipped to a limited set of customers.  Look for us to launch a new OS for this system later this year and we will make more of an extensive splash at that time.</p>
+          <p>Finally, we announced at the recent Consumer Electronics Show our first storage software solution called LifeLine for the consumer and SOHO markets. Our first two partners here are Iomega and Intel.</p>
+          <p>I think you will agree we have a very strong storage lineup in 2008, a very sharp contrast against 2001.</p>
+          <p>Now turning to our Content Managing and Archiving business unit, which we didn't even have in 2001 and 2002, here too we have a strong product lineup and a very favorable product cycle going for us. The big news in 2008 in our Content Management business is the integration of document input management, with business process management, with document output management. This will uniquely position EMC to handle the full lifecycle interaction of information for our customers and their customers.</p>
+          <p>On the input side, we are moving our solutions from high volume scanning to multifunction capture. Multifunction capture supports capture via scanning, via faxing, and from electronic forms. This input is then processed by our new SOA based Documentum 6, or D6 platform as it is better known, which has had very strong and a very broad market acceptance. The robust D6 platform supports transactional workloads, supports the knowledge worker via the Web, supports interactive customer experiences like rich media, and assures compliance.</p>
+          <p>Finally, the pending acquisition of Document Sciences will mark our entry into the multichannel document output management. In other words, we will manage and personalize the output to print, to the Web, to self-service portals, or to e-mail. The key source here for our success is both the depth and completeness of our Content Management solutions.</p>
+          <p>Our RSA Security business, again another new business segment since 2002, will also have a strong 2008 product lineup and cycle going for us. In 2008, we will launch a new generation of our Authentication platform. We will continue our focus on securing any information itself through additional encryption solutions in a robust, centralized key management platform. We will launch our data or loss prevention solution based on technology we obtained from our Tablus acquisition. We will continue to help our customers prove compliance with our extremely successful Envision product suite.</p>
+          <p>You will hear more about the 2008 RSA products and plans at the RSA Conference in San Francisco on April 7 to 11. The RSA Conference is the industry information security conference, and this year over 18,000 people are expected to attend. There will be more than 220 sessions and over 350 exhibits.</p>
+          <p>But the real power of EMC's Information Infrastructure comes to life when we blend these best of breed products from across our business units into solutions for our customers. Our virtual infrastructure strategy calls for storing the vast amounts of information that enterprises of all sizes generate every day on a proper tier of storage extremely reliably and very economically.  Once this information is properly stored, we apply software technology to assure that this information is always available. We assure the information itself and the access to that information is secure. We assure compliance when the information is archived, organize and manage unstructured information so it becomes a true asset to help customers manage and get maximum utilization from their IT resources by applying a range of virtualization and resource management technologies.</p>
+          <p>Also key to our Information Infrastructure strategy is a broad set of services that helps our customers design, implement, manage, and support their information infrastructure. These solutions are delivered by our over 1,100 people service organization, by our all-important partners who are the world's leading service, systems integration, and outsourcing companies.</p>
+          <p>And now I'd like to add some comments on our global go-to-market initiatives as well as some of our other new avenues of opportunity for EMC in 2008 and beyond. As David said, during 2007 we continued to build out our Centers of Excellence around the world.  Centers now exist in India, China, Russia, and Israel. In Q4, we opened up an integration center for Southeast Asia and Singapore. We made these investments not only to draw upon the talent that exists in these regions but also to be closer to our customers in multiple ways in those fast growing parts of the world.</p>
+          <p>In 2007, our BRIC plus 13 companies represented nearly $1 billion of revenue for us. Both the markets and EMC's growth rates here are strong. And while we are pleased with the results of the investments we have made to date, we believe these markets represent an exceptional opportunity for us. We are investing in sales and services resources to capture it.</p>
+          <p>As we look further into 2008, we are also well positioned with what we see are several greenfield opportunities for EMC. The SMB market is the fastest growing segment of the information infrastructure market. We are now focused on it and we have new products which address the needs of customers in that segment of the market. We will get to these customers ourselves and with our channel partners. Our partner ecosystem is strong and getting stronger every day.</p>
+          <p>The Web 2.0 space is rapidly expanding and again we have new products to meet the opportunity. We have the sales teams in place and thus we have the ability to get into another significant information infrastructure market where we have not played in the past. Additionally, the introduction of our new consumer focused products such as LifeLine and our SAS offering, Mozy, we are building the ability to get to the consumer and SOHO markets. These are also fast and large markets &#x2013; fast growing and large markets and have not been part of our opportunity profile in the past.  Any way you cut it, you can see we have many existing and new products to attack &#x2013; ways to attack the market in 2008 and we are well positioned and focused on success.</p>
+          <p>To demonstrate our focus and commitment to success in 2008, we would like to share with you the financial goals that the EMC Board of Directors approved for EMC management this year. Our revenue plan is to achieve $15 billion in sales, and our non-GAAP EPS is $1.04. The Board plans to add a free cash flow per share metric at an upcoming meeting and these three goals will be published in our proxy filings this March.</p>
+          <p>With that, I would like to turn it over to Tony to moderate the Q&amp;A portion of today's call. Tony?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks, Joe. Before we open up the lines for your questions, as usual we ask you to try and limit yourself to one question and that includes clarifications.  That will enable us to take as many questions as possible. Thank you all for your cooperation in this matter. Julie, can we open up the lines for questions, please?</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you. <mark type="Operator Instructions" />. Our first question comes from Brent Bracelin, Pacific Crest. Your line is open.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Thank you. Joe, I really wanted to ask the first question around Dell.  Obviously, you had a very strong quarter, but the Dell contribution did decline sequentially for the first time during what is a seasonally a strong quarter and was flat year over year. Why did you see the Dell contribution trend down and how should we think about that Dell contribution in 2008?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Brent, the real guts of the partnership we have with Dell, which we've extended and is a very important partnership through 2011 is based on the CLARiiON product family. And as you can see, that was still approximately one-third of our revenue. We consciously, and Dell consciously, and there are some other products that Dell used to sell where their margin profiles were lower and as they change their business model, there would be less emphasis on products like Symmetrix. So in the core areas that we are partnering on, we're still very pleased and it's still a very strategic relationship for us.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question is from Keith Bachman, Bank of Montreal. Your line is open.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Hi, guys; thank you. Joe, I was just hoping you could talk a little bit about the cadence of orders relative to the macro backdrop and how you see the pipeline against traditional seasonal trends in the March quarter. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Keith, let me do it this way.  Obviously, we are stating in several different ways that this market is more uncertain. We are being very clear that we think there is absolutely going to be IT spending growth in 2008. However, it will be a couple of points less we believe right now than it was in 2007. To date, we haven't seen much negativity happen in the market but obviously I think it is prudent upon us to be cautious and there was some caution in our guidance and others'.  As we gave the guidance, we were factoring the strength that we have in the underlying company and the relative unknown in the market and doing the best we can to give you a <mark type="inaudible" />. To date, we have not seen much on the downside, to tell you the truth. But again as we go forward, I think being cautious is the order of the day.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Keith. Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>You have a question from Paul Mansky, Citigroup.  Your line is open.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Hi, Joe, thanks for taking the question. I guess within the context of your market share gain statements, relative to some of your larger competitors, and I know we could potentially put Dell in that category down at the lower end of the market, but I am more specifically thinking HP, IBM, Sun, some of the legacy guys.  They collectively retrenched around the bubble.  They took a step back in the storage market, but we very much see them looking to regain some of their IP content recently here via acquisition and internal development. How do you see that competitive dynamic shaking out over the course of the upcoming year?  Do you see some competitors dropping off and others picking back up?  Any type of color you could relay for us will be appreciated.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>The investments here are immense. I mean we got tremendous benefit from what we call our One EMC initiative, and as you can see, I think we did what we should do. Number one is we delivered upside throughout the year.  And number two, we invested a lot of that upside back into the business. And I believe the game in the storage business is going to be &#x2013; it's a very high investment area and one where &#x2013; customers don't want to buy separate systems for thin provisioning or de-duplication or a spin down, or a lot of these other techniques that are very important. So what we're doing is we're taking all those and building them into our core products, every one of those capabilities. The good news is every one of those is here now or will be here shortly and available for 2008.</p>
+          <p>Mostly what's happening is you are seeing one-offs being bought; and we are developing some special products too like for the Web 2.0 I alluded to and for LifeLine for the consumer.  But most of what we are doing for our core market is building all those capabilities in. And so I still like the shape we are in. Obviously it is a big market.  It has got growth rates above the industry average, the IT industry average, and we are going to get some competition, and we have always had competition.</p>
+          <p>We have the size.  We are going for $15 billion this year.  We have the 11,000 service people; we have got 9,000 people in our selling and customer facing organization on that side. So now we've got a strong position and we are going to continue to strengthen it. We've got the balance sheet to do that both organically and through acquisitions and that is where we are going to play it. So yes, it's more competition but it is the same competitors we have always had.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Great, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thank you, Paul. Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>You have a question from Shebly Seyrafi, Caris. Your line is open.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Yes, thank you very much. So I noticed that in your seasonally strong calendar Q4 where you were up 16% sequentially in revenue that your gross margin was basically flat on a percentage basis sequentially and that's abnormal.  Usually you are up close to one percentage point sequentially. I am wondering what happened and what you expect to achieve with your gross margin longer term as VMware and other software increases as a percentage of the mix.  Do you have any targets over next year or two? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Yes, Shebly, let me take this one. We are not going to give you gross margin targets. I think you can see that we've factored some operating leverage into the guidance which we gave you for 2008, particularly for the EMC Information Infrastructure business.</p>
+          <p>But to answer the first part of your question, let me just give you a flavor for what's happening in gross margins. I think your comment was really to do with the gross margins for the EMC Information Infrastructure business. What we saw happening sequentially, first of all, we pointed out to you the investments we made in the SG&amp;A line. Normally you'd expect leverage in the SG&amp;A line in Q4 as well and we invested that back into the business in the areas which I spoke about.</p>
+          <p>On gross margins, what's happening is a couple of phenomena inside of EMC Information Infrastructure. The first is that product margins are improving and product margins improved sequentially and improved year on year. And what you're seeing is that as our Professional Services becomes a bigger piece of our Services margin, that has a slight headwind effect on Services margins, so the increase in product margins is slightly offset by a reduction in Services margins both sequentially and year on year.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Shebly. Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>You have a question from David Bailey, Goldman Sachs. Your line is open.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Yes, thank you very much and good morning. Could you just give us a little more detail about where you expect to gain share in '08, in what areas, and how much acquisitions will contribute to the 9% top line growth in your core business?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>I guess you've got two separate questions, I think. Most of the growth we had this year &#x2013; we did a number of small acquisitions, none of which had any significant revenue profile to it in 2007, so the vast majority of what we did in 2007 was organic. I'm not sure how to answer that going forward.  What we put forward is the organic growth.  We do expect obviously there to be a few tuck-in acquisitions in there that won't &#x2013; again like we did last year.</p>
+          <p>And the first part, the areas of growth are pretty much the ones that we talked about. I think on the new side, the SMB market is &#x2013; we don't have much share there at all, so everything we do there is going to be upside growth. The Web 2.0 market, we don't much share there at all; anything we do there will be all upside. In the BRIC countries, we talked about we had good growth, significantly above the EMC average but we know we can and will do better, and that's going to provide upside in the BRIC plus 13 countries.  In the storage and software-as-a-service, that's a startup business for us that will come on and add growth.  And of course in our traditional markets where customers are worried about business continuity and customers are worried about -- and want to save money by consolidation, those are all strong markets for us and we have been nothing short of killing it in the commercial marketplace. So I think that hits upon the broad areas you mentioned.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, David. Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We have a question from Bill Shope, JPMorgan. Your line is open.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay, thanks. Joe, in the past you have talked about the differing expectations for the high end storage systems business versus the midrange and lower end storage systems business. Obviously this quarter, we saw some convergence, which clearly I am assuming is temporary from a product cycle. But can you give us an update on how you think about that dynamic, the relative growth differential between those two?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes, I think, Bill, we have been pretty consistent in saying that we think the high end storage market is a single, is a mid-single digit grower, lower to mid-single digit grower.  Obviously that gets affected very much by product cycles, where at the end of a product cycle might slow down; the beginning of a new product cycle, as you saw here, it's sped up and I think that's going to continue.</p>
+          <p>The one nuance is that as you scale out these systems with &#x2013; there are now thousands of drives you can put in them and now with our new ability to put -- or unique ability to put SATA drives inside a Symmetrix and adjust quality of service, so that means we can &#x2013; as we put, say an archive layer of drives in a Symmetrix, we can make sure that we don't let that kind of workload deteriorate the performance from an online transaction processing workload. As we put those capabilities in, it actually becomes a pretty inexpensive way of adding another tier of storage, so that could give it some revival.  But with that caveat, we still expect it to be a mid-single digit grower and a business that has got great cash flow and one we have a great position in.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>And on the midrange?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>The midrange I think is going to continue to be a double digit grower for us. As I said, we are a strong believer that certainly in the midrange and in the low end that the multi-protocol systems are going to dominate because we have a tremendous success, because in these systems, you buy the system and as the customer's workload changes and grows, they can use iSCSI SAN, they can use Fibre Channel SAN technology or they can use network attach for file and print work, and to be able to do that and have that kind of flexibility is a tremendous advantage.  So between those multi-protocol systems and the dual-protocol systems which are Fibre Channel and iSCSI systems, I think have great legs on them to continue to grow in that mid-teens range.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Great, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Bill. Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>You have a question from Kaushik Roy, Pacific Growth. Your line is open.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Congratulations on great Q4. I understand you're not giving Q1 guidance but can you comment how much of your yearly revenue typically comes from Q1?  Last year I think you mentioned it was about 23% so do you expect similar in 2008?  Historically, EMC Q1 revenues have been down 5, 6% sequentially, so do you expect similar in Q1?  And then second, within your full year revenue guidance, are you including any impact of currency; if so, how much?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>At the risk of getting punched by David, I will broadly state that I wouldn't expect our calendarization this year to be much different than it was last year. David, do you want to comment on the currency?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>We're really haven't factored in currency. It is very difficult to predict, so we don't make any explicit assumptions about what is happening with currency in our guidance.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay; thanks, it's helpful.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Kaushik. Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We have a question from Chris Whitmore, Deutsche Bank. Your line is open.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thanks very much. I wanted to come back to the gross margin issue and the overall pricing environment. Given the ramp of DMX and the mix of software, I would have expected a little bit more margin leverage on the gross margin line.  Was there a change in pricing during the quarter or the competitive environment? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Chris, no, we look at that as we mentioned to you before, we look at what has happened to pricing in both the high end and the mid-tier separately. I will tell you pricing declines were seasonally normal in Q4, so that was not a factor.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Chris. Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Katy Huberty of Morgan Stanley.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Yes, thanks. Is the plan to continue reinvesting upside into the sales and distribution initiatives that you mentioned such that SG&amp;A as a percentage of revenues may not fall as much as some expect given the One EMC initiative?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Katy, let me take that. Certainly we absolutely produced leverage in the business last year in EMC Information Infrastructure and the One EMC program helped. But we also delivered above market growth rates and we are entering into new markets. So what we're doing is we are taking the opportunity to invest the leverage we are generating in the business back in expanding the business both in a geographic point of view into new markets and into the commercial and SMB segments. So we are taking advantage to take the leverage that we have built, put it back into business and generate above market growth, and that has been our approach as we have gone through the year.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>And that continues in '08?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Yes, you should expect that to continue. We talked about entering into new markets and we have given you guidance which would indicate we continue to have market share gains, so yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Great, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Katy. Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Brian Freed from Morgan Keegan.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Hey guys, good quarter. As you look to your '08 guidance, I mean the headline reaction is you guys guided lower than the Street on a GAAP basis and I understand that it's primarily related to higher non-cash expenses than most of us on the Street were expecting. Can you talk a little bit more about the factors and assumptions that are driving those higher non-cash expenses on your part?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Yes, certainly, Brian, let me take that. You're absolutely right. When we looked at most of the Street models and as you would expect us to do, we looked at everybody's model before the call.  Most people were probably about $0.10 light on the amount of stock-based compensation and intangibles compared to what we guided at.  And then of course, most people didn't have the lower tax rate, which would have brought you up by about $0.04. So probably if you took people's guidance and you normalized it, there's about a $0.06 difference; so we actually probably did better in guidance than you were expecting for us on a normalized basis.</p>
+          <p>Let me talk to you about the pieces why stock-based compensation and intangibles are higher and I don't think why people haven't factored in . I mentioned the intangibles are going to be an increase this year and $0.02 on the acquisition intangibles and that's basically due to the timing of the amortization of the RSA intangibles.  Simply, it will be a higher number in 2008 than it was in 2007, so that is a couple of cents of the difference.</p>
+          <p>The other area where people I think did not have this factored in because the numbers just weren't clear is stock-based compensation. We said stock-based compensation will go up by $0.05 a share this year and basically $0.03 of that is due to VMware.  Of course, the options we issued during the IPO and subsequently throughout the year become a fairly large expense, non-cash expense in 2008.</p>
+          <p>And then on the EMC side, there's a couple of pennies a share increase in stock-based compensation, principally due to two factors. One is that we were issuing options at the end of 2007 at $19.11 a share versus &#x2013; vis-&#xE0;-vis options we issued in 2006 at $9.75 a share.  And also in 2006, we did not have the senior management team, basically Senior Vice Presidents and above in the grants and we did in 2007. So those are all factors and hopefully they will help you normalize your models.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Great, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Brian. Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Bill Fearnley of FTN Midwest.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Yes, good morning. Could you guys give additional color?  Joe, you talked a lot about going after the SMB market more and more.  What's the overall effect on SG&amp;A, gross margin, and operating margin as you go into these lower markets?  Is the margin profile better or worse than the core? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We actually think the gross margin profile is going to be better and the &#x2013; I shouldn't say it that way.  We actually think the operating margin profile will be better.  Probably what you see is we use &#x2013; gross margins might be a tick lower because we are going to use more channels, sales to attack that market, more inside sales to attack that market. On the other side though, the operating margin should actually be a little bit higher.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Bill.  We have time for one more question and then Joe will have a few concluding comments.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question is from Tom Curlin of RBC.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Hi, good morning. As we approach, actually, calendar 2009 and more I guess beneficial tax treatment of VMware, how are you going to weigh strategic factors versus financial and valuation factors in deciding what to do with your interest in VMware in terms of keeping it versus spinning it out? And can you just elaborate on what degree or specifics in terms of strategic versus valuation side?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Tom, I'm not going to get into those specifics now; a couple of points though. First and most importantly, both EMC and VMware are performing very well. That is the first and most important thing for us all because that builds long term shareholder value. As we said before, VMware has only been a public company for two quarters and we are very pleased with the performance of our asset mix and have no plans to distribute it at this time. But I assure you, management and the Board is focused on doing what will create maximum shareholder value for both sets of shareholders over the longer term. I know I am not answering your specific question but that's all I want to comment on now. Thank you, Tom.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>All right. Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Let me thank everybody for your interest and calling in today for our conference. I really do appreciate it. We are clearly focused on success in 2008. I believe we have a great set of products and our strategy is resonating well with customers, and very importantly, we have momentum. If you walk around the halls of EMC, there is a winning attitude. I believe we have a first rate management team and we are very fortunate to have 37,000 very talented people throughout the world committed to our success this year. Though, I can't help but -- obviously we are facing uncertain economic times but EMC itself couldn't be better positioned. Again, thank you for your interest today. Bye-bye.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>That concludes today's conference. You may disconnect at this time.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

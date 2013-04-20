@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1492487" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q2 2012 Earnings Call</title>
+    <date>2012-08-02</date>
+    <companies>
+      <company>1562</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep" affiliation="Controller">Jody L. Balko</participant>
+      <participant id="2" type="corprep" affiliation="President, Chief Executive Officer &amp; Director">Patrick D. Daniel</participant>
+      <participant id="3" type="corprep" affiliation="President &amp; Director">Albert Monaco</participant>
+      <participant id="4" type="corprep" affiliation="CFO &amp; Executive VP-Corporate Development">J. Richard Bird</participant>
+      <participant id="5" type="analyst" affiliation="CIBC World Markets, Inc.">Paul Lechem</participant>
+      <participant id="6" type="analyst" affiliation="Credit Suisse (Canada)">Andrew M. Kuske</participant>
+      <participant id="7" type="analyst" affiliation="Scotia Capital Markets">Matthew Allan Akman</participant>
+      <participant id="8" type="analyst" affiliation="RBC Dominion Securities, Inc.">Robert Kwan</participant>
+      <participant id="9" type="analyst" affiliation="TD Securities">Linda Ezergailis</participant>
+      <participant id="10" type="analyst" affiliation="Canaccord Genuity Corp.">Juan Plessis</participant>
+      <participant id="11" type="analyst" affiliation="UBS Securities Canada">Chad Friess</participant>
+      <participant id="12" type="analyst" affiliation="Morningstar Research">David C. McColl</participant>
+      <participant id="13" type="analyst" affiliation="FirstEnergy Capital Corp.">Steven I. Paget</participant>
+      <participant id="14" type="analyst" affiliation="The Globe and Mail">Carrie Tait</participant>
+      <participant id="15" type="analyst" affiliation="Reuters">Jeffrey Jones</participant>
+      <participant id="16" type="analyst" affiliation="Sun News Network">Cindy Pom</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good morning, ladies and gentlemen. Welcome to the Enbridge, Inc. Second Quarter 2012 Financial Results Conference Call.</p>
+          <p>I would now like to turn the meeting over to Jody Balko. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, Carissa. Well, sorry for that delay. For some reason we were unable to call into our own conference call here and then we were on hold for a bit of time. So, anyway, we will get things underway.</p>
+          <p>Good morning and welcome to Enbridge, Inc.'s second quarter of 2012 earnings call. So with me this morning are Pat Daniel, Chief Executive Officer; Al Monaco, President; Richard Bird, Executive Vice President, Chief Financial Officer and Corporate Development; and John Whelen, Senior Vice President and Controller.</p>
+          <p>This call is webcast, and I encourage those listening on the phone lines to view the supporting slides which are available on our website. A replay and podcast of the call will be available later today, and a transcript will be posted to our website shortly thereafter.</p>
+          <p>The Q&amp;A format will be the same as always. We are going to take questions from the analyst community first and then invite questions from the media. And I would ask that for everyone's benefit that you please wait until the end of the call to queue up for questions and that questions are limited to one or two per person. And please reenter the queue if you do have additional questions. And lastly, I would also remind you that Jonathan Gould and I will be available after the call for any follow-up questions that you may have.</p>
+          <p>So before we begin, I'd like to point out that we may refer to forward-looking information during the call. By its nature, this information applies certain assumptions and expectations about future outcomes, so we remind you it is subject to the risks and uncertainties affecting every business, including ours.</p>
+          <p>This slide includes a summary of the more significant factors and risks that might affect future outcomes for Enbridge, which are also discussed more fully in our public disclosure filings available on both SEDAR and EDGAR systems.</p>
+          <p>With that, I'll turn the call over to Pat Daniel.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Jody, and good morning, everyone. Thank you for joining us for a review of our second quarter results. Earlier today, we were very pleased to announce that our adjusted earnings for the second quarter were $277 million, or $0.36 per share. This is an increase of 7% relative to the second quarter of 2011, and cumulatively it puts us at a year-to-date increase in EPS of 10% over 2011. Richard, of course, is going to provide a more detailed discussion in a few moments of each segment's performance in his comments.</p>
+          <p>So based on this performance, we continue to be well on track to achieve adjusted earnings within our guidance range of $1.58 to $1.74 per share. Reaching the midpoint of this range would represent a 12% earnings per share increase over our actual results in 2011, and that's generally consistent with the 10% annual earnings per share growth rate that we're confident in achieving through the middle of the decade.</p>
+          <p>As you know, we've had very strong business development success over the past year. The major accomplishment in the second quarter that I'd like to highlight is the addition of our Eastern Access initiatives announced in May of this year. This now takes our enterprise-wide secured capital project inventory to $17 billion. Needless to say, of course, execution of that project backlog will be one of the company's main focuses in the coming years and Al is going to provide an update on that shortly.</p>
+          <p>Also, financing a suite of projects this size is no small feat and Richard is going to update you on the recent funding initiatives in his section of the report also in a minute.</p>
+          <p>Just let me change gears for a moment and discuss the oil release that we experienced last week on Line 14, and also the report of the NTSB on our July 2010 Marshall, Michigan incident. Both, of course, have generated significant media attention and both have prompted questions around our commitment to safety.</p>
+          <p>And I just want to reassure you that our commitment to safety, that of our employees, our contractors, the public and the environment, is the absolute highest priority to Enbridge. As the operator of the world's longest, most sophisticated crude oil and liquids transportation system, Enbridge has always been committed to earning the trust of people that live or work near our operations, as well as all of our customers and partners.</p>
+          <p>Al is going to provide more detail in a few minutes about our operational risk management plan, which we've spoken to you before, and it involves a significant investment to enhance the operational safety and integrity of our liquids pipelines, our natural gas pipeline, gathering and processing, and distribution systems all across Enbridge. Now I'll just take a few moments now to provide our perspective on these recent events.</p>
+          <p>First of all, as you know, we have apologized and we have accepted full responsibility. Most importantly, we have and we will go to great lengths to understand and to implement the learnings from incidents such as these. Our goal is to prevent all spills, all leaks, and all releases. Recently PHMSA and the National Transportation and Safety Board released reports with the findings of their own investigations. And as indicated by the NTSB in the July 10 hearing in Washington, Enbridge has already implemented the majority of their recommendations.</p>
+          <p>Our ability to quickly detect and immediately respond to and contain the leak on Line 14 were critically important. The line was shut down, it was down immediately on pressure drop, valves were closed, personnel dispatched. Also, public emergency responders were excellent on the incident. I'm also pleased to say that our cleanup work is substantially complete in Michigan, and the Kalamazoo River is open for recreational use.</p>
+          <p>So, with that very quick overview, what I would like to do now is just to hand it over to Al, and he'll go through in more detail on the projects and the operational risk management plan. So, Al, over to you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Okay. Thanks, Pat, and good morning, everyone. At the first quarter conference call, you recall I shared with you my priorities going forward. So many of you will recognize the five points on the slide you see here, which I've been communicating as Pat and I have progressed through the transition, and visited with investors and other stakeholders.</p>
+          <p>Now, this morning and in light of recent events, I'd like to focus on the first two of those priorities, followed by the project update. On safety and in operational reliability, we've implemented what we refer to as our Operational Risk Management program or ORM, and that's what Pat was talking about earlier.</p>
+          <p>The objective of the ORM is pretty simple: for us to be the industry leader for safety and operational reliability of our pipelines and facilities across this company. The ORM covers the six key areas you see in the slide. Let me just highlight them briefly. Enbridge as you know has always taken an aggressive proactive approach to pipeline integrity management. We've been one of the largest users in the word of high-tech inline inspection tools. And in 2011 and 2012 alone, we performed more than 200 inline inspection tool runs. In addition to that, nearly 3,000 pipeline excavation, and this is an unprecedented level of activity by any measure in our industry.</p>
+          <p>Looking ahead, we will further increase the frequency of inline inspections and invest in promising pipeline inspection technology. We've reviewed and strengthened public awareness programs to minimize the potential for third-party damage to our facilities. We've enhanced our procedures for leak detection and analysis, and importantly, we've established a pipeline control systems and leak detection department. We've planned significant new spending, as Pat referred to, to improve our equipment, training, and incident response capabilities, and we're investing in new cleanup technology.</p>
+          <p>Our Life Saving Rules were implemented enterprise-wide on January 1 of this year and applied to all employees and contractors. So for these six areas, our intention is to be best-in-class. I want to just highlight three important points about this plan. First, the ORM plan is supported by a comprehensive organizational structure, which specifies accountability for each program area within the business unit. So you've got executive oversight and accountability for each of those areas. We're going to monitor execution of the plan very closely through our operations and integrity committee, which by the way is our most senior enterprise-wide management committee.</p>
+          <p>Second, the ORM plan involves new investment. These dollars have been factored into our five-year plan and taken into account when we talk about our confidence in achieving 10% EPS growth going forward. And finally and most importantly, the ORM plan has been sanctioned by our Board of Directors and we'll provide periodic reports to the board to monitor progress. This comprehensive plan should demonstrate this company's commitment to safety and operational reliability.</p>
+          <p>Project execution is the second priority I'd like to emphasize, and it's next in the line after safety and operational reliability, because good execution of this program will be the key driver of our five-year growth outlook that's going turn into cash flow, earnings, and dividend growth. We are at various stages of execution on the $17 billion worth of secured projects, this slide here captures progress on those projects that we have in construction right now. And you can see, we're pretty much on time and at or below budget across the board.</p>
+          <p>Our major projects business unit is accountable for executing these projects well and they rely on project management skills, standardized processes, and supply chain management. These skills in fact are something that our customers look to. Given the importance of good execution, we're going keep you up-to-date on this slate of projects.</p>
+          <p>Let me now update you on two significant strategic initiatives that I think respond to the changing dynamics of the North American crude market. In May, we were very pleased to move forward with our Eastern Access project, as Pat referred to. Eastern Access is strategic to us because it extends the reach of our system to eastern PADD II, and on the Ontario market. It's very important to producers, obviously, given the price disconnects we're seeing in the market and of course, to refiners who want access to Canadian and Bakken light barrels.</p>
+          <p>There are few elements of this plan that you see on the map here. We'll expand access to Toledo, Ohio, and reverse the remainder of Line 9 to reach Quebec refiners. This will help the refiner's competitiveness and sustainability given they are currently dependent on higher priced feedstock from foreign markets.</p>
+          <p>Last week we were pleased to receive approval for Phase I of the reversal from Sarnia to Westover. We also recently completed an open season for Phase II from Westover to Montreal that will complete the reversal. We're very encouraged by the level of commitment that we received. In fact, we're currently assessing whether or not we can further expand capacity and we'll give you an update as those things progress.</p>
+          <p>In addition, Enbridge and EEP, that's Enbridge Energy Partners, are expanding upstream mainline capacity by replacing portions of &#x2013; remaining portions of Line 6B, rather expanding Line 5 and adding pumping capacity to the mainline in Canada and the U.S. The mainline expansions, by the way, will also facilitate growing volumes to feed our U.S. Gulf Coast initiative.</p>
+          <p>And on that note, our Gulf Coast Access strategy is on track to be a significant game changer for North American crude supply and pricing. The Flanagan South portion is progressing well and right-of-way in engineering work.</p>
+          <p>On the Seaway portion, the first barrel started flowing Southbound in mid-May as projected or I touched earlier. We're flowing near maximum capacity on the line, which is currently 150,000 barrels per day. And in terms of the next phase, we expect to ramp up to 4,000 barrels per day in early 2013, on schedule.</p>
+          <p>Given the level of nominations we're seeing on the system, there's clearly significant demand for more capacity. So the twinning of Seaway will be well positioned to meet that demand. That project is on track for mid-2014 in service, with a planned initial capacity of 450,000 barrels per day.</p>
+          <p>And that would bring the total ex-cushion capacity on the system to 850,000 barrels. So when you look at it in connection with our Spearhead and Flanagan South pipelines, we would have established a major new large volume path to the U.S. Gulf Coast for Canadian and Bakken crude production.</p>
+          <p>Before I pass this to Richard, I want to conclude with this chart here which illustrates what Pat and I referenced earlier, with respect to how earnings will be impacted by our backlog projects in the five-year plan and beyond.</p>
+          <p>By 2015, the majority of our current capital projects will come into service, and the earnings generated from their initial operations in combination with the benefits of our CTS agreement, give us confidence in being able to achieve a long-term annual EPS growth rate of 10% through 2015.</p>
+          <p>Importantly, given the expected ramp up in volumes and the tilted return profile on several of these projects, their earnings contribution are going to continue to grow beyond 2015. So this gives us confidence in being able to sustain the strong EPS growth outlook into the second half of the decade.</p>
+          <p>So with that, let me pass it over to Richard, who will walk through the financials.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Thanks, Al. Good morning. I'll pick up on slide 14 with a review of the segmented earnings. And as Pat indicated, on an overall basis we are quite pleased with the quarter and the year-to-date performance.</p>
+          <p>The second quarter was expected to be soft, but it actually turned out to be stronger than we had expected. Liquids Pipelines earnings in particular continued to run above our expectations. Volumes and tolls have been favorable on the Canadian Mainline, and I'll come back to that in a few minutes.</p>
+          <p>The resulting higher revenue was partially offset by higher expenses due to several factors, which are more specific to the quarter as opposed to being indicative of the run rate, which is going to be closer to the year-to-date rate.</p>
+          <p>The other notable source of strength in Liquids Pipeline is Spearhead which benefited from a high demand to move barrels from the upper Midwest to the less discounted Cushing hub. And this should continue as the Seaway Pipeline begins to drain Cushing's crude inventory.</p>
+          <p>Gas Distribution earnings for the quarter beginning to reflect the drag from the Gas New Brunswick government imposed rate reduction, but otherwise earnings are consistent with our expectations of a relatively flat year for EGD.</p>
+          <p>The Gas New Brunswick regulations will knock approximately 60% or $12 million off last year's earnings from this source, part of that was anticipated in our guidance. Gas Pipelines, Processing and Energy Services as a whole is performing ahead of our expectations so far.</p>
+          <p>With Enbridge services much stronger than expected, even exceeding last year's strong performance, but largely offset by a smaller than expected contribution from Aux Sable. Over the balance of the year, we should see the usual stronger second half for Aux Sable, but not the banner year as initially anticipated.</p>
+          <p>Sponsored investments earnings for the quarter are up over the prior year, but below our expectations, largely due to weaker prices and volumes impacting Enbridge Energy Partners' gathering and processing business.</p>
+          <p>In Corporate segment results are on track with expectations, with higher financing costs inclusive of pressure dividends, reflecting the growth in our asset base. So generally the way the year looks to be playing out is that we're seeing greater than expected strength from Liquids Pipelines and energy marketing, largely offset by a combination of Gas New Brunswick, Aux Sable and EEP's G&amp;P business coming up short of expectations. Overall, we remain firmly on track with our full year guidance as indicated by Pat.</p>
+          <p>Moving on to slide 15, we now have four quarters of experience with the CTS, and the revenue drivers have moved enough in that period to warrant and update. The chart lays out the conceptual revenue determinants we described last year and illustrates how they have evolved in each quarter.</p>
+          <p>Keep in mind that this is a simplification of the many different tolls and commodity types and delivery points that are actually involved. I've introduced an intermediate quantity which I've labeled the IJT transmission revenue proxy. This would be the actual revenue if all the barrels which crossed the border were heavy barrels and heavy barrels that originated at Hardisty and if there were no other sources of revenues to consider. However, not all of the barrels are heavy. Some are light which will have lower toll. Some barrels originated at Edmonton and carry a higher toll than Hardisty, some at Gretna, which carry a lower toll.</p>
+          <p>And furthermore, there are several other sources of revenue, the most significant of which is from mainline deliveries intra-Western Canada under the Canadian local tolls. So this is where the scale factor comes in, a simple rule of thumb to adjust for the combined effect of all of these factors. When we first introduced it, we indicated that it would trend downward over time, and it has, although a little quicker than we expected from 1.2 times in the third quarter last year down to 1.1 times in the most recent quarter.</p>
+          <p>The scale factor can decline as a result of any one or a combination of several factors. A lighter crude mix will move the scale factor down. A shorter average haul distance from the Western Canada receipt point to the border will also reduce the scale factor. Or, an increase in either ex-Gretna volumes or the residual benchmark toll which is not matched by proportionally higher Intra-Western Canadian deliveries and higher Canadian local tolls, and it's primarily these last two factors which have dropped the factor from 1.2 to 1.1 times in a single year.</p>
+          <p>As you can see, the ex-Gretna volumes are up quite significantly since the third quarter of 2011. However, the ex-Gretna volumes haven't been matched by a similar increase in Intra-Western Canada deliveries, which are relatively stable. You can also see a significant increase in the residual benchmark toll from $1.84 in the last three quarters to $2.09 in the most recent quarter. Because this increase is a result of a decline in the Lakehead local toll, not because of an increase in the IJT toll, there is no corresponding proportional increase in revenue from Western Canada deliveries. So, looking forward, we continue to see some quarter-to-quarter volatility, but on an annual basis, we expect the factor to run now at about 1.14 times.</p>
+          <p>So, moving on to slide 16, I'll finish with an update on our funding and liquidity actions, where we continue to bolster our financial capacity and flexibility in support of our ever expanding slate of attractive, commercially secured investment opportunities. It was another busy quarter for us as we received $300 million in cash from our share of the proceeds of the Noverco secondary market placement and then another $400 million from our own primary offering.</p>
+          <p>We issued another slightly over $1 billion worth of rate reset preference shares, inclusive of $450 million of that being issued in July since the end of the quarter. That's for a total of $1.9 billion this year, making us the largest issuer of this security, and we are holding firm at a yield of 4% on these issuances, supporting our objective of maintaining a low cost of capital.</p>
+          <p>Another highlight of the quarter was the issuance of a $100 million 100-year term or century bond by Enbridge Pipelines, bringing total enterprise-wide MTN issuance to $600 million for the year.</p>
+          <p>We continue to lay in additional bank credit facilities with an additional $1 billion for Enbridge during the quarter and a new $675 million facility recently completed for Enbridge Energy partners. That brings additions to our credit facilities for the year to just under $3 billion and total general purpose facilities in place now stand at $11.8 billion. With these actions, we are well-positioned to handle the funding of a record capital program.</p>
+          <p>That's it for me. Back over to Pat.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks, Richard. So maybe what I can do is just very quickly summarize. This has been another steady quarter, has us well on our way to achieving our earnings guidance target for the year, which is centered on a 12% increase in EPS over last year.</p>
+          <p>Secondly, we plan to incorporate any additional funding of PHMSA and the NTSB may have identified in our practices to ensure operational excellence.</p>
+          <p>Thirdly, our major budget group continues to do an excellent job of managing our large suite of projects under construction and moving that towards successful completion.</p>
+          <p>And of course, the funding activities continue on many fronts to finance these projects. And lastly, we remain very confident that we can achieve an annual growth rate and EPS averaging 10% through 2015 and we're increasingly confident in being able to continue that growth trajectory into the latter half of the decade.</p>
+          <p>So that concludes our prepared remarks for this morning. I'd now like to ask the operator to open the phone lines to take questions. Operator?</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" /> And your first question comes from the line of Paul Lechem of CIBC Capital. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Thank you. Good morning. My questions are about the regional oil sands system. So the earnings were slightly down year-over-year. The commentary in the text was about higher operating and admin costs. Just wondering if you can give some color on that?</p>
+          <p>And secondly, with regards to the regional oil sands system, there's been some competitive announcements about new projects in Alberta. Just wondering if that has any implications for some of your planned expansions as to the Athabasca Twin project, the Norealis expansion or project? Can you maybe talk about your ability to continue to grow the regional oil sand system? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Paul, it's Al here. I'll take a shot at that last part of your question, and then I'll turn it over to Richard on the first part. In terms of our regional oil sands position, I think we're in very good shape there. The two big pipes that we have coming out of the oil sands give us a very good position from a competitive point of view. You mentioned some other projects that were recently announced by others. I think that from our perspective, Paul, we're certainly not going to be able to win every project out there and nor would you expect us to I think.</p>
+          <p>So we are in good shape right now. We feel confident about our position there. The Norealis project is on track. Certainly the other expansions related to Wapasu and the twinning are on track, so I think we're in good shape there. And we've got a lot on our plate in the regional oil sands position, so we feel very confident about how we're situated there. So, for the regional side, I'll turn it over to Richard.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Sure. So just in terms of the year-to-date performance, Paul, yes, we've had higher operating and administrative expenses. Probably the most significant factor there was cleanup costs and repair costs associated with a leak on that system, so not something we would expect that's going to have any effect going forward. And, generally speaking, we would expect to continue to see earnings growth on that system as we bring new assets into service.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Okay. Could you give us an order of magnitude in terms of what cleanup cost or unusual costs in the quarter might have been?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Oh, I don't think we're going to get that granular in our disclosure, Paul. They weren't huge but they were enough to affect the run rate.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Okay. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Thanks, Paul.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from the line of Andrew Kuske of Credit Suisse. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Thank you, good morning. Just on the NTSB report, the final version of that that came out, there's actually some scathing commentary in there, not just on Enbridge but also on PHMSA itself. So, given the nature of your industry is very specialized, there's very few players that actually are involved in large scale oil transport. Do you see any kind of need to form some kind of self-regulatory organization to really help drive the regulation of this industry on a go-forward basis?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Maybe I'll take a first crack at that, Andrew. I think the point here is that we need to cooperate with the rest of industry for sure in advancing the technologies around in particular inline inspections. So I think that we're going to make progress in that area with industry. At this point, PHMSA is the regulator. You're right that out of the 19 conclusions and recommendations in that report, we were focused on 6 of them and the rest were allocated I guess to others, including the regulatory agency. So, I think from an industry perspective, we'll continue to work cooperatively together and that's the main focus going forward I think. Pat, anything to add on that?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, I guess, maybe to your point, Andrew, we're very large. In fact, just to give you one statistic in terms of the use of inline inspection, our numbers over the years put us in a position where we've run more inline inspections than the rest of the world combined in many years. And therefore, it's not a big industry group. So it's very important that we work cooperatively with PHMSA, as Al indicated, for recognizing the difference in the roles of the regulator versus the regulated company.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>That's helpful. And then, just on the financial side of things, how much do you anticipate integrity programs and increased use of inline inspections and really all of those kinds of things increasing from a financial perspective over the next few years?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Well, Andrew, we've spent in the order in the last couple of years of about $500 million on integrity. I'm not going to get any more granular than that in terms of the operational risk management program that we have. We'll provide some more details around that in terms of each of the programs, the six that I talked about, and the capital that's related to that, and we'll give some more detail on the numbers. As I said to you, though, the important thing is that the amounts have been included in the forecasted capital within our long range plan.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay. That's very helpful. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Okay, thanks, Andrew.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from the line of Matthew Akman of Scotia Bank. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Staying with the pipeline leaks. I mean, there's a much longer list than you'd normally see from Enbridge of updates on leaks in your MD&amp;A. Obviously, there's much more press on it. But I'm wondering, if you put the Michigan spill aside, are you guys actually seeing more leaks than you have historically? Or is it just getting more profile than it has historically?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>It's a good point, Andrew. I think you're right in your conclusion that it's getting a lot of profile. And in particular, some of that profile is being amplified by some of the bigger picture issues, let's call them, in the industry today, particularly people's views on the oil sands. So I think it is getting a lot more play than in the past. If you look at our history actually has been very good on the safety front. And we're proud of that history. And in fact, I think the record that we have compares very well with the rest of the industry. So, you're right, it's getting a lot more play out there.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>But I guess, I mean, you guys must have done some benchmarking. And I've looked at the leaks over time and there are periodically small leaks of a few hundred or a 1,000 barrels. And I'm just wondering if your benchmarking is showing that there's actually something going on in your systems where you're getting more leaks than you have historically, putting Michigan aside.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I think if you look at the trend, the trend is declining in terms of our leaks. And as I said before, we're about half of the rate of industry in terms of that particular benchmark. So I think what we have to recognize is that any leak is not something that we want. And we are targeting to have zero leaks. So that's the goal and that's the aim of our operational risk management program is to even do better on that front going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay. Thanks for that. If I could just follow-up with a quick question on Spearhead with the strong earnings. Do you guys &#x2013; I guess, this is for Richard. I mean, I would expect that to get even stronger as you drain more oil kind of upstream of the Seaway Pipeline. Is that a proper assumption? Do you expect Spearhead to do even better over time?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I think the better way to look at that, Andrew is that it's ...</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>It's Matthew.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Matthew, rather, it's likely to be sustainable at its recent performance level. We're pretty well maxed out on capacity at Spearhead. Every barrel that can is going down that. So until we complete the Twin in mid 2014, it's going to be sustainable as opposed to increasing.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay. So we'll see your earnings ramp up as you put more capital in the ground there then?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>As we complete the twinning in 2014, then we'll see earnings tick up, yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay. Thank you. Those were my questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks, Matthew.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from the line of Robert Kwan of RBC Capital Markets. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Good morning. Just first question here, I sensed a bit of directional weakness in the guidance for 2012. You removed kind of the "firmly on track" language, although, Richard, you did mention it in the remarks. I'm just wondering if that's &#x2013; am I reading too much that, but if not, what are the major drivers, whether that's just the EEP guidance? And then over the medium to longer-term in slide 13, you've removed the plus language. Just wondering what you're seeing as maybe just slight drag on what it was otherwise very strong growth?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Thanks, Robert. First of all, if that's the impression we created around the guidance, that's certainly not our view of what 2012 looks like. I think as Richard alluded to, there were some pluses and minuses, but no, we're firmly on track with the guidance range. With respect to the language around the plus, I think we just felt that there was just a little bit too much granularity or specificity in the plus. We haven't really changed our outlook whatsoever, so it's really just how we framed the picture, if you will.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Robert, it's Pat. Just looking back at my remarks and I guess I said we continue to be well on track and we will upgrade that to firmly.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay. Just last question on funding, as you look forward here and thinking more about the kind of "equity bucket", kind of look like you were &#x2013; with the common equity done, you were technically done on that side, so prior to the last pref deal you did. Are you seeing more of that risked bucket becoming more likely to come to fruition, or are you becoming a little more conservative around the EEP funding plan, just kind of wondering how to think about more preferreds or equity type maybe dropdowns going forward? And what you're thinking with respect to the capital coming to fruition?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>So let's let Richard handle that one.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Sure. So I think we are continuing to see that secured capital inventory build as one of Pat's slides indicated, and we're continuing to want to stay, if anything, a little bit ahead of that in terms of our funding. And so, hence I think you can expect to see additional pref share action. You can expect to see additional dropdown action, but I think we're pretty much keeping up with where we need to be and so that will be normal course, just as we move ahead in the future.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Yeah. Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think, Rob, just a general comment to add there. If you go back to one of the slides, I talked about financial strength, and certainly with the capital program that we have, it's very important to keep up with capital markets funding, and I think Richard's team has done a very good job of that in staying head of the game.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay. Yeah. Just any directional concerns about needing to backstop more down at EEP?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well, we have assumed at this point on our Eastern Access projects that we are funding 60%. There is an auction for EEP to elect to move that down to 25% or move it up to a higher level by 15%, so at this point we're comfortable that they're well able to fund that.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay. That's great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks Robert.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from the line of Linda Ezergailis of TD Securities. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thank you. I realize there's a lot of moving parts in your Energy Services business and one of them being considerable volatility in oil price's differentials, geographically and in different grades of crude.  But I'm just wondering what you're seeing so far in terms of Q3 in the balance of the year, and the moving parts on that front?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I guess, Richard, do you want to take that?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Sure. Well, as we've seen so far this year, Linda, the very attractive arbitrage opportunities that we were riding last year to a record Energy Services earnings last year have persisted. We didn't think they necessarily would, so Energy Services is running a bit above our expectations year-to-date. And I think there's a reasonable prospect that that will continue to be the case. And where we have the opportunity to do so, we're trying to leg into a few longer term deals to support that potentially even beyond 2012.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah and I think, Linda, that really is supported by this continuing price disparities we see at the various pricing points, and certainly our Energy Services guys are positioned to manage around the assets to capitalize where they can, obviously with not -- without speculating in the market.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>That's helpful. And then maybe we can move to your scale factor trend on the CTS. How might we think of the seasonality of that number within a year? And then how that might trend over the next few years? And then I guess based on your outlook of product mix and geographic mix, how that might look to the end of the CTS?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well, Linda, you have managed to ask a question that's even more detailed than Richard went through on his slide. So, Richard is going to take that.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Sure. So I think generally we would expect over the long term to continue to see that scale factor drift off gradually, probably not as significantly as it has in the past year, but I think the 1.14 on an annualized basis is probably good for this year, it's probably good for next year. And seasonality, there is indeed well defined seasonal pattern, it's much more just the ups and downs that we see in the production quarter-to-quarter which will tend to be a little more volatile than annual run rate will be.</p>
+          <p>And then, of course we have the tools that tend to move around a bit on a quarter-to-quarter basis in part, because of the annual escalation in the IJT that kicks in July 1 of every year. And then, we've got the effect of the Lakehead tolls which tend to move on one front April 1, and then tend to move again on July 1. So those toll movements are probably the only sort of quasi-predictable element of the seasonal pattern.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>That's great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you, Linda.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Thanks, Linda.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from the line of Juan Plessis of Canaccord Genuity. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thank you very much. I believe last quarter you spoke about wanting to be fairly aggressive on pursuing more Midstream opportunities in Canada to build on the Cabin Gas operations. Can you update us on what you're looking for there? And I noticed that there was no reference to the expected in service data Phase II of Cabin Gas. Is it still expected to be ready for service in Q3 of 2014?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>On the last part, Juan, at this point we have a commitment to build Phase II for the producers in that area, so that's what we're going to do. And there's been no change in that. In terms of the first part of your question around Midstream opportunities, yes, we're seeing very strong fundamentals still long-term in terms of particularly the liquids-rich area of the gas business. So our team is working on several opportunities now and we're focused on it nothing recent obviously to announce, but we're working hard on it.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks, Juan.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from the line of Chad Friess of UBS. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Good morning, Al. You kind of gave us a bit of a teaser about the potential of expanding your Line 9 Reversal project. Would such a project involve new pipe East of Montreal to Quebec City? And do you see the potential of supplying refineries further East in the Maritimes and/or the U.S. East Coast?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>It's not the plan right now, Chad to replace or add new construction to Line 9 pipe. We are, as I said pretty encouraged with what we saw in the open season. It's a little bit early to tell. I think as far as the market further East, I think producers are certainly looking for other outlets. And you've heard about their interest in those Eastern markets. Right now, to be honest we're pretty happy with the project and that it's fully committed and we're going to proceed with it and we'll see what happens after that.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay. And so fair to say that if there was extra volumes that we're going to head East of Montreal and do you supply it either by the existing pipeline to Portland or by barge or tanker to the Maritimes, is that fair to say?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>There is a couple ways for it to get there. At this point, we are planning for the crude to move into Quebec the two refineries there. We haven't really set on any plans further east from that.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay. Great, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>So maybe just to clarify on that Chad, the potential for additional volumes into Montreal would really be supported by the Quebec-based refineries.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay. Understood. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we will now take questions from the media. Our first question comes from the line of David McColl of Morningstar. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Good morning, guys. I guess, I should have probably been in the analyst queue there. Accepting that there is a bit of a heated political situation in kind of B.C. and the U.S., I'm just wondering if you can elaborate a little bit more on the ORM? And how it's kind of is relating to the corporate culture changes within Enbridge and a focus on safety? And if you can build on that how you're maybe dealing with public education versus public awareness, because there seems to be pressure growing against Line 9, obviously, Gateway and now these delays in Wisconsin? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Let me start maybe with the ORM plan and what it means in the bigger picture, I guess. First of all, let me clarify that Enbridge has always been very proactive on the six areas that I outlined in my slide. We have had a very good record safety over the years and frankly we are proud of it. The reality is that when you have major incidence, as we did in 2010, you have to look at things and kick things up a notch. So, frankly that's what the ORM is all about. And it's very important we're putting new capital towards it. And we do want to be the industry leader. So that's what's behind the ORM plan. Pat, do you want to comment on public awareness?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, I guess, David, there are a couple of different ways to look at the public education awareness thing. One, of course, is ensuring that the public is aware of the existence of our system and emergency responders are aware. And I'm not sure whether it's from that perspective you're asking your question. But we have again ramped up our initiatives. And of course, it's very, very difficult. If I go back and use Marshall, for example, where we'd operated for 42 years in that community with no incident to expect people to be able to respond to an emergency immediately. So it's a real challenge for our people to get out, to help ensure that responders are aware and the public is generally aware. But I'll tell you it worked perfectly with regard to Line 14. So we're very, very happy there.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Could I just maybe come back to the original question around the ORM and corporate culture. As I referred to earlier, I think we've always been very focused on safety and operational reliability and that simply, because we carry huge responsibility for delivering product to markets that need it. So our staff has always been focused. What this is about is, as I said before further reinforcing our focus on safety and reliability and something that we're very keen on progressing.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Right. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks, David.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question will come from line of Steven Paget of FirstEnergy. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Good morning and thank you. On that NEB audit of Enbridge that was announced, have you been in contact with National Energy Board? What's the plan and timing of this audit?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>The timing will be pretty quick actually. I think within the next week or two, as I recall the letter from the NEB. Let me just say, Steven on that one that, we actually welcome this. We've got a state-of-the-art control center in place now, which we're proud of and frankly, we're looking forward to their thoughts on it.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thank you. Richard, you talked about drop-downs. What might be the timing of those drop-downs?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I don't think that we can assign a specific timing to that now. Steven, my comments were more intended to be, I guess, strategy wise that we continue to see drop-downs to the income fund as being a potential low-cost source of funding for some of our stable cash generating assets, so no specific timetable on that, but just a general financial strategy direction.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Well, thank you, Richard and that's my limit, I guess.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Thanks Steven.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks, Steven.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question comes from the line of Carrie Tait of Global Mail (sic) [The Global and Mail] (48:50). Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Hi, thanks for taking my call. Pardon me, James Moore, was on the radio this morning, talking about how he has doubts around whether Gateway will proceed? And one other things, he said that Gateway and then his words were, will not survive scrutiny unless Enbridge takes far more seriously their obligation to engage the public. How do you go about proceeding with Gateway where you have some of your fiercest supporters publicly doubting and criticizing the company in the way it's handled spills in the United States?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Okay. Thank you, Carrie. Well, first of all, I'll just say that we do have a lot of support for the project. I think there is a notion out there that nobody supports it. We certainly have producer support, Alberta government support, federal support, and obviously there is a good degree of public support and First Nations support. So I think that you're right it's a challenge. We have actually been consulting and engaging communities including First Nations for a number of years on this project. So, we are heavily engaged in that. And we're going to continue to do that actually through the regulatory process.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>And Carrie, if I could maybe just add. I think if you look and I believe in the last call I quoted the number of meetings and consultations that we've had over the 12 or 13 years that we've been moving along on Gateway and it's absolutely astounding the level of engagement. As a matter of fact, as I look at it right now, I don't know that we &#x2013; that there isn't somebody, anyone in this country that's not engaged on Gateway and very aware of what's going on.</p>
+          <p>We continue to do our very best to get the story out with regard to the importance to the country to make sure that people realize that we recognized the value and critical nature of First Nation support and input and of all communities along the right of way. So, we're doing our very best and we'll continue to engage as we go forward to the regulatory process.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Is Mr. Moore then off base when he is saying that you're not taking this seriously enough?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I would say we're taking it very seriously. So, I don't want to comment on what Mr. Moore's motivations are, but certainly we are, as Pat said, heavily engaged in this. I think the number of meetings that we've had direct face-to-face have been somewhere in the order of 17,000. So, this is by far the most engagement we've ever had directly with communities of all sorts and frankly it's appropriate. It's appropriate because there is concern about the project and it's our job to make sure that we are explaining the benefits and ensuring that we address the risks that people are raising.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>With respect to the report this week on Line 14, part of Enbridge's response was to say that it was normal for such an order to come out. I am wondering if you can talk about whether it was in &#x2013; it's normal for an order to come out as quickly as this one did, and to be as harsh as this one was?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>May be I can respond to that and I am sure, Al will add. But I think &#x2013; I don't think there was anything unusual with regard to the timing or the language. Corrective action orders are always worried, in my experience, pretty much as this one has been and we are not in disagreement with the order we are proceeding to meet the obligations indicated under the order.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah. I think the order is very clear as to what's required and our job is to work with the regulator to go through those items to make sure that we are addressing the requirements. So, we are certainly not taking any offence to it. We just need to work through it.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>All right. I just have one last question. I am wondering with the two spills, the high profile spills and the reports that came out of it. Is this a streak of bad luck for Enbridge or are the reports sort of, they point to a corporate culture problem, do you think that part of this is just bad luck?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I think what it relates to in the bigger overall picture is the focus on other policy debates going on in North America with respect to oil sands, with respect to getting crude into the United States. So, I think as I said before, those issues are really amplifying what's happening.</p>
+          <p>Having said that, we are focused on these two incidents and as Pat said, we've made excellent progress in terms of enhancing all of our systems and processes related to the initial Marshall event, two years ago. And in terms of this most recent event as it's important to know that we responded very well. And I think what it did for us is confirm that the things that we had put in place, the enhancements worked very effectively.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>So I just want to sneak one more in. What &#x2013; you talked about how you're emphasizing safety and continuing to emphasize safety. Is there one example that you could give of how you are perhaps trying to change the corporate culture, which is something that the two regulatory bodies went after you quite &#x2013; they were quite harsh on. Is there an example?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well, may be the broadest example is simply our focus on the operational risk management plan that we've implemented. And it covers all of the key areas of safety and reliability, because as I said earlier, we have a big responsibility to make sure the product gets to market in a safe way. So I think that that plan has been very well accepted internally and we'll move forward here and hopefully get better.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>All right. Thanks for taking my questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>You're welcome.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question comes from the line of Jeff Jones of Reuters. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thank you. I was just wondering if you could give us a few details of what some of the requirements might be in the corrective action order? And then secondly, I am wondering if the outage of Line 14 will require reapportionment for August? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>On the corrective action order, I believe that the corrective action order is public, but in general, it focuses on various items, including reassessing some of the Line and in particular looking at in a longer term training, assessing the long-term integrity plan that we have. So those are the things that &#x2013; some of the things that are in the plan.</p>
+          <p>The second question was on apportionment. That really depends I think on the timing of the restart of the Line. At this point, we've been successful in rerouting some of the crude and talking to customers both on refinery side and producer side to deal with the outage. I think, so far, we are in good shape. We will have to assess this as it goes forward and we get clarity on the timing of the restart.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Thanks, Jeff.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our last question will come from the line of Cindy Pom of Sun News. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Hi. Good morning. I am calling &#x2013; I am talking &#x2013; my question is about the Northern Gateway pipeline, I have a question and a follow-up. First of all, how do you respond to calls from environmentalist, in particular in British Columbia who are calling on you to withdraw your application for this?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I am sorry. Cindy, could you just repeat that? The first part of your question was what?</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>I said, how do you respond to calls from environmentalists in British Columbia who are calling on Enbridge to withdraw its application to build the Northern Gateway pipeline?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I am not aware of any such calls. I don't have, are you?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>No.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>No. We have, we're not aware of any calls for us to withdraw the applications Cindy.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Okay. Well, there are a lot of environmentalists in British Columbia who do oppose the Northern Gateway pipeline, for example, a new Angus Reid poll is out finding that many people in B.C. still oppose it. But 51% actually say that their mind can be changed if you buy the Premier's demand. Do you believe you can meet the Premier's conditions, the ones that she laid out?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Maybe I can just comment on that first and then I am sure, Al would like, I know you are referring to and I did see that recent survey as well. But to answer the specific part of your question, I think that the premier's demands were aimed more at discussion between the provinces, which is really beyond the jurisdiction of Enbridge with regard to meeting all of the safety requirements implied by the premier's remarks, we feel absolutely confident that we can do that.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>And so some of the conditions that were laid out include establishing a marine oil spill prevention and response system, completing an environmental review process, enhancing on land spill response. And so, you are saying you are confident that you can meet all of these demands that the premier is asking?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yes, we are.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Okay. Now, because of the opposition that some environmentalist in BC, I mean, it's very evident that some of them are opposed to this, how do you respond to them in this case?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well, first and foremost, we're absolutely focused on ensuring the safety of that pipeline as we develop our plans to construct it and in the design, as you've heard over the last little while, we made several enhancements to that. So, our primary goal in that project is to give people comfort that it's going to be a safe project and I think that we'll address the concerns and remember that we have a very thorough regulatory process that focuses on that exact question and accessing whether or not the project meets the conditions that they set forth.</p>
+          <p>I will say generally about the project. I think we have to keep in mind the bigger picture perspective here. The project really is focused on addressing what is the combination of very important factors. First of all, Canada is flushed with strong reserves and we need to get those reserves to market. We have the technical capability to produce those well, and as far as I'm concerned, we have the capability as a company better than anyone to make it happen in a safe way.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>I'm sorry. Who is speaking right now? I apologize, I can't see.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Al Monaco.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Okay, great. Thanks, Al. And one more question in regard to that oil leak in Wisconsin that perhaps may have instilled some &#x2013; can fear in some people and concerns because of that leak in Wisconsin. So how would you alleviate those concerns? I mean, for those who are opposed to the Northern Gateway pipeline?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>We can understand the concerns, first of all. We ourselves are very concerned about it, whenever this kind of incident occurs. But, I think I'm comfortable that given the way we responded to that particular leak, it really confirms that the enhancements that we've made have worked well, both in terms of how we responded initially and importantly a very quick and effective clean up.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Okay. Great. Thank you, Al.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>You are welcome.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>At this time, I'd like to turn the call back over to Jody Balko for closing remarks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks, Carissa. We've nothing further to add at this time, but I'd remind you that Jonathan Gould and I are always available for any follow-up questions that you may have. So, thank you, and have a good day.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you for your participation in today's conference. This concludes the presentation. You may now disconnect. Have a great day.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

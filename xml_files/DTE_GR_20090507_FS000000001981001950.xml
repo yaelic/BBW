@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1229062" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q1 2009 Earnings Call</title>
+    <date>2009-05-07</date>
+    <companies>
+      <company>683</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Company Representative</participant>
+      <participant id="2" type="corprep">Stephan Eger, Head of Investor Relations</participant>
+      <participant id="3" type="corprep">Ren&#xE9; Obermann, Chief Executive Officer</participant>
+      <participant id="4" type="corprep">Timotheus H&#xF6;ttges, Chief Financial Officer</participant>
+      <participant id="5">John Karidis</participant>
+      <participant id="6">Ren&#xE9; Obermann</participant>
+      <participant id="7">Stephan Eger</participant>
+      <participant id="8">Peter Nielsen</participant>
+      <participant id="9">Peter-Kurt Nielsen</participant>
+      <participant id="10">Timotheus H&#xF6;ttges</participant>
+      <participant id="11">Nick Delfas</participant>
+      <participant id="12">Hugh McCaffrey</participant>
+      <participant id="13">Justin Funnell</participant>
+      <participant id="14">Hannes Wittig</participant>
+      <participant id="15">Guy Peddy</participant>
+      <participant id="16">Robin Bienenstock</participant>
+      <participant id="17">Matthew Bloxham</participant>
+      <participant id="18">Carl Murdock-Smith</participant>
+      <participant id="19">Andrew Beale</participant>
+      <participant id="20">Ottavio Adorisio</participant>
+      <participant id="21">Frank Rothauge</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good afternoon, and welcome to Deutsche Telekom's Conference Call.  On our customers' request, this conference will be recorded.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>
+            <mark type="inaudible" /> contains forward-looking statements that reflect the current views of Deutsche Telekom management with respect to future events.  They include, among others, statements as to market potential and financial guidance statements, as well as our dividend outlook.  They are generally identified by the words expect, anticipate, believe, intend, estimate, aim, goal, plan, will, seek, outlook or similar expressions and include generally any information that relates to expectations or targets for revenue, adjusted EBITDA, earnings, operating profitability or other performance measures, as well as personnel-related measures and reductions.</p>
+          <p>Forward-looking statements are based on current plans, estimates and projections.  You should consider them with caution.  Such statements are subject to risks and uncertainties, most of which are difficult to predict and are generally beyond Deutsche Telekom's control, including those described in the sections Forward-Looking Statements and Risk Factors of the Company's Annual Report on Form 20-F filed with the U.S. Securities and Exchange Commission.</p>
+          <p>Among the relevant factors are the progress of Deutsche Telekom's workforce reduction initiative, restructuring of its German operations and the impact of other significant strategic or business initiatives, including acquisitions, dispositions and business combinations and cost-saving initiatives.</p>
+          <p>In addition, regulatory rulings, stronger than expected competition, technological change, litigation and supervisory developments, among other factors, may have a material adverse effect on costs and revenue development.</p>
+          <p>Further, changes in general economic and business conditions, including the significant economic decline currently underway, in the markets in which we and our subsidiaries and associated companies operate; ongoing instability and volatility in worldwide financial markets; and changes in exchange and interest rates may also have an impact on our business development and availability of capital under favorable conditions.</p>
+          <p>If these or other risks and uncertainties materialize or if the assumptions underlying any of these statements prove incorrect, Deutsche Telekom's actual results may be materially different from those expressed or implied by such statements.  Deutsche Telekom can offer no assurance that its expectations or targets will be achieved.  Deutsche Telekom does not assume any obligations to update forward-looking statements, to take new information or future events into account or otherwise.</p>
+          <p>Deutsche Telekom does not reconcile its adjusted EBITDA guidance to a GAAP measure because it would require unreasonable effort to do so.  As a general matter, Deutsche Telekom does not predict the net effect of future special factors because of their uncertainty.  Special factors and interest, taxes, depreciation and amortization, including impairment losses, can be significant to Deutsche Telekom's results.</p>
+          <p>In addition to figures prepared in accordance with IFRS, Deutsche Telekom presents non-GAAP financial performance measures, including, among others, EBITDA, EBITDA margin, adjusted EBITDA, adjusted EBITDA margin, adjusted EBIT, adjusted net income, free cash flow, gross debt and net debt.  These non-GAAP measures should be considered in addition to, but not as a substitute for, the information prepared in accordance with IFRS.</p>
+          <p>Non-GAAP financial performance measures are not subject to IFRS or any other generally accepted accounting principles.  Other companies may define these terms in different ways.  For further information relevant to the interpretation of these terms, please refer to the chapter, Reconciliation of pro forma figures, which is posted on Deutsche Telekom's Investor Relations webpage at www.telekom.com.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Now please listen to the statement of Ren&#xE9; Obermann and Timotheus H&#xF6;ttges.  Afterwards, you are welcome to ask your questions.</p>
+          <p>May I now hand you over to Mr. Stephan Eger?</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>The investors, good afternoon.  Good morning to the U.S.  Welcome to the first quarter conference call of Deutsche Telekom AG.  With me on the call are our CEO, Ren&#xE9; Obermann, and our CFO, Tim H&#xF6;ttges.</p>
+          <p>With that, let me hand over to our CEO, Ren&#xE9; Obermann.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thanks, Stephan.  I would like to concentrate my remarks today on those areas that we did not already discuss in detail on April 21.  In particular, our fixed and mobile business in SEE, our progress in mobilizing the Internet and the integration of OTE, including an update on the synergies and the 2009 Group guidance, including OTE.  Later, Tim H&#xF6;ttges will discuss the financials in more detail.</p>
+          <p>Since OTE is also reporting today and has a conference call at 4 p.m. German time today, we will keep our remarks on the operational development of OTE brief, but we'll have some remarks on the OTE integration.  Due to the first time consolidation of OTE, both revenues and adjusted EBITDA increased in the first quarter, revenue by 6% and adjusted EBITDA by about 3%.</p>
+          <p>We are running ahead of plan with our sales and service cost reduction program where we have achieved a run rate of gross cost savings of EUR 4.4 billion per year compared to the target of more than EUR 4.7 billion by 2010.  We've made good progress in our German and Central European and Southeastern European business.</p>
+          <p>In T-Systems, the turnaround in adjusted EBIT continues.  German mobile was healthy with stable adjusted EBITDA and slightly increasing service revenues.  With the notable exception of Poland, most T-Mobile assets have high and stable EBITDA margins.</p>
+          <p>We highlighted the efforts development in the U.S., the UK and Poland, already on April 21.  Detailed action plans for all three operations are being implemented.  As you also already know, free cash flow was impacted by front-loaded CapEx and OpEx spending and for higher restructuring payments.</p>
+          <p>Similarly, organic adjusted EBITDA was impacted by OpEx and customer growth front loading, as well as currencies.  Reported net income was impacted by a EUR 1.8 billion goodwill writedown at T-Mobile UK, and Tim will discuss this writedown in greater detail later on.</p>
+          <p>Please move on to the next slide.  Turning to German fixed, we are already &#x2013; we are actually very pleased with the developments in German fixed line.  While we continue to face line losses due to regulation and competition, those losses are partially offset by continued strong broadband growth, specifically over the last two years, our domestic PSTN customer base declined by 14%.</p>
+          <p>During the same period, our domestic broadband retail customer base grew by 44%.  With 53% retail net add market share in Q1, we achieved the best net add market share since 2005.  Even cable saw a slight sequential slowdown in the net add market share growth in Q1, while we picked up additional market share.</p>
+          <p>As in previous quarters, line losses were partially driven by the conversion of traditional resale customers to all IP customers.  To the extent these were converted into unbundled IP Bitstream Access customers, we continue to generate significant revenues from these customers.  And with that, please move to the next slide.</p>
+          <p>This is Southern Eastern Europe.  In Southeastern Europe fixed, we experienced continued broadband growth with stable margins, including OTE, we generated an adjusted EBITDA of EUR 400 million in the first quarter at a head count of 40,000 employees, a broadband customer base of almost 3.5 million and a total PSTN customer base of almost 40 million.  Excluding OTE, the adjusted EBITDA margin amounted to 42.1%, essentially stable compared to the first quarter of 2008.  This was based on continued head count and other cost reductions.  Also excluding OTE, the broadband customer base grew by 19% year on year to almost 1.8 million.</p>
+          <p>And next slide, please.  Turning to mobile, we continued to grow abroad with mobile thanks to the OTE acquisition and also supported by currency.  In fact, the revenue growth in mobile outside Germany amounted to 12% in the first quarter.  Adjusted EBITDA declined by 1%, despite the OTE acquisition.</p>
+          <p>The primary drivers of the declining organic adjusted EBITDA for the U.S., the UK and Poland has already explained on April 21.  Including OTE, we now have a total mobile customer base approaching 150 million.</p>
+          <p>Move on please to the next slide, speaking of our mobile operations in Central and Eastern Europe specifically, all countries, except Poland, continued to show strong or even improved margins.  Also, revenue trends in local currency remains quite healthy despite the economic crisis in Croatia, Slovakia and Macedonia.</p>
+          <p>Revenues in Poland, in Polish zlotys were stable despite the economy, despite regulation and competition whereby outperforming local peers.  In the Czech Republic, revenues were down 4% in local currency, mainly from lower voice revenues due to price declines in response to an aggressive competitor pricing.  The Czech Republic was also particularly hard hit by lower visitor revenues and lower roaming revenues due to a shortfall in international traveling.</p>
+          <p>We saw similar effects in Hungary where revenues declined as well by 4% in local currency.  However, in both these markets we continued to generate margins well in excess of 40%.  Contract churn rates were, for example, 0.6% each in Poland and the Czech Republic remained very low.</p>
+          <p>Move on, mobilize the internet, next slide.  We are also very pleased with our progress with regards to mobilizing the internet.  From Q1 2007 to Q1 2008, data revenues without messaging grew by 39% in Europe and 16% in the U.S.  And for the last year, this growth accelerated to 44% in Europe and 30% in the U.S.  The acceleration in both markets was due in particular to the launch of advanced smartphones such as the iPhone 3G in Europe and the G1 in the U.S. and in Europe.  In the U.S. after just two quarters, we now have approximately 1 million G1 users and 1.5 million users of 3G-capable, converged devices in total.</p>
+          <p>Data ARPU, excluding messaging, grew by 38% to EUR 1.80 over the last year in Europe.  In the U.S., the data ARPU, including messaging, expanded to $9.40, up from 8.50 a year before.  Non-messaging revenues accounted for 51% of total data revenues in the U.S. in Q1.</p>
+          <p>Next slide, please.  In terms of the fourth element of our strategy, to build network-centric ICT, we made good progress in Q1.  International revenue growth continued with 6.4%, and external revenue was potentially stable.</p>
+          <p>We concluded a number of new big deals including the Linde Group public sector deals in North Rhine-Westphalia and Baden-W&#xFC;rttemberg and with Continental Tires, and it led us through our partnership with Cognizant.</p>
+          <p>Encouragingly, the turnaround in adjusted EBIT continued.  The EBIT margin &#x2013; the adjusted EBIT margin increased from 0.7 to 1.6%.  It's the right direction.</p>
+          <p>In particular, the operational performance of Systems Integration improved strongly.  This improvement in profitability was enabled by the ongoing restructuring.  The Save for Service cost reduction contribution of Systems Solutions amounted to EUR 75 million in Q1, with the main contributions coming from Computing &amp; Desktop Services and Systems Integration.</p>
+          <p>Coming now to OTE &#x2013; to the OTE integration, next slide.  We have started this integration process successfully.  Since OTE was consolidated, so in two months, the company contributed EUR 1 billion in revenues and EUR 0.3 billion in adjusted EBITDA.</p>
+          <p>Importantly, OTE was accretive in terms of free cash flow and net income, contributing EUR 22 million in free cash flow and 57 million in net income.  At the end of Q1, OTE had almost 20 million mobile and 7.5 million fixed-network customers.</p>
+          <p>Move on please, next slide.  We have been able to verify the promised synergies on the deal.  Based on detailed joint work with OTE, we verified a synergy potential of approximately EUR 200 million.  Approximately 70% of the synergies are coming from mobile, and approximately one-third from CapEx synergies.</p>
+          <p>Importantly, we expect to realize already a mid-double-digit amount in this year, with two-thirds of the EUR 200 million annual run rate to be implemented end of next year, and the full run rate to be reached in &#x2013; at the end of 2011.</p>
+          <p>Let's move on.  The biggest part of the synergies stemmed from procurement, it's on the next slide, amount accounting for EUR 138 million.  Within procurement we expect the biggest savings to come from areas like wireless access equipment, for example, antennas; core and control equipment, for example mobile-fixed components; and transport equipment like network switches.  On the terminals side, we will capitalize on joint procurement for the Group, anyway so that was sort of a final surprise.</p>
+          <p>Another area of synergies is sales and customer service, where the knowledge transfer leads to an improved commission model and increased shop performance and better self service experience by automation, for instance introduction of IVR systems and productivity optimization and an optimization of the supply chain management.</p>
+          <p>Last but not least, we expect to see some synergies on the product side by the introduction of new and innovative products like the iPhone and our Web'n'Walk service but also some savings on the content procurement side.</p>
+          <p>Next slide, the OTE's verified synergies we have identified additional opportunities to increase the run rate by up to EUR 100 million if fully realized.  This evaluation process is still ongoing, and we will have further details in the future.  We have identified opportunities in the area of international network and wholesale, network optimization, customer service and IT harmonization but also on support service &#x2013; support services like real estate and fleet management.</p>
+          <p>On the next slide, we're dealing with the action plan for improving the U.S., UK and the Polish situation.  We already discussed our action plans for the U.S., the UK and Poland on April 21.  Let me just highlight a few elements of these plans.  In the U.S. we plan to roll out the 3G network to approximately 200 million POPs by the end of this year.  We will continue the 2G roaming overbuild with approximately 1,400 additional sales sites to reduce significant roaming costs.  And the U.S. management is implementing a detailed cost reduction program amounting to a mid-triple digit million dollar figure for the year.  This will entail cost reductions in many areas including salaries.</p>
+          <p>Another major focus is on future enhancing our device portfolio.  Following the launch of the G1, the Samsung Behold and Memoir, a USB data stick and a 3G-capable, T-Mobile Sidekick, three more additional 3G converged devices will be launched in the next month.</p>
+          <p>In the UK, a new management team will have a strict focus on the repositioning of our business in a difficult environment, capitalizing fully on the best 3G network in the UK market.  Also in the UK, a top line program has been implemented with, for example, a stronger focus on non-voice services in cross- and in up-selling.</p>
+          <p>In addition, we're implementing a cost-cutting program with a target of a mid double-digit million pound sterling volume.  The same is also true for Poland where we are aiming to cut OpEx with a triple digit million zloty figure.  As a group as a whole, we have implemented a CapEx freeze of EUR 1 billion and even tighter OpEx discipline while continually optimizing our working capital management.</p>
+          <p>Move on, please, to the next slide.  Let me conclude my part by &#x2013; before I hand over to Tim by discussing our targets for 2009.</p>
+          <p>For DT standalone, that is excluding OTE, we expect that adjusted EBITDA will be down approximately two to 4% from the level achieved in '08.  Free cash flow is expected around EUR 6.4 billion.  OTE is expected to add approximately EUR 2 billion in terms of adjusted EBITDA in 2009, and we expect to generate a free cash flow of approximately EUR 7 billion, including OTE.  Bear in mind that OTE will only be consolidated for 11 months in 2009.</p>
+          <p>Our guidance assumes constant currencies and no further significant economic deterioration.  After just paying a dividend of EUR 0.78 per ordinary share on May 4, we intend to maintain our attractive dividend policy for our shareholders.</p>
+          <p>Let me now hand over to our new CFO, Tim H&#xF6;ttges.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Welcome, everybody.  I'd like to start my presentation on Page 19, talking about the Group financials.  In terms of this Group financials, revenue grew by 6% in the first quarter due to the consolidation of OTE and SunCom.  As a result, T-Mobile Europe, T-Mobile U.S. and PDSN (sic) [PSTN], they all had positive revenue growth in the first quarter.  The impact of foreign exchange was slightly positive overall, with a stronger dollar more than offsetting weaker European currencies, including pound sterling and the Polish z&#x142;oty.</p>
+          <p>Originally only Mobile U.S. and GHS with the headquarters grew this quarter.  Currency is not an excuse for us at all but helping us to offset some of the shortfalls.  But nevertheless, we suspect that the currency year over year in our European entities have changed significantly.</p>
+          <p>On Page 20, we talk about the adjusted EBITDA, which grew by 3%, again driven by the consolidation of OTE and SunCom.  The impact of foreign exchange was also slightly positive.  Compared to revenues, the adjusted EBITDA was impacted to a larger extent by organic change, especially at T-Mobile Europe and Mobile U.S., as we already highlighted on April 21.  On the next slide you will find the deviations for every strategic business unit of Deutsche Telekom.</p>
+          <p>Also on April 21, we all talked about the fact that free cash flow was impacted by significant front-loading effect this quarter.  Compared to the first quarter of 2008, cash CapEx increased by EUR 0.8 billion in Slide 21.  Half of this increase was due to a shift in payments schedule on EUR 0.3 billion to front-loading in volume.  Compared to the first quarter of 2008, cash CapEx increased in all divisions, with the strongest increases at Mobile U.S., Mobile Europe and our fixed line businesses.</p>
+          <p>Drivers for CapEx front-loading were the accelerated 3G rollout at Mobile U.S. and Europe, the 2G roaming overbuild at Mobile U.S., anti-activation of customer premise equipment at VBSN.</p>
+          <p>Restructuring payments increased by 0.3 billion, primarily due to higher number of payments for redundancies at T-Service, most of which already took place in December 2008.  The increase in cash taxes and interest payments was due to the consolidation of OTE.  Based on all these factors, free cash flow was reduced to EUR 0.25 billion from EUR 1.6 billion the year before.  Due to the front-loading nature of many of these factors, we expect free cash flow to normalize in future quarters.</p>
+          <p>Slide 22.  With regard to our cost-cutting program, Save for Service, we are well ahead of plan, having already achieved a run rate of gross savings of 4.4 billion as of the first quarter compared to a target of more than EUR 4.7 billion by 2010.  More than half of the EUR 4.4 billion came from BBFN, roughly 20% from Mobile and the remainder from Systems Solutions and headquarters.</p>
+          <p>In the first quarter, we achieved an incremental contribution of EUR 270 million, with again roughly half coming from BBFN and also a significant contribution from Systems Solutions.  Despite these cost cuts, the cost base of the Group nevertheless increased year on year due to the consolidation of OTE and SunCom and some higher market spend.</p>
+          <p>Page 23.  In terms of Group head count, the domestic restructuring is continuing.  Year on year, the domestic head count was down by 13,700 employees or 9.4%.  In the first quarter, the domestic head count was reduced by 2,000 employees, sequentially on a gross basis and 400 on a net basis.  The relatively small sequential net reduction in the first quarter was due to planned hires in sales and service as well as technology and design, and also due to the fact that there were no significant deconsolidations in this quarter unlike prior quarter.</p>
+          <p>Outside Germany, the number of employees increased by 36,700 year on year due to the first-time consideration of OTE as an increase in head count at T-Mobile U.S.  Note that in the first quarter, we actually had a slight sequential reduction in head count at T-Mobile U.S. compared to the end of 2008.  Overall, the adjusted Group personnel cost ratio decreased slightly from 30.7% of revenues to 13.6% this quarter for the domestic operations.  For the group as a whole, the ratio fell from 21.9 to 21.8.</p>
+          <p>Slide 24, net income.  Turning to the net income, reported net income turned negative this quarter compared to the first quarter of 2008.  The main factor for this development was a goodwill writedown of EUR 1.8 billion at T-Mobile UK.  This means specifically that we recognized an impairment loss on the goodwill of the cash generating unit T-Mobile UK.  Events of circumstances that resulted in this impairment loss primarily include the major economic downturn and more intense competition in the United Kingdom, lower roaming revenues and newly-introduced regulation of roaming and termination charges had a negative impact on revenue.  Increased termination charges for the use of the third-party mobile communications networks and high levels of expenditures for custom acquisition, we had a front load and retention resulted in increases in our cost base.</p>
+          <p>Slide 25, talking about the adjusted net income.  Since the goodwill writedown was a special factor, it did not impact adjusted net income, which decreased from 4.8 billion to EUR 4.7 billion.  While the consolidation of OTE led to an increase in depreciation and amortization, the overall impact on adjusted net income was nevertheless accretive due to the positive impact of the consolidation on the adjusted EBITDA number.  Therefore the decrease in net income was caused by the weaker performance in other areas, including Mobile Europe and U.S.</p>
+          <p>Turning to the balance sheet on page 26, our net debt increased to 42.8 billion compared to EUR 38.2 billion at the end of 2008.  Of the increase, EUR 4.3 billion was due to the consolidation of OTE, offset partially by the free cash flow of EUR 4.3 billion.  The remainder was caused by foreign exchange effects, a dividend payment at Mat&#xE1;v in Croatia and other smaller sectors.</p>
+          <p>Despite the increase in net debt, our balance sheet ratios remain solid and well within the comfort zone ratios.  You're going to find that on Page 27.  The gearing at the end of Q1 was 0.9 times, the same as the end of 2008 and just slightly higher than a year ago.  This compares to our comfort zone of 0.8 to 1.2 times.  The equity ratio, excluding the dividend was 31.2% at the end of first quarter, approximately 1 percentage point below the ratio at the end of 2008 and well within our comfort zone of 25 to 35%.</p>
+          <p>Our balance sheet ratios are stable.  Deutsche Telekom is based on a solid equity base.  Compared to the end of 2008, our liquidity reserve increased from 20 to EUR 20.3 billion.  In terms of percentage of net debt, the liquidity reserves remained constant at 52%, well ahead of the comfort zone ratio of 30%.  The access to the capital market is very good, and we were able to refinance a significant amount already in the first quarter.</p>
+          <p>And in the OTE acquisition, we had remaining maturities in 2009 of 3.3 billion, you will see that on Page 29, including EUR 0.6 billion from OTE.  Combined with our ample liquidity reserves and projected free cash flow, we remain in a very comfortable financial situation.</p>
+          <p>With this, we are now ready here for your questions.  Thank you for listening.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you very much, Mr. H&#xF6;ttges.  <mark type="Operator Instructions" />  Mr. John Karidis from MF Global, may you ask your question please?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Thank you.  Good afternoon to you.  With respect to Ren&#xE9;, despite your commitment to an attractive dividend policy, more and more I seem to believe that the share price is not really high enough on management's list of priorities.  Is this a fair observation, and if not so why not?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>I don't understand the question.  The share price is not on our &#x2013; high enough on our attention?  That is kind of hard to comment on because of course everybody is, in this team at least, disappointed at the share price development.  And we are working &#x2013; I mean, as good as we can certain points of operational performance and to create the basis for continuing an attractive dividend policy.  And the dividend last year, all the dividend was raised from 70 to $0.78 on the basis of a cash flow which has been achieved in '07 of 6.6 billion.  So I don't think that's a fair comment, to be honest.  And the share price is currently not satisfying, that's for sure, and we are working very hard to make to improve that situation.  But the &#x2013; in some of the markets, we are facing a difficult environment.  And also the solution is not so easy as it may seem to you.  So we need to work through a difficult period.  We need to get the business in better shape, particularly in the UK, and also we need to overcome the &#x2013; a temporary problem in the U.S.  But that shouldn't be a problem forever.  I do think we can fix these problems.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>The next question?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Peter Nielsen from Cheuvreux.  May you ask your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Yeah.  Thank you very much.  Peter-Kurt Nielsen from Cheuvreux.  First</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr.  Peter Nielsen from Cheuvreux, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Yeah.  Thank you very much.  Peter-Kurt Nielsen from Cheuvreux.  The first question relates to the German mobile business.  You've had a net outflow of costs initially in the quarter, and the churn rate has obviously come up among contract costs.  And if you would please comment a bit on the reasons behind that?  And also, given the low intake, much lower than last year's, why we have not seen an improvement in the margin, i.e. the cost basis there, is this pure retention cost or?</p>
+          <p>And my second question relates just to the domestic reconciliation of &#x2013; reorganization, sorry you're implementing at the moment.  You've told us previously not to expect increased cost reductions from this reorganization.  Is there a risk that it will temporarily hold or slow down your momentum in the domestic cost reduction side?</p>
+          <p>And if I may, a third question relating to the OTE synergies.  If you have identified 200 million, I don't know if this is to be considered at least sort of maximum, but what execution risk do you see here, and is it possible to tell us, given that you told us we'll see some in '09 and some in '010?  Is it the CapEx synergies that will appear first and OpEx later or vice-versa?  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Okay.  Let me start with the churn issue, increased to 1.5% mainly due to a higher migration of service provider subscribers.  If that one-time effect had not occurred, then churn rate would have been around the same level as last year on a very low 1 point something percent, 1.1 or 1.2%.</p>
+          <p>And also, prepaid, there was an extraordinary prepaid churn out of about 1 million inactive prepaid SIMs in Q1.  And that &#x2013; it has been starting with those prepaid customers, which will be inactive the longest and have not topped up for quite a while according to the contractual obligations to keep them alive, and after a certain period of time, to be able to disconnect.</p>
+          <p>New organization cost reduction ,slow down momentum?  No, I don't think so.  I think the objective for the Save for Service program is actually getting more ambitious.  The 4.4 billion savings so far exceeded the initial objective.  The initial objective was between 4.2 and 4.7 billion in the year 2010, so obviously we've come to that earlier.  And that has definitely helped us to keep margins in an environment, particularly in Germany, where top line particularly in fixed line is decreasing.  So without that program, then our margin situation would look worse.  And we will continue to work hard in our savings program and, in fact, we'll probably expand on the objectives and be more aggressive on the savings.</p>
+          <p>It's too early, however, to give you a detail because as no measurement plan agreed and decided yet, but obviously we have to be more then &#x2013; and if we can do more, that's the common belief at the moment.</p>
+          <p>OTE synergies, the CapEx synergies, first, and then OpEx or vice versa.  I think I'll pass over to Tim for this topic.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Well first we originally estimated DNO synergies around the OTE acquisition of a net present value of 2.2 billion.  That was the initial buy case which we forwarded to you.  We have now got all the EU commission approvals, and they're taking the management control.  And in that process in this intensive project which is up and running, we have now verified 200 million annual savings there by the bottom-up measures.  We expect one-third of it is coming from CapEx, and 70% of the cost savings are coming from or lying in the mobile &#x2013; in our mobile businesses.  The biggest savings are coming from procurement and from terminals of the Deutsche datacom group here.  So this is certain enough.  In addition to that one, we have seen another additional synergy potential of 100 million on top of what we have now in the program.  We believe it would be fair to say that we could realize among 50% of it at that point in time.  It's too early to make a clear commitment behind that.  But we see additional potential of 50 million in the areas which Ren&#xE9; had presented earlier.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Nick Delfas from Morgan Stanley, may you ask your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Could you comment a little bit upon how you see, I mean, you mentioned what you're going to do in the U.S. around cutting costs.  But how do you see the long-term prospects in the U.S. because they seem to have changed quite dramatically given the pressure from Boost, from Elite, from METRO.  And are you actually seeing significantly higher ARPU in areas that you upgraded with 3G?  Could you show us some of those figures?  Or were you just hoping that the 3G investment will lift the APRU in general?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>A couple of KPIs are relevant here.  First of all, if you look at the competitive situation on data ARPUs, I think the big two guys, AT&amp;T and Verizon, their data ARPU is significantly higher than ours first and foremost because they came earlier with their 3G rollout and they have a better network coverage and better perception of and reality of the product quality and different devices, i.e. the iPhone in place and also there's a certain business process there and their business segment's stronger than we are.</p>
+          <p>But we have, over years, demonstrated that we can compete very well against all the other competitors and also against the small guys.  And we've felt the impact of competitor offerings, particularly with the iPhone 3G, and we are still kind of handicapped by the lack of a competitive 3G network which we are building now very fast.  We are addressing these deficiencies by a fast rollout of 3G and by improving our device portfolio.</p>
+          <p>We also believe that we can compete effectively against Leap and MetroPCS with our &#x2013; with a mix of a good product quality, customer service and a &#x2013; our competitive pricing.  So it's the mix of the factors we believe we can compete, and we work hard to demonstrate that view.  But, look, the fact that we have one or two or whatever kind of three quarters which are probably not as satisfying shouldn't distract from the fact that we had so many years of very successful marketing.  We have great people in the U.S., and we can do this, and we are committed to improve the situation.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Hugh McCaffrey from Goldman Sachs. May we ask your question please?</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Good afternoon, guys.  I've got two questions.  Firstly, in the UK and ex the Virgin Mobile subscribers, the T-Mobile asset is losing customers in contract and in prepay, what &#x2013; do you plan to reverse this and do you plan to do that through either changing your entire plan system or value in or are you going to try and revitalize the brand?  And secondly and on the European 3G rollout, at which markets are you been kind of increasing your 3G roll out and is that due to capacity constraints or is it increasing demand?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>All right.  First of all, there is a positive element on the UK subscriber situation in Q1 and so far as we increased our customer base and contract, they're somewhat even somewhat slightly better than in Q4.  So contracts net ads were positive with 53,000.  Prepaid deactivations were indeed high, and the prepaid churn in high.  Let me not go into the next steps in tariff plans for a number of reasons.  First of all, we have a new team in place now with Richard Moat, who's going to join us and a new marketing director.  So let these guys do their job, and let them show that we are seen as more competitive and keep those customers who really generate value and revenue for us.  But at least in contract business been &#x2013; we've not been losing customers.  We've gained in the customers in comparison to last year quite a bit.  And 3G rollout capacity constraints, data traffic is firmly improving.  That is true, particularly in Western Europe &#x2013; that's 3.5 almost, but it's true.  But the 3G network so far has enough capacity, and there's quite a bit of room left for further traffic growth, but after all, comparing to fixed line, there's still a huge difference between the utilization of the network between mobile and fixed.  So there is still room to grow the data traffic.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Justin Funnell from Credit Suisse, may we ask your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thanks very much.  I'm going to look at the UK markets, you still have this sort of disruptive operator in the form of 3-UK, who seems to have now trying to find a new way of impacting the market with Skype.  I'm just wondering if there's any merit in your view in taking a more disruptive approach yourself in the UK, and you've been the good guys for a long time in that market, not being to aggressive on price.  Is it now time to change the game a bit, pushing into some markets the disrupter has benefits?  Perhaps you've got nothing to lose in that market for this stage.</p>
+          <p>Secondly, in the U.S., do you think under a new president, the FCC is going to be able to &#x2013; or it's likely to approve for the consolidation of that market?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>On the UK market, Justin, I think you're addressing the right points.  Indeed, we've been &#x2013; if you recall 2007, very good in margin.  2008, we were lacking behind in terms of customer growth.  And we can afford to be more aggressive because we are now on the network side.  On pilot, we are even slightly better than others.  At least that's what the market reflects.</p>
+          <p>Our 3G network is very competitive.  So we should do more initiatives in order to have a higher load in utilization of this network capacity we're having.  So for the first time, we've seen more competitors now on the network side.  So we can do more.</p>
+          <p>On the U.S., let me not go into further speculation on any consolidation moves, neither via the regulator discussion or anything else.  I just don't want to go there.  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Hannes Wittig from JPMorgan, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Yes.  Good afternoon.  I have two questions with regard to the United States business.  The first one relates to the cost savings that you alluded to earlier.  You said there would be a mid-single digit amount of cost savings this year.  Was that the annualized run rate or was that what we should expect this year.  And what kind of margin would you &#x2013; or margin improvement would you expect to result from it?  And secondly, is there anything that you can say regarding the performance of the business subsequent to the end of the first quarter, given that it's now early May?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>First question maybe &#x2013; it's Tim here.  The cost savings you're mentioning are clearly three digit number, and it has to pay in already in this year.  It's a program for 2009.  Clearly, we expect to improve our business as well as our margins throughout the next quarters.  Don't expect wonder already in the second quarter.  As you know, we see the improvements throughout the year.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Guy Peddy from Macquarie, may you ask your question please?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Yeah, good afternoon, gentlemen.  Just a follow-up, Ren&#xE9;, to your comments that say that the U.S. issues are temporary.  If my memory serves me right, you've been very successful as the U.S. market has grown, but the U.S. market as a whole is slowing.  And why doesn't that actually start to become more structural issues for you, given your scale?  And in particular, I'm reminded of the experiences in T-Mobile UK, which probably for the last six, seven years has always been a structurally-challenged operator.  So I'm just intrigued as to understand a little bit better why the issues are temporary and why they're just not for your scale disadvantages coming out, which is going to be maintained into longer term?  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>On the UK first, if you recall a couple of years ago, right when we met first, I think the company was using about 1 billion in cash every year.  And in fact that turned around in the last couple of years and became cash positives and contributed to the Group also on the cash side.  So it was self-funded, it didn't need other cash.  It turned around last year was particularly this &#x2013; last year was particularly difficult and this quarter's particularly difficult in margins, that's correct.</p>
+          <p>And, yet, the best solution is to improve the business, and that is something what we're going to tackle now.  And the same applies to the U.S.  We have an action plan in place to address the things which we are lacking in particular, and that is on the 3G side.  We're just not yet competitive enough on the 3G network side, number one.  And this is where the business is growing.  Data ARPUs are growing, and mobile internet is starting.  It is not mature yet.  You're right that the number of customers, of new customers, eventually is going to slow down.  Our data ARPU is growing and mobile internet is growing and this is something where we have to improve our position.</p>
+          <p>And by the way, on the scale question, there are two dimensions of scale.  The one is on the national level, which is of course very important, and there's another one on procurement on the international level.  And I think on the international level with regard to procurement, we can compete.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Ms. Robin Bienenstock from Sanford Bernstein, may you ask your question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Yeah. Thanks very much. Good afternoon. Two quick questions, the first is, is it really feasible given Virgin, Boost, Leap <mark type="inaudible" /> all of them $50, unlimited, to stay at $100 for new customers, unlimited on prepay? And second, it's always nice to think about winning the lottery, but if you had an extra EUR 4 billion let's say from the sale of T-Mobile UK, where would you invest it? Would you invest it in German fiber?  U.S. mobile? Or would you give it back to shareholders? Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>The first part of your question was $50 on all the flat offers at the moment, are we competitive against that? Or how do I &#x2013; trying to understand this question.  Can you repeat that?</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>You got $100 for new customers, versus 50, and you're only really giving the $50 to long-standing customers.  So my question is, is that feasible on a long term? And if I misunderstood that then apologies.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>In fact, the &#x2013; only for existing customers the plan is for $50 that they can use in the loyalty plan, that they can use for $50 a more or less flat package, and that is very successful. So it's not just a $100 package. For existing customers it's $50, and new family unlimited is also a $50 add-on package. And then when you get four billion from U.K., is that the question what you're asking?</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>For U.K., let's say you get 4 billion...</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>I afraid that is very hypothetical because that implies that we are selling the U.K. business and I am sorry that I can't comment on this.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Matthew Bloxham from Deutsche Bank, may we ask your question please?</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Good afternoon. Question on the U.K. and a question on the synergies. On the U.K., I was just wondering, the new management team, and you kind of given them I don't know two or three months, with those to have a look at the business to come. What do you presuppose about the best way to kind of reposition that? Or is there a fairly clear idea about what needs to be done with respect to executing?</p>
+          <p>And then the question on synergies, my understanding is that the good bulk of these synergies can't come through OTE rather than directly to Deutsche. Just kind of wondering if you could give a little understanding and kind of how you reconcile that against the relatively high price you paid for OTE. Is that not an opportunity to kind of accrete more of that value directly for the benefit of Deutsche shareholders. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Right. If I understood that correctly, then what's the new management and how long would we give the new management in the U.K. to come with the right strategy? I think a couple of elements of a good strategy for the U.K. have already been mentioned. I think Justin pointed that we could envision ourselves, becoming a bit more aggressive and a bit more disruptive. So I don't expect that new strategy to be a miracle. I think it's just, it has to be a solid plan as to how we can capture more share in leveraging our existing network capacity, and become more relevant factor in the marketplace. And I don't think that will take many months. I think that can be worked out in a relatively short time scale. And the new management team has certainly been part of that output exercise. But it won't take too long before we come up with a new approach.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Matt, to answer your question on the synergies of OTE,  95% of the synergies are coming from OTE, 5% are coming from Deutsche Telekom and affect Deutsche Telekom. And these synergies are located in areas such as wholesale, fixed networks and really to a minor degree in the area of roaming and procurement. So the main part is on the OTE side.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. <mark type="inaudible" />, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Yes. Thank you. I've got two questions. First can you share with us your intensions in terms of cash tax restructuring costs and working capital variations for 2009? My second question is on domestic fixed line revenues, because we saw a slight deterioration in terms of trends in revenues versus Q4, I was wondering when you expect any inflection in terms of revenue trend?  And if you'd would be consistent with the stabilization of revenue in 2010, if I correctly remember.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>So I think your question' having, how we're going to match the 6.4 billion free cash flow for this year starting with the lower EBITDA and an unchanged CapEx level. I think, first if you take our EBITDA guidance, at the midpoint you know around 19 billion, 18.9 billion, we had planned the cash CapEx of eight billion and with up to nine billion which we had originally in our planning. We have cash taxes, interest restructuring payments, working capital optimization, which stand for around four to five &#x2013; 4.5 billion. And this is then resulting in the free cash flow achievement of 6.4 billion. Yeah, Anish is up and running here, even to further optimize our working capital, and as well how to optimize the CapEx that we are able to meet the free cash flow number.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>On fixed line Germany, the inflection point was always targeted for 2010, and that stays intact. The current situation is &#x2013; whilst revenue top line is still decreasing by five point &#x2013; I think 5.5 or 5.7, EBITDA has been decreasing under-proportionately by only 3%, which is still 3% too much, but 3% is under-proportionate because of cost management discipline. And we are very, very successful on the DSL side when it comes to market share, and much more successful than two years ago, or 2.5 years ago. So I still think the trend is pretty good under the given circumstances in the fixed line operation.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Carl Murdock-Smith from Cazenove, may we have your question please?</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Thank you. Following the write-down in the U.K. business of the EUR 1.8 billion, I was just wondering at what value T-Mobile U.K., is now carried in your balance sheet? And secondly, on the Save for Service plans, I see that again, the increase in market spend is greater than the Save for Service, I was wondering at what point you would expect that the savings would actually be greater than the reinvestment in market spend? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>It's normally a very detailed and private question on the book values and what we have in mind here, but after the depreciation, the value is around four, 4.5 billion for the company including a net debt of 1.2 billion, and the goodwill number is almost entirely depreciated now.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>In the quarter, the Save for Service impact was about 270 million additional, and market spend is equal to about 400 million but there was a bit frontloading in the first quarter and push for quite, you know, high-subsidized devices such as the iPhone for instance, or other devices. So it's a little distorted picture because of quite a bit of frontloading in Q1.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Frank Rothauge from Oppenheim, may we have your question please?</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>&#x2013; Frank Rothauge&gt;: Good afternoon. I have a question on CapEx flexibility and you nearly gave an answer it was &#x2013; saying that you won't &#x2013; you'll reduce CapEx planned from nine billion to eight billion. Well the question is where can you save CapEx? It looks to me that in particular German fixed line CapEx is pretty high, or when you benchmark it to France Telecom it's nearly double what France Telecom invests in France, even adjusted for higher line base. Should be one billion too high, is that the area where you can save most?  Or are there others to take into account?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Ladies and gentlemen, please stay on the line. The conference call will continue in a few seconds.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>... where we have identified potential as well. So there is a clear program behind that, clear measures behind that, and if it's needed we're going to cut it out.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Jacques de Greling from Natixis, may we have your question please?</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thank you. A complimentary question on the T-Mobile U.K. The figure of four to 4.5 in value, is that equity or enterprise value? I was &#x2013; it was not very clear. Thank you.  Hello?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>So to answer very clearly and precise, the 4.5 is the value in British pounds, and the net debt is 1.2. So the equity value is around 3.3.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Andrew Beale from Arete Research, may we have your last question please?</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Yes. As I look at your experience, I guess, in T-Mobile U.S., and I understand the economy's at par, a bigger issue seems to be a slightly slow response on the two-year contract plans, the slightly later 3G offering and handset lineup. And I guess, just making a general observation whether it's in the U.S. or in German wireline or in the U.K., you're very good at reorganizing yourself when you have a crisis, but seem to be a little bit slow at predicting the issues ahead of time. I just wondered if you had any initiatives within the company to speed up overall responsiveness at the market level?  What you can talk about in that? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>I do not agree with that observation in general. I think the 3G delay in the U.S. goes back a couple of year ago when extra spectrum was auctioned we at that time were in deleveraging mode, from a Group level, and we only acquired spectrum at the end of 2006 when the next opportunity was there in auction 58 and we did acquire enough spectrum to build a 3G network and then cleared the spectrum very fast, as fast as possible, and ever since built it as fast as possible, built the network. The same applies to handsets. And we are getting new handsets as fast as possible. We've also been the driver in innovation, handsets with Google or with Samsung devices, but mainly with Google for instance, and we sold a million of these Google devices.</p>
+          <p>In Europe we were the first to introduce the iPhone. We fought against our competitors who were also very keen to get the iPhone and so forth. And so I actually to be honest &#x2013; we had a difficult quarter, I agree, I don't accept the comment that we're generally slow in anticipating the issues. We are working very hard to improve the proposition in the U.S. and the U.K., but it's not that we don't see the situation as it comes. That's not the case.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Ottavio Adorisio from Soci&#xE9;t&#xE9; G&#xE9;n&#xE9;rale [SG Securities (Paris)], may we have your question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Hi, good afternoon, gentlemen. A very, very quick question, it's a follow-up question on CapEx. I assume the increase in cash CapEx was not limited to the U.S. or to Poland, it is actually materialized across the board, and particularly when I look at Austria, Netherlands and Slovakia. Could you please provide some color on first, what has motivated the shift in the payment schedule and second, how much of the increasing CapEx was motivated by the need to build capacity to support the growth with people today who are delivering on data services? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Ottavio, the increase in cash CapEx, you're absolutely right. It is not just the U.S., it is also amongst some of our European mobile assets. It is also in the German fixed line business. The increase of capacity, for the need of data services, was actually not the major driver as when you pointed out. I think mobile data is not yet a major driver for our increase of CapEx.</p>
+          <p>The major driver for increase in CapEx in the U.S. was the 3G roll-out and it was a bit front-end loading for the European mobile business and also the fixed line business which should be normalizing over the rest of this year.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>I would like to mention, in addition, that last year, 2008 in the first quarter we came out of 2007, we had internally a kind of freeze on the CapEx, so we started very slowly on the CapEx spend. In the first quarter, we have already spent around two billion CapEx. So we had another seasonality on the way how we treated our investments. And, therefore, it's very difficult to compare quarters-over-quarters with regards to the CapEx. In part it's the total number and let's say how we're going to match that throughout the year. Have we shifted payment terms? You know, whatever we could do to optimize our interest, or as well our working capital management, you know, we have done that in that past and we will do that as well, in terms of this year, and that was one of the reasons that CapEx was triggered in 2008 and shifted into our first quarter of this year.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Brian Rusling from Cazenove, may we have your question please?</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Yes. Just actually a follow-up question on Hannes Wittig's question you didn't get around to answering. If you look at the Q2 period so far, we've actually seen quite a worsening of GDP expectations for the German market, specifically. And I was wondering if you could update us in terms of your German operations fixed and mobile and also systems. What sort of impact have you seen at the operating level from that deterioration in the GDP environment in Germany? Are you seeing it in slightly higher churn rates?  Seeing it in ARPU coming down?  Is there a bit more pricing competitiveness in systems?  That sort of thing.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>So far, I think &#x2013; when we did last week, or ten days ago, the change in our expectation, the prognosis for the German economy had already been more conservative overall. But our guidance is based on what we knew then, what we know today if there is significant decrease, a further significant decrease that may impact our business. But for the time being, no change, we stick to what we said. We think we can do this on our previous forecast minus three to minus 4%. So not a major decrease in EBITDA and the non-CapEx fees. Eventually CapEx cuts should enable us to achieve the cash flow which we project now. So no news on this front and it's too early to give any statements on the second quarter, I'm afraid, because the numbers clearly are not available yet.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Ladies and gentlemen, the conference is about to end. So if you have still further questions, we kindly ask you to contact the Investor Relations department. Mr. Frank Rothauge from Sal Oppenheim, may we have your last question please?</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Thank you. Due to a technical problem, you could -- no one could hear your answer to my first question. Maybe you can repeat the key items, and I have a follow-up question on the working capital outflow in the first quarter that was pretty big, do you believe that some of this working capital outflow is going to reverse over the year?  Or are there a significant, let's say, sustainable outflow which you cannot recover in the first quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>So sorry for our &#x2013; the answer here on that one. We had our original planning, had nine billion of CapEx in mind. We have chosen one billion down to eight billion for the rest of the year. The main part where we're going to save if necessary is BBFN [Broadband/Fixed Network] in Germany, and it's going to be Mobile Europe to a high extent. What we're doing on the U.S., it's coming with a high amortization, the 2G roaming over the &#x2013; immediately reduces our roaming cost for third parties and the 3G rollout is immediately helping us on higher ARPU and as well on better churn rates, to compete against the &#x2013; the local offers with a weaker network.</p>
+          <p>So the money has been allocated to the divisions. And to be very straightforward, the moment that we're going to find out that we are not able to deliver on the free cash flow number, we're going to cut it. And we have defined, let's say, deadlines that we get &#x2013; if you know, materialized already throughout 2009. When it comes to our working capital, yes, working capital was always an item management cared about. But due to the relevance which free cash flow gets for us as the one of the main KPIs, we have triggered a new team here, a central team, upon which is now very much focused as well on optimizing working capital outflow in the Group. So this team has started a week ago, and hopeful we'll see as well additional impact on this item.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We like to thank you for participating at this conference. A recording of this conference will be available for the next seven days by dialing Germany 49-69-92-05-3333. I repeat Germany 49-69-92-05-3333. We are looking forward to hear from you again. Thank you and goodbye.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

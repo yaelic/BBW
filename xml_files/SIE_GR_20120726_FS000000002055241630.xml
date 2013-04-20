@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1482750" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q3 2012 Earnings Call</title>
+    <date>2012-07-26</date>
+    <companies>
+      <company>579</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep" affiliation="Head-Investor Relations">Mariel von Drathen</participant>
+      <participant id="2" type="corprep" affiliation="President, CEO &amp; Head-Corporate Communications">Peter H. L&#xF6;scher</participant>
+      <participant id="3" type="corprep" affiliation="Chief Financial Officer &amp; Member-Managing Board">Josef K&#xE4;ser</participant>
+      <participant id="4" type="analyst" affiliation="JPMorgan Securities Plc">Andreas Willi</participant>
+      <participant id="5" type="analyst" affiliation="Morgan Stanley &amp; Co. International Plc">Ben E. Uglow</participant>
+      <participant id="6" type="analyst" affiliation="Credit Suisse Securities (Europe) Ltd.">Simon J. Smith</participant>
+      <participant id="7" type="analyst" affiliation="Sanford C. Bernstein Ltd.">Martin Prozesky</participant>
+      <participant id="8" type="analyst" affiliation="Merrill Lynch International (United Kingdom)">Mark A. Troman</participant>
+      <participant id="9" type="analyst" affiliation="Deutsche Bank AG (Prime Brokerage)">Peter J. Reilly</participant>
+      <participant id="10" type="analyst" affiliation="Redburn Partners LLP">James A. Moore</participant>
+      <participant id="11" type="analyst" affiliation="SG Securities (Paris) SAS">Ga&#xEB;l De Bray</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good day, ladies and gentlemen, and welcome to Siemens' 2012 Third Quarter Conference Call. As a reminder, this conference is being recorded. Before we begin, I would like to draw your attention to the Safe Harbor statement on page two of the Siemens' presentation. This conference may include forward-looking statements. These statements are based on the company's current expectations and certain assumptions and are therefore subject to certain risks and uncertainties.</p>
+          <p>At this time, I would like to turn the call over to your host today, Mrs. Mariel von Drathen, Head of Investor Relations. Please go ahead, madam.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Good morning, ladies and gentlemen, and welcome to Siemens' third quarter fiscal year 2012 conference call. The Q3 documents like the earnings release and the flash slides have been published this morning on the Siemen's IR website. And this morning's presentation is now also online. This call is being webcast via the IR website. Siemens' President and CEO, Peter L&#xF6;scher; and Chief Financial Officer, Joe K&#xE4;ser will review the Q3 results in an introductory presentation, followed by a question-and-answer session.</p>
+          <p>And with that, I would like to now hand over to Peter.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Mariel. Welcome and good morning to everybody. Before I walk you through Q3, let me give you a brief perspective on key macroeconomic indicators relevant for our business. Overall, the near-term global GDP growth expectations have come down and are somewhat sluggish with growth rates around 2.7% for 2012 and 3% for 2013.</p>
+          <p>We have seen quite a cooling down in demand in important end markets that are driven particularly by the export-oriented German industry, as you can also see from the current IFO level or VDMA numbers. The investment climate in a number of Western European countries remains very weak due to the ongoing austerity measures and restricted access to and high cost of capital.</p>
+          <p>In addition, important emerging markets like Brazil and India have lost speed as well. The lowered growth level of industry value added in China points also to weakening investment in certain customer industries in China like machine-tool builder, rail equipment, or automotive.</p>
+          <p>We don't expect any recovery in our end markets in China in 2012, but we believe that growth could resume in the course of 2013. All in all we expect the economic environment for Siemens to be challenging over the next couple of quarters, and thus, cost efficiency and productivity need to be in the forefront of our management approach. This leads me to the performance in this third quarter which was mixed with, on the one hand, positive developments such as continued revenue growth, and on the other hand some disappointments in order intake and profitability in some businesses.</p>
+          <p>The macroeconomic environment has weakened in a number of our key markets during the current quarter which clearly affected our bookings. Growth rates have softened now also in Germany while the BRIC countries are increasingly impacted by lower demand from their worldwide customers. As already indicated, this had a subsequent negative impact on the structural mix of our short-cycle businesses. Our order intake decreased substantially by 27% from an extraordinary high level of last year where we booked a much higher volume of large orders in Energy, in Transportation &amp; Logistics including the, if you remember, the &#x20AC;3.7 million ICx-order in Germany.</p>
+          <p>Therefore, our book-to-bill decreased to 0.91 but we expect to see a rebound to above 1 in the fourth quarter. Our backlog remains at &#x20AC;100 billion supported by translation effects of the weakening euro. We achieved moderate revenue growth of 3%, driven by continued backlog conversion in Energy and impressive competitive strength in our Healthcare sector.</p>
+          <p>Profitability clearly exceeded the prior-year level which was substantially burdened by the Areva arbitration decision and the Particle Therapy reevaluation. Fossil and DX delivered strong earnings. However, profitability was impacted by higher OpEx in all sectors and a significantly lower contribution from the Industrial sector.</p>
+          <p>As for OSRAM, we stick to our original plans to deconsolidate the asset but changed our primary plans. Since market conditions continue to be highly volatile for an IPO, we decided to pursue a spin-off to our shareholders as the most probable part of divestiture. This option requires shareholder approval at the next AGM in January 2013 and Siemens still intends to remain an anchor shareholder in OSRAM. Though our strategic intent remains the same from an accounting perspective, this results in a significantly negative non-cash P&amp;L effect in discontinued operations through a so-called cumulative catch-up of depreciation and amortization related to OSRAM.</p>
+          <p>For the record, here is the overview of the key figures for the third quarter. These challenges are reflected in our regional split of orders and sales in the third quarter, the lack of large orders, particularly in Energy and the Rail business, compared to a strong prior-year weighted on growth rates in Europe and also the U.S. Major driver behind the 28% order decline in the U.S. was the expected expiration of the U.S. tax benefit scheme on renewables, which led already to a sharp decline in new Wind orders.</p>
+          <p>In transition &#x2013; in Transmission, we are intentionally more selective and focused on profitability. The decline in orders in Europe is broad-based across all businesses but clearly dominated by tough comps due to the ICx order of &#x20AC;3.7 billion, booked in Q3 last year.</p>
+          <p>The emerging markets held up well, with a stable development year-over-year despite the 5% order decline in China. For example, Russia was up 24%; Middle East and India both grew by 7%. As a consequence, the share of the emerging markets in order intake reached a high level of 38%. Our sales growth was very broad-based with particular strength in the U.S., showing a 10% increase. This was mainly driven by energy recording to high double-digit increases in the Wind and Transmission business. While we saw some weakness in revenues in China and India, other emerging markets like the Middle East or second-wave countries compensated for this and held the share of emerging markets constant at 32% of revenue.</p>
+          <p>What were the key developments in each of the sectors? In sector Energy, as already mentioned, orders in Energy went down substantially by 33% due to a broad-based decline of large projects in all divisions. The Energy market remains highly competitive with some postponements of projects and competitive pricing in the market.</p>
+          <p>Those of you following our news closely probably have noticed our recent order announcements, such as Lausward, the next H-frame power combined cycle power plant for the Stadtwerke D&#xFC;sseldorf with our second H-frame sold in Germany and 15 in total. We plan to achieve for the first time an efficiency level of above 61%. The Panda Temple Power Project in Texas in the U.S. with an order volume around $300 million and the large-frame agreement with DONG Energy to deliver 300 of our new 6-megawatt direct-drive turbines which will strengthen our market leadership in offshore wind. And this largest offshore order ever adds another 1,800-megawatts to our installed base of 2,700 megawatts.</p>
+          <p>For Energy, we expect a strong rebound in orders in Q4 and the book-to-bill ratio for the full year likely just shy of 1% &#x2013; of 1. The sectors backlog remained at the healthy &#x20AC;56 billion at the end of the quarter. And second quarter revenue rose by 8% on the conversion from Energy's strong order backlog driven by a substantial increase of 35% in the renewable business.</p>
+          <p>Fossil continued its excellent project execution and delivering once again a strong margin of 17.6%. The product and service business contributed significantly to this performance. Unfortunately, the strong top line growth in renewable energy did not adequately convert into profitability. The reasons were supplier-related provisions of &#x20AC;32 million and the &#x20AC;20 million charge for capacity adjustments weighting on profitability in the Wind business, while the Solar business posted higher losses year-over-year.</p>
+          <p>As previously indicated, Power Transmission reported a weak margin of 3.2% due to the conversion of lower-margin contracts and further charges of &#x20AC;22 million mostly related to the grid connections to offshore wind farms in Germany. I will give you more details in a minute about the progress we have achieved to bring Power Transmission back on track.</p>
+          <p>Let's move on to Healthcare. Healthcare delivered again a strong operational performance and was diligently executing on its Agenda 2013. Order growth was 2%, mainly driven from double-digit growth in Asia with a substantial double-digit increase in China, while the Americas were moderately up. Europe was clearly down as is expected. Revenue growth improved to 8% with growth in all regions on easy comps, yet outperforming competition for the most part. We booked charges of &#x20AC;33 million for Agenda 2013 which were offset by a net gain of &#x20AC;34 million from a successful pursuit of a patent infringement claim.</p>
+          <p>I want to highlight the continuous progress we are making in the Diagnostics business where we saw revenue growth accelerating to 6% in its first &#x20AC;1 billion quarter. The DX team executes well on its plan and gradually improving underlying profitability. And it achieved 14.6% in the current quarter, up 180 basis points on prior year.</p>
+          <p>As already mentioned, industry faced headwinds particularly in the short-cycle businesses of Industry Automation and Drive Technologies, and in addition the sector's renewable offerings were held back by the difficult market environment. Revenue in the sector was down 2% year-on-year while orders went down moderately by 4%, yet supported by contract wins in the metals business. Profitability in Industry Automation was down 260 basis points compared to the last quarter, mostly due to a significantly unfavorable product mix and also high OpEx spending.</p>
+          <p>The drop in profitability of Drive Technologies to 8.6% is largely due to a weaker margin in the short-cycle motion control business and continuous challenges in the Renewable Energy offering of Drive Technologies.</p>
+          <p>Finally, I want to walk you through the key developments in the sector Infrastructure &amp; Cities. Revenue for the sector was slightly up, 1, driven by an increase in the Power Grid Solutions &amp; Products business. Profits in the Transportation &amp; Logistics division achieved 4.2%, 100 basis points below the prior-year level due to lower revenue and some impact from lower margins in the long-term contracts.</p>
+          <p>Now I want to give you an update on our approach to our &#x2013; how to regain market margins and competitiveness in our Transmission business. The new management team has executed a set of immediate actions: first, introducing the new organizational structure as of July 1, with a clear focus on two product units: high-voltage products and transformers; while in transmission solutions, all project managements and solution competence are bundled.</p>
+          <p>Second, we will cut overcapacities in several countries by reducing around 650 employees in 2012 and have announced further reductions in Germany for 2013 as well. All related actions will lead to restructuring charges around &#x20AC;100 million in this fiscal year.</p>
+          <p>And third, we put a strong emphasis on stabilizing and mastering the offshore grid access project in Germany. The resource ramp-up is almost done and each of the project is staffed with a very experienced project director. Our team is collaborating closely with the customer, suppliers and regulatory bodies to resolve the outstanding challenges. By this program, Transmission will achieve by 2015 30% cost savings, 8% profitability and grow faster than the market after a consolidation phase.</p>
+          <p>In addition to the immediate actions, we will focus on additional cost reductions in all areas to be successful in a very competitive environment: procurement, product design, project execution and further planned consolidation by the introduction of a feeder plant concept. To complete the program, we expect further charges in 2013 and 2014. The new management team has already introduced a more selective approach to project acquisition with a clear focus on profitability.</p>
+          <p>And finally, mastering the offshore grid projects successfully is a crucial cornerstone for Transmission, and since it will be the reference for further projects to execute the so-called <mark type="indiscernible" /> (14:58) in Germany and elsewhere.</p>
+          <p>Now I would like to hand over to Joe for some more background on the financials.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Yeah. Thank you very much, Peter. Good morning, everyone, from my side. May I draw your attention to the so-called below the sector topics that you'll find on page 9 of the handouts which have been delivered earlier today?</p>
+          <p>On the left-hand side, you'll basically see what has happened below total sectors in fiscal Q3. I mean, obviously, NSN now sees first signs of recovery due to a basically decent progress of restructuring. So, from those &#x20AC;128 million, about &#x20AC;95 million before tax was, again, on so-called non-operative charges. So, it's on the way to some material recovery even though obviously the long-term aspects remain uncertain.</p>
+          <p>SFS, quite decent performance. We expect that to continue. I'd really like to emphasize the point that our corporate &#x2013; topic corporate items and pensions were positively affected by some recoveries of write-offs and a change in provision. So, you should not consider that to be the normal run rate going forward. In terms of corporate treasury and other items, a mere &#x20AC;22 million profit was recorded in Q3.</p>
+          <p>As far as taxes are concerned, we've been at the 33% tax rate which is slightly above of what we actually expect to be the normal for 2012 and also Q4. Here, we expect to be more in the 30% range for the remainder of the year, which then also would cumulate to a 30% tax rate for fiscal 2012.</p>
+          <p>Now, obviously, the question is what's &#x2013; what to expect in Q4 for the remainder of the year. That's some light here on the right-hand side of the chart. NSN should actually come out with some stronger operative results due to the significant impact of restructuring which should show some improvement operationally in our fiscal Q4. However, the real impact in a positive way is expected to start in calendar quarter four, which obviously is our first quarter 2013.</p>
+          <p>Restructuring is basically completed as far as the majority of items is concerned. The only one topic I would like to caution you a bit on is that obviously, Bosch Siemens Hausger&#xE4;te being also somewhat affected by some weaker consumer confidence in Europe. This is certainly something which we ought to consider; it may not be material in the greater context, but certainly for Siemens appliances, we'll also see its impact from a weak European environment predominantly, obviously, the peripheral environments of Europe.</p>
+          <p>Now, on Siemens rental services and the corporate managed portfolio assets, that should pretty much be in line in Q4 with what you saw in Q3. SFS has been performing well. If there is no major unforeseen impact on credit hits and the likes it should actually be a pretty solid quarter in Q4. And obviously the most volatile item in Q4 as compared to Q3 are the corporate items and pensions. As I've said, Q3 was materially impacted by some positive one-offs. So, if you put about a &#x20AC;200 million run rate &#x2013; cost run rate into your Q4, that should actually be pretty much on the safe side.</p>
+          <p>The only one significant volatile here is our so-called asset retirement obligation. That's a construction matter of some nuclear remains in Hanau. As you might know from our filings. It is a &#x20AC;2.7 billion liability up to 2075. And alone from those numbers, you can see how heavily those future liabilities will be impacted in terms of net present value by the discount rate which is used. So it was positive in Q3 with the plus &#x20AC;44 million, but that could also change course if the discount rate turns smaller.</p>
+          <p>On the corporate treasury items, obviously, this is a matter also of our interest swaps and FX swaps which do not qualify for hedge accounting, so there is naturally some volatility here, but should also be containable in the neighborhood of about &#x20AC;50 million, give or take. So that's what we use as a planned run rate in our own consideration for Q4.</p>
+          <p>One thing I also would like to mention is that the pension topic and the pension guidance for Q4 includes also some one-off gain in the OPEB. This means there are other pension benefits which we may also push down into the sector. So for Siemens overall, that's neutral as an earmark for Q4.</p>
+          <p>Now let me move on to page number 10 which could give you some considerations on how our net debt development obviously has been going. We see a slight increase of our net debt number from &#x20AC;10.6 billion in Q2 up to &#x20AC;11.0 billion in Q3. That's been first and foremost coming and affected by some increase in inventories and predominantly also by adverse effects in the billings in an excess environment. And many of you who've been following us know that we've been consistently cautioning the markets about some topics on the prepayments of large orders. And as you can see in our order development, obviously large orders have been going down significantly and so have been the prepayments which then obviously, in turn, affect our bridge here.</p>
+          <p>Also, inventories continue to increase, year-to-date now up to &#x20AC;1.5 billion. That obviously goes with the dynamics of revenues. So, if we expect some ease of the dynamics in the quarters to come, one could also expect that those working-capital items move closer to liquidity in Q4 and obviously in the quarters in 2013. Obviously, then again, however, our free cash flow for 2012 will be weak and significantly below prior years, predominantly due to the fact that we are lacking prepayments for large orders as we move along.</p>
+          <p>Now, on the cash and cash equivalents, you've seen that our liquidity actually increased from &#x20AC;8.4 billion in Q2 up to &#x20AC;9 billion in Q3. So, we still have enough gunpowder to remain flexible in terms of financial, operational and strategic efforts. So, we do have significant liquidity, and we also, obviously, do see some continued favorable interest-rate spreads in Siemens due to historic lows of financing costs. And obviously, this needs to be looked at how we can take advantage from that environment. So, we do continue to take actions to protect our assets in a difficult environment in terms of debt environments from certain countries.</p>
+          <p>Now let me move on to a glance at how we are doing on our One Siemens goal. So, obviously they remain in place. We've got some work to do here as you can see by the numbers. And Peter earlier today has addressed this vertical, so going forward, in a more corporate-driven productivity boost program. And while we know where we're going, details will be coming when we discuss our Q4 results and, obviously, then what to expect in 2013.</p>
+          <p>I'm not talking too much again about the growth method on the upper left, a lot that we've talked about. We do see, obviously, weakness in global demand which reflects in the orders. Obviously, those weakness has not yet reached the P&amp;L since revenues are still up year-over-year.</p>
+          <p>In terms of order intake, also, we do see continued softness of merchants in our bookings. That's mostly also related to Energy, where some competitive activities are getting more energetic, and also partly in I&amp;C. So we continue to have that in our focus as the quality of the backlog obviously will be affected by that.</p>
+          <p>If we move now on the margins, I mean, obviously, Energy is pretty close to where our bandwidth is. There's been some weakness in the so-called Renewables which is predominantly affected through solar. Wind is actually developing according to our expectations and produces decent margins compared to competition, at least. The solar matter obviously is being affected by some structural changes in the global environment of that industry, and that also means that we need to take close attention on what that means in Siemens.</p>
+          <p>And as far as the Transmission is concerned, there's a program underway which looks promising. On the same token, though, this is not going to get us anywhere close again to margins which we used to have until likely 2014. The reason being that the majority of the backlog on those wind projects in the North Sea, obviously, is now running with zero gross margin and will ultimately dilute the P&amp;L, which actually should not come as a surprise because if charges are being made that means that gross margin will be zero as we move along. Good news is we've been on the cap of liquidated damages here, so any potential unforeseen delays would not materially affect any provisions as they relate to liquidated damages going forward.</p>
+          <p>Infrastructure &amp; Cities; I mean, obviously, it's been not exactly there where we want it to be, and where it needs to be. On the other hand, we always made it pretty clear that the whole city infrastructure has its long-term potentials and in the short term still needs to take some efforts on getting the product margin in order.</p>
+          <p>On capital efficiency, we've lost 550 basis points on an underlying base. If we compare ourselves to the year-to-date of 2011, that needs to be changing. So far, we did not yet get our top-line growth into value-creating capital efficiency. That's also one of the major reasons that we'll be stronger focusing on corporate efforts to get the organization more into effectiveness and the productivity to boost the gross margin quality, as well as the effectiveness of OpEx as we go forward.</p>
+          <p>Now, on the capital structure side, obviously, we are getting closer to our self-inflicted target which is between 0.5 and 1.0 adjusted industrial net debt over EBITDA. And obviously, we still reached the corridor, but this happens more in a less intended manner, and we definitely want and will be taking more control into our own will again to structure and to design our optimized capital structure going forward.</p>
+          <p>So, with that, I'd like to hand it back over to Peter to summarize and then also give some light on the outlook for 2012.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Joe. I just want to conclude with the full fiscal year 2012 guidance and the priority, what we see ahead actually.</p>
+          <p>Given our results for the first nine months of fiscal 2012 and also the macroeconomic environment which Joe and myself has highlighted, it has become clearly more ambitious to reach the range of our mid-year outlook of &#x20AC;5.2 to &#x20AC;5.4 billion in income from continuing operations. And looking ahead, Siemens overall is strategically well-positioned with a strong portfolio, but we are &#x2013; and we also committed to deliver, as Joe has highlighted, on our One Siemens operational framework for sustainable value creation.</p>
+          <p>We will launch a corporate-wide program that focuses on improving our cost position, focuses on productivity, efficiency, as well as processes. The program will be designed to meet the challenges of the given market environment and the global economy, how we see it today. It will strengthen and further strengthen our competitiveness and also help us to gain market share. We will roll out this company-wide program at our annual top-management meeting. And thereafter, in our next quarterly call, we will then also explain it in more detail to you.</p>
+          <p>Our ambition is absolutely clear. We want to, again, gain strength in a difficult period of the global economy. And with this overview on Q3 and somewhat what we expect for Q4 and beyond, Joe and myself are now happy to take your questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Operator, we would now open the Q&amp;A session.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you, gentlemen. We will start today's question-and-answer session. <mark type="Operator Instructions" />  And our first question comes from the line of Andreas Willi of JPMorgan. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Good morning, everybody. My questions are, first, on M&amp;A you have been quite disciplined in 2010 and 2011 when some of your competitors balked. Now prices may have come down a little bit, but so has the &#x2013; kind of the outlook or the uncertainty is higher. Should we expect Siemens to be more active in the M&amp;A market in the coming quarters? Or is the focus pretty much now internally in terms of improving efficiency?</p>
+          <p>And the second question on Renewables, you have announced a small capacity reduction in the quarter and took a charge. What should we expect going forward? You have expanded capacity in a number of regions. Where are you cutting back and kind of what's the plan for the next few years in terms of how big you want to play in wind? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Good morning, Andreas. Actually, we will do both. I mean absolutely a clear focus on cost and efficiency. That's absolutely clear. But at the same time, there is also no change what we have always said. We are focusing on organic growth, but at the same time, we are also looking into bolt-on acquisitions. And this is definitely what we will now, going forward, to do in this environment as well. So, no change on the M&amp;A direction, what we are taking, but a clear emphasis on bringing the overall OpEx line in line with the external growth environment &#x2013; how do we see it going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>On Renewables?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>On Renewables, Andreas, I mean, they are &#x2013; I think what you should expect is that, for us, size doesn't matter so much. There were times where our leaders would have said that it's important to be number one or number two in wind. I think it's much more important to focus on profitable capital-efficient growth. Therefore, our focus on offshore wind as we have said, selective playing on the onshore and ensuring that we actually play projects which are profitable. And therefore, in this environment, we are currently working on a couple of scenarios because nobody really knows in the U.S. So, how we have to adjust on the PTC? How will the PTC, the Production Tax Credit, going forward look like, so we are prepared for several scenarios there.</p>
+          <p>We are clearly focusing on driving actually operational efficiency in our existing plants. So we have just increased on the turbine part, actually the throughput of our turbines significantly through actually modular highly efficient production techniques, what we have introduced there. We will play in China as we have said through the joint venture approach, what we have said there. And in the rest of the emerging markets, we will play selectively.</p>
+          <p>So, clearly, Andreas, it should help us to stabilize this. We have a good order backlog, more than &#x20AC;8 billion. And in the current environment, we are clearly selective in terms of which type of orders we are taking in so to ensure that we absolutely stay as a margin &#x2013; as a quality margin company in a consolidating more difficult wind environment. So, relatively speaking, we should be able to outperform key competitors on profitability.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We will now move to Ben Uglow of Morgan Stanley. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Good morning. I had a couple of questions. First of all, on the margin side, Joe, perhaps, can you talk a little bit more what you were mentioning on the press call or what was discussed in terms of Automation. And I'm surprised that the level of margin decline in Industrial Automation and Drive Technologies is already sort of 4 to 5 percentage points year-over-year. But revenues, at the moment, still actually are pretty flat. So, could you give us some understanding of the mix effects here and whether, as we see further revenue declines, are we still going to see a steep potential drop-off on Automation margins? So, that's issue number one.</p>
+          <p>Issue number two, I mean, congratulations. It looks like a very good performance, actually, this quarter in Diagnostics. However, the flip side of the coin is when I look within the other healthcare portion, which is mainly imaging and IT, it looks to me as though the underlying margins there are down from about 15% to around 12.5% quarter-on-quarter. Could you &#x2013; first of all, is that assumption correct? And can you tell me, if it is correct, what might be driving that change there?</p>
+          <p>And then final, just sort of big-picture question, in terms of the cost-savings plan, is this a genuine cost-cutting plan, i.e., that you will be putting out a sort of cost-savings target, or is this more of a control-of-OpEx plan?  So, are you actually looking to reduce absolute costs, or are you looking to control your OpEx spend?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Hi, Ben. I'm starting with the emerging development on, if I may, A&amp;D environment &#x2013; this is Industry Automation and Drive Technology. Obviously, on the face side has been surprising because one would expect Industry Automation to be down first and then comes Drive Technology somewhat later. Let me maybe start with Drive Technology. There are two areas here; one is the motion control aspect, which is hugely profitable and is very sensitive to changes in mix.</p>
+          <p>And that's exactly what we have seen, and I'll give you some flavor on the reasons in a minute. Then the other topic is more the Drive's environment including gearboxes and also deliveries to renewable energy markets like inverters and the likes. And those two actually you can see quite some weakness. And they have adjusted capacities so there are some one-offs related to that segment. That's just something one needs to know.</p>
+          <p>Then on the Industrial Automation and motion control, we've seen a significant shift in the mix. So, what does that tell us? It tells us basically two things. First is high innovative, top-of-the-line, tool-making environments, mostly in Germany and Northern Europe like Northern Italy and the likes, have been significantly stopping demand. Those are areas where you really do see the mix shift immediately in the P&amp;L.</p>
+          <p>So, the second topic is that if we look into where did the shipments go? Was it more into the solution business which is CapEx-type of base, or was it more in the distribution business which is OpEx-type of base or servicing lines and so on and so forth in the automotive industry? So, what we've seen here is that the CapEx-related deliveries continue to be in line. Unfortunately, those are those 5% to 8% margin environments in the beginning. The OpEx-related topics, which means automotive suppliers are &#x2013; fully utilized the capacity of the service. And distis sell to the mass market, that has been actually more or less almost stopping.</p>
+          <p>We've seen that the first time in April; some of you might have heard me say about eight weeks ago that the environment has significantly changed. And the reason why I was cautioning the market at that time was that the disti sell-in in March was great but unfortunately, the disti sell-out to the point of sale in April and May was actually coming &#x2013; I wouldn't say coming to an end, but was massively, massively down.</p>
+          <p>So, that is a clear sign to ask that our customers are getting themselves prepared for a downturn. And they are not ordering as much service and OpEx-related parts anymore as they used to and that the disti channel is still weak in terms of sell-out. So, that also would suggest that we have not yet seen the bottom of that weakness as we move along.</p>
+          <p>On the Diagnostic side, I mean obviously, Diagnostics is on its way. They have been delivering on what they would &#x2013; that they would say they would do. They are in line of the guidance of the financial market base and that's what we see.</p>
+          <p>Now, on Imaging, you're right, Imaging which obviously is the most powerful division in Healthcare by any means, they've taken some, if I may say, a little breath in Q3. And they promised to us that they will make it up in Q4. I hope that helps.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>But I would just like to add on a very high level. Ben, in terms of the program, I would like all of you to think about in the following way what we are now kicking off here internally. Think about it in a similar way than we have done actually the program in Healthcare, the Agenda 2013, which has a go-to-market component. It has a component in terms of how we accelerate innovative products in coming to markets, so speed the market on innovation side. It has a component bringing in line actually the cost structures, what they have built up in the different businesses. And you see now actually very good results, actually, how the earnings quality in this business &#x2013; growth and earnings quality has improved.</p>
+          <p>So, I would rather move the focus away from a cost plan and focusing it towards &#x2013; we are absolutely unhappy with the earnings conversions of our businesses. And through this program, we will &#x2013; we should and must be able to increase the earnings conversion.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Okay. That's clear. Thank you, Peter.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question comes from Simon Smith of Credit Suisse. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Hi. Thank you. Thanks for taking my questions. I guess, I have three questions. The first one was really just going back to the discussion of Drive Technologies. I mean, clearly within this business, you have the gears business, a splendid business which, as you say, has exposure into the renewables. The outlook for that area is getting &#x2013; continues to deteriorate. In terms of the sort of trajectory of margins there and the absolute kind of scale of potential exposure, I don't know if you could give us some understanding as to the scale of that business within Drive Technology and sort of where you think you are in terms of profitability cycle for that segment.</p>
+          <p>My second question was really with regard to Infrastructure &amp; Cities. I hear your comments in the sort of opening discussions about these are businesses where you still need to get the product businesses to the right margins. But I guess we don't really seem to be hearing that much about really proactive work that's being done in there. I don't know if you can sort of give us some feeling as to what is going on because, obviously, we see a group which every now and then sees a brief rally in margins and then seems to go straight back down to the bottom of its historic range. So, some feeling as to what's happened there.</p>
+          <p>And then really my third question was on the cost &#x2013; sorry not the cost program, your group-wide efficiency program. I mean, it sounds from all of your outlook statements that we shouldn't be looking for a lot of growth coming through here. And though I hear you're saying that a lot of it will be doing things smarter, if your top line is not growing and you want to improve profit conversion, it does seem to come down to being more a question of doing business at a lower cost. When you did the step-up in the OpEx program, we were sort of talking of numbers in the order of &#x20AC;1 billion in a kind of much lower growth environment. Now if we're talking about being more efficient, would it be right to think of costs at that sort of order? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Can I just quickly tackle the third question first? These are all very good questions, but this is precisely what we will share with you in the next call. What we did this time differently actually is before we are kicking off the program, we would like to flag it to all of you that this is clearly in focus and this is what we will put forward then. But more details, please; accept that first of all we have to kick this program off internally. We will discuss it then with our senior leadership team, and then afterwards we will communicate this.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well, then &#x2013; Simon, hi. Let me come back to Drive Technologies. What we said is that motion control has taken a hit in terms of demand, predominantly in the area of high-innovation, tool-making environments. And we expect that to be in a similar level for Q4 as what we have seen in Q3.</p>
+          <p>On the gearbox environment, obviously, we've taken some actions already. We will have a few more to make sure that our capacities and resources are being adapted to what we expect going forward. So, we do not expect that division to kind of go &#x2013; come closer to the cliff. We actually would expect in Q4 to be of similar-margin environments underlying, as in Q3. And much of what Peter has been highlighting in terms of the efficiency program 2013 would also be obviously related to the topic, how do we deal with the pretty significant changes in the whole renewable environment as subsidies are short and public debt obviously is still not fully under control in Europe.</p>
+          <p>So, I guess, you pretty much know where we need to go &#x2013; look and act. But as I said, do not expect any recovery anytime soon in the industrial environment because what we usually see is there is a significant change in mix due to the fact that distis are getting more cautious. On one hand, for example, in China, and that those high-end tool-making automotive environments are obviously up to some more consolidation as we move along.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Infrastructure &amp; Cities?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>That brings us to Infrastructure &amp; Cities. I mean, in order to, I guess &#x2013; answering that question which just need to go one step back and try to understand again why have we actually been founding that sector. It was the notion that the underlying trends in the everywhere we are looking, this is about mobility, about infrastructure control and a decent and efficient deal with Energy resources in urban environments.</p>
+          <p>We still do believe, and there's no change here in strategy, that there's &#x2013; in the mid and long term will be an area which gives us capital efficient and decent differentiation in the market. However, having said that, we are not going to move into any solution or PPP or any of those environments &#x2013; financing environments &#x2013; until we have completely fixed the product spectrum which we have. And fixing means that the products need to be strong and innovative and obviously, also what they are in most places but also highly profitable. And that's the first and foremost task which we see <mark type="indiscernible" /> (48:00) going forward, and that will take some time. I mean, there is continued requests for more profitability and we are working on that as we go along.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you, Joe.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Sure.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question comes from Martin Prozesky of Sanford C. Bernstein. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Good morning. It's Martin from Bernstein; a few questions, please. The first, on Healthcare, I just want to get back to the comment on imaging, I mean the margin &#x2013; well, the implied margin in the numbers today is weaker than we saw I think in the beginning of 2009. Just want to understand, is this mix, is this cost additions or what really drove the Healthcare margin?</p>
+          <p>And secondly, OSRAM, we saw the exceptional non-cash charges in the quarter. Can you talk about the underlying performance in the business? I think growth was 1% you said organically, but what is the margins looking like in that business at this point?</p>
+          <p>And then lastly on free cash flow, should we expect a big conversion quarter in Q4, given a pretty weak free cash flow performance year-to-date?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah. Let me maybe come back again on Imaging &amp; Therapy. And I said earlier that Q3 had a few things which didn't go as expected, but we also are reasonably confident that this will be dealt with in Q4 and that we'll see some strong finish of the year, also making up for some what we believe immaterial weakness of Q3. It has no real truth to anything. So, there's no structural issue. There have been some mix matters in both product structure, as well as regional structure. So, nothing which really concerns us, honestly, and there you'll see in Q4 that demands actually ought to be easing in terms of earnings power in Imaging. So, no big deal. As I said some things which need to be taken care of, and Q4 will be making it up, and then we're fine. And if you look at the continued earnings power and market power of that division, I wish I had more of them in the spectrum.</p>
+          <p>The second topic was free cash flow. That's definitely something which, I guess, needs to be again very clear that we will have some weakness in free cash flow in 2012. It should not come as a big surprise. We've been highlighting that for quite some time. And the major &#x2013; there are two reasons: one is structural; the other one is more temporary. The temporary reason is that we've been &#x2013; as you can see in the revenue numbers, we've been quite focused on being able to ship the products out the door as soon as the markets still wanted them. So, we're kind of building up some inventories which were maybe more than we would have in a usual run rate. There were some uncertainties about rare earth.</p>
+          <p>There was some uncertainty about disk drives and the likes. So, we've been a bit cautious in inventories. And that's been running up quite a bit in 2012 for year-to-date. And we'll get those assets closer to liquidity in the next quarters to come. So, that's the more temporary matter. So, we believe there will be some ease here in terms of those working capitals moving closer to liquidity.</p>
+          <p>Then the other topic is more a structural matter. And it's been flagged quite some time ago and continues to be flagged. And that's the &#x2013; so, the weakness of large big orders, which we've seen in 2012, we're also lacking quite an amount of prepayments. You've seen that; the billings in excess showed that. Also, if you look at the financial statements which are attached to the earnings release. And that one seems to be a more structural topic.</p>
+          <p>So, our customers are holding on to cash. Many of those bigger projects, such as wind or rail or others, are not as easy to finance through banks anymore as it used to be. And that's why people are a bit more shy on prepayments. So, that's a structural topic. That will cumulatively ease over time. But obviously, if you've been having that model that prepayments were a daily topic, that now goes down. On the same token, you ramp up your projects, as they are being called to order, you see that temporary and structural change. But as I said, cumulatively, that will catch up in Q &#x2013; fiscal 2013 should actually see a better cash conversion rate again as we had in 2012.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>And then there was a question on the underlying performance of OSRAM?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Underlying &#x2013; hypothetically, if I may, because obviously, accounting wise it's different now. If OSRAM had been the same as it was a year-and-a-half ago, revenue growth like-for-like would have been about 1% year-over-year, and underlying profitability would be about 5%.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Great. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Sure.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question comes from Mark Troman of Bank of America Merrill Lynch. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Yes. Thank you. It's Mark here from Bank of America. Good morning, Peter and Joe. Two questions, please. Firstly, putting a few things together what you've said on Automation &#x2013; Industrial Automation and Drive Technologies. I'm curious how you're thinking about managing this during a softer demand period. I guess that is one business that could potentially fall away quickly if economic conditions deteriorate or et cetera. How are you going to manage the profitability of that business?</p>
+          <p>Are you going to try and react quickly with cost cutting, or is the idea to keep investing and keep committed on the cost base to take some market share, especially in the light of your Chinese comments? Because Peter, I think you were saying you might expect a better 2013 than 2012, so I'm curious on how you're thinking about managing Automation &#x2013; the Automation businesses through this soft patch?</p>
+          <p>And then secondly, just a question on pricing. Obviously, the environment is weak as we all can see. Have you seen any sequential price weakness either in Energy, which is usually &#x2013; the Energy business, which is usually well flagged for price issues, or indeed in the Automation, which has just seen weakness now? Thank you. Or recently.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Hi, Mark. IA&amp;DT, and we still talk about short-term impact which we still expect that's probably more related to motion control, that means the early short-cycle environment of DT and Industry Automation &#x2013; how do we manage softer demand? Well, first of all, we agree that it's more likely than not that demand will soften basically on the fact that the disti sellout's been weak. And obviously also the OpEx-related revenues towards discrete industries, <mark type="indiscernible" /> (55:49) OEM have also been somewhat soft, which has been affecting the structure now. It may eventually also affect the volume also. How do we manage that? Well first of all, I guess we need to differentiate between the labor side of it and the keep investing side of it.</p>
+          <p>In terms of direct labor in factories, we believe that we've managed that pretty well in 2009 and starting 2010, we'll obviously also consider those type of items because we do believe that 2013 could be the start of what the political China has its on &#x2013; one of the top ranks on its five years plan, and that means high-end automation. We do believe and have reasons to believe that this is high on the agenda and will be executed as they have executed their plans in the past. So, the last thing we want is that we are just about ready with restructuring and then demand goes up. So we will make sure that we take all the flexibility on labor as we did in 2009 and 2010.</p>
+          <p>So, in terms of keep investing, I mean obviously, on IA&amp;DT, OpEx is in the center area, and that needs to be adjusted accordingly where we see structural adjustments. And that's got to do with the how do we go to market, how efficient do we go in terms of direct channel versus indirect channel. So, those matters are being considered and will be a vital part of what you will see in more detail when we meet again in November. So, that's very clear.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>On the second one, Mark, in terms of how the pricing environment looks like on the Energy side, I would say sequentially, pretty much the same thing. I mean, the first key assessment what we have is that it has continued to be a price-sensitive environment. So, I would not &#x2013; we don't see sequentially a major difference, but we do see, for example, in &#x2013; what we have already flagged in the Transformer businesses where we have overcapacities on the T-side, continued to be quite price-aggressive offerings. We see the HVDC projects contested.</p>
+          <p>On power generation, it's rather a question of, for us that we see a shift in terms of different regions. Almost no projects, for example in Europe where we used to have a pretty much &#x2013; a solution scope. The exception probably being right now what we have adjusted this order out of Dusseldorf a couple of weeks ago, but the rest pretty quiet. The U.S. not yet picking up because of the reserve margins, what we see over there. So, the shift is moving towards Asia and the Middle East which, historically, has always &#x2013; are markets with a different price point.</p>
+          <p>The Renewable business, as we have seen, no difference, no change in terms of the pricing strategies. So, we continue to see capacity adjustments, overcapacity, and therefore a continuous pricing environment as we have seen at the last time. So, no deterioration but certainly also no reason to believe that pretty soon we will see a positive development here. And therefore, we are clearly preparing for this one also.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay. Thank you, Joe and Peter. And just to follow-up on pricing for the Automation, have you seen any weakness there, or do you expect any in any of these segments in IA&amp;DT?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Interestingly enough, there is quite a stickiness on pricing in that area which obviously also is related to the installed base. So, in the real &#x2013; how do they say that, in the real heart-and-soul segment environment, where margins are decent and where we like to be at. It's a stable environment, so there is no pricing pressure one could see or would be discussed. So, that's the good news. I mean, obviously, the flip side of that is that any gains and any tailwind from the euro weakness is not necessarily or to be of help in the short-cycle environment.</p>
+          <p>So, that pricing side is actually the least concerning items on I&amp;D or A&amp;D, if you &#x2013; if I may. We clearly need to structurally address the whole mechanical-drives environment. That is an area of structural weakness and needs to be addressed as such. And the other areas, we believe, are temporary in nature. And we will obviously also focus our actions on this nature.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thank you very much. Very clear.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. We will now move to Peter Reilly of Deutsche Bank. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Hello. Good morning. I'd like to come back, please, to Infrastructure &amp; Cities. Two questions. Firstly, Joe, you referred to the need to fix some of the products. Can you be more specific? I assume you're referring here to Building Technologies. But we've been told for years that the product offering needs to be improved at Building Tech. And I thought that process had largely been done, so maybe you can explain what you mean by the need to improve the offering?</p>
+          <p>And secondly, coming back to the rationale for the creation of the business, and the idea was to offer a one-stop shop, particularly for cities, but since then obviously a lot of cities around the world have been cutting their budgets. Has there been any positive experience from the creation of Infrastructure &amp; Cities, or have you just seen an increase in cost and complexity by adding another layer of overhead on the existing businesses?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>So, the pressure has been clear as always. Look, I mean, be more specific on the products. We have areas here, which are products business which got some cost of capital where we need to heavily improve the margins, and that's obviously related to the low-voltage environment. This is a &#x2013; this is actually a good place to be at because, obviously, the profit pool is huge, if you look at what others are able to deliver in the markets. And that's why the division has been setting up an innovation program to come out with a new generation of low-voltage products, and they are rolling that out as we speak. So, that's the first place. Here we need to see a very clear progress because, obviously, that's been promised for quite some time.</p>
+          <p>The other area which is more the solution service business which is mostly Rail and related items, I mean, obviously, this one is highly capital efficient even though the margins may not be on the top line of what the other divisions can deliver. Here, we definitely need to be very focused on executing on our orders.</p>
+          <p>The potential definitely here is on the Rail Automation side as well as on Energy Automation because both have good profit pools and we have a good competitive standing in the market. So, those are the two focus area where we ought to see tangible improvements in 2013. And I'm sure that Roland will &#x2013; and his management team will be even more specific in terms of how to get there at the I&amp;C Market Day.</p>
+          <p>Now, what is the rationale of Infrastructure &amp; Cities? I mean, obviously, short term, there is no meaning of dancing around it. We've been increasing our costs. There is some added complexity because if we have four sectors, that's 33% more than three. I mean, that's clear and we know that. On the other hand, we truly do believe that the mid- and long-term rationale is intact. So why is that?</p>
+          <p>Well, if you look at urbanization, if you look at big cities, the downside is that all those communities, those big cities and urban centers, they've got actually no money but they've got an ever increasing demand because people are coming to the cities, and they want to be there and that's called urbanization.</p>
+          <p>So, what do you target at? You target at making the cost per infrastructure or the infrastructure cost of capital less. That's what the focus area is with Infrastructure &amp; Cities. This is not about selling more or buying more by bundling and go to the mayor who usually doesn't have any decision power anyway on the infrastructure. This is not what we are targeting after. What we are targeting after is to make the infrastructure needs &#x2013; every urban center, every city and every county in a way has cheaper per capita, and that's what the focus is.</p>
+          <p>This isn't only related to big mega cities in Lagos, Mexico City and S&#xE3;o Paulo and what have you. This is also first and foremost targeted at cities and areas in saturated economies which are obviously dealing with the issues of indebtedness and the likes. And there is a lot of proof points to that that we are able to bring the cost per capita down. So, therefore, we believe in the mid to long term this is &#x2013; this impacts value proposition, yet it needs to be obviously accessed by tangible results in the P&amp;L.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Peter, but let me make it absolutely clear that we also manage expectations. You're right. This is &#x2013; you have businesses in there which historically &#x2013; first of all you start from a baseline. The baseline is you have the given set of businesses and they have been run independently. And for this reason Joe has actually highlighted, they have to work on integration projects as once, so they have now very clearly build up a much stronger focus on verticals. I'll give you another couple of them. But you cannot expect that overnight we will see an immediate uptick in terms of growth profile. Data centers is clearly one. You have energy demand where you have Building Technologies, you have security solutions, and you need integrated solutions. Airports is another one. So, we have a much clearer focus on the vertical opportunities.</p>
+          <p>In the meantime, we were able to increase the qualified &#x2013; the so-called qualified leads by 25% of the same businesses like they used to be run. Due to the length and the &#x2013; and obviously, the lead time of these businesses, you cannot expect that in the next quarter we will see an uptick in terms of sales. This will take time. But one thing is for sure, we should be able and will be able to see the qualified leads earlier. We should be able to identify where is the profitable business opportunity for us in a better way than we do today. And we will be able to address vertical markets much more integrated in this way. But the baseline is not overnight and not without a good product portfolio behind it.</p>
+          <p>So, and therefore, the Capital Market Day is an important one. And I do understand that you want to see here more details &#x2013; absolutely right. It will be an important one, and Roland and the team are working on it, and then you will get it. And we have actually also focused the targeted-market approach also because we shouldn't waste time behind projects which are great projects but have no financing, behind projects where there's a great <mark type="ph" /> BPP (1:08:00) demand, but unfortunately, the risk mitigation and the risk profile is shifting towards us.</p>
+          <p>All of this is happening right now. There are enough opportunities. But the key element here in this sector will be stay focused and ensure that we absolutely have a laser-sharp eye on capital-efficient order intake and solutions as we go forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Yeah. I understand it will take time. But I'm wondering whether you actually need your customers to change first. You mentioned that mayors have got often very limited power. And it's no good having a fantastic energy-saving opportunity if you've got no one to talk to. Do you need your customers to change before the business really works?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>No, no, no, Peter. <mark type="ph" /> Absolutely not. (1:08:52) This is exactly &#x2013; the decision power is very different. You have in sometimes, and this is exactly what &#x2013; how this business actually works. Let's not talk about megacities, something else. Sometimes a mayor in a mid-sized city is the decision maker. And he has all the power. And we also have to know &#x2013; have <mark type="ph" /> the need (1:09:05), is there actually capital allocated behind the given infrastructure project in his city? And we're talking about a city of 50,000, 100,000, 500,000 people. So, let's not just have an image to say there's a huge <mark type="indiscernible" /> (1:09:17) of megacities. Nobody's in charge. Nobody knows what's going on. So, A), first of all, you have to understand the decision-making processes. You have to understand behind which cities you actually target and which ones you say great projects, no money, we move on. And this is what we will understand much better than we do today.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>And also, let's not forget about there's different demand between Europe and Asia, for example. I mean, you have absolutely continuous demand in Asia, and a very difficult environment in any type of European environment.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I think we're getting slowly to the end of this call. Maybe we should try to still get two questions &#x2013; two more questions, operator, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. We will now take a question from James Moore of Redburn. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Good morning, everybody. I've got a question on the Solar business. I wondered if you can just give us a rough feel for the size of revenues and the size of the profit loss for this year, just to size where we're at on that. And then the other questions relate to OpEx. I wondered if you could give us a feel for what you think 2013 revenue growth broadly looks like because you said OpEx needs to move in line with external growth. But on the one hand, we've got year-to-date orders which are down, but on the other hand, we have a good backlog. And I just wonder how you see that progressing organically.</p>
+          <p>And then I wanted to ask about the OpEx performance in the third quarter. At the first half, your OpEx lifted &#x20AC;550 million year-on-year. And then you changed the full-year guidance for OpEx increase, and you lowered it from &#x20AC;1.2 billion to &#x20AC;950 million at the midpoint. So, that implied &#x20AC;400 million of OpEx increase in the second half. But I see that you've had &#x20AC;407 million of OpEx increase</p>
+          <p>in the third quarter, so I wondered if you could tell us what you now expect for the second half OpEx increase and why the third quarter seems to surprise so much from what you said just three months ago?</p>
+          <p>And in terms of the 2013 OpEx program, I understand you're not giving any hard numbers, but you talked last quarter about freezing OpEx next year. But I just want to understand, if sales growth was flat or down in 2013, would you be able to move OpEx so that it is 3%, 4%, 5% below that and try and get some gearing out of it, or is there a limit to what you can do next year?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Hi, James. So, let me &#x2013; I think that was Solar, right, you've been referring to?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Was that correct?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well, obviously, look, the Solar business in general and also in Siemens in particular didn't turn out to deliver what we would have wished for and what have been expected. So therefore, there's got to be some material structural realignment on that segment. And we are in the middle of doing that. There's been some already in Q2 and there will be more in order to realign expectations and reality, which by the way, the whole industry is right in the middle of doing. So, obviously, it's completely immaterial to the company and to the sector, but the revenues and the profitability is just about similar. Unfortunately, we are writing profitability in red ink, but then again, this is more about realigning than any small numbers at this point in time. And there's a lot of explanation to that on projects and what have been promised versus what governments were willing and able to deliver.</p>
+          <p>So, cut a long story short, we'll realign the business. It is immaterial to both the sector and the company but we'll get expectations <mark type="ph" /> in good (1:13:08) order.</p>
+          <p>Now on the OpEx side, I mean obviously, we said we are going to ease the increase of OpEx for the second half, and we also are going to kind of freeze them for 2013. That was in April. Now with these two methods changed, one is more related to Q3 and likely in parts of Q4. Unfortunately, the exchange rate of the U.S. dollar versus the euro is now at $1.20 as compared to our planning of $1.35 or $1.30-ish. So, you'll see a significant FX impact also on the OpEx translation because, obviously, there's a lot of people in the United States and in dollar-related environment. So, there is some FX matter here also if we talk about the numbers itself.</p>
+          <p>On the other hand, obviously, we also have to admit that the run rate in Q2 and &#x2013; yeah, Q2 predominantly was significantly higher than the endpoint or than the incremental OpEx in Q2. So, there will be &#x2013; there'll be kind of a tough undertaking to make good on having the increase in &#x2013; for the remainder of 2012. But then again, don't underestimate the topic of FX as compared to our original guidance on OpEx for the second half.</p>
+          <p>Then secondly, 2013, if and when there is no environment which allows any nominal growth on revenues year-over-year, keeping them flat is not enough on an underlying basis. That's as much as one can tell. I mean, as you know, it's motherhood and apple pie on one hand's side, but it's as crystal clear as it should be to anyone to manage a business. On the other hand, obviously, one needs to look at what is temporary in nature, if you talk about weaknesses in the industries and what is a more structural method.</p>
+          <p>If you talk about Europe and assume there will be a new normal going forward, in the wake of all &#x2013; what's being discussed every day, then obviously we are not at this new normal. So, there is some structural impact to that.</p>
+          <p>On the other hand, we've got a company which is not, in all fairness and all due respect, not limited to Europe or the peripheral greater good of Europe. We are global. We are as established in Asia as we are in the Western Hemisphere, as we are in Europe. So, we just need to really be clear and focused on reallocating the resources to where we believe it makes most sense for the money we spend. And that will be the very clear focus on also &#x2013; on the details of what we will be doing going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you. We will take one last question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our final question today comes from Ga&#xEB;l De Bray of Soci&#xE9;t&#xE9; Generale. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Yes. Thank you very much. Good morning, everyone. This is Ga&#xEB;l De Bray from Soc Gen. I've got actually a couple of questions, please. Firstly, you sound more cautious on the outlook for China now than maybe you were a couple of months back, which is actually in contrast to ABB's comments today. So, I'm a little bit curious to know what trends you're seeing at the moment in China, maybe specifically in the Power and also Construction-related segments; that's question number one.</p>
+          <p>Question number two is about the cost optimization program. Over the past two to three years, you've spent about 0.2% of sales in restructuring charges. And that compares to a bit more than 0.5% on average at your main competitors. So, do you think the new company program will require a sizeable pickup in charges so as to be more aligned with your peers and be able to optimize your cost base as rapidly as the competitors in your market?</p>
+          <p>And maybe a final question if I may, just can you help us understand what could get possibly better in Q4 compared to Q3 and which justifies your not yet cutting officially the guidance for the full year? Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Let me start with &#x2013; Ga&#xEB;l, let me start with China. We are actually saying exactly the same thing that we have already said through a number of quarters. It was always the question, will China see a pickup in the second half? And we were very cautious with this one. We're always referring to 2013. So, from our standpoint, there's absolutely no difference what we have said already quarters ago.</p>
+          <p>Second one in terms of the different market segments, what do you see? Obviously, you see a different environment. The Power Generation is actually rather down at this moment. Rail is significantly down. Healthcare Diagnostic is a great environment, significant double-digit growth. In Construction, we don't play &#x2013; not significant for Siemens.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>On the remaining topic, I mean, this whole cost optimization. I mean, every company needs to do what it's got to do based on its own environment and structure. So, obviously, maybe not helpful if we just take numbers which others have or haven't had, but we need to find our own way of convincing the markets and ourselves about efficient use of resources and capital and the returns going forward.</p>
+          <p>Now, it could be better. I mean obviously in Q4, first of all, I have to say that the run rate of OpEx in Q2 has been quite higher than the midpoint was incrementally. We should see some ease here in the fourth quarter. We'll expect a stronger finish in both Healthcare as underlying as well as in Energy and some stabilization on the industrial environment. So that's, in a nutshell, what one can expect.</p>
+          <p>On the other hand, I mean, one should be very diligent in listening to the nuances of the development over time. We've been talking about bumpiness in April. They say it's going to be a rocky road to meet the bandwidth, and we definitely will approach the bandwidth from the South rather from the North. That's very clear. I mean obviously, it's meaningless to make any minor adjustments to anything at this point in time because of the materiality of things. We are in the lower end, maybe a little bit below of that corridor. So this is what we're targeting at, and this is what we are working against.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay. Thank you, Joe. Thank you, Peter. And this will conclude today's Q&amp;A session. I would like to thank you of having been with us in this call. And if you have any further questions, please do not hesitate to give us a call today or in the next couple of days. And I wish you all a nice holiday. Thank you. Bye.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Ladies and gentlemen, that will conclude today's conference call. Thank you for your participation. <mark type="Operator Instructions" /> Our recording of this conference call will also be available on the Investor Relations section of the Siemens website. The website address is www.siemens.com/investorrelations. Thank you.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

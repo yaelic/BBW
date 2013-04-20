@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1262223" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q3 2010 Earnings Call</title>
+    <date>2010-10-27</date>
+    <companies>
+      <company>769</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Stefan Gruber, Head of Investor Relations</participant>
+      <participant id="2" type="corprep">Werner Brandt, Chief Financial Officer</participant>
+      <participant id="3" type="corprep">Bill McDermott, Co-Chief Executive Officer</participant>
+      <participant id="4" type="corprep">Jim Hagemann Snabe, Co-Chief Executive Officer</participant>
+      <participant id="5" type="analyst">Philip Winslow</participant>
+      <participant id="6" type="analyst">Ross MacMillan</participant>
+      <participant id="7" type="analyst">Michael Briest</participant>
+      <participant id="8" type="analyst">Jonathan Tseng</participant>
+      <participant id="9" type="analyst">Raimo Lenschow</participant>
+      <participant id="10" type="analyst">Mohammed Moawalla</participant>
+      <participant id="11" type="analyst">Knut Woller</participant>
+      <participant id="12" type="analyst">Adam Wood</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Welcome to the SAP Q3 Earnings Financial Analyst Conference Call. I am the operator for this conference. <mark type="Operator Instructions" /> After the presentation, there will be an opportunity to ask questions. <mark type="Operator Instructions" /></p>
+          <p>At this time, I would like to turn the conference over to Mr. Stefan Gruber. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Yes. Thank you. Good morning or good afternoon. This is Stefan Gruber. Thank you for joining us to discuss SAP's third quarter 2010 results. I'm joined by Bill McDermott, Jim Hagemann Snabe and Werner Brandt.</p>
+          <p>Werner and Jim will have prepared remarks for this call. Following their prepared remarks, we will have time for Q&amp;A.</p>
+          <p>I will now make a few remarks about forward-looking statements. Any statements made during this call that are not historical fact are forward-looking statements as defined in the U.S. Private Securities Litigation Reform Act of 1995.</p>
+          <p>Words such as "anticipate," "believe," "estimate," "expect," "forecast," "intend," "may," "plan," "project," "predict," "outlook", "should," and "will," and similar expressions as they relate to SAP are intended to identify such forward-looking statements.</p>
+          <p>SAP undertakes no obligation to publicly update or revise any forward-looking statements. All forward-looking statements are subject to various risks and uncertainties that could cause actual results to differ materially from expectations.</p>
+          <p>The factors that could affect SAP's future financial results are discussed more fully in SAP's filings with the U.S. Securities and Exchange Commission, including SAP's Annual Report on Form 20-F for 2009, filed with the SEC on March 25, 2010. Participants of this call are cautioned not to place undue reliance on these forward-looking statements, which speak only as of their dates.</p>
+          <p>And with that, I would like to turn the call over to Werner.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Yeah. Thank you, Stefan, for this introduction. Before I begin, let me tell you that I will focus on our non-IFRS figures as they are more in-line with how we internally look at our operational performance. Also, these non-IFRS measures are the basis of our guidance. Please, do also note that our third quarter and year-end 2010 numbers include the revenue, profit and cash flows from Sybase for the period since the acquisition on July 26, 2010, while the comparative prior year numbers do not include any Sybase revenues, profits or cash flows.</p>
+          <p>Let me give you the highlights of the third quarter. As the economy continues to stabilize, we are pleased to report double-digit growth in software and software related service revenue. All regions reported growth in the third quarter, with particular strength in the United States and the emerging markets of Asia, Europe and Latin America. We saw a good mix of revenues among small, mid-sized and large enterprises and we had an increase in deal volume.</p>
+          <p>Non-IFRS software and software related service revenues grew 21% or 13% at constant currencies to &#x20AC;2.35 billion. SAP's business accounted for seven percentage points of the constant currency growth and Sybase contributed six percentage points to the growth. The SSRS performance was driven by a constant currency increase of 15% in software revenues and a very strong 11% in the support business.</p>
+          <p>As you know, we have seen strong retention and adoption of enterprise support within our customer base. In fact, September 30 was the deadline for customers to make their decisions on their enterprise support cost and the support for 2011. Nearly 100% of current enterprise support customers remained on enterprise support.</p>
+          <p>As a result of the strong top line, the non-IFRS SSRS gross margin increased by 1.3 percentage points or 130 basis points year-over-year to 82.4%. Professional services and other service revenue increased 12% at constant currency. The increase were mainly driven by our service revenue, which includes the messaging revenue from Sybase. The non-IFRS professional service related margin declined by 50 basis points year-over-year to 23.3%. The decrease is mainly due to currency changes. The overall gross margin was 69%, which is up 90 basis points year-over-year.</p>
+          <p>Looking at the expense side of the P&amp;L, you can see the total operating expenses increased 11% year-over-year at constant currencies. The non-operating &#x2013; the non-IFRS operating margin in the third quarter of 2010 increased by 80 basis points year-over-year to 28.2% at constant currencies. Head count in the third quarter increased by 4,900 FTEs. The increase was mainly driven by two acquisitions, Sybase added 3,817 FTEs and TechniData added 416 FTEs. The organic head count increase accounted for 667 FTEs in the third quarter.</p>
+          <p>Let me briefly comment on the acquisition related charges that we expect to face going forward if exchange rates remain unchanged compared to September 30, and provided we do not have additional business combinations. For the fourth quarter 2010, we expect around 37 million of deferred revenue write-down and around 26 million for the full year of 2011.</p>
+          <p>On the cost side, the operating expenses, we expect roughly 96 million of acquisition-related charges in the fourth quarter and around 465 million for the full-year 2011. The IFRS effective tax rate in the third quarter 2010 was 27.3%, which is an increase of 6.8 percentage points over the third quarter of last year. For the nine-month period, it was 29.6, which is an increase of 90 basis points. The effective tax rate in 2009 was positively influenced by non-recurring acquisition-related items. We continue to project an effective tax rate under IFRS of 27.5% to 28.5% for the full year of 2010. Operating cash flow for the nine-month period 2010 exceeded &#x20AC;2 billion. The year-over-year decrease in operating cash flow was mainly the result of a significant increase in payments in 2009 that were delayed from the end of 2008, resulting from the onset of the financial crisis. In 2010 however, the timing of the cash inflows from customers returned to normal.</p>
+          <p>Free cash flow in the first nine months of 2010 decreased by 15% year-over-year to 1.86 billion, due to several special effects. DSO in the third quarter decreased by nine days to 70 days compared to the end of 2009. During the third quarter, we bought back 2.9 million shares for a total of approximately &#x20AC;100 million. For the remainder of the year, we do not expect to buy back any additional shares.</p>
+          <p>Let me finish up by saying that we have maintained our outlook for 2010. Please refer to the press release issued today for the complete outlook.</p>
+          <p>I would now like to pass the call over to Bill.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thank you very much, Werner. And thank you all for taking the time to join the call. We really appreciate it. We &#x2013; SAP is pleased to report double-digit non-IFRS, SSRS growth of 21% with 13% in constant currencies. This represents another strong quarter of growth for the company. The markets are moving in a positive direction, enterprises are becoming more confident and strategic buying decisions and our strategy is validated as companies want to be real-time, unwired and they want to partner with a company that has an open ecosystem, one that does not lock customers into a stack but gives them choice.</p>
+          <p>We saw a strong double-digit growth in all growth engines of our business, including business analytics, the BRIC markets and SME. We're also seeing continued strength in our focus industry segments like banking and retail. We remain the market leader in the enterprise software industry, our customer-focused strategy to provide solutions to customers on-premise, on-demand and on-device is finding broad market acceptance. We're pleased to see that Gartner shares our view of the future and their recent release of the top 10 technologies for 2011 with cloud, mobile and next-generation analytics taking the first three spots.</p>
+          <p>Our three-pillar strategy, our Sybase acquisition and our continued innovation and growth and business analytics is motivating customers, partners and employees all over the world. As for the regions in EMEA, we saw a good performance and a strong turnaround from the second quarter amid a still cautious environment. We're starting to see customers more willing to commit to purchases and a return of some larger deals. Importantly, deal volume has also increased. The emerging markets in EMEA were particularly strong. In Germany, the economic recovery supports the continuing turnaround in our business. Key customer wins in EMEA were EgyptAir Airlines, FHB Mortgage Bank, Iberdrola, Vodafone and the City of Johannesburg, to name a few. We reported double-digit growth in software and software-related services in APJ as the overall environment there remains strong.</p>
+          <p>Our investment strategy in leadership appointments in emerging markets like India and China are clearly paying off. Japan remains tough due to a flat overall economic environment and a struggling export industry caused partly by the strong yen. But customer interest remains ever high, as demonstrated by a record audience at our recent World Tour event in Tokyo and competitively, we are gaining share in a down market. Key customer wins in APJ were SHARP Corporation, Eros International Media, Pacific Hydro Limited and SoftBank.</p>
+          <p>The Americas region continues to be a strong performer with great results in the United States and Latin America. In the U.S. we saw a good balance in the mix of deal sizes. Our multi-channel go-to-market approach and well-balanced coverage model allows us to capture demand by line of business, through indirect channels or via our traditional direct sales model. Also there was a nice increase in volume. Latin America remains a hot growth area for SAP and turned in another solid performance. Most of the economies in the Latin American countries are very strong with good demand from large and small enterprises. Key customer wins in the Americas were the Timberland Company, Hasbro, American Express, Pepsi Bottling Ventures and Marisol S.A.</p>
+          <p>We also had another great quarter across the BRIC markets, growing the business at two times the rate of more mature markets or even more in some cases. The BRIC countries in the fast-growth markets of Middle East, North Africa, Asia Pacific, Japan and Latin America continue to provide tremendous growth opportunities for SAP along all product lines and industry segments.</p>
+          <p>Our SME, small medium-sized enterprise, business performed quite well in the third quarter, fueled by our indirect and inside sales channels along with good customer acceptance of SAP All-in-One, SAP Business One and SAP Business ByDesign. The ByDesign pipeline is growing fast and we had some competitive wins as well.</p>
+          <p>Similarly in business analytics, we saw a continued double-digit growth in the segment and strong growth and demand throughout all the regions. SAP's business analytics business in Q3 is twice the size of Oracle's equivalent business and we are growing at least 50 times faster than them, taking share from Oracle Hyperion in every geography with 38 replacements year-to-date. Enterprise information management and enterprise performance management are clearly leading the way.</p>
+          <p>We're happy for the first time to cover Sybase as part of our earnings call. In the third quarter, we saw a good contribution from Sybase, both on the top line and the bottom line. This was in line with our expectations. We are seeing continued strong demand from Sybase customers, solidifying our view of the strategic value of this acquisition. In Q3, enterprise mobility wins included ClickSoftware Technologies, Symphony Technology and Rite Aid.</p>
+          <p>Before I hand it to Jim to discuss our strategy, let me conclude that growth ahead will come from all three product pillars, as well as in large and small enterprises. It will come from industry verticals, it will come from all regions through deeper penetration into our joint SAP and Sybase customer base and by continuing to grow our net new names as well.</p>
+          <p>Growth will also come by leveraging the ecosystem as a force multiplier at all levels of our company. As the industry is transforming, our partnerships are getting even stronger because we recognize the importance of the deep relationships we have with our partners to deliver value and business outcome for our customers. And unlike others, we work closely with our partners, we do not alienate them. Over to my colleague and co-CEO, Jim Hagemann Snabe. Jim?</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Thank you very much, Bill, and thank you, Werner. As Werner and Bill stated, Q3 was another strong quarter from a financial point of view. Let's look at the quarter from a strategic point of view. Product innovation, contrary to consolidation from some of our competitors, is a key reason that we continue to report strong growth. We continue to open up new growth opportunities for SAP and our customers through accelerated innovation in our solutions for on-premise, on-demand and on-device. As Bill said, customer focus and innovation is key to differentiate SAP from its competitors, many of which insist on just piecing together legacy hardware and software solutions.</p>
+          <p>In on-premise enterprise applications, we are the clear market leader. The SAP business suite remains the preferred application platform in 25 industries. It's the only end-to-end, fully integrated, consistent business process platform in a modern service oriented architecture that is available now, not in the future and not pieced together through expensive middleware. Most importantly, with enhancement packages, we offer innovation to the SAP Business Suite without disruption. This is extremely important for customers. The continued success of SAP Business Suite, our high competitive win rate and our strong market share demonstrate customers' commitment to SAP to help them transform their business and run their business better.</p>
+          <p>In banking, the Gartner Core Banking Magic Quadrant 2010 was recently published and we continue to be rated as a leader in this important report for 2010. SAP remains clearly separated as the vendor with the best rating on the vision and we have again improved our position in the ability to execute dimension.</p>
+          <p>Continuing with the on-premise business, business analytics remains a top priority for our customers, as reflected in our strong quarterly results in this segment. Most importantly, what is really helping to drive our analytics business is continued innovation and co-innovation. We recently announced SAP BusinessObjects analytic applications, which our new industry specific analytic solutions co-created with customers and designed to work in any environment. An open environment is a key focus for customers and one that SAP delivers.</p>
+          <p>Secondly, we are leading the innovation in the industry with our high-performance analytics appliance called HANA, leveraging in-memory technology. We announced HANA at SAPPHIRE in May. HANA provides the speed and agility to power analytics at unprecedented performance levels while remaining very cost-effective. Unlike others in the market, HANA is not a hybrid approach combining old and new technology, but rather all-new cutting-edge technology.</p>
+          <p>At SAP, we are not consolidators, we are innovators. That's what customers want. We are already working with more than 50 leading companies from industries such as chemicals, manufacturing, CPG, pharmaceuticals, utilities and high-tech and we expect ramp-up of HANA to begin later this quarter. HANA will help extend our leadership even further in analytics and will be the first product to utilize the full power of in-memory technology.</p>
+          <p>In on-demand, SAP Business ByDesign and our OnDemand solutions for large enterprises will help us become a leader in this fast-growing category. You will see continued innovation in ByDesign, including increased functionality and vertical capabilities along with the ability for partners to extend the solution in the next version. And we continue to build that ecosystem for ByDesign. The ecosystem is mission-critical as a force multiplier to innovate the solution and as a low-cost delivery model to ensure strong profitability. We recently made the first mobile applications for ByDesign available in the Apple iTunes store.</p>
+          <p>To give you a flavor of the ambitious customers signed on to ByDesign, here are two examples. The first example is RJT Compuquest, which is a 215 employee company located in California and is a provider of ERP and IT consulting services. They went live in early October with the first U.S. CRM starter pack on ByDesign. This was a three-week project and a competitive replacement of salesforce.com.</p>
+          <p>In the future, they plan to move to a full suite implementation for professional services, including finance and project management. Another example is Anthesis, which is a 10 employee business process consulting company located near Caso in Germany specializing in SAP services. Anthesis went live on ByDesign with a CRM starter pack in August after only two weeks project.</p>
+          <p>In addition, we have our offerings of an OnDemand &#x2013; of OnDemand solutions for large enterprises. These solutions will be built on the ByDesign platform. Sales OnDemand will be the first line of business solution to be built on the ByDesign platform and will be available in early 2011. We are already delivering our Carbon Management Solution on the Amazon EC2 Cloud platform and we provide E-Sourcing OnDemand and have other OnDemand solutions available like Business Intelligence OnDemand with over 200,000 subscribers. One of our unique differentiators and a big competitive advantage for SAP in OnDemand is our ability to provide full integration between on-premise and on-demand, supporting end-to-end business processes out of the box or should I say, out of the net.</p>
+          <p>Moving on to on-device, the Sybase acquisition puts SAP into an immediate leadership position in mobility. This acquisition is about innovation and growth for SAP and Sybase, and delivering exceptional value for customers. We are continuing to build the pipeline with the Sybase Unwired Platform for SAP Mobile CRM, Mobile Workflow for SAP Business Suite and customer applications and we gained 24 new Sybase Unwired Platform partners alone this year.</p>
+          <p>By the time of SAPPHIRE next year, we will be well on our way to deliver a leading single enterprise mobile platform and creating a software development kit that is in combination with a platform, will enable SAP, our customers and our partners the powerful combination of business applications and a leading mobile platform to build new exciting mobile applications like the new CRM on the BlackBerry and the iPhone that we have already delivered to the market. And yesterday the co-CEO and Founder of RIM demonstrated live SAP running on the new BlackBerry PlayBook.</p>
+          <p>In closing, SAP is the only business application company that delivers consistent portfolio of business applications and next generation business intelligence on any device and in any deployment option. So from a strategic point of view, we are stronger positioned than ever before. Our customers tell us that they don't want to buy big proprietary stacks and be locked into a single vendor consolidating the past. They want innovation, they want choice, they want openness, attribute that can be best delivered by SAP and its partners with our strategy.</p>
+          <p>Our leadership in in-memory computing demonstrates the power of our co-innovation strategy with partners like HP, IBM, Cisco and Intel. The energy and morale inside SAP is stronger than ever, as we just initiated a new Run Better campaign to drive further momentum in our business. We are continuing to create opportunities for sustainable profitable growth and as we head into Q4, we remain optimistic.</p>
+          <p>Thank you. And we will now be happy to take your questions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>We will now begin the question-and-answer-session. <mark type="Operator Instructions" /> The first question is from Mr. Phil Winslow from Credit Suisse. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Good quarter. Bill, just a question for you on just the sales force and the pipeline. When you talk about just a recovery and the pipeline for license revenue and sales, how should we think about the head count demands in the sales force? How do you think about layering I guess head count in versus bringing productivity back up and what's the right mix? And then also, just Bill and Jim, I'm wondering if you could comment just about the pipeline for Q4. How should we think about this recovery, let's say, versus the post-bubble recovery year in 2004? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well, thank you very much for the question, Phil. First on the sales force obviously, we have a well-known direct sales force model that works quite beautifully. And in terms of business value for customers and business outcome for customers, we think we're pretty world-class in that area. Where you'll see our focus is a lot more on the indirect and we consistently tell you how our SME business and our volume is improving with things like inside sales, indirect channels and we're really expanding the network and the footprints of SAP and obviously that comes at a very attractive value for shareholders. And where we do need to add head count, Jim, myself and the board have worked very closely together in lifting and shifting assets to get it more on the front line where the yield for shareholders is much greater and customers get a lot more thought leadership. So that's working good, we don't see any big hiring needs in the sales department.</p>
+          <p>And then finally on Q4, our pipeline is very healthy, the company is in good shape. If you look at all the major geos, they're all going in double-digits, the BRIC growing at least two times them, and the pipeline is reflective of that as well for Q4. So right now, we're feeling very confident in our business.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Great. Thanks, guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you. Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Ross MacMillan from Jefferies. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Thanks. You &#x2013; SAP core is growing, I think nine month to-date at 8% for SSRS, the &#x2013; which again is tracking to the higher end of your core guidance. The comps are obviously easier this year than they will be as we look forward into next year. I'm just curious to get your &#x2013; I know you're not guiding for next year at this juncture, but I'm just curious to get your take on, how you think SAP's sustainability of growth will look as we move off these easier comps? And I guess, specifically, if you could just kind of give me a sense for or give us a sense for what you think are going to be the major drivers of that growth as we look into fiscal '11? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I can maybe start on that and just give you our perspective here. We have with our product strategy, basically doubled the addressable market of SAP. And that gives us a strong opinion that we can grow sustainable double-digit in the &#x2013; in time to come. We have opened up new markets like the on-demand market, we have opened up new markets like the mobile market, and we have opened up the new market, a very fascinating market around the in-memory computing. And all of these will be elements of our growth strategy. Now where will this growth come from? We still believe there is a lot of growth in the on-premise world as well. We actually see key industries like banking, like retail, like utilities investing heavily in standardization of software. We also see geographies like China and BRIC countries that want to become global players and standardize on a global infrastructure, SAP has proven to be able to do that. So it's a combination of on-premise extending the leadership and then adding these new businesses of on-demand, mobility and in-memory computing to really show a leadership from an innovation point of view.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Bill, one for you if I could, you talked about how SAP is somewhat differentiated from others in the sense that you are working more aggressively with partners perhaps ever than ever before. Can you give us a sense if we should expect to see any new relationships or deeper relationships emerge? I guess I'm thinking specifically as to kind of how we should think about your partnership strategy and how that may evolve over the next year.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well, thank you, Ross. I would say yes and yes. Yes to new and yes to deeper. The well-known brands that you are familiar with are more and more getting close to SAP. I believe Jim gave a great example of RIM and Jim Balsillie actually getting up on stage demoing our on-device applications, which is pretty exciting, on his new devices. That's an example of a partnership we were involved in yesterday. The big high-tech manufacturers are all embracing us. And the new ones will be the extension of our ecosystem as we build new partners and new routes to market in new channels, in new geographies all over the world. Business ByDesign gives us a tremendous opportunity to do that.</p>
+          <p>Jim talked about China. If you think about Sybase and the fact that they're the number one database company in China, there's an example. So every angle on partners, is something SAP looks at from a force multiplication point of view. And our customers keep telling us, they don't want to get locked in to stacks and they don't like vendor lock in, they want innovation.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I think to that point, maybe to add &#x2013; you basically see two trends there, some companies who are consolidating and they want to own the whole stack and that's their strategy. And then you have innovators who say, "I stay focused on my part, but then I run faster, I innovate faster." And we believe that's a superior strategy. And for that to work, you need strong partnerships. So you still get the end-to-end stack to the customer. We think that that combined stack of focused companies with innovation as their strategic imperative is a better combination for the customer and it gives them choice. And that's what we hear from the customers out there.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you. Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Michael Briest from UBS. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thanks and good afternoon. Werner, firstly for you, the balance sheet doesn't look very efficient at the moment. There is an awful lot of cash and an awful lot of debt. Can you maybe talk about whether you're going to restructure that and pay down some of the debt so that interest charges are more efficient for you?</p>
+          <p>And then secondly, Bill, in terms of order intake in the past, we've got the proportion of deals over &#x20AC;5 million you've signed. I'm wondering if you could give that for Q3 and maybe the trend that you're seeing in GEAs and SLAs, whether the subscription model is taking traction? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, let me start, Michael, with the question that related our debt. First of all, we have liquidity of 2.8 billion, we have a net debt of 1.6 billion and the majority of the debt will be due in 2012. And as we always said, the financing for the acquisition of Sybase will be paid as soon as possible, so that will be the case in 2012. Nevertheless, we are looking also to enhance our financing traction and the first thing we will approach now is that we look into the syndicated loan facility we have agreed upon, which has a duration until I think, 2013, and we build a new debt and take advantage of the lower interest rates and maybe the one or the other FX fund. In essence, we want to pay down the debt associated with the Sybase transaction as soon as possible. The majority of the debt will be paid back in 2012 and then we'll see how we proceed going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Okay, and Michael, just to answer your question on kind of the deal flow in GEA and SLA, the deal flow &#x2013; if you think of it this way, almost in a 60/40 model to use round numbers, 60% are coming in less than a million, 40 above a million and the ones at the very top are relatively consistent quarter-to-quarter with some minor variations on a deal here or there. So think of it more as 60/40. And on the GEAs and the SLAs, they have done what we expected them to do. That was a 2009 option for a lot of customers that, as you know, were constrained for CapEx and had OpEx and they were really pushing for that. Now it's pretty much flattened out and the traditional business model is more in vogue. So we're right where we thought we'd be with GEA and SLA, double-digit amounts of them globally, not really growing at a rapid pace, which is consistent with our business model.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thanks. Could you maybe say whether the order intake grew more rapidly than the license revenue in the quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I would say it grew consistent with the license in the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you. Next question please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Jonathan Tseng from Merrill Lynch. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Hey, guys. Just a question on how you see the margin developing, obviously there's a trade-off going forward about investing for growth and giving shareholders an operating margin. Just want to understand what your thinking on that is, what are the parameters there? And I guess, how your thinking is different from the last time when SAP came out of the last downturn and did invest?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Maybe I'll take this question. If you look to the performance in the quarter, you will see that we have extended our margin by 80 basis points. If you look to it for the nine-months, you also have an expansion of margin. And you see that we have not changed our guidance, so we are 100% committed to deliver 30% to 31% for the full-year on the margin side. Going forward, I would argue that we have a clear ambition to extend our margin by roughly 100 basis points year-over-year and if you make your own calculations, you can see then when we might achieve our 35%, which is our ultimate objective from a margin perspective.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thanks. And just one follow-up, you talked about 7% growth coming from the legacy SAP business. Just wondering if you can drill down to that by geography or region on the software and software-related services side. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>That's something we do not do. We, I think, have a clear understanding that we provide the contribution of Sybase, but not going into further details from a regional perspective. If you're going to see our quarterly report, it is filed with the Stock Exchange, you will see that we have a segment called Sybase. So we will be transparent going forward, but not in a detailed level as you just requested.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Cool. Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. Thank you. Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Raimo Lenschow from Barclays Capital. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thanks for taking my question. Two, if I may. First for Bill, obviously your main competitor will have a new product cycle potentially starting next year. In the past, that kind of meant some implications for the guy that was competing with them. Can you maybe talk a little bit about your strategy around that? And then one for Jim, quickly, on HANA, obviously that's &#x2013; it's a very exciting new product but you're &#x2013; the incumbent player on the database side will obviously point out there is some risk of taking new technology. What's the feedback you've seen in the market so far from the customers? And also maybe some early comments on what you're thinking about pricing, not your price per device appliance but just more pricing in general. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Oh, Raimo, thank you very much for the question, this is Bill. First of all in relation to the competitor bringing a new product to market, considering it's several years late now, it still remains to be seen if it won't yet be another year late. So let's see if they are continuing to be late. The fact of the matter is, they don't do very well in generation one releases, which is why I think they've watered down the messaging to basically sort of beta-ing and testing with some customers on "the new product." We look forward to the day that they may have some kind of a new product or a new release level because that will then put all those customers in their existing install base, of all the roll-ups that they've done on the M&amp;A front, in a buying mode. They'll have to make a decision. They'll have to make a decision to keep the legacy and the maintenance on that, or they'll have to make a decision to switch.</p>
+          <p>If they consider switching to a new platform or a new application from Oracle, you and I and everyone else on this call know that they're going to shop it against SAP, if for no other reason than just to keep Oracle honest on price, which means we come to the table in a buying decision with a customer. When we're at that table, in 25 industries, in all geographies and market segments around the world, my money is on SAP.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>And let me talk a little bit about HANA because I think HANA is a good example of how we innovate without disruption for our customers to counter exactly that, where we believe the benefit we have is that we don't need to rip and replace what they have, we can build on what they have because it's a very modern platform. HANA was conceptualized in March, we talked about it at SAPPHIRE in May and we're delivering the product end of this quarter. So what you see is, first of all, the very rapid innovation cycle that we now have in SAP.</p>
+          <p>Secondly, you asked what are the customer reactions. Since the launch of the product at SAPPHIRE in May where we first time talked about it, we said we will work with 50 customers to make sure the product is the right product and it has the right characteristics. And that list has been over-subscribed significantly. So the interest in the market is very, very high and we now need to make sure that we can accelerate and deliver this solution as fast as possible. We don't want to do it too fast. I think quality has become a very important part of our strategy as well, so we will ramp this up as fast as possible.</p>
+          <p>Now coming back to the pricing question, there is no doubt that this technology represents true breakthrough innovation and significant value creation for the customer. We will price the appliance based on the size of data that's being analyzed and with that, we have an opportunity to get value, which is linked to the value that we create for the customer.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Perfect. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you. Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Mr. Mohammed Moawalla from Goldman Sachs. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yes, thank you. Bill, I wonder if you can just drill into a bit more detail on some of the territories within Western Europe. I know that was disappointing in Q2 and showed some improvement this quarter, but what are &#x2013; what's specifically going on here and to what extent does your Q4, implicit Q4 guidance rely on a recovery here?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah. We obviously are very pleased with the change between Q3 and Q2 in EMEA in general. And as I look at Western Europe in particular, we have very good leadership, a very strong pipeline and every reason to believe that EMEA will do exactly what we planned for them to do in Q4 and of course achieve their goal. So I would not worry a minute about Western Europe or EMEA in terms of our ability to execute at this time.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay, great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you. We have time for two final questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Knut Woller from UniCredit. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Yeah. Hello, thanks. Just the first thing on Business ByDesign where you highlighted some successes in the third quarter, can you just give us an idea about the revenue size you generated and how we should think about the contribution from BBD going forward in absolute terms?</p>
+          <p>And then second on Sybase and where that you so far did not disclose any synergies neither top line nor cost side and always mentioning that it's a top line driven acquisition, can you give us an idea how we should think about growth rates from Sybase going forward? And are these growth rates that you also achieved or that could be comparable to what you achieved at BOBJ or is there a reason not to believe this would be the case? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Well, I'm happy to answer the ByDesign. As you know, we've been holding back on the volume ready solution on ByDesign and we ship that one end of July this year. So that's the first time we're in a market where we have an ability to be going after volume. So &#x2013; and that's two months of the quarter only. We always said that we will go after volume first, so that is the number of customers we can attract. Don't forget these are SME companies with a subscription model. So right now, it's not a lot of revenue but with the channel multiplier, we believe that this can be a very profitable business for the future. So that's what I can say at this stage. The launch was very successful. We see competitive wins of customers who have already OnDemand experience going to this, which means we have a competitive solution.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Coming to the Sybase related question. If you actually said, we are not willing to disclose any potential synergies of this tremendous important combination for SAP. But I can tell you that besides the fact that we keep both companies separate, that we will have a lot of cross-selling opportunity meaning that we at SAP sell Sybase product and Sybase is going to sell SAP product into their installed base or into new customer. And if you make the analogy to BusinessObjects, I think we all know that in 2009 and in 2010, BusinessObjects related products, so the business user as our customer provided tremendous growth to SAP. And we have no doubt that we foresee this also for our Sybase products in the future. If you look to the mobile capabilities, if you look to the in-memory capabilities supported by the database infrastructure provided by Sybase and the business intelligence platform, we can combine effectively with our product base to optimize all the core products on the customer side.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Great. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you. So, the final question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question is from Adam Wood from Morgan Stanley. Please go head, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Hi. Thanks very much for taking my question. Just first of all coming back to the growth, you talked about being able to grow sustainably double-digit. Just first of all, is that organic growth that you are talking about? Will that need to be &#x2013; to continue to be driven by acquisitions? And then when we think about the move to that type of growth rate, a lot of the products you've talked about today come in from the Sybase acquisition or on the OnDemand side also need some build-up because they're subscription based. Is this something we should be thinking about as the cross-selling comes into effect more in the second half of next year rather than the first half, given the timings of ramp-ups, cross-selling and so on and so forth?</p>
+          <p>And then just secondly on the FX side, I think, Bill, you highlighted there was a tailwind in the quarter. I'm just trying to understand that because I thought there was some benefit in the quarter. Was that going forward, you were talking about? And maybe you could just update us on the impact of Sybase on the FX exposure on the expense side. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Okay. Well let me start off, Adam, just a little bit on the double-digit that Jim, Werner and I have all reinforced. When we speak of double-digit, we are talking organic growth. And if you look at Sybase, I think Werner did a great job of talking about the cross-sell and the up-sell opportunity within Sybase and within SAP and that is a non-trivial.</p>
+          <p>Think about Sybase ASC for example, compatibility with SAP Business Suite in our own installed base to complement the choices we already provide customers is one example. Think about business analytics and IQ in combination with what we do today with our BusinessObjects portfolio in a new release level we call Aurora. And think about the unwired platform pulling through the business process, the mobile and the innovation of business applications and analytics and other people building on top of our developer kit that Jim talked about. And all this coming together in a solution set for customers. It's really mind-numbing, what we can do to help customers innovative their business.</p>
+          <p>And OnDemand is beautiful because it's another consumption model and it is an incremental add to our revenue streams. It's not a take-away from anything. In fact, it's take-away from market share from the competitors, particularly as we consolidate point solution OnDemand into Business ByDesign and we start taking over the Cloud in small and mid. So this is a growth story that is pretty exciting. And in terms of my comments on the tailwind and perhaps Werner would want to comment further, if you look at the actual numbers themselves, we're reporting 21% SSRS growth and when you put that in constant currency terms, it turns into 13. That's what I meant by tailwind.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>And I think, Adam, by purpose we focus in our guidance on constant currency, otherwise we would need speculation about the &#x2013; mainly the U.S. dollar, euro exchange rate and that's something we cannot predict and we shouldn't predict from our end. We should concentrate on our operational performance, how we do in the countries and that should be our major focus also going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you very much. This concludes the Q3 Earnings Call. Thank you all for joining and hope to see you soon. Thank you and goodbye.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Ladies and gentlemen, the conference is now concluded and you may disconnect your telephone. Thank you for joining and have a pleasant day.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

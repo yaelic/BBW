@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1148200" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q3 2008 Earnings Call</title>
+    <date>2008-05-06</date>
+    <companies>
+      <company>140</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Blair Christie, Senior Vice President, Corporate Communication</participant>
+      <participant id="2" type="corprep">John T. Chambers, Chairman and Chief Executive Officer</participant>
+      <participant id="3" type="corprep">Frank Calderoni, Chief Financial Officer</participant>
+      <participant id="4">Inder Singh</participant>
+      <participant id="5">John Chambers</participant>
+      <participant id="6">Blair Christie</participant>
+      <participant id="7">Jason Ader</participant>
+      <participant id="8">Ehud Gelblum</participant>
+      <participant id="9">Scott Coleman</participant>
+      <participant id="10">Mark Sue</participant>
+      <participant id="11">Tal Liani</participant>
+      <participant id="12">Aaron Rakers</participant>
+      <participant id="13">Ittai Kidron</participant>
+      <participant id="14">James McDonald</participant>
+      <participant id="15">Frank Calderoni</participant>
+      <participant id="16">Paul Mansky</participant>
+      <participant id="17">Simona Jankowski</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Welcome to Cisco Systems' Third Quarter Fiscal Year 2008 Financial Results Conference Call.</p>
+          <p>Now I'd like to introduce Ms. Blair Christie, Senior Vice President of Corporate Communications for Cisco Systems. Ma'am, you may begin.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, Kim, and good afternoon everyone. Welcome to our 73rd quarterly conference call. I'm Blair Christie, and I'm joined by John Chambers, our Chairman and CEO; Frank Calderoni, Chief Financial Officer; Rick Justice, Executive Vice President of Worldwide Operations and Business Development; as well as Don Proctor, Senior Vice President of our Software Group; Ned Hooper, Senior Vice President of Corporate Development and Consumer and Small Business Group; and Jim McDonald, Chief Executive of our Service Provider Video Technology Group.</p>
+          <p>The Q3 fiscal year 2008 press release is on full National Marketwire and the European Financial and Technology Wire as well as on the Cisco website at www.cisco.com. I would like to remind you that we have a corresponding webcast with slides. In those slides, you'll find the financial information we cover during the conference call as well as additional financial metrics and analysis that you might find helpful.</p>
+          <p>Additionally, downloadable Q3 financial statements will be available following the call including revenue segments by product and geography. Income statements, full GAAP to non-GAAP reconciliation information, balance sheet and cash flow statements can be found on our website in the Investor Relations section, just click on the financial section of the website to access the slides and these documents.</p>
+          <p>A replay of this call will be available via telephone at 866-357-4205 or 203-369-0122 for international callers and is available from May 6 through July 18 on Cisco's Investor Relations website again at www.cisco.com/go/investors. Throughout this conference call, we will be referencing both GAAP and non-GAAP financial results.</p>
+          <p>The financial results in the press release are unaudited and the matters we will be discussing today include forward-looking statements and as such are subject to the risks and uncertainties that we discuss in detail in documents filed with the SEC, specifically the most recent Annual Report on Form 10-K and 10-Q and any applicable amendments, which identify important risk factors that could cause actual results to differ materially from those contained in the forward-looking statements.</p>
+          <p>Unauthorized recording of this conference call is not permitted. And at this time I'd like to turn it over to John for his commentary on the quarter. John?</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you Blair. During the opening comments of the conference call, I will focus on what I view to be the key takeaways for Q3, an update on why we continue to be comfortable with our long-term growth projections of 12 to 17% and our revenue guidance for the next quarter with the appropriate caveats.</p>
+          <p>The opening comments will also include discussions on what we believe is driving our current growth as well as what we think will be the key factors that we expect should allow us to continue to maintain solid long term growth rates over the next three to five years. In those areas that we can control or influence we feel very comfortable with our continued progress during the quarter.</p>
+          <p>Our vision, differentiated strategy and our execution is developing the way we anticipated. I am particularly pleased with our innovation engine from a product, architectural and thought leadership perspective. We are better positioned with our enterprise and service provider customers from a customer satisfaction, technology and business architecture perspective than we've ever been. We will be providing additional discussion points on the progress of this innovation leadership later in the call. Frank will follow these opening comments with additional detail on Q3.</p>
+          <p>And Frank it's nice to have you with us, congratulations, again.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thank you, John.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>The third section of the call will focus on an expanded discussion of business momentum and strategy on a geographic, product and customer segment basis. We will then introduce a fourth section around our innovation strategy and leadership. Frank will follow with additional financial parameters around our guidance for Q4; I will then wrap it up with some comments in terms of Cisco's momentum going into Q4 and finally our Q&amp;A session.</p>
+          <p>Now on to the discussion of Q3. This quarter was another solid quarter given the challenges we are all always witnessing in the market with reasonable balance from a product, geographic and customer segment perspective. To put these results in perspective I will summarize the quarterly highlights first from a key financial perspective, second from products and services, third from a geographic point of view and fourth by customer segment.</p>
+          <p>The key financial highlights for Q3 include the following; total revenue of approximately 9.8 billion, a 10.4% year-over-year increase which was above the midpoint of our guidance of approximately 10% provided in the Q2 conference call. We are reasonably comfortable with the growth of the top line and pleased with the growth on the bottom line and earnings per share. Order growth was reasonable and within our expectations, product book-to-bill was greater than one.</p>
+          <p>Non-GAAP net income was 2.3 billion, an increased year-over-year of approximately 9%. GAAP net income was 1.8 billion representing a decrease of 5% as a result of a charge of 246 million or $0.04 per share recorded during the quarter relating to the intent to purchase remaining interest in Nuova Systems that was excluded from our non-GAAP net income. Non-GAAP earnings per share were $0.38 and GAAP earnings per share were $0.29, which were increases of 12% and a decrease of 3% respectively year-over-year.</p>
+          <p>Cash generated from operations was $3 billion. We repurchased 2 billion of common stock and we exited the quarter with 24.4 billion in cash, cash equivalents and investments as compared to Q2 FY '08 number of 22.7 billion. However, if there are four key takeaways from our Q2 results, the first would be the continued unique balance in terms of our business model. This balance is illustrated across 20 major product families, 4 key customer segments and 5 geographies.</p>
+          <p>And as an additional point of interest, Japan had a very strong quarter for the first time in a number of years. The reason for this is very simple. In Japan, we're beginning to see the second phase of Next-Generation Network buildouts from our service provider customers and the new momentum being created from our organization changes there.</p>
+          <p>The second takeaway from the quarter is built around market transitions, which is a core competency for Cisco, our ability to develop a vision of how the market transitions play out for the industry and position Cisco in terms of our sustainable differentiation and industry leadership.</p>
+          <p>The third key takeaway, which is just beginning and in my opinion will drive our growth and differentiate us from our peers over the next five plus years will be Phase II of the Internet. We expect the second phase will be driven by collaboration enabled by networked Web 2.0 technologies.</p>
+          <p>In the past several quarters, we believe we have achieved the number one position from both a thought leadership and an implementation perspective, and we intend to expand that position. This collaboration enabled by network Web 2.0 technologies will in our opinion transform business models with a speed we have not seen in over a decade.</p>
+          <p>Whether it's the service providers' potential increase in networks' loads driven by Web 2.0 technologies or the commercial enterprise customers who see the next wave of productivity occurring, we're continuing to see an increased acceptance of Cisco's business and technology architectural strategies and differentiation versus our industry peers.</p>
+          <p>While we are still at the very beginning of the second phase of the Internet, in my opinion, we saw the most evidence in Q3 of our customers' commitment to a partnership with Cisco built around collaboration and networked Web 2.0 technologies, and these customers include countries, service providers and enterprise customers.</p>
+          <p>Our customers understand the correlation of collaborative applications with any device to any content in any mode anytime, anywhere combined with intelligence moving from both the application and services layers into the intelligent network. These are complicated concepts, but our customers are starting to recognize what this means to them. And therefore, why Cisco can be both their communications and IT partner in a way that we believe no other company can.</p>
+          <p>In Q3, I had the chance to witness again and again this market transition in regards to Cisco's role in the customers' future, in key customer meetings and conferences in many countries around the world. Just to give you a feel for the areas where I experienced this activity in the first half of the calendar year included extensive travel throughout the U.S., trips to China, Spain, Switzerland, Saudi Arabia, Dubai, Abu Dhabi, Qatar, Israel, Palestine, France and two trips to Germany. In addition, this includes over a three dozen around the world TelePresence meetings.</p>
+          <p>From a country perspective whether it's the topic of job creation opportunities, health care, new economic cities or Cisco's role as their infrastructure partner, advisor on green initiatives or the role Cisco plays in assisting in their global competitiveness, our vision strategy and execution appears to be playing out as we envisioned. And as we become the trusted advisor and implementation engine for the business and government leaders, we can also get the growth for our businesses that accompanies this leadership position. As proof points, Q3 year-over-year growth in India was in the mid-teens, and China was in the high 30s. In India, that follows a Q2 with 50% growth.</p>
+          <p>Fourth is a topic centered on our innovation leadership. In this call and in future conference calls I will share with you our progress in innovation and on product architectures, process change and thought leadership. We believe Cisco is truly an innovation machine, a topic that we will summarize later in the call. Being very candid, until recently some shareholders might have viewed Cisco's innovation in just a few product areas in our acquisition capabilities.</p>
+          <p>However, this quarter was truly an exemplary quarter in terms of the breadth and depth of our innovation leadership across all aspects of our business. Revenue growth from our key products including services was good with reasonable balance across categories. In terms of our three broad product categories, routing revenue in Q3 grew year-over-year by 14% led by high-end routing products which grew in the mid 20s year-over-year. Switching revenue grew year-over-year by 3%, and the total of all of our advanced technology revenues grew year-over-year by approximately 17%.</p>
+          <p>Again, in considering our ability to move into new markets to achieve both growth and profitability, our total advanced technology revenue was approximately 20% greater than our revenue from the routing products. This speaks to Cisco's balanced product portfolio and our constant evolution of moving into new markets and product adjacencies.</p>
+          <p>About one year ago, we signaled our focus on services as a major product. We felt this would be both a rapid growth opportunity with very good gross margins and the key to our customers' successful implementation of both our technology and business architectures. While product orders will fluctuate up and down based upon many factors, service revenues tend to be more consistent and have a more predictable pipeline over a longer period of time. Service revenues for this quarter grew in the mid-teens. And given our efforts to expand the scope of our service offerings with the proper execution, there is no fundamental reason why revenues in services in the future will not grow in the 20% plus range from a year-over-year perspective. These service revenues are beginning to approach one-fifth of our total business.</p>
+          <p>Although we will discuss growth in a number of products in more detail later in the call, I want to provide a quick snapshot from the revenue perspective of eight of our product highlights from Q3 from a year-over-year perspective. The CRS-1 grew approximately a 150%, Unified Communications including contributions from WebEx grew approximately 45%. Fixed switching grew at 11%, WebEx, Don, congratulations to you, Doug and the team, grew approximately 20%, security including IronPort grew in the low double-digits, high-end routers in total grew approximately 25%, Application Networking grew approximately 30% and TelePresence orders grew over 1000%, granted, off a relatively small base.</p>
+          <p>This product leadership has also gained the recognition in terms of industry awards as well. As an example, just last week, Interop awarded Cisco, the 2008 Best of Interop Awards for two major product categories. The Cisco Nexus 7000 Series was the recipient of the Interop 2008 Product of the Year Award in the IT infrastructure category, and the Cisco Wide-area Application Engine and the Cisco Wide Area Application Services Software were awarded for application optimization.</p>
+          <p>We continue to achieve reasonable product balance both in terms of breadth and depth of our product portfolio. We now have 11-product families with order run rates above $1 billion, and many of them continue to gain share in their respective product categories. Although competition remains robust, we believe we are maintaining leadership versus many of our major competitors in many product families, and we also believe we are getting a larger share of our customers total spend on communications and IT.</p>
+          <p>The next section focusing on geographic and customer segments will be discussed primarily in terms of orders, as this is how we run our business. From the geographic theatre prospective, our order momentum was mixed in Q3 with year-over-year order growth from mid single-digits to mid-20s year-over-year.</p>
+          <p>Asia-Pacific which includes India and China continued to be very solid, congratulations Owen, and grew in the high-teens. Japan was very strong as mentioned earlier and grew in the mid-20s. Europe grew approximately 14% in Q3, up from 8% in Q2. The U.S. did experience the challenges we expressed during our Q3 guidance. U.S. growth was in the mid single-digits in Q3.</p>
+          <p>Emerging market sales as we shared in many prior calls tend to be very lumpy. As a reminder we did not include in the emerging markets theaters, China, India or other Asian countries. The revenues for our emerging market theatre for this quarter grew over 40% year-over-year, while orders grew approximately 10%.</p>
+          <p>In anticipation of your questions on order growth, service order growth was above 30% year-over-year and product order growth was in the 9% range year-over-year. From a customer segment perspective, we saw global commercial orders growth in the 18% range, enterprise growth in the 9% range, service provider growth in the 6% range and consumer Linksys segment growth in the 13% range year-over-year.</p>
+          <p>I can not over emphasize the importance of leading the market transitions whether it's as basic as moving from products to solutions or as complex as evolving from plumbing to the network enabling all forms of IT and communications while at the same time translating what these transitions mean to Cisco in terms of our growth and industry leadership. This ability to understand market transitions whether they are technology or business model base has been one of the key contributing factors to our success.</p>
+          <p>Over the last two decades, we have routinely seen dramatic growth from our investments in market transitions whether it is in our advanced technologies starting five years ago, emerging countries two years ago, our globalization center in India over a year and half ago and expanding to our commitments to the China market over the last two quarters.</p>
+          <p>At the beginning of this fiscal year, we shared with you our aggressive implementation of new technology and new business models based on collaboration enabled by networked Web 2.0 technologies. Instead of doing one or two cross functional priorities a year as we did very successfully in our traditional command and control approach, we can now focus on 22 priorities with a collaborative structure and replicatable business processes driven by our counsels and boards. The smaller social/business networking teams are moving faster than we could in the command and control structure and are enabling our ability to move into new market adjacencies with the speed and effectiveness that we would not have been able to do before.</p>
+          <p>When you think about our long-term growth opportunities, there is no more important market transition than this revolutionary business model. And as we have been pleased with the progress and results through the first three quarters of the fiscal year, this is one of the key reason that in spite of what happens to the macroeconomic or other issues in the short term, we remain comfortable with our long-term growth projections.</p>
+          <p>Cisco will also be affected by major economic changes, capital spending patterns, new and existing competitors and our ability to execute or not on our strategy and other factors as we discussed in our financial reports. For purposes of our long range guidance, as well as, our quarterly guidance we are also assuming that our vision of how the industry and the market will evolve will be accurate and we will effectively execute on that vision.</p>
+          <p>Therefore, we continue to believe, with the appropriate caveats, our long-term guidance should be in the 12 to 17% range year-over-year. While at the risk of stating the obvious and as we've said repeatedly in prior conference calls and will continue to say in future conference calls there may be times when our revenues grow above this range and there will definitely be times when our revenues grow below this range. While we continue to be extremely comfortable with our vision and differentiated strategy and the value that intelligent networks will bring across all our customer segments and geographies, we also see the economic challenges in the U.S. that it is experiencing.</p>
+          <p>Our customers in many of the emerging countries such as India, China and the Middle East remain very optimistic about business momentum. However we are continuing to see our U.S. and some European customers remain cautious in their views about their own economies. Therefore our revenue guidance for Q4 fiscal 2008, including our usual caveats as discussed earlier and in our financial reports is for revenue growth of approximately 9 to 10% year-over-year.</p>
+          <p>As a reminder, during each of the economic slowdowns in the past 15 years Cisco has always navigated through them very smoothly as we did repeatedly in 1993, 1997, 2001, 2003 and in each scenario we gained both market share in my opinion profit share. And as a result we were better positioned coming out of the transition versus our peers. We will continue to be aggressive in our investments during this slowdown.</p>
+          <p>In terms of the economic transition that may be going on, we believe that our strategy and the critical role the network plays in enabling all forms of communication and IT is right on target. Secondly with all the appropriate caveats, our best estimate is that this is a relatively short-term challenge going forward. Cisco will use these bumps as a chance to expand our share of customer spend and to be aggressive about moving into market adjacencies. Whether we return to our longer-term growth targets of 12 to 17% in several quarters or a little longer is yet to be determined.</p>
+          <p>For those areas that we can control or influence, as I said earlier, I'm very optimistic about our ability to achieve the desired business results both in the short-term and in the long-term. For areas outside of our control or influence, including the broader macroeconomic environment, we will share with you what we are seeing to the best of our ability just as we have done in the past during our quarterly conference calls.</p>
+          <p>In summary, we believe that we are very well positioned in the industry from the vision, differentiated strategy and execution perspective. As I stated earlier, we believe we are entering the next phase of the Internet as growth and productivity will center on collaboration enabled by networked Web 2.0 technologies. We will do our best to provide the product architectures and expertise to help in the implementation of these collaborative capabilities from both a technology and a business perspective.</p>
+          <p>We will also share with our customers how we have done this internally. In short, we're going to attempt to execute the strategy over the next decade that is very similar to what we did in the early 90s. And as we said before, it powered growth for Cisco and grew productivity for the next decade. Except with the obvious difference of this time being a company that is now approaching $40 billion in sales and over 65,250 employees focused on this opportunity.</p>
+          <p>At this time, I'd like to turn it over to Frank for further discussion of Q3 financial highlights. Frank?</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thanks, John. We are pleased with Cisco's solid results this quarter. Total revenue for the third quarter was $9.8 billion, an increase of 10.4% year-over-year, above the midpoint of our guidance. Routing revenue continued to be strong at $2 billion, up 14% year-over-year due primarily to continued growth in our high-end router portfolio at 26% year-over-year with particular strength in CRS-1 and the 7600 product families.</p>
+          <p>Switching revenue was $3.2 billion, an increase of 3% year-over-year driven by growth in our fixed switching portfolio. Advanced technologies revenue totaled $2.4 billion, representing an increase of 17% year-over-year, led by strong performance in Unified Communications and Video Systems.</p>
+          <p>Other product revenue totaled $569 million, an increase of 3% year-over-year. Total service revenue was $1.6 billion, up approximately 15% year-over-year as a result of solid growth across all geographies. We are particularly pleased with growth in Advanced Services, which was 35%.</p>
+          <p>Total revenue growth by geography grew in the range of 5% year-over-year in the U.S. and Canada to a high of 44% in emerging markets. Emerging markets revenue growth was higher than the order growth that John reported due to increased shipments and revenue recognition of previously deferred revenue.</p>
+          <p>Q3 total non-GAAP gross margin was 65.4%, approximately flat quarter-over-quarter and up nine-tenths of a point year-over-year. For product only non-GAAP gross margin for the third quarter was 65.9%, flat from last quarter. And our non-GAAP service margin for the third quarter was 62.7%, down from 63.5% last quarter. Service margin will typically experience some variability over time due to various factors such as the changes in mix between technical support services and advanced services, as well as the timing of support contract initiations and renewals.</p>
+          <p>Total gross margin by geography ranged from 64% for emerging markets to 70% in Japan. Non-GAAP operating expenses as a percentage of revenue were approximately 36% in Q3 fiscal year '08, up from 35.2% in Q3 '07. Foreign exchange impact for the quarter was $88 million, which added approximately nine-tenths of a point to the ratio. Excluding foreign exchange, non-GAAP operating expenses for Q3 grew at 10% year-over-year balanced with revenue growth. Interest and other income was $168 million for Q3, lower than our guidance of 200 million. This was due to macroeconomic conditions, which resulted in lower gains from the sale of fixed income and public equity investments.</p>
+          <p>We remain pleased with the high-quality and conservative risk profile of our investment portfolio. Our Q3 FY '08 non-GAAP tax provision rate was 24%. Non-GAAP net income for the third quarter of fiscal 2008 was $2.3 billion compared to $2.1 billion in the third quarter of fiscal year 2007, representing a 9.4% increase year-over-year. Non-GAAP earnings per share on a fully diluted basis for the third quarter was $0.38, up from $0.34 in the third quarter of fiscal year 2007, or a 12% increase year-over-year.</p>
+          <p>GAAP net income for the third quarter was $1.8 billion as compared to $1.9 billion in the third quarter of fiscal year 2007. GAAP earnings per share on a fully diluted basis for the third quarter were $0.29, down from $0.30 in the same quarter of fiscal year 2007.</p>
+          <p>Consistent with previous disclosures in our SEC filings, a charge of $246 million or $0.04 per share was recorded during the quarter relating to our attempt to purchase the remaining interest in Nuova Systems, which was excluded from our non-GAAP net income.</p>
+          <p>Moving onto the balance sheet, the total cash, cash equivalents and investments at the end of Q3 was $24.4 billion, up $1.7 billion from Q2. During Q3, we generated $3 billion in cash flow from operations, as well as $336 million in proceeds from stock option exercises. We repurchased $2 billion of common stock or 83 million shares of our stock at an average price of $24.04 per share.</p>
+          <p>Moving on to accounts receivable, we ended the quarter at $4.2 billion, which was flat from Q2. At the end of Q3, days sales outstanding or DSO was 39 days, the same as was in Q2. Both Q2 and Q3 include the effect of several large multi-year service agreements, which has increased the DSO in each quarter by three to four days. Total inventory at the end of Q3 was $1.3 billion, approximately the same level as in Q2. Non-GAAP inventory turns improved from 10.5 last quarter to 10.7 this quarter.</p>
+          <p>Our inventory purchase commitments at the end of Q3 were $2.7 billion relatively flat from the end of Q2. Deferred revenue was $8.6 billion in Q3, an increase of $607 million from Q2 and $2.3 billion from Q3 FY '07. Deferred product revenue was 2.9 billion, up $201 million from last quarter and deferred service revenue was 5.7 billion, up 406 million from last quarter due to the addition of several large multi-year service contracts.</p>
+          <p>At the end of Q3, our head count totaled 65,225, a net increase of approximately 1100 from Q2 FY '08. Our head count increases were primarily the result of Cisco hires in engineering, sales and in services.</p>
+          <p>In conclusion, I am pleased with our performance for the third quarter of the fiscal year enabled by our portfolio management, approach to innovation, a broad and growing global footprint and a team dedicated to outstanding execution. Our ability to deliver solid financial results with excellent cash flow and a strong book-to-bill during a quarter of somewhat uncertain macroeconomic conditions illustrates the power of our business model. We will continue to invest in our diversified technology portfolio while maintaining our proven focus on profitability in order to take advantage of market transitions and drive toward our long-term growth target of 12 to 17% over the next three to five years.</p>
+          <p>I will now turn the call back over to John.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you. Thank you very much Frank. In this section of the call, we will cover our geographies, customer segments and products review for Q3 in more detail. Products review will be in revenue growth terms, while the geographic and customer segments will be discussed in terms of orders unless otherwise indicated. First from a geographic and customer segment point of view, there were a number of positives from our five theaters and customer segments.</p>
+          <p>The Asia-Pacific theater continues very solid momentum in Q3 with year-over-year growth in the high-teens. The Asia-Pacific organization had the best balance across each of the customer segments with the enterprise not including public sector, service provider, commercial and consumer markets all growing from high teens to approximately 30% year-over-year. The public sector, which tends to have large orders and to be lumpy in terms of when the orders occur decreased year-over-year.</p>
+          <p>India and China, the two largest countries in this theater, continue to lead the way from a growth perspective. As we discussed in prior calls, our globalization center in India led by Wim Elfrink is achieving at the high-end of our expectation as it relates to both growth in India and throughout the emerging markets. We are now rated as the number five best place to work in India when only two years ago we were not even on the list. After an extremely strong Q2 in India, with growth of approximately 50% year-over-year we were pleased with the growth in the mid-teens in Q3 year-over-year. And our momentum in India continues to be very strong.</p>
+          <p>We were very pleased with the growth year-over-year in the high 30s in China in Q3. Just last month, I spent a week in China and I had the opportunity to meet with a large number of business, government and academic leaders from throughout the country. My key takeaway was that these investments will likely achieve our desired goals and opportunities in China. Our growth in China generally has been strong over the last two quarters as we made the decision to dramatically expand our commitment and our goals in China over the next five years. We believe we are uniquely positioned with business and government leaders as well as the citizens to create a major win-win scenario across multiple segments of their economy.</p>
+          <p>The emerging market &#x2013; the emerging countries in our Asia-Pacific operation, which we do not include in our emerging market theatres as I said earlier, have the potential to achieve growth very similar to the emerging market theatres if we execute effectively.</p>
+          <p>Moving on to Japan, I want to congratulate our Japanese team on their very solid Q3 results with growth in the mid-20s. This is the first time in 15 quarters we have grown above 20% year-over-year. We think there are two major factors contributing to this; the first is the long awaited build out of the Next-Generation Networks and remember the Japanese were the ones that led on the global basis with the first generation of next-generation networks.</p>
+          <p>And the second is the evolution of the leadership team under Edzard Overbeek, which is really starting to show the results across all customer segments. Edzard, nice job.</p>
+          <p>Moving on to Europe. Our European operations had order growth rate in the mid-teens in Q3 year-over-year. The enterprise markets not including public sector had a strong quarter with growth in the mid-teens. The commercial market continued to be solid with growth in the mid-20s. The consumer segment off a small base grew by approximately 30% year-over-year. The service provider segment continued with just modest growth in the mid-single digits. As we've discussed in the last quarter's call, I was particularly optimistic about the opportunities in Germany and I'd like to congratulate the German team for their strong quarter with growth in the mid-20s year-over-year.</p>
+          <p>For the U.S., order growth was approximately 5% year-over-year. Balance across our customer segments were mixed. The commercial market grew in the low teens. The enterprise grew in the mid single digits not including our federal business. The federal group had a very strong growth of approximately 20%. The consumer grew approximately 6%. However, we did see some challenges in the service provider customer segment, which had grown 12 quarters in a row at over 20%. While orders in service providers do tend to be relatively large and sporadic, we had some major successes in Q3 from companies such as our partner AT&amp;T and emerging service providers.</p>
+          <p>Our growth from the -- our cable customers and other U.S.-based major wireline players combined was actually down approximately 3%. From the U.S. geographic enterprise discussion, while orders grew in the mid-single digits, in other words, across all the geographic enterprise areas, balance was good across these six enterprise areas with growth ranging from 4 to 10% in Q3 year-over-year. Commercial growth was also reasonably balanced.</p>
+          <p>Emerging market orders where both orders and revenues tend to be lumpy in Q3. In Q3, revenue growth in the emerging market was 44%, however product order growth was approximately 10% year-over-year. Growth was reasonable in the service provider, commercial and consumer segment ranging from the mid-teens to mid-20s from a year-over-year perspective. The enterprise sector was down on the low-teens year-over-year. Latin America was a stand out of the four areas and had very strong growth, above 25% year-over-year.</p>
+          <p>As discussed earlier, our product business was balanced. We will attempt to give you more details regarding this balance in the following discussion, which will be covered in terms of revenue and will include our acquisitions. Total revenue growth in routers was 14% year-over-year with the majority of strength occurring in the high-end where growth was in the mid-20s. The CRS-1 again led the field with growth of over &#x2013; of approximately 150%. Switching revenues were mixed with the fixed switching product groups growing in the low double-digits year-over-year.</p>
+          <p>Modular Switching was slightly negative due in part to the hesitation when new products are introduced such as the Nexus 5000 and Nexus 7000. Balance was good although we would like to have had more in our Advanced Technology Group. Security grew approximately 11% year-over-year and Security includes products from our IronPort acquisition. Unified Communications including products from WebEx acquisition grew approximately 46%. Wireless grew approximately 7%, Storage grew at 5 and Networked Homes grew at 4. The second wave of Advanced Technology Group's year-over-year grew approximately 12% with the Application Networking services growing approximately 30% and video systems growing approximately 9% year-over-year.</p>
+          <p>In summary, our vision of how the industry is going to evolve appears to be playing out very much as we expected. We believe our differentiated strategy is also achieving the benefits to both Cisco and our customers that we thought that were possible. And finally our execution is on target in terms of the results as measured by customer partnership perspective, market share and share of our customers' total communications and IT expenditures. As the network truly becomes the platform for delivering these capabilities.</p>
+          <p>In this next section, I would like to share with you something new, really focused on innovation. I want to start with -- take a few moment sharing with you widely Cisco is a key innovation leader and this is also very important for driving our long-term growth. Innovation is at the forefront of corporations and governments global focus to drive job growth, to drive growth of their economies and the standard of living of their citizens and of their countries.</p>
+          <p>We believe the core ability to deliver innovation will be enabled by intelligent networks as the network becomes the platform for delivering all forms of communications and IT to enable these new and rapidly evolving business models. In this section of the call I will focus on how Cisco innovates and how we are positioned in my opinion to lead the high-tech industry in innovation.</p>
+          <p>I'll break the discussion into the following 8 areas of innovation. First product innovation; this is the traditional way that many people look at technology companies. Second business models and I'm really talking about new business models, which I believe will be the future of how technology should be viewed as enabling innovation for our customers. Market transitions will be the third and we believe that innovation should be based upon timing of these market transitions and then leading in the transitions as opposed to the traditional definition of innovation being viewed as what you did compared to your competitors.</p>
+          <p>Technology architectures, which we believe will be the way that the industry evolves, will be moving from boxes and software, operating systems, ASICs and services being independent pieces to the future of technology architecture where literally the network becomes the platform for all of IT and communications. Business architectures are where we begin to focus a total architectural solution to achieve the top business priorities of our customers.</p>
+          <p>The intelligent network enables these solutions. As an example of how Cisco innovates in terms of our business top priority is how we use collaboration and networked Web 2.0 technologies to implement our strategies across 22 cross-functional priorities. Another example would be how we partner with countries to build their economic cities of the future.</p>
+          <p>Productivity innovation is the sixth area. In many ways, Cisco led Phase I of the Internet in internal utilization with resulting productivity increases for both ourselves and our customers. We expect the business models enabled by collaboration and networked Web 2.0 will drive very similar, almost an instant replay in Phase II of the Internet. It is this type of productivity opportunities that will cause in our opinion the investments in our industry to increase over the next three to five years.</p>
+          <p>Entertainment innovation will be based upon visual networking and will change everything from the way we interface between our family and friends to how we watch sporting events with our community with a common interest to creating our own entertainment with different social networks. We are now moving rapidly in these market areas and may over time focus with our partners on how this will change business models, including advertising.</p>
+          <p>And finally, eight, organizational evolution. Perhaps the most fundamental form of innovation in this market is what Cisco is leading in moving from the traditional hierarchy of command and control approach to a collaborative and teamwork approach enabled by networked technologies.</p>
+          <p>At this time in the call, I'd like to focus on two areas of leadership and innovation, first, the product innovation and second, the new business models. From a product innovation perspective, we delivered the following new product innovations in Q3. I think it is safe to say that Cisco's innovation machine has never operated at a faster or more effective pace, although there is always room for improvement. Supporting this position would be the major product family and capability innovations that I'm about to cover.</p>
+          <p>In Q3 the ASR 1000, it really is the leading edge product in terms of hardware, software, ASICs and revenue generation for our service provider customers at the edge. It's the most powerful compact router ever to address the edge and to put it in perspective 160 times more processing power in many ways than its predecessor. Instant service delivery means activating with the keyboard not a truck roll, something that we all understand the importance of in the service provider environment. It also contains the most complex ASIC design in history for a network product with literally 800 million transistors on the chip. And for a point of comparison, the CRS was the prior leader with over 180 million transistors on its key architecture. Operating costs and environmental impact of approximately one-third of the prior comparable systems.</p>
+          <p>The Nexus 7000 and when you think about the Nexus 7000, think of it as the first in a new generation of unified fabric data center switches that enable migration from 10 to 40 to 100 gig with a simple I/O upgrade with full redundant hardware where there is never a single point of failure. We also introduced the Nexus 5000, the industry's first open standard-based access layer switch to support I/O consolidation at the rack-level. It represents over three years of collaboration with Nuova Systems, illustrating the power of our build, buy or partner innovation model. It has the highest density copper rack switch available and uses the same operating system as the Nexus 7000, which broadens our data center leadership.</p>
+          <p>The Applications Extension Platform on the ISR is a mouthful, but what it really is a programmable feature for our ISR router where third-party developers can create applications on the ISR. This builds on the momentum of this important platform which has by the way shipped its 4 millionth ISO router this quarter.</p>
+          <p>The fifth major product deliverable this quarter is the business-to-business TelePresence. New business-to-business TelePresence capabilities are just being delivered and it really opens up the market opportunities for our customers. In addition to receiving the 500th TelePresence order during the quarter, we have developed strategic relationships with premier global service providers to begin offering inter company TelePresence. These are done with AT&amp;T in the U.S. and BT in Europe. We have now deployed internally over 200 TelePresence systems around the world and conducted over 100,000 meetings.</p>
+          <p>WebEx launched its new version of WebEx products for the Mac users and along those lines the upcoming software version 2 for the iPhone incorporates Cisco's VPN technology. Our collaborative solution that integrates the WebEx products with our Unified Communications Suite including the UC Manager, IP Phone, TelePresence and MeetingPlace began shipping. The final stage of beta for the next-generation platform of WebEx, which will include a next-generation collaboration workspace as well as an enabled business <mark type="inaudible" />, Don, came through executing very well. Congratulations.</p>
+          <p>In the area of collaboration and network enabled Web 2.0 our product innovation is centered on the -- where the market is going not where it is today. For example, many people think of Web 2.0 as data services, but in fact what we believe will enable Web 2.0 to achieve its potential is the evolution of data services into voice services and then to combine the next evolution into video services. We would call this combination of voice, video and data in terms of Web 2.0 services Visual Networking.</p>
+          <p>So when you think about Cisco's approach, think about this enabling a large part of the collaborative applications ourselves with our partners, bringing the combined capabilities of video, voice and data together to any device over any combination of networks in our customer segments, evolving from the area of personalization to one of communities, information and people. Instead of viewing collaboration as a just Unified Communications, it's really about visual networking, Unified Communications, WebEx capability, IP Telephony, TelePresence and other technologies that together enable collaboration.</p>
+          <p>New business model innovation at Cisco, we are the first implementing entirely new business models in each functional organization enabled by collaboration of network enabled Web 2.0. And as an example would be our services delivery model that we started under Wim Elfrink's leadership in our Bangalore site to deliver services virtually around the world.</p>
+          <p>Second would be the cross-functional business and social networking communities and the processes, vocabulary and best practices that go behind this to allow our company to go from one or two major cross-functional priorities to today's 22 and doing this in literally a one year cycle and then to use these productivity benefits enabled by new business models to either bring the results to the bottom line or to use these resulting assets to enter new market adjacencies.</p>
+          <p>In summary while in this conference call and future conference calls, we often discuss each product or customer segment, I would argue that real innovation is about how you combine all of these very complex but manageable approaches where each form of innovation, is at first loosely and then over time tightly coupled to the other. Again at the risk of being aggressive in our positioning, I think Cisco is the only company that is addressing the market on this broad front with a history and a track record of leading each category, when we move into market adjacencies.</p>
+          <p>It's this overall innovation machine that we are building at Cisco, which will not only differentiate ourselves versus our peers, but which we believe will allow us with the appropriate caveat to achieve our 12 to 17% long-term growth objectives. I would encourage you to give us your feedback on innovation being part an area and interest for additional discussion on future calls.</p>
+          <p>Now Frank, I would like to turn it back over to you for additional guidance on Q4.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thanks, John. Let me remind you again that our comments include forward-looking statements. You should review our recent SEC filings that identify important risk factors and understand that actual results could materially differ from those contained in the forward-looking statements.</p>
+          <p>The guidance we are providing is on a non-GAAP basis with reconciliation to GAAP. Total revenue growth for the fourth quarter is expected to be in the range of 9 to 10% year-over-year. We encourage you to model on the conservative side due to the continued uncertainty in the macroeconomic environment in the near term. As we have said in the past, forecasting gross margin has always been challenging due to various factors such as volume, product mix, variable component cost, customer and channel mix and competitive pricing pressures.</p>
+          <p>That being said we believe that total gross margin in Q4 will be approximately 65%. We believe Q4 operating expenses will be in the range of 36 to 37% of revenue. This includes the impact of foreign exchange which continues to have a negative impact on our overall expense. We expect interest and other income to be approximately $140 million in the fourth quarter.</p>
+          <p>Our tax provision rate for Q4 is expected to be approximately 24%. While we expect to continue our share repurchase program, it is difficult to predict the exact weighted average shares outstanding. We are modeling share count to be flat to down approximately 50 million shares in weighted average shares outstanding for EPS purposes. In this estimate of share count, we are not taking into consideration any future change in the stock price that could occur in the fourth quarter of fiscal year '08.</p>
+          <p>As a point of reference, a $1 increase in our average stock price would increase the calculated shares outstanding for purposes of determining earnings per share by approximately 15 million shares. Regarding cash flow from operations, we would expect to generate 700 million to 900 million per month at these revenue levels.</p>
+          <p>For our Q4 FY '08 GAAP earnings, we anticipate that Q4 GAAP EPS will be $0.04 to $0.06 per share lower than our non-GAAP EPS primarily due to acquisition-related charges and stock option expense. Please see the slides that accompany this webcast for further details.</p>
+          <p>Other than those items noted above there are no other significant differences between GAAP and our non-GAAP guidance. This guidance assumes no additional acquisitions, asset impairments, restructuring and tax or other events which may or may not be significant.</p>
+          <p>I will now turn the call back over to John.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Frank, thank you. At this time I would like to kind of summarize our comments and then following the summary opening up for Q&amp;A. The following is my view of Cisco's momentum and opportunities entering the fourth quarter of fiscal 2008. In areas that Cisco can control or influence, our momentum continues to be strong, especially in the areas of product leadership, innovation and thought leadership. The balance continues to be reasonably good across geographies, products, services and customer segments. We clearly continue to see the same things that each of you do in terms of opportunities and concerns in the U.S. market and the concerns about it expanding to other geographies. If the market does continue to slow we believe this will not dramatically change our long-term opportunities with our vision of how the industry will evolve and our differentiated strategy.</p>
+          <p>In fact it is our intent to expand our share of customer spend during the correction as we have done in the past. We also believe that our opportunities to expand in our current markets and market adjacencies are actually increasing. This is true from the data center to the home market, from the service provider to the small to medium business and the consumer; therefore you'll continue to see us invest aggressively where it is appropriate while maintaining our focus on our financial models.</p>
+          <p>From a geographic perspective, we continue to be optimistic about the majority of the global economies outside the U.S. based upon what we're hearing from our customers and our balanced strength in these countries across customer segments and product families. We will continue to monitor closely any spread of U.S. challenges to other geographies, while we are even more optimistic about our opportunities in India and China and emerging markets in Asia. We will carefully track our momentum in some of the other emerging markets.</p>
+          <p>Japan appears to be in growth mode again and that's really great, Rick. I think Edzard's done an amazing job there. From a U.S. perspective, the market did soften as we indicated that possibility in the last quarter conference call. When our largest market is growing in mid-single digits it's difficult to grow our total market at much above the 10% range. In our opinion, there are many things that are exciting about the second phase of the Internet technology as it enables collaboration, social networking and Web 2.0 but at the top of this list, is both the speed and the effectiveness with which these changes can be implemented across customer segments.</p>
+          <p>Again, if we're right about the value it brings to both business and individuals, this is the top of the first inning of a nine-inning game in terms of this broad business acceptance and associated benefits. Our balanced product momentum across our core technologies and bench technologies continues to be solid, but again, it is a loosely and then tightly coupled product strategy for these technologies that dramatically differentiates Cisco from our peers.</p>
+          <p>Our pipeline of new core routing and switching products continues to look very good as evidenced by the major product announcements during the quarter in both the switching and routing product areas of the ASR 1000, Nexus 7000 and Nexus 5000.</p>
+          <p>Our continued evolution of our first wave of advanced technologies and the emergence of a second wave of advanced technology is evolving as expected. At the same time, we are beginning to plan a potential third wave with our next-generation of early stage technologies. In summary, our product pipeline is in excellent shape and really looks exciting, having said that, obviously the proof continues to be in the results. On a global and US basis, we have seen the same challenges and uncertainties from an economic, political and capital spending view that we've seen -- that you are continuing to witness.</p>
+          <p>Once again with our usual caveats as discussed earlier in our financial reports, our Q4 fiscal year 2008 guidance is for Q4 revenue in the 9 to 10% range from a year-over-year perspective. Our long-term growth opportunities remain in the 12 to 17% range again assuming our usual caveats. We will continue to focus on what we can control and influence and attempt to position Cisco to gain momentum in market transitions whether they are industry consolidation, product transition, market adjacency opportunities or economic.</p>
+          <p>In summary, for those areas that we can control, we believe that our vision, strategy and execution are in great shape and producing results. As always, I want to thank our shareholders, customers, employees, and partners for their support and continued confidence in our ability to execute during rapid industry consolidation, market transitions, and challenging economic times.</p>
+          <p>Blair, let me now turn it back over to you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay. Thank you, John. At this point we would like to open up the call to Q&amp;A and we do request still that analysts please ask only one question. So, Kim, we are ready for our first question.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our first question comes from Inder Singh with Lehman Brothers.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Yes, thanks much. I wanted to ask you about the business. I think you touched on it a little bit already John. But two quarters ago you talked about sort of a US slowdown. I think that was a good leading indicator of what we saw happen. A quarter ago you talked about some European spillage perhaps. From what you've just reported for April and what you have just guided for July, it certainly looks like you had a fairly solid sense of results here. Is it fair to say that you're seeing business from your standpoint stabilize? Your diversification geographically and product wise, is that helping you feel a little more confident about the way you are executing relative to the market? And then also how are you managing your expense lines in light of sort of the environment that you're seeing now and which as you said could continue for a few more quarters?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Okay. A series of question. I'll try to wrap them into one answer, Inder.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>First, if you look at the market evolving, the US did evolve pretty much as we thought and we are gaining a lot of mind share and candidly innovation leadership with our enterprise customers. They are beginning to start down the path on collaboration of Web 2.0 and the leading technologies areas and that is very important to us. Same thing in service providers; we have a better relationship with the large service providers, traditional wireline players, the cable companies, than we've ever had. And this is from the top all the way down to the technical side. So in the areas that we can control and influence, we actually I think positioned ourselves very well as the economy picks back up.</p>
+          <p>In terms of Europe, it actually went from 8% growth to 14% growth. So it's balancing out in terms of its execution. Candidly, Germany is a little bit stronger than France within that. We see some mixed results out of Eastern Europe. But I'm cautiously optimistic there. If you look across the area, I guess the one key takeaway is that Asia Pacific got stronger, Rick, and it is good balance, not just in China and India, but what Owen is doing across the other countries. And then it is nice to have Japan back. It has been a non-factor for a couple of years, the growth there. So I guess that's, Inder, a nice way of saying the balance looks good and at the present time, it's playing out pretty much as we expected.</p>
+          <p>In terms of our expense model, we are going to be aggressive in expenses. And as Frank said, remember our growth on expenses, we get no benefit from currency in terms of our top line, the revenue growth. When many of our peers got as much as 6 or 7 or 8% of their growth out of currency we did not. But we did unfortunately get about 3% of our growth, Frank, on the expense side from the currencies, where we pay our salaries in local currency. We are going to, however, continue to be aggressive while staying with our financial models the 36 to 37%, and staying within our gross margin guidance that Frank gave you. So that's nice way of saying, overall we feel pretty good. No one knows for sure, but it plays out much as your question was asked.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Mm-hmm.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Okay, next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from Jason Ader with Thomas Weisel Partners.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thank you. John, last quarter you talked about the month of January as being very weak. I think we are all very anxious to hear about your comments on the month of April, given that a lot of your competitors closed their books at the end of March and March was a tough month for a lot your competitors. Could you give us any color on the month of April, how the quarter closed and basically what your level of confidence is, is that things are starting to get a little bit better?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Okay. So if I look at the flow throughout the quarter. And remember it varies every quarter based on seasonality by month. If we were to look at probably the last, oh, at least three to four years in Q3, the first month of the quarter was about 25% of the quarter, plus or minus a point or two. The second month was 30% plus or minus a point or two. And the third month was 45% plus or minus a point or two. This quarter followed exactly that same model, so nothing dramatic in it. In the interest of just being very transparent, we started off pretty good and good solid momentum. We are seeing some orders slide out and that's what normally occurs during a little bit more challenging economic times. But overall I wouldn't say yet that there is a turn. I would say it feels pretty steady in terms of the business momentum, however.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thank you, Jason. Next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, our next question comes from Ehud Gelblum with JPMorgan.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Hi. Thank you, Blair. Thank you John. Question: I wanted to just dig a little deeper into some of the numbers that you were giving. I think I have got them all. In the main growth area that we have been looking at, emerging markets have been growing really nicely for a bunch of quarters and started decelerating. They've now gone from 24% on the order side to 10% this quarter. Advanced Technologies is a revenue number that was 17% growth but there were some acquisitions in there. I calculate it was about 8% when you take out the IronPort and WebEx acquisitions. And in service provider which is something that we all think is very strong and a lot of Japan is in there, the orders grew 6%. So we're looking at numbers that all seem to be pretty low. I'm trying to put that together and trying to understand with these numbers of 10%, 8%, 6%. How do we get back into the 12 to 17% range and why do you have confidence that you'll be able to get there? And I understand emerging markets is lumpy but if you can give us some color as to -- it seems like it's done nothing but lumping down for the last four quarters and how do we get back up from there? What do you see that gives you confidence?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Okay. I'm going to answer one general one but I'll answer a general, but if there is one segment of the four questions you asked, is there one particularly you'd like for me to focus in on?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>I think they're all parts of the same question which is that we're seeing deceleration in the main growth areas.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>So how do we reaccelerate those growth areas?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>So if you look in terms of the main growth areas, for each one that you said on the caution and I'm not doing the math quick enough in my head to substantiate or to disagree with the math that you did. But if you look at the areas of acceleration, surely Asia-Pacific is accelerating. We're seeing that and we are very pleased with that and so the investments that we are making in certain emerging countries in Asia Pacific, were very solid and we saw that results for Asia-Pacific is back growing comfortably above the rest of the operations, real solid in China and India and those were a direct result of the investments that we've made over the last two years and directions. Japan is back and we'll see if it will continue to grow at the momentum but if I were making good estimates, I think you'll see Japan start to be a real factor in our growth as we move forward.</p>
+          <p>In terms of the emerging markets, they are always going to be lumpy, it drives you crazy. If you watch, remember it was just two quarters ago, if I remember right, Frank, where we were concerned about the revenues in emerging markets and as you can see if we just gave you the revenues in emerging markets at 44%, you'd have an entirely different picture. So emerging markets will be lumpy, that's both recognition issues etcetera within that and I think the emerging markets over time will continue to grow at twice the growth rate of our core markets, if you will. Now that won't be exact science, but I think that's how it will play out.</p>
+          <p>If you look in terms of the growth on the network, the video growth, how service providers are going to evolve, etcetera. You'll have to spend in those areas and so I think there may be cycles when they spend heavier or a little bit slower and just using enterprise as a example, while the enterprise numbers are starting back up and you're seeing that in terms of a feeling like it's reaching a support level and starting to slowly go back up, the two areas that led us into the slowdown which were the Financial Services and the Manufacturing sector actually had their best growth in mid-teens and now you are seeing the areas such as transportation and hospitality, as no surprise slow a little bit.</p>
+          <p>So I think you're just going through normal cycles and it really comes back to do you believe and I clearly do, the role that IT will play in productivity and the next growth in productivity. Do you believe that video will grow not at 50 or 100% through bolt-on networks, but well beyond the 200% where most people are based today, and do you believe your in cycles on that. So to me, I feel very comfortable with the 12 to 17% growth range. And when you think about it, if you can grow at 10% when your largest country that represents about 47% of your business grew mid-single digits, that's not a bad quarter. And so I think you're seeing a base formed here against pretty tough comparables from last year and that's why if you look out over the next couple of quarters, no one can project as it starts to come back up. But probably towards the end of the calendar year, you'll see it start to pick our growth momentum back up.</p>
+          <p>That's, pretty broad answer to series of very fair, but very broad questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Right.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>We will call that one question. Okay. Next question?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>I think Blair is going to become the policeman for me or on me to make sure I just answer one.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Okay. Next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question comes from Scott Coleman with Morgan Stanley.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thanks guys. John, last quarter you talked about orders slipping, but your pipeline staying very strong. You answered a question previously about a little bit of slippage in terms of orders, but I'm wondering if you could help us understand what the pipeline looks like going into fiscal Q4?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah. I think the pipeline looks very solid. The key is your close rate just isn't as good as normal, Rick, and it takes you a little bit longer to get the closes. But if you lock the pipeline activity and you talk to our field sales people, they feel good about their long-term growth and their momentum. They're winning share of market and share of mind and you can sense that in the enterprise and you absolutely can sense that at the Service Provider segment and our relevancy to these customers is changing.</p>
+          <p>Also to answer one of the questions that was asked earlier in a little bit more detail, watch the announcements we just made. Look where our peers in the IT industry are getting their growth. They are getting the growth in services, they are getting the growth in data center consolidation, they are getting the growth in the new technologies. So we just made a series of initial product announcements in the data center and doing that in partnership with some of our large players in the data center as well and stay tuned in terms of how that is a successful course over the next 12 to 18 months. Where we shared that with customers it looks really good.</p>
+          <p>You also talk about growth areas, remember just two years ago. I wouldn't have said services as a product. When your services revenues, and I made a pretty good statement there that my most likely scenario and granted, with the appropriate caveats, is 20% plus growth over the next in foreseeable future. That's a pretty strong indication to the market too in terms of our balance and direction. So that's kind of how I pull it all together if you put together the various pieces in terms of our growth opportunities, some of the trade offs and what we're seeing.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>One follow-up if Blair will allow it. You talked about service provider and the confidence there. I think, obviously the lowest growth rate we've seen I think you said in 12 quarters. Should we assume then that you get a nice bounce back in Q4 in terms of order growth in service provider given the confidence that you're talking about?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Let me see if somebody else asks that question. If it doesn't get asked, I'll answer it for you, but remember the number that you said was U.S. service providers, it was not service providers in total. Service providers in Asia-Pacific, service providers in the emerging markets and service providers in Japan grew &#x2013; I want to be careful on this math in my head &#x2013; grew 17%, 26% and 50% year-over-year. So it's very much based upon theatres and individual account scenarios and very much a spike, so that if somebody else will ask me about, I'll expand on.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Fair enough. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Great. We'll try to spread the wealth here. Next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, our next question comes from Nikos Theodosopoulos with UBS.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thank you. This is Daoud on behalf of Nikos. So, my question is regarding your commercial business -- your SMB business. It's roughly 20 to 25% of your total revenue. And that's been coming down in terms of growth rate over the last three quarters. Can you just, John, talk a little...?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>a little bit on the commercial side? Sure. So if I really look at the commercial business as a whole I'm looking for some of my data here. So I'll make sure I stay with the numbers in the right way. It was 18% on a total global basis and I would give us pretty good marks in terms of establishing it and moving it from below 20% of our total business to the mid-20s as you said, over the last three to five years. What we are also doing is breaking the commercial business into two segments, what we call Medium Commercial and Small Commercial. So you'll see us beginning next quarter to focus on Small as a separate market than regular commercial and were clearly making that one of our $10 billion type of opportunities in terms of our accounts along that, but we're starting from a low base with low market share.</p>
+          <p>Commercial tends to be a market where if your customer's business is good they spend and if their business isn't as good, they don't spend. So it will react different into the various theatres based on where you were. So, for example, in Asia-Pacific commercial grew at 30%, no surprise: their economies are doing well. And the emerging markets, they grew at approximately 20%, no surprise, the economies are doing well. In commercial in European markets it grew in the -- about 27% and again you see good balance. It was challenging in the U.S. in terms of the commercial business only growing 13% and so I think it just speaks to primarily a challenge in the U.S. at this time in terms of our commercial market. But it does mean that we have got to continue to be active and to continue to be both effective in bringing new products to markets, developing new channels especially in the small markets and continuing to be acquisitive in this market as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Great. Next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question comes from Mark Sue -- I'm sorry Mark Sue with RBC Capital Markets.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thank you. Can you give us your thoughts on the duration of the spending caution in the U.S. and if you think the situation still looks short-lived and contained? I ask since the weakness seems to be spilling over from the enterprise to the service provider and also now commercial and the coupling between the multiple segments seems to help during the good times but also seems to hurt in the bad times.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Let me break it, Mark, into just very candid discussion. I'm going to base it to what I'm seeing from our customers and what we're assuming from our own financial planning perspective. Our views have not changed dramatically since early February when we shared with you, we thought that the U.S. would see some bumps here that would last two to three quarters, the most likely scenario and by the end of the calendar year, the most likely scenario was that it would be turning back up. If you watch the action of the Fed and other central banks around the world, you don't know what the implications are going to be on their investments for &#x2013; on their decisions with these blunt financial instruments for probably 6 to 12 months later.</p>
+          <p>When I talk to my customers, most of them are modeling that by the end of the calendar year, they see it picking back up. But most of them are saying, it's going to be a little bit tougher for the next quarter and I think that's what you are seeing in our modeling and in our advice in terms of the overall approach. It shouldn't surprise us though that if an economy slows down enterprise first and commercial second on it, service providers will have to spend and when I get that question later, I will expand on it, even though I think for a quarter or two that might be little bit challenging because of really tough comps the last year, Jim, both in Scientific-Atlanta and very tough comps for our traditional service provider spend in the U.S. But that's how I'd cover it.</p>
+          <p>Now, I want to say on the front-end, I talk to most all of the key economists, I talk to most of the business leaders and most of government leaders; they will all express their views on various levels of this with tremendous confidence and then at the end they say, "I'm not really sure." And so we are a little bit in uncharted waters. I'm giving you my best cut, I think it is going to be relatively short and come back up. If I had to put &#x2013; had to bet on the odds and that's what we are going to bet as a company. We will adjust appropriately if we're wrong on that, but that's the most likely scenario.</p>
+          <p>I would also point to an issue that both service providers and enterprise customers in my opinion can only hold up on technology spending as it relates to network for so long. Then they start to fall behind on either capacity or their productivity models just as other things are starting to move and we did see that as an early indicator in the financial services and manufacturing market.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Great. Thanks, Mark.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Thanks, Mark.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Okay, next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our next question comes from Tal Liani with Merrill Lynch.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Can you hear me now?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes, we can, Tal.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Sorry. I want to go back to an answer you gave to a prior question which I think is important, and then ask you to clarify it. Your commentary is positive, but on the other hand the numbers -- the order numbers are showing that the weakness is expanding outside of North America. If I look at order growth outside of Japan, everything is decelerating. U.S., Europe, half of the growth rate we've seen before etcetera, etcetera, so we don't need to report the numbers. Can you -- and then maybe I'm analyzing too much, but in the last quarter you said things like that the slowdown could be measured in months and this time you said quarters. So again, that's maybe over-analysis. But do you feel better or worse about the situation global kind of demand for the products? This is all near-term, but do you feel better or worse than you felt after the last quarter and have you received any information for example, the quarterly order growth, have you seen any deterioration towards the end of the quarter, etcetera to support a better environment or a worse environment? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>If you look overall, what we saw in January is exactly what continued. We saw growth in about the 9, 10, 11% range. And so that's what we said for this quarter and that's what we're saying for next quarter. And it does move around from either customer segments or geographies within the U.S. and we did indicate to you, we're starting to see some balance in the U.S. which if you are an optimist should not tend to be based on the facts and what my customers are saying indicate that you are getting a floor at least for this period of time using the enterprise balance as an example within that. And by the way, the enterprise accounts were deteriorating at a much faster pace two to three quarters ago. And so if you look at the actual large what we call segment one accounts, they actually had a pretty good quarter this quarter both in quarter-over-quarter growth and year-over-year type of growth. So we'll see how that plays out.</p>
+          <p>I'd say the market is about what we said in the last quarter and we used both quarters in going forward and months in terms of the discussion. We said we still think and it's what I said at that time, the most likely scenario is short term. Some of the things look better than we expected, some of the things do not. But in terms of growth areas we'll point out and it did come out pretty accurate, I said 9% growth and I will reiterate the services segment not only how important they are to growth of your markets, but the services themselves and what Wim's team is doing there is world class. And again that's 16% plus of our business at over a 20% growth rate. So that's how I would handle it, Tal, I don't think there's been a dramatic change from what I said the last quarter. Played out in good news and challenging news pretty much as we expected. And we said a similar forecast for this next quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Great. Thanks Tal. Next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, our next question comes from Aaron Rakers with Wachovia.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Yes. Thanks. Most of my questions have been answered, but I wanted to get into the commentary on the switch business, we have seen growth slow down quite a bit. And I believe, John, in your commentary you had mentioned a little bit of hesitation with regards to the Nexus product line coming out. Maybe you can help us understand there as you focus on data center consolidation what the timeframe looks like in terms of how that product will ramp. And maybe help us understand how much of that is more macro related relative to basically that Nexus product and being evaluated into the market? That would be helpful.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Sure. If you look at the -- in the fixed switching capability, that did grow at 11%. The high-end switching, the modular segment such as the 6000 and new Nexus 7000, were where our challenges were within the switching group. And it isn't an issue with the data center consolidation. That actually is going pretty rapidly, and for the products that we currently have we did fine in that area. But if you look at the Nexus 5000 and 7000 and you begin to share our plans with our partners such as EMC and IBM in the data center, then you begin to get pretty excited about what this could mean to three to four quarters out.</p>
+          <p>But it will take a while just like the CRS took a while for customers to look at its capability before you put it in the middle of your network. For the Nexus 7000, it will take a while and some additional features before the customers put it in the middle of their data centers, so those will be in pallets. The Nexus 5000 which we don't start taking orders on for another month or two I think is pretty exciting in terms of what it can mean in terms of the data center as well. And so if you were to say, one of the areas that is personally most exciting to me is our play in the data center and what we're doing there both ourselves and with partners. I think you'll see results of those products toward the calendar year and first quarter of the year after. So I think it'll be a little while on the data center before you see our volumes pickup, if I were to summarize that.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Okay. Next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, our next question comes from Ittai Kidron with Oppenheimer &amp; Co.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thank you very much. I guess, I was daunted with the task of asking about the service provider?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>I'm having trouble avoiding that one. I thought we weren't going to get to it.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>I'm not going to let you off that easily I guess.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>No, I don't want to get off. Just Blair would kick me if I did a third question.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Very good. If you could first of all give us a little bit more color about the revenue and order growth rate for service provider as a whole without necessarily a geographic distinction. And how do you see the growth shaping up going forward.</p>
+          <p>And second, your competitor across the street seems to be doing extremely well on that front. How concerned are you with regard to its growth rate relative to yours?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Okay. So I think I'm going to take it from the big picture first and then bring it down to what you are really asking me, which is the long-term growth rate in service providers. So from a big picture perspective, the fundamentals have not changed. IP is one, it's going to be converged data, voice, video, fixed and mobile together. Video is going to drive the next node of the networks. And it's going to grow way over what everybody said 5 to 6 years ago, except Cisco, where we said it is going to grow 200 to 300% would be a given and 300 to 500% growth on networks is very likely with Japan often leading the way as they are this time again.</p>
+          <p>Right after video, the next load wave will be driven by collaboration and Web 2.0, which is in the early stages of that. And you will see Cisco and candidly, service providers if they execute right move from plumbers where it is about transport to solutions. So the big picture fundamentals have not changed.</p>
+          <p>Activity in any quarter is going to vary by geography. It's going to vary depending on where you are in core versus edge build-out cycles. It's going to vary by product announcements, it's going to vary by capital spending, by each service provider themselves and the pressure and availability of capital to each service provider. From a geographic point of view as we said earlier Asia-Pacific and emergings grew respectively at 17 and 26%. Japan grew in service provider at 50% growth rate. Europe grew in single digits, much like it did the prior quarter. U.S. was about minus 3. When you think about the markets, they occur pretty predictably by service provider. And various service providers within a country as around the world will be in different cycles.</p>
+          <p>So when you think about the service provider cycles, the first segment that you see built out is the core segment. And core occurs first, then you get to the edge. Then as the edge really starts to build out, you start to load the networks heavily for the above-mentioned reasons that I covered. Then you have to go back and redo the core and then go back and redo the edge. We think we are set up cycle wise very well for that to occur in terms of our products. So I take again a great deal of comfort in terms of your high-end CRS routers growing at 150% year-over-year. I am not aware of any of our large peers who have numbers like that with their key flagship products. And secondly with our high-end routers in total growing at 26% year-over-year in terms of its positioning.</p>
+          <p>That's a very nice way of saying that our relationship with our service providers and where they see Cisco's relevance is improving almost without exception. And that's really a strong statement versus two years ago. Almost without exception in terms of global service providers be they fixed, be they mobile moving from a tactical box product to an architectural play to a business partner. Doesn't mean they don't say we need to do better, but who would have said just two years ago that AT&amp;T and a Verizon and a BT would all say Cisco you have the potential to be my best business partner, as well as, best technology partner. Not just on one or two product areas but all fronts.</p>
+          <p>So I know that you deliberately asked the question, because you wanted me to answer it very crisply and so with that what I'm really saying is that you're probably going through a cycle here due to a number of factors that will last one to two quarters and I think that if you look out over next fiscal year and beyond, you'll see growth in the mid-teens or above as the most likely scenario with all the appropriate caveats.</p>
+          <p>Jim, you have some tough comparables at Scientific-Atlanta as an example, maybe you'd spent a moment on that?</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="a">
+        <plist>
+          <p>Well, I think, if you look at 7/07 last year, which was really the unbundled security. We started to see the orders roll in in Q2, but last year in Q3 of '07 is where our orders peak. So, for us this by far was going to be the most difficult comparable year year-over-year. So obviously, we pulled the number down quite a bit in this thing as we go through it. But as you look at it what we saw after Q3 is, we saw a drop off in our orders in Q4 getting much back more to normal. So we would anticipate that clearly this was by far the most difficult quarter for us to compare against on an order basis...</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="a">
+        <plist>
+          <p>And next quarter it might be difficult on revenue.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="a">
+        <plist>
+          <p>...and next quarter will be the most difficult from a revenue standpoint as this bubble moves through the systems with the sales actually delayed behind the bookings by about one quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Very good.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="a">
+        <plist>
+          <p>Well, you can add another thing there too. When you just look at service provider broadly after 12 quarters in terms of bookings growth in the U.S. of over 20%, naturally we are running into some of those though comps now. And so that all plays out over time and to John's message about over the long term given the relationships we have in place. As we go up against those tough comps, it's natural that those numbers come up about the same time, some of the edge technology hits the market. So there is a lot to be optimistic about as you look longer term.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>I'll make no decisions on this month, this quarter or even this year. I feel very, very comfortable with where we are in service providers looking out over the next two, three, five years. So thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Ittai. Okay, next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, our next question comes from Paul Mansky with Citigroup.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Actually most of mine have been asked and answered. However just kind of following up on that last question. Maybe just to provide some additional context, do you have offhand what your order growth would have looked like in North America service provider ex-Scientific-Atlanta?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>No. I probably would have to sort it out, because remember service providers in North America this quarter last year grew, if I remember the numbers right 33% in terms of orders. So it was a crunching quarter in terms of the direction, Scientific-Atlanta orders grew --</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="a">
+        <plist>
+          <p>This quarter versus previous quarter, we were slightly negative.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Slightly negative.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="a">
+        <plist>
+          <p>On a year-over-year basis. So you can look at that as a mechanism to try to judge ours you know about what ours are running.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>But the comps on both sides, Paul, were really tough, really good last year in service provider in terms of the balance.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Certainly. Great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks. Next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, our next question comes from Simona Jankowski with Goldman Sachs.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Yes, hi, thank you. John, I just wanted to ask you as a follow-up to some of the comments you made in your prepared remarks about taking advantage of downturns to move into market adjacencies. Can you just expand on that as far as your organic numbers and also what you might be thinking about in terms of acquisitions? Why does this present an opportunity and where do you see yourself going strategically?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah. One of the reasons and thank you for the question that we are going to continue to remain very aggressive in terms of our expenses, we could obviously cut back any time and improve the bottom line pretty quickly. We are moving into many new markets in each of the customer segments and by the way in most of the key geographies at the same time as well as going into market adjacencies and you don't see the results, especially in terms of the engineering investments for often three to five years after that. We have the internal start-up engine really cranking and in fairness, this might be the first hi-tech company that's been able to do that on more than just a product or two in terms of from scratch to internal start-up and Don, we're seeing that in your area. We're seeing that in Marthin De Beer's area. We are seeing it pretty much globally.</p>
+          <p>We will if you were to say all right now, where are you going to be aggressive? We are going to be aggressive in the data center. No surprises there, the data center virtualization will start first and it will go all the way to the home. We are going to be aggressive in the consumer outside of the house. And Ned doesn't have a blank check but he has a pretty good open pocket book and if you watch what the consumer did, it was that good first step. We brought out a new generation of products. You saw us capture a larger share of available spend from our customers with that product and we did it at the same margins. So we're beginning to take small steps, Ned, versus where we need to go overall.</p>
+          <p>But I'm hard pressed to say that as you begin to play through this scenario, that we aren't stronger in both our acquisition opportunities, our internal start-ups, our expansion of existing markets breaking commercial into small business, focus on small where we have not really done before in terms of our channels or the product capabilities, movements into new areas such as sports and entertainment and you are at the very front end of the wave on this next productivity tool collaboration and Web 2.0. And then just think about the video loads, that's what will call service providers to scale as you begin to put in the edge routers in those networks to build out huge core networks, you begin to load up the core back up and then you go through another cycle again, and by the way those edge opportunities come up just as we have our products coming to market which looks solid, and then you begin to think about the additional loads in terms of other categories we're going to move into which is a nice of saying I feel very comfortable with our 12 to 17% long-term growth modes. We'll be very transparent with the group but on factors we control or influence, I think things look very good.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay, great. Thank you, John, and thank you, Simona.</p>
+          <p>We have come to the end of our call, so I'd like to thank you for your questions. Cisco's next quarterly conference call which will reflect our fourth quarter fiscal year 2008 results will be on Tuesday, August 5, 2008 at 1:30 PM Pacific Time, 4:30 PM Eastern Time.</p>
+          <p>Additionally, downloadable Q3 financial statements will be available following this call, including revenue segments by product and geography and they can be found on our website in the Investor Relations section. Again, just click on the financial section of the website to access both the slides and these financial statements.</p>
+          <p>I'd like to remind you that in light of Regulation Fair Disclosure, Cisco plans to retain its longstanding policy to not comment on its financial guidance during the quarter unless it is done through a public disclosure.</p>
+          <p>Please call the Investor Relations department with any follow-up questions from the call. Thank you for your participation and continued support. And this concludes our call.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

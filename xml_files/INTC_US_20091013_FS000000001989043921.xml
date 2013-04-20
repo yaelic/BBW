@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1253937" product="RawTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q3 2009 Earnings Call</title>
+    <date>2009-10-13</date>
+    <companies>
+      <company>270</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Kevin Sellers, Vice President, Finance and Enterprise Services; Director, Investor Relations</participant>
+      <participant id="2" type="corprep">Paul Otellini, President and CEO</participant>
+      <participant id="3" type="corprep">Stacy Smith, Vice President and CFO</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker>
+        <plist>
+          <p>Intel Corp. (INTC)</p>
+          <p>Q3 2009 Earnings Call</p>
+          <p>October 13, 2009</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Good day, ladies and gentlemen.  Welcome to the Q3 2009 Intel Corporation Earnings Conference Call.  My name is Chanel, and I will be your coordinator for today.  All lines have been placed on mute to prevent any background noise.  After the speakers' remarks, there will be a question-and-answer session.  <mark type="Operator Instructions" />  As a reminder, this conference is being recorded for replay purposes.  I would now like to turn the presentation over to your host, Mr. Kevin Sellers, VP of Investor Relations.  Please proceed, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, Chanel, and welcome, everyone, to Intel's Third Quarter 2009 Earnings Conference Call.  I'm joined today by our Chief Executive Officer Paul Otellini and Chief Financial Officer Stacy Smith.  Our earnings and updated financial statements were released today at approximately 1:15 pacific daylight time and can be found on our investor website INTC.com.  This quarter we introduced a change to our earnings process by posting earlier today to our investor website additional management commentary and context about our quarterly results.  This was done in an effort to create better understanding of the results prior to the call, something we thought would improve the interactive dialogue with management during this meeting.  We hope this change is helpful, and as always, we would love to hear your feedback so that we can continue to try and improve our disclosure practices.</p>
+          <p>As we begin our call, let me remind everyone that today's discussion contains forward-looking statements based on the environment as we currently see it, and as such does include risks and uncertainties.  Please refer to our press release for more information on the specific risk factors that could cause actual results to differ materially.  If during our call today there are any non-GAAP financial references made, we will post the appropriate GAAP reconciliations on our investor website.  So with that let me hand it over to Paul for some comments followed by brief remarks from Stacy.  Paul?</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks, Kevin.  We are very pleased with the company's third quarter.  The strong financial performance is a result of having the right products at the right cost at the right time for a recovering global economy.  The strength in our business remains primarily consumer driven, with broad based demand across all geographies.  Our mobile business had a particularly strong quarter.  In fact, we saw the sequential unit growth rate of notebook processors and chip sets actually exceed the growth rate of Atom processors and chip sets.  While Atom and net books are important growth drivers for us, our traditional notebook business remains one of the primary drivers of revenue growth, and we expect that to continue in the future.</p>
+          <p>In the server segment, we are pleased with the acceptance of Nehalem and the enterprise.  While overall enterprise spending remains weak, the compelling value proposition of Nehalem is generating growth opportunities even in a down economy and will be a strong profit driver for Intel in the coming quarters.  On a regional basis, China had a particularly strong quarter and continued to show strength during the just completed golden week.  The U.S. continued to ride strong consumer sales with the back to school cycle exceeding our expectations.  Sequentially, Japan showed very healthy growth and Europe growth was slightly above seasonal trends.  I know that many of you listening today are concerned about inventory levels and the state of sell through around the world.  Let me share just a couple of important data points.  First, our channel sales out have shown healthy sequential growth for three quarters in a row with channel sales out this quarter actually exceeding the activity we saw in Q3 of 2008.  Inventory in the channel remains slightly below normal levels reflecting both good sell through as well as disciplined inventory management.</p>
+          <p>At our large OEM customers, compounded inventories are roughly half the peak level of late last year and have been approximately flat throughout 2009.  Much of this is due to our implementation of inventory hubs where we hold the inventory for our large OEM customers who then pull inventory only as needed.  This helps our customers better manage their inventory levels while giving us increased visibility into real-time system production levels.  We watched supply chain inventory very carefully and believe the pipeline has been appropriately rebuilt to support increased end demand and yet remains well below the peak we saw at the end of 2008.  I also want to highlight the excellent performance of our factory network.</p>
+          <p>Our internal inventories continue to run quite lean with factory throughput improvements providing us with the ability to respond to demand changes far more quickly and effectively than ever before.  Our product cost declines are significant and are a reflection of improved loadings, better equipment reuse, and exceptional yields.  All of this leads to better than expected costs across our newer technologies, allowing us to expand margins in a difficult economic environment.</p>
+          <p>In closing, let me briefly mention the biggest driver of our product differentiation in the marketplace, and that is our process technology leadership.  At our IDS event last month in San Francisco, I shared that we had shipped over 200 million 45 nanometer processors to date.  I'm very pleased to note that this quarter, we began volume production of our newest process technology at 32 nanometers.  Our 32 nanometer process is stunning technology that incorporates second generation of high K metal gate transistors.  As we ramp this new technology, we will be refreshing our entire product line providing better performance, lower costs, and lower power consumption for all of our platforms.  Importantly, 32 nanometer process technology also allows us to accelerate system on chip implementation in the Intel architecture, providing Intel with new growth opportunities in the coming years.</p>
+          <p>With that, let me turn it over to Stacy for a few brief remarks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thanks, Paul.  The combination of strong execution and a strengthening market led to exceptional financial results.  Better than expected demand in the microprocessor and chip set businesses led to the largest sequential third quarter revenue growth in over 30 years.  Gross margin percent of 58% was up nearly 7 points from the second quarter.  Operating profit was up 80%, and net income was up 77% excluding the impact of the $1.45 billion EC fine taken in the second quarter.  The PC market segment is recovering nicely, with our microprocessor revenue excluding Atom growing 23% since the market bottomed in the first quarter.  In the same time period, Atom microprocessors and associated chip sets have grown to $450 million in revenue in the third quarter and $1 billion year to date.</p>
+          <p>Gross margin benefited from exceptional execution in the third quarter.  We responded to our customers' upside requests and achieved a significant reduction in costs resulting in a 58% gross margin, a nearly 7 point increase from the third quarter.  As a result of capital reuse and achieving efficiencies, our capital forecast of $4.5 billion is now less than the annual depreciation run rate.  Operating expenses are in tight control.  This is most clearly seen in spending as a percent of revenue.  In the third quarter, spending for R&amp;D and MG&amp;A as a percent of revenue improved 2.5 percentage points to 29%.  We achieved this result inclusive of the biannual shifts of process engineers moving from cost of sales to R&amp;D.  The number of employees increased less than 300 people in the third quarter, including the completion of the Wind River acquisition.  Our business model is generating both profits and cash.  Third quarter operating profit was $2.6 billion, up 80% from $1.4 billion excluding the EC fine and as a percent of revenue grew 9.6 points to 27%.  Total cash investment s comprised of cash, short-term investments, and debt security assets ended the quarter at $12.9 billion, $1.6 billion higher than the second quarter.  Cash flow from operations was approximately $4 billion.</p>
+          <p>During the quarter, we paid the EC fine, purchased Wind River, bought back $1.7 billion in stock, paid nearly $800 million in dividends, and purchased $944 million in capital assets.  Additionally, we issued $2 billion of convertible debt.  For the fourth quarter, we are forecasting a seasonal increase in revenue, taking the midpoint of our forecast range to $10.1 billion, a 23% increase from the fourth quarter of 2008.  We are forecasting the midpoint of the gross margin range to increase another 4.5 points to 62%.  The third quarter results and the forecast for the fourth quarter show the superior financial results that can be generated by the combination of a recovering market, strong execution, and a leadership product portfolio that serves markets spanning from servers to notebooks to net books.  The factories are executing superbly, and we are showing good financial discipline.  These attributes are leading to the financial results we are seeing today, and they serve as a strong foundation from which we can build in the future.</p>
+          <p>With that, let me turn it back to Kevin.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks, Stacy and Paul.  We'd now be happy to take your questions.  In another slight change to our process, we'd like to limit each questioner to one question only, which will allow for more people that would like to ask a question the opportunity to do so.  Chanel, we're now ready for our first questioner.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Your first question is from the line of Uche Orji with UBS.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thank you very much.  Let me just ask about inventory.  There's been a lot of talk about double ordering in China.  Let me just ask you, in-house inventory right now is well below historical levels.  Is this a new normal given reduced cycle time?  So should we expect a rebuild through the rest of Q4 into the first part of 2010?  And related to that, can you also just talk about what you're seeing in terms of corporate spending?  Was there a little bit of corporate spending embedded in Q4 guidance, or should we expect more from corporate in 2010?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>We're going to pick the first question and keep it to one question if we could.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>I had to try.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>I got it.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>It was a run-on sentence approach to one question.  We love it.  Let me take the internal inventory question.  Let me take it, and I'm sure Paul will get other questions on channel inventory as we further here.  From an inventory standpoint, we're lower than I like right now.  We want to get some inventory in place in Q4.  Part of that is we're just running a little leaner.  We were surprised by some of the unit up size we saw in the course of the third quarter, and we want to replenish, and also as we're on the cusp of the transition to 32 nanometer, if you look historically at the time where we put a little bit more inventory in place to just buffer both sides of demand supply equation, so I plan to grow inventories a bit in the fourth quarter.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Thanks.  Go ahead.  Next questioner.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question is from the line of Sumit Dhanda with Banc of America.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Yes, hi.  Stacy, question for you on the fourth quarter gross margin outlook.  Obviously very strong.  My only question was you have indicated in your transcript that there's a point from higher CPU volumes in terms of a benefit.  I guess my question was is mix assumed flat?  And then along the same lines, given that your excess capacity charges are dropping off and your loading is increasing as you build inventory, why not a higher bump just from volumes into Q4?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Yeah, thanks.  On the first question of mix, we'll likely see a slightly richer mix of CPU shipments in the fourth quarter than we do in the third.  Remember, the way the supply chain works and we think the supply chain is looking pretty normal right now, they put some chip set inventory in place in the third quarter, and then they couple it with a CPU in the fourth quarter.  So probably a little richer mix to CPUs in the fourth.  That coupled with just increase in volume is about a point of gross margin.</p>
+          <p>To your excess capacity question, the answer is we'll be out of excess capacity charges by the end of the fourth quarter.  So we have kind of took some significant charges in -- end of Q4, Q1.  We saw some improvement in Q2 and Q3 with the further improvement that we're forecasting for Q4.  Those will be zero, in essence, as we leave the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Thanks, Chanel.  Next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question is from the line of Craig Burger with FBR Capital Markets.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Hi, guys.  Congratulations on a strong results and kudos on the conference call process improvement.  I guess on the gross margin, can you help us understand where capacity utilizations are at and what kind of capacity you have for 2010 growth?  And then also as part of that, if you look at the last time revenues were about at this level --</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>I think we lost Craig.  Chanel, are you still there?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Yes, sir.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>While this happens.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>We lost you Craig.  We good the first part of your question, but you went out for a minute.  You have to restate that.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>So utilizations, and then the last time you guys were at 10.1 billion in Q3 '08, your gross margins were about 3 to 4 points lower.  Can you talk about some of the structural improvements that have happened over the last year?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Yeah, to your utilization question, I showed a chart at the investor meeting that showed my expectations for the year.  We're a little ahead of that.  So in Q4 from a factory utilization standpoint, we're right in what I call the optimal range.  We have articulated we're kind of between 80 and 90%.  Gives us the ability to achieve really good cost but also have some capability to have upside on some specific products, so that's where we're at.  And then to your gross margin question, it's really the work we have been doing over the last three years.  We're in a situation where we're able to reuse a significant amount of capacity from 45 to 32.  That's going to be helpful to us.  You can see that in your CapEx line.  You can see our costs coming down, our throughput times are coming down, our output per piece of equipment is going up, our yields are going up.  So it's just a variety of work there that's leading to really good performance from the factory network that is helping us in the gross margin line.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>I think the other part of Craig's question was 2010 capacity, so let me just try that.  The significant increase in our capacity going into year, Craig, is to continue to ramp the 32 nanometer factories.  We've got two factories we're ramping now against a planned four.  That remains on track.  That will be -- that technology will provide the significant new product portfolio and capacity expansion we think we need for the 2010 environment.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thank you so much.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Thanks, Craig.  Goo ahead, Chanel.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question is from the line of Daniel Darenbom with</p>
+          <p>Ariga USA.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thanks very much for taking the call.  You guys have done a great job managing OpEx and maybe along the lines of the last question, when you look at the last time if you look at Q4 guidance, the midpoint last time you were at that revenue level, you were around the same OpEx level as you guided to, and that's with the shift of startup costs into the R&amp;D line.</p>
+          <p>So as you look forward into 2010, assuming you continue to see some of this strength, do you need to add anything back to the R&amp;D or SG&amp;A lines, or do the cuts continue as we roll into 2010?  Is there more money to take out of those lines?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>I'm not going to provide a point forecast for 2010.  Let me, though, answer a couple of things we told you before.  I want to just reinforce.  First off, we do believe that through our work on efficiency, we can continue to improve spending as a percent of revenue.  And so that's an area where Paul and I continue to be very focused.  We believe there is potential benefit there as revenue grows where we can just bank some efficiencies.  It's different from are we going to be smaller next year.  I would say we're through the cutting phase of our efficiency effort, and now we're hopefully in the growth phase of that efficiency effort.</p>
+          <p>And I think that was it.  Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Yeah, that's great.  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Thanks, Dan.  Chanel, next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question is from the line of John Pitzer with Credit Suisse.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Yeah, good afternoon, guys.  Congratulations.  Paul, in your opening comments, you talked about Nehalem being a profit driver over the next couple quarters.  There's been a lot of conversations about the PC cycle within the corporate mark.  You help me understand how you guys are looking at sort of the potential for server replacement cycle?  And I guess with the EX coming out, help me understand to what extent that helps you grow market share and/or any after some of the proprietary solutions that X86 has not addressed and what could happen to TAM there as you do that.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Okay.  Well, the Nehalem product line, you're right, John, is ramping through the bulk of our products.  We've launched the high-end desktop, mid range desktop, and you'll start -- and notebook, and now you start seeing more volume start shipping in quarter in addition -- in anticipation of a January launch.  So we'll have a full-fledged client portfolio and the MP servers all shipping by year-end for Nehalem.  In terms of a server upgrade cycle, what we're seeing on the Nehalem DP is it's not so much an upgrade cycle that's driving the volume right now, it's economics of the data center.  People are looking at swapping out 8 to 9 older generation servers for a single Nehalem server on a ratio basis, and that has the same or better performance, much better power consumption, so it lowers electricity bill and gives them a little bit more flexibility in their data center fingerprint.  I think that's just going to accelerate as MPs start shipping bauds you have the same dynamics applying against an older generation of machines.  I do think there is opportunity with the MP machines to start encroaching on what has traditionally been the risk portion of the market or even some of the lower end main frame portion of the market with this product line.  If you look at some of the very high-end machines some of our customers are working on that are well above 8 way machines.  The bad news about that is that part of the market is very small in units, so when I look at the overall TAM expansion, there's going margin there, there's good numbers, but it's not anywhere near what we would get by say replacing the existing Xeon machines both MP and DP in the existing data frame data center configurations.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Great, thanks guys.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Thanks, John.  Chanel?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question is from the line of Glen Young with Citi.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Maybe just your insight here.  To the extent that Intel is growing above the industry growth rate, to what extent do you think that's attributable to, one, share gain, two, market creation from Atom, and three, any pent-up demand that you may be seeing for Nehalem?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Which industry are you referring to?</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Well, PCs.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>I don't think that we can grow much above the PC growth rate at the end of the day.  There is -- there has been some share gain over the course of this year.  We'll see what this quarter maps out to, but I would think that that trend could continue this quarter.  But at the end of the day, we need the volume.  The PC market has to grow.  Our current view of the PC market as I said at IDF is that the volume year on year, '09 versus '08, will be flat to up slightly, which is a significant change from the industry view six months ago, and I think you're seeing inside of that Intel do well because of the shift to notebooks where we enjoy a higher market segment share than we do in desktops.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Okay.  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Thanks.  Chanel?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question is from the line of Chris Stanley with J.P. Morgan.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Hi, thanks, Stacy.  You said you wanted to grow your inventory a little bit in Q4.  Can you give us a sense of if there is any sort of target you have in mind?  And then what would be the thoughts on Q1 assuming some sort of normal seasonal quarter?  Would you look to take inventory up, down, or keep it flat in Q1?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Yeah, I'm not going to put a forecast out there for Q1.  I'd like to grow inventory modestly this quarter.  And keep in mind we're also going to have the phenomenon you can see in the gross margin line where we will -- as we qualify the first products on 32 nanometers for sale, we will value that inventory, so that was stuff that was written off in the third quarter, and then we'll value the material in line in the fourth quarter.  So that's a piece of it.  But I'd expect to put modest amount of inventory in place in the fourth quarter just to build the inventory level back up and to make sure I have the right mix of products as I go through the product transitions.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Thanks, Chris.  Chanel, next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question is from the line of Gus Richard with Piper Jaffray.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thanks for taking my question.  A real short one.  What was the sale of Atom related products?  And that was it.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>In the quarter, so Atom and the associated ship sets were a bit above 400 million, 415 million was the exact number.  And year to date, we have sold over -- or right at a billion dollars worth of Atom and associated chip sets.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Is that what you needed, Gus?</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Can I ask another one?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Sure a follow-up.  Go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Just real quick on Win 7 -- obviously a significant product launch for Microsoft -- has that had be perturbation at all in the supply chain, and how are you guys seeing that?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Not that we have seen.  I think there's a lot of excitement about Win 7, but again the trend we saw for the bulk of this year, including the current quarter, third quarter, was driven by consumer sales particularly in notebooks and net books.  If you go into retail now, you're seeing the OEMs and retail channels are offering coupons for machines for an upgrade, a free upgrade to Win 7 when it goes out, which has been done by Microsoft in prior generations.  So that tends to reduce any wait for the launch kind of anticipation for people that really want it and can get the upgrade that way in a seamless no cost basis.  The corporate side is a bit different.  Corporate needs to do a qualification in their environment, and that process has begun on a worldwide basis.  We see a lot of interest in corporations around Win 7 and the new Nehalem based SKUs which are sort of made for each other in terms of the performance and power management and security characteristics of the products that go together there.  I would expect that that evaluation process will happen over the rest of this year, and we'll start seeing corporate purchases on a refresh basis begin in 2010.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Great.  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Thanks, Gus.  Go ahead, Chanel.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question is from the line of Doug Freedman with Broadpoint.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Great, thanks guys for taking my question.  Paul, you have been spending a lot of effort on growing sort of non-core revenues.  You've got a whole bunch of pieces you have assembled now.  Is there any sort of guidance you'd like to offer us on how much impact that could have to incremental revs in 2010?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>In 2010, no, I won't give you a lot of guidance there.  I can't give you a lot of guidance there except to point out the trend that we did in the analyst meeting, Doug, which is of those four businesses that we really aimed at with the Atom system on chip products, the one that is shipping in high volume today is the embedded business, and that's concerting to Atom and growing around that, and that is a business which is well north of a billion dollars and on a very nice growth rate.  So that is the one you'll see the revenue appear first in terms of measurable amounts.  The consumer electronics and ultra mobile activities are proceeding nicely in terms of design wins and product development, but the volume there is really out in time a bit.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Just if I can add to that, if you look at the clip we're on with Atom where we're seeing nice growth with Atom and net books, exiting this year, that's a clip that should be a pretty significant growth driver for us next year.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Even next year, yeah.  Thanks, Doug.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Chanel, next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question is from the line of John Barton with Coen.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thank you very much.  Paul, could you provide us an update of how you're thinking about the NAND flash business?  It's been a little while since we've really focused on that because prices are stabilizing, headed the right direction.  What are you thinking about the importance to Intel?  Are solid state drives something that is going to drive processor growth; you want to be there to enable it?  Those types of thoughts, please.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>You're right, the job one for the NAND group is to drive themselves towards profitability, and they've done a very good job this year, in albeit a rising market for NAND in doing that.  But the losses continue to get reduced substantially, and they're on a path towards I think a sustainable business here.  At the end of the day, that's the ultimate test for this business.  We love the fact that it has a strategic nature, but it must make profits for us.  We are increasing the amount of our NAND that goes into solid state drives both at the enterprise and client level, and we think that is important for our platforms, and we think we have pretty good value there in terms of the technology, both the quality of the parts and the algorithms we use around the drives.  So that allows us to get a slightly better than commodity margin on most of the NAND business.  And we've got a couple other platform ideas that you'll see unfolding from us over the next couple of years using this technology.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Thanks, John.  Chanel?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question is from the line of Monish Goyle with CREF.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Hi, thank you.  I was wondering if you can give some view on PC unit growth for 2010 in light of the corporate refresh, potential for corporate refresh and do you think consumers are likely to stay as strong in 2010?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Well, we certainly have a set of numbers we're looking at inside for capacity planning, but we're not prepared to share them with you.  I think if you look at what's happened with the third party forecasts for 2010, they're now all inching above 10% unit growth.  And we wouldn't argue with that.  And some of them may be more bullish than that as the year gets closer, so I'll just leave it there.  The other part of your question was --</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Consumer related --</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Oh, consumer.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Paul, where I was heading with that is if we do get an enterprise led recovery next year, do you think your ASPs could be more stable?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Well, in general, the pressures of our selling price this year has been the absence of the normal mix of enterprise SKUs which tend to be a higher richer mix using V Pro and things like that.  When that market recovers, their buying characteristics don't change.  That will be some relief on the ASP pressure that we have seen through the growth on the consumer side.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Thanks.  Good to have you in the queue.  Chanel?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question is from the line of Mark Libas with Morgan Stanley.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Mark, you there?  I think we'll go to the next question, Chanel.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question is from the line of Brendan Furlong with Miller Tobech.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thank you for putting me in the queue.  Quick question on your return product mix CPU mix for Q4.  Could you address how in general CULV is impacting the CPU mix in terms of ASPs and gross margins, et cetera?  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Sure.  Well, remember the CULV stands for consumer ultra low voltage, so for every CULV SKU that we have, we have a consumer non-ultra low voltage SKU.  And from that perspective, when we ship a ULV part, we get a premium for that versus the non-ULV part.  So we have looked at this as being a premium product taking advantage of the technology since day one.  The bulk of the units that have been shipped in that category to date were single core versions of the products.  Late last quarter we introduced a dual core version of those products.  I think you'll start seeing a number of laptops show up in retail channels with the dual core versions for the holiday season that are more ergonomically designed, thinner, lighter, more attractive chassis, and those kinds of things, which really starts moving to where the sweet spot of, I think, the market is moving.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Brendan, this is Stacy.  Based on how you asked that question, I want to come back and just clarify one thing to make sure you didn't misinterpret my words.  I was not predicting a richer mix in the CPU market.  What I was articulating, as you tend to see more chip sets sold in Q3 and more CPUs sold in Q4, so we'll see a mix shift towards CPUs.  We're not anticipating a richer mix inside those CPUs to Paul's earlier answer.  Our best guess is that the enterprise market continues to be relatively weak in Q4 and this continues to be more of a consumer led year.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Thanks, Brendan.  Next question, Chanel.  Go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question is from the line of Tristin Gara with Robert Baird.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Hi, good afternoon.  How do we view Atom's strategically in your PC mix next year?  We have seen some constraints of Atom in China and also a bit of a slowdown of net books in Q3.  If you could give us an idea of the growth that you see for Atom and net books in 2010?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Well, I don't know what you mean by a slowdown.  If you mean a slowdown in the rate of growth given that we started with relatively large -- very large growth rates in the early days, the law of large numbers kicks in.  Net books continue to grow.  They grew nicely from Q2 to Q3, both at the component level and sell through level as near as we can tell, and I believe that they'll grow again in Q4.  And as Stacy points out, even if you take a simplistic Q4 times 4 model for 2010, that gives you significant growth over 2009 in net books.  So we're still bullish on it.  And what we have seen this quarter, though, is that the notebook market is alive and well, and that net books as we have been believing for quite some time, our market additive for Intel in the industry.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Great.  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Thanks.  Chanel, next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question is from the line of Ross Seymore with Deutsche Bank.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thanks, guys.  Just a question, the gross margin in the beginning of next year, mainly from a fab startup perspective, remind us of where we stand in the cost for ramping the China fab and then if there is any impact from the 32 nanometer startup occurring in the second half of this year rather than the original expectation of first half of next?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>So I'll answer your question directly but also refer you back to the chart that is still on our website from the investor meeting that shows that.  The expectations haven't changed.  Next year will be a year where startup costs are reduced over this year.  The big picture level, what you have is this year we had significant startup costs associated with 32 nanometer, and we won't be starting the significant startup cost for 22 nanometer next year.  We do have a little bit of startup costs associated with the fab in China, but that was included in the graph I showed you, and even with that, we'll be down.  And my expectations are roughly unchanged in terms of the shape of this year and the shape of next year.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>And what was the quantity of the China one if you gave a precise number, a point, half a point, et cetera?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>You can eyeball it, but less than a point of gross margin.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Great.  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Thanks, Ross.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question is from the line of Tim Luke with Barclays Capital.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thanks.  First, well done, your quarter and execution.  Just with respect to the gross margin outlook, Stacy, in guiding it up, your variance of three points is a little bit wider than sometimes; and also in the guidance, you mention that there are three points related to qualification of the sale of 32 nanometer products and the sale of previously written off product.  I guess the question is, how much of it is the sale of previously written off product?  And then I guess going forward, if you could give us some color on how you feel about the sustainability of the elevated 62% gross margin and what some of the key variables might be.  And I guess in the prior two questions you had some allusion to the first quarter.  If you're continuing build inventory, does that help?  What are some of the key variables within this quarter guidance and maybe some of the variables for next year?  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Is that one question or four?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>I was going to say, we have Uche with two.  And with Tim, I don't know.  I lost count.  I'll turn it over to Stacy.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>I'm not sure what to start with.  All right, Tim.  Let me take a shot.  And I'll just preface this up front by saying I'm probably going to disappoint you because I'm not going to give you a point estimate for next year or a shape of the year, but I'll talk about some of the drivers.  Q4, your first question was how much of that three points is qualification for sale of the 32 nanometer product, how much is sale of previously written off product.  They're both significant drivers within that three points.  I'm not going to get more precise than that, but they're both multi-points kind of impacts there.  In terms of the sustainability of 62%, I have to point out by historical standards, that 62% is pretty rare.  I think it's -- it really does show the financial performance that we can generate when we have a strengthening market and we're executing well.  I think it really underscores for us the strategy, how important the strategy is of having a segmented product line as Paul said in his prepared remarks, having the right products at the right cost to satisfy the growth in consumer and emerging markets and internet consumption devices in Atom, and then refreshing the high end of the product line with the 32 nanometer products.  That helps a lot.  But I wouldn't try to argue for you that that's the new normal.  I still believe that over a long period of time, our gross margin even inclusive of all the growth businesses is kind of between 50 and 60%, and we're executing well and we're at the high end now, and some day we'll be at the low.</p>
+          <p>When I think about 2010, I'll refer you back to a couple of the things we showed at the investor meeting.  I'd expect startup costs next year to be lower than they are this year per the question we had earlier.  And so that will be one of the drivers.  And I think that we're likely to see 2010 as we progress through the year, we'll see the cost coming down on our 32 nanometer product, and we showed a graph that showed by the end of next year, we expect to be lower cost than ending 2009.  I still expect that to be the case as we come up the learning curve on 32 nanometer and bring those costs down.  So I think those two things give us a little bit of tail wind.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>The three-point spread, any sense there?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Why --</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Why the range.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Sorry, I knew I forgot one of your four.  That one was just matching the top line growth.  If we end up at the top end of the revenue range, then we will be -- we'll be pushing the top end of the gross margin range.  If we end up at the bottom of the revenue range, we're at the bottom end of the gross margin range.  So really just to make shows sigh met trickle.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thanks, guys.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Thanks, Tim.  Go ahead, Chanel.  Next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question is from the line of Jim Covello with Goldman Sachs.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Hi, guys.  Thanks so much.  Congratulations on the great results.  This has been sort of picked around, but I want to ask it a little bit of a different way.  The supply chain hasn't really been able to catch up with end demand this year, because we ended the year by under-shipping demand so much, and so much of your growth this year has been a function of that, plus the better expected demand relative to 6 months ago.  As we exit this year, do you still think you'll still be under-shipping demand, shipping in line with demand, or shipping more than demand on sort of a quarterly basis?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>I guess I have to pick a bone with your assertion, Jim.  I don't think the industry under-shipped demand in the first part of this year.  People could buy a computer any day any place they wanted.  I don't note of any system level shortages that were out there, nor any component level shortages except for some spot stuff here and there.  But never really constrained demand.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>What I mean -- sorry if I wasn't more clear -- I go back to the fourth quarter of last year.  PC units were down a couple percent.  Your product micro Intel microprocessors were down 18, so you were under-shipping demand as the supply chain was liquidating inventory then.  There's been some of your tremendous growth this year.  Obviously great execution and demand has been better than expected earlier in the year, but some of it has been a catch-up from that under-shipment towards the latter part of last year, and do we think that on a quarterly basis, what I'm really trying to get at is for 2010, do we think Intel's microprocessor unit should equal PC unit shipments?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Over the course of the year, ours plus our competition do, yes.  I don't think that the pipeline will expand -- needs to expand much more to accommodate the growth numbers that are likely to happen in 2010.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>That's exactly what I was getting at.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Yeah.  You could conceive of a corner case that by Q4 of next year at the very upper bound of people's forecasts that the numbers get to be pretty large, but we've been here before.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Terrific.  Really helpful.  Thanks so much for everything.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Chanel, I think Chanel we'll take a couple more questions if we could.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Yes, sir.  Your next question is from the line of David Wong with Wells Fargo Securities.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thanks very much.  Can you tell us what percent of your DP service sales were Nehalem in the September quarter, and did the MP server revenues grow sequentially or decline sequentially in September?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>It was well over half of the DP sales were Nehalem, and I don't have the MP number, relative growth number in my head.  I'm sorry.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Sorry.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>All right.  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>All right, David.  Go ahead, Chanel.  Actually, we'll take two more from here, Chanel.  We have two more that we know of, so go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question is from the line of Mark Libas with Morgan Stanley.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Did we get you back, Mark?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>His line is open.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Little difficulties.  Can you hear me?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>We've got you.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>From what I can tell, server microprocessor revenues have been increasing part of your microprocessor revenues over the last five years.  It's been a pretty steady growth trend as a percentage of your microprocessor revenues.  My question is, is there any reason that that trend should stop, or have we reached system kind of saturation point?  And does Nehalem impact that one way or another?  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>If you look at a five-year look-back, Mark, it wasn't consistent.  There was a period in the '06, '07 timeframe when Intel lost some share in servers, and now we've come roaring back.  So it wasn't always a consistent adder to our numbers over the course of the five-year period.  If you take, say, a two- to three-year period, I think that's a fair assumption.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Did we answer your question, Mark?</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Yes.  So is it fair to assume then that server microprocessors as a percentage of your total is kind of stayed steady state over time, or it does not grow?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>As a percent of the total business, the server business is running about the same as the PC unit growth numbers to a first order of business.  There's things moving out in terms of DP and MP and how many chips per system and those kinds of things.  The thing that could change that dramatically is if coming out of this recession the internet data centers start deploying and move towards some of the cloud based services, that could drive pretty healthy demand for rack mounted servers and blade servers for a while.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Okay.  Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Thanks, Mark.  This will be our final question, Chanel.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your final question is from the line of Alex Gana with JMP Securities.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thanks for getting me in and letting me also say I appreciate the new format.  Can I ask you, Paul, you mentioned that right now, Stacy I believe you also said this, that enterprise has not been a part of the strength.  With V Pro, how do you look at when that might step in in 2010?  And is there any risk to that?  You mentioned cloud computing here with virtualization.  Do we perhaps not see enterprise come back on the climb side but stay more concentrated on the server side, and what would that mean to gross margins?  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>The last part of your question gave a clarification I was going to put out up front, which is that we are seeing pretty good strength in the enterprise relative to the server part of the business.  It's the client part, the desktop and notebook part where the lights have been out for quite a while.  And now we're starting to see people doing evaluation of our new platforms with Win 7.  I can't give you a curve for that for 2010.  It really gets down to when CEOs and CFOs set the budgets in the next couple of months for 2010 in terms of CapEx, and do they want to open the checkbooks again, the compelling value for refresh is there.  Machines that are four and five years old which is the average fleet age now are costing more to keep than to buy a new machine.  The maintenance, the out of warranty expenses, the security upgrades, et cetera, et cetera are problem hematic and you all know the situation with XP support.  So we are going to want to move to Win 7, and it's just a matter of I think how fast they do that next year.  In terms of cloud and virtualization, our focus has been bring it on.  The data center -- the amount of data in the worldwide data centers is growing much faster than people can supply servers or deploy servers.  The only solution to that any time soon is virtualization.  Virtualization typically requires new server configurations.  So we have been benefiting by this, and we're not iconoclasts in terms of thinking the cloud is not good for us or will not happen.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Well, just real quickly, you mentioned that evaluations are happening.  Are there any encouraging signs that we will get on the client side and enterprise uplift for V Pro or other hooks that go into virtualization or cloud computing, or will we be able to get by with some of these other more elegant ULV or CLV platforms?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Well, the V Pro is a client hook, not a server hook.  So it's really apples and oranges in terms of cloud.  I can just tell you that Intel is evaluating, and we're going to be buying a significant number of PCs next year for our employees because we have been out of the market for a while, and our fleet is aging.  I suspect a lot of other companies are coming to that same conclusion.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Okay.  Thanks very much and congratulations on the powerful results.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Thank you.  Thanks, Alex.  Thank you all for joining the call today.  As a reminder, our quiet period for the fourth quarter will begin at the close of business on Wednesday, November 25th.  Our fourth quarter Earnings Conference Call scheduled for Thursday, January 14th, 2010.  Thank you again, and good night.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you for joining today's conference call.  You may now disconnect.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1186186" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q3 2008 Earnings Call</title>
+    <date>2008-10-21</date>
+    <companies>
+      <company>59359</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Michael Haase, Investor Relations</participant>
+      <participant id="2" type="corprep">Paul Maritz, President and Chief Executive Officer</participant>
+      <participant id="3" type="corprep">Mark S. Peek, Chief Financial Officer</participant>
+      <participant id="4">Brent Thill</participant>
+      <participant id="5">Mark Peek</participant>
+      <participant id="6">Kash Rangan</participant>
+      <participant id="7">Paul Maritz</participant>
+      <participant id="8">Israel Hernandez</participant>
+      <participant id="9">Adam Holt</participant>
+      <participant id="10">Philip Rueppel</participant>
+      <participant id="11">Tim Klassell</participant>
+      <participant id="12">Heather Bellini</participant>
+      <participant id="13">Charles Di Bona</participant>
+      <participant id="14">John DiFucci</participant>
+      <participant id="15">Michael Haase</participant>
+      <participant id="16">Sarah Friar</participant>
+      <participant id="17">Jayson Noland</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good afternoon, and welcome to VMware's Third Quarter Earnings Conference Call. <mark type="Operator Instructions" />  At this time, I'd like to turn the call over to Mr. Mike Haase, Vice President of Investor Relations. Mr. Haase, you may begin your conference.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Great. Thank you, and good afternoon, everyone. Welcome to VMware's Third Quarter 2008 Earnings Call. With us today are Paul Maritz, President and CEO, and Mark Peek, CFO. Following our prepared remarks, we will take your questions. Please note that this call is being simultaneously webcast on our Investor Relations website. A press release was issued today after the close of market and is also posted on the website.</p>
+          <p>I'd like to remind you that statements made in today's discussion that are not statements of historical fact are forward-looking statements subject to the Safe Harbor provisions under federal securities laws. This includes, but is not limited to, statements regarding our financial outlook, future product offerings and projected demand. These statements are based on current expectations as of the date of this call and are subject to uncertainties and changes in condition, significance, value and effect, as well as other risks detailed in documents filed with the Securities and Exchange Commission, including our quarterly report on Form 10-Q for the period ending June 30, 2008, that may cause actual results to differ materially from those set forth in our statements.</p>
+          <p>In addition, during today's call we will discuss certain non-GAAP financial measures. These non-GAAP financial measures, which are used as measures of VMware's performance, should be considered in addition to, not as a substitute for or in isolation from, measures of VMware's financial performance prepared in accordance with GAAP.  You can find additional disclosures regarding these non-GAAP measures, including reconciliations with comparable GAAP measures, in our earnings release for the period ending September 30, 2008, and on the Investor Relations page of our website. The webcast replay of this call will be available for the next 30 days on our company website under the Investor Relations link.  For your planning purposes, our third quarter quiet period begins at the close of business December 16, 2008. Also, unless otherwise stated, all financial comparisons in this call will be in reference to our results for the comparable period of 2007. With that, let me hand it over to Paul.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks, Mike. Well, first of all, I'd like to say that I'm happy to report to you that, despite some very challenging conditions, VMware had a very solid quarter, being able to reach the upper end of guidance that we gave last quarter.  And at this point, I'm going to ask Mark to step in and go through the numbers in some detail and give you background. I will then return and make some additional remarks and then we'll open it up for Q&amp;A.  Mark?</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thank you, Paul, and good afternoon, everyone. Q3 was another solid quarter for VMware and, despite the unprecedented global economic events during the final weeks of the quarter, we achieved quarterly revenue of $472 million, an increase of 32% from a year ago. Our revenue for the first nine months of 2008 increased 50% compared to the same period last year and now exceeds our revenue for all of 2007. Our growth during times when IT budgets are under intense pressure is a testament to the strong value, proven quality and immediate return on investment that customers get from VMware products.</p>
+          <p>Our operating profit, measured on a non-GAAP basis was $115 million, 24.3% of revenue, and an increase of 26% from last year. The third quarter was marked by improved operational execution during a time of significant economic volatility and a leadership transition.</p>
+          <p>Our trailing 12-month non-GAAP operating cash flows were over $700 million, increasing over 48%. Our balance sheet remains very strong, with nearly $1.7 billion in cash and cash equivalents and deferred revenue of $780 million. This quarter, revenues included license revenues of $285 million, up 15% from last year. Deferred license revenues have not changed significantly relative to total deferred revenue over the last three quarters.</p>
+          <p>As I mentioned during last quarter's call, our third quarter 2007 license revenue included approximately $40 million of previously deferred license revenue that we recognized when we shipped Lab Manager last July.  Factoring in the period changes and deferred license revenue into current results, license revenue grew 35% compared to a year ago.  Services revenue was $187 million, a 70% increase to last year, and up 9% sequentially. Total services revenue included software maintenance of $147 million, a 70% increase from last year, and professional services revenue of $40 million, up 69% compared to last year.</p>
+          <p>Continuing the trend we observed at the end of Q2, customers continue to proceed cautiously in their capital spending decision process.  In some instances, customers are deciding to forego larger discounts offered by enterprise license agreements and instead are choosing to buy for their immediate needs.</p>
+          <p>ELAs as a percentage of total bookings were down slightly in the third quarter as compared to the second quarter and were up slightly from the third quarter a year ago.  Our U.S. federal sector results were seasonally strong.  This is consistent with the government's September year end and we continue to see momentum in the government's adoption of our products.</p>
+          <p>I want to spend a moment on the financial sector, an area of concern for investors over the past month or so.  Large businesses in the financial services industry have traditionally been leading adopters of IT products and services to run their operations.  We have long-standing relationships with most of these businesses and, in fact, many of them have entered into enterprise license agreements with us over the last year and a half.</p>
+          <p>Although a significant market, the financial sector averaged about 10% of our overall bookings over the past four quarters.  Remember we have a diverse and global customer base that includes 95% of the Fortune 1000 and 87% of the Fortune Global 500.</p>
+          <p>Geographically, U.S. revenue increased 24% from a year ago to $249 million, representing 53% of total revenue.  International revenue grew 42% to $224 million.  We believe we have significant international opportunities, especially in Japan, Korea, Germany, and the BRIC countries, and have taken significant steps to improve our international growth. For example, in China, we recently hired our first country manager and are aggressively increasing our sales force.</p>
+          <p>I will now turn to our non-GAAP operating expenses.  Total non-GAAP operating expenses increased 4%, sequentially, to $357 million. This included the impact from the B-hive acquisition we closed in July. The overall operating margin dilution from acquisitions over the last 12 months, was 80 basis points.</p>
+          <p>International expenses were also $4 million higher as a result of the year-over-year decline of the U.S. dollar. However, given the recent weakness in many currencies, particularly the euro, pound sterling, and Australian dollar since we reported last quarter, this was less of an impact than in recent quarters.</p>
+          <p>Year-to-date, operating expenses have been negatively impacted by the weakening dollar by over $20 million. As a percentage of third quarter revenue, non-GAAP cost of revenues declined sequentially to 11.8% from 13.1%. This reduction is partially offset by cost increases in G&amp;A to 8.4% from 7.5%. The differences are largely the result of changes we made in classifying certain costs of services revenues to G&amp;A.</p>
+          <p>Third quarter R&amp;D expenses totaled $108 million, or 22.8% of revenues, as compared with 23% in Q2. On a GAAP basis, we capitalized $46 million, $38 million in cash expenses, as required by our legacy accounting policy under FAS86. Our policy is to capitalize costs after products reach technological feasibility. We believe it is important for investors to consider both our operating results and cash flows as adjusted for these items.</p>
+          <p>Sales and marketing expenses were $154 million, or 32.6% of revenues, compared with 31.8% in the prior quarter. The increase was largely due to seasonal marketing expenses, including our very well-attended VMworld conference, expenses related to our international market expansion, and other marketing expenses related to our branding initiative. These increases were partially offset by a strengthening of the dollar compared to the second quarter.</p>
+          <p>Non-GAAP operating income increased 26% from a year ago to $115 million, or 24.3% of total revenue, and our non-GAAP diluted EPS was $0.24 on 394 million diluted shares.</p>
+          <p>Our non-GAAP tax rate in the quarter was 21%, up from 20% in the second quarter. We expect this rate to decline significantly in Q4 as a result of the extension of the R&amp;D credit by Congress a few weeks ago. For the year, we expect the GAAP tax rate to be between 13 and 15%. This guidance includes stock-based compensation, amortization of intangibles, and FAS86 capitalization representing approximately three to four points.  This translates to a non-GAAP tax rate that would be approximately three to four points higher than the GAAP tax rate for the full year.</p>
+          <p>Our employee stock option exchange program was completed in the third quarter.  In addition to the exchange offer, we also granted 5.4 million restricted stock units &#x2013; a portion to our international employees who could not participate in the U.S. exchange offer, and a portion for retention purposes.  While this does not significantly impact our non-GAAP results, it will have an impact on our GAAP results.  Our 10-Q will be filed in early November and will include additional details of the expected future GAAP expenses related to these equity actions.</p>
+          <p>As you consider our weighted average share count and the effect of these instruments on dilution, remember that option dilution is dependent on share price ,and RSU dilution is a function of time.  As a result, on a non-GAAP basis, we don't expect significant dilution in Q4, or 2009, from these equity actions.</p>
+          <p>Now on to our balance sheet and cash flow statement.  Our balance sheet remains strong, with cash at quarter-end of nearly $1.7 billion, a sequential increase of $151 million.  Since the beginning of the year, the cash balance has increased 37%.  We are invested in short-term cash and cash equivalents and have not experienced any declines in valuation of our holdings.  Total deferred revenue increased 8% sequentially to $780 million.  Year-to-date, total deferred revenue has increased 41%.  Our net accounts receivable has declined $22 million from last quarter, and our DSO, which we calculate including the change in deferred revenue, is approximately 50 days.  This is down from Q2 and comparable to Q1 and the fourth quarter of last year.</p>
+          <p>The interest rate on our $450 million note with EMC adjusts each quarter at LIBOR plus 55 basis points.  The volatility in the credit markets has resulted in a Q4 rate of 4.43%, 109 basis points higher than Q3.  At the same time, we will continue to keep our cash invested very short-term and, in the current environment, expect the net of our investment income to decline in Q4.</p>
+          <p>Non-GAAP operating cash flows, which we adjust for capitalization under FAS86, and excess tax benefits from stock compensation, was $211 million for the third quarter, an increase of 20% from Q3 2007. On a trailing 12 month basis, non-GAAP operating cash flows were $707 million, up 49% compared to the 12 months ended September 2007. These results exceed our non-GAAP operating income, largely driven by an increase in maintenance revenue for which we are paid up front.</p>
+          <p>As we mentioned last quarter, we are slowing our second half hiring. Headcount at the end of the third quarter was approximately 6,500, a sequential net increase of 200 people. In the fourth quarter, we will continue to make strategic hires, focused primarily in product development and market expansion opportunities.</p>
+          <p>Now moving on to guidance. I opened the second quarter conference call by saying that we had a solid quarter despite economic headwinds and, once again, in the third quarter, we achieved solid results despite the unprecedented events that occurred in the last three weeks of our quarter.  Thus far in October, the U.S. and global economies continue to be challenged. While we are very confident in the long-term health of our business, the global financial crisis is creating customer uncertainty around fourth quarter IT spending. We have limited visibility on how our customers will respond in their short-term purchasing. In addition, I will remind you that we sell in U.S. dollars around the world and we may be impacted by high volatility in foreign exchange.</p>
+          <p>Given these circumstances, we believe there is a broad range of possible outcomes for our fourth quarter revenue.  We are cautiously maintaining our 2008 revenue guidance for growth of 42% to 45%. However, we are clearly more comfortable at the low end of this range and believe the overall economic mood would have to improve quickly and significantly to achieve results at the mid to high end of this range.</p>
+          <p>We are targeting our fourth quarter non-GAAP operating margin to be between 22 and 24%. Non-GAAP operating margin excludes stock-based compensation, payroll tax on stock transactions, amortization of intangible assets, and capitalized software development costs, which are targeted at 6% of revenue. This target assumes 2008 revenue to be near the low end of our annual guidance.</p>
+          <p>In addition, as I mentioned last quarter, our business is starting to follow traditional seasonal patterns. Therefore, we anticipate our Q1 2009 revenue to follow industry seasonal patterns and decline sequentially from Q4.</p>
+          <p>Before I hand it off to Paul, let me underscore that we are in this business for the long term, and we believe we have tremendous opportunity ahead of us to maintain our leadership in one of the fastest growing and far-reaching technology sectors.  We are managing the business prudently, mindful of providing a reasonable return, while making investments for the long term.  We have great faith in our ability to execute on the unique opportunity in front of us, and I look forward to speaking with you again in January.  Paul?</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks, Mark.  Well, I've been here at VMware for three months now and have obviously spent a fair amount of time meeting with people in the company and our customers, really getting to understand the issues and dynamics and opportunities and challenges that we face.  I came here expecting to find certain things.  I expected to find a company that had great foundations in terms of great people, great technology, and excellent relationships with our customers and significant partnerships.  I also expected to find a company that was experiencing the challenges of having undergone rapid growth, having added 2,000 people approximately over the preceding 12 months, and I did find that.</p>
+          <p>I also found some unexpected things.  I found that we have incredibly passionate customers who are making tremendous use of our product.  These customers have been able to achieve both direct results in terms of cost savings from server consolidation, as well as indirect benefits from seeing their environments become fundamentally more flexible and manageable as they virtualized.  A testament to this enthusiasm from our customers was that at our VMworld event in Las Vegas in September, we had nearly 14,000 customers come and attend that event.  Last week, I was in Australia where we ran a smaller but similar event for our customers there, and in that market alone, we had 1,600 customers turn out to spend the day with us.</p>
+          <p>Now obviously, it's the primary job of management to really focus on the challenges for the business going ahead.  And over the last three months, I have begun to focus on three major challenges.  First of all, our organization; secondly, our near-term execution, both in terms of revenue expense and product delivery; and then thirdly, on working with our organization to create a strategic framework to guide our efforts going ahead.</p>
+          <p>So I'd like to take a few minutes now to take a step backwards and give you a report on each of those three challenges.  In terms of the organization, my first order of business was, obviously, to work here and try and make sure that the transition from Diane to myself went as smoothly as possible.  And certainly, as with any transition, we've had our challenges there.  But I can report that we are making our way through them and our organization is moving ahead.  Despite the market turmoil and the loss, obviously, of Diane, herself, and her husband Mendel, and in addition, Richard Sarwal, our organization is stepping up to the challenges.</p>
+          <p>We are asking internal people to take on additional responsibility and I'm also looking to augment our executive team with some key hires.  I'll return to that in a few minutes.</p>
+          <p>I don't want to be complacent here. Maintaining the health of our organization going forward is my first objective and I will continue to spend a lot of time, as I have been doing, listening and communicating at all levels of the organization.  But on the whole, I'm very pleased to be part of a team of talented, hard working and very capable people.</p>
+          <p>In terms of the challenge of near term execution, the first part is, obviously, to make sure that we hit our revenue targets in challenging economic times.  And I would really like to thank Carl Eschenbach and his sales team, as well as the marketing and support people in our organization, who have worked very hard to bring home the quarter and not only bring it home but reach the upper end of our guidance.</p>
+          <p>As Mark said, it was certainly very challenging.  As we went into September, uncertainty set in in a big way.  We saw this leading to longer sales cycles, additional levels of review as we had started to see in the second quarter, as well as customers adopting a buy-as-they-go approach as opposed to buying for the long-term via an ELA.</p>
+          <p>Despite that, we were able to get our customers, many of whom had delayed decisions from Q2, to come into Q3 and bring in the business.  I can also report to you that, during this period, we did not see any major losses to Microsoft.  Clearly, we take Microsoft very seriously and keep our eyes very closely focused on them.</p>
+          <p>We did see a couple of customers indulge in bake-offs, direct head-to-head product comparisons, and, by and large, those worked to our favor.  In addition, despite the series of announcements over the last quarter, Microsoft is still behind in terms of their product road map and we don't see them catching up to us until the next 12 to 24 months, by which time we hope to have moved on.   So we are not complacent there but, at the same time, we have not seen at this point any major losses.</p>
+          <p>In terms of products and execution, I've been working with our product teams to make sure that we're on track to deliver products and keep our product development pipeline full. So we have a major release of our client management software that will be going out this quarter and, as we go into 2009, we will see new releases of our server product lines as well.  In terms of expenses, as Mark said, we're keeping a very close eye on the bottom line.  In the third quarter, we instituted what we're calling a hiring pause, which is to suspend hiring except for important and strategic hires.  And we will continue that into the fourth quarter and, quite frankly, I see that continuing into 2009 as well.</p>
+          <p>In terms of helping the company mature and be able to execute on multiple fronts and deliver on the key products and initiatives that we need to do in order to keep growing, I have been working with our organization here to enable us to move forward into a divisional or business unit structure as we go into 2009.  So we'll be looking to organize ourselves at the top level along our major product lines, Server and Desktop, as well as major geographies, North America, EMEA and Asia-Pacific.  I expect to promote and hire senior people to manage these product units or business units and as well as promoting people internally into these positions.</p>
+          <p>The third challenge is really to set in place a strategic framework.  We've become strategic to our customers and partners.  I am interested when I meet with customers to hear them say to us that they need to understand where we are going in order to plan their futures.  That they will be making decisions about how to equip and invest in their data centers and infrastructure technology based upon what they know about our road map.</p>
+          <p>Our partners, too, need to know where we're going.  They're making significant investments in products that work with, in or around our basic product line.  And finally, we need to guide ourselves.  We need to have a framework in which we can set priorities and plan as we go forward.</p>
+          <p>Accordingly at VMworld, we articulated a strategy that has three initiatives, all of which support the same basic theme of enabling our customers to do more with less.  The first initiative builds off our current Virtual Infrastructure product offerings that enable server consolidation and help customers move forward to get additional benefits of flexibility and efficiency.  Often our customers articulate this need as desiring to build the internal cloud.  They increasingly want to look at their infrastructure, their IT infrastructure, as a single giant computer on which they can very flexibly and efficiently provision application loads and plan the evolution of their application infrastructure independently from how they plan the evolution and provisioning of the underlying infrastructure.</p>
+          <p>To that end, we can see a path to take our current Virtual Infrastructure product line and strengthen that and harden that into what we're calling a Virtual Data Center Operating System.  The Virtual Data Center Operating System will be this layer of software that effectively isolates application loads on the one hand from the underlying IT infrastructure on the other, and will enable that flexible provisioning and additional benefits of manageability and efficiently going forward.</p>
+          <p>So we are engaging on a path to evolve our Virtual Infrastructure product line into a fully fledged Virtual Data Center Operating System.  This Virtual Data Center Operating System will allow our partners to plug into it to write products that complement it.  A good example of this is Cisco and their development of the Nexus 1000V softswitch.  What Cisco has done is take a key part of their technology and re-engineer it completely in software so as to plug into our Virtual Data Center Operating System layer.  This enables Cisco trained professionals to manage both the physical and virtual network through a common console.</p>
+          <p>Our next initiative leads directly off our Virtual Data Center Operating System initiative.  If we're doing the work to enable our customers to isolate their application loads from the underlying IT infrastructure, then we will also be enabling them to take those application loads and migrate them from their own infrastructure to infrastructure provided by cloud vendors in the future. So we see this as an additional way that we will allow our customers to have increased efficiency and flexibility going forward.</p>
+          <p>To do this, we need, on the one hand, to make sure that we have the standards and technology that allow application loads to be correctly described and packaged up in such a way that they can be slid off internal infrastructure into the cloud.  And on the other hand, we need to work with the cloud providers to make sure that they have the necessary technology and infrastructure on the other hand to accept these application loads.  So, we are working on the one hand with standards groups to further define how to describe application loads and make sure that they are efficiently and correctly packaged.  And on the other hand, we're working with the community of service providers to ensure that they have the capabilities and the correct software to accept these loads.  We had at VMworld over a hundred cloud providers sign up to this vCloud Initiative, some well known names like Terremark, SAVVIS, SunGard, T-Systems, British Telecom, et cetera. And we look forward to working with these companies to open up this new dimension of flexibility to our customers and further increase the value of the investments that they are making in our software.</p>
+          <p>Our third initiative is called the vClient Initiative, and this speaks to the need that our customers have to more efficiently provision the desktop computing.  They need to have a framework that allows them to achieve much more efficient central management of the computer resources that they provide to their users.  To date, that has largely meant working through a thin client approach, which is a very viable way of achieving this.  And we will continue to invest in the thin client approach.  We recently announced a joint development with Teradici where we'll be developing a new protocol to provide very efficient traffic between the server environment and the thin client environment on the other hand.  And we will also be, as I said earlier, releasing a new release of our suite of management software for the client environment, and that will happen in this quarter, the fourth quarter.</p>
+          <p>But there's also a need to extend this framework to address both thin clients and thick clients.  Our customers tell us that there are certain parts of their company that can be very efficiently and effectively addressed via a thin client approach, but there are other parts of their organizations that need such capabilities as mobility or additional graphics capability that require a thick client instead.  We need to provide them with a common way of basically satisfying the needs to manage both thin and thick clients.  The correct approach, we believe, is to provision the user, to provide the user with a virtual environment that holds all his information, data, applications and necessary software.  And that virtual environment will be provisioned wherever the user happens to sit down and log on.  If he happens to sit down and log on to a thin client, that virtual environment will be made available to him via a thin client approach.  If he happens to sit down and log on to a thick client, that environment will be made available to him on his thick client.</p>
+          <p>This approach, this unified approach of addressing both thin and thick clients, actually makes full use of VMware's server-side virtualization assets as well as our client-side virtualization assets, and VMware is unique in having deep server-side virtualization assets as well as deep client-side virtualization assets.</p>
+          <p>I want to express again that these three initiatives build off what we have. They are a series of steps that lead from our current products towards the future. As I said earlier, we start with a major release of our client management software in the fourth quarter, and we're expecting major releases of our Server software in 2009.</p>
+          <p>In terms of funding these initiatives, I expect that we will be able to fund these initiatives from within our current resource pool with only very targeted and focused additions to it. We have 2,500 people in our R&amp;D organization, which makes this one of the largest system software development shops in the world, but we have both deep and numerous resources that we can pull upon as we go forward into these initiatives.</p>
+          <p>Finally, I want to close by saying, as Mark said, that we will also be investing in geographic expansion.  We have significant opportunities in the near term to grow our businesses, particularly in Asia and the emerging markets. So into 2009, in addition to these focused investments in our product capability, we will be looking to expand in our sales and marketing capabilities in these high growth areas of the world.</p>
+          <p>Finally, I want to say that, for 2009, as we look forward to that, things are uncertain, and as Mark noted, we're not going to change our '08 guidance.  We're staying with the range that we provided you last quarter for 2008, but we have to say that, given on the uncertainty at this point in time, it would be very hard to provide very specific guidance for 2009.</p>
+          <p>On the other hand, our products speak to fundamental needs that our customers have.  They enable our customers to do more with less. Our customers report to us that virtualization remains at the top of their priorities as they look at strategic IT investments going forward. It will enable them to achieve levels of efficiency that will become only more important in the current economic environment.  So given our firm foundations in terms of, firm foundations in terms of technology, people, financial resources, our customers and partners, I expect that VMware will be one of the companies that weathers this current storm well.  And I certainly believe we can emerge from it stronger and a more fitter company, ready to exploit the opportunities that will open up.</p>
+          <p>So with that, I'd like to pause and take any questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Operator, let's start the polling process, please.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you.  The question-and-answer session will be conducted electronically.  <mark type="Operator Instructions" /> And we'll take our first question from Brent Thill with Citi.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Thanks.  Mark, if you could just clarify the seasonal comment you made around Q1.  I think you mentioned you'd expect VMware to experience softer seasonality similar to the industry.  Does that mean five to 10%?  Or does that mean less than 5%?  I guess just trying to understand what base you're talking through as it relates to how we look at Q1.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Brent, it's premature for us to talk too much about 2009 and it's largely &#x2013; what we expect in 2009 is largely dependent upon on how we end 2008.  But what I've been saying for a couple of quarters is that our business is beginning to experience seasonality.  You saw some of that in the third quarter in which we grew sequentially in the third quarter but not as significantly as we had historically in the third quarter.  And so as we look ahead to 2009 we expect that Q1 will be down sequentially.  And we'll give you more color in January.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Great.  And just a quick follow-up.  Can you just comment on some of the deals that slipped from Q2?  Did you close the majority of those deals?  Or are those still in the queue?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We closed approximately 90% of the deals that were &#x2013; that slipped from Q2 to Q3 during the third quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Thanks, Mark.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll go next to Kash Rangan with Merrill Lynch.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Hi, congrats for being a bright spot in the middle of a not so great earnings season.  I have a couple of financial questions for you, Mark, and then maybe one strategic question for you, Paul.  Mark, for you, I know you talked about how the license revenues would have grown if you excluded the drawdown from the deferreds from Q3 of last year. Conversely, I'm just wondering if you benefited this quarter at all from any license component of the deferreds from Q2 that may have floated to the licenses in Q3.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Kash, the deferred license revenue over the last three quarters has stayed relatively static.  The &#x2013; we may have net drawn down 3 or $4 million during this quarter, but it didn't have a significant effect.  And the 35% year-over-year license growth that I quoted included adjusting for that.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay.  Well that's actually quite &#x2013; that's quite a bit of a change, because I think you had been benefiting from the deferred drawdowns and that has been a concern of investors.  But it's good to see that the net drawdown was actually only three to four million, which gives you a more true comp from year-over-year.  That's good to see.</p>
+          <p>Secondly, on the margins, it does look like as you have these ELAs &#x2013; correct me if I'm wrong, is you have these ELAs and what seems to be a good chunk of these ELAs going on the balance sheet as deferred revenues, principally maintenance-type revenues. It occurs to me that your margin should start to expand. And we're seeing some of that already happened this quarter because I noticed that the services margins went up by several basis points, several hundred basis points.</p>
+          <p>Is it not the case that in 2009 we're going to see some natural margin lift just from the virtue of the fact that maintenance revenues sitting on the deferreds are going to be recognized and, therefore, you get a bigger contribution of maintenance relative to overall revenue structure, and, therefore, margin lift as well?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes, during this quarter we had a reclassification from certain costs that we'd be characterizing as services revenues to G&amp;A.  So we had some benefit, probably 150 basis points or so, from that during this quarter.  Clearly over &#x2013; as we build the deferred revenue base and amortize it off, we should see some expansion of margin on &#x2013; gross margin from services.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Yeah, even if you X out that 150 basis points, I see that gross margins in services went up from 68 to almost 74%.  That's a pretty big jump.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes, and part of that is just &#x2013; is the expansion that we're going to get from deferred revenue over time.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay.  And final question for you, Paul, just on the topic of execution around multiple core competencies. I'm just wondering how you've gauged the company and how you'd be prepared assessment of readiness for 2009 when sales execution, consistency surrounding sales execution processes are going to be paramount. What's your satisfaction level?  How much more work do you have to do in terms of pipeline management, getting the sales lieutenants, et cetera, to sell into the tougher environment?  That's it for me.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Well, I think you can never do enough of that, so it's something that we are focusing on and will continue to focus on.  We are, as I said, strengthening our executive management team and, in particular, looking to bring on additional talent in the sales management area, where we brought on Rich Derafo in North America, who's very experienced from both the EA and IBM days.</p>
+          <p>And we're looking on, as I said, to move to a geographic business unit structure and have very seasoned management responsible for both Europe and Asia.  So we're looking to both continue the current focus that Carl's team has provided in terms of bringing home the quarter, and I want again congratulate them and thank you for that effort.  It was truly a heroic effort towards the end of September, and I have every confidence that they'll be able to do that again in the fourth quarter. But we're looking to deepen and strengthen our capability beyond that.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Great. Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll move now to Israel Hernandez with Barclays Capital.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Good afternoon, everyone.  Can you comment on what you're seeing in October? You indicated that things seem to be off to a slow start.  Are you seeing deals get pushed out at this point?  Are they getting downsized?  Are they just evaporating?  And what does that imply as we look out to 2009, in terms of your ability to build pipeline?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Izzy, it's very early in the quarter and, over the last 18 months or so, we've had a business that has been back-end loaded towards the end of each quarter.  We have a rigorous process to go through our pipeline.  Currently we're evaluating, both from an ELA and from a transactional business perspective, where we are.</p>
+          <p>And what we're seeing is just caution among our customers as they, like all of us, look out into the financial markets and the current turmoil in &#x2013; also in the credit market. And we're cautiously optimistic that when &#x2013; in the fullness of time, our pipeline will come through.  But, at this point, we're just being cautious about it.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Great.  And are you seeing any changes in customer buying behavior as some of your competitors come to market with the new full-feature products, in terms of sales cycles and pricing?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>I think &#x2013; this is Paul.  I think at this point in time, we're seeing much more of effect from the macroeconomic conditions than from competition. Though I did say, we are seeing customers, in certain cases, slow down their decision to have an explicit product comparison between ourselves and Microsoft, and by and large, those work to our favors at this stage.  But we would have to say that the economy, in general, is much greater concern at this point in time.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll go next to Adam Holt with Morgan Stanley.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Good afternoon, and also, congratulations on the quarter.  I had a couple of questions about the head count comment.  So it sounds like you're effectively in a freeze heading into the fourth quarter and probably, as well, into the first part of next year.  Does that mean &#x2013; understanding you're not going to give a lot of detail on next year &#x2013; but that we should expect to see operating expenses grow slower than revenue into calendar '09?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Obviously, that &#x2013; this is Paul &#x2013; that's hugely dependent upon what revenue does in 2009.  And for two reasons, we're being very cautious about expanding our head count, if at all.  Which is number one, is we're coming off a period of very rapid growth, so it's a healthy thing, in any case, to kind of take a pause, take stock, make sure that we have people focused on the right areas.  But also, as Mark was saying, it's too early to say what will happen in 2009, so we're, again, being cautious there.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>The one thing I'd add, Adam, is that as you &#x2013; beyond head count cost &#x2013; as you look at depreciation, we've done a lot of capital expansion this year.  We're currently building a data center in Washington State.  And that will come online sometime at the end of the fourth quarter, or into the first quarter.  And just from a depreciation expense perspective going into 2009, depreciation expense will go up 50%, just based on the capital expenditures of 2008.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>And if I could just ask two other questions about '09.  You're going to start to see the anniversary of some of the early ELAs, probably in the second quarter of next year.  Would you expect to see the bigger impact of ELA renewals in the back half?  And then on the tax rate, will the reduction in the fourth quarter be extrapolated out into '09 as well?  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>On the question on renewals of enterprise agreements, most of our enterprise agreements have capped license deployments. And although they're perpetual licenses, it gives us an opportunity to go back in with our customers and to take account of additional licenses that they may need to have deployed.</p>
+          <p>Historically, we've had very strong renewal rates and we fully expect that our customers under ELA will renew.  Most of the enterprise agreements, however, are three year, and so as you look at the ramp, there aren't that many that are going to renew in 2009.  Much of that will come either end of 2009 or into 2010.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>And just on the tax rate?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah, with respect to the tax rate, the primary driver &#x2013; back in January, we mentioned that our tax rate was impacted by four full points as a result of the R&amp;D credit.  That was finally passed by Congress.  So, we would expect maybe a little upward pressure on the adjusted tax rate.  It's really dependent upon our mix of operating profit between international and the U.S. and how we &#x2013; and also the allocation of where expenses are. But it's a good proxy for 2009.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Terrific. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our next question comes from Philip Rueppel with Wachovia Securities.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yes, thank you. Focusing back on the pipeline, as you look forward, have you been able to dissect which upcoming deals represent ongoing projects, existing customers versus new deals? And does that give you more or less confidence in your reiteration of guidance? I guess the net is, are you still seeing large enterprises starting new projects in virtualization?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>We still see continued interest in virtualization. As I said, one of the virtues of virtualization in the current cycle is that it does offer a comparatively short return, and is actually one of the ways that customers are looking to achieve greater efficiency as they go forward. So, unlike some other projects, this virtualization is one of the ones that has the capacity to continue to be attractive even in a downturn. So we see continued interest both in terms of existing deals and new deals.</p>
+          <p>That being said, as we have said last quarter and this quarter, any proposal, whether it be to &#x2013; no matter what the return &#x2013; is being taken up for additional scrutiny.  So we see these two forces operating against each other, which is, on the one hand, a continued interest in virtualization as a way of achieving greater efficiency, and, on the other hand, the extreme reluctance of organizations to approve purchases of any kind.  <mark type="audio gap" /> Knowing how those two forces will balance out is what leads to the uncertainty.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Right. Could you also &#x2013; you talked about the transition and its effect on upper management. Could you also talk about any changes that have been made in the direct sales force, if any, regarding comp plans, incentives for ELAs or not, quotas going from half year to full year? Have you made any changes so far &#x2013; or yet this year? Or are those on the table for next year? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>With respect to comp plans, we &#x2013; as we have had historically &#x2013; we have semi-annual comp plans until we started a new comp plan in the third quarter. And we made some &#x2013; I wouldn't call them at all radical &#x2013; but some evolutionary changes in our comp plan to focus on new license revenue. And we're beginning our planning for our 2009 compensation plans as we speak.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And now to Tim Klassell with Thomas Weisel Partners.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Yes, I just wanted to &#x2013; I'll throw up my congratulations there &#x2013; but I wanted to talk to you a little bit about the new organization.  Will you have separate sales forces and R&amp;D staffs for each one of these new product line divisions?  Or is it going to be a little bit more of a matrix structure going forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>We're still working our way through this and our intent is to have this ready to, and be implemented by, the time we enter 2000. But it will be, depending upon your definition, probably more of a matrixed organization in that we will not have separate sales forces. At this point in time, our products are closely aligned enough that it doesn't merit having us &#x2013; they don't merit having separate sales forces.  But we will have separate R&amp;D organizations and separate P&amp;L responsibility for our major geographic areas.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay.  And will you be breaking out the numbers for the Street to have some visibility into how they're performing?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>We haven't made that call yet.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Good enough.  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our next question comes from Heather Bellini with UBS.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Hi, thank you.  A couple quick questions.  One, I just wanted to touch a little bit on capitalized software expenses.  I know, Mark, you mentioned it in your remarks, but they're growing pretty fast, especially when you look at the pace of R&amp;D growth.  I was just wondering how should we think about the trend in the capitalized development expenses going forward?</p>
+          <p>And then my other question is going back to, Brent's question earlier.  You made a comment for us to assume normal software, normal software industry seasonality for Q1, which means you must have done some work to see what normal software seasonality is.  Just, you guys don't want to comment on it, but you did comment on Q1.</p>
+          <p>What were the companies that we should be looking at?  Because depending on which companies you look at, you get a very different view of what typical seasonality is.  So in the sense that you're trying to get us to think that way now, I'm just wondering if you could provide a little bit more clarity, seeing that you brought up the comment in the first place?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Heather, on your first question, with respect to capitalized software expense, we capitalized about $45 million this quarter.  And we have a fairly stringent policy around software capitalization that requires us, once we've hit beta with products, to capitalize those expenses until we actually have a release candidate.  We would expect that that trend for Q4 will continue and then we'll give you more color around it as far as 2009.  But I'd expect a similar level of capitalized software in the fourth quarter.  With the seasonality trends, my -</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Yeah, I'm sorry to bother you on this one.  It's just trying to get a little bit more visibility.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>I'm sorry, were there -</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Okay.  On the &#x2013; with respect to seasonal trends, it was purely directional. Rather than us expecting the first quarter to be up sequentially from the fourth quarter, we would expect revenues to be down sequentially.  And we haven't really mapped it or benchmarked it against other software companies, but more just general industry direction.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay, that's helpful. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Charlie Di Bona with Sanford Bernstein.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Hi. I want to turn back to the ELAs and, Paul, you mentioned two things about the selling environment for ELAs right now, that you're both seeing the selling cycle lengthen out, but you're also seeing a shift to people moving from ELAs to transactional.  I assume that means customers who had been looking at ELAs moving to a transactional environment.</p>
+          <p>Could you maybe characterize the mix of shift of lengthening sales cycle, versus people actually just stepping out of the ELA process altogether?  And then, actually, I have a quick follow-up for Mark on the same topic.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Sure. Charlie this is Mark.  The trend that we've seen is that companies that aren't necessarily ready to pull the trigger on an enterprise agreement at the end of any particular period still have needs for their planned quarterly deployment.  And so they'll do a smaller size transactional purchase with us, and then re-enter into an enterprise license agreement discussion in the following quarter.  So it's really a continuation of &#x2013; so I think that it's not mutually exclusive that the selling cycle is longer and that people are going into transactional mode when they buy.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>So are you seeing people drop out of the ELA process? Or are you just seeing them sort of rolling from quarter to quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>I think &#x2013; this is Paul jumping in.  Most of what we're seeing is is that people are rolling from quarter to quarter. And a metric of that was, as Mark said earlier, that, of the ELA deals that we saw slip from second quarter to third quarter, we were subsequently able to close 90% of those deals in the third quarter.  So it's uncertainty creating lengthening sales cycles, I think, is the major issue.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>And just a quick follow-up.  You have back-weighted quarters.  Is there any difference in the composition of ELA signings versus sort of transactional signings?  Is one or the other more exposed to the last three weeks of last quarter, for instance?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>In general, the enterprise agreements are a little bit more exposed to the back end of the quarter because the transactional business is buy-as-you-need and doesn't necessarily tie to quarter-end.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>And there are typically higher levels of review that are required for an ELA because they're larger deals. And that tends to push things towards the end of the quarter as, basically, the necessary steps are signed off on.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>And is that true of last quarter, too?  If people are buying transactional deals at the end of the quarter because they're slipping the ELAs into the next quarter, are you still seeing the same relative seasonality of the two? Or rather, the linearity of the two?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah, there hasn't been a significant shift in the linearity of the quarters throughout this year.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll go now to John DiFucci with JP Morgan.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thanks for taking my call.  A question for Paul. Paul, just curious, you talked about a focus on expense and execution related to that, but is that somehow in conflict with this three-pronged strategy and now a new business unit organizational structure?  I guess how confident are you that you can truly leverage spending across these business units and initiatives?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Well, firstly, the business units really speak not to either adding or subtracting expense.  They talk about increased efficiency of what we have and it's my belief that we'll get, in the long run, more bang for our buck by having more focused management.  I'm a strong believer in empowered leadership and what I try to do is to create people underneath me who are directly responsible for major areas of our businesses &#x2013; of our business.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>But if you're adding another layer of management, isn't that adding a layer of expense?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Not necessarily. As I said, we're &#x2013; it's more of a rearranging of how we are structured and how we handle things.  And at most, we're talking about four or five people here, so we're not talking about a huge layer of expense.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Secondly, as I said, we are a very large software development shop, and I think that we have the opportunity, given that what we're doing is not a left turn from what we were doing before.  What we're doing &#x2013; these initiatives are direct outgrowths of work that's already under &#x2013; going and underway in the company &#x2013; is a sharpening and more clear articulation, longer term articulation, of what we're already doing.  Which is what gives me confidence that, with just focused additions, we can get there from here.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay, thanks.  And, Mark, just a follow up to that. Since there's such a focus on ELAs can you just, I guess, go back and explain something here? At least the way I understand it, you do have ELAs. Are your ELAs typically for everything you sell, all you can eat over the term of the ELA? Or are they for certain products or product categories? And do ELA customers ever come back before the ELA is finished and actually buy other products?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Typically, ELAs are for very specific product sets and they're called out in the enterprise agreement and, in most cases, they are capped to a limited number of deployments. And as a result, we do have the opportunity to continue to interact and to work with our customers for our management and automation suites as an example.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="a">
+        <plist>
+          <p>Operator, we're going to take two more questions please, and then Paul will have some closing comments.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Okay. We'll go next to Sarah Friar with Goldman Sachs.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Thanks for taking my question, guys. Two very quick ones for you. You mentioned that government spending was very strong, which we'd expect, given fiscal year-end. But as you've talked to your government clients looking forward for 2009, are you seeing them rein in a lot, just given concerns about tax receipts, et cetera, going on for government?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Sarah, we haven't had &#x2013; I think like our commercial customers as well, they're looking ahead to see what they'll have to spend in their fiscal 2009s and it's been very seasonal, particularly on the federal level. But it was very strong, and a lot &#x2013; the conversations that we're having with customers are just around efficiency and around saving money and governments are, in this era, looking to do that very much as carefully as the commercial enterprises.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>And then, just on the desktop side, are you &#x2013; desktop is so very young, a very nascent technology, in some ways a very good ROI case. And yet you're going to have to spend money up front to even do that initial trial. Are you seeing trials get pushed out? Are people kind of saying I'd rather come to this project sometime next year when I understand better how my overall budget will look?  How is that &#x2013; how is something young like desktop being impacted by the current environment?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Well, again, it's the same theme of, on the one hand, customers believing that this is a strategic way for them to save money but, at the same time, wanting to be cautious about near term spending. So it falls into the same category as the server-side, which is that it's an uncertain time, but, on the other hand, our products do speak to a way that customers can get a hold of their costs. So we're going to have to see how that plays out.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our last question comes from Jayson Noland with Robert Baird.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Thanks for taking the call.  A question for Paul and a question for Mark. First, Paul, it seems like the company may have made some changes to your Reseller Program &#x2013; specifically, nationalized the program.  If so, what prompted the change and what type of feedback have you received?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Quite frankly, Mark and I are looking puzzled at each other here.  We're not sure what you're referring to here.  We've made some incremental adjustments to our Reseller Program but we're not sure what the nationalization refers to. So perhaps we'll need to get back to you on that.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Okay, good enough.  And a question for Mark around use of cash. How do you view cash in this environment, specifically around M&amp;A and stock buyback?  Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah, so we've &#x2013; first of all, we're being very conservative in how we invest our cash.  And so everything that we currently have is very short and we're willing to make that tradeoff and not have to deal with valuation concerns around our cash.  So certainly, as we look at M&amp;A, we think that this is a particularly good environment for us to, certainly, be looking and to have some opportunities in M&amp;A, maybe at prices that are better than they have been over the last year or so.  And with respect to share buyback, we're always looking at our capital structure, but we're not going to comment on capital structure matters unless we make some change.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Okay, well thank you very much.  I appreciate your time and look forward to speaking with you again in a quarter's time.  Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And, ladies and gentlemen, that does conclude today's conference.  Thank you for your participation.  You may now disconnect.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

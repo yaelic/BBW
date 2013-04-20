@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1101182" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q1 2008 Earnings Call</title>
+    <date>2008-03-04</date>
+    <companies>
+      <company>1555</company>
+    </companies>
+    <participants>
+      <participant id="0" type="corprep">Luc A. Vanneste, Executive Vice-President and Chief Financial Officer</participant>
+      <participant id="1" type="corprep">Rick Waugh, President and Chief Executive Officer</participant>
+      <participant id="2" type="corprep">Christopher J. Hodgson, Executive Vice President and Head of Domestic Personal Banking</participant>
+      <participant id="3" type="corprep">Robert H. Pitfield, Executive Vice-President International Banking</participant>
+      <participant id="4" type="corprep">Stephen D. McDonald, Co-Chairman and Co-Chief Executive Officer, Scotia Capital; and Head, Global Corporate and Investment Banking</participant>
+      <participant id="5" type="corprep">Brian J. Porter, Executive Vice-President and Chief Risk Officer</participant>
+      <participant id="6" type="operator">Operator</participant>
+      <participant id="7">Brad Smith</participant>
+      <participant id="8">Luc Vanneste</participant>
+      <participant id="9">Sumit Malhotra</participant>
+      <participant id="10">Brian Porter</participant>
+      <participant id="11">Andre-Philippe Hardy</participant>
+      <participant id="12">Stephen McDonald</participant>
+      <participant id="13">Rick Waugh</participant>
+      <participant id="14">Mario Mendonca</participant>
+      <participant id="15">Robert Brooks</participant>
+      <participant id="16">Sarabjit Marwah</participant>
+      <participant id="17">Jim Bantis</participant>
+      <participant id="18">Christopher Hodgson</participant>
+      <participant id="19">Michael Goldberg</participant>
+      <participant id="20">John Aiken</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good morning from Edmonton, and welcome to the presentation of Scotiabank's First Quarter Results.  I'm Luc Vanneste, Executive Vice President and Chief Financial Officer.  Rick Waugh, our CEO, will lead off with the highlights of our results.</p>
+          <p>Next, I will go over the financials.  This will be followed by a review of business line performance and priorities by each of the business line heads.  Then Brian Porter, our Chief Risk Officer will discuss asset and credit quality and market risk. And, finally, Rick will close with some comments on the outlook for the rest of 2008. We will then be glad to take your questions we also have our two Vice Chairmen available to participate in the Q&amp;A.</p>
+          <p>Before we start, I would like to refer you to slide number 2 of our presentation which contains Scotiabank's caution regarding forward-looking statements.</p>
+          <p>Rick over to you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks very much Luc.  Well, we had a challenging first quarter with net income of 835 million, down 18% from the same quarter a year ago and down 20% &#x2013; 12%-- pardon me, from last quarter.  Earnings per share were $0.82 and return on equity was 18.3%.  Our productivity ratio was 56.5%, better than our target of 57%.</p>
+          <p>While, we had expected this quarter to be difficult, it was weaker than we expected, as tough conditions in global financial markets and an unprecedented volatility continued to impact asset values, our funding costs, and currency translation.  The ongoing strength of the Canadian dollar impacted our foreign currency earnings as year-over-year the dollar increased from $0.87 to par.</p>
+          <p>The capital markets continued to be unsettled and that has resulted in a widening of credit spreads and impacting valuations on our portfolios.  Our exposure to these stressed markets is modest and while diversified, we could not escape the extreme volatility.  This as well impacted our trading businesses, although we did have record foreign exchange and precious metals trading results.  As a result, we took write-downs and reserves this quarter up $238 million on a pre-tax basis, which reduced our earnings per share by $0.17 and along with the strengthening of the Canadian dollar led to these reduced earnings.  Luc and our business line leaders will provide more details on this in just a few minutes.</p>
+          <p>The good news is that our core personal commercial businesses in Canada and internationally as well as our corporate client focus lending businesses are in very good shape.  This is very well demonstrated in our first quarter volumes where we saw record asset growth across all of our business lines.</p>
+          <p>Domestic Banking had strong volumes which resulted in yet another quarter of market share gains in key products.  International Banking had good organic growth and benefited from recent acquisitions, particularly in Peru and Chile.  Mexico did have some one-time tax issues this quarter, but the underlying growth continues.</p>
+          <p>As I said, Scotia Capital continues to see high quality loan growth from a broad based appliance in all major markets.  As well we are well capitalized.  And as Brian Porter will show, our credit portfolios are in good shape.</p>
+          <p>So overall, we feel confident that our diversification strategy by geography, by type of business, will allow us to weather these short-term challenges.  Crises such as these are only temporary and in fact great opportunities for those with the ability to take advantage of them.</p>
+          <p>Finally, I'd like to welcome Mike Durland as our new Head of Capital Markets to this presentation.  Mike has been with us for over 15 years and leads a very experienced team supported by John Madden, our Head of Fixed Income; and Barry Wainstein, Head of Foreign Exchange and Precious Metals.  This depth and breadth in management is exactly what we need in this environment.</p>
+          <p>So with that, I'll now turn it over to Luc who'll go through the numbers in more details and then have questions later.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank Rick.  Let me begin with a brief review of some key factors that impacted earnings this quarter.  As Rick mentioned, we took write-downs and reserves totaling $238 million, $171 million after-tax which reduced EPS by $0.17.  As you can see on slide 7, the write-downs related to three asset classes: $68 million for CDOs, 46 million for SIVs, and 44 million for non-bank asset-backed commercial paper.  As well we took a reserve of $80 million against a swap exposure to one of the U.S. monoline insurers.  Brian will have more to say on our exposures to these asset classes in a few minutes.</p>
+          <p>Next as shown on slide 8, we continue to be impacted by the stronger Canadian dollar.  Compared to the same quarter last year, the dollar rose 16% against both the U.S. dollar and the Mexican peso.  The impact on net income was almost $60 million or $0.06 per share.  The quarter-over-quarter effect was much lower as the dollar has stabilized recently.</p>
+          <p>Finally as shown on slide 9, the contribution from Scotiabank Mexico on a Canadian GAAP basis declined $41 million compared to last quarter.  We continue to see good volume gains in retail assets.  However these gains were more than offset by a number of factors including somewhat higher PCLs, lower government lending volumes, the Visa gain last quarter, and most significantly adjustments to the tax provision.  You will note from Scotiabank Mexico's press release last week that there was a low tax provision on a locally reported basis.</p>
+          <p>On a Canadian GAAP basis, we had to make several adjustments.  We reversed the final utilization of tax loss carryforwards and other tax benefits in Mexico as required under Canadian GAAP and that was approximately $21 million.  As well, we recorded a reduction in the fair value of the future tax asset as we do not anticipate being able to utilize the underlying tax attributes in the time period originally estimated and that was approximately $22 million and there were several other small miscellaneous adjustments for $6 million.  As well, last quarter, we recorded an adjustment relating to the gains on the Visa restructuring of $19 million pre-tax or $14 million after-tax.  Looking forward, we do not anticipate any further major GAAP adjustments related to income taxes for Mexico.</p>
+          <p>Now turning to the results, earnings declined 18% year-over-year primarily for the reasons I just mentioned.  These were partly offset by a number of positives including continued strong asset growth which increased net interest income and the positive contribution of our recent acquisitions in Latin America.  Compared to the previous quarter, earnings were down 12%.  This was due mainly to the gains on the Visa restructuring and the sale of our bond index business last quarter partly offset by lower expenses in Q1.</p>
+          <p>Looking at revenues in more detail on slide 11, year-over-year net interest income was up 3% driven by strong asset growth in our core P&amp;C businesses.  This growth was partly offset by the 138 million negative impact of foreign currency translation and mark-to-market losses on non-qualifying derivatives used for asset liability management.</p>
+          <p>Other income declined 23% compared to last year.  This was due mainly to the write downs discussed earlier as well as weaker trading results in Scotia Capital.  Partly offsetting were higher mutual funds and private client revenues.  Quarter-over-quarter, total revenues declined 10% or 3% excluding the Visa gains and the sale of the bond index business last quarter.  The decrease was due mainly to lower gains on non-trading securities and lower tax exempt dividend income.</p>
+          <p>Turing now to slide 12, year-over-year we continued to see very good asset growth.  Assets were up 9% with double-digit increases in most of the major balance sheet categories.  Residential mortgages were up 14%, personal loans were up 9% and business and government loans were up 15%.  This broad-based asset growth was driven by both strong organic growth and acquisitions.  Adjusting for foreign exchange and our Chilean acquisition, core growth was in excess of 14%, a very strong quarter.</p>
+          <p>Partly offsetting the effect of the strong asset growth was a decline in the Bank's net interest margin which fell 10 basis points year-over-year.  This was mainly due to higher wholesale funding costs, as well we continue to see a change in asset mix in favor of lower yielding but lower risk Canadian residential mortgages.  Quarter-over-quarter the margin declined 8 basis points due mainly to lower tax exempt dividend income.  On a positive note for the first time in a number of quarters, we did see a two basis point improvement in the domestic margin as we benefited from wider prime-BA spreads.</p>
+          <p>Now turning to expenses on slide 14, expenses were down 3% compared to the same quarter last year.  Quarter-over-quarter expenses fell 7%, with reductions across many expense categories including lower performance based compensation in line with lower capital markets revenues, seasonal declines, and timing of expenses and project spending.</p>
+          <p>With that I will now turn it over to Chris Hodgson to talk about Domestic Banking.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Luc.  Good morning everyone.  I'll be starting on slide 16.  Domestic Banking had a solid quarter.  Net income was up 2% from last year.  Revenues rose 3% as strong asset growth was partly offset by margin compression.</p>
+          <p>Expenses were well contained in the quarter rising only 2%.  Loan losses rose moderately reflecting portfolio growth.  Compared to Q4 net income declined 16%.  However, excluding the VISA gain last quarter net income rose 7%.  Revenues were unchanged.  Expenses fell 4% due to seasonal declines and higher project spending last quarter, and expenses typically peak in Q4.</p>
+          <p>Looking at revenues in more detail on the next slide; total revenues increased 3% year-over-year due to strong growth in both assets and deposits across all businesses.  Retail and small business volume growth was driven by mortgages, which were up 15 billion or 16%.  Deposit growth of 8 billion or 10% was also strong.  The impact of this growth was offset by the increased cost of wholesale deposits used to fund the net asset gap.  The margin was also compressed by tighter spread on new business reflecting highly competitive markets.</p>
+          <p>In commercial banking, revenue was also driven by higher volumes.  We had good organic growth and we acquired Travelers Leasing last year adding to our auto finance business.</p>
+          <p>Wealth management revenues increased 4% from Q1 '07 and we had strong growth in Private Client and mutual fund revenues and benefited from our 18% interest in DundeeWealth.  Full service brokerage was down due to weaker equity markets.  Quarter-over-quarter, revenues were unchanged excluding the VISA gain.</p>
+          <p>The next slide shows the success of our growth initiatives in terms of market share.  Year-over-year we've increased market share in residential mortgages up 18 basis points and personal term deposits up a market leading 95 basis points and in mutual funds our industry market share was up 24 basis points, primarily in the more profitable long-term funds and for the first time in a long while our retail deposit growth during the quarter funded the growth in retail assets thereby reducing our dependency on wholesale funding.  We are confident that we can maintain these market share increases in these key product categories.</p>
+          <p>Finally, looking at our priorities and our initiatives for the year; driving sustainable profitable revenue growth remains our top priority.  We'll do this in several ways.  First, we are expanding our customer base.  We made several acquisitions in the past two years and created new partnerships leading to increased brand awareness in the marketplace.</p>
+          <p>As well, during the quarter we launched both fixed term and equity link GICs to the financial advisory communities through Dundee Bank.  We also introduced a national program with Western Union to offer international money transfers.</p>
+          <p>In addition our mutual fund business continues to build on its sales momentum.  We recently introduced 14 new funds targeting brokers and planners and launched the Scotia Global Climate Change Fund.  We also continue to expand our sales staff and distribution network.</p>
+          <p>We've opened 57 branches since 2005 and plan to open between 15 and 20 in 2008 and in small business which is a growth area for us and where we have achieved good market share gains this year, we added 29 new account managers.  We've also added staff in retail banking and wealth management in the quarter.</p>
+          <p>Finally, we established a multi cultural banking unit to design innovative products for this growing market segment.  I'm confident that Domestic Banking will accelerate its earnings momentum and generate positive operating leverage over the balance of 2008.</p>
+          <p>I'll now turn it over to Rob Pitfield to talk about International Banking.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thanks, Chris.  Starting on slide 21, International Banking's net income was 282 million for the quarter, down 34 million or 11% from Q1 '07.  However, excluding the impact of foreign currency translation, net income rose 5 million.</p>
+          <p>Revenue growth was 8% driven by strong organic loan growth, our acquisition in Chile, and our investment in Thailand as well as higher securities gains, which were partially offset by a negative forex impact of 145 million and a change in fair value of certain non-trading securities this quarter.</p>
+          <p>Expenses were well controlled increasing only 1%.  Higher compensation related expenses and the impact of acquisitions were largely offset by forex.  International's tax rate increased from 11% in Q1, '07 to 27% this quarter.  The increase was due to higher taxes in Mexico as Luc mentioned and lower earnings in low tax jurisdictions.  Compared to last quarter, net income was flat excluding the VISA gain.</p>
+          <p>Looking at our revenues by region in a little more detail, Mexico's revenues decreased 5% year-over-year that was very good for our loan growth and higher commercial banking fees offset by forex.  Going forward, we believe our growth initiatives such as the 90 plus branches we opened last year will help drive good sustainable growth.  Revenues in Caribbean and Central America were flat year over year, up 13% adjusting for forex and prior period Visa gains.  There was good underlying growth in retail and commercial loans of 18% and 8% respectively.  As well, the margin increased 11 basis points.  However, these positive factors were offset by forex.</p>
+          <p>In Latin America, Asia, and other, revenues increased very strong 39%.  This increase was driven by acquisitions and higher securities gains.  Partly offsetting were the change in fair value of certain non-trading securities and the impact of forex.  Quarter over quarter, revenues were up 4% excluding last quarter's Visa gains.  This was due largely to acquisitions and organic loan growth across the region.</p>
+          <p>Looking at our priorities for the year, first, our overriding priority like the Domestic Banks is to continue driving sustainable growth.  We'll drive organic growth across the division by targeting new customer segments, as an example we'll open 10 new Private Client centers to serve affluent customers in the Caribbean and Latin America.  We'll also drive organic growth by expanding our distribution network.  We plan to open between 90 and 100 branches this year.  We're upgrading all our alternative channels such as the Internet, call centers, our external sales forces and its strategic alliances with retailers.  Second, we'll continue to focus on Mexico.  We'll open new branches at a reduced rate up to 60 and we're entering the large and rapidly growing consumer finance segment through the launch of a new credit card business with a best-of-class partner.  Third, we'll continue to look for acquisitions that improve our PC banking footprint and add complementary businesses.</p>
+          <p>And with that, I'll turn it over to Steve.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Thanks Rob.  Beginning on slide 25, Scotia Capital's net income for the quarter was $187 million.  As our peers, we were effected by the challenging market conditions although to a lesser extent.  Widening credit spreads and capital market volatility led to write-downs and reserves of $122 million this quarter.  As a result, revenues were down 36% year over year.  A higher level of interest recoveries last year and weaker credit derivatives and equity trading results this quarter also contributed to the decrease.</p>
+          <p>Expenses were 26% lower than last year due mainly to lower performance based compensation as well operating expenses including signing bonuses were lower.  Quarter over quarter, net income was down 17%.  The decrease was due mainly to lower equity derivatives revenue and the gain on sale of the bond index business last quarter partly offset by lower expenses.</p>
+          <p>Looking at revenues on slide 26, year over year, total revenues were down 36% or 16% excluding write-downs and reserves.  Global Capital Markets revenue lowered due to weaker equity and credit derivative trading.  Partly offsetting were record foreign exchange trading and strong fixed income trading.</p>
+          <p>Revenues in Global Corporate and Investment Banking declined 15% compared to last year, reflecting lower interest recoveries and lower credit and advisory fees.  This was partly offset by good growth in lending volumes and higher loan spreads.  Quarter over quarter, revenues declined 22% or 14% excluding items of note in the two quarters.  Decrease was due mainly to higher tax exempts dividend income in Q4 and lower equity trading and securities gains in the U.S. and Europe, these were partly offset by the strong performance in foreign exchange and fixed income trading.</p>
+          <p>Looking at our priorities for the year we're continuing to leverage our NAFTA capabilities, a significant competitive advantage for us.  This quarter we closed a number of notable lending transactions in Mexico.  We're further expanding our client coverage globally in selected industries particularly energy and mining.  We are adding expertise in trading, research and investment banking, and we continue to focus on infrastructure finance.  In 2007 we established a NAFTA infrastructure lending capability.  This year we will strengthen our capital markets and advisory offerings for this sector.  We are also looking to capitalize on market opportunities.  The terms and pricing of new transactions are more attractive now than they have been in a long while.  Above all we will continue to be disciplined about risk.</p>
+          <p>I'll now pass it over to Brian to talk about risk management in more detail.</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Thanks, Steve.  Our portfolios have held up quite well in the current challenging environment.  Credit quality remained stable this quarter.  With respect to asset classes of current focus, this quarter we took action to ensure that valuations in our portfolios reflect these difficult market conditions as Luc explained earlier.  As we previously stated, the underlying assets are of high quality and our exposure in these areas are not significant relative to our overall portfolio.</p>
+          <p>In terms of U.S. lending, we have no direct retail exposure.  Our GMAC portfolio is performing according to our expectations and our wholesale portfolios are well diversified and in solid shape.  With respect to market risk, there has been some increase in borrow this quarter, however market risk remains well within acceptable limits.</p>
+          <p>Looking first at the provision for credit losses.  The specific provision was 111 million this quarter, compared to 95 million last quarter.  We had debt recoveries in Scotia Capital with provision reversals in Canada and Europe more than offsetting new provisions.  The increase in domestic provisions reflects growth in our retail portfolio as well as modest increases in auto leasing due to the Travelers acquisition.  The increase in International is due to higher provisions in Mexico, the Caribbean and Central America, partially offset by lower provisions improved in Asia.</p>
+          <p>Looking at net impaired loans on the next slide, impaired loans increased 88 million in the quarter.  This was due largely to the closing of our acquisition in Chile and classifications in Scotia Capital.  Looking at net impaired loans by business lines, domestic retail has been trending up consistent with strong portfolio growth.  International has also been trending up, reflecting organic growth in retail assets and the Chilean acquisition.  These increases were partially offset by declines in the commercial portfolio in Peru and the Caribbean.  While impaired loans in Scotia Capital had increased quarter over quarter, the portfolio remains in good shape.</p>
+          <p>Now turning to areas of current focus, this slide gives you an update on our exposures.  Firstly, our monoline exposure is primarily contained in one counterparty.  The three AAA rated CDO tranches are referenced primarily to investment grade corporate and sovereign names.  There is no sub-prime mortgage exposure.  We have taken our reserve of approximately 50% on the mark-to-market exposure of $161 million as of January 31.</p>
+          <p>Secondly, our indirect monoline exposure is U.S. 4.4 billion of credit facilities related to issuers or holders of public finance or other securities.  These securities are guaranteed by monoline insurers.  They are primarily investment grade and represent risk the bank would take without these guarantees.  Exposure to subprime mortgages is nominal.</p>
+          <p>Thirdly we have small holdings, 144 million, of Canadian non-bank asset backed commercial paper that relates to the Montreal accord.</p>
+          <p>Fourthly, we also have 1.4 billion of CDOs and CLOs, an increase of approximately 200 million from the last quarter due to some SIV restructurings.  The underlying assets are 100% investment grade equivalent corporate and sovereign counterparties.  We are comfortable with these exposures.   Finally, we have very little remaining exposure to SIVs and have no significant concerns regarding our <mark type="inaudible" /> exposures.</p>
+          <p>Now let me provide some comments on our U.S. exposures.  Firstly, we have no direct credit card, personal lending or subprime mortgage exposures.  Secondly, we do have an exposure to secure auto loans through our GMAC portfolio.</p>
+          <p>We are comfortable with this portfolio. It is internally modeled at more than 90% investment grade and continues to perform at or above our expectations.  With regard to our U.S. corporate lending portfolio, the portfolio remains largely investment grade, asset quality is strong, and the U.S. residential real estate construction exposure is less than 500 million.</p>
+          <p>Turning now to market risk; the next slide shows the VaR in our trading portfolios.  The average one-day VaR grows to 16.6 million, an increase of 3.4 million from last quarter.  The increase was mainly in the interest rate VaR due primarily to structure credit activity in the quarter as well as the impact of increased market volatility.</p>
+          <p>Looking at our trading results; this quarter continued to be challenging with positive results on 79% of trading days compared to 86% last quarter.  Overall, however, we remained comfortable with our market risks.  Our structured credit trading is well controlled and we understand the risk in this market well.  We are very comfortable with our overall asset quality, credit portfolios are in good shape, our exposure to other asset classes is not significant relative to our overall portfolio and supported by high quality underlying assets.</p>
+          <p>I will now turn it back to Rick.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks very much, Brian.  Well, at summary, it's been a difficult and a noisy quarter due to this extreme volatility in the global financial markets.  However, I think as you can see due to our strategy of diversification, I'm certainly confident that we can weather this short-term uncertainty in the capital markets due to our underlying growth.  You saw at our quarterly and year after &#x2013; year-over-year growth in assets.  We will continue to invest in these three growth platforms to support both our organic expansion and acquisitions, and this will lead to continued sustainable revenue and earnings goal.  We have the capital, we have the opportunities, we have the strategies, and we have the management to deliver.  Crisis is due end and we see some positive indications. Capital markets are expected to improve in the second half of the year.</p>
+          <p>Short-term rate decline are leading to improved funding cost for us.  The Canadian dollar is expected to hold in its current range.  Asset growth and acquisition of customers across all our three business lines remain strong, supported by strong growth in our emerging markets in Canada.  And finally, we have placed increased focus on our cost control.  So, consequently, we are maintaining the financial objectives outlined at the beginning of the year.  Although we've recognized it will be a challenge to reach them in light of the current quarter results, we do not intend to stand still and that we are confident that we have taken and are taking actions to deal with these challenges head on.</p>
+          <p>So, with that, I'll now pass on to Luc who will M.C. and open it to questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thanks very much, Rick.  Could we have the first question please?</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="6">
+        <plist>
+          <p>Your first question comes form Brad Smith from Blackmont Capital.  Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thank you very much.  I had two questions actually.  First, dealing with the domestic banking business. Chris, I saw the strong market share gains that you made relative to what you had reported last quarter, and I believe I'm seeing relatively stable interest margins.  Just wondering if you could provide a little bit more insight into that market share -- the source of the market share improvement?  Is that growth in your customer base or is that largely cross-selling success or what-have-you been reflected? And then secondly, I was just hoping we could run over the Mexico tax adjustment again, just to make it very clear what that was from and what the exact amounts were relative to Q4?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Okay, Brad, thank you.  In terms of our market share gains, it's really coming from two places.  One is increased customer acquisition.  We've been very aggressive and clear on that the last couple of years, both in terms of acquisitions that we've made where we've taken on new books of business though Travelers and through National Bank of Greece and some of our other acquisitions; we picked up new customers that way. Plus, some of the partnerships that we've signed over the last couple of years, the Cineplex has been helping us from across.  So, to be clear, we've picked up year-over-year good gains in mortgages; so in the first quarter we gave a little bit of that back Brad, and we did that consciously because the spreads came in at the beginning of the quarter; they were very, very tight, and we were seeing some unprofitable business in the mortgage front, so we decided to give up a bit of market share on that front.  But for the first quarter in a long time, our retail liability growth actually outstripped our asset growth and we did have good market share gains once again on the deposit side.  So, on mutual funds, our long-term asset sales were very, very strong in the quarter, but to answer your question specifically we're really seeing it from two sides; one is from new customers, and the other is from our existing customers where we're getting a greater share of wallet.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay, great thank you.  And just talking international, perhaps Luc you could just run through those numbers again. The 68 was impacted by -- I heard two numbers, 21 and 22 million?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>That is correct.  The 21 related to reversing the final utilization of the tax loss carry forwards.  You'll recall Brad, that in the past, from a Canadian GAAP perspective, we had recorded that benefit in advance of what they did from a local Mexican GAAP basis.  They finally utilized all of those tax loss carry forwards. The last bunch was in the current quarter, and so we had to reverse those as well as the other tax benefits that we had realized from a Canadian GAAP perspective.  So, that's the 21 million.  As well, I've chatted in the past about tax attributes that we would look to use on a go-forward basis.  We had recorded a future tax asset, but now we do not anticipate being able to utilize those tax attributes in the time period that we originally estimated.  So, we had to write-down the fair value of that tax asset, and that was 22 million.  Comparing that to Q4, so the total of those two is 43; we had similar tax adjustments in terms of them recognizing tax loss carry forwards in Q4 of around 26 million.  When you take a look at the adjustments on slide nine, Canadian GAAP adjustment's 49 for Q1 '08 versus 19 for Q4 '07; you also have to take into account the Visa gain which was $14 million after tax so if you take the 19 and that 14 to make it 33, the difference quarter-over-quarter is not as great as it appears on the slide.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Okay, next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="6">
+        <plist>
+          <p>Next question comes from Sumit Malhotra from Merrill Lynch.  Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Hi, good morning.  First question is for Brian Porter. Brian, if I go to the areas of focus for this quarter and I look at the 80 million reserve you took for the 161 million of mark-to-market exposure, was this counterparty -- or is this counterparty, the one C rated monoline that's out there and if so why didn't you take the entire 161?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>That's a good question.  It is the stated counterparty, and the difference for us here is that it really comes down to asset quality.  All the hits we've seen out there pertaining to this vein have some subprime exposure.  The three trades that we have on the said counterparty were rated AAA at the time we put the trades on.  They are still rated AAA, so asset quality is high.  We are presently working on a restructuring of the trade and we are bound by a confidentiality agreement, so I can't go into specifics about what we're doing, but we're confident we'll get this restructured in the next quarter.  If by chance we don't, we'll deal with the position accordingly.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay, two more in this regard, kind of in the same area.  When you talk about the 4.4 of indirect exposure, what are we looking at here, is it municipal bonds that -- when you said they have an underlying relationship with these monolines?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Yeah, they basically support public finance transactions.  The underlining portfolio is 86% A or better in terms of credit quality.  The balance 13% would be BBB-.  So, the credit quality of the portfolio is fine, and as I said in my comments these are credits or assets we'd be comfortable to have on our own books in terms of credit quality.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay, the last one in terms of these exposures.  Three months ago, last quarter's call, we heard about the European conduit that you had put back on your balance sheet and you referred to it at that time as being fully hedged.  I mean obviously given the difficulties we're having in credit markets, I was somewhat concerned about the &#x2013; just how well these hedges have held up. Is there anything you can offer on that point?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Clearly, when we consolidated the conduit, we inherited a long credit position and we hedged it accordingly in terms of, you can hedge our credit exposure and our single name exposure and our correlation exposure; that drove our credit notionals up through the quarter; we're comfortable with how we have the position hedged.  I would -- expect, it depends on market conditions, but our plan is to reduce this exposure in subsequent quarters.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay, I'll leave it there for now.  Luc...</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>The other point I would make there is that in terms of counterparties; our counterparties on anything we've hedged in that book are large inter-bank counterparties.  There aren't any monolines, there aren't any counterparties in there that we have a credit issue with.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay, thanks for that detail.  Luc, one for you and I'll wrap it up there.  On slide seven, the items of note, you broke out the financial statement lines. Just listening to some of the commentary, it sounds like this stuff ran through three segments.  Could you give us some details?  It sounds like it was International, Scotia Capital, and other; could you just break that out for us if you have it handy?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Sure.  Happy to do that Sumit.  Of the 238, 122 was Scotia Capital, 30 was International and 86 is in other.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay, thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Thank you.  Next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="6">
+        <plist>
+          <p>Your next question comes from Andre Hardy from RBC Capital Markets.  Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>I have two questions &#x2013; and maybe they are related, but one, can you talk about the very, very rapid growth in business and government lending during the quarter?  Was that business you wanted, was that lines of credit being drawn by companies that are struggling?  So, maybe give us a little bit more detail on that?  And thanks for the enhanced disclosure on the automobile lending in the U.S., and I just wonder if you could give us the reasons why that's internally modeled to being investment grade?  Is that over collateralization, is that because you have protection from GMAC? That would be helpful in us understanding that that's not a big risk for you guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Why don't we start with Steve on the business line and then I'll follow-up with the risk comment.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="a">
+        <plist>
+          <p>Okay Brian.  With respect to the business loan growth within Scotia Capital, the growth has been quite distributed across a number of our businesses, and we're fine with the growth generally.  We are quite happy with it.  It is growing in the right places.  We are seeing some growth in our investment grade quality risk and we're not tilting the balance between investment grade, non-investment grade through the piece.  So, it's quite broad geographically and by product, and its basically good news in our views &#x2013; and we're seeing increased margins on the loan portfolio.  We're seeing increased margins, in pretty well other portfolios as well, our TRS portfolio, significantly increased pricing on new deals, both investment grade and non-investment grade, but particularly non-investment grade.  And some really great opportunities in the secondary markets with some paper that is what we value to be quite high, trading at significant discounts given all the volatilities.  So, it's providing us with opportunities.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="a">
+        <plist>
+          <p>I'll just add to that, Steve.  It's Rick Waugh.  And we also saw some good growth on the business side in Asia.  Some good growth there and of course through all the other commercial in our America side; and again, this is -- these are our customers, they're all good names and well distributed. So the customers are obviously, with these financial markets, making use of some bank facilities here.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>And are they using them to a level that it changes your risk ratings of those customers?</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="a">
+        <plist>
+          <p>No, we've had very few instances where we had corporate draw downs because that corporation's in trouble.  I can think of one case and it's not significant and it's not troublesome as far as we're concerned.  In terms of the GMAC portfolio particularly, we have to be cautious here because, again, we are bound by a confidentiality agreement.  We did get an outside rating just to make sure that our internal work had been done properly, but this is something that we worked on for months.  We have a lot of knowledge about the auto sector.  Clearly, we're an auto bank.  We've got a lot of knowledge in terms of structuring.  These are over-collateralized and structured the way we want them.  We actually probably gave up a little bit of revenue to enhance the over-collateralization on the structuring of these obligations.  So again, we are comfortable with our exposures.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay.  So you are not dependent on somebody else's credit rating?</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="a">
+        <plist>
+          <p>No.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Next question?</p>
+        </plist>
+      </speaker>
+      <speaker id="6">
+        <plist>
+          <p>Next question comes from Mario Mendonca from Genuity Capital Markets.  Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Good morning.  A quick question; in the press release, there is a reference to the decline in interest rates in the past quarter had a significant negative impact on the fair value of derivatives used for asset liability management.  I don't -- I guess the first question is, does that &#x2013; we're not talking about credit derivatives here, are we?  It sounds like interest rate derivatives?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Interest rate derivatives, you are right Mario.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>So these interest rate derivatives -- you say they were used for asset liability management, or that's what's written, I am sorry. And what, does &#x2013; is this what affected trading, interest rate trading revenue in the quarter? Were these, sort of, interest rate positions designed to sort of capture things like steepness in the curve that didn't play out?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="a">
+        <plist>
+          <p>Mario it's Bob Brooks.  The answer is no.  This primarily rates-- relates to the mortgages that are sold into the CMB program with the government, and unfortunately under the terms of the swap arrangements that are integral in that program, it is almost impossible to get hedge accounting treatments on the off-setting hedge that you take for the cash flows flowing out of that trust. And so you have an economic hedge, but you can't get an accounting hedge, and when interest rates move around, obviously you don't reflect the gain or loss on the underlying mortgage because that's in the trust but not on our books. But you do reflect the gain or loss on the off-setting interest rate hedge.  So, it's an interest rate hedge, and every bank has them and we can't get accounting treatment on them in our Canadian portfolio -- in our Canadian portfolio.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>I follow that.  So, if the economic loss, let's call it &#x2013; not economic loss, I am sorry, the loss that appears, or the issue that appears, because of the derivatives, essentially, there must be some kind of positive element that will emerge over time?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="a">
+        <plist>
+          <p>Yes over the life of the underlying mortgages, this will come back to positive.  But these are five-year mortgages.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Got it.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>So we're at a point in time, Mario, it does have an impact on our net interest income line.  It wasn't particularly dramatic quarter-over-quarter, but it was certainly dramatic year-over-year.  Q1 this year versus Q1 last year, the impact on the net interest income line was around $100 million.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="a">
+        <plist>
+          <p>Maria this is Sabi.  The issue is really is, one side you have accrual accounting, the other side you have mark-to-market accounting.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>I totally follow that now.  One final thing and this is just for perfect clarity from Brian.  Monoline exposure; I think you've done a pretty job of giving us an understanding of where the monolines come in.  That one transaction you are referring -- sorry, or three transactions you're referring to with a $161 million fair value exposure written down.  Are there any other securities or other transactions the company is entered into that are hedged with monolines? Or was that the whole picture right there?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>That's the whole picture there.  And for full disclosure, in our CDO portfolio which I mentioned 1.4 billion, our total CDO, our total monoline exposure in terms of monolines being incorporated in some of the names in those CDOs would be $200 million.  So, it's not significant.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Next question?</p>
+        </plist>
+      </speaker>
+      <speaker id="6">
+        <plist>
+          <p>Your next question comes from Jim Bantis from Credit Suisse.  Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Hi, good morning.  Just want a follow-up on the retail numbers.  Chris, you highlighted a number of market share gain, yet I was kind of surprised not to see the other income line within domestic banking lift with the market share gains -- that it was relatively flat.  Can you talk a little bit, was there some one time items that may be have dampened that this quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>In terms of other income &#x2013; sorry, Jim, it's Luc...</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>In domestic banking, too.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Sorry?</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Sorry, Luc, it's in domestic banking that I am referring to.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Domestic banking, we can't forget that we had the Visa gain last quarter.  That was 111 million pre-tax.  So that impacts their results.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>I can appreciate that, but when I look at the 519 million on page four, it seems a little bit lighter versus the Q3, Q2, Q1 run rates and -- of '07. And so I am just wondering, despite the market share gains and the asset under management pickup, I was just wondering what, maybe, has dampened that this quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>We had a little bit of a write down in terms of some sort of retained securitization interests during the &#x2013; during the quarter there is as well.  Some lower gains in one of the subsidiaries, and that combined with the 111 really took care of that $144 million differential quarter-over-quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Okay, got it.  Thank you.  Just looking at the comment that, Chris, you've made with respect to the funding; his quarter being with respect to deposits funding asset growth. Can you talk about the financial impact of that going forward maybe in round terms or how this is going to impact your results?</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="a">
+        <plist>
+          <p>Well, I think the most positive thing, Jim, is the fact that margin increased by two basis points in &#x2013; on the quarter and we actually see spreads widening based on where rates are going over the course of the next -- or the balance of '08.  So, do expect that to positively impact our results over the course of the rest of the year.</p>
+          <p>We have been aggressive in terms of growing our deposit base, but we haven't been out of the market and we've been very careful in terms of some of the offerings that we've had, but generally speaking we'll continue to be quite aggressive in growing our deposits.</p>
+          <p>I think the other thing I didn't say in our growth and deposit share of course is that the Dundee Bank acquisition and partnership has been very positive for us.  When we closed on that deal we had 2.3 billion in deposits and we've grown it by just under about a billion dollars in deposits over the last number of months.  So we continue to see some good growth in that area.  Long and short of it is that's we expect the spreads to widen and to help us over the course of the balance of the year.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Got it, thank you very much, Chris.  And then just the last question with respect to Basel II Tier-1 ratio, unlike some of the other banks didn't really receive much of a lift from going from one to two.  Can you talk about perhaps some of your internal models or some of the dynamics involved in that?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>I think &#x2013; Jim, its Luc.  There were two aspects there, in terms of the calculation there.  There are some anomalies there in terms of the impact of our general allowance in terms of the calculation under Basel II.  As well, we with respect to market risk, our model is in process of being approved and once approved that will reduce significantly, we expect, the risk weighted assets relating to market risk.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>And Luc, do you see the market risk matter being resolved in 2008?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Yes, we do.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Thank you.  Next question?</p>
+        </plist>
+      </speaker>
+      <speaker id="6">
+        <plist>
+          <p>Your next question comes from Michael Goldberg from Desjardins Securities.  Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Thanks, good morning.  My first question is for Chris.  If you could give us a little more color on how you plan to use Dundee Bank?</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="a">
+        <plist>
+          <p>Okay Michael.  What I think very simply, we own 100% of Dundee Bank.  We've launched a number of new products in conjunction with Dundee Wealth and this gives us access to the third-party channels who help grow our deposits in GIC base.  So, we've launched three new products, actually, over the course of the last quarter.  We will be launching very, very soon an investment loan product.  In fact, there is a pilot project in the works right now. And that will be quite competitive in terms of a couple of other products that are there in the market; specifically, Manulife has a product on that front.  So, we will continue to look for ways to support that channel and to grow, really, our deposits and our GICs through that area.  And we're seeing some good growth through that channel.  I gave you some numbers a moment ago; we are up about a billion since we purchased the company at the end of September.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Okay.  Also, a question for Steve.  Can you elaborate on the type of opportunities that you are seeing and which types actually interest you?  I think you were saying that you've seen, you know, attractive spreads on the credit side and in particular in secondary markets; are you buying?</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="a">
+        <plist>
+          <p>Yes, we are buying and we've gone to this secondary market; A, because it's a very attractive market in terms of pricing, but B, because the primary market is relatively slow, right.  There's not a lot of deal transactions going on in these kind of markets.  So, part of our challenge is trying to find partners who are willing to put up some capital to do deals.  So, your syndications markets have been slow, the fee generation has been slow there, but what we have been able to do is some interesting kind of one-off structured financings and we can pick our &#x2013; in this market, we can pick the risk profile that we are looking for and we find -- and we're finding in this market that we can stay at the very high-end quality and get paid very, very well.</p>
+          <p>So, we &#x2013; what has been interesting about the last three months and what I think will be interesting about the rest of year is that people are coming to us with issues, sometimes they're liquidity-related rather than really capital relief-related and they are looking to us for funding and we can structure arrangements that are of very high quality that generate excellent returns for us on -- and so that's the kind of thing we are seeing in this market.  I would like to see the primary market develop more.  Hopefully that will happen, but certainly in the States, particularly, it is very slow.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Can you give us some comparison of the type of margins that you're seeing in these markets now compared to let's say prior to the credit challenges that we're experiencing?</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="a">
+        <plist>
+          <p>So as I mentioned earlier, we're seeing real movement in margins in the non-investment grade.  Most of our activity is in the investment grade, volume-wise. And in non-investment grade we're seeing spreads going from may be 150 basis points six months ago to 300 plus in this market.  And in the investment grade area, we might see spreads going from 50 bps to 100 bps. So, it's basically a doubling and more in the non-investment grade.  This 300 is &#x2013; we're also seeing 350, 375 for risks that are not unacceptable and structures, covenant structures and capital structures that are a lot more favorable.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Okay.  And Rick, can you also expand on opportunities that you are seeing given the challenges that are out there?</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="a">
+        <plist>
+          <p>Well, there is two broad opportunities.  First of all as Steve just pointed out, our relationship lending, you know, we stayed in the relationship client business as Scotia Capital throughout even though when the spreads got really low, we stayed with our key customers and tried to make it up on cross sale, so that is creating a lot of opportunities and well, we don't wish adversity on our competitors as Steve alluded to, is a lot of them are just out of the market now -- for at least temporarily, and so the alternatives that our customers have are a lot fewer, and they are coming to some of us who have kept our powder dry so to speak.  And so that's the first opportunity.</p>
+          <p>The second opportunity of course is we have been in a disciplined and acquisitive, you know, not big huge acquisitions, but acquisitions that fill into our strategy, fill into our footprint, where we are geographically and that continues because again for the same broad reason you know, the capital markets and that and -- as a matter of fact, when you have these disruptions there tends to be no more sellers and buyers and so that's good for us.  We're going to take our own sweet time I guess looking at them, the pipeline in International, it continues to be active although we're using it to fill in where we feel we need to.  We will continue those discussions and they are ongoing and you know, we will of course in Canada where we have our wealth management initiatives, we will keep our eyes and ears open on that and we will do both, organic growth in acquisitions much so long in the same lines we've done over the last several years, but I think the opportunities are every day becoming a little more attractive and we'll take a measured response to it.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>One more for you Rick, you know, we know that the downturn will at some point come to an end, but what specifically gets you comfort of expecting or recovery in the second half?</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="a">
+        <plist>
+          <p>Well, there's a number of issues, just some may be specific.  First of all you know, the currency always is, you know, I think a strong Canadian dollar is good for us because we are &#x2013; our foundation is in Canada and that's good.  However it does give us of course some challenges when we bring back those or report those earnings outside and it's just a fact that in the second quarter of last year, the Canadian dollar was in the $0.85 to $0.90.  So given our forecast that the Canadian dollar will trade around these levels at par plus and minus, just you know, and in the third and fourth quarter next year, but they're relating back to the third and fourth quarter of last year sorry.  You know, that transition gives us one reason for confidence on that.</p>
+          <p>Secondly as Chris mentioned on our domestic funding and you can see it in that quarter-over-quarter increase in our Canadian.  As you know and we've told you this many times that we mark-to-market in essence to our domestic business line with the increase in short-term rates while that of course has changed as you know wherever is changing today I understand.  These rates are coming down and you see that in our quarter.  So that trend we continue &#x2013; we see it happening now.  It's not &#x2013; and we completely see that forecast trending.</p>
+          <p>The third thing of course is when you saw &#x2013; when you see this, I mean I haven't seen such volume growth in a long, long time and may be ever, also I haven't seen this turbulence as much as that, but the offset is as you can see in our first quarter asset totals, I mean those are on our books now.  So we're going to get the benefit of that as the averaging takes place over year-over-year and we're not standing still, I am looking at opportunities and cost initiatives I mean we've always, always been cost-conscious and this environment is certainly making us ensure that we're still going to invest for growth et cetera, et cetera, but there's opportunities now that we are just going to go back and take some cost out.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Do you expect that you're going to sustain the organic growth in lending volume that you've had in the first quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="a">
+        <plist>
+          <p>Absolutely.  Because first of all you know, I think we're in those &#x2013; what market is better to be in, than these developing emerging countries and Canada? So that's good and then in United States in our wholesale we have relationships that go back many times and these will create the opportunities for organic growth.  So you know, the volumes &#x2013; I am very confident on the volumes.  The spreads in Canada now of course that they are all subject to all this volatility that we see and so it's &#x2013; when you peel back all these accounting and mark-to-markets which we were &#x2013; we make sure that we &#x2013; our portfolios are reflecting &#x2013; are reflecting this uncertainty when you peel that back you can the see the growth.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Thank you, very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Thank you we have time for one last question.</p>
+        </plist>
+      </speaker>
+      <speaker id="6">
+        <plist>
+          <p>Your next question comes from John Aiken from Dundee Securities.  Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Good morning.  Hi.  Brian or Steve and in terms of gross impaired loans coming out of Scotia Capital, the newer classifications in the quarter, was this broad-based or does it relate to one or two single names?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>It's one single name in Canada.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Can you give us some flavor as to what sector or what area this rates to?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>I think that's probably one only &#x2013; the only one gross impaired loan in that country.  So, &#x2013; I think it's...</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Thank you very much.  And Rick, just a general strategic question for you.  Are you gaining any traction with the government in your campaign to try to open up the borders and I guess indirectly start the move on mergers once again?</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="a">
+        <plist>
+          <p>For the first part you know, there is of course a couple of panels on competitiveness going forward and what have you, and you know, Canada didn't sign many trade agreements over the last several years, but in the last year they signed two, and one of them was in Peru in the Americas.  And so I think there is a recognition and it's certainly that you know, we are in a global world, Canada is in great position, but we have to think of our markets globally.  So when you look at the government's policy statements on advantage Canada, when you look at Harper made a speech down in Chile on what he saw for the Americas and now backed up with actually some trade agreements because while we've only done two, if you look at some of the you know, Mexico has done dozens of trade agreements.  So, I think there is a recognition that growth for Canada you know, is great, but we are a global market and Canadian companies and that will grow.</p>
+          <p>So I don't want to sound like I am making a speech here, but so I think the policies are reflecting that and going forward, and second on the perennial question on mergers, I mean it's &#x2013; to me I think we're past the policy stage, but it is a fact of politics and the politics are obviously on the agenda, but if you look what's happening in the world what's going on with the Italian banks and the European banks and what have you, it's not if but when -- it could be very long, longtime away.  So, we just have to let that one play out.  Meanwhile, we're not counting on it, we're going to -- we'll make our plans when we can, but we'll just continue on this strategy and not counting on anything happening.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>John, just on the formation we talked about, I was probably a little flippant at my response, but we also had the position more than half hedged.  And so in terms of provision &#x2013; the provision we've more than made up in the CDS is what we've provided for the loan.  So, in time we think we're <mark type="inaudible" /> the money good.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Okay, thanks for the clarification Brian.  And Rick thanks for the commentary.  I greatly appreciate it.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Okay.  Thank you very much for participating in our call this morning.  Have a great day and we'll talk to you next quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="6">
+        <plist>
+          <p>Ladies and gentlemen, this concludes the conference call for today.  Thank you for participating.  Please disconnect your lines.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

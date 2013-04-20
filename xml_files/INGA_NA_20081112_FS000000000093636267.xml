@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1195038" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q3 2008 Earnings Call</title>
+    <date>2008-11-12</date>
+    <companies>
+      <company>613</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Gemma Backs, Investor Relations</participant>
+      <participant id="2" type="corprep">John C.R. Hele, Member Executive Board and Chief Financial Officer</participant>
+      <participant id="3">Farquhar Murray</participant>
+      <participant id="4">John Hele</participant>
+      <participant id="5">Koos Timmermans</participant>
+      <participant id="6">Duncan Russell</participant>
+      <participant id="7">Tom McInerney</participant>
+      <participant id="8">Bruno Paulson</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>All participants will be in a listen-only mode. After the presentation, there will be an opportunity to ask questions. <mark type="Operator Instructions" />.</p>
+          <p>I'll now hand the conference over to Gemma Backs. Please go ahead, madam.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>This is Gemma Backs for ING Group welcoming you to ING's Third Quarter 2008 Results Conference Call.</p>
+          <p>Before turning this over to John Hele, Chief Financial Officer; Koos Timmermans, Chief Risk Officer and Tom McInerney, Member of the Executive Board responsible for Insurance Americas, let me first say that any forward-looking statements in today's comments are subject to a number of variables. They include interest rates, foreign exchange rates, inflation rates, movements in securities markets including equity markets and underlying economic health and changes. The realization of forward-looking statements could be materially altered by unexpected movements in any or all of these and other variables.</p>
+          <p>That said, good morning here, good afternoon in Holland, John, Koos and Tom. Please, John, over to you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Well, good afternoon to those in Europe and good morning to those in North America. This is John Hele and I will do a very short presentation because we did have a presentation this morning and the presentation is on the web for those of you that may have missed it. I will not go through it again.</p>
+          <p>But there was a question this morning, which we might as well answer from the get-go. We had on slide 60 of the analyst presentation, there is a breakdown into buckets, of bucket one, bucket two, and bucket three of our ING Direct and Insurance Americas' Alt-A Residential Mortgage Backed Securities.</p>
+          <p>And there is &#x2013; the bucket three is greater than two times coverage and in prior quarters, we had broken that out two to five times coverage and greater than five times coverage. And they wanted the 15.6 billion broken down into those two buckets. The numbers are between two and five times is 5.2 billion and greater than five times is 10.4 billion.</p>
+          <p>I'll say that again. So the 15.6 is broken down between two and five times coverage at &#x20AC;5.2 billion and greater than five times is 10.4 billion. Hope that answers the question we had this morning on that.</p>
+          <p>And with that, we'd just like to turn to questions. Thank you.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Ladies and gentlemen, at this time, we will begin the question-and-answer session. <mark type="Operator Instructions" />. The first question comes from Farquhar Murray. Please state your company name followed by your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Hi, afternoon, gentlemen, it's Farquhar from Fox-Pitt here. Two sets of questions, if I may. Just starting with the Economic Capital model, I wonder if you just could give the impact of the changes you made there both on the banking side and the insurance side separately, if possible. And also I wonder if you could just give us some color and perhaps the numbers around the different provisions you have under Basel II, the provision number and the internal capital model number.</p>
+          <p>And then secondly, turning to the Alt-A, I mean the way you indicated, basically you could take &#x2013; you take an impairment of 130 versus what you feel is a credit loss of 40. Could you just give us some rationale behind the 40? And also additionally, if it transpires you were right and you have over provisioned, what timeframe do you think you actually have to write-back that? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Why don't we start with the last one first. We'll turn to Koos, the 130 versus the 40, and I can talk about the accounting. Why don't you speak about the credit side?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>I think Farooq (sic) [Farquhar], indeed, if you look at the 40, what is the expected credit loss, the way how it works is we model those bonds and we see whether the credit enhancement is enough. Now in a nutshell, what that means is we look at first all the current delinquencies and we make an assumption that most of that is going to go to default. And we will apply the loss given defaults, which you see, the LTVs, which we have a scheme which is based on both the vintages as well as the product types. And that is a bit in conformity of what you see in the presentation of what I have.</p>
+          <p>Secondly, after this initial flush of delinquencies, then we start to normalize our annual default rates, but taking into account factors such as <mark type="inaudible" /> risk. But you have to make some assumptions of leveling back to normality, which is either called through an SDA curve or something else. But yes, you do a lot of bond testing. And also what you do take into consideration is your prepayment rates. And in general, you set a CPR or an annual prepayment rate, we have set that I think at around 10% or so. So you make a series of assumptions. And based on that, you look at the cash flow shortfall and based on that you make your provision.</p>
+          <p>Then the fact that you now provision 130 for something which is 40, is there a way how to make that back. There is a few things which play a role here. Yes, I mean unfortunately, the way how it works with IFRS is that provisioning means writing it down to a market value. So that is what we have done till so far. If at a certain moment your cash flows are more than sufficient, a way to deprovision it, I mean I would have to look at the IFRS books on that and I don't know --</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yes, I think what happens is once you're certain that your &#x2013; the impairment charge you have taken is too large, you get to write it back up, but you do amortize it I think over the remaining life of the securities, so it's sort of a general re-write up over time versus a massive hit in any one quarter. You take the expected improvement, but that would be amortized over the remaining life of the security.</p>
+          <p>With regard to the second question about provisions internal capital models, Koos...</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>I think if you look at the provisions, I think what you have is both the sum up of the provisions which is related to our IBNR, and that is the one, we call it the portfolio provision, which is on the cycle. So in other words, we look at the PDs, the probability of defaults and the loss given defaults. And what you will see is a bit of a migration that your probability of default will go up and your loss given default will go up. So in general, you expect your portfolio provision, which is approximately a third, that's an element which you expect a bid to increase.</p>
+          <p>If you then look at the second component, which is your specific provision on cases, that is a bit more, yeah, a sort of a surprise element because it is right now not sort of clear evident in the portfolio that you can say one sector is already heavily represented in our sort of watch list or in our chamber where you do expect the biggest write downs. So on that one, it is still, yes, technically speaking, idiosyncratic risk.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Okay. Regarding your question on the EC models, it actually &#x2013; the impact of the changes were in the AFR, not really in the EC models. In the Bank, as we disclosed, it was as deducted &#x2013; we used to deduct the difference between the Basel II calculations and our own calculations. But given that we felt this was the ECs, their own best estimate, we took that out. Those are very minor adjustments to the AFR.</p>
+          <p>And on the insurance, we moved to a AAA bond spread. We found that the difference &#x2013; actually swaps used to be trading at a rate that was higher than the AAA bond spreads, but the AAA bond spreads have increased quite a bit in the covered bond spreads. So it better reflects the illiquidity of the portfolio. We're actually now working with the Chief Risk Officer Forum for the insurance group as well as others to try to introduce this type of methodology towards solvency too, and that had a larger impact. In total, both of these, in terms of the AFR for the Group, it was about a 9 billion improvement.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Okay. Maybe a final word Farquhar, on &#x2013; because if you look at models, I mean we talked about loan loss provisioning, IFRS, IBNR, and that is based on the cycle. If we look at Basel capital models, it uses &#x2013; on the one hand, it's similar because it uses same components, PD and LG, but at the same time, what you do there is in Basel, you use a downturn LGD, so a bit more negative number.</p>
+          <p>Then the third component is economic capital, internal. And for economic capital, the similarity is &#x2013; again, you use the same PD and LGD, but at the same time you take into consideration country and industry diversification as well. But the same building bricks, the same building components are available in each of these processes, provisioning Basel and economic capital.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Just one quick thing. Firstly, it's actually Farquhar and secondly actually, on the Alt-A portfolio that you've taken the impairments on, have you looked through to what the adjusted LTV is on that portfolio given the current market crisis?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Can you just say the last question again on &#x2013; did we look to the LTV...?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>On the Alt-A portfolio that you have impaired where you've taken the 130 million impairment and then you're giving the 40 million credit loss, have you looked through to the adjusted LTV on that portfolio just to make sure that your other calculations make sense?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>What we do in this portfolio is, I know that the loan to value is changing over time. Because if the house prices deteriorate, your LTV changes as well. What we do in terms of making our credit calculations is we make an estimation of the longer term cash flow projections. And what we do is we use a sort of a loss given default table on this and that table over time gets a bit more negative if you see house prices declining. But it's a longer term forward projection.</p>
+          <p>I think one of the bigger assumptions in there is that all your future annual defaults, what kind of an LGD table do you use to that and we use the current type of LGD table. So we assume not a lot of recovery of house prices in there. We do expect some back to normality and recovery of the PDs, but we don't expect a lot of recovery of the house prices. So I think the biggest component is not so much a 5% plus or minus right now in the current table; the biggest assumption is that in 2018 on a CDO &#x2013; on a default, we still expect the same type of recovery.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Okay. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Okay, thanks Farquhar.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Duncan Russell. Please state your company name followed by your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Hey, good afternoon, JPMorgan. Just one quick question on Alt-A as well. Do you anticipate any impact on your Alt-A securities from any sort of loan modifications, or &#x2013; I'm not sure how the market works, but it seems like there's political pressure to modify some of the mortgage loans in the U.S. And I was just wondering how that would work for ING and your securities and whether that impacted your assessment of those securities? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>I think right now &#x2013; and maybe Tom, you can add something to that. I mean I hear some stories, but they also have to do with the fact that we have a new presidency and then there is some talk about of &#x2013; support for some of the medium incomes.</p>
+          <p>But I think it is too early to see that anything has been crystallized out on that area, which you can say already like, well there is an expectation on either a haircut on a loan from our side or whether it is part of additional loans injected out of the 700 billion TARP. I mean I wouldn't know. Maybe Tom, you have any idea?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Yeah, well I think on TARP, there's a lot of moving parts on that as I think you are all aware, what started out as a program to buy pressurized assets has turned into a capital injection program, which right now is focused first on the top nine banks in the U.S. and now a number of the regional banks. And in addition, there are also some of the U.S. insurance companies are also beginning to put in requests for capital.</p>
+          <p>In terms of the actual TARP purchasing assets there, they clearly are looking at the reverse auction mechanism, although that's still being explored. In addition, there is treasury and the FDIC under Sheila Bair are looking at a program &#x2013; and maybe this is what you're getting at, Duncan &#x2013; where there will be encouragement through the Fed and the Treasury with the banks. And you're seeing this in some cases, I think JPMorgan and Citi have announced some of this. But what the FDIC and the Treasury are looking at is restructuring the underlying mortgages. I mean it's easier to do of course where you have a whole mortgage still held by the bank versus something that's been securitized, so that creates complexity.</p>
+          <p>But one of the thoughts is to rewrite &#x2013; and I've heard numbers anywhere from 3 to 4 million mortgages &#x2013; rewrite those based on the current market values of the home and the affordability to the occupier to try to keep people in the home. And then that the FDIC, Treasury or Fannie, Freddie Mac would provide a second mortgage guaranteed by the government to the banks so that it would mean the impact on the banks or the holders of the securitized securities.</p>
+          <p>So that's in the works. I think the thought is that that could help get to a floor on prices more quickly. But that is a very much a moving discussion. And as I said, most of the focus in the last few weeks have been more on the capital injections. But I think they will &#x2013; we will look at that.</p>
+          <p>I mean there's quite a bit of interest on the part of the incoming administration as well as the Congress in terms of beginning to look at the mortgage holder and the individual home owner versus just the capital injection plan. So I think there's more to come on that, but &#x2013; and it's a little hard to say what the outcome could be.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Duncan, though to be clear, we did not take that into account when we set our provisions and calculated out potential impairments for this past quarter. And I think we would wait till the program is done and proven working before we would adjust our LGDs or our PDs in any of these calculations.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, Mr. Russell, does it answer your question? Thank you. <mark type="Operator Instructions" />. The next question comes from Bruno Paulson from Bernstein. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thank you very much. Some &#x2013; various questions. Firstly, the fixed annuity sales are rising, but from a relatively low base, certainly compared with the variable annuity sales. I wonder if you had any comments about the extent of ambition there? Secondly, there's been very fast growth of real estate lending, I saw a 32% growth referred to; and really quite low loss rates at this point. I was wondering if you could discuss why you think growing real estate lending at that kind of speed at this point in the cycle makes sense, and why you're confident that the loan losses won't deteriorate too much? And finally, there was a fairly low result for Central Europe, even if you take out 41 of derivatives, it was roughly zero. Is this down to the expense of, if you like, retooling the Turkish business and is this the sort of level we should expect going forward? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Okay. Why don't I do the last question first, is Central Europe banking, I'm assuming your talking to -</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yes, we had costs of the rebranding in Q3 in one day all the Oyak Bank branches became ING Bank with orange pens and everything else. So that was a cost. We are also opening more &#x2013; smaller branches all over Turkey to expand the banking footprint there. So there were one-time costs spent that also impacted the Turkish result in the quarter, and that's the major difference there. Why don't I have &#x2013; question number one, the fixed annuity sales, I'll turn it over to Tom.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Yeah, in terms of more traditional fixed annuity sales, they did go up in the third quarter. Obviously, it was probably later in the third quarter probably going into September where clearly there was significant sentiment in the U.S. and individuals were more cautious. And I think you will see that continue and that you will see an increase in fixed annuity sales going forward in the industry overall. And I think we'll be assuming reasonable spreads on fixed securities. I think it could be an opportunity for us as well as for the industry.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>In terms of real estate lending, I'll ask our Chief Risk Officer to...</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>I think the one thing is a 32% growth is what I don't see. I mean on the real estate finance side, what we did see is in the first quarter we were at 33.2 and it moved in the second quarter to 35.6 billion year-on-year. And it's &#x2013; so maybe year-on-year, indeed if you look at it from Q3 '07 onwards to Q3 '08, it's a high number. But if you look actually in the year of '08 itself, the developments are not that big anymore. And that is &#x2013; yeah, so it's basically 3Q &#x2013; 3Q.</p>
+          <p>What you actually see happening over this year quarter-on-quarter is not a lot of growth anymore. I mean, why not? I mean it was still growing in the first and second quarter a bit. But that is also longer term loans, they temper out gradually because you have some commitments, some pipelines and things like that. But I would say at this moment, yeah, the loan production on this area is relatively low. And I normally sit in the credit committees, and I must say that we see more credit revisions rather than new production at this moment. And that is more evidenced by the numbers right now.</p>
+          <p>But I must say the first and the second quarters, I mean you see some growth, but it's more modestly and right now it's actually relatively low. Nevertheless, I must say if you look at the <mark type="inaudible" /> of the real estate finance business, that it is still relatively healthy type of business with good LTVs.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Paulson, does that answer your question?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Yes, thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" />. There is a follow-up question from Farquhar Murray [Fox-Pitt Kelton]. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Hi there, thanks again for giving us opportunity to <mark type="inaudible" /> the question. Just on the Alt-A portfolio again, once these things move into impaired, what's the inclination versus  to sell them and particularly how does the actual capital requirement develop at that point or is there any effect there? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>It's an interesting point. Because if you impair it &#x2013; right now I mean one of the dilemmas which you have is that at this moment, when I say that the underlying credit performance is better than what the market price implicates. So that is not a good reason to sell. Let us take the moment of impairment then what happens is yes, you need to take a P&amp;L hit on that respective bond. But at the same time, the issue is still there that the market price is lower than the ultimate credit losses which you expect to have. I mean by the time that your view is different and like you say like, hey I am going to either not be able to hold the bond because I have a cash flow problem which we don't have, or by the time that your views on the credit changes and it warrants to sell it at a discount of whatever 50% for net gain or something, then at that time you would sell. But I would say the moment of impairment is not so much an issue, it's more the underlying view on the credit losses versus the market price, that's the driver.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah, Farquhar, under U.S. GAAP, you can never write-up again even though things get better. So the incentive is clearly under a U.S. GAAP file, sell the thing out. With us, we have the option. If we think economically it's a good thing to do, we can do it or we can actually write it up slowly over our book over time, so we have more flexibility on it.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>And on the capital side. Is there a capital incentive to sell at that point?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>No. I think what -- we can look at the different perspectives. I mean the one is we have the regulators. And the regulators are more of our view that they say like a negative revaluation reserve in as far as it's in illiquidity spread and for us it's a buy whole portfolio, they don't recognize it.</p>
+          <p>If you talk about the analyst, well this is why we have the dialogue with you and this is why we gave you all the numbers. And also the stress test showing something like what is your credit component and what is an illiquidity spread component, or that is where we try to continue to have you informed on it.</p>
+          <p>So I don't get the request from a regulatory perspective. And from an investor perspective, I mean, I think for us the best thing to do is to sit and wait with their portfolio. But we clearly communicate in line with the credit migration what we expect this portfolio to do.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>I agree actually. Probably the best thing is to wait. What I'm trying to understand is, is there a capital increase as a consequence of the environment that would force you to sell?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>No, there is no fundamental change in either our internal capital models nor I think under Basel II that treat the securities in a different form.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Okay. So there is no capital increment due to impairment that would force you to sell them?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>No</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Okay, great. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" />. Thank you. There are no further questions. Please continue with any further points you wish to raise.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Either our 2 or 300 pages of disclosure is getting so good you don't have questions or it's so much you can't get through at all in the course of the day. But either way, we'd like to very much to thank you for joining us throughout the course of the day and we'll look forward to being in contact with you over time. And again, if you have future questions, please feel free to contact our Investor Relations department. We'll be happy to answer your questions. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>This concludes the ING third quarter 2008 results conference call on the 12th of November 2008. Thank you for participating. You may now disconnect.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

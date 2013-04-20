@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1411304" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q2 2011 Earnings Call</title>
+    <date>2011-08-04</date>
+    <companies>
+      <company>683</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Unverified Participant</participant>
+      <participant id="2" type="corprep" affiliation="Head of Investor Relations, Senior Executive Vice President">Stephan Eger</participant>
+      <participant id="3" type="corprep" affiliation="Chief Executive Officer">Ren&#xE9; Obermann</participant>
+      <participant id="4" type="corprep" affiliation="Chief Financial Officer">Timotheus H&#xF6;ttges</participant>
+      <participant id="5" type="analyst" affiliation="Cr&#xE9;dit Agricole Cheuvreux International Ltd.">Peter K. Nielsen</participant>
+      <participant id="6" type="corprep" affiliation="Member-Management Board">Niek Jan van Damme</participant>
+      <participant id="7" type="analyst" affiliation="Sanford C. Bernstein Ltd.">Robin A. Bienenstock</participant>
+      <participant id="8" type="analyst" affiliation="Exane BNP Paribas SA">Mathieu Robilliard</participant>
+      <participant id="9" type="analyst" affiliation="Jefferies International Ltd.">Ulrich W. Rathe</participant>
+      <participant id="10" type="analyst" affiliation="Citigroup Global Markets Ltd.">Simon H. Weeden</participant>
+      <participant id="11" type="analyst" affiliation="Deutsche Bank AG (Prime Brokerage)">Matthew C. Bloxham</participant>
+      <participant id="12" type="analyst" affiliation="JPMorgan Securities Ltd.">Hannes C. Wittig</participant>
+      <participant id="13" type="analyst" affiliation="UniCredit Bank AG (Broker)">Thomas Friedrich</participant>
+      <participant id="14" type="analyst" affiliation="Nomura International Plc">James S. Britton</participant>
+      <participant id="15" type="analyst" affiliation="MF Global UK Ltd.">John Karidis</participant>
+      <participant id="16" type="analyst" affiliation="Credit Suisse Securities (Europe) Ltd.">Justin B. Funnell</participant>
+      <participant id="17" type="analyst" affiliation="Joh. Berenberg, Gossler &amp; Co. KG (UK Branch)">Paul A. Marsch</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good afternoon and welcome to Deutsche Telekom's conference call. On our customer's request, this conference call will be recorded.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Disclaimer. This presentation contains forward-looking statements that reflect the current views of Deutsche Telekom management with respect to future events. These forward-looking statements include statements with regard to the expected development of revenue, earnings, profits from operations, depreciation and amortization, cash flows and personnel-related measures. You should consider them with caution.</p>
+          <p>Such statements are subject to risks and uncertainties, most of which are difficult to predict and are generally beyond Deutsche Telekom's control. Among the factors that might influence our ability to achieve our objectives are the progress of our workforce reduction initiative and other cost-saving measures and the impact of other significant strategic, labor or business initiatives, including acquisitions, dispositions and business combinations, and our network upgrade and expansion initiatives.</p>
+          <p>In addition, stronger-than-expected competition, technological change, legal proceedings and regulatory developments, among other factors, may have a material adverse effect on our cost and revenue development. Further, the economic downturn in our markets and changes in interest and currency exchange rates may also have an impact on our business development and the availability of financing on favorable conditions.</p>
+          <p>Changes to our expectations concerning future cash flows may lead to impairment write-downs of assets carried at historical cost, which may materially affect our results at the Group and operating segment levels. If these, or other risks and uncertainties, materialize or if the assumptions underlying any of these statements prove incorrect, our actual performance may materially differ from the performance expressed or implied by forward-looking statements.</p>
+          <p>We can offer no assurance that our estimates or expectations will be achieved. Without prejudice to existing obligations under capital market law, we do not assume any obligation to update forward-looking statements to take new information or future events into account or otherwise.</p>
+          <p>In addition to figures prepared in accordance with IFRS, Deutsche Telekom also presents non-GAAP financial performance measures, including, among others, EBITDA, EBITDA margin, adjusted EBITDA, adjusted EBITDA margin, adjusted EBIT, adjusted net income, free cash flow, gross debt and net debt.</p>
+          <p>These non-GAAP measures should be considered in addition to, but not as a substitute for, the information prepared in accordance with IFRS. Non-GAAP financial performance measures are not subject to IFRS or any other generally accepted accounting principles. Other companies may define these terms in different ways.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Now, please listen to the statements of Ren&#xE9; Obermann and Timotheus H&#xF6;ttges. Afterwards, you are welcome to ask your questions. Niek Jan van Damme, our CEO for Germany, is also joining in the Q&amp;A session and is looking forward to your questions.</p>
+          <p>May I now hand you over to Mr. Stephan Eger?</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Good afternoon in Europe. Good morning to the U.S. Welcome to our Deutsche Telekom Q2 conference call. We'll start, as always, with a brief presentation by Ren&#xE9; Obermann, our CEO, and Tim H&#xF6;ttges, our CFO, followed by a Q&amp;A session, where Ren&#xE9;, Tim and also Niek Jan, the CEO of our German business, are happy to answer your questions.</p>
+          <p>Without any further ado, I would like to hand over to my CEO, Ren&#xE9;.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thanks, Stephan. Hi, there. Overall, I'm very pleased with our second quarter results, although there are some areas that need special attention. With regards to the sale of T-Mobile USA to AT&amp;T, the regulatory process is running according to plan, and we remain confident that the deal will close during the first half of 2012.</p>
+          <p>Germany successfully continued the stabilization of adjusted EBITDA with a margin in excess of 40% and line losses for the first time below 300,000. That's a record low level, and it shows that customer retention efforts show results. In Europe, the margin recovery came through in Poland, the Netherlands and Austria as expected, with improved revenue and adjusted EBITDA trends also in other countries.</p>
+          <p>We continued to execute on cost cutting with a Save for Service contribution of &#x20AC;919 million in the first half of 2011, and a combined net cost reduction of &#x20AC;1.2 billion in Germany, the U.S., and Europe. These results demonstrate the hard cost discipline we are applying across the Group including the U.S., and let me make that very clear, the cost discipline will remain in place because clearly, you know, the environment is not easy and we will improve our efficiency further also in headquarters and in the administration of the business. We achieved a further milestone with a network JV with TPSA in Poland and the rebranding of PTC.</p>
+          <p>In terms of financials, results from continuing operations were slightly better in revenue and EBITDA terms than in the first quarter. Encouragingly, free cash flow improved by almost 19% to &#x20AC;1.8 billion, which means that we are on track to achieve our guidance. Adjusted net income improved by 17% to &#x20AC;1 billion, and based on our results, we reconfirm our 2011 full year guidance.</p>
+          <p>On a separate note, we are currently in an intense phase discussing the post-U.S. strategy including our fiber approach, fiber-to-the-home or fiber-to-the-building. And we plan to update you on our new strategy post-U.S. during an Investor Day following the closing of the U.S. deal. So, not in the next couple of weeks or months but following the closing of the U.S. deal. We need some more time and we will work it out in detail to give you a good picture thereafter.</p>
+          <p>Coming back to the financials of Q2, revenues from continued operations decreased by 3.3%; it compares to a decline of 3.7% in the first quarter, so a slightly less sharp decline. This slight improvement in revenue trends reflects better trends in Europe which more than offset slightly weaker trends in Germany and particularly System Solutions. U.S. revenues which are not included in the year operations, in the continuing operations, were heavily impacted by weaker equipment revenues and especially foreign exchange effects. Adjusted EBITDA from continuing operations decreased by 2.6% compared to a decline of 2.7% in the first quarter. It reflects a stable EBITDA in Germany and improved trends in Europe and in our Group Headquarter Services, in our GHS, Group Headquarter Services.</p>
+          <p>U.S. EBITDA remained weak even though the margin improved from the first quarter and if I compare it to some of our competitors from a margin perspective, we did I'd say reasonably well. And Tim will provide you with more details on the divisional performances later on. In terms of key Group financials, an improved bottom line with adjusted net income and adjusted EPS up significantly and the strong free cash flow up almost 19% year-on-year, stand out.</p>
+          <p>Turning to the growth areas, growth continued in key areas, mobile internet revenues for instance grew by 13%. The apparent slowdown compared to Q1 is primarily due to foreign exchange effects, namely the weaker U.S. dollar, because growth in Germany around 30% in mobile internet and overall in Europe amounted to 23%, while the U.S. grew by 17% in dollar terms.</p>
+          <p>Connected home revenues were stable year-on-year. We grew in Germany by 3%, but it was offset by some weaker development in Eastern Europe. Revenues from online consumer services grew by just 0.5%.</p>
+          <p>We grew in new businesses such as Scout, but we had some decrease in legacy areas such as Yellow Pages. Overall, to be very honest, we are still in some sort of clean-up mode in that business area, which is something we, on the long term, plan to grow further. But there is a way to go there.</p>
+          <p>External revenues at T-Systems, excluding revenues from intelligent networks, were stable. We also, for the first time, recorded some revenue in the intelligent network area, primarily coming from health sector.</p>
+          <p>So, the guidance for the full year 2011 is reconfirmed as highlighted at the beginning. Adjusted EBITDA of around &#x20AC;19.1 billion is split into the discontinued operations first. That is, the U.S. with a stable EBITDA of around $5.5 billion, which translates into &#x20AC;4.2 billion, if the average exchange rate can be applied of $1.33 per euro.</p>
+          <p>Second, the continuing operations with around &#x20AC;14.9 billion, of which we already achieved &#x20AC;7.4 billion in the first half of the year. So, you can see we are very well on track there.</p>
+          <p>The free cash flow guidance remains unchanged, at stable to slightly growing over the 2010 amount of &#x20AC;6.5 billion. In the first half of 2011, we already achieved &#x20AC;2.8 billion, essentially in line with the prior year.</p>
+          <p>Please note that our guidance assumes constant currency based on the average exchange rate in 2010 and that our free cash flow guidance does not include &#x20AC;0.4 billion for the PTC settlement, which we happily concluded after so many years and now had to pay some money for.</p>
+          <p>I'd like to turn over to Tim for a more detailed look at the divisions and the Group financials. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Thank you, Ren&#xE9;. Hello, everybody.</p>
+          <p>I am pleased with our German results, especially the strong profitability. Revenues declined by 3.4%, slightly weaker than the trend in Q1. Q2 slightly weaker trends in mobile, but I will come back to that in a moment. Despite the revenue decline, adjusted EBITDA remained stable, driven by strong OpEx savings. This resulted in a margin of 40.7%, 1.4 percentage points higher than the year before.</p>
+          <p>Fixed network revenues declined by 4.5%. Underlying fixed network revenues, adjusted for the discontinuation of the mobile prepaid card business, amounted to minus 3.8%, an improvement over the underlying 4.3% decline in the first quarter. This was driven by an improvement in wholesale revenues.</p>
+          <p>Adjusted for the mobile termination rate cuts, mobile service revenues were stable year-on-year. Even though mobile data revenues remained strong with 30% growth, mobile voice revenues were impacted by three main factors. First, a lower retail customer base, mainly driven by an increase in the service provider contract base and lower prepaids. Second, a shift of the existing retail customer base into the new tariff portfolio, which we have launched in November 2010. And thirdly, the unfavorable mix of new contracts driven by a shift to promotion bundles and the lower volume of complete contracts.</p>
+          <p>These effects taken together resulted in underlying mobile growth slowing from 2% in Q1 to stable revenues in Q2 this year. Similar to the observed trends, seen at some top, not all, other German carriers. We have to work on that.</p>
+          <p>We remain the clear number one in broadband and mobile service revenues in Germany as well. Already more than 50% of the domestic fixed customer base are broadband customers. The highlight of our fixed network results were the lowest line losses since years at only 295,000, even lower than the already low level in Q1. IPTV growth remained solid, growing by more than a third year-on-year. All 330,000 new customers are on our Entertain offering.</p>
+          <p>We now have more than 450,000 retail fiber customers doubling year-on-year. In mobile, our contract churn improved even further to 1.1%, down 0.3 percentage points year-on-year. Contract net-adds were very strong, with 171,000, of which approximately 100,000 were generated by service providers including the new Turkcell relationship. Underlying retail contract net adds were strong too, especially compared to our main competitor in Germany. The smartphone share amounted to 62% of handsets sold, up 31 percentage points year-on-year.</p>
+          <p>iPhone sales remain strong with close to 250,000, that is exactly the same level as we had last year. As it can be seen on the chart, our service revenue market share in mobile declined slightly in Q2 due to the aforementioned reasons. We definitely will defend our service revenue market leadership in Germany going forward, helped by some encouraging trends like good contract customer growth, industry leading contract churn rates and superior mobile data growth. We are certainly aware of the cannibalization risk posed by messaging and voice-over-IP services.</p>
+          <p>Looking at our service revenue risk, only about 15% of total service revenues are addressable by IP services. The vast majority of billed minutes and consumer contracts, consumer contract SMS's are already accounted for by flat or bucket tariffs. We believe that the risks through offerings of IP messaging can be successfully mitigated by smart pricing namely tier pricing and increased penetration of bundles and rebalancing. Our concrete measures to mitigate that threat include the successful introduction of the new tariff portfolio with the focus on data and messaging in bundles and the launch of SMS data centric promotion bundles in the quarter.</p>
+          <p>Turning to the Europe division, there were clear and encouraging signs of stabilization. The growth in key market KPIs continued unabated. Let me just highlight the 25% growth in TV customers even faster than in first quarter and the more than doubled smartphone share in percent of dispatched devices.</p>
+          <p>In the context of smartphones, let me make a quick deep dive into a recent initiative to push low-end smartphones across the countries in which we have mobile operations. A joint campaign across our European markets using the well known Angry Birds creative leverage best practices and maximizes the business impact.</p>
+          <p>The result of this campaign has been impressive. Smartphone dispatches more than doubled to over 1 million, only in the second quarter. The data attach rate leaped to more than 60% from low 37% and we will see the impact coming in the further quarters. With the exception of Croatia, revenue trends improved across the board in the integrated operations.</p>
+          <p>As you can see from our Q2 figures, the environment in Greece remains very challenging for us. While OTE has a strong position in the Greek mobile market, with Cosmote service revenue market share that's close to 50%, up 0.7 percentage point. The situation in fixed line remains very difficult, hampered by line losses and regulation.</p>
+          <p>Generally speaking, further significant changes in the general framework have to be driven by the Greek Government in order to attract further foreign direct investment in the planned privatization process.</p>
+          <p>Deutsche Telekom in particular is disappointed by the lack of progress on regulatory and labor law matters, which are severely and unfairly penalizing OTE. As you know, the Greek Government has exercised its put option on a 10% stake OTE in June with a cash-out taking place in early July. As a result, we do currently own 40% of OTE.</p>
+          <p>Deutsche Telekom will have to decide whether we are interested or not in the remaining 10% stake of the Greek Government. For the time being, we do not see any rush or necessity given the current economic uncertainties.</p>
+          <p>The results in Croatia were impacted by still a challenging economic environment, for example, the higher unemployment rates. We saw better revenue trends in fixed with mobile revenue still suffering from regulation and price declines. Adjusted EBITDA trends also improved compared to Q1 for all integrated operations, with Hungary generating a small increase in underlying adjusted EBITDA due to excellent cost discipline.</p>
+          <p>Across the integrated operations, margin remains solidly in the 40%s with a notable exception of Greece, which generated a margin of 34%, down from 36% the year before. With respect to the performance versus competition in Hungary, we outperformed our mobile competitors on all available metrics. In Slovakia, we performed eye-to-eye with our main competitors. These are good news.</p>
+          <p>Trends in the mobile centric markets were also encouraging, with the expected and promised margin recovery in Poland, in the Netherlands and in Austria. Revenue trends in the Netherlands, the Czech Republic and Austria improved compared to Q1, while Poland remained stable.</p>
+          <p>EBITDA trends in all mobile centric operations recovered strongly compared to Q1, with the Czech Republic remaining at a high and stable level. In the Netherlands, specifically, underlying total revenue growth amounted to 5% points. While our performance was in line with the incumbent, it was not entirely satisfying compared to the closet competitor.</p>
+          <p>SMS revenues continue to grow at 8%, therefore, we did not observe an IP cannibalization effect. Recent pricing trends in the Dutch mobile industry has been encouraging, with T-Mobile Netherlands switching to tiered data pricing in line with the industry in Q3. In the Czech Republic, we regained service revenue market leadership in the second quarter and at the same time, retained a strong EBITDA margin.</p>
+          <p>Let me come to the Systems, in Systems Solutions trends were weaker than in Q2 than in Q1. Revenues continue to grow, but at a slower rate than in Q1, since we focused on big deal execution and quality assurance rather than winning new deals. Order entry decreased year-on-year also due to the exceptional strong order entry in Q2 of last year, mainly driven by one large contract win.</p>
+          <p>New deals in Q2 included Valora, TOTAL and Magna.</p>
+          <p>In terms of profitability, the adjusted EBITDA margin in Q2 remained at a similar level to Q1, while the adjusted EBIT margin improved sequentially to 2%, though still down from the year before. The higher OpEx related to big deal execution had an impact on Q2 margin.</p>
+          <p>We reduced CapEx by &#x20AC;92 million, following the lower order entry and to protect cash flow. Total Save for Service cost savings amounted to &#x20AC;250 million in the first half year compared to &#x20AC;93 million in the first quarter.</p>
+          <p>In the U.S., overall trends remained difficult in the second quarter. Service revenues declined slightly by 1.3%, despite the positive impact from the in-sourcing of handset insurance. This was primarily the result of the loss of high ARPU contract customers in previous quarters and, to a lesser degree, rate plan optimization by customers.</p>
+          <p>The margin recovered from 25.4% &#x2013; to 25.4% from 23.1% in the first quarter. This reflects, in particular, lower retention costs, which were particularly higher in Q1 due to several promotions, including the Valentine's Day offer.</p>
+          <p>Slightly better contract customer trends followed the introduction of the new unlimited rate plans were seen. However, higher machine-to-machine net adds were also a contributor to the sequential improvement.</p>
+          <p>Data ARPU trends remained solid, with an acceleration in the sequential growth rate of blended data ARPU. The number of 3G, 4G smartphones on the network increased to almost 10 million, up more than 50% from Q2 of last year.</p>
+          <p>Turning to free cash flow. Second quarter cash flow was strong with &#x20AC;1.8 billion. The improvement compared to last year was due to higher cash generated from operations, lower net interest payments, and lower CapEx, therefore, as expected, balancing out the higher level of interest payments and CapEx from the first quarter this year.</p>
+          <p>Free cash flow in the first half amounted to &#x20AC;2.8 billion, basically in line with last year's level of &#x20AC;2.9 billion. Compared to the last year, cash generated from operations benefited from an improved working capital, lower cash taxes and a dividend from Everything Everywhere, partially offsetting the weaker EBITDA.</p>
+          <p>We are, therefore, confirming our guidance of slightly growing to stable free cash flow over the 2010 level of &#x20AC;6.5 billion. We expect the strongest quarterly contribution to free cash flow coming in Q4.</p>
+          <p>We made significant progress with regards to Save for Service, with savings of &#x20AC;919 million realized in the first half of 2011, resulting in a total run rate of &#x20AC;3.3 billion so far. Our target for the 2010 to 2012 remains unchanged at &#x20AC;4.2 billion. These cost savings were the biggest driver in reducing the Deutsche Telekom cost base by 7% or &#x20AC;1.6 billion in the first half of 2011. Large net OpEx savings were achieved not only in Germany, but as well in the U.S. and in the Europe divisions. Finally, our balance sheet remains solid, with ratios well within the target comfort zone ratios.</p>
+          <p>In difficult capital market times, we have been focused on reducing our net debt and were able to reduce our net debt by &#x20AC;3 billion year-on-year. The sequential increase in the second quarter was temporary due to the dividend payment and we expect net debt to improve significantly in the course of the year, driven by the strong free cash flow expectation.</p>
+          <p>In terms of shareholders' equity, the main driver for the year-on-year decline was translation of foreign exchange currency especially U.S. dollar. In the so-called other comprehensive income, sequentially the main driver was, again, the dividend payment.</p>
+          <p>With this, Ren&#xE9; Obermann, Niek Jan van Damme, our CEO of Germany, and I, are now ready for your questions. Thank you.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" /> Mr. Peter Kurt Nielsen from Cheuvreux, may we have you question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Yes. Thank you and good afternoon, Tim, Ren&#xE9; and Niek. I'd like to return to the weakness in German mobile service revenue growth in the first half. If you could elaborate a bit on that and particularly how you feel you're positioned to improve that trend in the second part of the year? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Mr. Kurt, thank you for your question. First of all, let me start with a perspective on our business. We are only the operator that showed substantial growth over the past years and that was starting from a high basis, not to say that I'm satisfied with the development of course.</p>
+          <p>Some perspective of what happened. In November 2010, we introduced new price plans which were meant to allow transition from a mobile revenue model, with metered by usage thereby having a higher risk of cannibalization; my colleague, Tim H&#xF6;ttges, already pointed to that and we transferred those customers to a model which was in double play bundles and a very strong retention in that new price plan on our high-value customer base.</p>
+          <p>I'd have to say that strategy was successful, if we look at the low churn, 1.1% on a monthly basis, the lowest in the industry. 60% of our new tariffs being sold as double play and a 30% growth of data which is unparallel and which is beyond &#x2013; which is above market average.</p>
+          <p>What also happened is that 80% of the two million new contracts we did in this prior spend were prolongation. That means customer optimized themselves, thereby reducing the ARPUs driven by higher number of minutes and SMS's in the bundle. This 80% is higher than we expected. Secondly, also if we look at the mix effect in our base year on year, we've seen increase in service provider contract base which traditionally has a lower ARPU than our own base of course and a lower prepaid base of 1.1 million active customers.</p>
+          <p>On top of that, the unfavorable mix effect in new contracts driven to promotion bundles and lower volume of the complete bundles are high and price tariff in Q2. I do see some positive developments as well however in the first half of the year. We have a higher contract growth than our key competitor, in fact we grew twice as far as they did. As said already, lowest contract churn in the industry and outgrowing the market in mobile data revenue by better growth of 30% year-over-year. I think the data growth will be further fueled by the launch of LTE 1800, so, up to 100 megabit in the bigger cities, which we started in Cologne, and which was received very well.</p>
+          <p>Looking ahead and some measures as well we are taking which specifically focus on two of our key segments where we have been losing, youth and high-value voice only customers. We have successfully launched a double play promotional tariff at &#x20AC;24.95 which has <mark type="ph" /> rebalancing (30:59) elements, very positive customer acceptance in the month of June, 25% of our new <mark type="indiscernible" /> (31:04) with this price plan. Also, very clearly, more experience in selling the benefits of these new packages which is total new tariff line for our agents in shop and in our customer service which you see is now getting in to effect. For the youth segment also, we have introduced SMS flat option which is taken up in the market very well and for our high-value voice only customers we are strongly pushing now MultiSIM.</p>
+          <p>MultiSIM allowing a customer to use up to three SIMs on one contract, has the objective to lock in high-value voice customers, who decide now for a data device, be it a tablet or be it a laptop stick. And we think, thereby, we can very successfully prevent those customers from even considering a competitive tariff.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Ms. Robin Bienenstock from Sanford Bernstein, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Yeah. Good morning. Thanks very much. I guess two questions if I may. The first question is &#x2013; can you tell me anything about the uptake of the LTE product where you've rolled it out and how customer ARPU has changed in places where you've seen this product roll out?</p>
+          <p>And the second question is that you have very low out-of-bundle spend now in Germany. Can you tell us how different that is to your out-of-bundle spend in other places, the Netherlands and the U.K., in particular? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I think the &#x2013; Robin, this is Ren&#xE9; speaking. The uptake in LTE is still very early to judge with regards to impact on ARPU. The one thing I can say is there is now 1,500 small cities or villages or so covered with LTE, and we're in the low-five-digit range, so somewhere between 10,000 and 15,000 customers or so, currently using it as a replacement of their DSL. So, it's really too early to judge usage, ARPUs and so forth.</p>
+          <p>I do think that the uptake in the second half of the year would increase, because we continue to cover and to build out, I think, another 1,000 or so villages, Niek?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Yeah. We have 660 &#x2013; 763 sites on air. We will increase to at least 1,500 covering up to 2,000 villages, communities. The actual number on usage is 20,000 users and as you said, too early to give the ARPU at the moment.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>So, Robin, I was too conservative, so it's 20,000 not 15,000 and the number of villages increasing to 2,000, so let's talk about it at the end of the year or maybe early next year and see what the results are. Currently, the plan is around &#x20AC;40 and it replaces DSL more or less where there is no DSL. So, it should be a good opportunity to grow revenue in the mid to long run.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Robin, would you be able to repeat the second part of your question?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Yes, sure. The second part of my question was, you look like you have remarkably low out-of-bundle spend in terms of only 11% of voice minutes and only 17% of SMS revenues are out-of-bundle in Germany and I was wondering if you can tell me how different that is in other countries? In other words, what percentage of your spend &#x2013; of customer spend is out-of-bundle in places like the Netherlands or the U.K.?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>May I look that up and come back to you after the call?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Super. Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Robin, cheers.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Mathieu Robilliard from Exane BNP Paribas. May we have your question please?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Yes. Good afternoon. Thank you. First on GHS, there were some comments reported by the press that you are planning some cost reduction effort and I was wondering if that's already included in the current plan or that's a new plan and linked to that, I note that the GHS costs are negative, EBITDA is running below what it was in May 2010; I was wondering if that's something we should expect for the rest of the year?</p>
+          <p>And second in terms of VDSL and IPTV take-up in German fixed, that clearly going to the right direction but I guess in the big scheme of things, it still remains a slow progression and my question is, do you have initiatives ahead to try to ramp-up this or you think basically there is no more demand for this product at this stage than what you're pulling? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>All right, Mathieu. The project Shape Headquarter, which you refer to is part of our ongoing and successful work, I think we can say it's very successful service initiatives, which save so far more than &#x20AC;8 billion since 2007 gross savings. Speaking of GHS and the group headquarter, we have to distinguish between the more than 22,000 people within GHS and thereof about 4,000 working and so-called corporate functions. The difference is made up for example, by our Vivento organization with about 9,600 people and the so-called shared services such as procurement, real estate management and our fleet management.</p>
+          <p>So, whilst we improve efficiency everywhere, this particular program Shape Headquarter affects about 4,000 people and the central functions within GHS and has the clear focus to produce a leaner and much more efficient headquarter with less redundant functions because if we are honest to ourselves and we look into this company, there is still a lot of room for improvement on efficiency.</p>
+          <p>And it is a pure necessity given that overall revenues have been shrinking, that we will sell the U.S. business and, you know, clearly then, we also need to adjust the capacities, and we come through all the processes of head office. And I am sure there is a lot of room for improvement. So, this is the next thing on the agenda. Niek, do you want to take up the VDSL then?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Yeah, on VDSL, as you said, there's a very strong development year-on-year. Do not forget that we basically only started selling the product a year ago. The uptake is even accelerating in the last few weeks, which are in Q3. So, <mark type="ph" /> Steffen (37:34) urged me not to give you any precise numbers, but I can tell you it's encouraging.</p>
+          <p>It has to do with a better wholesale offer, which also our wholesale partners are selling the product, which is now much more a clear part of our strategy, and secondly, a price reduction, making the product extremely interesting for the customers and competitive to cable in many areas where we operate. Don't forget we are now out in 10.8 million fixed line households. This year we will further increase the coverage of our DSL by 600,000.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>All right, Mathieu, with respect to the hybrid solution for IPTV, i.e. our Entertain product, you know that by September we will be launching that hybrid solution in the market and will increase the coverage of the addressable market from around about 50% of the German population to 80% of that. Again, we'll push some efforts into the IPTV area in the second half.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Ulrich Rathe from Jefferies, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thanks very much. My first question is on the U.S. You told us at the time of the announcement of the agreement with AT&amp;T that the deal does not depend on a particular operating result as such by T-Mobile. However, you also said that the deal prescribed certain investment levels on the market investment and for &#x2013; the CapEx.</p>
+          <p>I was just wondering whether you can give us some &#x2013; you probably don't want to give us a number, but give us some sense of how much flexibility you retain on adjusting investment levels in the U.S. given current top-line developments? That was my first question.</p>
+          <p>Second question is on Eastern Europe maybe, now that the macro backdrop and the consumer behavior seems to improve slightly, what do you think will happen to competition, because my understanding is that competition certainly in these more integrated markets in Eastern Europe was relatively low during the time of <mark type="ph" /> pressure (39:37), because everybody suffered the same and margins sort of stayed high because of that. How do you think that will change potentially if the growth outlook improves in Eastern Europe? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>So, with regard to the CapEx, very simple; we have a commitment given in the country that we invest a certain amount of money or cash into the operations, that we keep our competitiveness and the quality of the network and, let's say, the entire business until the closing.</p>
+          <p>The first half year shows that, first, we are very much happily in line with what we have promised. Therefore, there is no need for reduction and with regard to the free cash flow situation of the U.S. space, even though, no need to consider whether we invest less into the operation here. So, I do not see any kind of stress with regard to the steering of the operation. We keep the competitiveness of the business anyhow, because we do not know how &#x2013; we do not have the final agreement on the deal yet. And therefore, we do everything what is needed for instance to invest into our HSPA network.</p>
+          <p>That said, what are the implications? If we would not be in the position to invest the amount which we have promised in the contract, this will be then an adjustment to the purchase price. So, even this is something which could be managed but we do not have that on our agenda today; as I said, free cash flow and the CapEx is well in line with the contract obligations.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>And with regards to Europe, still the economies are strong in Netherlands, Austria, Poland, turnaround is visible in Hungary, Slovakia, Czech Republic and Bulgaria. To be honest, I don't &#x2013; since this is an early trend, I don't expect any major change to the competitive dynamic.</p>
+          <p>We have been somewhat skeptical with regards to the European markets outside of Germany and therefore &#x2013; and they are part of the overall forecast which foresee some reduction in EBITDA as you know from our forecast, we are doing less good than last year. So, that is partly because of the Eastern European markets. We don't expect any massive improvement there and nor do we expect any massive change to the competitive dynamic. I think it's too early to judge any long-term trends there.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Simon Weeden from Citigroup. May we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yes, thank you very much. I wondered if I could ask you a couple of questions. One is on the improved trend on German line loss where you attribute that to and whether or not we can expect that to be sustained or even get better from here? And the second is whether you could elaborate a little bit on your comments which were played on the wires on Southeastern Europe and the improvements there in terms of the operating environment, I mean?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>The line losses in Germany we expect the positive trend stabilization to continue. However, we still foresee line losses for the years to come that are strongly driven by regulation, of course, and cannot be stopped by us alone.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I think the question on Europe more or less has been answered, Simon. Some visible turnaround in Hungary, Slovakia, Czech Republic and Bulgaria; but still very, very difficult situation in Greece, high unemployment, 15% official number; Croatia, 18% official number. And the recovery in Greece, we don't foresee before 2013. So, not a fundamental change, but some early signs of recovery, and at the same time, Greece remaining difficult. I think that's the environment, as I would describe it.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Matthew Bloxham from Deutsche Bank. May we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Yeah. Good afternoon. Just one question on the fiber-to-the-building/home project. Could you just give us a bit of an update on where the biggest uncertainties are around your developments there? Is it still that you're trying to find the right business model or is it more around regulatory uncertainty or how other participants in the market are prepared to kind of co-invest or cooperate with you? Can you give us some update on those things.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Absolutely. Look, we want to be prudent with regards to how we invest money, because we learned a couple of lessons from the past. And therefore, we've decided to go on a strategy before the FTTH rollout which has a number of preconditions before we roll out. A, we're talking to the cities or the local communities with regards to cooperation, right. We need access to the infrastructure, to ducts and so forth to reduce the build-out cost.</p>
+          <p>B, we have decided not to build out before we don't have a certain level of interest or even pre-sales secured. So, our sales troops go out and try to acquire in the vicinity of 10% of the people there before we start building out. Then we look for co-investment. So, we have a fairly rigid approach to the FTTH build-out when it comes to the next years rather that just building it out blindly and then, thereafter, hoping for some miracle and then sell it later.</p>
+          <p>So, we try and paralyze &#x2013; parallelize, I think is the right word, sales, marketing and build-out in a better way that in the past. Does it mean it's always going to be 100% pure and according to schedule? No, but that's the directional statement I'm making here for the future in the investment for the fiber network.</p>
+          <p>Also, we have put together a paper towards the European Commission which foresees 11 points. I'm not going to read them out to you all, but those 11 points mainly are designs to improve the investment framework and they are mainly designed to allow, for instance, for quality of service and differentiated pricing; they are designed to give us symmetrical open access to existing infrastructures and other things which improves the investment environment.</p>
+          <p>So, it's a difficult case, admittedly. We are still trying to go into it, in to fiber and we've started and we will continue to build it out but we try and do it in a more &#x2013; let's say in a more smart way that potentially networks were built in the past.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Hannes Wittig from JPMorgan, may we have your question please?</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Yes. Good afternoon. I have two quick questions. The first one goes back to your comments &#x2013; earlier comments, Tim, related to OTE. The last bond OTE issued was at 7.25% and credit markets have since become tougher; so the question is whether in the future you will be &#x2013; DTE will be may be funding OTE more directly or might this be subject to the same conditions that you outlined earlier and is there a contra scenario even where you would consider disposal of your current stake in OTE? So, that's the first question.</p>
+          <p>The second question probably easier related to your CapEx budget for the year, just wanted to see given your run rate is a little bit lighter than maybe it looked at the Q1 stage and I accept seasonality, but is there a scenario where you would spend, let's say, quite a bit less than last year for the full year 2011? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>So, with regard to OTE, I think we had issued a bond &#x20AC;500 million with a duration of three years with a coupon of 7.25%, that was let's say the refinancing and then we have the credit facilities in place. So, for the remainder of this year &#x2013; so, even for 2012, there are no additional refinancing needs for the OTE business.</p>
+          <p>Then we might have another refinancing round in 2013 but there is still some time to go. I think it was a wise decision to force the OTE management already at the first instance into an own refinancing because it should be not the Deutsche Telekom shareholder, being let's say immediately the last resource for lending here. And therefore, the outcome was that we had huge cash upstream within the organization that we are reducing overall debt in the Group, and that the company is refinancing their needs on a standalone basis.</p>
+          <p>By the way, which was easily possible, I was surprised how quick and successful OTE management got this refinancing without support of Deutsche Telekom. If your question would be what would be in the worst-worst case, if there would be no refinancing for OTE? Then the question is &#x2013; the answer is quite simple, yes, definitely, we are the last resource for OTE, as being let's say the company controlling OTE and full consolidating the company. But whatever we do, we will not do that on the expense of Deutsche Telekom shareholder. We will always do that at arm's length basis with the applicable interest rates, which we might then see in 2013 or beyond.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Thomas Friedrich with UniCredit, may be ask your question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Yeah. Good afternoon. I'd like &#x2013; hello. I'd like to come back to the German mobile market for a moment. You have already described a little bit some tariff action that has been done, mentioned &#x2013; yeah, resellers, a stronger focus on resellers. I wonder when looking at your performance with business customers, we saw Q-on-Q a slight decline in the contract ARPU to &#x20AC;34 from &#x20AC;35. This is in contrast to the trends at consumer where you had an increase.</p>
+          <p>The question for me is, do you have special initiatives for business customers in mobile going forward that will unfold throughout the year and, yeah, if you could elaborate a little bit on that strategy? And second question with respect to your push for lower end smartphones that you described; do you have certain specific partners that provide these smartphones i.e. are they branded T-mobile or are they branded by the manufacturer? That would be my questions Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Okay. Let me first answer the question on business customers. You're right, there is a slight decrease in the business segment driven by some very strong price competition on the mobile business side. And a decrease in traditional voice access of about &#x20AC;32 million. It's only partly offset by broadband connections. Our strategy here is to focus on the integrated solution we have launched Deutschland LAN which offers a fixed and mobile converged product which also offers a excellent platform to upsell services like Cloud computing, software-as-a-service. So, a full service suite to our customers.</p>
+          <p>Secondly, we have gone through a reorganization in the sales areas which for &#x2013; specifically, for business customers which allows us to go for a much more effective approach of our business customers based on the potential there is in customers and not anymore on the size. As to your question on the lower-end priced handsets, they will not be T-Mobile branded. We will work together with our usual branded partners in the handset area.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>That is the German perspective Niek gave you. And internationally, the picture is a little mixed. In the U.S., we do both. We have branded and non-branded devices. And also, now, as you know, companies like HTC have started to build their own brand &#x2013; end user brands. And from my point of view, it's actually going quite successful.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Hannes, I'm sorry. I was interrupted to giving you the answer on the CapEx side here. But very straightforward, we have seen something exactly &#x20AC;4 billion of CapEx in the first half of the year. And we expect the same amount for the remainder of the year. So, that will be something in the round of, let's say, what we have seen last year.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. James Britton from Nomura. May we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thanks very much. I've got two questions, please. Firstly, you mentioned that customers moving to the new tariff plans have diluted your revenue growth a little bit. Can you, perhaps, be precise about the impact that's had this quarter? And then, longer-term, should we expect the move to flat rate pricing to continue to have a negative effect on your revenue base for the next few years?</p>
+          <p>And the second question, can you just explain why voice MOUs were down 7% in the Dutch market, if data substitution is not really an issue for you in this market? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Let me start with Germany. I don't have the precise numbers here for the diluted ARPU in new price plans. On an MRC [monthly recurring charge] basis, some of the tariffs go down almost 20%, but as I said, it's not just MRC basis, much is included in the bundle itself. And as we've become more successful in selling additional options to the price plan, I can't give you the latest number of ARPU. That's to the German side.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Okay, to the Dutch side, voice usage is down for mainly the following reasons; we've been approaching in addition mid and low-end contract customers in the last quarters with lower average usage. And consumers have free minutes in bundles which now can roll over to following months, so the budgets usually once they're not &#x2013; if they're not used up by the end of the month, they can be rolled over. That has an impact.</p>
+          <p>And also, we had some churn from business customers due to a network outage in March that made us lose some valuable customers which we need to gain back. So, but other than that, we gained strong momentum in data revenues since 2010 and there is no significant erosion in SMS or in voice revenue visible due to data revenues at least. So, there is some good news in the Dutch market as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. John Karidis from MF Global. May we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thank you very much. I have got two questions please and the first one regards the dividend; if you were to go through the approval process once but pay the dividend quarterly, do you think that that might help reduce the stock volatility a little bit? And what would be sort of the main challenges in doing something like this, if you wanted to do this?</p>
+          <p>And then secondly, as far as Germany is concerned and cable, as cable continues to win market share, given that a cable customer doesn't even generate wholesale revenue for Deutsche Telekom, do you think you are coming to a point in time when you have to rethink the balance between your retail and your wholesale strategy and where do you think this might go from here? Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>So, let me answer the first question on the dividend. First, we stay committed to our policy here. And second, under German law, it's impossible to pay out the dividend on a quarterly basis. So, therefore, even if I would like that, it is unfortunately not possible.</p>
+          <p>And we are very much monitoring as well the volatility of the share and if you could look over the last two years since we have announced our policy with regard to the share remuneration, the volatility significantly got reduced. So, therefore, I think we are on a right track and we have long-term investors in the stock and we have a commitment with regard to the remuneration policy.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Yeah, when it comes to cable competition, look, take &#x2013; bring things into perspective please. Our market share is still around 45% in broadband and we had something around 33%, 34% share in the second quarter. We could have done more if we had been even more aggressive on the price plan side. But so far, the total market didn't grow that fast. And we had 85,000 net adds in DSL and I think cable had somewhat more, but not to an extent that we felt pressured to bring the whole pricing further down.</p>
+          <p>We try to maintain a good balance between profitability and market share. We're not just focusing ourselves on market share. We try to keep a good balance. And therefore, our strategy &#x2013; our retail strategy to really focus on retail and the entire service experience to our customers serves the right strategy.</p>
+          <p>And where to go from here is clear. We need to improve our network availability in the technology mix from LTE on wireless in the countryside to fiber in those areas where we are now building it and where we get cheap &#x2013; a fairly cheap way to build it and where we can afford it.</p>
+          <p>So, the technology mix, the good entire service experience, devices, price plans, all that is a mix of elements, which make our offers very attractive against cable. We will continue to fight the cable guys. We will not look and stand still. If they should increase further their market share, then we'll fight back. But for the time being, we are doing okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Justin Funnell from Credit Suisse. May we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Thank you. A couple of questions, please. Just in Germany, I just wondered, if you had any more progress to share with us in terms of focusing on the housing associations and winning any contracts to essentially replace the cable operator there?</p>
+          <p>Secondly, this price restructuring process in the Netherlands is very encouraging. I was wondering if you could see any other markets that you operate in, that you could follow the same routes in terms of price increases at the margin? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>For Germany on the Housing Associations, I, unfortunately, don't have news for you to announce. I can tell you that we are majorly investing in and a lot of talks with the housing associations. There is a huge interest, as you can imagine, they want to get rid of the monopoly of cable. And I expect announcements very soon; had hoped to do today, unfortunately still need some of your patience. Meanwhile, we are further investing. We have hired the best people in the market and we're definitely determined to make an inroad in the housing associations to going to the potential &#x2013; in the profit potential, the profit pool of television, and also of course as a basis for selling fiber in the future.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Okay. I think from strategic point of view, these pricing developments, nothing wrong with it. It seems to make sense, you know, in some other markets, we've already introduced such offers within Europe, and so we are also considering to launch such offers in other countries. So, it seems to make sense from our point of view, but let's see how the competition develops there.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Paul Marsch from Berenberg. May we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Yeah. Thanks. Just with respect to the U.S. deal. There have been some high profile objections to the deal. For example, Senator Herb Kohl of the Senate Antitrust Committee and Senator Al Franken of the House Judiciary Committee. Do those objections worry you or should we regard them simply as noise in the approvals process?</p>
+          <p>And then also, <mark type="ph" /> away from the U.S. deal, (62:01) you say that you're reviewing your post U.S. strategy including the domestic fiber strategy. I am just wondering if the level of ongoing CapEx or the CapEx envelope post U.S. is under consideration or would it just be the balance of CapEx within that current envelope?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>All right. The U.S. situation first. I would suggest, you know, we also have high profile support and quite a number of very senior people now have expressed their public support, amongst them 26 governors in the United States, unprecedented for such a deal, 11 attorneys, if I am not mistaken and also I think 36 or so Democratic members of the House of Congress and &#x2013; the House of Representatives and also some Senators. So, &#x2013; so, there is indeed a lot of support also from the unions which we consider, you know, very important in this regard, from consumer organizations, from minority groups, from businesses, state officials, other companies of the industry.</p>
+          <p>So, there is a high degree of support. The process between ourselves, AT&amp;T and the Department of Justice and the FCC is ongoing. There is enormous amount of information which we have provided and it's no surprise that it takes time to analyze those information and we expect therefore the transaction to get approval in the first half in 2012 as we always said. So far, according to schedule and we believe this will get approved. That's what our experts say by the way.</p>
+          <p>So, what was the other question? CapEx envelope after the U.S. I'm afraid it's far too early to answer. You know, we'll do what is right for our business and where the investments currently in the organic business are focused on is clear, which is basically LTE and to some extent, expansion of the fiber network and so forth. So, but anything else, we'll talk to you in due course.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Ladies and gentlemen, the conference is about to end. So, if you still have further questions, we kindly ask you to contact the Investor Relations Department.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Yeah, thanks a lot to all listeners in Europe and the U.S. As far as I'm informed, there is still about five people who wanted to ask questions, we'll come back to you personally after the call from the IR department. Thanks a lot. Have a good day. Bye-Bye.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

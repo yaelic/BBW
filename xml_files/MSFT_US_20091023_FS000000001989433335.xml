@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1247500" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q1 2010 Earnings Call</title>
+    <date>2009-10-23</date>
+    <companies>
+      <company>356</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Bill Koefoed, General Manager, Investor Relations</participant>
+      <participant id="2" type="corprep">Christopher Liddell, Chief Financial Officer</participant>
+      <participant id="3" type="analyst">Adam Holt</participant>
+      <participant id="4" type="analyst">John DiFucci</participant>
+      <participant id="5" type="analyst">Sarah Friar</participant>
+      <participant id="6" type="analyst">Brad Reback</participant>
+      <participant id="7" type="analyst">Philip Winslow</participant>
+      <participant id="8" type="analyst">Kash Rangan</participant>
+      <participant id="9" type="analyst">Heather Bellini</participant>
+      <participant id="10" type="analyst">Todd Raker</participant>
+      <participant id="11" type="analyst">Sandeep Aggarwal</participant>
+      <participant id="12" type="analyst">Robert Breza</participant>
+      <participant id="13" type="analyst">Katherine Egbert</participant>
+      <participant id="14" type="analyst">Brendan Barnicle</participant>
+      <participant id="15" type="analyst">Tim Klasell</participant>
+      <participant id="16" type="analyst">Gregg Moskowitz</participant>
+      <participant id="17" type="analyst">Richard Williams</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Welcome to the Microsoft First Quarter Fiscal Year 2010 Earnings Conference Call. At this time, all participants are in a listen-only mode. <mark type="Operator Instructions" /> Today's call is being recorded. If you have any objections you may disconnect at this time.</p>
+          <p>I would now like to turn the call over to Bill Koefoed, General Manager, Investor Relations. Sir, you may begin.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, Barb , and thanks everyone for joining us this morning. As you know, yesterday was a significant day at Microsoft with the launch of Windows 7 and Windows Server 2008 R2. We hope you were able to see and participate in some of the exciting launch activities held around the globe.</p>
+          <p>As usual here with me are Chris Liddell, Senior Vice President and Chief Financial Officer; Frank Brod, Corporate Vice President and Chief Accounting Officer; and John Seethoff, Deputy General Counsel. Today Chris will start with takeaways from the first quarter of our 2010 fiscal year. Then I'll get into the details of the quarter before handing it back to Chris who will discuss our business outlook. After that we'll take your questions.</p>
+          <p>We filed our Form 10-Q this morning. In addition we posted our quarterly financial summary slide deck which is intended to follow the flow of our prepared remarks as well as provide a reconciliation of differences between GAAP and non-GAAP financial measures. You can find these documents at the Investor Relations website at microsoft.com/msft.</p>
+          <p>Today's call will be webcast live and recorded. If you ask a question, it will be included in our live transmission, any future use of the recording and in the transcript which will be posted on our website. You can replay the call and view the transcript at the Microsoft Investor Relations website until October 23, 1010.  This call is protected by copyright law and international treaties.  Unauthorized reproduction or distribution of this call or any portion of it without the expressed written permission of Microsoft may result in civil and criminal penalties.</p>
+          <p>We will be making statements during this call that are forward-looking. These statements are based on current expectation and assumptions that are subject to risks and uncertainties. Actual results could differ materially because of factors discussed in today's earnings press release and the comments made during the conference call and in the risk factor section of Form 10-K, Form 10-Q and other reports and filings with the Securities and Exchange Commission. We do not undertake any duty to update any forward-looking statement.</p>
+          <p>I want to point out one last thing before I turn the call over to Chris. With the recent move of Windows Live we changed the name of Client division to the Windows and Windows Live division. During the call we will refer to this business as the Windows division. Okay Chris, the call is yours.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks, Bill, and good morning, everyone. The results for the first quarter were strong, particularly on an adjusted earnings per share basis primarily as a result two main factors. Consumer demand for our Windows and Xbox products combined with excellent cost controls. This result was achieved despite relative weakness in business spending, which has yet to see a broad-based recovery. Having said that, it is showing signs of stabilization at lower levels and while it is too early to tell, the fourth quarter of fiscal 2009 may well have been the bottom of the economic reset.</p>
+          <p>Looking at the broader picture, at our Financial Analyst Meeting in July, I articulated our approach to what we described as the new normal around five major shareholder value strategies: Maximizing cash flow, streamlining our cost structure, driving operational excellence, capturing market share and investing in innovation. I'm very happy with our progress in each of those five strategies during the quarter.</p>
+          <p>For example, operating cash flow was $6.1 billion in the quarter, which is a terrific result given the economic conditions are still challenging. We resumed our share buy-back program with 1.4 billion of shares repurchased in the quarter, retained our $0.13 per share dividend and built our net cash and investment balance to over $33 billion.  During the quarter we also continued to focus on our long term cost structure. We realized a 10% decrease in operating expenses over the prior year, due to a lower number of people employed, lower cost per person, lower vendor spend and lower marketing costs. Our head count at the end of the quarter was 4% lower than at the same time last year, the first time that a reduction of that significance has been achieved in the company's history.</p>
+          <p>Over the last three months we've continued to show great operational excellence with not only the successful launch of Windows 7, but also the Windows Server 2008 R2 global launch yesterday and recent release to manufacturing of Exchange 2010.</p>
+          <p>In market share, while it's early days, we're very happy with the progress of our search engine Bing and other notable accomplishments during the quarter include the continued gains in Windows Server, System Center management tools and Xbox Live. Despite the focus on costs, we've continued to invest in innovation and this year to name a few, we will released Windows Azure, SharePoint 2010, SQL Server 2008 R2, Office 2010 and continue to deliver innovations in Bing.</p>
+          <p>So in summary I'm very happy with both the short term quarterly financial results and our progress on the factors that we believe will drive long term success. So with that, I'll provide more color on our outlook after Bill gives you some additional details on the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks, Chris. I'll start with the company overview and then go through revenue performance for each business units. All of my comments are adjusted for the 1.5 billion of revenue deferred this quarter from both the Windows 7 Upgrade program and Windows 7 licenses sold in advance of general availability. Keep in mind that this is non-GAAP view and all GAAP non-GAAP reconciliations can be found in our slide deck. All growth comparisons relate to the corresponding quarter of last year, unless I specify otherwise.</p>
+          <p>Overall, revenue was down 4%, because of continued weakness in global demand especially in the business segment. This was a positive result considering the macroeconomic environment and as Chris noted earlier, we were pleased with the strength of consumer demand, particularly for our Windows and Xbox products.</p>
+          <p>Foreign exchange headwinds had a $233 million or about 2 percentage point impact in the first quarter. This quarter our product billing mix was roughly 35% annuity, 30% OEM, and 25% license only with the balance coming from our other businesses. Enterprise agreement renewals were in line with our expectations and our multi-year annuity revenue grew low single digits in line with our outlook last quarter.</p>
+          <p>In terms of geographic mix, revenue in the U.S. driven primarily the consumer demand was relatively strong compared with other regions. Unearned revenue again adjusted for Windows 7 was down $13 billion, down slightly from last year. Our contracted not billed balance was over $13 billion, in line with last year.</p>
+          <p>Now let's move onto to our thoughts on the PC market. PC hardware demand improved significantly. On a sequential basis we estimate the PC market was up mid-teens. Year-over-year we estimate the market grew zero to 2%. We estimate consumer PCs grew mid single digits from last year primarily due to growth in netbooks. This quarter netbooks represented about 12% of the total PC market, similar to the mix last quarter and represented significant growth over the prior year.  Business PCs declined high single digits year-over-year but were up sequentially.</p>
+          <p>Now with that backdrop, let's move onto the revenue and business drivers by segment beginning with Windows division. Overall, OEM unit sales increased 6% from last year, several points over the PC market, due to higher attach and some inventory build in advance of Windows 7 launch. At our Financial Analyst Meeting in July, Steve shared with you a slide that bridged the change in the PC market to OEM revenue growth. We've included the first quarter bridge in our slide deck.</p>
+          <p>To start, OEM revenues decreased 6% from last year. Changes in segment mix represented a 7% decline in OEM revenue from the prior year. This was due to the PC market dynamics I discussed earlier including continued growth in netbooks and the overall higher mix of consumer PCs versus business PCs.</p>
+          <p>Windows attach and inventory represented a 4% increase. Attach rates increased year-over-year due to strong attach gains on netbook and a continued shift to multinational OEMs which reduced piracy. Other items represented 3% decrease due to the shift toward multinational OEM and the wind down of the Windows XP revenue deferral.  The Commercial, Retail and Online portion of Windows division was up 2% primarily driven by presales of Windows 7.</p>
+          <p>Now let me touch on some sequential trends. On a sequential basis, OEM units increased 19% or about three percentage points faster than the overall PC market. OEM revenue meanwhile increased 20% sequentially and as you can see, exceeded OEM unit growth. To put the quarter results in perspective, Q1 represented the highest number of Windows licenses sold in one quarter ever. And September was the highest single month of Windows unit sales ever. In summary, it was a very solid quarter for the Windows division and with Windows 7 we have a great product for the recovering PC market.</p>
+          <p>Now let's move to Server and Tools. In general the conditions from the fourth quarter remain unchanged. We had a strong attach of Windows Server, SQL Server and System Center. As a result, our License Only and OEM business declined less than the 20% drop estimated for the underlying x86 server hardware market. Annuity revenue was up single digits in line with the outlook we gave last quarter. FX rate changes were a two percentage point headwind to revenue. As I mentioned earlier, we launched Windows Server 2008 R2 to the market yesterday. We believe the virtualization and management capabilities offered are currently the best value in the marketplace and we are excited by the enterprise enthusiasm for this product.</p>
+          <p>Moving onto the Online Services division. Online advertising revenue was down 3% but included a three point FX headwind. While we experienced continued growth in page views, display revenue was weighted down by industry-wide year-over-year declines in advertising rates. On a sequential basis however, rates seem to be stabilizing.</p>
+          <p>In the U.S., search revenue was up mid single digits despite industry-wide monetization declines in the quarter. We continue to make search share gains with Bing, with share in the U.S. up every month since the June release. In July we signed a commercial agreement with Yahoo! to further gain scale and momentum in the search business. We are working through the regulatory review process and continue to be hopeful the deal will be approved early in calendar 2010.</p>
+          <p>In addition, earlier this week with we announced strategic partnerships with Facebook and Twitter. These partnerships demonstrate our continued search innovation and specifically with social media and real-time content.</p>
+          <p>Moving on, Microsoft Business division revenue was down 11% due to declines in both business and consumer spending. FX rate changes were a two percentage point headwind to revenue. Business revenue was down 4% reflecting weak business PC sales. Within that, annuity revenue was up low single digits in line with the outlook we provided last quarter while license only sales declined over 20%.</p>
+          <p>Consumer revenue which includes the OEM and retail portions of this business declined 34% driven by tough inventory comps over last year due to prior year pricing promotions and lower attach from the continuing shift to lower priced PCs I discussed in my Windows division commentary. Within MBD, we continued to see double-digit growth in SharePoint, Office Communications Server and our CRM products.</p>
+          <p>In the Entertainment and Devices division, while console revenue was impacted by price cuts and volume decline, overall gaming revenue was up almost $100 million. Halo 3 ODSP was the number one selling title console title in the U.S. last month along with five other Xbox 360 games in the top 10. With a worldwide install base of almost 34 million consoles, Xbox 360 continues to lead the industry with an 8.7 software title attach rate.</p>
+          <p>Xbox Live also contributed strongly to the quarter's performance with revenue growth in excess of 50%. We believe consumers will be excited by the richer multimedia enhancements and integration with social networks that we are delivering this fall.</p>
+          <p>Now, for the rest of the income statement. Cost of revenue was flat at $2.8 billion, driven by increased search distribution and online costs which were offset by lower Xbox 360 console costs and service and support costs. Operating expenses decreased 10% to 5.6 billion driven by reductions in head count, head count related expenses and vendor costs. Diluted shares outstanding were about 9 billion, down 2% from the prior year. This quarter we repurchased $1.4 billion worth of shares and paid $1.2 billion of dividends.</p>
+          <p>Adjusted earnings per share was $0.52, an 8% increase from the prior year. Cash flow from operations was $6.1 billion.</p>
+          <p>So to wrap up, while business spending and the macroeconomic environment remained challenging, the consumer segment performed better than expected and Windows 7 is off to a great start and we feel terrific about our execution this quarter. With that, I'll hand it back to Chris who is going to discuss our business outlook.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks, Bill. The remainder of this call, I'll discuss our expectations for the second quarter and the remainder of fiscal 2010 starting with our assumptions for the industry. Overall, the corporate IT spending trends we discussed in July remain intact. In our conversations with CIOs, many remain cautious about existing budgets and spending through the end of this calendar year.</p>
+          <p>However, we believe calendar 2010 has the potential for improvement. Given the industry backdrop we're extremely well positioned due to the strongest product cycle in our company's history, and also continue to believe we will exit the economic reset a much stronger, more focused and cost efficient company.</p>
+          <p>Turning to segment expectations, in the second quarter, we expect that the Windows division revenue, excluding the impact of the Windows 7 upgrade program to be in line with overall PC market growth. With the launch of Windows 7, we expect inventory to rebuild in the channel and an increase in retail sales. This should offset the three hardware trends we've seen in recent quarters, which are netbooks growing faster than non-netbook PCs; consumer PCs growing faster than business PCs; and emerging markets growing faster than developed markets.</p>
+          <p>In the second quarter, we expect to recognize virtually all of the $1.7 billion of Windows 7 Upgrade revenue deferrals from the last two quarters. For the balance of fiscal year, we expect Windows division revenue to remain in line with or slightly ahead of the overall PC market growth, with the main variable being the pace of business PC improvement. We see the potential for a corporate PC refresh cycle beginning in calendar year 2010, although it could be gradual and occur over a couple of years. We also expect the netbook mix to stabilize over the course of the year.</p>
+          <p>In the second quarter, we expect Microsoft Business Division dynamics and revenue trends to be largely the same as they were in the first quarter with growth lagging PC shipments due to the factors Bill mentioned in his commentary. For the full year, the Consumer and Business non-annuity revenue, approximately 40% of the total, should face the same trends as in the second quarter. With increasing pressure in advance of the next product cycle and as such continue to lag PC shipments. We continue to expect annuity revenue representing 60% of the total to be broadly flat for the full year.</p>
+          <p>As I called out last quarter, MBD results should improve when we start to see business spending recover combined with the impact of Office 2010. The server and tool business is most closely aligned to enterprise spend. We expect the server shipment trend to gradually start to improve towards the end of our fiscal year. We expect non-annuity revenue, which is approximately 35% of the total, to move generally in line with server shipments for the quarter and the year, and annuity revenue will be mid single digits, while services should be flat for the year.</p>
+          <p>In the Entertainment and Devices division, although we realized upside from our first party gains in the first quarter, remember we did release two significant titles in the second quarter of last year, which should cause difficult year-over-year comparisons. We therefore expect E&amp;D revenue to decline several points in the second quarter, but we expect the full year revenue to be roughly flat as price cuts taken in August are offset by attach revenue and a larger console install base.</p>
+          <p>Turning to cost of goods sold, driving cost out of our operations plus a more favorable revenue mix resulted in a better performance there, and we now expect COGS as a percentage of revenue to increase only one point this year, compared to the two that we discussed at last call.</p>
+          <p>With operating expenses, we also continue to make excellent progress. We're lowering our guidance for the full year to a range of 26.2 to 26.5 billion, down from what we said in July. This decrease however also absorbs an additional 100 to 200 million of Yahoo! integration costs should the deal pass regulatory review.</p>
+          <p>We will continue to look for additional cost savings opportunities, both in cost of goods sold and in operating expenses through the rest of the fiscal year. We expect CapEx to be at most 2 billion for the year and the tax rate to be 25%.</p>
+          <p>So in summary, I feel great about how we're executing, given the economic reset that we've been through. We're driving excellent cash flow, product innovation and continued cost discipline. More importantly, our strategies will position us to take advantage of a recovering economy, which we should hope &#x2013; which we hope to begin in the next calendar year. The ensuing revenue growth combined with continuing cost discipline will set us up for long-term earnings per share growth and a significant return of shareholder value.</p>
+          <p>So with that, let me take your questions and I'll hand back to Bill.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks, Chris. We want to get to as many questions as possible from you, so please stick to one question and avoid long or multi-part questions. Operator, please go ahead and repeat your instructions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" />.  Our first question comes from Adam Holt with Morgan Stanley.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Hi, good morning, and congratulations on the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks, Adam.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>My question is about average selling prices for Windows. You actually saw premium mix increase sequentially. I was wondering, where do you think premium mix can go as you get deeper into the Win 7 cycle, and when would you expect average selling prices to actually start to be additive to the Windows revenue story?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, in terms of the premium mix, clearly that's going to change with the SKU structure that we have in Windows 7, and I think we'll start to see a better &#x2013; in terms of that statistic, a better number going forward, simply because we won't have Home Basic in the developed markets, so we're going to see a much better Home Premium mix.</p>
+          <p>In terms of how that feeds through to financials, which I think is the main point, we'll start to see it improve better, but in particular we'll start to see it better when we get a better business PC mix. And to date, we've been clearly seeing a headwind in there, and hopefully next year as we start to see a business PC refresh cycle, we'll start to see a better mix there, but that average selling price, which in the last year has been probably a negative, I would expect to turn neutral or even slightly positive as we go through the year, Adam.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Terrific. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Operator, next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next is John DiFucci with J.P. Morgan.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Thank you. Chris, it looks like you saw some benefit from channel inventory build this quarter after three quarters of sort of, I think it was a net negative contribution in the last three. You mentioned you expect inventory to build in the channel, I think going forward here. Just curious, how much more is there before we start to get to what you might consider to be sort of, I guess "normal" inventory if there is such a thing. Do we have another quarter or another couple quarters, or is this something that can be a net positive for, I don't know, the next few quarters?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, I think it will be a net positive throughout the year. Simply because, channel inventory builds and then even if it just stays at that level, it will be positive relative to a low level that was throughout last year, so we don't need to see any additional build from what we saw for it to be a year-on-year mathematical benefit. So I think it's going be a benefit right through the year. Whether it continues to get even better again, we'll see, and that's going to depend clearly on the demand that OEMs see through the Christmas period.</p>
+          <p>What we saw &#x2013; and you're certainly  right, it was last year as the economy contracted, people clearly reduced the amount of inventory we had, so we not only had lower demand, we had lower inventory holdings. We saw that reverse in the first quarter. But we have only got back to what I've described as normal levels. We haven't got an excess of inventory in the channel, although clearly it's dependent on demand. So we've got back to a normal level. If we stick at that, it will be a year-over-year benefit. If we get good sales and good sell through of Windows 7-based PCs, which we're expecting, we could see some additional channel build as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Operator...</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Operator, next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And next is Sarah Friar with Goldman Sachs.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Good morning, and good quarter. Just to switch gears a little over onto Online Services, you talked a little bit about the timing of the Yahoo! transaction and the expectation that the cost is in the cost guidance you've given. Can you give us color, Chris, on what you're expecting on the top line add for Yahoo! and then any other kind of one-off cost? I know that Steve had mentioned a few way back on the Yahoo! call.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Sure. The 100 million to 200 million that I mentioned in my commentary is the cost, and that includes all of what I've described as one-off costs. They're setup costs in anticipation of migrating over, so that would be the total and that will clearly depend on when we get regulatory review, assuming that we do, and how quickly we can implement. So there is a range there. On the revenue side, there will be virtually no revenue contribution this fiscal year, so all of those costs will be &#x2013; it would be like one-off startup costs that we will incur this year in anticipation of revenue contribution in fiscal year '11.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>And fiscal year '11, I know you're not guiding for it, but just to put some boundaries around it. What sort of size are you thinking about for Yahoo! right now? We see it about a $360 million type contribution based on what they've been doing. To put you on the spot.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah. <mark type="inaudible" /> It will be hundreds of millions, but it's not going to be more than that or less than that, so you're in the right order of magnitude. I can't be more specific than that on this call.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Okay, I appreciate it.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Operator, next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And next is Brad Reback with Oppenheimer.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Hey, guys, how are you?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Hi. Good, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Chris, on the last call on the COGS side of the equation, you talked about undertaking an internal program to focus on driving down costs. Obviously some of that is showing up here in the guidance going forward. Can you give us a sense of how far through you are with that program and if there's meaningful gains to be had from this point forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Certainly in the cost of goods sold area, I see that really as a journey that never ends, so that's something that we're going to focus on year after year after year now, and certainly in good manufacturing discipline. A lot of it is manufacturing hardware COGS. That's the sort of approach you should take. So I don't &#x2013; certainly we've embarked on a project which has made some significant difference in the short term, and you're right, we're starting to see some benefit of that feeding through this fiscal year. So I'm really happy with the progress that we've made, but that's not going to be a one-off where we just do it this year and then we stop. That's going be something we will look to continue the disciplines that we've brought in place in the last six to nine months.</p>
+          <p>So definitely getting some short term benefit, definitely start &#x2013; you'll get some this year. I wouldn't promise a lot more than we are starting to guide to, because I think we're fairly accurate on what we're likely to achieve this year, but I'd like to think that's a program that we can perpetuate next year and the year after and really in perpetuity there afterwards.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Great. Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Operator, next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next is Phil Winslow with Credit Suisse.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Hi guys. Just a question on the Server and Tools division. Clearly there is a tie to server shipments, but as you look out over the next couple quarters and with your commentary on just general enterprise spending, when do you think we can actually see the inflection point in that line item, and how should we think about the services component of that division to you, relative to the license as well? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, sure. I'll stick to external forecasts on the underlying server demands, and most of the external forecasts are seeing it improve from around now through to next year, so we would expect &#x2013; and we subscribe to that &#x2013; we would expect it to get less negative as the year goes on and start to improve through next calendar year.</p>
+          <p>The benefit we're seeing there is mainly like in market share. So we've got great attach relative to the server market. So as it starts to improve, we'd see the non-annuity component of our revenue start to improve as well, so that should be an evolving trend through the rest of the fiscal year going the next calendar year. How quickly that will happen, we'll see. I think we're all waiting to see how well the economy rebounds when it does. We're still as I was at the July Financial Analyst Meeting, still on the relatively conservative side. We're not seeing a large rebound but we'd like to think certainly as we go into next calendar year, we'll start to see businesses spending again and we'll be raised with that, with good attach.</p>
+          <p>On the services side, it's going be pretty flat. I wouldn't expect that to bounce back quickly. So, you know, a flattish expectation on the services side. Certainly through the rest of the fiscal year and going into the next one would be my starting point.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thanks. Operator, next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next is Kash Rangan with Merrill Lynch.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Hi. Thank you very much. Chris and the rest of the team I was just wondering what are you hearing from corporates. We've been spending some time talking to large corporates that are deploying Windows 7. Looks like deployment plans are coming in a little bit earlier than expectations at least in their standpoint, hearing of the business benefits of deploying Windows 7. I'm just curious, what are you hearing about the upgrade cycle for Windows 7 in the corporate. Because I would imagine that's got a pretty significant implication for your Business Premium mix going into next year because of all the lift you are getting in the near term seems to be from consumer side.  And also secondarily, wondering if you can comment on the shrink wrap Business pre-orders from the Consumer channel for Windows 7. That's it. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah. On the Business side, you're right. Anecdotal feedback is certainly good at this stage from corporate in terms of their reaction to Windows 7 and the benefits it brings. We're still staying reasonably cautious about the upgrade cycle. Certainly we expect it to begin next year, but we talk about it spreading over maybe a couple of years. So I would like to think that we will start to see much better business PC numbers year-over-year next calendar year and I think we've been consistent on that on the last couple calls. And we're still there. All of the feedback that we get, so far is positive.  And so that supports a view that we'll start to see that. How quickly that will happen, we're not going speculate quite yet but certainly there's &#x2013; all the early signs are good at this stage.</p>
+          <p>On the shrink wrap or SVP side. Again we only launched yesterday so it's a little hard to tell because people are buying in anticipation of demand as opposed to actual demand. But again, the...</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>You have pre-order. You are taking pre-orders on Consumer side for that right?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah. Sure that has been very good. But that's small. That's small. But that's been extremely good I would say, that being right at the top end of our expectations.  A modest financial impact, but extremely good sort of reaction, so that has been extremely good.  And the sales in retail, we're expecting through the next three months to be very good.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Great. Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Operator, next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And next is Heather Bellini with ISI Group.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Hi.  Thanks, guys, and good morning. Chris, you guys have done a phenomenal job on the cost side surpassing everybody's expectations. I was wondering if you could give us your view on whether or not it makes sense think OpEx in fiscal '11 might grow at the rate of inflation just as a general proxy, especially given the big bear stories that Microsoft will start accelerating its investments and OpEx will start ramping again once top line starts to improve. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>This is the earliest ever for fiscal '11 guidance I think. Okay. I don't see &#x2013; I really don't want to give a specific number, but I don't see any internal force that is going to significantly increase OpEx in fiscal year '11 at this stage. I think the disciplines that we put in place are going to continue at least for that period of time. And whilst we'll clearly be looking to fund some projects so I'm not going to say it's flat.  I don't see it ramping back to anything like what you might have seen before the economic reset in terms of growth. And particular, because at this stage we're still relatively cautious about the economic rebound. So I think the fiscal discipline that you have seen will continue certainly for the next let's say 12 to 18 months. Now, I caution you with the obvious comment we're just about to go into our strategic planning round which then goes into budgeting round. So that's a directional comment. That's not a specific guidance at this stage.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Operator, next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next is Todd Raker with Deutsche Bank.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Hey, guys.  Nice quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Could you dig into the ASP impact a little bit more in depth on the netbook side. As you see the OEMs moving from an XP SKU to a Win 7 Starter Edition, what does that do to the economics of the low end of the business and how do you think that trends out over the next 12 to 18 months?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I'll start with the consumer reaction because that's the sort of leading indicator. How do we feel about this consumer reaction to specifically having Windows on a netbook, obviously that's been phenomenal going from zero attach to in the mid 90s. So people are clearly willing to pay for having Windows on their netbook. So that's the sort of first and most important fundamental. Then in terms of Windows 7 reaction, clearly yet to see. But early indications in terms of the OEM build that we're having and the mix that they're putting in terms of Windows 7 is encouraging. Now, it's very early days but encouraging at this stage in terms of their expectations for the number of people who are going to want to see a Windows 7 on their netbook as opposed to an XP.</p>
+          <p>In terms of ASP impact, clearly, it's almost twice on Windows 7 what it would be on XP, or a significant premium off a modest base. So it's going be beneficial, but I think it's more important symbolically from our point of view that people see value in Windows 7 and willing to pay for it. Netbooks, even though they've grown fast, are still a relatively small component of the overall demand. So it's not going to have a massive financial impact. It will certainly help in terms of ASP comparisons year-over-year if we get the sort of good attach of Windows 7 that we're starting to see early days of.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Great. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Operator, next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next is Sandeep Aggarwal from Collins Stewart.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thanks for taking my question. For this last two, three quarters, Microsoft is underperforming in its display advertising business versus the overall industry. Is display advertising getting ignored because of the increasing focus on search? And then how much of online business weakness is coming with you to that, to Bing Cashback and search distribution deals? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Sure. On the display side, that I'd say actually we're relatively in line certainly with Yahoo! when we saw their numbers. So volume and monetization was broadly in line I would say with market, so I'm not entirely sure about your underperformance comment. But it is nevertheless, it's difficult in particular on the monetization side. So we see good volume on the display side. We've continued to see that right through the economic reset. So it's been growing in double digits on the volume side. Where the difficulty has been, has been on monetization. In terms of volume, I'd say there's no lack of focus because we continue to see good user engagement and demand.</p>
+          <p>On the monetization side, it's been tough and that's clearly because of what's been happening in the overall economy. And I think people have been &#x2013; to the extent they have budgets they might have pushed more on the search side than the display side. We should start to see that improve going forward as we see the economy recover. So I think you'll see display start to get better.</p>
+          <p>The other thing in display which might be hurting our numbers is just FX. We have a reasonably strong international component. So FX was a headwind in the first quarter. But no lack of focus there. Certainly a lot of focus on search but there's plenty people still working on the display side. What was the second part of your question, sorry?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>It was about is the Bing Cashback and search distribution deals are they causing any weakness in your Online business?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>No. They're helping a little bit with volume. They're not helping significantly with the financial side because of the nature of it. But certainly in terms of the market share growth in the quarter, that was negligible from Cashback. That was really the underlying search engine and clearly the marketing and user engagement we got from there. So not much of an impact from that at all in the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Operator, next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next is Robert Breza with RBC Capital.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Hi. Nice quarter, Chris. Just a quick question around PC unit growth. We've seen everything from third party research, everything from eight to 10% as high as 12%. And I guess obviously the Windows 7 launch has played a big part in that growth. Any color you can kind of give us about what you think maybe achieved a lower end of that range or maybe the higher end of that range just independent of Microsoft?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Sure. It's rebounding very quickly. I think even in the quarter you saw relative to where we were three months ago, PC demand I think rebounded very quickly relative to everyone's expectations. It's so very hard because of all of the underpinnings of what's going to happen in the overall economy. What I think we're seeing is the robustness of the concept of a PC. Even through an economic reset, it's something that people want to spend money on. I think that gives us confidence in the sort of long term trend, in the long term ability to have good, potentially double digit growth in PC demand. And that's clearly helped by the fact we've got new form factors, Windows 7 helps clearly. You're just seeing a general positive trend on a long term basis that was resilient to the economic reset.</p>
+          <p>What that's going to mean for the rest of the fiscal year, I think you're going to continue to see good consumer demand. Clearly that was helping last quarter. I think that will continue. You are going to see good emerging market demand. That's really continued right through the last year. There's been double digit growth in most of the emerging markets right through the last year. I think the consumer in developed markets will start to gradually continue to improve.</p>
+          <p>The big variable in my mind is business PCs. Now that's been a significant negative, that's decreased double digits over most of the last few quarters and it's dragged down the numbers. That can't continue forever. Eventually those PCs wear out and have to be replaced. So the big variable in terms of rebound is going be the strength and speed of the business PC refresh cycle. We hope and expect that to be next year. As I said in one of the earlier calls, we're probably still relatively cautious. But when you start to see a rebound in that, plus what you're seeing on the consumer side, we feel pretty good about what PC demand is going to look like for next calendar year.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks. Operator, next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Katherine Egbert with Jefferies.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Hi.  Good morning. Chris, in your prepared comments you talked about the U.S. consumer demand being strong, and then you just gave some color on good emerging markets demand. Can you talk about Europe? What you're seeing there both on the corporate and the consumer side. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah. Europe relatively weak. So that would probably be the weakest area on a relative basis. So, I would start with emerging markets in particular, China and all the major ones were very strong. The U.S. recovering a bit. Europe relatively weak. So that would be at the low end of all the numbers that I'm seeing.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>When can you expect recovery do you think, there?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I guess when you see economic recovery. It depends a little how you feel about that. It's &#x2013; again I think what we've said and I'll stick with this even though it was perhaps a bit of an unexpected quarter this quarter, is this calendar year is transitioned to next calendar year. I feel very good about the potential dynamics the next calendar year as we start to see economies improve. You're seeing economic forecasters expecting economic growth next year. Globally and in Europe you're starting to see forecasts for business spending turning from people like Gartner again on a global basis. So that's going to underpin spending overhaul. The European consumer, when they will start to get more aggressive, I really don't know. But I don't expect a lot for the rest of this calendar year. I'd start to see it improve next calendar year.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Operator, next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And next is Brendan Barnicle with Pacific Crest Securities.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thanks so much. Chris, can you remind us again of when you recognize revenue on Windows in the PC cycle in the PC supply chain cycle and what type of lag there potentially is between the PC build and your revenue recognition? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah.  When we sell it to the OEMs is when we recognize it. Now, they buy licenses in anticipation of selling PCs obviously. That can vary in terms of their supply chain as to how far in advance of when they actually make a sale they buy the license. It can vary. But on average, say a couple months, around eight weeks. So if people last quarter were buying licenses in anticipation of sales that they're making this quarter. And they'll be buying licenses now in anticipation of Christmas for example. So it varies as I say depending on the supply chain of the entity. But on average around eight weeks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Operator, next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And next is Tim Klasell with Thomas Weisel Partners.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Yeah. Sort of a follow-up to the prior question. In your OEM revenue bridge, you show 4% from Windows attach and inventory. Wonder if you can give us a little bit of color of how much of that 4% is attach, i.e. maybe sort of longer term sustainable versus inventory which can be pretty volatile?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah. It's about half-and-half. About half what we would describe as inventory impact, about half attach. And on the attach side, there's two impacts there. One is the continuing growth in netbooks, which have a very, very high attach rate. So as they grow slightly faster than non-netbook PCs, you see attach benefit. And also MNAs, the larger OEMs, we certainly seeing them gaining market share.  And they tend to have a higher tax rate than the system builder channel as well. So we're starting to see some attach benefit from that. So those two attach benefits add up to about half of what we show on that line. The other half I would put down to sort of inventory replenishment in the channel.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Okay, great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Operator, next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And next is Gregg Moskowitz with Auriga.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Okay.  Thank you, and good morning.  Chris, as you had pointed out earlier, business spending remains subdued but the license-only billing of mix was higher than I expected. And I know you had the benefit of a couple extra field days relative to the June quarter. But even adjusting, for that it showed pretty healthy sequential growth so I was just wondering if there was anything you would point to on the business side that perhaps helped the transactional billings in the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>No, there is nothing specific that I would point to there. As you said, there was a couple days of billing that we helped out of the June quarter. But then also we lost a day or two into the next quarter. So there wasn't a significant impact from that. I would just say generally speaking, we're seeing good adoption of our products. We've got a good product suite out there. So I'd point to that. But there is no underlying trends that I would say were particularly positive.</p>
+          <p>As I pointed out in my commentary, really the business cycle was very much as we expected in the quarter. And you have to remember that what we're seeing now is just people playing out their budgets on the corporate side that were set let's say in December last year when most people were expecting the world to be very difficult through this year. So people are just simply spending their budgets that are set to a large extent. I think it's unlikely that we're going to see a rebound even in this quarter coming up. It's only going be next year when people reset their budgets for next year in next few months but perhaps start to take a slightly more optimistic view, to start to see business spending start to pick up. So, no particularly positive trends that I would point to other than overall reaction to product suite. It was clearly much as we anticipated which was subdued during the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Okay. Operator, we have time for just one more question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next is Richard Williams from Cross Research.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Thanks, guys. Most of my questions have been answered. But wonder if you could give us some sense of the Windows Live growth rates that you expect over the next couple of quarters? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah.  Windows Live is really going be driven by in particular how we see that monetization come through. And that comes back to the strength of the overall economic recovery. I would like to think we're going to see display rates go up as we start to see the economy recover. I think you're starting to see that from us and other people. Certainly it's stopped getting worse and stabilizing.  Again, would probably stick with the same basic line we've had on most things, that we'll start to see some economic improvement on that side as the economy starts to improve, but that's going to be next calendar year more than this calendar year.  And it's probably going be gradual. That continues to be our base case pretty much across the board for all the things that sort of drive in particular the Business side.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay, everybody. That will wrap up the Q&amp;A portion of today's earnings call. Remember that you can access this call on the Microsoft Investor Relations website at microsoft.com/msft. Also, please keep in mind that we're holding the Professional Developers Conference in Los Angeles. And as part of that, we will be hosting an analyst briefing on November 18 with Ray Ozzie and Doug Hauger. Please contact us if you need additional details. We hope to see you there. Thanks again for joining us today.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And that concludes today's call. Please disconnect your line at this time.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

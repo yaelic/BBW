@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1152730" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q1 2008 Earnings Call</title>
+    <date>2008-04-30</date>
+    <companies>
+      <company>769</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Stefan Gruber, Head of Investor Relations</participant>
+      <participant id="2" type="corprep">Werner Brandt, Chief Financial Officer</participant>
+      <participant id="3" type="corprep">L&#xE9;o Apotheker, Co-Chief Executive Officer</participant>
+      <participant id="4" type="corprep">Henning Kagermann, Co-Chief Executive Officer</participant>
+      <participant id="5">Michael Briest</participant>
+      <participant id="6">L&#xE9;o Apotheker</participant>
+      <participant id="7">Henning Kagermann</participant>
+      <participant id="8">Stefan Gruber</participant>
+      <participant id="9">Charles Di Bona</participant>
+      <participant id="10">Raimo Lenschow</participant>
+      <participant id="11">Werner Brandt</participant>
+      <participant id="12">Sarah Friar</participant>
+      <participant id="13">Ross MacMillan</participant>
+      <participant id="14">James Dawson</participant>
+      <participant id="15">Knut Woller</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Welcome to SAP's First Quarter Results Conference call.  Today's call will be hosted by Henning Kagermann, L&#xE9;o Apotheker and Werner Brandt.  I will now turn the call over to Stefan Gruber.  Please go ahead sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Good morning or good afternoon.  This is Stefan Gruber.  Thank you for joining us to discuss SAP's first quarter 2008 results.  I'm joined here in Walldorf by Henning Kagermann, L&#xE9;o Apotheker and Werner Brandt.  Werner will discuss the Q1 financials in detail, L&#xE9;o will comment on the current business environment and our regional performance and Henning will then provide some further in depth commentary on the quarter and SAP's product successes.</p>
+          <p>I will now make a few remarks about forward-looking statements.  Any statements made during this call that are not historical facts are forward-looking statements as defined in the US Private Securities Litigation Reform Act of 1995.  Words such as "anticipate," "believe," "estimate," "expect," "forecast," "intend," "may," "plan," "project," "predict," "should," "outlook" and "will" and similar expressions as they relate to SAP are intended to identify such forward-looking statements.  SAP undertakes no obligation to publicly update or revise any forward-looking statements.</p>
+          <p>.  All forward-looking statements are subject to various risks and uncertainties that could cause actual results to differ materially from expectations.  The factors that could affect SAP's future financial results are discussed more fully in SAP's filings with the US SEC, including SAP's Annual Report on Form 20-F filed with the SEC on April 2, 2008.  Participants are cautioned not to place undue reliance on these forward-looking statements, which speak only as of their dates.</p>
+          <p>In addition, in this call we will report certain financial measures particularly free cash flow, constant currency, period over period changes in revenues and operating expenses and approximations of revenue growth on the US dollar basis that are not prepared in accordance with US GAAP and are therefore considered non-GAAP measures.  We provide all these measures to provide additional information that may be useful to investors in breaking down and evaluating sales volume and income growth.  Our non-GAAP measures may not correspond to non-GAAP measures that other companies report.  The non-GAAP measures that we report should only be considered as additional to, and not as a substitute for or superior to, the respective US GAAP measures that we will report.</p>
+          <p>And before we start, let me remind you of our upcoming Investor Conference to be held next week at our User Conference SAPPHIRE in Orlando on Wednesday.  With that I would like to turn things over to Werner Brandt.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you Stefan for this introduction.  Before I begin let me inform you upfront that I will be speaking mostly about non-GAAP figures as it relates to the operational performance of our business.  These non-GAAP measures are also the basis for our guidance.</p>
+          <p>The differences between US GAAP and non-GAAP figures are the result of two effects. Number one, the exclusions of a write-down of deferred software revenues in the amount of &#x20AC;47 million, and second, the exclusion of acquisition-related charges in the amount of &#x20AC;83 million compared to &#x20AC;11 million in the first quarter of 2007, both adding up to &#x20AC;130 million for Q1.</p>
+          <p>With that, let me say that we're pleased to report another good quarter in which non-GAAP Software &amp; Software-Related Services, and I will call this going forward product revenues, grew by 24% at constant currencies.</p>
+          <p>Let me take a moment to discuss the year-over-year change in exchange rates.  The euro continue to strengthen significantly against most of the major currency causing a currency headwind for SAP.  Here are some of the key metrics: US dollar to euro, plus 15%; British pound to euro, plus 13%.  Currency overall had the following impact on the P&amp;L in the first quarter.  A negative effect of 6 percentage points, or 98 million, on product revenue on a non-GAAP basis, and negative effect of 6 percentage points, or 138 million, on non-GAAP total revenue, and a positive effect of 5 percentage points or &#x20AC;92 million, on operating expenses resulting in a negative impact on operating income by 11 percentage points, or &#x20AC;46 million.  The non-GAAP operating margin was negatively impacted by 70 basis points in the first quarter, so compare 22% to 19.5%.</p>
+          <p>Let me now continue with the quarter's results, which include Business Objects consolidated as of January 21st, 2008.  Non-GAAP product revenue for the first quarter of 2008 were over 1.78 billion which represented a year-over-year increase of 24% at constant currencies.  This includes a 12% constant currency gross contribution from SAP's standalone business.</p>
+          <p>The growth in non-GAAP product revenue came from year-over-year constant currency increases of 18% in Software revenues, 27% in non-GAAP Support revenues, and 46% in Subscription and Other Software-Related Service revenue.  Since we acquired Business Objects as of January 21st, we did not consolidate US GAAP Software and Software-Related Service revenues in the amount of 45 million for the first three weeks of January.</p>
+          <p>First quarter Professional Service and Other Service revenues were &#x20AC;760 million, which was an increase of 18% at constant currencies.  Consulting revenues of 587 million increased 20% at constant currency, and Training revenues increased 17% at constant currencies.  The non-GAAP Software and Software-Related Service margin was 82.1% for the first quarter of 2008, which was an increase of 40 basis points compared to the first quarter of last year.  The higher margin was a result of a decline in purchased licenses offset somewhat by an increase in personnel expenses related to growth in head count in the Support area.</p>
+          <p>The Professional Service margin was 20.8% for the first quarter, which was a decrease of 30 basis points compared to the same quarter last year.  The decrease in the margin is mainly the result of a low Business Objects contribution in the Consulting and Training area.  As a result of the mixed margin performance in product and services, our 2008 first quarter non-GAAP gross margin increased by 80 basis points to 64.5%.</p>
+          <p>Non-GAAP operating expenses increased by 303 million to 2 billion or 18% year-over-year.  Of this increase, two-third or approximately &#x20AC;200 million, relates to the Business Objects acquisition and one-third or approximately 100 million is an organic increase in operating expenses.  The bulk of this expense increase as a result of higher personnel expenses.  Since the first quarter of 2007, we added a total of roughly 11,000 employees of which 6,224 came from the Business Objects acquisition in the first quarter of 2008.  The remaining 4,700 was the result of organic personnel growth at SAP of which 1,189 were added in the first quarter of 2008.</p>
+          <p>In addition, the increase in non-GAAP operating expenses included approximately 10 million related to the Business Objects integration efforts.  Non-GAAP R&amp;D expenses increased 19% for the first quarter and represented 16% of the total revenues compared to 16% of total revenues in the first quarter of last year.  The increase in non-GAAP R&amp;D was the result of additional personnel: we hired additional 1,307 net FTEs in the first quarter of last year.  Of that total 885 FTEs or 63% were hired in low-cost locations.  We also added roughly 1700 FTEs from the acquisition of Business Objects.</p>
+          <p>Non-GAAP sales and marketing expenses increased 21% for the first quarter and represented 23% of total revenues compared to 22% of total revenues in the first quarter of '07.  The increase in non-GAAP sales and marketing expenses was mainly due to additional sales and marketing head count year-over-year and we also added roughly 2,100 FTEs from the acquisition of Business Objects.</p>
+          <p>Non-GAAP general and administrative expenses increased 28% or 33 million for the first quarter and represented 6% of total revenues, roughly the same as the prior year's first quarter.  The higher non-GAAP G&amp;A costs were mainly the result of the acquisition of the Business Objects, which represented approximately 70% of this increase, along with expenses related to the Business Objects integration.</p>
+          <p>Operating expenses related to the new business around SAP Business ByDesign for the first quarter totaled approximately &#x20AC;40 million compared to 23 million in the first quarter of last year.  To date we have spent roughly 165 million.  Overall, the company's non-GAAP operating margin at constant currency was 20.2% for the first quarter, which represented a decrease of 50 basis points compared to the first quarter of 2007.</p>
+          <p>As you know, prior to the acquisition, Business Objects operated as a standalone company with significantly lower margins than SAP.  In fact, SAP's standalone business had an increase in operating margin for the first quarter, but it was negatively offset by the operational performance of Business Objects in first quarter of 2008.  We have already begun the integration process, which will result in significant efficiency gains going forward to the benefit of SAP's overall margins.</p>
+          <p>Our US GAAP effective tax rate for the first quarter was 30.6% compared to 33.5% for the first quarter of last year.  For the full year we expect the tax rate as indicated in January of 31 to 31.5%.  Free cash flow for the first quarter was &#x20AC;1 billion , which is an increase of 31% compared to the first quarter of 2007.  This increase was a result of working capital improvements and our acquisitions.  For the first quarter of 2008, primary use of free cash flow was for acquisitions.  For the first quarter, we bought back 8 million share for a total of approximately 258 million; for the rest of the year, we expect to purchase an additional 250 million of shares.</p>
+          <p>Headcount in the first quarter increased by -7,400 FTEs of which as I mentioned before, 6,200 came from the Business Objects acquisition and roughly 1,200 from SAP organically.</p>
+          <p>As you have seen in our press release issued today, we've made one adjustment to our 2008 outlook.  We have increased the expected range of our non-GAAP operating margin by 100 basis points to a range of 28.5 to 29% at constant currency.  The reason behind the change is that we've decided to reduce the accelerated investments by 100 million in our business around SAP Business ByDesign.  Henning will discuss more details on this later.</p>
+          <p>Also beginning in 2009, there will be no more accelerated investments for Business ByDesign.  All expenses will be funded out of the normal operations, which will have a much less negative impact on operating margins compared to the accelerated investments in 2007 and 8.  Therefore, the total accelerated investment on business ByDesign for '08 is expected to be around 100 million of which we already spent 40 million in the first quarter.</p>
+          <p>With that, I would like to pass it over to L&#xE9;o .</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thank you, Werner and I'm glad that you can all join us today on this call.  I'm pleased to report our 17th consecutive quarter of double-digit growth in our established business.  This demonstrates the continuous strength of our established business while our SME business continues to grow rather well as well.  Migrations to the platform continued at a good pace providing additional revenues for up-sell opportunities for many years to come.  Our performance reflects our leading position in the industry and our continued high win rate against our competition.  In the first quarter our win rate against our next largest competitor remained at over 80% and we once again were very successful at replacing the same competitor at a number of customers.</p>
+          <p>A key strength for SAP is that we continue to maintain our strong competitive position in all geographies regardless of market environment.  Speaking of the environment, in most of the regions, we continue to see good demand.  The market environments remain intact.  The one exception was the US in which the environment was a bit tougher than we expected coming into the quarter.  However, our global presence provided us a significant advantage since for the most part, we are not dependent on a single region.</p>
+          <p>Let me take a few moments now to break down what we saw in the first quarter among the major regions.  In EMEA, the environment has not changed much since the fourth quarter.  It remains robust and intact and there is no indication of that changing.  In EMEA, non-GAAP Software and Software-Related Service revenues, product revenues, increased by 27% at constant currencies with Germany increasing by 12%.  We reported a continued strong performance in the CIS countries with Russia again a standard.  Other regions of strength included the UK, Switzerland, the Netherlands and Belgium.  Key contracts wins in the EMEA region  were REHAU AG + Co., Inform, and Telecom Italia</p>
+          <p>The Americas as a whole had a mixed performance.  Non-GAAP Software and Software-Related Service revenues were 16% higher at constant currencies in the first quarter, while the US reporting 20% growth at constant currencies.  Software revenues in the Americas were down 2% at constant currencies coming off of tough comparison to the first quarter of 2007 in both the US and Latin America, where we closed, as you all remember, an exceptionally nice year in Q1 2007.</p>
+          <p>Canada turned in another good performance, and in the first quarter in the US, we witnessed an environment where there was an increased scrutiny of our deals, which caused a delay in closing some of them.  Also the average deal size declined which can be expected in this type of environment.  Importantly however as to know that we continue to outperform our competitors and gain marketshare.  Key contract win in the Americas region were BT Americas, New Balance, Atlantic Shoe, and Pacific Gas &amp; Electric Company.</p>
+          <p>In the Asia-Pacific Japan region the environment remained very good.  Non-GAAP product revenue grew 36% at constant currencies with very strong performances from China, India and Japan.  Non-GAAP product revenues in Japan were up 42% at constant currencies.  And key contract wins in this region were Komatsu, China National Petroleum Corporation and Corporate Express Australia.</p>
+          <p>Let me now briefly touch on some of our strategic industries, retail, banking and the public sector.  Picking up where 2007 left off, retail remains strong reporting over 60% growth in the first quarter.  Some key announcements on the retail front included 7-Eleven, which is the largest chain store in the United States with close to 5,500 franchise and company-operated stores, extending its agreement for demand management solutions.  BigLots, with more than 1,750 stores and nearly 40,000 associates, selected SAP for Retail Solutions, and Grupo Pao de Acucar the largest retailer in Brazil selling food and general merchandise with 64,000 employees and 573 stores has selected SAP Solutions to consolidate its IT infrastructure.  Key retail contract wins in the first quarter included the Burberry Limited, LensCrafters and TAWA Supermarkets.</p>
+          <p>Banking had another very solid quarter growing close to 80%.  Financial services as a whole were up close to 70% with insurance also performing quite well.  Key banking contract wins in the first quarter included Barclays Bank PLC, Bank of America and Nationwide Building Society.</p>
+          <p>In the public sector, we reported nearly 30% growth, continuing the good performance that we saw in the fourth quarter of last year.  Key public sector contract wins in the first quarter included the Government of Zambia, Gauteng Provincial Government and National Health Insurance Corporation.</p>
+          <p>As you are probably well aware, we remained intensely focused on expanding and strengthening our partner ecosystem, which has been and will be vital to our success, a key strength and a competitive advantage for SAP.  In the first quarter we made several announcements demonstrating the success.  We're continuing to having growing, leveraging and collaborating with our partners.  SAP and IBM announced plans to deliver our first joint software product, code-named Atlantic, that will integrate IBM Lotus Notes software with SAP's business suite.  We announced an expanded global services partnership with HCL Technologies and we announced an expansion of our partnership with long-term partner Intel to collaborate on offering pre-installed business solutions for mid-sized companies optimized for Quad-Core Intel Xeon processors.</p>
+          <p>We also announced the deepening of our relationship with Novell that will enable customers of all sizes  to run, manage and secure mission-critical operations on Linux demonstrating our commitment to the open-source community.</p>
+          <p>Let me end by giving you an update on the Business Objects acquisition.  As you are aware, in mid-January we announced the successful all-cash tender offer for Business Objects and since then we have received very high marks from customers, prospects, partners and industry analysts on the acquisition itself, the go-to-market approach and the combined SAP and Business Objects platform components and applications.  We hit all product deliverables in the first quarter with the product roadmap and rollout on time and on target.  The initial product roadmap has already been communicated to customers and partners.</p>
+          <p>Despite the many challenges that companies face in integrating acquired companies and despite the more aggressive sales targets that we put in place prior to the start of the quarter, we are pleased to say that we hit our first quarter sales goals.  We saw success in setting performance optimization applications into Business Objects accounts and the Business Intelligence platform into the SAP accounts.  This is a testament to the complementary nature of the product of the two companies, which would bode well for future success.</p>
+          <p>And with this let me turn it over to Henning.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Thank you L&#xE9;o .  We are pleased to report another good quarter ;it's our ninth consecutive quarter of share gains in the enterprise applications software market.  At the end of the first-quarter our share based on a $37.4 billion US market was 32.6%, representing an increase of almost 4.2% compared to the fourth quarter of 2007, of which approximately 1% represented organic growth.  And it's representing an increase of 7.6% compared to the first quarter of 2007, of which 4.3% represented organic growth.  These are impressive share gains, demonstrating the benefit of being a truly global software company.</p>
+          <p>As L&#xE9;o mentioned earlier as the established business remains a core area of strength for SAP and it will continue to be a strong growth area for SAP for many years to come.  This is one pillar of our growth strategy.  The second pillar of our growth strategy lies in our push into the mid-market with our SME portfolio; and third pillar lies in the tremendous opportunities we see in our business user solutions, which have been strengthened even more by the recent acquisition of Business Objects.</p>
+          <p>Let me start with the first pillar, the established business. With the established business continuing to provide great opportunities for growth, we remain determined to continue to move our customers onto a business process platform allowing for greater up-sell opportunities.  That said, SAP ERP 6.0 adoption is well underway as we have now achieved more than 9,900 customers in just the past two years; 6,000 are already productive.  These numbers compare quite well to the more than 4,100 customers and nearly 1,800 productive customers in the first quarter of last year.  This very fast adoption rate has surpassed our expectations.</p>
+          <p>Continuing on the same subject, our unique technology of delivering innovation without disruption to customers through our enhancement packages for SAP ERP has been the huge success with customers.  The ability to implement these enhancement packages according to their own timeframe and specific needs for functionality is unmatched in our industry.  In fact, we recently released the third announcement package, which contains more than 1,400 new business functions including industry-specific solutions.  Furthermore, we completed our enterprise SOA roadmap in 2007 and therefore we are able to begin delivering enhancement packages for the entire SAP business suite and SAP NetWeaver this year.</p>
+          <p>An important component of the business process platform is of course the SAP NetWeaver technology platform, and the growth we saw in 2007 continued into the first quarter of 2008.  The number of productive system now stands at 38,700, representing a growth rate of 85% compared to the first quarter of last year.  On a rolling four-quarter base, year-over-year SAP NetWeaver revenue increased 26% to approximately &#x20AC;1 billion, of which 37% was standalone.  Standalone sales increased 67% year-over-year on a rolling four-quarter base.</p>
+          <p>We continue to engage in strategic partnerships with SAP NetWeaver to help drive innovation for our customers.  One I would like to mention is the expanded partnership with IDS Scheer.  Their RS Solution and our Enterprise Services Repository will be integrated even tighter going forward.  This will enable users to access SAP's enterprise services and modeled process component directly from a business process and analysis and modeling environment.</p>
+          <p>Let me touch on another pillar of our growth strategy, the SME segment, where we continued to see strong results.  In the first quarter, the number of SAP Business All-in-One customers grew by 18% to 11,700, and the number of partners increased by 25% to 1,064.  For SAP Business One, the year-over-year number of customers increased by 38% to 18,690 and the number of partners by 11% to 1,169.  Some recent announcements on our SME product portfolio included the introduction of our fast-start program for SAP Business All-in-One.  And we have shown the prototype of a SAP Business All-in-One appliance that we developed in close collaboration with Intel that L&#xE9;o touched on earlier.</p>
+          <p>Let me now move to our new breakthrough innovative product, SAP Business ByDesign.  As you have probably already read in our press release this morning, we modify the rollout strategy for this product.  Let me begin by saying that we remain entirely committed to this product.  You should not interpret this modification as any into the contrary.  In fact, we have been quite successful to date with SAP Business ByDesign feedback from early customers and partners who have been working closely with to validate and fine-tune the product and overall business model has been very positive.</p>
+          <p>We introduced SAP Business ByDesign in a phased go-to-market approach not too different other new products that we introduced to early customers and partners.  Since SAP Business ByDesign was a completely new deployment and business model for us, we took an even more conservative approach to the rollout.  It is very important to adapt our plan appropriately at every step of the way, while ensuring highest quality and maximum profitability potential.</p>
+          <p>We think that we can do even better than what we have achieved to date and therefore we have decided to take an even more controlled approach to the rollout of Business ByDesign.  Here are some of the steps we will take in modifying the rollout:.</p>
+          <p>In 2008, we will concentrate our go-to-market efforts on six focus markets -- Germany, US, France, UK and China where all our productive early customers are based, and India where we will launch SAP Business ByDesign this summer.  These countries present a large amount of worldwide volume market opportunity.  Our successful early partner program of providing on going close collaboration will continue unchanged in the six focus markets.  Additional country rollouts will be executed in 2009.</p>
+          <p>The extended timeline enables us to take additional steps towards optimizing the end-to-end process of delivering, selling and supporting the solution.  It will provide customers with many benefits, including even higher usability and performance by lowering total cost of ownership by leveraging the next release of SAP NetWeaver.</p>
+          <p>From a financial perspective, Werner already mentioned the impact to the margin.  Let me touch on some other notable items.  As a result of our more controlled ramp-up process, it will take us a bit longer, around 12 to 18 months, to reach the 1 billion revenue potential and the 10,000 customer ambition.  Also the company expects to engage with significantly less than the previously mentioned 1,000 customers in 2008.  We will use SAP Business ByDesign innovations and technologies for our existing solutions, and we expect this to contribute significantly to the overall revenues of SAP in 2010.  We will also leverage all go-to-market innovations and investments, including our successful mid-market brand extension, demand generation, telesales capabilities and Web-supported buying cycles across the entire SME solution portfolio, so as to strengthened our continued SME growth strategy.</p>
+          <p>We remain fully confident in the product, the market opportunity and the associated business model of SAP ByDesign and we continue to move towards volume readiness in 2008.  We do not see any comparable solutions in the market and the validity of the product has already been proven by the commitment of our early customers and partners as well as the immense interest we have received from the market.</p>
+          <p>Let be now finish up by talking about the third pillar of our growth strategy, the business user.  We are making excellent progress in this fast-growing market for business user solutions as our performance optimization applications and our business intelligence platform, which has been greatly enhanced by the acquisition of Business Objects .  The new SAP Business Objects line of business will focus on capturing the lion's share of what IDC sees as a US $15 billion market opportunity growing at more than 10% a year.</p>
+          <p>The integration of Business Objects is going well and we are ensuring the protection of our customers' investments as we have already provided them with the product roadmap outlining the future evolution of our solution portfolio in the business intelligence and performance optimization applications area.  We also unveiled our first joint offerings and announced Business Objects XI 3.0, the first enterprise-scale platform for business intelligence.  Not only does the least include a new version of all major products in the Business Objects solution portfolio, but also entirely new products based on joint Business Objects and SAP solutions, such as the SAP NetWeaver Business Intelligence Accelerator.</p>
+          <p>I would like to end here.  Thank you for listening and we will now be happy to take your questions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" />  And your first question comes from Michael Briest of UBS.  Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Thank you very much.  Good afternoon.  L&#xE9;o or Henning, maybe you could talk to us the US and the Americas situation, when did the-- when did you realize that the performance wasn't going to be as good as you expected.  And can you talk about how things have played out since then in April.  Also for the year, you're leaving your guidance unchanged, you had talked about double-digit growth in the US, is that target you are expecting to achieve?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Well, thank you for the question.  Let me try to give a little bit of color on the situation.  The environment was tough.  It was indeed a little bit tougher than what we had expected going into the quarter.  What did we see happening?  We saw that the volumes were still very good; we have quite a lot of activity going on.  The good news is for example, that we closed 50% of our business in the US comes from new customers, which is a very good number.  We have actually gained market share in the US market itself as well, which is another good indicator in this environment.</p>
+          <p>What did happen though is that the average deal size declined in the US.  That's something that we realized in the course of the quarter.  What we have done since is we have adjusted slightly our go-to-market model in the US.  We have accelerated a certain number of activities that were already happening anyway, like for example, having a stronger focus on particular buying centers within companies; that has now been executed.  The go-to-market model in the US has been adjusted to this.  And the pipeline as we look to the US business going forward and indeed to the global business going forward, much more important than just the business, is actually a very healthy pipeline.  And after scrutiny of the pipeline, we feel very confident that we are able to reaffirm our guidance when it comes to the top line, product revenue SSRS [Software and Software-Related Services] of 24 to 27% in constant currency.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Will the US achieve double-digit growth for the standalone SAP business, do you think?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>What we said was that the US, for the standalone SAP business, when we talked about this in the beginning of the year, we talked about product revenue and we didn't really give a clear indication.  What we said was that the US would not be one of our strong growth drivers, but that it would be in the low double-digit area for product revenues.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>And Michael, if you look to the information we provided, in the United States we have for product revenue, an increase at constant currency of 20%, and if you take the overall metrics, there of the half is coming from SAP and the other half is the contribution of Business Objects-related products.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>So therefore we are maintaining our expectations for the US. It might be a little bit more or little bit less, that depends on the environment, but overall we feel that we have a strong US business.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Okay.  And if I could just ask finally, has there been any restructuring of the US or cost-reduction program which has affected head count?  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>What we have done is we have adjusted our go-to-market model; that implied also some changes in personnel, which have been executed already. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Let's take the next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you.  Our next question comes from Charlie Di Bona of Sanford Bernstein.  Please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Henning, I think we all understand what you're doing with Business ByDesign in the more cautious rollout, but maybe you could delve a little bit more into color on why the delay, why the slower rollout.  .What is driving the decision to alter the way you're taking this to market? There has certainly been speculation about product issues and channel issues, and maybe you could illuminate those a little bit.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Yes.  Thank you, Charlie.  I would call it &#x2013; Many things come together.  If we had decided to treat ByDesign like a normal product and adopt the traditional go-to market approach, I would say we had successfully launched this product, we successfully have upgraded the first live clients to the next release, and now it's business like normal.  You know that we don't want to do it. We have high ambitions. One is no modification paradigm and as I said, we want to do it in an on-demand mode.  That means there are many assumptions out there in our model and at the customer side which we have to verify.</p>
+          <p>Let start with collecting now from all the clients what they really need to run their entire business without any modification, without any let's say additional software functionality on site, which we normally are doing, and we collect all those things and bring it back into the product.  The next one is, how long is the upgrade taking?  Is this too long, not long enough?  I think here is also something where we can improve.  .  Then it's a question of cost of ownership: we can measure it now, we have exact figures, and we felt it will not take us not too long to improve figures here significantly, so why should we spend the money and a lot of people if we can do it in an automated way.</p>
+          <p>And we have learned something in how to integrate into the heterogeneous network of clients on site.  What does this mean?  We've got feedback on how clients adopt this new software, will they start from CRM, will they start from human resource, etcetera.  How many of the users will go live?  How many people do we need on site for consult?   You know all those things.</p>
+          <p>I made it a little bit long to give you a feeling that we have now pretty good understanding of all the assumptions we have to make to build really a profitable business, and instead of rolling it out step-by-step, which could cause, I would say, a little frustrations then on the client side, we decided, let's say to adjust everything which is needed to make it a volume business in the next release; that will take us a little longer.  We will engage with the client in a slightly different way, more intense, and measure it again and I think then we will go forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Just, one also follow-up.  You have been very careful to this point to keep Business ByDesign sort of segregated from the core business because you didn't want to pollute the middle market strategy.  You are talking now more about more cross-pollenization.  Is this a change in the structure of Business ByDesign organizationally, or is this just accelerating the technological cross-pollenization?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>It's the second one.  I think we have very carefully indicated at last SAPPHIRE that our intent is to reuse the investments made in the product development of ByDesign and bring new innovative edge processes and business innovations to our large installed base in a careful way.  Now, we are ready to announce let's say the first of these examples, at SAPPHIRE, and I guess we can roll them out next year.  This will have no impact on the stability of the product and no impact in how we go to market or we develop the product for the mid-market.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Thank you.  Next question please.</p>
+          <p>Operator Thank you.  Our next question comes from Raimo Lenschow of Merrill Lynch.  Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Hi, two questions if I may.  First of all, on Business Objects, if I just do the math, it looks like about a minus-15% license revenue number.  Can you maybe give us some detail of how much of that is impacted by the three weeks that are missing, so in other words the 45 million you commented earlier, Werner.  How much is coming in there from that, and how would the number have looked otherwise.  Also you haven't really talked about any update on the cost synergies of the 150 million, what's the progress there that we've made in Q1?</p>
+          <p>Second question is on the -- maintaining of the outlook going forward.  We now have seen Oracle disappoint on applications; we saw you guys missing the numbers by quite a bit.  What should just kind of give us more confidence &#x2013; and extra debts coming back.  I know you have mentioned the pipeline before but it seems a little bit that your kind of out of sync with the economic reality.</p>
+          <p>And then the last question, maybe you can't answer that on the call, is anyone of your senior management taking a bet on that 1 billion by 2011.  I would offer a dinner but maybe we can do that off the call.  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>Raimo, this has a lot of questions.  Let me address the first two ones with regard to Business Objects.  As I mentioned before that, on the product revenue side we have an impact of roughly 45 million due to the fact that we had consolidation since the 21st of January, and I would say that half of it relates to Software and the rest is Support revenue.  Secondly, if you look to the BObj integration, we mentioned before that the synergies we want to realize are embedded in our operating margin for the full year, and as we have only adjusted our operating margin due to the fact that we decreased our accelerated spending for Business ByDesign, this indicates that we are at least on track with delivering the synergies from the Business Objects integration.</p>
+          <p>If you look to this integration I think from a go-to-market perspective, L&#xE9;o mentioned this before, everything is on track and also from a back-office integration we are making good progress and we assume that in the first three quarters of this year everything is accomplished, then we will see for the full year the full benefit of all the synergies we expect out of the Business Objects integration.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>It's Henning, and I would like to comment on the application market. I feel it's a good market and we are performing very well.  Look to our product revenue with constant currency, 24%, 12 from SAP. We have reiterated the guidance of 24 to 27, and this after a hard look to our pipeline.  And what I like is that this was one of the quarters where we have gained more marketshare than before which I think is good: it's strengthening our position and I don't know if many companies have proven that they can let's say grow both in parallel organically, where we gain one percentage point, and three, which we did through acquisitions. So I felt that things are coming together and it was for me personally a good quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Let me maybe add two more comments to that.  One should not have an insular view and you view it only out of the US perspective, where one should take a global view.  If you look at the global numbers, there are very impressive, any metric you would like to use.  And the last comment regarding the bet, if I can chose the wine, you have a bet.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thanks.  Okay I will take that.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>You can't afford it.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Let's take the next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you.  Our next question comes from Sarah Friar of Goldman Sachs.  Please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Good morning everyone.  Thanks for taking the question.  The operating margin guidance and moving that up for the year, certainly signal a new focus on expenses in general, and I know that this is something that investors have been asking of you for quite a while.  I think broadly L&#xE9;o  and Henning both of you were quoted earlier in the quarter at taking down R&amp;D expense generally.  Can you maybe give us some color on why this new focus on the cost line, you feel so confident in the growth story and can we see both growth and margin improvement?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Yes, indeed.  If you look to the figures it was an adjustment.  We have let's say slowed down the investment into ByDesign and we saved some money.  I think that's what is the good news.  We continue to believe in the growth story; otherwise we wouldn't have done it.  We can afford to do this because we're so confident in our core business and in the Business Objects integration, that the impact of Business ByDesign to the top line is not that crucial for our business.  So I think balancing it out, nor looking for both makes a lot of sense in the moment.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>And we gave it a lot of feedback during the recent roadshow we did and here is the answer to this one.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>And just generally I understand its BBD investment that has been cut back but will we see you also try to get more efficiency out of core SAP R&amp;D investment and sales and marketing investment or is that not the case, it's really just BBD that we're talking about.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>What we indicated Sarah, what we indicated was that as we see our business evolving in the future we will reap the benefits of some of the investments we have made in the past, when it comes to platform and in particular when it comes to Enterprise SOA approach.  , that investment was meant not only to generate a stronger pipeline and a stronger  topline but also create more effectiveness in our development.  Therefore we feel that the development share in our revenues can start to come down slightly in the future.  That doesn't mean that we will be necessarily spending that money on R&amp;D, but the share of R&amp;D in our revenues should start to come down in the future.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>And we're working on this, Sarah.  If you look to our -- just operating expenses for moment, only for simplicity here, we added 22% and thereof 12% is coming from the acquisition of Business Objects as it stands, 5% is coming from the acquisition related charges so that is purely accounting-driven there is nothing to do with the operational performance, and 5% is coming from SAP.  So you see that we have a strong focus here on expenses.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>And one final one for you, if you don't mind.  In Europe, specifically thinking about linearity, was there any slowdown or any change in momentum in the last few weeks of March.  because I know more broadly in Europe there's been some Commentary from more consumer driven-businesses that they began to see some slowing.  I know most enterprises haven't talked that yet.  But any color at all on those last few weeks?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Sarah, the business momentum in Europe was stable throughout the quarter -- normal pattern, nothing really significant to signal.  There might have been a small change and one country was easily picked up by another one.  Overall in EMEA, we see steady business conditions moving forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>And, Sarah, it hasn't changed.  The majority of the deals we close are closed in the last month of the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay.  Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Thank you.  Next question please.</p>
+          <p>Operator Thank you.  Our next question comes from Ross MacMillan of Jefferies.  Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thanks.  Werner, a question for you just on the margins, I know you've guided obviously to constant currency.  Could you just recap on the currency impact to operating margins on a non-GAAP basis in Q1, and can you just remind me again what you said at the beginning of the year with regard to the FX impact for the full year, if you did make any comment.  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>Yes, let me start with the guidance we provided.  In fact, we provided the guidance on the margin at constant currency.  So we didn't pronounce any currency predictions for 2008.  But I can give you more color, more details here on the currency impact.  If you look to this currency impact on total revenue, it was 138 million; thereof roughly 100 million is on the product side and 40 million is on the service side.  Then on the cost side, of course, we have this benefit, it's up to 92 million and actually then the operating income is impacted by 46 million, which represents 11%.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>And so if we just made the assumption that currency rates prevailed at current rates as we have today, how should we think about that as we go through the year.  Is there any insight you can provide to that?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>No, I think it's not necessary, as we guided at constant currency.  If you look at the difference between actual and at constant currency, and take the rates we provide on the Internet for the second, third and fourth quarter of 2007, I think it's an easy calculation you could do on your own.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay.  All right, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>Also I think it's important to stay consistent with our guidance, KPPI at constant currency, and that's it.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay.  And then maybe just a follow-up, and it goes back to and earlier question, but Henning, can you just, as you talk about taking the Business ByDesign technology and then leveraging that in core SAP, what specifics should we think about when you're doing that.  Where we are going to see that leverage.  What's being applied to where.  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Yes, in principle everywhere.  On the go-to-market side definitely I mentioned it: there are telecentre sales, the web approach, all these things we can leverage.  Partially we have done it already in our All-In-One product, so I think that we can do mostly across the SME portfolio.  From a services point of view, all we are doing in order to automate upgrades the way how we run the software, et cetera, has also a positive impact on our suite because it will help our clients to bring their PCO down as well.</p>
+          <p>If you look specifically what we could do it from the solution point of view, there are obviously two ways.  One, as I mentioned it earlier, that we will build additional components which we will charge to our clients and we can reuse the platform we have used in Business ByDesign product, and we will do so because this is completely services-enabled, the integration to our normal suite is more or less out-of-the-box.  The second is, it clearly there is a big demand out; we will be careful, we will be careful because we don't want to spoil our mid-market business but there is a big demand from every large client out there for a solution for their small subsidiaries, and whenever we speak about ByDesign and the potential of low cost of ownership they are more than interested.  But here, we will only take with options, one, we have let's say proven the volume readiness in the key countries first, and but these are two very good options.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you.  Our next question comes from James Dawson of Morgan Stanley.  Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Hi, guys.  Just a couple of questions from me.  In terms of Business Objects, Werner, you talked, I think the time of &#x20AC;160 million worth of cost synergies.  Can you just reconfirm that number and talk about the timing of the savings, and maybe you just give us some color as to how you're getting on with them so far; now you are four months in, I guess.  Second question on the BBD launch costs.  I'm kind of confused: are we saying that this is a delay, or did you overestimate the cost of the launch originally or was it something else?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>I might -- I can start with the second one and then might be Werner takes the first one.  Look, we have not delayed it; we were very precise in saying we don't need additional accelerated investments.  It's partially because we will use this delay to invest, but out of the normal business, from our normal R&amp;D et cetera, or to bring the cost to run, to operate the software down at beginning.  -So therefore, let's say we don't need that much accelerated investment.  It was not overcalculated half a year or a year ago, because please understand when you embark on such programs, there is a lot of uncertainty around it.  We made our assumptions; now we're much smarter because we have some milestones behind us and based on this insight, we made a new calculation.  We felt the way we're holding it out now is smarter for our shareholders.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>I will try to answer the first question with regard to synergy from the Business Objects side.  When you acquire company which has 1 billion -- on a euro basis now 1 billion in revenue, and has an operating margin on a pro forma basis, say by 16, 17%, then you have a specific expense block which is more than 800 million, on a euro basis again.  And I think what we do is we look into all different areas.  It starts with G&amp;A, sales and marketing, R&amp;D where we try to identify synergies and go for them.  If you look to it from a cost side perspective, definitely it is personnel expenses, it's third party expenses that we can use to combine purchasing power, its facility rationalization, legal entity rationalization going forward, all these type of things are ongoing and are to be completed throughout this year in the major components.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>So then that &#x20AC;160 million is this year target &#x2013; a one year target?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>Yes, that's what we have embedded, and as we said this beginning of January, embedded into our plans for 2008 and this is part of our operating margin guidance</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Great.  Could I just have one last clarification maybe.  In terms of the license growth can you tell us what is the standalone SAP license growth was, and perhaps what it was for Business Objects?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>As we said, 12% of the 20%.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>That the license?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Product.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>License only, no, we do not break this out.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Around 4% for the SAP business?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>We do not break it out.  Take it as it is.  By purpose -- beginning of last year we started to report on software and software related service revenue, and I think this is our KPPI.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Thank you.  Next question please.  I think we have time for, let's see, one final question, it is already 4 p.m.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you.  We have question from Knut Woller of UniCredit.  Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Yes, Hello.  Just quick ones, mainly for Werner, and thanks for taking me.  Just in case your guidance should prove, finally looking back at the end of the year, to be too optimistic regarding growth rates, could you just indicate the flexibility on the cost side you see to level many might ongoing shortfalls on the license side, or SSRS side off.  And then second and third if I may, just quick ones, the gross margin on the service side, should we expect any improvements in 2008 and if so to which level.  And the non-GAAP tax rate for the full year.  .  Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>I think.  , first of all, it's important to repeat that we do not see now a risk on the SSR side, so software and software-related service side, but if you talk about prudency at the end of the day, if we see something coming.  If for example the situation in the US would spread into other regions of course we would take action and we discussed it several times that we have the flexibility in different categories to reduce variable expenses so that we can match this and keep our margin target now with 28.5 to 29%, and we keep this for the full year and looked back to a margin of -- in this range.  The last part of the question?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>It was regarding the gross margin on services, Werner, and whether we should expect any improvements there,  and if so to which level in '08.  And the last one on the non-GAAP tax rate.  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>The services margin I think was impacted by Business Objects, as I said in the beginning and you always see that we have an increase in margin throughout the year quarter-by-quarter.  I cannot give you a clear KPI today for the margin where we will stand but normally we should see the margin which is not lower than the one we provided last year if we get Business Objects closer to the level we have at SAP.  The US tax rate I think we speak with this 20, maybe 31 to 31.5% for the rest of the year.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Non-GAAP, that was US GAAP, right.  Or it was non-GAAP?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>I would say there is no difference.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>All right.  Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you.  This concludes the SAP Q1 earnings call.  Thank you all for joining and goodbye.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Good-bye.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Ladies and gentlemen that concludes today's conference call.  Thanks for participating and you may now disconnect.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

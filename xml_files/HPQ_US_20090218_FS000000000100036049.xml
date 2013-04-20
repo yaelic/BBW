@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1210628" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q1 2009 Earnings Call</title>
+    <date>2009-02-18</date>
+    <companies>
+      <company>260</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Jim Burns, Vice President, Investor Relations</participant>
+      <participant id="2" type="corprep">Mark Hurd, Chairman, Chief Executive Officer and President</participant>
+      <participant id="3" type="corprep">Cathie Lesjak, Executive Vice President and Chief Financial Officer</participant>
+      <participant id="4">Kathryn Huberty</participant>
+      <participant id="5">Mark Hurd</participant>
+      <participant id="6">Richard Gardner</participant>
+      <participant id="7">Cathie Lesjak</participant>
+      <participant id="8">Jim Burns</participant>
+      <participant id="9">Ben Reitzes</participant>
+      <participant id="10">A.M. Sacconaghi, Jr.</participant>
+      <participant id="11">Bill Shope</participant>
+      <participant id="12">Brian Alexander</participant>
+      <participant id="13">Shannon Cross</participant>
+      <participant id="14">Keith Bachman</participant>
+      <participant id="15">Mark Moskowitz</participant>
+      <participant id="16">Bill Fearnley, Jr.</participant>
+      <participant id="17">Doug Reid</participant>
+      <participant id="18">Jayson Noland</participant>
+      <participant id="19">Scott Craig</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good day ladies and gentlemen and welcome to the First Quarter 2009 Hewlett-Packard Earnings Conference Call.  My name is Fab (:09) and I'll be your coordinator today.  At this time, all participants are in listen-only mode.  We will conduct a question-and-answer session towards the end of this conference.  <mark type="Operator Instructions" /></p>
+          <p>I would now like turn the presentation over to your host for today's call, Mr. Jim Burns, Vice President of Investor Relations.  Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks, Fab.  Good afternoon and welcome to our first quarter earnings conference call with Chairman and CEO Mark Hurd and CFO Cathie Lesjak.  This call is being webcast live and a replay of the webcast will be available shortly after the call for approximately one year.</p>
+          <p>Some information provided during this call may include forward-looking statements that are based on certain assumptions and are subject to a number of risks and uncertainties, and actual future results may vary materially.  Please refer to the risks described in HP's SEC reports including our Form 10-K for the fiscal year ended October 31, 2008.  The financial information discussed in connection with this call including tax related items reflects estimates based on information available at this time and could differ materially from the amounts ultimately reported in HP's form 10-Q for the fiscal quarter ended January 31, 2009.</p>
+          <p>Earnings, operating margins, and similar items at the company level are sometimes expressed on a non-GAAP basis and have been adjusted to exclude certain items including amortization of purchased intangibles and restructuring charges.  The comparable GAAP financial information and a reconciliation of non-GAAP amounts to GAAP are included in the tables in the first quarter earnings slide presentation accompanying today's earnings release, both of which are available on HP's Investor Relations web page.</p>
+          <p>Before I turn it over to Mark, I just wanted to briefly touch upon a financial reporting item.  Each year as part of our first quarter annual financial review, we review our reported segments and make changes to reflect any organizational shifts among our businesses.  This year, we have moved the revenue and operating profit associated with portions of our former C&amp;I business from the Services segment into Software and IPG [Imaging and Printing Group].  In addition, we have moved certain pursuit related costs previously recorded in cost of sales to SG&amp;A to better align them to the functional areas they support.  This realignment of costs does not impact segment reporting and relates only to the line item within the P&amp;L in which the costs are booked.</p>
+          <p>A detailed reconciliation of the changes including historical data is available on our Investor Relations website as well as furnished on a Form 8-K filed with the SEC.  I want to be very clear that the changes do not impact HP's previously reported consolidated net revenue, earnings from operations, net earnings, or EPS.  This is just part of the annual fine-tuning of our financial reporting structure to better align it with how we manage the business.</p>
+          <p>I'll now turn the call over to Mark with a final reminder to please refrain from asking multipart questions or clarifications during the Q&amp;A.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Good afternoon, thank you for joining us.  In Q1, HP executed well in a challenging market; we grew revenue 1% or 4% in local currency, gained share in key markets, and grew non-GAAP EPS 8%.</p>
+          <p>HP is continuing to benefit from its market leading portfolio and leaner cost structure.  This quarter, we effectively balanced expense management with share performance and delivered on our commitments to our customers and our shareholders.  I'm particularly pleased with the results of our Services segment, which attained record profits of more than $1 billion in the quarter.  That's a big deal.  We now have a second segment with significant recurring revenues generating over $1 billion per quarter of profit and with solid room for margin expansion.</p>
+          <p>The EDS integration is ahead of the operational plans we shared with you in September.  At the end of Q1, we have removed more than 9,000 of the 24,700 head count outlined in our restructuring plan.  Customer response to the acquisition remains very positive, resulting in a couple of Fortune 100 wins this quarter and a strong deal funnel.</p>
+          <p>Before I turn it over to Cathie to talk about the financials, I wanted to highlight a couple of reasons, actually three of them, that I'm confident why HP will emerge from the current market environment as a stronger force in the industry.</p>
+          <p>First our cost structure, it's reduced.  It's more variable.  It's more performance oriented, and we have more opportunities ahead of us.  We now have more flexibility to be more competitive.  And with the actions we're taking, we will be yet more competitive in the marketplace.  In addition, as we have done this work, we have not cut into our muscle.  We have been able to focus on our sales, R&amp;D, and services strategies to further strengthen our capabilities in the marketplace.</p>
+          <p>Second, our portfolio; as most of you know, our portfolio was already strong, number one or two in virtually every market we serve.  The scale we have attained relative to those positions in the market and the addition of EDS has been a strong addition to our portfolio from a customer perspective.  It is a significant improvement in the impact our overall portfolio has in the market.  The customer reception has been strong.</p>
+          <p>Three, I would add our execution.  We gained share in almost all of our key segments while we lowered and variabilized our costs at the same time, while integrating EDS in an environment of volatile currency and worsening and toughening demand.  In many ways, I would tell you Q1 from an execution perspective was among the strongest we have delivered.</p>
+          <p>I'm going to now turn the call over to Cathie.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thanks, Mark, and good afternoon everyone.  Before I dive into the details of the Q1 performance, let me make a few comments about the business overall.  Services and Software delivered solid operating profit growth in the quarter with Services contributing over one-third of the Company's profits.  Services continues to execute effectively, maintaining customer service and achieving its EDS integration milestones.</p>
+          <p>We saw pressure on our hardware businesses due to the slowing global economy.  We reacted well in this tough market, outpacing the competition and gaining share in most segments. Operationally, we did a good job managing costs with operating expenses down over $0.5 billion from the prior year.  We will be taking additional steps this quarter to further variabilize our cost structure and enhance our flexibility in this dynamic environment.  We remain focused on optimizing our profitability, market share, and cash flow so that we can continue to drive innovation and strengthen customer relationships to expand our market leadership.</p>
+          <p>Turning to our Q1 results, revenue was up 1% year over year as reported or up 4% in constant currency, reflecting a full quarter impact of the EDS acquisition. Looking at revenue by geography, including the addition of EDS, Americas revenue increased 11% year over year.  EMEA was down 3%, and Asia-Pacific decreased 11%.  Excluding the effects of currency, revenue was up 13% in Americas, 1% in EMEA, and down 9% in Asia-Pacific.  While there were pockets of organic growth, the slowdown in IT spending was global.</p>
+          <p>Gross margins for the Company were 23.4%, down 130 basis points from 24.7% one year ago.  This decrease was driven primarily by the addition of EDS, which has lower gross margins. Non-GAAP operating expenses for the quarter were $3.6 billion, down $569 million or 14% from a year ago, despite absorbing EDS.  In addition to benefiting from the stronger dollar, this decline highlights the work we've been doing over the last few years to make our cost structure leaner and more flexible.</p>
+          <p>During the quarter, we took a number of actions to reduce expenses, including extending the December holiday shutdown, significantly reducing travel, and eliminating other discretionary spending.  We will continue to take actions to create a more variable cost structure, including reducing base pay and certain benefits across the Company beginning in Q2.  Consistent with our philosophy for pay for performance, we intend to increase variable pay in total if HP meets its FY '09 financial objectives.  These actions will increase the Company's flexibility to more effectively scale our expenses to our revenue in this difficult environment.</p>
+          <p>Non-GAAP operating profit increased 10% year over year to $3.1 billion, driven by strong expense management and solid contributions from Services and Software.  On the bottom line, this was offset by the unfavorable swing in OI&amp;E of $304 million, which included $99 million in expenses due to currency hedging losses related to forecast deviations.  All in all, we delivered solid non-GAAP earnings per share of $0.93.</p>
+          <p>Now moving on to the details of our performance by business, Personal Systems business revenue declined 19% year on year to $8.8 billion while delivering operating profit of $435 million or 5% of revenue.  Total unit shipments declined 4% from a year ago, with notebook unit growth of 8% offset by desktop systems declines of 15%.  Average selling prices declined more steeply this quarter due to product mix, competitive pressures, and passing through of the lower commodity costs in the form of pricing.  PSG continues to execute well in this softening demand environment.  We responded quickly by managing inventory and preserving margins while gaining share.</p>
+          <p>Imaging and Printing revenue for Q1 was $6 billion, down 19% year on year due to a tough economic environment.  Segment operating margin increased 300 basis points to 18.5% as favorable supplies mix and cost reductions were partially offset by hardware discounting.  Compared to first quarter last year, total printer units were down 33% and commercial and consumer hardware revenue declined 34 and 37%, respectively.</p>
+          <p>Supplies revenue declined 7% as lower end-user demand more than offset the benefit of recent supplies price increases.  Customers are extending the life of their printers and our installed base remains stable.  We maintained strong market position in printing and will continue to invest in market leading innovations focused on high page value segments and drive the conversion to digital printing.</p>
+          <p>Enterprise Storage and Servers revenue was $3.9 billion, down 18% year over year, with declines across each of our business units.  Operating margin was down 3.7 points to 10.3%, driven by lower volumes and an unfavorable mix shift to lower margin products.</p>
+          <p>ESS blade revenue increased 4% compared to the prior year period.  Storage revenue declined 7%, driven primarily by unfavorable currency exchange rates and market conditions.  EVA was down 7% with growth in the Americas offset by declines in EMEA and Asia-Pacific.</p>
+          <p>Turning to our Server businesses, Business Critical Systems revenue declined 17% and Industry Standard Server revenue declined 22% from the prior year, even as we gained almost three points of share in the x86 market in calendar Q4.  Our results reflect the current market environment and in particular the slowing we saw in January as customers reevaluated their spending and delayed purchases of equipment.</p>
+          <p>HP Software revenue declined 7% from the prior year to $878 million due to softening enterprise spending as the quarter progressed.  BTO [Business Technology Optimization] was down 4% from the prior year and other software declined 14%.  The port performance was solid across the portfolio, reflecting strong maintenance renewals and the sustained business value of our solutions.</p>
+          <p>For the quarter, Software operating margins increased 10.7 points to 15.9%, due to a favorable mix and solid expense management.</p>
+          <p>Services including the addition of EDS delivered revenue of $8.7 billion.  On a year-on-year basis, operating profit in the quarter more than doubled to $1.1 billion or 12.8% of revenue, reflecting our sustained efforts in reducing the cost of service delivery as well as the addition of EDS.</p>
+          <p>Drilling down into the Services businesses, we will now report sub-segment revenue performance by four business units.  For Q1, revenue was $3.9 billion in IT Outsourcing, $2.5 billion in Technology Services, $1.6 billion in Application Services, and $743 million in BPO [Business Process Outsourcing].</p>
+          <p>The EDS integration is ahead of schedule.  We have made significant progress combining the business units and are on track with our country level merger plans.  Cumulatively through Q1, we have eliminated over 9,000 positions and are on plan to achieve the cost synergies we outlined in September.</p>
+          <p>Customers are responding positively.  Our total pipeline is growing and we have already seen the benefit of our joint capabilities in wins this quarter including significant signings at two Fortune 100 companies.</p>
+          <p>Finally, HP Financial Services had revenue of $636 million, down 1% year over year, and generated operating margin of 6.4%.  We continue to apply the same rigorous process for assessing the creditworthiness of our customers, and the quality of our receivables and the overall portfolio is performing well.  We are encouraged with the growth in our financing volumes despite a currency headwind.</p>
+          <p>Now on to the balance sheet and cash management, we closed the quarter with a strong balance sheet including total gross cash of $11.3 billion.  Days sales outstanding increased to 46 days in Q1 from 39 days one year ago.  Days payable was 46 days, down one day year on year, while owned inventory was down two days to 31 days.</p>
+          <p>With regards to channel inventory, we ended the quarter with PSG up 0.5 week, ESS up a week, and IPG up 1.5 weeks compared to a year ago.  The increases in weeks of inventory were primarily due to weaker aggregate sales out compared to a year ago.  Sequentially, total channel inventory dollars declined.  We expect further reductions in inventory levels as we adjust to a softer demand environment.</p>
+          <p>Gross CapEx was $828 million, up 36% from the prior year period.  On a net basis, CapEx was $676 million, up 29% year over year.  Increased capital expenditures were primarily related to the growth in our leasing and outsourced services businesses including EDS.</p>
+          <p>Cash flow from operations was $1.1 billion for the quarter and free cash flow was $450 million.  Q1 cash flow was unfavorably impacted by the softening economy.  ESS and PSG responded quickly to the change in demand while IPG inventory levels remained above plan.  We will be working to bring down both our owned and our channel inventory in the coming quarters.</p>
+          <p>Share repurchases in the first quarter totaled $1.2 billion or approximately 34 million shares.  At the end of the quarter, we had roughly $7.9 billion remaining in the current share repurchase authorization.  Finally, we paid our normally quarterly dividend totaling $193 million.</p>
+          <p>Looking ahead to our outlook for Q2 and fiscal 2009, in providing our guidance for the second quarter and full year, we are assuming market conditions we saw in Q1 will persist.  In addition, we expect that currency exchange rates will have a negative effect on revenue of seven or eight percentage points year over year for both the second quarter and the full year.  Finally, we expect OI&amp;E expense of approximately $0.05 per quarter, a tax rate of approximately 21%, and a modest decline in weighted average shares outstanding.</p>
+          <p>With that in mind, our second quarter EPS guidance is based on Q2 revenue declining 2 to 3% from the prior year including EDS.  At these revenue levels, we expect our non-GAAP EPS to be approximately $0.84 to $0.86.</p>
+          <p>For the full year, our EPS guidance is based on the assumption that our revenue may be down 2 to 5% as reported, including the benefit of EDS.  At these revenue levels, we project 2009 non-GAAP EPS of approximately $3.76 to $3.88.</p>
+          <p>While we don't know how the economy will evolve, assuming that our revenue is roughly within the ranges I've described, we remain confident in our ability to forecast EPS given our line of sight to significant cost saving opportunities and our increasingly variable cost structure and our track record of disciplined execution.</p>
+          <p>With that, we'll open up the call for questions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" /> your first question will come from the line of Katy Huberty from Morgan Stanley.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Good afternoon, thanks.  Mark, the rate of deceleration in BRIC countries was particularly alarming.  Can you just talk about whether you did anything on the financing front or with channel inventories that exaggerated the downtick, and maybe just touch on whether you've seen a stabilization in demand in areas like China where there are some government rebates going into place?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>A lot of questions there; no, we didn't do anything to accelerate the deceleration.  I would tell you that what we've seen is very uniform.  It's remarkably consistent across the markets.  There are a couple of exceptions.  Brazil was an exception in the quarter, but the rest of the BRIC countries behaved pretty uniformly.</p>
+          <p>I would say in China to your point we feel pail is a little different.  We see a little more I'll use the term negativity in or softness in the enterprises.  So to your point about some of the things that have been done in China, we do see some of those impacting on the enterprise segment.  Katy, we really did nothing to decelerate that.</p>
+          <p>Russia was a particular issue in the quarter.  I think those have been well chronicled and we certainly saw that in Russia as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Great, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question will come from the line of Richard Gardner with Citigroup.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Thanks.  The question is on EDS.  You talked about cost synergies related to the deal being ahead of plan.  Can you talk about revenue synergies and how that's trending versus your expectations?  It did look like revenue for EDS was much lower than we had expected in the quarter given a full quarter benefit there.  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>If you actually look at EDS on a combined company basis, getting them in the base for last year and also this year for the quarter, revenue declined roughly 15%.  About half of that drop was due to currency.  So they have a significant exposure, or we have a significant exposure to the British pound, where EDS was strong in the UK.  And so we were definitely hurt by that.</p>
+          <p>There were also a few points of headwind related to the accounting policy on convergence and purchase accounting.  That was probably slightly behind what we had anticipated.  And then we had &#x2013; the rest was basically real, I would say real demand declines.  And that was predominantly in the area of Application Services where there are more discretionary services that we sell.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Rich, I would say to Cathie's point, I would tell you the revenue issues there relative to local currency, no big deal.  What you got was the pound didn't go in line obviously with the euro and so the currency hit was material.  That's where it starts.  That's a big part of it, and then the convergence on policy.  The place where we saw a little softness was the typical add-on business that you'd see on top of a contract, to Cathie's point; and that was probably the only softness we saw in the quarter.  Otherwise if you looked at it net-net, it was roughly what we expected, Rich.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>If I were to quantify that, a few points of the 15% decline was the add-ons.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay, but you're happy with customer retention there.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Or more.  Listen, let me go back and give it to you another way, Rich.  I would tell you, we have seen a customer reaction that probably is &#x2013; let me make sure I keep this calibrated, but it's just better than we expected.  The funnel is strong.  As you know in many cases, the services market moves a little bit countercyclical to the economy, so the interest now in an IT outsourced, inter-app services.  I would also combine that to be, to be open with you, what happened with some of the companies or with Satyam, for example, has created interest as well.  So we have a pretty strong funnel right funnel.</p>
+          <p>What we really have to, Rich, is make sure again we're very disciplined about the deals that we go pursue.  There are more deals than &#x2013; we need to make sure we're properly doing the right thing and going after the deals with discipline.  The funnel is strong.  The customer reception is strong.  To Cathie's point and what I think we said earlier, we've gotten ahead of the integration plan, which is a positive.  But we have more work to do and we know that.  We feel real good about it though.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Thanks, Rich.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question will come from the line of Ben Reitzes with Barclays Capital.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Yes, good afternoon.  Mark, if I'm calculating this right, quickly, your revenue outlook for the year, you guys have cut off, taken the midpoint as roughly 13 billion in revenue versus what you said three months ago, but only cut EPS, your EPS range by about $0.12.  Could you bridge the gap for us?  I mean, you said you had $1 billion before you bring to the bottom line.  Can you talk how quickly that's hitting, and then anything in particular segments that you feel you're getting more efficiencies to give us confidence that you can hit this new range?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Listen, Ben, I think you saw how the model worked.  If you just do your math, your same math in Q1 relative to that math on revenue to what it dropped in earnings.  I think it's a good question, particularly let's take for example PSG.  I hope what investors see in this quarter is the resiliency of the PSG model and the variability of that expense structure.  And I'd add to it, they had another headwind in the quarter, which was the speed &#x2013; the currency impact, in a normal world doesn't really have a huge impact on the results in PSG.  But when the speed of the currency declines like what we saw in October and November, it can have an impact on the margin as you try to adjust price.  And the PSG model is, I think, proven now to be extremely resilient.  The variabilization of that cost structure is extremely material to us, not just in terms of earnings, Ben, but in terms of our ability to compete and the ability it gives us in the marketplace as we go out and deal with what we have to go through.</p>
+          <p>From a services perspective, I think hopefully what you've seen in this quarter is evident when you look at the combination of an EDS whose prior year was in the five and change operating margin range, combined with Technology Services and the fact that the combined businesses produced 12.8% operating profit, showing the kind of leverage that we have in our Services business and now the incline in recurring revenue that we have within it.  So I could go on segment by segment but I'll give you those couple pieces of color.</p>
+          <p>In addition to that, as we mentioned in the last call, we're taking out more costs in '09 than we were in previous years.  And that is not, Ben, again, a one-trick quarter thing.  This is the culmination of several years of work.  And as you know well, I'm not a big believer in short-term cost takeouts that you're going to have to put back two quarters from now.  And I want to be clear.  There is a little bit of that in what Cathie described in the discretionary piece of some expenses like travel that sooner or later you add back into your model.  But the bulk of what we're telling you is structural costs that sustainable in our cost model.</p>
+          <p>We're not big on throwing out a bunch of earnings guidance that we don't think we can make.  I think in the range that Cathie described of revenue, the range of earnings that we told you, we believe we can make, Ben.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>And the discretionary cost actions that we took in Q1 actually have a build as you go out into Q2, Q3, and Q4.  They actually get larger on a year-on-year each year, so we have that cushion as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>But to clarify, the number of cost out is over 1 billion now, based on all these things you're doing?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Definitely.  And Ben, let me &#x2013; and you just happen to be the guy.  So I'm going to stay on it just for a second.  I want to make sure we're clear.  We're not taking down the number of engineers we have in R&amp;D.  We actually, this quarter, I think head count, actual engineering head count is up.  Sales head count we're not trying to purposely take down unless we have a performance issue related to sales head count or we're shifting people from a back end part of sales to a front end tip of the spear part of sales. We're trying to incline and improve our level of service.  So I don't want any of that cost being confused with some material part of the innovation, the creation of demand, and the servicing of demand.  We're actually not only trying to reduce that cost but shift into what we think are the core parts of the technology business.  That's what we're doing.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Thanks, Ben.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Let's take the next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question will come from the line of Toni Sacconaghi with Sanford Bernstein.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yes, thank you.  I wanted to follow up on your commentary about supplies.  If we look at supplies growth over the last three quarters prior to this one, it had been nine to 11%.  This quarter, it was minus seven, so about a 16 to 18% swing negatively.  And yet you should have begun to enjoy two 5% supplies price increases.  So if your installed base is the same and the usage is ultimately what has changed, are you really seeing about a 20% change in supplies usage in one quarter?  Is that effectively what you're seeing, or is there other stuff behind it?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Toni, I think your math is roughly right.  I mean, there are lots of puts and takes in terms of what goes into what's driving the decline in supplies.  We certainly had a benefit of pricing and we'll have that benefit in Q2 to Q4 as well, in fact an increasing benefit.  But the bottom line is, folks, the end-user demand for supplies is down.  And we actually expect with the change in channel inventory that we want to make in Q2 and that's included in our guidance already, but with that change, that supplies growth will go yet even more negative than 7% in Q2 and Q3.</p>
+          <p>So we do think there are significant headwinds still ahead of us on supplies growth and that that won't turn around until the economy starts to rebound.  And at that point in time, we do believe we get back to a market that's going to grow in the mid-single digits.  But we do need the economy to start to turn around so that folks start printing more and frankly start stocking their pantry again because we do think that there's a certain amount of that going on in the consumers' homes as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>I think, Toni, we do a lot of work on this, as you know.  There's definitely an alignment between, or at least some alignment between GDP and unemployment and printing.  So when you get down at the end of the day, when you don't have a job, you're not printing as much is typically how it works.  We've got a pretty good set of sophisticated models.</p>
+          <p>But there also are these other issues that Cathie described.  We're trying to get the inventories in the right place.  And with the speed, as to Cathie what she mentioned in her script, we've got some work to do.  The price increase, to your point, is a positive.  But to be very blunt with you, I'm not entirely happy with how the inventory got distributed within the context of the quarter, meaning that we have the right thing at the right place at the right time, and we've got some work to do on that part of it; so some of it, Toni, is the external factors that Cathie went through.  We've got some internal stuff to just get right, too, as we get back to this range that Cathie described.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay.  Can you just comment on aggregate supplies inventory then in dollar and weeks terms, have they changed in the quarter?  I know you had made some comments about printing overall in your prepared remarks.  Could you make any comments on supplies, given that it sounds like that's an issue you're going to be working on?  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Channel inventory weeks were up year on year across both hardware and supplies.  We definitely saw channel dollars decrease sequentially.  But what you're really seeing with the weeks of supply, and it applies to hardware as well as to the supplies piece, is a significant decline in sales out in Q1.</p>
+          <p>So typically we would see an uptick in sales out from Q4 to Q1.  This time we saw a double digit decline.  And part of the &#x2013; frankly, the execution challenges that I think we had, especially in EMEA, are from the fact we did not respond quickly enough with our channel inventories to the demand environment that was upon us in Q1.  And that's a piece of the execution that we absolutely are focused on getting fixed in Q2.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>And Toni, to add to it, we've made the decision that we're &#x2013; the revenue guidance we're giving you is because we just don't want to bank on the fact that the economy is going to get better.  We just don't see a catalyst to change it, so we've chosen to say we want to get our channel inventory levels in line with that.  And to Cathie's point, most of our businesses got that done in Q1, so that's a good thing.  But we want to get it done in supplies as well.</p>
+          <p>Now listen, I hope it gets better in Q2 than we're modeling.  I hope it's better in Q3.  I hope it's better in Q4.  But that's not how we decided to run the Company.  We decided to be prudent and we're deciding to lean out the channel and make sure we're in a lean position as we go forward.  So that's included in these models that we're giving you.  And listen, I guess in this context, I'd say I hope it turns out better than what we're telling you.  But right now, we think it's prudent for us to go lean out the channel.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Let's take the next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question will come from the line of Bill Shope with Credit Suisse.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay, great; thanks.  Mark, I wanted to follow up on that IPG question.  How should we, given the environment and given the falloff in consumables, how should we think about the margin profile here as we progress through 2009?  I mean it looks like this quarter, you certainly had a boost in margins, partially from weaker hardware performance.  But I'm assuming you don't want that type of a margin boost to persist, so you don't want hardware to continue to deteriorate.  How does the math play out here and how should we think about that?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>That's a good question.  Listen, I think to your point, this quarter &#x2013; and in our models that we've included in the guidance we have given you, there is probably a small softening of IPG margins as part of how you go through the year, but still, probably given the way this economy plays out, a little higher than our traditional models give you.  I hate to give you an exact number because we're going to try to be the nimble in the context that if we see more units in a certain segment, we're going to try and go get them.  So we maintain that flexibility in the model.  But I would tell you given what we're seeing right now and given what we've modeled, it will be a little bit higher than what you've seen in the past.</p>
+          <p>Now in fairness, Bill, they're also benefiting from some of the lower cost structures across the whole company.  So it isn't just purely IPG.  But the bulk of it is I would say, Bill, modeling a little higher than what you've seen in the past given the mix that we're seeing right now.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Thanks, Bill.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question will come from the line of Brian Alexander with Raymond James.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Thanks.  Mark, I was wondering if you could be a little more specific in terms of how far you are ahead of plan in integrating EDS.  At the Analyst Day, you talked about 700 million in gross savings.  What does that number look like now for this year, next year, and beyond?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Brian, my quick answer would be no.  I'm not going to lay out the plan any more than we have but to tell you that the team has done a good job.  I think we &#x2013; in May, I was excited when we announced it.  In September, I was very pleased with the work that had been done.  I'd tell you today I'm thrilled with the work, but we have more to do.</p>
+          <p>Certainly we had given ranges that would take us five to six quarters to get much of this work done.  I still think, Brian, we'll be doing work five to six quarters from now to get the entire model where we'd like to.  I do think that has us probably operate a little faster than we planned when we look at it against the total, meaning as a percent of the total.  But we have work to do as we go out over the next several quarters, but we are ahead of schedule.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Maybe just a quick follow-up; Cathie, the payables were down about 1.5 billion, so essentially it had a pretty large negative impact on the cash flow in the quarter, just a little bit more color on what's behind that and how we should think about that going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Brian, I actually think the issue isn't the payables.  The payables came down the way you would expect the payables to come down given the revenue declines that we saw.  What really was the negative impact on cash flow was that inventory didn't come down the way it needed to come down.  And this gets back to the execution issue and challenges that we're having in the IPG business.  Again, we need to get that inventory down.  We did a good job in PSG and ESS, and we've got work to do to fix that in Q2 and Q3 for IPG.  But that is really what the issue is with the decline in cash flow.  Payables came down as you would have expected them to.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question will come from the line of Shannon Cross with Cross Research.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thank you, good afternoon; a question on cash flow, Cathie, just to follow up to Brian.  For 2009, how should we think about cash flow given the reduced guidance, but opportunities on working capital?  And also how do you see the capital structure of the Company as you look through the year?  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>When I think about the cash &#x2013; I'm sorry, am I echoing?  Anyway, when I think about the cash conversion cycle, I really go back to what I said in Q4 when I was asked about the cash conversion cycle.  I'm sorry, this...</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Shannon, I think you need to close your line or something because we've got a lot of feedback here.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>I apologize, I'm actually out of the country.  Just in terms of cash flow for 2009, how do you think about that?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>I actually...</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Operator, can you please mute the questioner?  We're getting a lot of feedback.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thank you.  Shannon, in terms of the cash conversion cycle for '09, if you remember I talked at the Q4 earnings call about the fact that I still thought there was opportunity, and I gave you some puts and takes on that.  I said that basically DSO is a basic headwind, and we're seeing that happen.  You saw our DSO basically come up this quarter again.  It's the headwind of more Enterprise extended payment term type customer business, folks not taking advantage of the cash discounts in the channel.  But that's all basically what we built into our plan, to be frank.</p>
+          <p>And then where the opportunity is, is on days of inventory.  And I'm talking about opportunity beyond getting just the IPG inventory fixed over the next couple of quarters.  I think there's still opportunity there to really streamline our supply chain, especially in the IPG space.  And then also with represent to payables, I also see there is still some opportunity there.  We are getting much better at managing our payables.  But we have not done all of the things that we can do and we're in the process of implementing them.  I do think that from a working capital perspective, things are going to continue to progress in '09.  And then you can look at what our earnings are based on the guidance that we provided to get a sense of where the cash flow should come out in 2009.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We think overall, we'll have a good cash flow year.  I think one thing, Shannon, it probably relates better to Brian's question earlier.  One thing that hit us on the cash flow was we bought early in the quarter from a days of inventory perspective and we didn't buy late.  So to Cathie's point, PSG obviously was going towards a number and then didn't realign their days of inventory.  Much of that cash flow comes back over time, so we would see a pretty reasonable cash flow.  Again, it starts with earnings, to Cathie's point.  We'll get the days of inventory.  When you look at the broader year, given that conditions stay similar to Q1, which to be very blunt, I hope they better.  If they stay similar to Q1 we'll get the days of inventory right as we go.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question will come from the life of Keith Bachman with Bank of Montreal.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Hi, thanks.  Mark, I was hoping you could just talk a little bit about the Services operating margin.  I know you didn't want to talk about the cost associated with it or the opportunities there for cost relief.  But I wanted to see if you could talk a little bit about the Services operating margins, how we should be thinking about that going forward, particularly against the next couple of weak seasonal periods.</p>
+          <p>And then Cathie, I just wanted to see if I could add a footnote to the previous question on cash flow if I could, in that this quarter your buyback was substantially above your free cash flow, and just how you think about the use or the free cash flow that you'll generate during the course of the year, buyback versus debt relief.  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Keith, I'll start, thanks for the question.  We think Services margins will improve.  So I think that's probably not the level of detail you're looking for.  But I would tell you that we've gotten deep into this now, as you can imagine.  We started really getting inside our models in September, late August as we closed the transaction with EDS.  We obviously know a lot more some four, five months later.</p>
+          <p>I would also add, this is the culmination of a lot of work in what we call our Technology Services business as well which is more of our hardware support business, which we did a lot of work on in 2008.  So it's really the culmination of all that work in what we call TS and this integration of EDS combined.  And I would tell you that while we're pleased and I'm sure optically the 12.8 looks very strong, I know it does.  We actually think there is improvement in that operating margin over time because of the work that we've done that &#x2013; let me say that we've already done that we know will line up with the remainder of this year and into next, Keith.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>In terms of free cash flow and share repurchase, the way we actually think about our share repurchase program is we look at first offsetting zero dilution, and then being opportunistic, and definitely have seen the cost of zero dilution coming down and that's why you see the share repurchases coming down a bit as well.  We haven't really tied it directly to I'm only going to spend whatever the free cash flow is in a particular quarter.  And even when we do look at free cash flow, we look at it over a longer timeframe.  So that's really what drives our share repurchase activity.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Thanks, Keith.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question will come from the line of Mark Moskowitz with JPMorgan.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thank you, good afternoon; a question, Mark or Cathie, on the defensibility of your recurring revenues.  You seem very constructive about the Services contribution.  I want to see if you can first just talk about the Services contribution through recurring revenues?  And are you starting to see customers try to rescope or change the economics or the time horizons of your recurring piece there?   And what about the other parts outside of Services in terms of recurring revenues, how defensible?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Mark, I was just trying to make sure I got your first one right.  Did you say extensibility?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>No, defensibility.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Defensibility</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Sorry about that.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Listen, in terms of the market right now, most of that Services revenue is contracted; so when you say change scope, no.  In fact if anything, what you've got in the market right now are customers trying to &#x2013; I'm making a generalization, Mark, so I'm not talking for every single customer, but more customers are trying to add things on.</p>
+          <p>What customers will be doing, think instead of doing this, could you do this.  Of course customers are always looking for three things every time you get into a service transaction.  They want to know: how can you lower my cost; how can you accelerate my transformation; and how can you get me higher service levels.  Those three things always trade off with each other any time you go at a Services transaction.  So customers right now are leaning harder on the cost takeout piece than perhaps they would have a year and a half ago.  So that actually gets a bit of an incline in your funnel as you look at it.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>And then with respect to recurring revenue, when we said last quarter that roughly a third of our revenue was recurring and it generated over half the profits of the Company, what we did was we actually didn't add &#x2013; just take Services and add in Supplies and add in HP Financial Services.  We actually scrubbed those numbers.  If you actually add up the revenues in each of those segments, you would get something on the order of 40-odd percent recurring.  What we did was we scrubbed them.  And specifically, with respect to services and consumables on the IPG side of the house is we basically looked at how they have acted in the past recessions and scaled them back and came up with that one-third.  So I actually feel very comfortable that the one-third &#x2013; or roughly one-third is very defensible.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question will come from the line of Bill Fearnley with FTN Equity Capital.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Good afternoon.  Mark, I had a question for you.  When you look at PSG, how do you look at the whole netbook segment now?  When you look at the average selling prices, is it being cannibalized?  Are the netbooks cannibalizing your mainstream notebook business?  How is it affecting ASPs and margins this quarter, and how do you think it's going to affect you here in the next few quarters?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Bill, it's an interesting question.  I've seen in print from people who claim expertise that 80% of netbooks is net new &#x2013; no pun intended, and 20% is a cannibalization of the low end of the notebook market.  We'll have to see over time how that evolves.  I say this; we feel pretty good about our lineup of netbooks.  It has done well for us in what we have done so far.  We're just out, just out being defined in the last several months.  So I think we've got some time before I can really give you a good metric and good consumer data back on where this lands.  So I hate to duck your question, but I'd like to have a bit more data before I give you anything.  And I hate to recite to you what industry people are saying because I'm not giving you any new insight.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>But you had hinted the average selling price declines in PCs, so sharp declines in your traditional products on the...</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>I wouldn't go there, Bill.  I wouldn't go there, Bill, because I think you've got different factors occurring when you look at the overall ASP in PSG &#x2013; ASPs in the marketplace.  You have a mix issue even within the mix.  So what you're really seeing is not a move to notebooks that's cannibalizing certainly in this quarter of results.  What you have is somebody who was buying a more thickly configured notebook now buying a more thinly configured notebook.  And we're seeing mixes within the mix actually changing, and that's what's driving most of the ASP, not a shift down to netbooks.  So now let me give you that; that data I gave you within the context of our quarter.  So that is not a significant &#x2013; there is no significant phenomenon of ASPs in the HP lineup caused by netbooks.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>The other items that are affecting ASPs on a year-to-year basis are currency as well as just general pricing.  So the commodity environment, commodity prices have come down.  And that is getting taken in the prices down to the streets.  And that wasn't happening as much a year ago where some of the softness in the commodity cost environment was actually basically being -- stayed in our pocket and didn't go to the street.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>But again, Bill, when we say pricing, I want to make sure I'm clear with this.  We're not seeing any abnormal competitor pricing environment.  This is more of a mix within the product family and the commodities now adjusting as we've gone through time.  So again, I know I'm giving you a complicated answer because there is a lot of data here.  But it is not a netbook phenomenon driving those ASPs.  It's more the mix within the mix that's really behind this, Bill.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Thanks for the detail.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Sure.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question will come from the line of Doug Reid with Thomas Weisel Partners.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Thanks for taking my question.  I just wondered if you could comment on the degradation in operating margin in the ESS segment.  Year over year, it looks like it's down 370 basis points.  I wonder if you could give some color on the breakout there, competitive pricing, product mix, and maybe currency impact.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>So the margins were down mostly because &#x2013; on a year-on-year basis mostly because of the competitive pricing environment.  Again, if you look at last year, we had a situation where the commodity pricing environment was just not as competitive, so you were able to keep a lot of the commodity pricing &#x2013; I mean, the commodity cost declines and maintain your prices.  This year, we're passing way more of that through to the customer.  And we also have a change in mix where, again, like PCs, it's moving.  More customers are moving to a lower end, less configured, less Business Critical Systems mix, that type of thing drives margins down as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We saw a lot of movements, Doug, in the quarter from people buying a 2P industry standard server now buying a 1P, somebody buying a less configured blade.  So to Cathie's point, very similar phenomenon you see in PSG.  And so again, when you looked at the margin of the actual product that was being sold and compared it to the margin of the exact same product a quarter ago, you did not see a material erosion in that margin.  What you see is a shift of what's being sold within the overall portfolio of revenue shifting to the lower end.  And so these are all things that we've taken into consideration in the model that we've given you that you actually see people that are trying to buy, actually trying to buy as little as they can buy in the context of getting what they need to get done.</p>
+          <p>So I would also tell you that I think in Industry Standard Servers, as Cathie described, we gained 2.5 points of share I think in the quarter.  To be very frank, we weren't pushing hard on the street price.  So I think you've got an environment that really is demand driven and it's demand driving a different mix that's having an impact.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>We did have a bit of offset to that in the fact that we did manage our expenses very well and did get operating leverage.  Expenses were actually down year on year more than revenue was down.  So we did a good job on that side as well trying to offset some of margin pressure.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>I think that too and I'll leave it since we got on this one.  I think ESS probably is going to go out gaining share in virtually every segment they compete.  They did a pretty good job in the quarter, maybe not quite as quick as PSG got its inventory and its channel inventory lined up, but they were running a close second with them.  So they came up getting their expense structure lined up, gaining share.  It wasn't for us operationally a bad quarter in ESS at all.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Why don't we take two more questions, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question will come from the line of Jayson Noland with Robert Baird.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Thanks, just a question on the hardware refresh delays, Mark, if you could talk about visibility that you're given from customers, do they just say it's indefinite?  Do they say it's going to be a few quarters, just generally across PC, server, and print?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>I could tell you lots of long stories about what they tell you but I'll give you a data point.  I think there was a question earlier about recurring revenues.  One of the data points we saw early in the quarter was the renewal rate in Technology Services, and that being our hardware support business, and the renewal rates were very high.  And we service some material obviously part of the HP base, and we actually service third-party hardware as well.  So I think you've got a lot of companies saying, I'm going to hang on to my install base longer. Now they can only do that for so long.</p>
+          <p>But I think you've got a couple of factors going on right now.  New projects are being scrutinized very, very hard for ROI and short-term ROI.  Second, people are taking their existing base and telling the IT department or the CIO can't you just do without a refresh a month longer or two months longer or three months longer, and they'll continue to do that until the PCL makes sense.  At some point, this will create a big refresh opportunity, and obviously we want to be in a position to capture that.  But at this second, Jayson, I can't give you a date.  I can't give you a specific metric on when this thing is going to turn.  It will turn and we hope to be in a position to garner a material piece of it.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>It makes sense, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your final question will come from the line of Scott Craig with Banc of America.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Thanks, good afternoon.  On the inventory side, Mark, you spent a lot of time talking to the IPG group there and the issues.  But both ESS and PCs were up a week and half a week respectively.  When you think about a normal range of channel inventories for those two groups, where are we there?  Are we towards the high end, the mid end, low end?  If you provide a little color there, it would be appreciated.  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>With respect to PSG channel inventory, the year-on-year compare, we are up a week.  But last year, we were at the very low end of our range.  And so we feel good about the PSG channel inventory.  There are no concerns on the PSG inventory.  It's only up half a week.  ESS being up a week, it's near the top of the range, and so we would like to bring that down.  And we've got that factored into the operational plans for Q2 as well as in our guidance.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We'll get &#x2013; all the channel inventory stuff we'll get nailed.  And that's all within the guidance that we've given you.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>That does conclude today's question-and-answer session.  I would now like to turn the call back over to Mr. Mark Hurd for closing comments.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>I appreciate all your time on the call.  We had solid performance in a tough market.  We gained share in most segments while delivering margins and driving our cost structure we think into a more advantaged position, both lowering it and variabilizing it.  We're ahead of plan on the EDS integration and our Services businesses delivered as planned.  Our strategic moves and operational execution we think positions Services as a significant player in our overall portfolio.</p>
+          <p>In terms of the market, we've modeled the market to get really no better for the rest of the year.  We view it what we saw in Q1 is roughly what we will see for the rest of the year.  We see the opportunity here for us to put the Company in a better position to lever the strength of our model, expand our penetration in the market, and accelerate our cost actions.</p>
+          <p>I want you to be confident in our ability to execute and deliver the EPS guidance within the revenue ranges that we have spelled out.  The questions I think that you have brought up about cash flow, cash flow will come back as we execute on the capital metrics that we set in place.  We have baked in basically all the factors we've described, including the supplies factor that we described earlier into the models that we have given you.  We're going to get about the job of executing.  And we'll talk to you at the end of Q2.  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you for your participation in today's conference.  This concludes the presentation.  You may now disconnect.  Have a wonderful day.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

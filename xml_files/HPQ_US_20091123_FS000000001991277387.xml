@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1264457" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q4 2009 Earnings Call</title>
+    <date>2009-11-23</date>
+    <companies>
+      <company>260</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Jim Burns, Vice President of Investor Relations</participant>
+      <participant id="2" type="corprep">Mark Hurd, Chairman, Chief Executive Officer and President</participant>
+      <participant id="3" type="corprep">Cathie Lesjak, Executive Vice President and Chief Financial Officer</participant>
+      <participant id="4" type="analyst">Bill Shope</participant>
+      <participant id="5" type="analyst">Kathryn Huberty</participant>
+      <participant id="6" type="analyst">Benjamin Reitzes</participant>
+      <participant id="7" type="analyst">Richard Gardner</participant>
+      <participant id="8" type="analyst">Toni Sacconaghi, Jr.</participant>
+      <participant id="9" type="analyst">Keith Bachman</participant>
+      <participant id="10" type="analyst">David Bailey</participant>
+      <participant id="11" type="analyst">Shannon Cross</participant>
+      <participant id="12" type="analyst">Scott Craig</participant>
+      <participant id="13" type="analyst">William Fearnley</participant>
+      <participant id="14" type="analyst">Brian Alexander</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good day, ladies and gentlemen. And welcome to the fourth quarter 2009 Hewlett-Packard earnings conference call. My name is Latrice and I'll be your conference moderator for today. At this time all participants are in a listen-only mode. We will be facilitating a question-and-answer session towards the end of this conference. <mark type="Operator Instructions" />. As a reminder, this conference is being recorded for replay purposes.</p>
+          <p>And I would now like to turn the presentation over to your host for today's call, Mr. Jim Burns, Vice President of Investor Relations. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you. Good afternoon. Welcome to our fourth quarter earnings conference call with Chairman and CEO Mark Hurd and CFO Cathie Lesjak. This call is being webcast and a replay of the webcast will be available shortly after the call for approximately one year.</p>
+          <p>Some information provided during this call may include forward-looking statements that are based on certain assumptions and are subject to a number of risks and uncertainties and actual future results may vary materially.</p>
+          <p>Please refer to the risks described in HP's SEC reports including our most recent Form 10-Q. The financial information discussed in connection with this call included tax-related items reflects estimates based on information available at this time and could differ materially from the amounts ultimately reported in HP's 2009 Form 10-K.</p>
+          <p>Earnings, operating margins and similar items at the company level are sometimes expressed on a non-GAAP basis and have been adjusted to exclude certain items including amortization of purchased intangibles, restructuring charges and acquisition-related charges. The comparable GAAP financial information and a reconciliation of non-GAAP amounts to GAAP are included in the tables and in the slide presentation accompanying today's earnings release, both of which are available on the HP Investor Relations Web page at HP.com. Finally, please refrain from asking multiple questions during the Q&amp;A.</p>
+          <p>With that I will now turn the call over to Mark.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks, Jim. Good afternoon. And thank you for joining us. In the fourth quarter, Hewlett-Packard continued to execute delivering solid performance while building for the future. Revenue of $30.8 billion was roughly a billion dollars above our guidance.</p>
+          <p>Sequentially we grew revenue 12% while growing non-GAAP earnings per share to $1.14 demonstrating the leverage of layering growth on our reduced cost structure. Year-over-year we expanded non-GAAP operating margins by 170 basis points due to efficiency gains in services and IPG. We generated $3.4 billion of cash flow and deployed $2.1 billion in share buy-backs.</p>
+          <p>Services had another solid quarter, marked by strong signings and record profits. The EDS integration has gone well. We have removed roughly 19,000 of the identified workforce reductions, and that work will soon be completed.</p>
+          <p>Customer retention and satisfaction remain high. With a new competitive cost structure, and the leverage of HP's global reach, Services ended the fiscal year with strong momentum in signings and a significant number of new logo wins.</p>
+          <p>For the full year, signings were substantially above revenue, and the book-to-bill ratio was both solid and improving. This bodes well for Services growth in 2010.</p>
+          <p>Tech Services also had another good quarter. The Services delivery transformation is contributing nicely to profits. And we still have more work to do to fully optimize that model. We've done a lot of work in Services this year, integrating EDS and it is paying off. This is now a business that can compete and win. We are well positioned to grow.</p>
+          <p>IPG is poised for recovery and is getting on the attack. As we enter fiscal year 2010, the headwinds in channel inventory are behind us. We expect supplies growth to improve with economic trends, and employment levels and project a flattish result in Q1.</p>
+          <p>Demand is also improving for our printers. We gained share sequentially, and we expect to drive further share in installed base gains, with double digit printer unit growth in Q1. Due to improvements in our cost structure, we can do this while remaining in the 15 to 17% operating margin that we laid out at our analyst meeting in September.</p>
+          <p>IPG is also gaining significant traction with its growth initiatives. We deployed hundreds of photo kiosks this quarter at Wal-Mart and look forward to further expansion in 2010. Recent studies released by market analysts highlight HP's leadership in managed print services, with more signings than any of our competitors. We're encouraged by our managed print service funnel which is at record levels.</p>
+          <p>And these deals are generally for multiple years and have a high attach rate of supplies. In commercial print, the analog-to-digital page shift is occurring and we're leveraging our technology to accelerate the transition.</p>
+          <p>Partnerships with industry leaders like Pitney Bowes, RR Donnelley, and web press purchases from communication leaders, Omnicom demonstrate the power of our portfolio and capabilities. We expect you'll hear more partnerships from us shortly.</p>
+          <p>With our significant market leadership and broad patent portfolio, we are well positioned to capture this significant page opportunity.</p>
+          <p>ISS continued to build momentum. Revenues grew 15% sequentially on the back of 16% sequential growth in Q3. Customers are embracing our G6 servers which provide a roughly a 12-month payback when upgrading from a G5 server and roughly a three-month payback when upgrading from a G4. In my experience any deal with a payback of a year or less is easy to close given the value to the customer.</p>
+          <p>The Personal Systems Group also delivered in Q4, extending its market leadership by more than a full point yet again. We saw good consumer acceptance of Windows 7 particularly in the U.S. Given that we gained double digit points of market share in U.S. enterprise and have claimed the top market position, we're well positioned to win when corporations upgrade to Windows 7.</p>
+          <p>PSG delivered healthy operating margins despite increasing commodity costs. I mentioned to you numerous examples this quarter of how HP continues to effectively execute its strategy. Or course a component of HP's strategy revolves around mergers and acquisitions. M&amp;A enables us to enter market adjacencies and accelerate our time to market for key technologies. We use our strong cash position to enhance our portfolio of hardware, software and services with acquisitions that advance our leadership position in a given market.</p>
+          <p>Of course, all deals need to make strategic, financial and operational sense when compared to alternative uses of capital. Last week, we announced our intent to acquire 3Com. We looked at numerous networking companies and felt that 3Com had the best technology in the industry in addition to having a very broad and complementary set of products.</p>
+          <p>Its networking and security assets will be a tremendous addition to HP's products and solutions, as we deliver the next generation data center to customers. 3Com will provide HP with the opportunity to grow in China, and deepen penetration with an expanded set of solutions into one of the world's fastest growing markets.</p>
+          <p>We expect to accelerate the deployment of these products beyond China. Before I turn the call over to Cathie to review the financials, let me make just a few comments as we head into 2010.</p>
+          <p>First, we have worked hard in our cost structure to emerge from this economic downturn more competitively positioned. We've made significant progress in structurally reducing our cost structure in services, IPG, supply chain, warranty, real estate, and IT.</p>
+          <p>At the same time, we plan to increase investments in the business in areas such as sales coverage. Going forward, we expect solid operating leverage just like we demonstrated from Q3 to Q4.</p>
+          <p>Second, our portfolio is substantially stronger than when we entered the economic downturn. We are selling the best technology which we have continued to enhance with organically-developed products such as G6 servers, TouchSmart PCs and web-connected printers.</p>
+          <p>Additionally we have acquired companies like LeftHand and IBRIX. EDS is an enormous asset that we're just beginning to leverage to sell not only services but also to pull through hardware and software.</p>
+          <p>Upon acquiring 3Com we expect to take our networking and security game to the next level. Additionally, this further extends or industry leadership in scaled hardware, developed on industry standards, management software to optimize this infrastructure, all deliverable via Global Services.</p>
+          <p>As technology converges and is ultimately delivered as a service, nobody is better positioned than HP to capitalize on this trend at our breadth and scale.</p>
+          <p>Third, our track record of successful execution. This quarter demonstrates we're executing in the marketplace, executing on the EDS integration and executing on our cost initiatives. The economy remains challenging but we do see encouraging signs of recovery in certain markets. We'll remain focused on executing our strategy and expect to outperform the market as growth returns.</p>
+          <p>With that, I'll turn it over to Cathie.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thanks, Mark. And good afternoon everyone. HP's fourth quarter results again highlight the strength of our model. Our broad innovative portfolio continues to deliver significant value to our customers. At the same time, we are improving our competitive position and have prepared the company for growth in 2010.</p>
+          <p>Let's start with some detail on the fourth quarter. Total revenue for the quarter was up 12% sequentially, and down 8% year-over-year, or down 5% year-over-year in constant currency. On a regional basis, excluding the effects of currency, revenues in the Americas and Asia were each down 1%, and EMEA was down 10%.</p>
+          <p>In particular, the U.S. and China, which together represent more than 40% of total company revenue, are continuing to show signs of improvement. While Europe does appear to be stabilizing, we have yet to see consistent signs of improvement.</p>
+          <p>Gross margins for the quarter were 23.7% up 60 basis points year-over-year, due to efficiency gains in services and increased supplies mix in IPG.</p>
+          <p>We continue to improve our cost structure, lowering operating expenses by 16%, compared with one year ago, and are doing so while continuing to fund innovation, sales coverage and customer service.</p>
+          <p>These lower costs are driven by structural changes that drive sustainable improvements. Non-GAAP operating profit increased to a record $3.6 billion, with operating margin expansion of 170 basis points. And net income hit a record $2.8 billion or $1.14 per share. For the full year, 2009, we delivered revenue of $114.6 billion, non-GAAP operating income of $12.6 billion, or 11% of revenue and non-GAAP earnings per share of $3.85 cents. Now, moving on to the details of our performance by business.</p>
+          <p>Services closed the year with a strong finish in Q4 delivering revenue of $8.9 billion, up 5% sequentially and up 8% from the prior year. Within services, we saw sequential growth in each of our businesses, with the strongest growth coming from application services.</p>
+          <p>On a year-over-year basis, operating profit in the quarter increased $500 million, to $1.4 billion or 16.2% of revenue, driven by improvements in EDS as well as in technology services.</p>
+          <p>The integration continues to go well as a result of the focus and hard work of our employees. We have made good progress toward our goals for increasing our productivity and have improved our cost structure by an annualized run rate of roughly $1 billion.</p>
+          <p>And going forward, we expect to achieve an additional improvement of approximately $2 billion annually, as I outlined at our September analyst meeting.</p>
+          <p>At the same time, we have expanded our book of business exiting Q4 with strong signings including a healthy mix of new logos. Vale, one of the world's largest mining companies, is just one example of the power of the HP portfolio.</p>
+          <p>Not only is this a big services deal, but they are implementing HP's full portfolio, from networking, blades, and storage, to HP management software, to HP printers and PCs, all as a part of their new technology transformation process.</p>
+          <p>For the full year, bookings exceeded revenue by a solid margin, as customers recognized the value that HP's broad portfolio brings to their business. With a strengthened foundation and strong customer momentum we feel well positioned to grow the business in 2010.</p>
+          <p>Enterprise storage and server revenue was $4.2 billion, up 13% sequentially, and down 17% compared with the prior year. Operating margin was 11.4%, down year-on-year, but up sequentially due to increasing volumes in ISS.</p>
+          <p>While revenue in each of the businesses within ESS was down year-on-year each grew sequentially. Business Critical Systems and Storage grew six and 11% respectively. ISS grew 15% as a result of strong customer demand for our newly launched G6 platforms. G6 is the latest generation of ProLiant servers and incorporates innovations in software as well as the latest processors and chipsets.</p>
+          <p>With its compelling value proposition, we are seeing rapid adoption of this platform with approximately 60% of ISS sales now coming from G6. HP software delivered revenue of $967 million up 14% sequentially and down 16% from the prior year period.</p>
+          <p>Compared with Q3 BTO and other software revenues were up 17 and 8% respectively. Sequential improvements were driven by increasing license revenue. For the quarter, software operating profit increased to a record $234 million or 24.2% of revenue.</p>
+          <p>Personal Systems delivered revenue of $9.9 billion, up 17% sequentially, and down 12% compared with the prior year. On a year-over-year basis, China delivered the strongest performance with over 40% revenue growth.</p>
+          <p>Total unit shipments increased 8% year-on-year, with notebook unit growth of 17%, and desktop systems decline of 3%.</p>
+          <p>Average selling prices stabilized in Q4. Segment operating profit totaled $460 million or 4.7% of revenue as PSG continues to deliver solid performance and share gains driven by our innovative product portfolio, scale and global reach.</p>
+          <p>Turning to Imaging and Printing. IPG continues to deliver over $4 billion in operating profit annually, with Q4 operating profit totaling $1.2 billion or 18.1% of revenue. In Q4, revenue improved 14% sequentially, to $6.5 billion as printer demand begins to pick up.</p>
+          <p>We are reinvigorating the core business by driving adoption in high page output areas such as wireless printing, Officejet Pro and multi-function printers. In addition, we are driving growth in long-term high value annuity businesses such as managed print services and retail publishing.</p>
+          <p>We have been expanding our retail publishing  pilot with Wal-Mart. We have begun to deploy our self-service photo kiosks at Wal-Mart and this win, coupled with other major retail publishing wins such as Tesco, Duane Reade and K-Mart Australia represents a significant proof point in IPG's scaling of its contractual businesses.</p>
+          <p>Operationally, IPG is in much better shape as it enters 2010. It has made significant progress in its cost structure, inventory management and overall operational rigor.</p>
+          <p>These improvements give us capacity to invest in unit placements while maintaining industry-leading profitability. Going forward into Q1 we expect to have double digit unit growth while at the same time delivering operating profit in the range of 15 to 17% as we outlined at our analyst meeting in September.</p>
+          <p>Rounding out the segments, HP Financial Services grew 5% year-on-year, to $726 million, and generated operating margin of 9.1%, up 170 basis points from the prior year. For the full year, Financial Services increased its return on equity roughly a hundred basis points to over 12%.</p>
+          <p>Now, on to the balance sheet and cash flow. Our balance sheet remains strong and we made solid improvements in working capital management. We closed the quarter with total gross cash of $13.4 billion.</p>
+          <p>With regards to channel inventory, each of our segments is in good shape. Compared with a year ago, ESS channel inventory was down a week. IPG was down roughly a half a week and PSG was flat.</p>
+          <p>Beginning in fiscal 2010 we will only report whether channel inventory is within the target range of roughly four to six weeks, and we'll provide further details in the event that we are outside of this range.</p>
+          <p>We generated $3.4 billion in cash flow from operations this quarter. And $2.6 billion in free cash flow. During the quarter, we paid down $1.5 billion in debt, and returned $2.3 billion to shareholders through continued share repurchases and our quarterly dividend.</p>
+          <p>For the full year, HP generated $13.4 billion in operating cash flow, $10.2 billion in free cash flow, and returned $5.9 billion to shareholders through share repurchases and dividends. Looking ahead to our cash flow in Q1, the payout of the fiscal 2009 bonus will have an effect on our seasonally lower operating cash flow. And now a few comments on our outlook.</p>
+          <p>For the first fiscal quarter, we expect revenue to be approximately $29.6 billion to $29.9 billion. And non-GAAP earnings per share in the range of $1.03 to $1.05. Included in these estimates for Q1 is approximately $0.04 of OI&amp;E expense and an expectation that weighted average shares outstanding will be roughly flat.</p>
+          <p>In addition, as we outlined in our analyst meeting, we expect our tax rate to increase one point to approximately 22%. Looking at the full year, as we reported on November 11, we are increasing our fiscal 2010 outlook to revenue of approximately 118 billion to $119 billion, and earnings per share in the range of $4.25 to $4.35. We will now open the call for your questions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" />. And our first question comes from the line of Bill Shope with Credit Suisse. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Okay, thanks guys. I want to dig a bit more into your share gains in the corporate PC segment. As you know there's been a lot of discussions surrounding the corporate refresh cycle for PCs in 2010. As you look at this opportunity right now, do you think corporations are showing an increased willingness to swap out their incumbent provider as part of these refreshes, and as we look forward, is pricing going to be your primary weapon for winning in these engagements?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Hi, Bill. Mark. These share increases is important. I think it's important to note we don't usually start with an objective of gaining share. It's more the result of us just trying to do the right work for the customer. And I think as we've mentioned a couple of times, we've increased our sales coverage which we think is part of the reason that you've seen this performance occur as it has.</p>
+          <p>Second, we've worked really hard to work on our service experience. And the service experience is a really big deal, Bill, as you know. So it's a combination of trying to get more at-bats and frankly in the U.S. this is the place that we haven't had as many at-bats as we'd like to have and we've increased sales coverage there. Secondly, trying to continue to focus on the service. So, yeah, we feel pretty well positioned that as long as we can maintain the at-bat level and with the service experience that we're delivering now, that we think we'll be in pretty good shape. I think you couple that with the product lineup that we've just announced and Windows 7, we think we've got a pretty compelling offer. So, yeah, we're optimistic about it.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Just as a clarification, is EDS a contributor there as well?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>You know, not really. I mean, I think again EDS is certainly an asset for us and EDS is managing a large number of desktops, several million desktops are underneath management of EDS services. But I wouldn't want to take away from the just simple execution, I think, in PSG. More sales coverage. Solid product lineup. Great service really is a good formula, with or without EDS. I think EDS, you should think of, as layering on an enhancement to it more than anything else, Bill.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Okay. Great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Bill, let me add a proof point to what Mark said, because it's the end result. It's not the goal. But we did take on No. 1 in U.S. enterprise and grew our share in calendar Q3 double digits. So we are making good progress in that area and very well positioned for when there is a refresh cycle in the U.S.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>If you looked back four quarters or so, Bill, and you started looking at the service levels, what we call TCE &#x2013; Total Customer Experience, you could start predicting some of these numbers based on the improvement in TCE and as you start looking at the product lineup, it again &#x2013; it's the result. You have to work on these several quarters before the actual market share type of performance shows up. But to Cathie's point, it's encouraging.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Okay, great. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks, Bill.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our next question comes from the line of Kathy Huberty from Morgan Stanley.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Thanks. Good afternoon. In light of better visibility in printer demand and the mix that you're driving in that business and the cost cutting you have in place, do you think you can grow both revenues and operating profit dollars in fiscal '10 or does the hardware growth come at the expense of op inc dollars?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>The hardware growth does come at the expense of operating profit dollars, but with the cost structure that we've developed and worked hard on, we are able to keep IPG within the range on the operating profit between 15 and 17% that we outlined at the security analyst meeting in September.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>So in other words if the printer growth comes in as you expect, you would model operating income dollars in sum for that division down in fiscal '10 versus fiscal '09?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Okay. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think, Katy, let me go up a level for you. I think in many ways the tough market's been a blessing for IPG. I think the business is now run with stronger operational rigor than we've ever had before. I think as Cathie mentioned, the inventories have been leaned out. Sales in and sales out are continuing to converge. We've made progress on the cost structure. Clearly we have more work to do. To the point of the question, printer demand is picking up. And we plan to grow printers materially, double digits, in printer units in Q1 while staying within the operating margin.</p>
+          <p>So a little bit will depend on what the demand looks like and how we go for the printer unit growth. We'll probably trade off, to Cathie's point, some operating profit dollars, no question about it. But what we're talking about doing, we couldn't have done a year and a half ago. We simply couldn't have done it at the magnitude that we're going to do it. And, frankly, that &#x2013; in a strange way the 2009 situation was a positive for us in that we knew this was coming.</p>
+          <p>As we've said through 2009, we saw strong page performance and strong supply usage through 2009. Now we have a printer refresh that's coming, and we put ourselves in a position now to operate with strong operating margins while doing the refresh. So we feel pretty good about it. And I know as many of you have heard in the market, we've had some situations where we've got more demand than we have printers, and we're now getting in a position where we can fulfill that demand. So, Katy, I want to make sure it's clear. We feel we've got IPG on the attack. And we feel better about it. And if we have to trade off some operating profit dollars as we refresh that base, we will.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>And presumably the investments in 2010 set up for operating income growth in '11?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>You know how the model works, that's exactly how it works. And the good thing is as an entire company we've got the room to increase our guidance to improve the operating leverage while doing this and we also are I think doing a better job of where the units are and high value areas with very strong connect rate. And let's remember, as Cathie went through and when she talked about things, we've also got growth in retail photo. We've got growth in managed print services. We've got growth in graphics share. And these are areas are 100% &#x2013; let me say it this way &#x2013; very, very high connect rates in addition to the fact that we can put the printer unit growth out that we've described. So when you look at the total picture, it's a nicer picture than we had a year ago for sure.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>And the investment is an easy decision. It's got such a high pay-off because of the high value units that we're putting out there and the connect rate that we're getting.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks, Katie.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our next question comes from the line of Ben Reitzes with Barclays Capital. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Yeah, thanks a lot. You were able to have a pretty solid PC margin at least within your guidance in the wake of really tough component costs. Can you talk about how you're dealing with that right now and also just in general with that kind of component environment, what does that mean for gross margins that we're modeling for FY '10 and is it impacting any other segment outside of PCs?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Ben, we saw commodity prices basically uptick throughout Q4. We do expect that commodities are going to continue to be a challenge in Q1. And frankly this shouldn't be too surprising. It's a pretty normal cycle in a recessionary environment, suppliers basically take capacity out of the market. Then when demand starts to pick up, obviously supply gets tight. For HP, with our scale, and our position with suppliers, we believe we have a competitive advantage. We obviously also, as we've talked about from time to time, we do use strategic buys. Either to generate assurance of supply or better pricing. So again we believe we've got a competitive advantage. In fact, one of the factoids that I like to throw out there is that in tight supply situations, HP actually has been historically good at gaining more share, and therefore we actually see this as an opportunity and you see that we've been able to manage margins very well. I think that's also because we've done a great job of focusing on getting our cost structure right.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Is it just in PCs?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Pardon me?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Is it just in PCs, the pressure, or is it impacting any other segments and can you get -- and how does that play out throughout the year, you think?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>We also obviously see it in industry standard servers, especially in the memory space, and again you can see that we're managing through that pretty successfully as well, when you see that the margins in ESS are actually up, basically sequentially, even though commodity prices have continued to uptick. So again, I think we've developed our cost structure very effectively so that we can compete &#x2013; be very competitive in the market, and manage any kinds of commodity moves.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks, Ben.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our next question comes from the line of Richard Gardner with Citigroup. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay. Thank you. Cathie, you talked about channel inventory declines on a year-over-year basis. But I was hoping that you could provide some sequential color on inventories this year as well. Specifically, how are you approaching the normal seasonal inventory build this year, given the uncertain economic environment and are you doing anything differently? Are you erring perhaps a little more on the side of conservativism, recognizing that you're always trying to balance inventories with sales opportunities? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>So I wouldn't call out any specific changes in how we're managing our inventory, whether that's channel inventory or owned inventory. I really don't see a real different swing. Obviously we've got a forecast of what we think Q1 revenue's going to look like. You've seen the guidance that we've provided. And so the area where I would say we're being prudent is around a recovery in the EMEA region, where we have seen basically Q2, Q3 and Q4 stabilization. But we really haven't seen kind of a consistent uptick through Q4. So we are being a bit prudent there. But in general the swing around what we're doing with channel inventory, our owned inventory, is not a whole lot different than it's been in the past.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>And Rich, I think to add to that, we exited Q4 pretty lean from an inventory perspective. And so right now we're doing exactly what you described. I think we're a little more -- I guess prudent would be the right word -- in Europe. We have seen stories within the story in Europe. So I wouldn't call it everything is the same. But there are some opportunities in the U.S. and Asia. So I think we're trying to take a balanced view of managing our assets properly at the same time as we look for opportunities to grow as you described. So I think no real change in the way we've looked at it, but we did exit with a fairly attractive position as it relates to overall inventory.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay. Great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks, Rich.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our next question comes from the line of Toni Sacconaghi with Sanford Bernstein. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Yes, thank you. Perhaps related to that last question, I wanted to get a sense of how we should interpret your guidance for Q1. Typically you are flattish to slightly up sequentially from Q4 to Q1, if you take out 2009. You were up three of the four previous years in Q1 versus Q4. You're guiding down about 3% and currency's probably going to help a couple percent. So arguably you're five to several percentage points below normal seasonality.</p>
+          <p>Is that a reflection of kind of the being prudent around Europe? Or is there something else we should think about? Additionally, just again as other context, you did raise your guidance for the full year a billion dollars in terms of the range. It feels like currency has actually probably moved more than that since then. So, has your outlook or your perception of what HP can do competitively in the marketplace changed at all?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Toni, there seems to be a lot of questions in that one. But, so let me take some of them. Let me take the last one first so that there's a complete understanding of what we've done for our outlook for the year. So the currency environment is absolutely more favorable today than what was implied in our security analyst meeting guidance for the year. But currency is always hard to predict. So what we've done is we've updated Q4 -- I'm sorry, Q1 -- for the currency environment. But we've left Q2, Q3 and Q4 basically at the FX rates implied at the time we gave the forecast at the security analyst meeting. So to the extent that currency stays where it is today, net of any pricing actions that we need to take, we would expect there to be upside in revenue, and the respective drop that you would expect from that for the year.</p>
+          <p>In terms of your question around Q4 to Q1 seasonality, when you factor in EDS we actually -- the normal season sequentially is probably closer to down 2 and therefore we're down in our guidance, we're down three to 4%. And that really comes right back to the comments we made around the EMEA and the macro demand in EMEA, and feeling that we should be prudent about calling a recovery there when we have yet to really see that. Through Q4, again. Q2, Q3 and Q4 were roughly the same. It stabilized but we'd like to see an uptick before we start calling for that. So that's really what's driving the Q4 to Q1 guidance.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Toni, I can't really add much color to that. That's what it is. We're basically in a situation where we feel as good about our portfolio and our market position as we ever have. So make no mistake about that. If you talked about our view of our competitive position, it just has never been stronger. But for us, we've got to factor EDS into the sequentials and for us I think you'd see us be more bullish if we'd seen signs in Europe that were consistent over a period of at least a quarter or two, where we'd see the sequential improvement. Doesn't mean we haven't seen a few things. It's just not there long enough for us to start to call it. So I think it's what we described and hopefully it's a little better than that. But right now we think this is prudent guidance for us to give. And your point's exactly right. Q2 and Q3, Q4 we're not putting the currency in until we see it for a longer period of time, Toni.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks Toni.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our next question comes from the line of Keith Bachman with Bank of Montreal. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Hi. Thanks guys. I wanted to ask a follow up question on the printers if I could. Mark or Cathie could you just talk on what the impact was on printer inventory or availability in the impact of the supply in the October quarter, rather, specifically supplies, what was the push or help from inventory and then also on the LaserJets, we detected many stock outs through the October quarter. How much did it impact you and related, Mark, is will you be all caught up you think in the January quarter in LaserJets specifically when you talk about double digit unit growth?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>So, Keith, you're exactly right. We were short of availability in what was our fiscal Q4. We are catching up. I think that is the way I would word it. We are catching up. I would not describe us as caught up.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>We are getting there. We're making improvements by region. And it's getting better. I would say now that one of the issues we've had has been that order rates have continued to be strong, even though shipment rates are catching up. So, if you will, we still have a backlog that we are trying to clear to get within normal backlog corridors. Do I think we'll be all caught up in Q1? And I think the way I'd describe it is, I think so. The only thing that it will depend on is what the order rates are. If the order rates continue to be as strong as we've seen, it will still have some backlog issues at the end of Q1. I actually in some ways hope the order rate continues to be strong but we're trying as best we can to catch up. Did it affect us in Q4? It did not affect our performance relative to guidance, because we knew what we had in Q4 at the time that we guided. But to your point if we had had more availability we'd have performed better in Q4 because the demand certainly was there.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks, Keith.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our next question comes from the line of David Bailey with Goldman Sachs.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Great. Thank you. Could you give us a little more detail on the linearity that you saw throughout the quarter and maybe into this month as well and then some detail around the industry verticals strength or weakness?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, we only talk about the quarter we're reporting. So I won't, imagine whatever I tell you will end at the end of October. And so, Dave, I think the way you would describe it is linearity was good. We had a very consistent start to the quarter. But as you can tell by our performance relative to guidance, we obviously had a strong October. So October was strong and stronger than what we had forecasted. And that showed up. It also impacted our inventory because we forecasted a certain outcome. And that's one of the reasons why we had the lean inventory position we had going into Q1 as we do.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>And then on the industry verticals, any strength or weakness there?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>No, I think that industry verticals started to see, you saw some improvement by vertical. I don't think I'll start calling each one out. But we definitely saw some improvement across sort of each of the verticals. I think the bigger story rather than the verticals would have been what we saw by geography, which I think we've probably given enough color on today relative to the big geographic regions.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We'll take our next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks, David.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our next question comes from the line of Shannon Cross with Cross Research. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Mark, can you talk a little bit about the 3Com acquisition, provide some more color, what your thoughts are regarding strategy and then just any other thoughts you have with regard to future acquisitions?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Shannon, thanks. We've had a strategy around converged infrastructure for some period of time, and that for us is the ability to give customers the opportunity to see server, storage and networking all sort of working together in a common capability that we can deliver to customers either as a service or directly to them. So our strategy has been consistent, and we think the right one. We want to continue to align software to that converged infrastructure, and we want to align services to that converged infrastructure. So very important for us to get all that right.</p>
+          <p>Networking is certainly a key component of that strategy. And as you know we've been out in the market with ProCurve for the past couple of years and had very strong growth with ProCurve and strong share gains. We've had products on the edge of the network and a wireless product in the market that have both been quite successful.</p>
+          <p>I think the number one thing we get back from customers is to &#x2013; they would like us to do more. They'd like us to have a broader portfolio with more capabilities, leveraging the strategy that I've described. And so for us adding to that portfolio was a key strategic objective of ours to get done. So to be simple about it, the best technology we saw on the planet to complement our portfolio was 3Com. And so for us we did a lot of work, Shannon. We looked at a lot of different things. We tested technology, both with our services business. You can imagine EDS has a ton of experience with this. Our own IT organization, which has a lot of experience and our ProCurve engineering organization. And we just found exciting technology that we think can make a big difference in the market. So for us that's what we saw.</p>
+          <p>And remember, too, that we have a ProCurve networking business. We hope to go through the appropriate processes to get this deal closed, which it is not yet. But you have to add to it the virtual connect software that comes typically to the market through our blade and converged infrastructure business in the server market. So we think with ProCurve and with what we get through the 3Com acquisition added to our Virtual Connect software we now bring a extremely robust networking solution to market both from trying to reduce the number of ports that customers have to buy but added to it the fact that we can bring great technology for the ports that the companies do have to deploy. So we're very optimistic. Obviously very excited about it. And we're just going to go through the process to try to get the acquisition closed and get the work done to get it to market.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Great, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks, Shannon.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our next question comes from the line of Scott Craig with Banc of America, Merrill Lynch, please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Thanks, good afternoon. Mark, in the services business there's been a couple quarters now where you're 15 to 16%, that's your goal for the fiscal year is 15 to 17% but with all the cost savings there does it seem like you're being a little bit conservative there?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Scott, it never seems to me that I'm being conservative. So, I actually think I'm being awful balanced about it. But I think the way you should think of the services business is it's a portfolio business. So particularly in the services business where you think of the outsourcing services there are a portfolio of five years of deals typically in what's in your P&amp;L, and the fifth year is usually a better economic result from a P&amp;L perspective than in year one when you're going through the transitions. So, in order to get a proper view of what the business can do you have to have a view of how much growth you're bringing, how many new signings you're bringing, how many deals you're transitioning at the same time as you're looking at that year five portfolio and then all of the steps in between. So when we give guidance, it is a combination of all those factors simultaneously.</p>
+          <p>Now, at the same time, to your point, yes, we are going on an optimized cost structure. Now, Cathie and I gave you the positive of the amount of work we've done. We still have more to do, Scott. So there is still more cost savings to gain in EDS, the former EDS through the business. And we've got more work to do in Technology Services as well. So do I think that the business can continue to improve? The answer is yes. But that said, we are balancing it against the growth profile. And we've done a lot of work in our services business this year to get the cost structure right to put it in a position to do what you began to see it do in Q4, which is grow. And sign meaningful deals with very important customers who are betting on us over the next five years to help them transform and we hope for years to come and drive their IT. So we feel awful good about it. And we think we can deliver in the range we've described and be able to grow very effectively while we do it.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Hey, Mark, is there any thought to giving us some metrics on the book-to-bill ratio or backlog or stuff like that, like some of the competitors do? That's it for me, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Sure, Scott, we think we give the most important metrics right now, which are revenue and operating margin. There are always metrics that we can drive to give color. Right now we think we're giving the most important ones and the most meaningful to the marketplace. We're always open to input to add to it. We also try hard not to give so many metrics that we actually wind up confusing people. So we'll always take it into consideration. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Why don't we take two more questions, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our next question comes from the line of Bill Fearnley with FTN Equity Capital. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Yes, thanks. If I could ask another question on printers and IPG. Mark, how much more promotional will you be to drive better unit sales for laser and ink jet here and will you be more promotional with the channel or end users on supplies to help fill the pantry or supply closet with more ink and toner because it sounds like the pantry effect is still a headwind and to stay on Jim's good side I won't ask a follow-up.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks, Bill. Yes, listen, I think we're going to be out there. I hope you see us out there now. We're out there promoting. It's been important for us, Bill, to get our availability issues right. Demand for printers, the worst thing you can do is promote and then not be able to fulfill. So we've been trying to make sure we can fulfill. And it's been a lot of work in IPG to get things lined up to be able to do what we just described to you a few minutes ago we're going to do in Q1. So right now we've got &#x2013; we think we have supply right. I do hearken back to the earlier question about making sure we've got I think it was Keith's question about making sure that we've got enough laser inventory, because order rates, as we promote, go up. And we've got to make sure we can fulfill.</p>
+          <p>But, yeah, we're going to be out there promoting with the channel and with our partners. We think there's an important printer refresh coming, and to Cathie's point we think it's coming in the right usage areas, that become very attractive to us from a long-term perspective, so we're going to be out going after it and we're pretty excited about it.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Will you be promotional in ink as well though?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yes, we'll be promotional on ink. I mean, we think at the end of the day your point is correct that there is a pantry effect. But now, let's, I don't want to get you confused on this. From an ink perspective, we saw reasonable ink sell-out even through all of this. Now, remember the external numbers have to converge now with what we've been seeing. So do we think there's more ink usage that's out there? We do. But at the end of the day we will be more promotional. But I don't want you to think that we think that the growth rates improvements in ink are directly the same as the improvement in units. So we had people not buying units all through last year. They still were buying ink. Do we think there will be an improvement in ink and supplies? We do, as the economy improves, as employment improves and as the pantry effect takes place. But, again, we've got to go get that refresh at the same time and we think there's some important segments that we can grow in ink at the same time.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks, Bill.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our final question comes from the line of Brian Alexander with Raymond James. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thanks. Just, another question on the networking market, Mark. In your expanded presence in networking, how do you think about the financial model there longer term? Do you strive for 50 to 60% gross margins, or do you think that's unsustainable? Just curious how you're thinking about just overall margins and returns in that segment relative to other hardware categories that you operate in today? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, when you sit where we sit, Brian, any of that sounds attractive to us. So those gross margins are extremely high. And you know we think we'll be very competitive. I mean, we think we bring to it a supply chain that can give some advantage to the networking business as well to our other businesses that will actually give it the opportunity to make yet more gross margin than it does today. At the same time as we'll try to be competitive in the market, you have one competitor that's very high market share. But frankly you also have a lot of other competitors that have a lot of market share out there as well. It's not just the one company out there. So we think we've got an opportunity to bring some very, very attractive technology to the market, supported by our software business, supported by our services business, with an advantaged supply chain supporting it. And so for us we think it becomes a very attractive, accretive gross margin opportunity for us, at the same time as it does something very important to customers that they want us to do for them. So you know for us it makes a lot of sense, and we'll see how the gross margins work out as they do. But again it's very accretive and very attractive to us.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>So, why don't we close on that and appreciate all the questions. I think, again, obviously we had a strong quarter relative to, as we talked at the end of Q3. But I would say going into 2010, we feel well positioned. The economy's clearly more stable. We've gone through the EDS integration, and we feel integrated it well. We've got a sales force that we think is better and more prepared. We've already kicked off the year with our sales force to get them we think moving on the attack. And we've talked about some of the improvements we've made in market position. We've made an acquisition with 3Com that we are very excited about. We feel like we have IPG positioned to go on the attack and get in an advantaged position. Our inventories going into the year are lean and we see an opportunity to return the company to growth in 2010, leveraging on what we think is an improved operating model. So we've got a lot of work to do. We know that. But I would tell you we go into the year certainly feeling good about our position to deliver a strong 2010. Thanks again.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you for your participation in today's conference. This concludes the presentation. You may now disconnect and have a great day.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

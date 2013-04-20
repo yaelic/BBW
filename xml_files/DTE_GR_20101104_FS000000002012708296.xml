@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1347942" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q3 2010 Earnings Call</title>
+    <date>2010-11-04</date>
+    <companies>
+      <company>683</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Company Representative</participant>
+      <participant id="2" type="corprep">Stephan Eger, Head of Investor Relations</participant>
+      <participant id="3" type="corprep">Ren&#xE9; Obermann, Chief Executive Officer</participant>
+      <participant id="4" type="corprep">Timotheus H&#xF6;ttges, Board Member for Finance (Chief Financial Officer)</participant>
+      <participant id="5" type="analyst">Matthew Bloxham</participant>
+      <participant id="6" type="analyst">Peter Nielsen</participant>
+      <participant id="7" type="analyst">Simon Weeden</participant>
+      <participant id="8" type="analyst">Hannes Wittig</participant>
+      <participant id="9" type="analyst">Mathieu Robilliard</participant>
+      <participant id="10" type="analyst">Robin Bienenstock</participant>
+      <participant id="11" type="analyst">Frederic Boulan</participant>
+      <participant id="12" type="analyst">Paul Marsch</participant>
+      <participant id="13" type="analyst">Justin Funnell</participant>
+      <participant id="14" type="analyst">Jonathan Dann</participant>
+      <participant id="15" type="analyst">Jacque de Greling</participant>
+      <participant id="16" type="analyst">Guy Peddy</participant>
+      <participant id="17" type="analyst">Lawrence Sugarman</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good afternoon and welcome to Deutsche Telekom Conference Call. On our customer's request, this conference will be recorded.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>This presentation contains forward-looking statements that reflect the current views of Deutsche Telekom management with respect to future events. These forward-looking statements include statements with regard to the expected development of revenue, earnings, profits from operations, depreciation and amortization, cash flows, and personnel-related measures. You should consider them with caution.</p>
+          <p>Such statements are subject to risks and uncertainties, most of which are difficult to predict and are generally beyond Deutsche Telekom's control, including those described in the sections Forward-Looking Statements and Risk Factors of Deutsche Telekom's Annual Report on Form 20-F filed with the U.S. Securities and Exchange Commission.</p>
+          <p>Among the factors that might influence our ability to achieve our objectives are the progress of our workforce reduction initiative and other cost-saving measures, and the impact of other significant strategic, labor or business initiatives, including acquisitions, dispositions and business combinations, and our network upgrade and expansion initiatives. In addition, stronger-than-expected competition, technological change, legal proceedings and regulatory developments, among other factors may have a material adverse effect on our costs and revenue development.</p>
+          <p>Further, the economic downturn in our markets and changes in interest and currency exchange rates may also have an impact on our business development and the availability of financing on favorable conditions. Changes to our expectations concerning future cash flows may lead to impairment write-downs of assets carried at historical cost, which may materially affect our results at the group and operating segment levels.</p>
+          <p>If these, or other risks and uncertainties materialize, or if the assumptions underlying any of these statements prove incorrect, our actual performance may materially differ from the performance expressed or implied by forward-looking statements. We can offer no assurance that our estimates or expectations will be achieved. We do not assume any obligation to update forward-looking statements to take new information or future events into account, or otherwise.</p>
+          <p>In addition to figures prepared in accordance with IFRS, Deutsche Telekom also presents non-GAAP financial performance measures, including, among others, EBITDA, EBITDA margin, adjusted EBITDA, adjusted EBITDA margin, adjusted EBIT, adjusted net income, free cash flow, gross debt, and net debt.</p>
+          <p>These non-GAAP measures should be considered in addition to, but not as a substitute for, the information prepared in accordance with IFRS. Non-GAAP financial performance measures are not subject to IFRS or any other generally accepted accounting principles. Other companies may define these terms in different ways.</p>
+          <p>For further information relevant to the interpretation of these terms, please refer to the chapter Reconciliation of Pro Forma Figures, which is posted on Deutsche Telekom's Investor Relations webpage at www.telekom.com.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Now, please listen to the statements of Ren&#xE9; Obermann and Timotheus H&#xF6;ttges. Afterwards, you are welcome to ask your questions. May I now hand you over to Mr. Stephan Eger.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Well, good afternoon and good morning to the listeners in the U.S. Welcome to our Q3 conference call. As always, we'll be starting with a quick intro where you find the slides on our website, or it was also distributed in the morning, Ren&#xE9; and Tim followed by a Q&amp;A session around about an hour of time we have. Having said that, I would like to hand over to my CEO, Ren&#xE9;.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thank you, Stephan.</p>
+          <p>Good afternoon and good morning to all of you from the U.S. and Canada. Let's start by reviewing our nine months results. Let me say right up front that we are on track to achieve our full year targets, and that's despite the weakening dollar and despite the recent decision by the Hungarian Parliament to impose a special tax on large companies in the Energy and Telecom sector.</p>
+          <p>Excluding T-Mobile UK, we achieved a revenue growth of 0.4% in the first nine months. Excluding the direct key measurable regulatory impacts from MTR cuts for instance or from roaming regulation or from ULL, et cetera, the growth rate would have been approximately one percentage point higher. So the regulatory impacts are quite significant. With an adjusted EBITDA of &#x20AC;14.9 billion in the first nine months, we are on track to achieve our guidance of around &#x20AC;20 billion minus the deconsolidation impact of the U.K.</p>
+          <p>With a free cash flow of &#x20AC;4.8 billion in the first nine months, we are very confident that the free cash flow will be at least 6.2 billion for the full year. In Germany, with a cumulated broadband net-add market share of 40% we are on track to achieve the guidance of 40 to 45% share for the full year. In the third quarter, the share was lower, as expected, due to a very high rate of expiring contracts and also due to migration from resale to bitstream access. It had an extraordinary impact in that quarter.</p>
+          <p>Also, in Germany, line losses amounted to 1.2 million during the first nine months. That is 26% below last year's level. With 1.4 million Entertain packages sold during the first nine months, we are on track now to achieve our full year target of 1.5 million packages sold.</p>
+          <p>Our Save for Service cost-cutting program continues to support Group profitability with savings of &#x20AC;1.7 billion in the first nine months. Our full year target of 2 billion will actually be overachieved. Mobile data revenue amounted to 3.2 billion, and again, excluding U.K., in the first nine months &#x2013; and we're excluding U.K. for the last quarter only, of course &#x2013; representing an impressive growth of 26%. We also reconfirm our ambition level for 2012, namely an increase in our Group return on capital employed by at least 150 basis points and an increase in free cash flow from the 2010 level.</p>
+          <p>Turning specifically to the third quarter, the picture was somewhat mixed. First, the good news. In Germany, Q3 was the best quarter ever for iPhone sales with around 400,000, taking the total iPhone sales since launch to 2.3 million. Underlying revenue and EBITDA growth remained very strong in Mobile, especially taking into account that in that quarter we lost the &#x2013; in the comparable numbers, the O2 roaming agreement that was in previous years, so and in this quarter is no longer in.</p>
+          <p>In German Fixed, we achieved a 6.9% reduction in adjusted OpEx and therefore a margin improvement overall from 34% to 35.4% in German Fixed, so.</p>
+          <p>In the US, we achieved further revenue stabilization on the back of accelerating data ARPU growth. However, due to sequentially higher churn, contract net adds turned negative again in Q3, despite continuing strong growth, so at minus 60,000 contracts, and we had quite a surplus in prepaid. And the EBITDA margin was impacted by incremental network costs and continuing high smartphone subsidies.</p>
+          <p>In the integrated operations in Europe, we achieved stable margins and cash contribution despite continue economic and regulatory headwinds. In the mobile-centric operations in Europe, higher market invest in customer growth and retention impacted the margins. In our systems operation, the improvement in external revenues and the adjusted EBIT margin continued as promised.</p>
+          <p>With respect to our shareholder remuneration policy, as you know, we started our share buyback program in Q3 and have executed purchases of about 9.2 million shares for a total of &#x20AC;91 million so far. This program will a total amount of up to &#x20AC;400 million will be completed by the end of the year and is part of our three-year shareholder remuneration strategy, which we announced earlier this year.</p>
+          <p>So let's turn to the key group financials in the third quarter. If we exclude T-Mobile UK in order to compare apples and apples, revenue grew by 1%, while adjusted EBITDA declined by 6.1%. Encouragingly, the bottom line improved both in terms of reported and in terms of adjusted net income. Net income benefited from a better financial result primarily in connection with gains from financial instruments and improved income from currency translations.</p>
+          <p>Lower income taxes resulted from a lower profit before income taxes and a gain in deferred taxes due to the capitalization of tax loss carry forwards. The latter was booked as a special factor, which explains larger percentage increase in reported net income.</p>
+          <p>Free cash flow declined year-on-year but came in strong with &#x20AC;1.9 billion. You will recall that last year's free cash flow benefited from &#x20AC;0.8 billion in factoring deals. This leaves us well on track to reach a free cash flow of at least &#x20AC;6.2 billion in 2010.</p>
+          <p>Remember that we just received a dividend of &#x20AC;0.4 billion from our U.K. joint venture just in October. Cash CapEx was slightly down in Q3 due to lower CapEx in Europe and in U.S. more than offsetting higher CapEx in Germany and in the system solution business.</p>
+          <p>Let's take a closer look now at the Q3 financials. Adjusted for T-Mobile UK, revenues grew by 1% year-on-year supported by foreign exchange effects, especially in the U.S., but also by organic growth in system solutions. Adjusted EBITDA, however, declined by 6.1% year-on-year to just over &#x20AC;5 billion. You will recall that last year Q3 was an exceptionally strong quarter in terms of EBITDA. This year an excellent EBITDA performance in Germany could not offset weaker EBITDA trends in the U.S., in Europe, and at GHS.</p>
+          <p>In the U.S., the margin in the quarter was affected by higher network costs due to our HSPA Plus rollout and higher SACs and retention costs. In Europe, some Eastern European integrated operations like Greece and Hungary were still affected by the economic downturn and by regulatory effects, but we're able to stabilize their margins.</p>
+          <p>The margins in the mobile-centric European operations, however, were impacted by higher market investments in customer acquisition and in customer retention. And GHS, Group Headquarter Services, were affected by higher expenses for stock-related measures like early retirement schemes and less cash in from real estate sales in the yearly comparison.</p>
+          <p>Let me update you now on the progress achieved with regards to our strategy, citing some concrete examples. First building block, improved performance of mobile-centric assets. Now, Mobile Internet, in the U.S. data ARPU grew by 24% year-on-year to $12.40. That's very strong and it represents a further acceleration over the 17% growth, which we observed in Q2.</p>
+          <p>Second, leverage one company in integrated assets, the second block of our strategy. In Germany, we started the restructuring of the SME part of the business, small and mid-sized enterprise sales and IT offices. We had a number of locations &#x2013; far too big a number of locations, and we started to restructure those locations, and we hope to get through that process pretty soon.</p>
+          <p>Third, build networks and processes for the gigabit society, the third building block of the strategy. In Germany, we officially launched our LTE network in the last quarter. In the U.S., we are on track to roll out HSPA Plus with 21 megabits per second to about 200 million POPs by year-end, and we have announced that we will start rolling out HSPA Plus with 42 megabits per second in next year.</p>
+          <p>Fourth building block, connected live across all streams. We are, in Germany, the preferred partner for Windows Phone 7 for the holiday business. And in the United States, we're one of the two launch partners of Microsoft for their Windows Phone 7 platform, which received very positive criticism in the first weeks. We have introduced new mobile data plans in Germany and in the U.S., embracing tiered data pricing. 53% of all handsets sold in Germany and in Q3 were smartphones. Remember, that was also one of our strategic objectives &#x2013; to have more customers use smartphones and tablets and so forth.</p>
+          <p>And fifth, connected work with unique ICT solutions. T-Systems entered into a partnership with ABB on smart metering, supporting one of the key future growth areas. And already two-thirds now of all SAP transactions by the systems are being processed in the chart .</p>
+          <p>At our Investor Day in March, we defined five growth areas in which we aimed to almost double revenues by 2015, and here is an update on our progress in the first nine months of 2010. The biggest block is Mobile Internet, and in that category in nine months revenues amounted to 3.2 billion, again, excluding the U.K, which makes comparison bit difficult, but net-net it's an up 26% year-on-year with strong growth in markets such as Germany, Netherlands, and Poland and in the United States.</p>
+          <p>In Connected Home, that is double and triple play offers primarily, Home Gateway, and the communication suite, revenues were up almost 8%. In Online Consumer Services revenues were up by an impressive 33%, of course, supported by the acquisition of Strato webhosting business.</p>
+          <p>T-Systems external revenues increased by more than 5%. There were no material revenues yet in Intelligent Networks; however, we have a number of initiatives now up and running. Energy has just seen with the ABB partnership on smart metering, but also in the Health and in the Media Distribution and Connected Car area.</p>
+          <p>Let's turn to the operational performance in the U.S. Here we are encouraged by the continuing trend towards revenue stabilization. In Q3, Service revenues were almost stable. They declined by just 0.4% year-on-year, compared to a decrease of 1.1% year-on-year in Q2. So the trend is improving.</p>
+          <p>Service revenues benefited from the very strong and accelerating growth in data ARPU, which is up 24% year-on-year to $12.40. That's a growth rate of 17% year-on-year. However, we were not able to sustain the return to positive contract net adds yet, which we saw in Q2. So Q3 was not that positive in this category. While contract gross adds remained very healthy &#x2013; the gross adds side remained very healthy &#x2013; sequentially higher churn led to contract net adds of minus 60,000 in Q3, and I personally looked at stores and went to listen to customers when they came into stores, and it really was driven by, at least in most cases, by iPhones. And the customers just wanted the iPhone, and that was &#x2013; and therefore it's so important that we focus on the alternative devices now and push them successfully, because the iPhone &#x2013; not having the iPhone is a real disadvantage, but nothing new to you.</p>
+          <p>So clearly we are not satisfied with our churn rate of about 2.4% in Q3, even though it was not entirely unexpected, given especially the launch of the iPhone 4 now in the U.S. and the seasonal back-to-school pattern in the quarter as well.</p>
+          <p>Total net adds, including prepaid, actually turned positive. That's the good part of the message. Total net adds turned positive due to &#x2013; in particular to strong MVNO sales, including simple mobile and straight talk.</p>
+          <p>The accelerating data ARPU growth was due to continuing strong smartphone sales; however, these strong sales came at the price of a lower margin. The margin declined from 29% last year to 25. Both SACs and SRCs increased significantly compared to last year. In addition, compared to Q2 network costs increased sequentially in connection with the launch of our HSPA Plus network and the associated fiber backhaul. And of course, that's important for us to capture the opportunity or to tap the opportunity of mobile internet growth, which we have to accept some costs at the beginning before the network is utilized.</p>
+          <p>Regarding ARPU, I'm pleased to say that we have achieved stable ARPUs for both blended and contract ARPU.</p>
+          <p>So the operational priorities for the U.S. 2010, I think we've &#x2013; it's fair to say we've made considerable progress on our roadmap. In terms of network, in Q3 alone we added more than 1,600 3G sites, and we ended the quarter with more than 29,000 3G sites. Our HSPA Plus network with 21 megabit per second is expected to reach 200 million POPs by year-end and is offering a performance equal or superior to other so-called 4G networks.</p>
+          <p>In fact, we plan to upgrade to HSPA Plus with 42 megabit per second beginning in 2011, which will essentially double the performance of this already fast network. Quality of our U.S. network was recently confirmed by JD Power, who ranked us number one in the Southeast and Southwest region with regard to call quality.</p>
+          <p>In terms of devices, we ended the quarter with 7.2 million 3G smartphones, up from 2.8 million in Q3 last year, and since these 7.2 million smartphone users still only represent 21% of our total customers, there is still huge upside for mobile data in the U.S., and that is what we will pursue with all efforts.</p>
+          <p>We launched the first HSPA Plus smartphones in the U.S. market, the G2, and, yesterday, the new myTouch 4G. In addition, in Q4 we are launching our first tablet device, the Samsung Galaxy Tab and the first HSPA Plus Netbook by Dell. And we were one of the two launch partners for Microsoft Windows Phone 7 with two devices in Q4.</p>
+          <p>In terms of distribution, we further expanded our national retail store presence by the launch of almost 500 pilot stores run by RadioShack. In addition, a new "Walmart Family Mobile powered by T-Mobile" offer was launched in approximately 2,500 Wal-Mart stores towards the end of the quarter.</p>
+          <p>In terms of pricing, we're introducing tiered data pricing in the U.S. We consider tiered data pricing very important to further leverage the mobile data opportunity in the States, while continuing to offer the best value in the U.S. wireless market. We also launched the already mentioned "Walmart Family Mobile powered by T-Mobile" offer and new branded prepaid monthly plans, which now also includes data.</p>
+          <p>Let me turn it over to Tim now for Germany and the other divisions and more details on the numbers.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Good morning, good afternoon, everybody.</p>
+          <p>Overall, I am quite satisfied with the financial performance in Germany, especially considering that last year in Q3 we still benefit from approximately &#x20AC;80 million of revenues and EBITDA from the O2 roaming deal, which ended in 2009. Revenues declined by 2.4% year-on-year. Excluding that O2 effect, the decline would have been just 1.1%.</p>
+          <p>On the EBITDA side, the &#x2013; it was almost stable at &#x20AC;2.5 billion. Excluding the O2 effect, the adjusted EBITDA would have increased by 3.3%. The O2 effect is disproportionately impacting our German performance in the second half of the year due to the fact that majority of the O2 roaming revenues last year are booked in Q3 and Q4. The strong EBITDA performance demonstrate the success of our cost-cutting program, Save for Service, in Germany.</p>
+          <p>The adjusted OpEx were reduced by &#x20AC;0.2 billion, or almost 5%. The head count was reduced by 4,900. Accordingly, adjusted EBITDA margin improved by almost 1 percentage point to close 40%. Since more than two years, we are now constantly improving our margin quarter-over-quarter in the German business.</p>
+          <p>The majority of the German fixed line cost savings were adjusted OpEx declined by 6.9% year-on-year, demonstrating even here the success of our Save for Service program. Adjusted EBITDA remained almost stable at around &#x20AC;1.6 billion, and the margin improved by 1.4 percentage points to 35.4.</p>
+          <p>The somewhat weaker revenue performance in Q3 can be explained by an exceptionally strong revenue performance last year in the third quarter due to one-timers and value added services and in the wholesale area. We expect an improvement in the revenue trend for Q4.</p>
+          <p>In terms of KPIs in German Fixed, our broadband net net market share was impacted &#x2013; by the way, as expected &#x2013; by the exceptionally large volume of contract expirations in Q3. On a cumulative view for the first nine months, our market share was still slightly above 40%, and we remain confident that we can achieve a share of 40 to 45% for the year.</p>
+          <p>Cumulated traditional PST end lines losses were about 1.2 million, which is 26% below the level of 2009. Line losses in Q3 were higher than in Q2 at 525,000 due to our lower broadband net net share and resale DSL losses of 210,000. The latter was in connection with the migration from traditional DSL resale to all IP packages at ULL competitors, and this is coming with significant lower value impact for Deutsche Telekom.</p>
+          <p>Positively VDSL, including VDSL double play packages, is starting to accelerate with a gain of 160,000 VDSL lines year-on-year in the third quarter. Entertain is ramping up as well with incremental sales of 130,000 packages ending the quarter at 1.4 million; therefore, our target of 1.5 million looks very achievable for us.</p>
+          <p>German Mobile had another very strong quarter, especially considering the '02 impact. Service revenues grew by 5% to almost &#x20AC;1.9 billion supported by very strong data growth. Adjusted EBITDA grew by 0.9% to &#x20AC;928 million. Excluding the '02 effect, the growth rate would have amounted to an impressive 10.7% EBITDA growth in this quarter. We saw a continuous ramp-up of high value customers with record iPhone sales, a further increased customer contract base, 25,000 up in the third quarter, growing contract ARPU up by &#x20AC;2, which is 6.7% year-over-year.</p>
+          <p>Smartphones accounted for 53% of handsets sold in that quarter, which is 28% points more year-over-year. Despite record smartphone sales, the margin amounted to 43%, similar to last year despite the '02 impact and even adjusting all the additional acquisition costs, which we had in this quarter.</p>
+          <p>Turning to Europe, the integrated operations, namely OTE, Croatia, Magyar, and Slovak Telekom continued to exhibit strong cash flow contributions and strong margins, especially considering the continuing top line pressure in some of these markets. By the way, this demonstrates clearly our free cash flow steering in the Group and how disciplined and fast we are reacting on changes in these respective markets.</p>
+          <p>The situation at OTE remains difficult, though it appears that trends are not deteriorating further. Despite a revenue decline of 9%, OTE achieved an almost stable margin of 37%, a stable cash contribution, despite an EBITDA decline of 11%. In this context, let me welcome the new CEO of OTE, Michael Tsamaz. Michael was previously and continues to be the head of Cosmote, which has outperformed its peers in the last years in Greece and in the other Southeastern markets.</p>
+          <p>On a positive note, Croatia Telecom achieved stable revenues and an increase in EBITDA and EBITDA margin. The strong increase in cash contribution, up 36% year-on-year. This is a good performance, and it's partially reflecting the fact that the Croatian economy is showing signs that the decline is slowing down.</p>
+          <p>Magyar Telekom in very difficult economic circumstances managed a margin increase to a very healthy 47% and a 2% increase in cash contribution. Mobile Service revenues down 2% year-on-year would have grown by almost 1 percentage point without regulation, due to good growth in the contract subscriber base, which was up 10.4% year-on-year.</p>
+          <p>In Slovakia, the cash contribution grew by 24%, and the margin remained at a high 46%, despite a 2% revenue decline. The Mobile margin increased sequentially at 250%, compared to 50.7% last year.</p>
+          <p>Turning to the mobile-centric markets of the Czech Republic, Austria, Poland, and the Netherlands, results here were impacted by higher market invests, reflecting the greater appetite for smartphones. The Czech Republic saw a regulatory impact, without which revenues would have been flat, despite an increase in market invest of 31%, higher retention increase of &#x2013; and an increase in the cost base were the reasons. Due to the integration of the broadband business and the 3G rollout, the EBITDA remained healthy. In absolute terms we saw a strong margin of 48%.</p>
+          <p>In Austria, revenues were also impacted by regulation. Excluding the regulatory impact, revenues would have grown by 3.8%. EBITDA was impacted by a 50% increase in market invest, due a 24% increase of retained and acquired customers with the mix clearly shifting towards contract.</p>
+          <p>In Poland, we saw a significantly improved revenue trend, with revenues in euros increasing by 5% year-on-year. This was driven by strong data revenues, up 37% in euro terms, by the way, 31% in local currency. EBITDA on the other hand was impacted by an increase in the market invest of 22%, due to an increase in retention expenses and more data devices. The contract churn rate decreases sequentially to an impressive 0.8%.</p>
+          <p>In the Netherlands we achieved a Service revenue growth of almost 1%. Almost three percent points higher ahead of the market leader KPN. Service revenue growth was impacted by regulation, without which the growth rate would have been 5.4%.</p>
+          <p>Total revenues and EBITDA were impacted by the loss of an MVNO contract, which had a low double digit million euro impact. In addition, the EBITDA was impacted by a 27% increase in market invest, due in particular to strong iPhone sales of 100,000 new contracts in the third quarter alone. Contract net adds nearly tripled year-on-year to 70,000 in Q3 with contract churn down to 1.1%. Nevertheless, indirect costs were further reduced by &#x20AC;17 million, demonstrating that the synergy case is up to speed.</p>
+          <p>In System Solutions, the positive revenue trend continued with an increase in total revenues of 3.8% and external revenue increased by 6%, which was pushed by big deal from Areva in South Africa, Philips, BP, and TUI, and this is now the third consecutive quarter of total revenue growth from systems, despite the decreasing internal revenues. T-System is contributing internally to the optimization of our intergroup IT costs.</p>
+          <p>International revenues grew by 11% to &#x20AC;715 million, now accounting for almost one third of total sales. At the same time, System Solutions continued its adjusted EBIT improvement, despite additional expenses from new deals. Adjusted EBIT increased year-on-year by 9 million to &#x20AC;73 million in Q3, representing a margin of 3.3% compared to 3% in Q3 last year and 0.5% two years ago. This improved margin reflects the thoughtful execution of the systems efficiency program with a Save for Service contribution of &#x20AC;0.4 billion in the first nine months of 2010.</p>
+          <p>Turning to the free cash flow, free cash flow for the first nine months amounted to &#x20AC;4.8 billion, which means that we are very well on track to reach at least &#x20AC;6.2 billion this year. Free cash flow in the third quarter was a strong &#x20AC;1.9 billion. When comparing with exceptionally strong third quarter last year, please recall that the free cash flow last year benefited from &#x20AC;0.8 billion of factoring deals. There are no factoring benefits in the third quarter this year. Overall, free cash flow, excluding last year's factoring deals, was much more evenly split between the quarters in 2010 than in 2009. This shows the impact of our improved free cash flow steering across all regions.</p>
+          <p>With regard to our cost-cutting program, Save for Service, we are very well on track. In the first nine months, we achieved cost savings on corporate level of &#x20AC;1.7 billion with strong contributions from all divisions. Importantly, over the past 12 months, we achieved a reduction in the net cost base of the Group &#x2013; in the Group of &#x20AC;740 million, so net savings now 740 million.</p>
+          <p>We had strong underlying net savings in Germany and the Europe division, each amounting to approximately &#x20AC;0.5 billion, which were, however, partially offset by cost increases predominantly in the U.S. And for this year, we expected 2-billion contribution from the Save for Service program. We believe that we're going to exceed this program in 2010.</p>
+          <p>Finally, our balance sheet remained in excellent health and actually improved significantly compared to Q2. We reduced net debt by &#x20AC;2.5 billion in the quarter, resulting in improved metrics, including a net debt to adjusted EBITDA ratio of 2.2 and an equity ratio of 34%. We're well within all our comfort zone ratios and have a BBB Plus or an A rating with a stable outlook from all four major rating agencies.</p>
+          <p>For the U.K., we are considering a significant non-recourse financing, which would further reduce our consolidated debt level at the model. With this we are now coming to the Q&amp;A, Ren&#xE9; and I looking forward to your questions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you very much Mr. H&#xF6;ttges. <mark type="Operator Instructions" /> Mr. Matthew Bloxham from Deutsche Bank, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Hello. It's Matthew Bloxham here. Just a couple of questions. First one just on the iPhone success in Germany. I was just kind of wondering how many of those units in Q3 were upgrades, people moving from an old iPhone to new one, and how many that's actually new people to the smartphone market?</p>
+          <p>And then the second question was on the U.S. I guess, historically Q4 has seen another step-up in churn. Just wondering whether you kind of think that's going to happen again this year or you think some of the measures you're doing will help to keep churn a bit more under control in Q4 this year?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>The upgrades in Q3, I can only estimate would be around 50% to 60% of the 400,000, but let me see will I find a more precise number. I think 50 to 60% would be right. On the churn side, it's, of course, difficult to give a short term outlook since it depends on many factors, including, of course, the competition and their competitive action, but we are confident that we can drive down the contract churn in medium term, and the ambition level for the next two years is to get down to a level of below 1.8%; that's the ambition level. Now whether or not that happens within one or two or three quarters, it's hard to estimate.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Kurt Peter Nielsen from Cheuvreux. May we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Yes. Two questions. Thank you, please. Sorry to be a little short sighted, but if I may focus on Q4 and your full year guidance, you seem confident in reaching, achieving your EBITDA guidance for 2010, despite the fact that we're just coming out of a clearly heavy sort of intense market in the quarter on the Mobile side, and Q4 is normally even weak on that front. Why is that?</p>
+          <p>And my second question relates to German Mobile. Service revenue trends remain strong, but nonetheless, a slowdown versus Q2. Should we expect sort of a slowing trend here going forward? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>With regard to the EBITDA for the remainder of the year, first of all, we clearly confirm our full year 2010 EBITDA guidance, which is for around &#x20AC;20 billion minus the deconsolidation impact of the U.K. of around &#x20AC;400 million to &#x20AC;500 million, and we reiterate the guidance despite the recent currency headwind.</p>
+          <p>Thirdly, we do not see a reason why some of the trends in Q3 should even worse than Q4. For instance, we do not see a further decline in the U.S. EBITDA margin, and in some of our European entities where we are deliberately investing into the market and customers in the third quarter and where we could make our decision in the first &#x2013; fourth quarter as well as we are coming off iPhone exclusivity as well in the fourth quarter.</p>
+          <p>And fourthly, we always said that our OpEx saving in Germany is backend loaded this year. And by the way, we demonstrated that already in the third quarter we had a very strong Save for Service impact in the third quarter, and we will see another impact from the OpEx side coming in at the last quarter. And with our guidance we include the 100 million extra tax from the Hungarian government, by the way, this is revenue tax, and therefore, it has an impact to the EBITDA line. And in our forecast we included it, and therefore, we are confident that we're going to make and confirm our guidance, which was given in the recent fall.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>s: Yeah, and Peter-Kurt on the mobile slowdown in Service revenues, I would think that still it's a good performance year. We have 5%, and I think last year in the same quarter was 6%, but that 6% was driven by the introduction of the iPhone Q3, and that had a big impact. So we jumped from a very low level up to a higher level driven by the iPhone, and now we're still keeping up a 5% overall growth. So I still think it's a strong performance, and I'm optimistic that Mobile interim revenues will continue to go up and as we said before, we keep pushing.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Simon Weeden from Citigroup, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thank you very much. Yes. I've got two questions, if I may. One is regarding the U.S. and the competitiveness there. I wondered if you could tell us whether or not you feel you have enough competitive devices on HSPA Plus for the fourth quarter, both in terms of the range of devices and also the volume of those, because there have been stories of component shortages upsetting the volume of handset availability in the certain parts of the market?</p>
+          <p>And the second question is whether you have any visibility on the likely proposals from the regulator in Germany on MTR cuts? When are we likely to see those becoming public, and then if there is any direction in terms of the impact that they're likely to have? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah. Simon, for Q4, we have two smartphones, the G2 and the myTouch 4G. I'm not aware of any shortage in supply yet, so I hope you &#x2013; I hope that this rumor is not substantial. I'm not aware of any shortage problem. And we have the Dell Netbook, not to forget, because, of course, Netbook users will benefit a lot from the additional speed. So I think we should see some positive impact of the device range for Q4 and the forthcoming quarters.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>And with regard to the question around the MTR development in Germany, there will be a decision in November 2010 on the MTRs. I think we should not going to participate in any kind of speculations, concerning the termination rate. However, so far the German regulator always pursued a rational glide part approach. So that is, let's say, our assumption as well for next year's budget.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Hannes Wittig from J.P. Morgan, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Yes, good afternoon. I have a couple of questions, one relates to the Hungarian tax, again, so I guess it would be a part of your adjusted EBITDA, I guess, rather than the headline EBITDA?</p>
+          <p>And the second question is maybe you could elaborate on any one-off components in the network cost in the U.S. in this quarter? It clearly was a very big sequential increase. So when you light-up the base stations for HSPA Plus and the back hold for that, that just leads to a higher recurring level of costs, so what are the specific one-off costs in the rollout stage?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>The cost in network for this quarter was about 60 million, and we booked the fiber back hold, so I think there were some cost increase quite significant actually. What else can be said to this topic? You know, that's beneficial over time, that cost growth. I mean, the -need to start giving me some additional information for the cost structure. As we said, I think the straightforward answer is there is more than 60 million in this quarter additional cost and plus the fiber back hold, so quite an impact. And Tim should comment on the Hungarian tax.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yes, as you all know, we will pay 6.5% additional tax on the revenues. Currently we are expecting a negative impact of 27 billion Hungarian forint on the Hungarian business in 2010. The special tax, although expected to be reported as other expense will be treated as one-off item and will therefore not have an impact on Magyar Telekom's guidance for an underlying EBITDA decline of 7% to 9% for 2009.</p>
+          <p>With regards to the transparency within Deutsche Telekom's numbers, we are still in the discussion with our auditors. We haven't got a clear guidance on that one. So far, we expect treating it as &#x2013; as not treating it as a special item, so we'll be seeing that in EBITDA line. But wait how the outcome of the discussion with the auditors.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Mathieu Robilliard from Exane BNP Paribas, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Yes, good afternoon. A question with regards to the U.S. You highlighted that this quarter you were &#x2013; or rather the Q3 you were hit a little bit by the absence of the iPhone. So my question really was looking at 2011 where maybe one of your competitors gets the iPhone, how do you feel you can continue to progress in terms of churn or in terms of customer acquisition, if you don't have the iPhone yourself, and maybe if you can give us an update on that?</p>
+          <p>And second, with regards to the guidance on free cash flow, you slightly upgraded your free cash flow guidance, should we understand that it's essentially driven by a slightly lower CapEx, or is there any other item that drives that? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Okay. U.S, 2011, we are confident that we have enough attractive alternatives to the iPhone, such as the first HSPA Plus smartphones, and I mentioned them before, the G2 and the myTouch 4G or the network device and then the first Windows Phone 7 devices, the HTC and the Dell Venue Pro, Optex Tablet, and Samsung Galaxy Tab.</p>
+          <p>And the &#x2013; fortunately, the acceptance of Android's, and I assume also, of the Windows device is very strong, and the Android device has already outnumbered the Apple sales. So in the U.S. we have to push very hard for convincing our customers of these alternative devices. And as I said earlier, the acceptance of the &#x2013; of these devices growing, and therefore, we're quite confident we have a good range.</p>
+          <p>But clearly it would be nice to have the iPhone on top of that. We don't, so we have to work hard on the alternatives.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>So coming to your question with regards to the free cash flow. First, we are very firm and very clear on all matters with regard to the 6.2 billion. We will see at least 6.2 billion.</p>
+          <p>We had after the third quarter 4.8 billion, which means we have to deliver on 1.4 billion for the remainder of the year. And every year, over the last years, you have seen 1.3 at least in the fourth quarter.</p>
+          <p>But that is not only the entire message. The second is there was the interim dividend, which was paid out in October, which was another 400 million, which is already at our accounts.</p>
+          <p>On top of that, I have said we're going to invest into the business something in the vicinity of 9.3, 9.4 billion for the year. After the deconsolidation of the U.K., minus 100, and after let's say the development of the recent nine months, we might have some flexibility around that one as well.</p>
+          <p>Lastly, there is a currency impact which is helping us as well in this regard, so therefore, we are very confident that we're going to make the 6.2 billion by the remainder of that year.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mrs. Robin Bienenstock from Sanford, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yeah, thanks very much. Good afternoon. Two questions, if I may.</p>
+          <p>The first is you seem happy with your JV in the U.K., so I'm wondering if a JV is a solution that you would consider actively, or are considering actively for assets facing strategic questions in the rest of your portfolio?</p>
+          <p>And the second question is about VDSL. You've given us an update on VDSL connections. I'm wondering if you have any update at all on your plans for fiber-to-the-premises and the pilot tests that you've been doing on that? Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>So, Robin, the JV in the U.K. is a solution which was a good one for &#x2013; which we consider a good one for the U.K. market, given the characteristic of that market, the low profitability, the high CapEx intensity, et cetera, blah, blah, so you know all the reason behind.</p>
+          <p>I cannot nourish any speculation for the JV to Tetron, I'm afraid. But for the U.K., I hope it's going to perform as we want it to perform.</p>
+          <p>And we two techs in Bonn, Schleich, and in Dresden. We begin with the fiber cities. And we stick to our target to roll out up to 5 million households in the next two and a half years or so, by the end of 2012. And we take it from there how the acceptance is, particularly on whether we can continue to sell the high performing connectivity with a premium, and whether we can then increase the acceptance of the value add service on top of the connectivity.</p>
+          <p>So we stick to our plan, and we combine in Germany the excellent services technologies from Wi-Fi to LTE to fiber. And there is nothing more other than we're still committed and try to fight for the high demanding customers, particularly with a high speed connection.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Frederic Boulan from Morgan Stanley, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Hi. Can I come back on the U.S. market? First of all, I'd like to know if you &#x2013; first of all, have any connected devices in the additions in the quarter? And also, if your contract adds ex connected devices?</p>
+          <p>And secondly, considering the new Android smartphones, dot, dot, dot, et cetera, you've been launching, should we expect this momentum to recover in the last quarter? Maybe it's a bit early, but your thoughts on that?</p>
+          <p>And secondly, when you look at the margin of the business, should we &#x2013; can you give us a bit more clarification on the Q4 levels? You're saying you want this to be maintained at around current levels. Don't you think you're going to have to invest in both commercial efforts to maintain your contract base? And in the more long term, can you really grow margins to 35% levels considering the level of intensities that you need to inject in the network currently? Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Fred, hi. Just to clarify, with connected devices. you mean machine to machine? Okay. I assume he means machine to machine. <mark type="inaudible" />.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Okay, let me just say in this context that, yes, machine-to-machine is in our contract net adds, as we said before. And I think if you look at the U.S. release, you can see the number for the connected devices.</p>
+          <p>However, if we look at underlying core posted, yes, they were worse in Q3 than in Q2, but we still see an improvement year-on-year. And I'm happy to answer additional questions after the call on that one.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Paul Marsch from Berenberg, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Yeah. Thank you. I've got a couple of questions.</p>
+          <p>Firstly, I think back in March, we heard a plan from the U.S. management team about addressing some of the issues facing the company. I think subsequently to that, we had like a nine-point plan, I think it was about bringing churn down. Those plans don't really seem to be making progress.</p>
+          <p>So I'm wondering what have you said to the new CEO? What have you tasked him to do? Has he been tasked to implement the existing strategy that we heard back in March, or does he have a mandate to review the situation and come up with a new plan?</p>
+          <p>I'm also wondering about the impact on margins from the data ARPU. Are you finding that that growth in the States from data ARPU is enhancing margins, or is that hurting margins?</p>
+          <p>And finally, on Save for Service cost savings, you seem to be confident you can exceed the 2 billion target. Are you inclined to reinvest any excess savings, or would you allow that to go through and boost EBITDA and cash flow?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Paul, in your business, it's when you submit a sales or purchase order for stocks, you'll see an immediate reaction in the share price. Unfortunately, managing the entire customer base and changing a perception and increasing the acceptance of different devices versus iPhone, it doesn't work that easy and that fast. So I would say we need &#x2013; actually we need a bit more time to develop more traction, all the measures with regards to churn.</p>
+          <p>But I don't want to hide behind that. Clearly, Philip's intentions are somewhat different with regards to his measures on distribution, on customer retention efforts. And he brings in some of the expertise we gained in Europe and also in Germany on churn prevention and customer retention.</p>
+          <p>So I would like you to, if you give us &#x2013; if you have that patience to attend the conference next year, early next year on the U.S. overall strategy with regards to customer management. But be assured that Philip's monitoring with regards to customer retention is very deep, and he works very closely with his team on this topic.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>But I think we missed the second part of your question with regard to the margin and the development and for the U.S. profitability.</p>
+          <p>First, it is correct and we build the network in the U.S., the HSPA network, and the network cost increased, something around let's say $63 million in connection with building that network.</p>
+          <p>Yes, it's correct that with the smartphones we have a slight increase on the SACs, and as well on the CRCs, but you should always take into consideration that the amortization rate and the profitability of every contract customer you gain the U.S. is very attractive, still very attractive even comparing it with our other businesses in the other areas that we are working.</p>
+          <p>With that in mind, an MT network with a fixed cost being there today and with the need of acquiring customer, yes, there was something we had to sacrifice on growing our customer base.</p>
+          <p>On the long run, we are not willing to sacrifice on the EBITDA margin; that's clearly not our target. We have said a target for 2012 should be something in the vicinity of 35%. That is still basis for our planning, and there is a clear execution plan, how we could make it, but it needs at that point to fill the network, to fill our good network in the U.S., and that is to say what the team has to do.</p>
+          <p>And maybe one last remark, the numbers on the gross adds, the gross add numbers are quite positive and encouraging. It is still the churn issue, which we have, and the question would be how many customers are still attracted by the iPhone from our competitors, and then therefore, over time I could tell you this number will definitely go further down because most of the customers will then make their decision.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>And I think, Paul, that should also answer your second question with respect to the EBITDA margin, right?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>
+            <mark type="inaudible" />
+          </p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Justin Funnell from Credit Suisse, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thank you. Two questions really.</p>
+          <p>On line loss in Germany, it picked up by around 220,000 in the quarter. If you look at last year, it picked up about 100,000, so I guess we could say that's seasonality. The pickup in DSL &#x2013; decline in DSL recently was about 40, so looking at it very crudely, that was a sort of extra 80,000 line loss missing. I just wondered what's behind that?</p>
+          <p>I mean, we've seen, for example, quite a big decline in Mobile Broadband prices, not from you so much as your competitors on dongles over the last couple of years. We've seen market line loss slightly accelerate in the last year. Are we starting to see a bit more of an impact from this? Are you seeing some sort of effect from mobile substitution picking up, or is it something else that explains that extra 80,000 line loss?</p>
+          <p>Secondly, in the U.S. obviously the ROCE target for the U.S. is a bit harder at the moment, given this challenge you have to overcome on customer perception on phones. You've given yourself a target for 2012 to get ROCE up. Are we getting to close to a stage where you may have to make more of a strategic decision on the U.S., and would you have to make that decision ahead of some sort of investments in LTE?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yes, the line losses in Germany, the main reason is not mobile substitution for DSL, but there was quite a bit of an overhang because of our system availability for the &#x2013; actually it's migration from DS &#x2013; from resale to IP bitstream access.</p>
+          <p>That's one of the biggest drivers behind that seasonal impact, because there were some issues and some pent-up migrations, which we couldn't solve fast enough, and they have now taken place. So there was an extraordinary effect there, and I think that accounts for most of it.</p>
+          <p>So I wouldn't interpret too much into that. It's primarily from resale of the food package &#x2013; of the retail package of DSL to IP bitstream access to some of the service providers.</p>
+          <p>Tim has the easy question on ROCE.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>So thank you for that. First, we will come up with a clear and better transparency on the ROCE by the end of the year with the fourth quarter results, so that you better understand where we are today with the ROCE and how we are going to achieve, let's say, the 150-basis-points on which we have committed on our Investor Day at the beginning of the year.</p>
+          <p>With regards to the third quarter, so far, what I could say is the overall ROCE development within the Group is quite encouraging. So we see an impact on the business. We see it in Germany. We see it in Europe, by the way, year-over-year. It is still challenging in the U.S., which is by the way a little bit expected. We have just built a new network. And as I've said, an unutilized network is from a return on capital employed perspective, quite challenging. Nevertheless, our planning is definitely built on an increase on the return on capital employed as well in the U.S.</p>
+          <p>You know, it was in the vicinity of four-ish where we are so far in the U.S, so it's not earning its capital cost, and there has to be an improvement, but please leave that to the discussion we might then have by the end of the year, coming with planning, coming with the discussion around that one, and it's definitely to do with utilization for data customers in the U.S.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Jonathan Dann from Barclays Capital, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Two questions, if I may. First, can you provide an update on OTE, both on refinancing and also any plans to increase your stake?</p>
+          <p>And secondly on the U.K., you mentioned that the U.K. business would borrow independently. Could you just run through the sort of magnitude of how much? I guess, first you'll refinance the in-company debt. Presumably would it borrow to fund U.K. spectrum auctions?</p>
+          <p>And I suppose my question really is how much cash could be returned to Germany? And with that, for example, &#x20AC;1 billion, would you consider another bigger buyback in 2011?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>That was a question on the Everything Everywhere, the joint venture in the U.S. Definitely it might be the refinancing of our subordinated company loans, which we have in the company. There might be additional leverage on the company, because the equity ratio is very, very high in the U.S., and in the U.K. at that point in time.</p>
+          <p>But I think it is something too early to release any numbers on that one. Let's work with the banks, let's understand the performance of the business, and keep it on your agenda, and it's definitely something we want to do to further reduce the company's debt at the mother level. But it is more a kind of strategic message today, not a tangible execution message.</p>
+          <p>With regards to the OTE refinancing, I think I'm very clear. We have &#x2013; in February, we have &#x20AC;1.4 billion bonds mature. Later in the year, there is a further &#x20AC;650 billion &#x2013; sorry, million euro maturity which is coming.</p>
+          <p>So the question is how to refinance it. First, OTE today holds a liquidity position of 0.8 million &#x2013; 0.8 billion, sorry, I am confusing with the numbers here. In February 2011 this liquidity is expected to increase by another 0.2 billion. Furthermore, OTE has undrawn revolving credit facility in the vicinity of 300 million, 0.3 billion. So I am learning that.</p>
+          <p>So we expect that the 1.4 billion maturing in February predominantly can be financed out of this mentioned fund; however, for structure reasons, there might be a residual external financing need of something around 0.4 billion or 0.5 billion.</p>
+          <p>Today, we are testing and we are thinking whether OTE are in a standalone position. It's in the position to do that on their own. If that would work; that is, let's say, our primed pump. If this won't work, Deutsche Telekom would help OTE, but this only at arm's length conditions. So that is, let's say, how we're planning now the February time slot for the second &#x2013; for the 650 million coming in November 2011. This will be mitigated by the cash flow during 2011, and therefore, there's no external refinancing needed.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Jacque de Greling from Natixis, may we ask your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thank you. An additional question regarding the USA. You indicated that the lower margin we're seeing is partly due to smartphone investments. As it is clearly one of the big trends, or underlying trends of the market should we expect this kind of a pressure to be maintained in the future of the T-Mobile USA margin? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Okay, Jacque, the margin in Q4 probably remains similar to Q3 due to continued strong momentum for smartphone sales and there in particular. The longer-term outlook we believe is more positive due to the potential to also return to revenue growth after all these sales and marketing measures. And the potential for additional cost cuts beyond the 360 million Save for Service contribution, which we have already achieved between Q1 and Q3. And the target remains that Service revenue margin of 30 to 35% or 35% by 2012 is accomplished, and if we compare that to existing margins, the so-called OEBDA margin of 28% in Q3. So there is quite a way to go, but we think we can get there.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mr. Guy Peddy from Macquarie, may we have your question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Yeah. Good afternoon. In the U.S. prophecy, you tend to see sort of iPhone noise in July and August has slowed down. Have you seen a discernible change in your performance? And can you give us an indication of how some of your new handsets that you launched only in the past couple of months have actually helped your business and whether churn rate has been slowed and whether gross contract addition rates have started to pick up? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yes. It's a bit early actually to give an outlook for Q4. It really depends on the core selling season between Thanksgiving and the end of the year. Again, I've said it before, we should see support from the market for devices launched in Q4 &#x2013; at least those who are capable to service on the 21-megabit connectivity speed, the G2 and myTouch 4G and the tablets and the other devices. So the U.S. wireless market, however, is very competitive, and carriers usually spend quite heavily around the holiday season. So let's see what happens, but it's really a bit early to give an outlook.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>And then, additionally, Guy, on your question whether gross adds have picked up in the third quarter, that was indeed the case. Contract gross adds in the third quarter were up 18%. So it's not an issue on the high street sales. It's just an issue on the churn we're facing.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Ladies and gentlemen, the conference is about to end. Should you still have further questions, we kindly ask you to contact the Investor Relations department. Mr. Lawrence Sugarman from ING, may we have your last question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Thank you. Two questions, if I could. Firstly, on the domestic mobile performance. Germany, you obviously said that there will be slowdown in Service revenue trends from the level achieved in Q2, which is slightly at odds with what we've seen from most of the companies. I'm interested to say, firstly, whether you believe that the level of performance is better than the pay group? Are you maintaining your market leadership?</p>
+          <p>And second, whether within that, and obviously been less of a benefit coming through from Mobile base growth. And I think the comps have got a little bit more difficult, and do you think that's an issue also for the wider market?</p>
+          <p>And then just finally on, back again on the U.S., is there any update on your thinking with around the issues on spectrum?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Maybe I kick off and then maybe Ren&#xE9; takes over. From the domestic mobile, to be very honest, we have seen 6% Service revenue growth last quarter, Q2. We've seen 5% Service revenue growth this quarter. The main contributing factor of that is the introduction, as Ren&#xE9; rightly pointed out before, in the third quarter of 2009 of the iPhone 3. And therefore, we had a stepladder change in the data revenue growth at that point of time. We had a stellar 60% data revenue growth in the third quarter 2009, which was now a base impact for the third quarter 2010. So we don't see that is at all a slowdown in the performance, and we see, as we rightly know, only one of our competitors has yet reported that is ePlus, and we have significantly outpaced them in Service revenue growth, and we are pretty confident that we are at least a couple of percentage points better than the rest of the bulk as well. So I think we have at least defended our market share leadership in the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yes, I also would &#x2013; to be honest I would like to underpin that because a year ago, two years ago, what did we talk about? We talked about how to regain growth momentum in Germany, and now we're talking several percentage already driven by Mobile Internet, in which we have all believed, but we didn't see it happening for so long. Now it's happening, and the momentum is very good, and we keep pushing for services and devices and network, and I'm optimistic that this trend is a good and intact trend.</p>
+          <p>On the other topic, U.S. spectrum and so forth, we already have 4G service with our HSPA Plus network. The performance is comparable or better, and this is confirmed by independent third party service, better than so-called 4G, existing 4G networks. Therefore, we feel we're in a good position to leverage on that one.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you very much. For those of you who have not been considered right now because we have to end, we will be calling all of you right now in the next couple of minutes from the IR department. Thank you very much and have a good afternoon.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We would like to thank you for participating at this conference. The recording of this conference will be available for the next seven days, by dialing Germany, 49-69-92-05-3333. I repeat Germany 49-69-92-05-3333. We are looking forward to hearing from you again. Thank you and good-bye.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

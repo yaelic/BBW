@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1343452" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q1 2011 Earnings Call</title>
+    <date>2011-03-01</date>
+    <companies>
+      <company>1401</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Viki Lazaris, Senior Vice-President</participant>
+      <participant id="2" type="corprep">William Downe, President and Chief Executive Officer</participant>
+      <participant id="3" type="corprep">Russel C. Robertson, Chief Financial Officer</participant>
+      <participant id="4" type="corprep">Thomas E. Flynn, Executive Vice-President and Chief Risk Officer</participant>
+      <participant id="5" type="analyst">Mario Mendonca</participant>
+      <participant id="6" type="corprep">Frank Techar</participant>
+      <participant id="7" type="analyst">Steve Theriault</participant>
+      <participant id="8" type="analyst">John Aiken</participant>
+      <participant id="9" type="corprep">Thomas V. Milroy</participant>
+      <participant id="10" type="analyst">Andr&#xE9;-Philippe Hardy</participant>
+      <participant id="11" type="analyst">Robert Sedran</participant>
+      <participant id="12" type="corprep">Gilles G. Ouellette</participant>
+      <participant id="13" type="analyst">Peter Routledge</participant>
+      <participant id="14" type="analyst">Darko Mihelic</participant>
+      <participant id="15" type="corprep">Ellen M. Costello</participant>
+      <participant id="16" type="analyst">Michael Goldberg</participant>
+      <participant id="17" type="analyst">Cheryl Pate</participant>
+      <participant id="18" type="analyst">Sumit Malhotra</participant>
+      <participant id="19" type="analyst">Gabriel Dechaine</participant>
+      <participant id="20" type="analyst">J. Bradley Smith</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Please be advised that this conference call is being recorded. Good afternoon, and welcome to the BMO Financial Group's First Quarter 2011 Conference Call for March 1st, 2011. Your host for today is Viki Lazaris, Senior Vice-President of Investor Relations. Ms. Lazaris, please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Great, thank you. Good afternoon, everyone, and thanks for joining us today. Our agenda for today's investor presentation is as follows. We'll begin the call with remarks from Bill Downe, BMO's CEO, followed by presentations from Russ Robertson, the Bank's Chief Financial Officer; and Tom Flynn, our Chief Risk Officer. After their presentations, we will have a short question-and-answer period where we'll take questions from pre-qualified analysts. To give anyone an opportunity to participate, please keep it to one or two questions, and then please re-queue.</p>
+          <p>Also with us this afternoon to take questions are BMO's business unit heads, Tom Milroy from BMO Capital Markets; Gilles Ouellette from the Private Client Group; Frank Techar, Head of P&amp;C Canada; and Ellen Costello from P&amp;C U.S.</p>
+          <p>At this time, I would like to caution our listeners by stating the following on behalf of those speaking today. Forward-looking statements may be made during this call, and they are subject to a variety of risks and uncertainties. Actual results could differ materially from forecast projections or conclusions in the forward-looking statements.</p>
+          <p>You can find information about the material factors that could cause our actual results to so differ and information about the material factors and assumptions that were applied in drawing conclusions or making the forecasts or projections in these forward-looking statements on page 29 and 30 of our 2010 annual MD&amp;A and on page five of our first quarter 2011 report to shareholders.</p>
+          <p>With that said, I'll hand things over to Bill.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you very much, Viki, and good afternoon, everyone. And as note, my comments may include forward-looking statements.</p>
+          <p>BMO's first quarter results signal a strong start to 2011. This performance reflects continuation of the momentum we've demonstrated through 2010, momentum that's been building for the past few years. The quarter again featured good growth in each of our operating groups supported by consistent themes: strong top line growth; expense in line with expectations, as we invest in our businesses; loan loss trends that are generally positive; a rising return on equity; and continued strength in our capital position.</p>
+          <p>We also continue to add depth to our executive management team. As most of you are aware, our CFO, Russ Robertson, will lead the Marshall &amp; Ilsley integration and chair the Executive Steering Committee overseeing the process. And Tom Flynn has been appointed our new Chief Financial Officer. Both appointments are effective following our annual general meeting on March 22nd.</p>
+          <p>I also want to acknowledge go, which two other key appointments. Surjit Rajpal is succeeding Tom as Chief Risk Officer. Surjit's career with BMO, which in fact, began in Risk Management, has spanned over 25 years. He's held important roles in our capital markets business, and his deep understanding of credit and market risk decisioning make him an excellent choice.</p>
+          <p>Second, Doug Stotz was recently appointed BMO's Chief Marketing Officer. Doug joins us from Bain &amp; Company and spent 10 years with FleetBoston Financial, where he was responsible for retail banking products. Doug brings to BMO some very specific expertise in customer analytics, customer profitability and building customer advocacy, and he'll play a key role in raising the profile of our brand in the U.S. The strength of our leadership provides confidence in our ability to execute on our strategic initiatives while maintaining visible momentum in each of our businesses.</p>
+          <p>Let's turn to our Q1 results. Net income was a strong $776 million, 18% above last year and up 5% sequentially. Cash EPS came in at a $1.32 per share. Our ROE was 15.7%, rising both from last year and from the previous quarter. Pre-tax pre-provision earnings in the quarter reached $1.3 billion, up 10% from a year ago and a new high for BMO. Provisions for credit losses were $248 million, down from a year ago, and Tom will provide more color on credit rather later in the call.</p>
+          <p>BMO remains well-capitalized with a strong balance sheet and liquidity position. As at January 31, 2011, based on fully implemented Basel III 2019 rules, our common equity ratio is estimated to be 8.2%. Our Tier 1 capital ratio on a Basel II basis was 13% at the end of the quarter, down from Q4 largely due to higher risk-weighted assets, and the redemption of an innovative instrument in the quarter.</p>
+          <p>We delivered strong year-over-year revenue growth of 10.6% in the first quarter. This compares with expense growth of 11.3% as we continue to invest in our businesses, adding front-line depth, technology and distribution. We continue to have good line of sight between investment decisions and top line performance. We're confident in meeting our medium term operating leverage objective of 1.5%.</p>
+          <p>I'd like to drill down a little deeper to underline our revenue momentum, and the opportunities we see ahead. P&amp;C Canada's first quarter revenue increased $116 million, or 8.3%. Personal banking grew 7% driven by volume growth and better spreads on personal lending products and deposits. Commercial banking revenues increased 11%, the result of good year-over-year volume growth in loans and deposits and including a full quarter of the Diners Club acquisition. We see an opportunity to outperform in commercial, and we continue to support our customers with tools like BMO's SmartSteps for business and BMO Business Essentials.</p>
+          <p>P&amp;C U.S. generated revenue growth of USD 29 million, or 8.8%, primarily due to the AMCORE transaction, improved loan spreads and deposit balance growth. Average deposits increased $3.8 billion, or 16% to $27.3 billion, about half from the inclusion of AMCORE, along with an active sales effort in our commercial segment.</p>
+          <p>First quarter revenue in Private Client Group increased $111 million, or 19.9% with solid growth in all of our businesses. This increase was driven by a 12% improvement in client assets under management and administration, in source currency, higher revenue from the insurance business, and higher deposit balances and spreads in our brokerage businesses.</p>
+          <p>During the quarter, we announced the agreement to acquire Hong Kong-based Lloyd George Management, a boutique asset manager with approximately USD 6 billion in assets under management with a significant portion in mainland China and approximately $1 billion in India. BMO Capital Markets' Q1 revenue of $963 million was up $120 million, or 14.3% from a year ago. Trading revenues increased, driven by higher equity and foreign exchange activity, as well as improving market conditions.</p>
+          <p>We've also seen an increase in our investment banking activity, particularly in mergers and acquisitions, as confidence builds. Although we expect only moderate growth in lending activity, we're confident agency and fee businesses will support our top-line growth as our various strategic hires gain traction.</p>
+          <p>We've been consistent in our belief that very good business opportunities will be available to us in the U.S., and a number of the improving economic trends we're seeing support this confidence. Since last quarter-end, our view of 2011 U.S. GDP growth has increased from 2.4% to 3.2%. That said, the rate of unemployment is slow in recovering, and will continue to weigh on the housing market.</p>
+          <p>Business outlays on machinery and equipment peaked in early 2008, and subsequently fell 20%. Since then, M&amp;E investment has rebounded an estimated 25% and is expected to continue to grow at a brisk pace through the end of this year, spurred by the higher expensing limits under the Small Business Jobs Act.</p>
+          <p>Each of our U.S. businesses is well-positioned. BMO Capital Markets is on a positive trajectory with increased investment banking fee revenue supported by M&amp;A activity, and a strong pipeline and expanded distribution capabilities, and we're well-positioned for a recovery in lending.</p>
+          <p>In P&amp;C banking, we said previously we aim to be the bank for business in the Midwest. Our client alignment initiative, increased productivity and focus on building new relationships, has positioned us for growth. This will be enhanced by the addition of M&amp;I, which is also known for its strength in commercial banking. And in the Private Client Group, we're leveraging the strong partnerships between wealth, personal and commercial banking, and capital markets to expand our client base.</p>
+          <p>Looking at the U.S., it's clear that the addition of M&amp;I will transform our U.S. platform with added capabilities and scale. The combined business will be advantaged by our strong capital base, proven risk management and client discipline, bringing together highly reputable and well-respected businesses in the Midwest.</p>
+          <p>Turning more specifically to M&amp;I, everything we've seen to-date supports our initial view about the attractiveness of the transaction, and how transformational it will be. In accordance with the size of this deal, we're taking the right amount of time to plan for integration, and we're being very deliberate in the choices we're making.</p>
+          <p>That said, I can update you on our progress on several important fronts. First, since December 17th, a number of capital-related issues have been clarified, including the amount of capital required for Basel III counterparty credit risk, and we've updated BMO and M&amp;I capital and risk-weighted asset assumptions. With these clarifications, we've been able to narrow the projected range of the capital raise we'll be undertaking and now anticipate a common equity offering of less than $400 million prior to closing.</p>
+          <p>Second, much work has been completed on the organizational design, which gives us confidence that we can hit the ground running, and be in a position to fully implement after closing. Third, with regard to the name of our combined U.S. business, brand positioning has been crucial to the Bank's success, and importing the most important aspects of our brand is something we're intensely focused on right now: what we stand for, what is the essence of our business model, and how we go to market, what we do for customers.</p>
+          <p>Fourth, at the time of the announcement, we indicated cost savings of $250 million from the transaction, and we expect to meet or exceed this number. And fifth, we've been in the market speaking to a number of different businesses and customers. We're enthusiastic about the revenue growth opportunities, and here are some examples.</p>
+          <p>In commercial banking, increased loan growth and business opportunities, including cash management; in personal banking, strong new account openings; in private banking, enhanced profile and a much larger customer base; in asset management, capitalizing on the scale afforded by incremental managed assets and distribution capabilities; and in capital markets, taking advantage of our increased visibility over a significant six-state market.</p>
+          <p>We look forward to reporting further in the coming months. And now I'll pass it over to Russ to take you through our Q1 financial results in more detail.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thanks, Bill, and good afternoon. As some of my comments may be forward-looking, please note the caution regarding forward-looking statements at the beginning of the presentation.</p>
+          <p>On slide 10, you can see that first quarter results were strong with net income of $776 million, or $1.30 per share, compared to a $1.12 last year. On a cash basis, current quarter earnings were $1.32. We delivered revenues of $3.3 billion and strong top line growth of 10.6% year-over-year, with good contributions from all of our operating groups. BMO's capital position remains strong.</p>
+          <p>Turning to slide 11, I'll touch briefly on the main drivers for revenue growth in the quarter. Non-interest revenue of $1.7 billion was up 15% from a year ago, largely due to strong increases in BMO Capital Markets' Private Client Group, which Bill spoke about earlier.</p>
+          <p>Net interest income was $1.6 billion in the quarter, up $95 million, or 6.1% from a year ago, mainly due to solid growth from our retail businesses. Quarter-over-quarter, net interest income increased $17 million, or 1.1%, reflecting solid growth in BMO Capital Markets and P&amp;C Canada, which was partially offset by a decrease in corporate services.</p>
+          <p>The total Bank net interest margin was down 3 basis points year-over-year. Solid increases in our retail businesses were offset by reductions in net interest income in BMO Capital Markets, specifically trading and in corporate services.</p>
+          <p>Quarter-over-quarter margins were down 7 basis points. There was good growth in P&amp;C U.S. due to improved loan spreads and higher deposit balances, as well as higher deposits spreads in the Private Client Group. That said, growth in BMO Capital Markets' lower-margin assets and reduced net interest income in corporate services resulted in the overall reduction in the net interest margin.</p>
+          <p>Turning to slide 12, year-over-year expenses increased $207 million, or 11.3%. Approximately 45% of the increase was due to continued investment in our P&amp;C businesses, including technology development initiatives, and the addition of staff in Canada. Another 15% was due to the effects of our completed acquisitions. In addition, there were higher costs in the Private Client Group and BMO Capital Markets, largely due to increased employee compensation, in line with higher revenues and business investments.</p>
+          <p>Quarter-over-quarter expenses increased $23 million, or 1.2%, mainly due to significantly higher employee costs offset by lower integration costs associated with our Rockford acquisition, and the weaker U.S. dollar. Employee costs were higher due to a $63 million charge for performance-based compensation related to employees eligible to retire that we record in the first quarter of each year. Benefit costs were also higher in Q1, consistent with the timing of the expense.</p>
+          <p>Before turning to capital, I would like to note that the effective income tax rate was 24.5% in the quarter, primarily due to a provision for prior periods income taxes recorded in the U.S. segment. The normalized tax rate for this quarter was approximately 300 basis points lower.</p>
+          <p>On slide 13, you'll see that our Tier 1 capital ratio remains strong at 13.02%. The ratio declined 42 basis points from 13.45% in the fourth quarter, largely due to the $400 million redemption of BMO BOaTS &#x2013; Series B in December and higher risk-weighted assets, which were $165.3 billion at the end of the first quarter.</p>
+          <p>The $4.1 billion sequential increase in RWA was primarily due to the adoption of the advanced internal ratings-based approach for Harris Bancorp. This increase was partially offset by lower trading book and securitization RWA. BMO remains well-capitalized before and after we account for our recently announced acquisitions. After incorporating the estimated capital requirements for both M&amp;I and Lloyd George Management at closing, and the share exchange with M&amp;I shareholders, the Bank's pro forma Basel II common equity ratio and Tier 1 capital ratio would be approximately 8.8% and 11%, respectively, as at January 31, 2011.</p>
+          <p>On a Basel III basis, the pro forma common equity ratio as at January 31, 2011, is estimated to be 6.4% after, including M&amp;I and LGM. These ratios do not factor in the common equity offering, as Bill noted, which would have a positive impact of up to 20 basis points.</p>
+          <p>Moving to slide 16, P&amp;C Canada had another strong quarter. Net income of $444 million increased 10% from a year ago. Higher revenue was driven by volume growth across most products, the inclusion of one full quarter of the Diners Club franchise revenues, compared to one month in the prior year and an improved net interest margin.</p>
+          <p>Revenue growth was partially offset by slightly higher provisions due to growth in the portfolio, and the addition of the Diners Club business and higher expenses. We continue to invest strategically to improve our competitive position while managing our operating expenses prudently. This is reflected in the group's cash productivity ratio of 50.5% in the first quarter. Effective this quarter, we changed our disclosure to include cards revenue within our personal and commercial businesses to better reflect how we are managing. For example, with the acquisition of Diners Club, commercial cards are a more significant part of our commercial product offering. This change is reflected on slide 17.</p>
+          <p>P&amp;C U.S. net income of USD 42 million was down $6 million, or 13% from a year ago, largely driven by a higher provision for loan losses. Solid revenue growth, driven by higher deposit balances and improved loan spreads, was offset by higher expenses. Net income in U.S. dollars increased 12% quarter-over-quarter, mainly due to lower integration costs related to the Rockford transaction, which more than offset the decline in revenues from lower deposit and lending fees. In the quarter, the inclusion of the Rockford transaction increased revenues and operating expenses by USD 17 million and USD 15 million, respectively.</p>
+          <p>Turning to slide 19, our Private Client Group results of a $153 million were up $42 million, or 38% from a year ago. Net income from our brokerage, private client and asset management businesses was up a strong 20%. Insurance revenue was up both year-over-year and quarter-over-quarter, benefiting from the effects of favorable market movements on policyholder liabilities and higher net premium revenues. Quarter one cash productivity ratio of 69.2% improved 350 basis points from a year ago.</p>
+          <p>Turning to slide 21, BMO Capital Markets delivered strong net income of $257 million, up 21% from last year. There was solid trading and improved investment banking fees driving year-over-year revenue growth of 14%, and results also benefited from favorable market conditions. Net income in the quarter was lowered by a provision for prior periods' income taxes in the U.S. segment. Quarter-over-quarter net income was up 20%. Equity trading revenue was significantly higher due to an unfavorable accounting adjustment in the previous quarter. There was also an increase in our investment banking activity, particularly in mergers and acquisitions.</p>
+          <p>Finally, on slide 23, Corporate Services results were unchanged from the prior year as reduced revenues and higher costs were offset by lower provisions for credit losses. Revenue was $39 million lower, mostly due to a $27 million reduction in non-interest revenue due to higher funding transaction fees, higher mark-to-market losses on securitization-related swaps, and the impact of hedge ineffectiveness. There were also increases in technology investment expenses in the quarter.</p>
+          <p>In conclusion, our results reflect a quarter of strong earnings underpinned by continued momentum across all of our businesses. With that, I'll turn things over to Tom.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Thanks, Russ, and good afternoon. Before I begin, I draw your attention to the caution regarding forward-looking statements. I'll start with slide 29, where we provide a breakdown of our loan portfolio.</p>
+          <p>The portfolio is well-diversified both geographically and by segment. 76% of loans are in Canada and 19% in the U.S. P&amp;C consumer loans represent 64% of the Canadian portfolio and 86% of these are secured. Our U.S. portfolio mix is 44% consumer and 56% commercial. The U.S. consumer portfolios are relatively evenly spread across first mortgage, home equity and auto loans. Despite economic weakness over the last few years, these portfolios have been performing better than peers.</p>
+          <p>The U.S. C&amp;I portfolio is well-diversified and is performing reasonably, given the environment. The U.S. commercial real estate-related sector continues to experience stress, and we expect it will take time for it to fully recover. This portfolio was approximately $3 billion in size, or 9% of U.S. loans and less than 2% of total loans.</p>
+          <p>Turning to slide 30, where we provide information on impaired loan formations, formations were $283 million for the quarter versus $461 million in Q4 and $456 million a year ago. The Canadian formations are $120 million, down from $172 million in Q4. The U.S. portfolio continues to account for the majority of formations at a $163 million, with commercial real estate-related sectors making up the largest portion at 33%. Gross impaired loan balances were down at $3.1 billion, compared to $3.2 billion in Q4. Excluding loans covered by the 80/20 loss share agreement with the FDIC, impaired loans were $2.7 billion.</p>
+          <p>Slide 31 details the provision for credit losses by line of business. The consolidated specific provision was $248 million, down from $333 million a year ago. Moving now to the business segment details that are shown in the table to the right, P&amp;C Canada provisions were higher quarter-over-quarter, primarily due to high consumer recoveries in the previous quarter. P&amp;C U.S. provisions were relatively flat quarter-over-quarter. We expect provisions in this line of business to continue to be impacted by weak real estate markets and high unemployment through much of 2011. Capital market provisions remained low in the quarter. In general, capital market portfolios continue to stabilize.</p>
+          <p>Turning to slide 32, we provide a segmentation of the specific provision by geographies and sector. The Canadian provision was a $116 million, down from $138 million a year ago. The consumer loan and credit card segments continued to be the largest drivers of Canadian provisions at 38% and 35%, respectively. The U.S. provision was a $132 million, well below the level of a $190 million a year ago.</p>
+          <p>To summarize now overall for the quarter, credit portfolios continued to benefit from an improving economy. Both formations and provisions are lower than a year ago. Assuming the economy continues to improve and unemployment starts to come down in the U.S., we would expect this to continue.</p>
+          <p>That concludes my presentation, and we can now move to the Q&amp;A.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you. <mark type="Operator Instructions" /> The following question is from Mario Mendonca of Canaccord. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Good afternoon. First, on domestic commercial, it would appear that after a few quarters of some pretty solid growth, it seemed to flat line a little bit. For, Frank, is there anything you can point to?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Mario, I don't know what you're looking at, specifically.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>It's actually in the presentation.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>You're talking about the &#x2013; oh, I'm sorry. You're talking about the revenue?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Commercial loan growth, commercial loans in Canada. Let me give you a specific page reference.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Yes. Well, our commercial loan growth is up. I mean, the reason why I'm pausing here is because we had very strong growth in our commercial loans in the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>It was flat.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Our commercial loans were up 7.8%. And so, Q1 to Q4, in the zero to 5 category, our market share was up again. So, like if you're reading anything into it, you shouldn't. We still feel like we have growth and momentum in the business, and we're competing very effectively.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>I'll be more specific. On page 25 of the presentation, Q4 to Q1, commercial loans flat. I guess that's what I'm getting at.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Well, the other thing to keep in mind is there is some seasonality in the commercial business. And so Q1 is always one of those quarters where it is a little soft relative to coming out of the back half of the year.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Okay. So, I guess there's nothing there that you'd highlight, then?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Yes, there's nothing there. In fact, our expectation is the growth is going to continue and continue to accelerate as we go into this year. I'm really optimistic about the commercial sector.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>That's helpful. And then last question, perhaps for Tom Flynn. Domestic consumer delinquencies, referring here to personal loans &#x2013; this is the second consecutive quarter where that's taken a slight move upward. Are we looking at the secured book there because I understand that your HELOCs are included in your personal loans? Is there anything you can highlight there?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>The number is up a little bit. I wouldn't highlight anything in particular. There's a little bit of seasonality that inflates the numbers slightly in the first quarter. And I think we've just seen a bit of a pause in the rate of improvement in credit after coming off of the highs, and our expectation would be that, assuming the economy continues to do well, those numbers will gradually start to come down. We don't see any reversal of the fundamental trend.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>On a related point &#x2013; I guess what I'm getting at here is, the Bank's enjoyed some very strong personal loan growth over the last two years. Is there any reason to believe that that personal loan growth stronger than your peers is manifesting itself in some weakness on the credit front?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I would say no. We have not compromised our credit standards in the pursuit of growth. We have had good growth in the card portfolio, which has higher inherent loss rates. And so you could see consolidated Canadian consumer numbers move up a bit because of a slight mix change. But our card numbers, compared to peers are still best-in-class.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The following question is from Steve Theriault of Bank of America. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thanks very much. A question for Bill Downe. Bill, there continues to be lots of chatter on U.S. regional banking M&amp;A. With the M&amp;I deal and its integration challenges, do you feel like you have your hands full for the time being? Or could you conceivably consider any more meaningful additional deals over the next year or so, while the M&amp;I deal closes and you get the integration going?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I would prefer, Steve, if you said we're fully occupied rather than we have our hands full.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Fair enough.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think we are fully occupied. The opportunity in M&amp;I around growth within the six-state market, including Illinois is something that I think is going to give us organic growth on top of the acquired growth and that's really where we want to keep our attention focused.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay. Fair enough. Another question on M&amp;I, but maybe for Tom or for Russ, with respect to the Tier 1 common impact, when I look through all the pro formas you've given us, it looks like the negative impact from M&amp;I from a Tier 1 common perspective is maybe 20 or 30 basis points worse than when you announced the deal. Am I in the ballpark there? And what's the difference attributable?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yes, the difference attributable to a couple of things, depending on how you're looking at the numbers. First, when we talked about the impact on the ratio at the time we announced the transaction, we modeled in an assumed $800 million capital raise. And in the pro forma number that we've included in the press release, we've assumed a zero common equity raise and we've noted that we expect the raise to be less than $400 million. So, going from $800 million to zero is about 35 basis points on the impact. In addition, we've been working to refine some of the numbers that go into the assessment of the ratio. And our deferred tax balance is up a bit, RWA are up a bit, and we've also factored in the Lloyd George acquisition, which is about 5 basis points. So, the total of those things is about 35 basis points in total on impact.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>That's helpful, and then one last numbers one, if I might. Just given the December changes to counterparty risk, versus the $23 billion you give us last quarter, could you update us on that number, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yes. The $23 billion is what we disclosed as the estimated impact of the counterparty credit risk changes as they existed at the time we announced Q4. Those rules have since been amended, and the current estimate is that the impact is approximately half of the 23. And that's about a 40, 45 basis point delta on the ratio.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thanks. That's very helpful.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The following question is from John Aiken of Barclays Capital. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Good afternoon. I hate to pick on the capital markets, given the strength that you guys exhibited in the quarter. But when we look at the disclosure in the U.S., the contribution is down significantly in the preceding three quarters, and now we're at a loss. But even if you back out the provision for the tax, we're still materially below where we were at a run rate. Is there some structural difficulties in the business, and can you get contributions back up in the near-term with, I guess, maybe some tailwinds from the economy?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>Yes, hi, John, Tom Milroy, thanks for the question. I just want to say that we're actually encouraged by the U.S. performance quarter-over-quarter. We had to go up because of the tax provision, you have to go up a few lines; but if you look in the supp pack on page 10 and you go up to a pre-provision, pre-tax basis, you'll see we grew from $44 million in Q4 to $76 million in Q1. And we think that that line, and it will be reflected going forward, in the bottom line, is growing, and growing in the right direction. So, as we step back and look at it, we see the early signs of the work and the attention that we have in terms of pursuing our North American distribution strategy starting to come through in the numbers.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Great, thanks. And you talked in the MD&amp;A about the growth in average earning assets was largely centered around the repo book and again, that was client activities. Can you give us some sense as to how this contributed to the growth in trading in the quarter, and whether this is a change in strategy for the Bank or just largely truly demand-driven?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>Yes, well, let me take that one again. I mean, this is all client activity and business we like, so the opportunity was to grow it in the quarter and we did. I should also tell you that that was a business activity that actually had dropped in 2010 below the level we wanted it to be at, so lower than historically where we've been and lower than where we were relative to our peers. So, in this quarter what we've done is we've been able to grow it and grow our share back to about where we would expect to be going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Great, thanks, Tom.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The following question is from Andr&#xE9; Hardy of RBC Capital Markets. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thank you. I also have a question on capital. The transition to advanced internal ratings-based approach led to an increase in RWAs at Harris. How long do you expect it will take before you need to have the M&amp;I book on an AIRB approach? And is that factored into your pro forma estimates?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>It's Tom Flynn. The rules allow for basically a three-year transition period post-close, and we'll start working on it actually pre-close, but I expect we'll look to take the three-year period. And we would expect significant positive migration in the portfolio between now and the end of that period, which would have a positive impact on RWA. And we also think that the credit mark that we've taken, which we think is appropriate and prudent, also significantly reduces the inherent risk in the RWA that we'll be picking up.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>So, three years from now, you don't expect a pick-up relative to the standardized methodology?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Well, obviously a hard thing to forecast three years out, but I would absolutely not expect it to be of the magnitude that we've seen here in this quarter with the Harris AIRB.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The following question is from Robert Sedran of CIBC. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Hi, good afternoon. The 20 basis points-odd of pick-up that you would get from a $400 million equity issue, is near enough to zero that I guess, I'm wondering why not just scrap the idea altogether. Is there a potential that we don't do any here?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks for the question, Rob. I think we are pretty clear about less than $400 million; we modeled zero. It is a possibility. I think, as we have ticked off in the last 70 days since we announced the transaction, is we have ticked off the work that we've done. We have made good progress. We still have work to do, but I think you really have &#x2013; you have defined the boundaries.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>And just a quick question on the insurance revenue side; maybe it's for Gilles. I guess the AIG acquisition has made you a little bit more market-sensitive than you have been. In trying to forecast that line, what might be the right reference rate or right interest rate to look at? And can you perhaps give us an idea of the sensitivity to that rate?</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="a">
+        <plist>
+          <p>Yes. Thanks for the question, Rob. It's in the supp pack. I think the current numbers are 100 basis points, is about &#x2013; 100 basis points up is about $80 million, and 100 basis points down is about $70 million.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>That's a parallel shift in the yield curve, you are suggesting?</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="a">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="a">
+        <plist>
+          <p>But what happened &#x2013; we had a great quarter this quarter. The wealth management businesses all kind of kicked in, the revenues were good, and the net income was up, I think it was about 20%. But the insurance net income was up something like 66%. And partly the reason for that is that, previous quarter, rates had ticked down, and that impacted our revenues. And then this quarter, we got it all back, and so the revenue was up a little bit. But from quarter-to-quarter, I don't expect to see a big change, although directionally, we expect rates to be going up, and we expect to benefit from that insurance business going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The following question is from Peter Routledge of National Bank Financial. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>One quick follow-up on the counterparty credit risk; you say it dropped 50%. Do you still include the assumption that there will not be a centralized credit counterparty for OTC derivatives? And will that number drop even further if we get one?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>We have not assumed that there will be a central clearer. And so, if one was in place, the number would drop. And I think it's fair to say, the expectation is that one will be in place.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay. In Canada, for Frank and related to Mario's question earlier, we see a slowdown in household lending. But in Bank of Canada data, it looks like overall household credit is up a bit, and up by more than the large Canadian banks have reported so far. So, Frank, in your view, is this the making of an end-of-cycle in Canadian residential lending, both on the mortgage side, and just consumer lending side? Why or why not? And, if so, what sort of risk is there to BMO in the unsecured household lending book?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>I don't know how to define a cycle exactly. It's clear that we are going to see some slowing, and we've started to see that already. My expectation is, we're not going to go to zero; we are going to have some level of growth available to all of us in the marketplace as we move forward. And predicting what that level is, is difficult to do at this point in time. But I think you have pointed out that the growth levels are still pretty healthy.</p>
+          <p>The interventions from finance have yet to take place, so we don't know what the impact of those are going to be on consumer preferences at this point in time and consumer behaviors. And I think we'll just have to see how that plays out. So, my expectation is, we will continue to see growth, but it will be at a slower level than we are now, and it's hard to predict what that level is.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>One part of end of cycle is slower growth; another part could be higher credit costs. Is there any &#x2013; and I know we are in an apparently growing economy. Is there any risk of that, in your view? Do you see the potential for rising credit costs?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Well, I think in this environment, I would suggest that it's probably unlikely, but I would never say never, looking out maybe a little further into the future.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>I just think it's not the right thing to do for Canada, and not the right thing to do just in general for the businesses. So, I would be surprised if it happened early.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The following question is from Darko Mihelic of Cormark Securities. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Hi. Thank you. I'm looking at page 18 of your presentation and page &#x2013; I guess page eight of your supplemental, the Personal and Commercial bank. My question is, I guess when I look at the cash productivity level, and the core cash productivity and last quarter, I guess there was an expense bump company-wide, so I didn't make anything of it. But this is sort of the second quarter in a row where the gap between your cash productivity and your core cash productivity is wider than the previous sort of three quarters. Just curious as to why that is, and how soon should we expect a return to a lower level of cash productivity here in the U.S.?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="a">
+        <plist>
+          <p>Darko, thanks for the question; it's Ellen speaking. That is pretty much largely made up of the impaired loan portfolio carry. And that has increased from about a 500 basis point drag to about a 1000 basis point drag. And until we start to see a decline in that portfolio, and the cost of carrying it, I think it will be there for some time.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>And should I read into the higher expected loss in the U.S. as sort of a forbearing of this? I mean, in other words, we should think about really an elevated expense base, based on your expected cost methodology or expected loss methodology, sorry?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="a">
+        <plist>
+          <p>There has been an increase in the expected loss impact in the numbers, but I think that the impaired loan impact is the bigger driver.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>And I guess the last question, Ellen, it looks like the number of full-time equivalent employees dropped dramatically quarter-over-quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="a">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Can you -</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="a">
+        <plist>
+          <p>That was the AMCORE, when we went through the conversion process, there were about 400 employees that were impacted by that through the fall, and you're just finally seeing that show up in the first quarter numbers.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>So shouldn't that squeeze the difference between the cash productivity, and the core cash productivity number?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="a">
+        <plist>
+          <p>I don't know that it would have as much of an effect as the impaired loan impact.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay, fair enough.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="a">
+        <plist>
+          <p>It does improve the productivity of the personal business, most certainly.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay. And maybe just one last question, the core cash productivity number. I guess the ultimate question is what is the goal here? Where can we get the U.S. banking platform to when we add Marshall &amp; Ilsley into the mix? What is the end goal? Is it mid-50s?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Darko, maybe I'll pick that one up. I think that if you go back and look at the levels that M&amp;I was able to run at, let's say, five years ago, they had a very productive platform relative to the industry. And I think bringing down the combined expense to revenue ratio towards that objective is the right objective. It's going to be kind of hard in the remainder of 2011 and 2012 to see that because we're going to have some additional expenses. We will break them out, but we'll have some adjustment expenses. But that is a reasonable area to think about heading towards in the long run.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay. That helps a lot. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The following question is from Michael Goldberg of Desjardins Securities. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Thank you. When you announced the Marshall &amp; IIsley acquisition, you indicated that the impact would be about 3% dilutive in year one and 2% accretive in year two. Based on what you know now, how have these expectations changed? That's the first one related to M&amp;I. And second related to M&amp;I, will Mark Furlong, and the credit people coming from M&amp;I be incented to deliver less losses than you've indicated in your purchase equation?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>It's Tom Flynn, Michael, I will try to answer that. To the first question, we are not coming out with revised guidance related to the accretion on the transaction. So, we are sticking with the numbers that we earlier provided.</p>
+          <p>In terms of incenting people to do better than we provide for in the mark, the answer is that the people who are responsible for managing that portfolio will be incented and motivated to perform well to maximize value, and hopefully to beat the mark, although the mark is what we think the inherent loss is in the portfolio.</p>
+          <p>And we've talked about having the impaired loans that are being worked out managed away from the business, so that Mark, when he is running the business, is able to focus on the integration, and the go-forward business, and not be distracted with the workout portfolio. So, it's actually going to be managed by a team of experienced workout people within the risk group.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Okay. I've also got a question about your capital that you've talked about. Given what you've said about your pro forma Basel III capital ratios with and without the up to $400 million common share issue that you now foresee. Would it be reasonable for us to look at this issue as the amount needed to ensure that your Basel III common equity ratio is greater than &#x2013; is somewhere greater than the 7% level by year-end, also taking into account expected retained earnings over the balance of the year?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>It's Tom, Michael. It's a reasonable question to ask, a fair question, but the answer is no. We don't need that amount to be above the 7% based on our projections.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>So you would expect that you will be above the 7% by year-end?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Sorry, by the date that it comes into effect, Q1 of '13.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>No, but I'm asking about by the end of fiscal 2011.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>We don't really view that as a target, by the end of fiscal 2011. The Basel III rules are being phased in effective Q1 of '13, and regulators globally are encouraging institutions to meet the new standards essentially as quickly as possible. And we are very comfortable with where we will sit relative to the 7% on the implementation date of Q1, '13.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Well, let me just ask it a different way. If you're not at 7% by the end of 2011, and all other things permitting, would you be in the position to increase your dividend at that point?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>You know, Michael, before Tom proceeds further, I think we're into such hypothetical area that it's really not productive. What we've said with respect to the dividend is that we will increase the dividend consistent with earnings. As the earnings from the acquired property kick in, I'm sure that that will provide ample incentive for a dividend increase.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The following question is from Cheryl Pate of Morgan Stanley. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Hi, good afternoon. A question for Ellen on the sequential improvement we saw in the net interest margin. 15 basis points was higher than I would have expected. Can you give us some color on what product is really driving the improvement on the lending spread there? Is it more commercial or consumer? And any thoughts on the sustainability of the increase relative to the competitiveness of the market currently?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="a">
+        <plist>
+          <p>Thanks, Cheryl for the question. The drivers &#x2013; and actually, I look at it more on a year-over-year basis because it's a pretty big lift year-over-year &#x2013; are really loan spreads. We've been in a mode where we've been repricing existing loans, as well as new originations at higher levels while exiting a portfolio of lower-spread loans. So, that's giving us a lift.</p>
+          <p>At the same time, we have deposit volume growth. And while that is being offset by deposit spread compression, it's still adding to our margin growth. I would say that the outlook for margins in my view would be flat because we will start to feel some downward pressure on pricing on the loan side as we head into the balance of the year.</p>
+          <p>Most of our repricing efforts on the existing book in commercial are pretty much finished, and we are seeing some competitiveness on the pricing side in the environment that we are in, as banks are competing for loan growth.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>And would you say most of the &#x2013; is it more commercially -</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="a">
+        <plist>
+          <p>It's more commercial, yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Great, thanks. And a second question, for Frank. On the lower fee revenue from cards this quarter, I'm just wondering how much of the higher reward cost would have any sort of seasonality aspect to it. Or, is it really a bit of a mix shift on the card portfolio driving the higher charges this quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>I assume you are referring to the move from $65 million down to $45 million in card fees; there were three reasons. One was, we had lower than normal reward costs, actually, back in Q3 and Q4, and our reward costs are a negative NIR. So, we actually had lower costs as a result of just the activity during those quarters.</p>
+          <p>And we saw a pick-up to more normal levels in this quarter. We also had lower card fees just in general, and seasonality and mix came into play on that front, just our fees associated with the core business. And we also had lower minarets revenue just based on lower transaction volumes during the quarter. So, it was really three things that contributed, but the reward issue was more lower than normal cost in previous quarters, rather than any change in this quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Okay, thanks very helpful.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The following question is from Sumit Malhotra of Macquarie Capital Markets. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Good afternoon. The first question is for Tom Flynn. Tom, when I look at the total allowance level of the Bank in relation to ratios, like the coverage ratio, total allowances to total loans, you have certainly moved back in line or even, in some cases, ahead of the industry in that regard. And when I think about the comments here, Frank and yourself both seem pretty positive on Canadian retail trends. Capital markets doesn't seem like it's too much of an issue in the corporate book. Yet, BMO has been much more conservative than some of your peers in maintaining that provisioning level, and the level of the total allowance. What's the possibility we start to see some draw downs in that book as 2011 progresses, given the improving parts in at least two thirds of your portfolios?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I'd say the potential exists. Obviously, we think we have the allowance at the right level in the current quarter. You've seen U.S. Banks draw down on their reserves, and that got some attention in the press. I think less so, generally, in the case of the Canadian banks. So, I would say the potential exists, assuming that the positive trends continue.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>If I'm remembering correctly, in the last call, you had stated that your view at that time was provisions roughly flat with the back half 2010 levels in the beginning of '11, and then we'll see what happens from there. In the context of a continuing very low default rate on the corporate side and $200 million decline in formations, is that still your view, or, are we trending better than you may have thought three months ago?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I'd say we're trending roughly in line. The capital market provisions have outperformed, generally, over the last three or so quarters. We've had really strong performance, and we feel good about that. The U.S. P&amp;C provisions have been sticky, and that reflects higher unemployment and weak real estate markets. And the hope would be that later in the year we'll start to get some improvement there and a bit of a downtick. But I think it's more of a case of that coming later in the year, as opposed to earlier.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Secondly, and lastly, for me is on BMO Capital Markets for Tom Milroy, and maybe, by proxy, for Bill Downe. $257 million in earnings this quarter, in line with some of the better quarters you posted in 2009, 2010, yet this was accomplished with a tax rate higher than 40%.</p>
+          <p>When I hear you speak here, not to put too much emphasis on tone, but it sounds like you're more confident in the sustainability of your revenue stream now than you were in that 2009 and early 2010 period where trading spreads were perhaps, we now know they were unsustainably wide. First off, is that an accurate statement, that the revenue stream in your mind is more sustainable where we are right now?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>Yeah, thanks for the question. I mean, I think it's fair to say that we had a terrific quarter, and it was &#x2013; frankly, not only was it strong, it was better than expected. So &#x2013; but I think you are right; when you look at the business, we think the quality of the mix, and the quality of the earnings is better and more predictable than it was.</p>
+          <p>That being said, I just want to caveat. This is a business where it's difficult to get out ahead of yourself quarter for each quarter because the market will determine a number of the factors that impact the performance of the business. But I'm more confident in the business than I was in the earlier period.</p>
+          <p>I also think you're right to point out that we were able to deliver this, notwithstanding we had the tax charges relating to prior periods, which had that impact, obviously, on the overall tax charge of the bank by inflating it roughly 300 basis points.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>So, I'll wrap it up here for you again, Tom. On trading specifically, when we look at the last two quarters, if I look at it on a TEB basis, about $350 million this quarter, $275 million last quarter. Have the effects of aspects, such as changes in the capital rules that we've been waiting for, competition returning to the market, do you feel that that has now run its course and it's basically a reflection of what activity levels are that will determine trading? In other words, are spreads where they should be, in your mind?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>I'm going to separate it, because there's two pieces to that. I mean, obviously, the impact &#x2013; the no would be related to the capital charges. We haven't had the full impact of all the capital that we would expect going forward, under Basel III that we'll have to carry. So, we are keeping an eye on that. We're going to carry more capital. There's a bunch of things we can do to minimize that, but that will have an impact. Looking at the market itself, the market tone is pretty good, and so if it continues, I think these are &#x2013; I think the kind of spreads, and where we are is a very productive market environment, but neither would I say that it's hugely overheated.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Appreciate it. Thanks for your time.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The following question is from Gabriel Dechaine of Credit Suisse. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Hi. Good afternoon. The M&amp;I acquisition, and you're starting to talk about revenue synergies. Now, when they reported their Q4, I was caught off guard by the amount of decline in their loan book. Granted, we did expect some of that to come down. But in consumer lending, for example, it was also a pretty big decline. Maybe you can give us your sense of when you think asset growth of the combined businesses in the U.S. could turn positive, and expand a bit more on these revenue synergies that you're starting to talk about. Is this tied to the Packers' win in the Super Bowl?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks for the question, Gabriel. It's not a question that you really ought to ask a Bears fan, never mind. But with respect to asset growth, and the revenue opportunities, I think we're looking at post closing, when the teams are working together in the market. But I will tell you that I have been in seven cities in the Midwest area, both calling and meeting with employees in the last 60 days, and I have confidence in the tone of the market, in the commercial banking market.</p>
+          <p>What you may be seeing in the asset numbers is the work down of the real estate portfolio. In both our Commercial Banking business, we have an exit portfolio that we are working down, and then we have the reduction in the real estate portfolio. So, I think that's going to &#x2013; it's going to moderate the reported asset growth level. At the same time, I expect that people are going to become more active and you're going to see new revenue coming from both the non-interest product stream and from interest spreads. So, I'd look midyear and beyond, as we have control of the teams.</p>
+          <p>The second element of it is that I think the way that we go-to-market, the relationship with customers, the value that's placed on relationship banking is very consistent between our two operating models. And as a consequence, I think that with the long history of very long relationships that we see in the M&amp;I customer base, we are going to find business coming back to us. And I'm hopeful that, as we approach closing, the visibility of our people, the confidence of our people in the combined workforce, will spur that on.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>So when &#x2013; I'm just trying to get a sense for when we see that legacy book in M&amp;I kind of hit its bottom, and then start, on a combined basis, generating growth in loans.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Maybe Tom can give you some parameters around the real estate book in total, and you can make some deductions yourself.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>So I'm not sure I'll answer the question specifically, but I'll give you a little more color. The commercial real estate book that they have is about $12 billion in size. They have been effectively reducing that portfolio. It's much lower than it was two or three years ago. And we want to have commercial real estate as a smaller portion of the combined loan portfolio. At the same time, we don't want to achieve that objective in a way that destroys value. So, we are going to work the portfolio down through time in a way that keeps one eye on the objective of getting it down and another eye on economic value. We haven't definitively landed on the steady-state size of the real estate book, but we are expecting that it will be below half of the current level.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>And then just on the dividend, before you did the deal I recall, Bill, you were suggesting that pre-crisis, having a 45% to 55% payout ratio was a good strategy. But as you saw acquisition opportunities much better post-crisis, that the implication was it's such an elevated payout ratio wasn't the most optimal strategy. What is the thought towards bringing that payout ratio down from where it is now?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>We're not making any adjustment to the range at the present time. I think the calculation I did on my pad was that, in this quarter, I believe we are within the range. And now we have a digestion period here with the acquired asset, so I think it delays the discussion of that. We acquired these assets, and the customer base because we believe it's going to drive future growth and more profitability. So, I think &#x2013; let's look beyond the 12 months to 18 months of integration as being a period where we will probably see much stronger revenue generation that will contribute to dividend growth.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>And just, then, lastly, any further thought on the Florida and Arizona branches? There has been some M&amp;A activity in those regions, and the smaller regional banks. Are you committed to these areas, because they don't seem to fit into your discussion when you talk about the bulk you have in the Midwest.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, I think by virtue of the fact that it's simply a smaller footprint. We haven't spent as much time talking about it. And a big portion of the book would be the impaired real estate portfolio that, as Tom said, will be managed separately. We have a business in both Florida and Arizona have had for a long time, so we are familiar with the market. And M&amp;I's locations would enhance both our Florida and Arizona presence. We really want to spend more time in the market thinking about how we would configure that. But it hasn't been left out for any other reason than when you look at that Midwest market, with a GDP and a population equivalent to the size of Canada, I just don't want anyone to miss the fact that this six state area is essentially a doubling of the whole market. But we have pursued our strategy &#x2013; successfully pursued our strategy in Arizona and Florida and are going to be thinking about ways to use these branches to enhance it.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>You're welcome.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The final question is from Brad Smith of Stonecap Securities. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Great, thanks very much. A question for Bill Downe. Bill, you've got the team directionally pointed in the U.S. at this point in time. Could you talk a little bit about non-North American growth opportunities, M&amp;A and things like that? I know that you've been moving some capital into the Asian market. What do you see there for the Bank of Montreal?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks for the question, Brad. First of all, with respect to China and India, it's a progressive story. Our trade finance business, which was really the beginning of our presence in China almost two decades ago, continues to grow. And with the uptick in economic activity in North America and a very significant increase in two-way trade, but also in exports, that business is growing.</p>
+          <p>Our investment banking presence &#x2013; physical presence in both China and India is a couple of years now in the run. And we're seeing more activity there, really a building of the reputation of the firm. And in very significant sectors, our reputation &#x2013; the Bank's reputation in investment banking is allowing us to get in front of some high quality opportunities.</p>
+          <p>The currency trading business remains very strong. The asset management business is the one that's really emerging, I think. When you put together the business that we have in Canada, and the United States, Europe, a toehold in the Middle East with Lloyd George, and the presence that they have in China and a small portfolio in India, almost $1 billion, we're approaching $110 billion of total AUM in BMO Asset Management.</p>
+          <p>And this is a more significant business, and it's a global business. So, I look for both the attraction of client dollars into our combined capability, and the ability for us to bring emerging markets in a broader array to our domestic North American investor base.</p>
+          <p>So I think that's certainly an area for future growth. I also think that, as we grow our Commercial and Investment Banking business in the U.S., it's highly complementary to the North American business, and it provides much bigger distribution opportunities to our sales force, our equity and debt sales force in Europe. So, I expect to see some growth there.</p>
+          <p>But the heart of the business of the company is the strength of the North American, underlying North American franchise and our ability to do business into those other markets as a consequence of that. So, I think it is a prominent part of our long-term thinking, and its incremental growth, I think would be how it's defined.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>I guess from your comments, Bill, that there's not much of a probability of a banking or intermediation P&amp;C type effort in the Asian market; it's more a wholesale and wealth management strategy? Would that be a correct way to characterize what you said?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yes, I think, for the time being, wholesale and wealth management &#x2013; wealth management takes you into the Personal segments. And obviously, as that Personal business grows on the wealth management side and, as you know, we have a significant investment in a Chinese mutual fund company; it does open up the opportunities. But we've made many, built many strong relationships with large Chinese intermediaries, which I hope we can work with in partnership as opposed to &#x2013; I think where you were going was, are you getting ready to buy a P&amp;C bank. And that would be a different story.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Okay. Thanks so much.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Very happy to take your questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. I'd now like to turn the meeting back over to Ms. Lazaris.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Great, thank you for joining us on the call today. And as always, if there are any further questions, please contact the Investor Relations Group. Have a great afternoon.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The conference has now ended. Please disconnect your lines at this time. We thank you for your participation.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

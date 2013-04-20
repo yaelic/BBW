@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1397671" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q3 2011 Earnings Call</title>
+    <date>2011-07-28</date>
+    <companies>
+      <company>579</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep" affiliation="Head-Investor Relations">Mariel von Drathen</participant>
+      <participant id="2" type="corprep" affiliation="President &amp; Chief Executive Officer">Peter H. L&#xF6;scher</participant>
+      <participant id="3" type="analyst" affiliation="UniCredit Bank AG (London Branch)">James E. Stettler</participant>
+      <participant id="4" type="corprep" affiliation="Head-Corporate Finance &amp; Controlling">Joe Kaeser</participant>
+      <participant id="5" type="analyst" affiliation="Merrill Lynch International Ltd.">Mark A. Troman</participant>
+      <participant id="6" type="analyst" affiliation="JPMorgan Securities Ltd.">Andreas Willi</participant>
+      <participant id="7" type="analyst" affiliation="Morgan Stanley &amp; Co. International Plc">Ben E. Uglow</participant>
+      <participant id="8" type="analyst" affiliation="Deutsche Bank AG (Prime Brokerage)">Peter J. Reilly</participant>
+      <participant id="9" type="analyst" affiliation="UBS Securities (France) SA">Christel Monot</participant>
+      <participant id="10" type="analyst" affiliation="Sanford C. Bernstein Ltd.">Martin Prozesky</participant>
+      <participant id="11" type="analyst" affiliation="HSBC Bank Plc (Broker)">Colin D. Gibson</participant>
+      <participant id="12" type="analyst" affiliation="Redburn Partners LLP">James A. Moore</participant>
+      <participant id="13" type="analyst" affiliation="Nomura International Plc">Michael A. Hagmann</participant>
+      <participant id="14" type="analyst" affiliation="SG Securities (Paris) SAS">Ga&#xEB;l De Bray</participant>
+      <participant id="15" type="analyst" affiliation="Exane Ltd.">Olivier Esnou</participant>
+      <participant id="16" type="analyst" affiliation="Berenberg Bank">William Mackie</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good day, ladies and gentlemen, and welcome to Siemens 2011 Third Quarter Conference Call. As a reminder, this conference is being recorded.</p>
+          <p>Before we begin, I would like to draw your attention to the Safe Harbor statement on page 2 of the Siemens' presentation. This conference call may include forward-looking statements. These statements are based on the company's current expectations and certain assumptions and are therefore subject to certain risks and uncertainties.</p>
+          <p>At this time I would like to turn the call over to your host for today, Mrs. Mariel von Drathen, Head of Investor Relations. Please go ahead, madam.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Good morning, ladies and gentlemen, and welcome to Siemens Third Quarter Fiscal Year 2011 Conference Call. The earnings release, the flashlight and all other documents were published this morning at 7:00 a.m. You can download all these files from our website. This morning's presentation is now online and this morning's call is being webcast via the IR website.</p>
+          <p>Our President and CEO, Peter L&#xF6;scher, and our Chief Financial Officer, Joe Kaeser, are here this morning to review Q3 results with you. After an introductory presentation from Peter, both Peter and Joe have time for Q&amp;A. And with that, I would like to now hand over to Peter.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Mariel, and welcome, everybody to our Q3 analyst call. Let's get right into the key takeaways of the third quarter. As previously indicated, we saw overall a solid performance, albeit with some operational challenges in selected divisions.</p>
+          <p>Organic order intake growth reached a remarkable 25% primarily driven by broad-based demand in the industry and the booking of the 3.7 billion base contract with Deutsche Bahn for the ICx high-speed train.</p>
+          <p>Revenue was clearly up, 8%, supported by continued strength in early cycle industry businesses and accelerated backlog conversion in energy. Negative currency translation effects in the current quarter amounted to five percentage points in both orders and revenue. Underlying profitability held up despite further significant growth investments in research and development, engineering capacities and sales resources.</p>
+          <p>Main contributors were our early cycling industry divisions, Fossil Power Generation, and Healthcare Imaging. But the third quarter was also significantly impacted by two extraordinary effects: the Areva arbitration decision and the re-evaluation of particle therapy project in healthcare, amounting to a total of almost &#x20AC;1.1 billion before taxes. I will come back to this later in my speech.</p>
+          <p>Free cash flow was slightly better than in the second quarter, but still clearly below the previous year due to continued build up of networking capital associated with expected revenue growth. On July 1, we closed the transaction to sell Siemens IP Services to AtoS and this is an important milestone to further optimize the portfolio of our company.</p>
+          <p>As indicated in previous quarters, this transaction has a negative earnings impact in the high triple digit million euro range in discontinued operations for fiscal 2011. The transaction-related impact for the quarter was a negative &#x20AC;309 million as well as &#x20AC;41 million carve-out costs. Correspondingly, we will also see substantial cash outflows in coming quarters.</p>
+          <p>Regarding Osram, the preparations for the IPO are progressing as planned. Osram saw in the third quarter a slight revenue increase year-over-year. However, Osram's operating results declined substantially due to higher costs from raw materials, pricing pressure and expenses for leading matters which were partly offset by a positive effect from classification as discontinued operations.</p>
+          <p>All in all, we are on track to reach our targets for fiscal 2011 and we're attacking the operational challenges going forward. Our markets are still robust although risks are tending to increase in the global economic environment.</p>
+          <p>Let's look briefly at our key figures for continued operations. I've already laid out the orders and revenue highlights, which led to an again very strong book-to-bill ratio of 1.29. Profit from total sectors declined 45% year-over-year to &#x20AC;1.1 billion due to adverse impacts by particle therapy charges and the Areva arbitration decision.</p>
+          <p>Industry and energy improved underlying profit. The Healthcare Imaging business showed again very strong operational results while the overall business environment for healthcare remains challenging. The sector profit decline translated also in lower income from continuing operations of &#x20AC;763 million and the decline in earnings per share to &#x20AC;0.83.</p>
+          <p>Looking at the regional business split, extraordinary order growth of 99% in Germany is largely due to the ICx contract while the region Asia/Australia continues to show excellent order growth with 39% year over year. We again received a number of large orders, such as the follow up order from the United Arab Emirates for the supply of the equipment and service for the combined factory power plant, Shuweihat S3; several large wind orders, such as 108 3.6 megawatt turbines for an offshore project in the Irish Sea; and healthcare will deliver equipment for multi modalities to University in Poland. Our order backlog increased to a new record high of around &#x20AC;96 billion at the end of the quarter, despite some negative currency effects.</p>
+          <p>Again, revenues in emerging markets grew faster than revenue overall, accounting for a third of total revenue for the quarter. India with 34% and China with 13% growth rates were clearly above average. Now let's spend some time on the divisional picture of the quarter, which was somewhat mixed.</p>
+          <p>Looking at the Industry sector, we saw continued strong growth momentum, high capacity utilization and earnings conversion in our early cycle businesses, like Industry Automation and Motion Control in drive technologies. But also the later cycle businesses in drive technologies delivered profitable growth. We are confident that we are well positioned within our core industry, look forward to see further decent growth in the current quarter.</p>
+          <p>Building Technologies saw continued growth in &#x2013; driven by energy efficiency solutions. Profitability was impacted by an increased level of sales and marketing costs associated with growth. Mobility recorded temporarily lower revenues, resulting in a softening margin of 5.5%. However the sales fund is looking very promising. A major step forward was the decision of the department for transport in the U.K. to select Siemens as preferred bidder for a 1,200 new rail carriages on the Thameslink route.</p>
+          <p>For the sector Energy, we continue to see a slower pace for the entire market during the second half of our fiscal 2011. Nevertheless, book-to-bill for the sector, again, stood at a very healthy 1.18; also sustained its outstanding project execution performance, combined with a favorable business mix of high margin products and service business and achieved an underlying margin of 22.6%.</p>
+          <p>Renewables continued the expansion of its Wind business, resulting in significantly increased marketing and selling expenses, and this combined with increased pricing pressure in Onshore Wind lead to the declining margins year over year. In addition, market conditions remained challenging for the Solar Thermal business, which continued to boost negative results.</p>
+          <p>Transmission revenues came in lower than expected during the quarter due to some project delays. Profitability in Transmission was further impacted by the conversion of some lower margin contracts from the order backlog and some additional charges associated with the optimization of its global manufacturing footprint.</p>
+          <p>Power Distribution again posted higher R&amp;D, marketing and selling expenses for business expansion and continuing expenses related to new technologies such as SMART Grid applications, which held profitability clearly below the prior year level.</p>
+          <p>Our Healthcare sector went through a difficult quarter with the reevaluation of the commercial visibility of particle therapy for general patient treatment. We have proven the technical feasibility based on protons and carbon ions. Unfortunately, the commercial feasibility for general patient treatment has not been achieved, and, therefore, we took the decision to shift the focus of the projects more towards research. This resulted in charges and other negative profit impacts of &#x20AC;381 million, among them a revenue reduction of approximately &#x20AC;100 million.</p>
+          <p>The negative impact of this quarter takes into account the changed scope of all four projects. Market conditions for Healthcare remain challenging with reduced public health spending, particularly in Europe while the emerging markets such as China showed healthy growth as well as the Equipment business in the United States.</p>
+          <p>Diagnostics posted a decline in orders and revenue in the Americas, more than offsetting growth in emerging markets. Lower revenue and less favorable business mix and an increase in valuation allowances for receivables due to a rating downgrade for Greece impacted the profitability of Diagnostics.</p>
+          <p>As discussed at the beginning of the fiscal year, we have invested in our OpEx to pursue organic growth. One focus has been adding sales resources, engineering capacity and expanding our geographic footprint, mainly in emerging markets. This has resulted in an increase of 40 basis points of sales expenses in relation to revenue, but we continued to have a tight grip on general administration expenses and kept them constant in absolute terms over the prior year.</p>
+          <p>The third core area of investment is innovation, where we increased research and development expenses by &#x20AC;300 million year-to-date compared to previous year. Furthermore, we are executing on our value-oriented strategy of bolt-on acquisitions and strategic partnerships. In fiscal 2010 and 2011, we executed 28 transactions with a total value of around &#x20AC;2.6 billion. The majority of activities were in emerging markets where we also executed a number of share increases in joint ventures.</p>
+          <p>A good example of an important strategic partnership is the recently announced letter of intent with the Australian company Lynas; and we will set up a majority joint venture to produce rare earth magnets, which will be used in our energy-efficient drives and wind turbine generators. This partnership will secure a sustainable end-to-end supply chain from mine to magnets to end application.</p>
+          <p>Looking ahead, let me give you a brief assessment on the overall business environment. First of all, we still see robust demand in our end markets driven particularly by the export-orientated German industry, as you can also see from the current IFO level or VDMA numbers. In addition, the capacity utilization in later cycle customer industry such as metals reaches the inflection point for additional investments.</p>
+          <p>And secondly, there is continued strong demand from the emerging markets despite increasing interest rates, such as in China, to contain inflation. However, the tailwind effects from the recovery are over and we see a more ambiguous macroeconomic picture ahead. Future growth will require more effort, and we have prepared for that with accelerated innovation to provide very competitive solutions for energy efficiency, productivity, and sustainable health as well as a strengthened sales footprint.</p>
+          <p>The risks from continued sovereign debt worries in parts of Europe as well as the disagreement on how to consolidate the U.S. budget deficit, austerity measures in a number of countries and volatile commodity prices weighed on the sentiment. We will work hard to keep our pace despite softening leading indicators such as purchasing managers' indices or recent IFO expectations. Also, our organization has done an excellent job to almost entirely mitigate the supply chain risks from the disaster in Japan.</p>
+          <p>And with this, Joe and I are happy to take your questions on the Q3 performance.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Operator, we can start the Q&amp;A session now.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you, gentlemen. We will start today's question-and-answer session. <mark type="Operator Instructions" /> We will take our first question from James Stettler of UniCredit.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Yes. Good morning and thank you. Two questions, please. Can you give a bit more detail on, you talked about the payment terms continuing to deteriorate and also what your plans are for working capital, which has obviously been built up? And then secondly, just on the &#x2013; on Fossil Power, you're now at 22.6%. Again, could you reiterate what you think a normalized margin is and at what stage we're going to return to that level?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Hi, James. On the payment terms, we've seen &#x2013; in the fiscal Q3 we've seen two, actually 2.5, if I may say, impacts as to free cash flow. First was &#x2013; and this was the most compelling one, as we had a material build-up in our inventories, which in part came from the fact that we were not 100% sure about the outflows of the logistics related to the Japanese events, so we deliberately built up some inventory here. On the other hand, obviously these orders are there that we expect a robust revenue quarter Q4, but there has been about &#x20AC;1 billion on inventory build up, round about &#x20AC;1 billion on inventory build up in Q3.</p>
+          <p>The other topic which has also been somewhat impacting our free cash flow and continues to impact is a more shier prepayment development from our customers, and we continue to see that. And so that's why we continue to caution about the cash conversion rate being at or above one for the quarters to come.</p>
+          <p>The third topic was that we had some &#x2013; but that was not as relevant as the other two, as we had some cash outflow from provisions built earlier in the year and now we see the payments. So all in all, we expect the prepayments development to continue. So relative to the order intake, the prepayments will be going down, which inadvertently will give us a buildup in inventories. The inventory itself will actually ease again in Q4 and subsequent quarters.</p>
+          <p>On Fossil Power, we obviously are very satisfied with the development. We had continued strong project executions, which led to the fact that some contingencies were not consumed and could be released. The other &#x2013; and that should actually continue for a few quarters to come, as far as we can tell at this time.</p>
+          <p>On the other hand though, and this is something I would like to caution you, Q3 has seen an extraordinary impact of service content which is quite usual in preparation for the peak consumption of summertime. So therefore, don't expect the mix in Q4 to be that favorable, as you've seen it in Q3, due to the impact of service which is usually quite low when the turbines run at peak utilization during the summer months. So it puts the delta, I guess, somewhat shy of the current performance levels in Q4, also due to seasonal impact. I guess, yeah, that is as much as the questions are.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We will take our next question from Mark Troman of Merrill Lynch.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Good morning, Peter and Joe. Just a few questions, first one on healthcare; Peter, I wonder if you could &#x2013; I think it's clear what particle therapy is sort of doing. Just the environment for imaging, it looks quite good in the U.S. and weaker in Europe. How long do you expect the strength in the U.S. to last or do you see that as one of the potential risks to your business coming out of some of the macros new we're hearing? That's question one.</p>
+          <p>Question two for Joe, Joe, I think I've asked this before, maybe on a previous quarter. I wanted an update on &#x2013; if you could provide just a framework for the FX impact that we might see at Siemens over the next 12 months, if you assume that current exchange rates stay where they are.</p>
+          <p>And finally a question again for Peter; on M&amp;A, Peter, what is your view on M&amp;A at the moment? Do you see good opportunities or would you rather wait and see how this cycle develops or what is the Siemens attitude towards taking up M&amp;A opportunities? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah. Good morning, Mark. On Healthcare, I mean obviously we are very carefully looking into this situation globally. I mean, and I think you have to take it in pieces. One is the public healthcare environment and the budget constraints in the public healthcare systems and I think this will continue for several years. I do not anticipate any change in this regard. So this is particularly valid for Europe.</p>
+          <p>On the U.S., one could say that the healthcare reform somehow has provided clarity to certain degree and we currently certainly see it in good healthy imaging equipment sales in the United States. So the current environment is good. Your question is what is the kind of outlook for the U.S.? I think the disability is the disregard, from my perspective, limited because we have just to see this overall budget battle is now coming through on the whole budget discussions. So if I assume and I personally believe that political pragmatism will somehow prevail, then we should have a relatively continuous stable environment. But should there be any implications out of these budget discussions, quite frankly I don't know it and I think nobody really knows it.</p>
+          <p>The trend, what we see &#x2013; so this was U.S. and Europe. The trend what we see already happening a couple quarters, or actually a couple of years, but this is now accelerated, is really the whole trend towards emerging markets. And China is doing very well so this continues and we see this continuing to happen, so the emerging market footprint will be very important.</p>
+          <p>The needs of this customer base in terms of having the industrial footprint, having the product in the region, for the region and therefore what we have been initiated already a couple of years ago should be a benefit. And I'm not sure if you have been in China or not, Mark. Have you been there so that you got a little bit of sense in terms of what we're doing there?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Yeah. Absolutely.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah. So this will continue and then the last market is really then Japan and I see no fundamental change in Japan. It will be a low growth environment; so that's the overall framework, basically, how would I see it.</p>
+          <p>In terms of M&amp;A activities, there's really no change, Mark, but we have already communicated, Joe and myself, to all of you. We are &#x2013; certainly we see great M&amp;A targets potentially for us strategically speaking, but you know we also we see &#x2013; we believe have &#x2013; there's prime time for peak margins. And those margins will compress and multiples will compress. The market will move towards us. So we will continue to be very diligent in terms of this approach and I think there will be a time where the strike point will be good for us.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>And maybe a few comments to the FX impact, which is obviously not only related to the euro versus the U.S. dollar but all kinds of currencies which are obviously now very volatile such as for example also the Indian rupee which you can make some impact on the business. I mean generally, obviously, we need to differentiate between the direct impact and some indirect or indirectly related impacts of FX to the business.</p>
+          <p>On the direct or the most direct impact, which is translation, you already have seen that we are quite at peak-ish levels at this time year over year. Last year, Q3, was about &#x20AC;1.28 to the dollar. Now we are at &#x20AC;1.44, and that's why we have up to 550 to 580 base points on translational impact.</p>
+          <p>Now on the transaction, it is usually only related to the Products business since, obviously, the Projects business is being hedged at the time of booking. The Q3 impact has been, year-over-year, about 30 million, so not really relevant to the analysis. And it should not be any higher actually also adding Q4 to the equation.</p>
+          <p>And that's understandable, because our net currency position at this time, as of 6/30/2011, to the dollar has been just about a billion. So you can see that over reworking hedging the quarter-over-quarter or year-over-year impact should not be that material.</p>
+          <p>The question really on the maturity is out on &#x2013; is more the question what will the volatility of currencies do to the competitive behavior, and that's something which is hard to predict. You may remember about a year and a half ago when we outlined our assumptions on pricing and things for 2011, you're actually assuming that a weak U.S. dollar could impact dollar-dominated competitors to be more aggressive in the marketplace. We really did not see that as much in an outcome like we did to the installed base and the stickiness of the install base.</p>
+          <p>So all in all, to cut it short, I would actually not expect major transactional impact from the current currency development going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Thank you very much. It's very clear.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We'll take the next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next question is from Andreas Willi of J.P. Morgan.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Good morning. Thank you for taking my questions. The first one I have on the investments, you stepped up quite significantly this year, which consumed a lot of the operating leverage. Should we expect continued ramp up in investments? Or have we reached a new level at which these investments relative to sales are starting to stabilize?</p>
+          <p>The second question is on Healthcare order growth; has the 100 million impact on the revenues from particle therapy also impacted orders? Or is the order, the weaker orders in Healthcare is that an underlying number?</p>
+          <p>And then the last question on Q4, normally that's the quarter you take some additional charges, maybe some restructuring in some of the divisions. Is there anything we should be aware of on Q4 charges? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yes. So there has not been an impact on the quarterly order number from the revenue topic on PT because the order is replaced at the prior years, so it has already impacted the backlog, but not the order intake.</p>
+          <p>I mean in terms of OpEx, obviously we've been quite active as we've always set out early on in November that the focus in organic growth and support the footprint. And also engineering oriented R&amp;D approached in emerging countries. And that's what we are doing. And we'll be on the upper range of what we had communicated at that time, which was a billion. Who don't remember off the top of their heads could easily be maybe 1.1 billion or 1.2 billion at the end of the year depending also of course on currency, but that's about what's in the ballpark for 2011.</p>
+          <p>As for the recent future, obviously we'll make that dependent on how we see the come back of orders whether or not we continue to focus on organic growth or whether we decide to slow down based on the macroeconomic environment. So therefore, we make good on what we said in 2011. And as far as '12 is concerned, they will come in November and we discuss 2012. And there was one more.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Q4 charges.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Q4 charges. I mean, obviously if we would had known of any we would have booked them in Q3. Either in Q3 or as a subsequent event and since there's absence of knowledge, we don't expect any charges at this time. But the future is always uncertain and we also obviously need to look into our intangible assets as we finish the year. So therefore, we've all done what we've deemed necessary and appropriate and that's just about as much we can say to that at this time.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Just to clarify on the investments, if you for example, look at the Distribution business, which is one of the areas most hard hit there; profits are kind of down 50 million on a quarterly basis. So it effectively looks like investing 200 million more on a run rate. Should we just expect these margins to stay at the current low level because you're going to spend that kind of money every year? Or is there some kind of accelerated spending happening at the moment? This used to be a business with 12% to 13% margins.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah. That's correct. And with regard to the Distribution business, and I'm glad you asked, this is not the ordinary course of macro focus on OpEx to grow in regions and applications. The Distribution business has, first of all, the footprint effort, which is also true in that respect. But also, and this comes on top of it and that's why the impact is so material, on Distribution we also have made considerable efforts to boost organic growth in the SMART Grid area.</p>
+          <p>So as such, you and the market would actually need to expect the current versions may be with a bit of an upside, but certainly not much to continue over the foreseeable future until the SMART Grid revenues and the efforts we have been placing into that field will materialize in revenues and subsequently in gross margin. So also if you expect a nine-ish, maybe slightly above 10% EBIT margin going forward, you'll be fine.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We will take our next question from Ben Uglow of Morgan Stanley.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Yeah. Good morning. I had a couple of questions. One was just I wanted to understand on the Fossil Power Generation side, you had another very solid quarter in terms of order intake, &#x20AC;3 billion plus, but you've been signaling for quite a while that that is going to come down in the second half. And what I really wanted to understand is are you being cautious relative to the really big orders that you were seeing let's say six &#x2013; well, six to 12 months ago &#x2013; or are you actually expecting a sort of market-wide slow down in tendering activity?  So that was question number one.</p>
+          <p>Question number two was I really wanted to understand, in more detail, what is going on in Diagnostics. The reported revenue number is down by something like 7% and obviously we're looking at margins of around eight. And my question is, is this due to a strategy? Are you trying to sort of buy market share in Diagnostics or is this the overall market is coming down that much?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Ben, good morning. I start off with the Fossil question in terms of how do we see market dynamics. I probably start at a different point. We have sold more gas turbines in the first half of the year than we have sold gas turbines the whole year 2010, in terms of market &#x2013; as well as market, as well, okay? So there is the shift that we have already highlighted a couple of months ago where we see from a market dynamics actually &#x2013; this is simply the visibility what you have sometimes &#x2013; some big projects are coming earlier, sometimes they're coming to the second half.</p>
+          <p>So this is the reason why we see the overall market actually smaller when you cut it in half, but significantly bigger in its totality versus 2010. So marketwise, we anticipate around 200-ish gas turbines for example, and last year it was massively less. This was one impact.</p>
+          <p>The second effect is first half, we were actually &#x2013; when you look our let's say midterm, you can't do it on a yearly basis, but one to three year run rate in terms of win hit rate and wins, we have actually played above our weight so we've clearly gained market share.</p>
+          <p>So there are two effects why actually the business has been very, very successful in terms of order intake. So A, number one, there are fewer projects available from a market perspective, and this is why we have reflectors. And then you have obviously also a baseline effect in terms of split off markets between first half, second half.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay. But if you separate out the mega project, the sort of really big orders that you and GE had, could you just give us a sense of how you expect base load or base level tendering activity to be in the second half? Are you thinking that general activity, excluding mega projects, comes down or continues to ramp up?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>No. We see very healthy tendering activities, and we'll just have to see how it will eventually come. So the overall base business is doing quite well, but when you look into markets for example, we anticipate for the U.S. market, let's go market-by-market because it's probably easier, not a massive change over the next couple of months. So an uptake we anticipate probably second half at the earliest 2012 of any significant weight.</p>
+          <p>And then we have, of course, a lot of activities now in terms of power needs as additional capacity in emerging economies, and we have to see how Europe will play out with all the political framework conditions which are currently under development. So I don't want to anticipate a massive short-term pick up in this regard. So stable overall environment, good base business and tendering activities being healthy, but you simply can't trust double what we have achieved in the first half and this is why we are still reflective.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah. And then on the margin again to be precise, I think James also asked that question earlier, the reason why we reflect the over performance, if you want, is that you cannot always expect that projects are always doing better than expected. So therefore, I would basically describe that over performance in terms of the project at about 200 to 250 base points, which we currently are seeing, not ruling out that it continues for a while, but it just cannot be planned and cannot also be predicted as a normal.</p>
+          <p>The other topic as I reflect already is the service content of it; the more service, the more favorable it is for the margin. Q3 was an extraordinary positive service impact. That definitely will be different in Q4 because of, as I said before, the full cap that is &#x2013; the full cap usage in the power plants.</p>
+          <p>On takes, obviously, for the numbers first, the <mark type="indiscernible" /> (36:40) business of course has also been massively impacted by translation. So the comparable growth or decline rate in that respect is minus 1%, so it's not &#x2013; it's 7% as reported; it's minus 1% on a comparable base. That's as far as the top line is concerned.</p>
+          <p>On the bottom line, we had an impact of about 150 base points &#x2013; adverse impact obviously, of about 150 base points from the increase of valuation allowances related to a specific economy in the Southeast in terms of what we do with our accounts receivables.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Of Europe.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Southeast of Europe, of course. Yeah. Thanks. So that's as much to the technical topics.</p>
+          <p>In terms of outlook, obviously we are not really very happy with the performance. By the same token we made it clear I believe that this will take time, so it will be a constant challenge for the quarters to come to move back north on where we used to be.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Can I &#x2013; I mean just to be a little more specific, Joe, can I &#x2013; what I'm trying to understand is whether your revenue pressure is because you are trying to build out your installed base, right, i.e. you're trying to gain market share? Or whether the whole market right now is falling away?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Okay. I think it's obviously the end of the question on whether or not the market falls away, it always helps to look into the other peers, which we have to obviously confess that there are some more successful ones in the market as we are at this time. On the second topic, we are not buying market share, and even if we had done it, unfortunately it would not have been successful. So on a serious note, it is not about trying to usurp market, it is about finding the way back to where this business belongs to. And as I said, we have people in place; there is a clear plan, but obviously there are also some other environments where we have little control about.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We will take our next question from Peter Reilly of Deutsche Bank.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Good morning. Two questions please. Firstly, on oil and gas, we've got a very encouraging accelerating revenue growth trend, but the margin is actually falling away. Maybe you could give us some more color in terms of what's happening in that business? Because I would imagine that you should be having the opposite impact of the margin rising.</p>
+          <p>And secondly, sorry to come back on diagnostics but Joe, you mentioned something about looking at the carrying value of intangibles in the fourth quarter. Are you still assuming growth comes back in diagnostics with your current assumptions for the amount of goodwill you're carrying? Are you hinting that we might have a further impairment in the fourth quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Hi, Peter. On the oil and gas business, let's take a look into what exactly it is. There is about half of it is industrial turbines and the other half is the process industry-related oil and gas business. And so therefore, there are mix effects over time which we, at this time, have been affected negatively by in the third quarter. So that could explain some margin dilution as we see it in Q3.</p>
+          <p>On the other hand, going forward, you may know from public statements of the company that we have activities in certain countries which we do not intend to continue over time, even though we accept the current orders and that may have some adverse impact also on the profitability as we move along. So don't expect any margin expansion here from the current levels.</p>
+          <p>On Diagnostics, as you said, we have a plan in place and that plan needs to be executed now. And you'll just have to &#x2013; it may take time. With your specific addressing the intangibles &#x2013; goodwill and intangibles, obviously, the business plan which we have to discount and then see what the fair value is at this point in time. There is no reason to believe that the value of the business plan will be lower than the current carry value on those intangibles.</p>
+          <p>Obviously, there are some impacts on testing which the company doesn't have under control such as the exchange rate of the U.S. dollar versus the euro as well as obviously the VAC, which also depends on the risk free cost of capital. So there are some uncertainties here. By the same token, we focus on what we can influence and that's the business plan, that's the growth and that's the value creation agenda.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We will take our next question from Christel Monot of UBS.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Yeah. Hi. Good morning, everyone; it's Christel here. Thank you for taking my questions. First one would be on the full year guidance. If we exclude particle therapy, it looks like you have increased a bit to your guidance compared to previously. Can you give us some color to where it's coming from compared to your previous expectation where you're doing better than what you were previously expecting?</p>
+          <p>The second question would be on particle therapy. Did I understand correctly that we shouldn't expect more tranches impacting the P&amp;L going forward?</p>
+          <p>And lastly, back on prepayment, do you see what's going on at the moment cyclical or is that more structural? Is it due to a change basically in the customer behavior which you believe is going to stay or is it due to some kind of a geographic mix? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Hi, Christel. As you know, on the guidance, obviously the fact is that we have not changed it. So we, you know, we, it is &#x2013; there is no reason at this time to change anything. You &#x2013; the guidance is composed of three items. It's the booking, and that has actually got a more positive or more bullish tenor actually. We said expect organic order intake to show significant increase. That significance is certainly not going to be under estimated mid single-digit organic revenue. I believe there's no reason to not believe that we will make that number.</p>
+          <p>The income from continued operations is 7.5 and we specifically mentioned that this will exclude legal and regulatory matters. One of those items has materialized; that's the Areva arbitration outcome which is 470 million, net of taxes. So that obviously would need to be excluded. And everything else at this point in time stands as it is. That has not increased and it hasn't decreased and there is no massive change in sentiment on that particular matter.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>This is &#x2013; excuse me, Joe, this is including particle therapy is it?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah. It does include the impact ...</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>The impact from particle therapy?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>... from particle therapy, that's correct. So that will have to be digested to clarify that, but it would be part of it.</p>
+          <p>Then on the prepayments, that's &#x2013; it's a good question, really. It seems that customers are getting a bit more conscious of equity and financing in that both mobility and also in the renewable wind environment. It could be that it's getting more difficult for them to find the financing outside, due to maybe concentration risks or general challenges the banks have in terms of their lending. So it's hard to speculate, but we've seen that effect's been coming and going. The good new &#x2013; the good &#x2013; the positive about it is that it's a cumulative catch up. Eventually it really doesn't matter, but in the short term this will be some drain on the free cash flow performance in the couple of quarters to come.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>And next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We will take our next question from Martin Prozesky of Bernstein.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Good morning. I've got three questions, please. The first on the Renewables business, you've seen quite an improvement in the quarter both order top line and margin. Can you just give us a sense what drove that? Was it better utilization or cost takeout? Or was it the fact that solar was a better part of the mix, given the results from the previous quarters?</p>
+          <p>Second question on industry automation, clearly orders came down quite strongly because of the compares and sales were very strong; margins, surprisingly good. What should we expect going forward as this business now probably normalizes at very good levels? Should we expect good incrementals or was there something special in the mix in the quarter that throws a north of 20% margin?</p>
+          <p>And then last thing, in Industry Solutions, it also looks like there's a good pick up from a pretty low base. Can you kind of give us a sense where you're seeing strength in terms of demand?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah. I'd be happy to start. I know the Renewables obviously it depends always on the expectations we compare the performance with. Obviously we've been shy of the margins we had in previous quarters and years, but we said that Q2 &#x2013; Q3 and Q4 should be stronger as compared to Q1 and Q2.</p>
+          <p>By the same token, we just have to realize that the Renewable Wind segment enters into a new stage of its industrial development and there is some pricing pressure here most in onshore markets. So that's just about the level one should expect for the time being. But we won't go back to those rich double digit margins, at least not any time soon and we would not actually foresee those in the mid-term.</p>
+          <p>On Industrial Automation, I mean it's been a robust quarter and in both Industrial Automation as well as the drive technology into comparables year-over-year is more technical in nature; we've flattened out quite a long time ago. At this point in time, in the very short term, which basically is Q4, our fiscal Q4, I would be disappointed if the earnings dynamics would go down as compared to Q3. And I would be very satisfied if there was another double-digit growth year-over-year.</p>
+          <p>So that's as much as we can say to those two tools that we have in our portfolio. But obviously, in the mid- and long-term, Peter has already mentioned that the macroeconomic uncertainties may as well cause some of our customers and industries to hold back CapEx investments.</p>
+          <p>On Industrial Solutions, we also were delighted to see a robust order intake which was quite heavy as compared to a still suffering in Q3 2010. And in material terms, this is the rebounding of the Metals business where we see some life again in the steel industry. By the same token though, and I guess it is a good example, we do see that many of our customers and many of the segments we are active in that do show inflection points for CapEx based on capacity utilization, half of it has been passed without a very strong sign of CapEx increase. So that actually suggests that our markets are more careful as to when they start resuming CapEx spending.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We will take our next question from Colin Gibson of HSBC.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>you very much indeed. It's Colin from HSBC. Two questions, please. First of all as you highlighted yourselves in the preamble, in several cases as we go round the globe, profitability is being impacted by investments for growth. And at the same time you're sounding more cautious on the global growth outlook. So at what point do you look to slow down or even freeze those growth investments? Or are you already reaching that point in some cases? And when we think about those growth investments, how flexible are they? Are they something that you can switch on and switch off relatively easily or are they things you can't switch on and off relatively quickly? That was the first question.</p>
+          <p>Second question; do you think Nokia Siemens Networks does need recapitalization? And if you did invest fresh money in that business today, are you confident the company has the right business model and the right strategy? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Colin, in terms of growth investments, we have made it crystal clear that the primary focus is organic growth. And if you remember a couple of years back, we have massively reduced our SG&amp;A through a corporate-wide SG&amp;A program. So we have actually releveled our SG&amp;A profile for the company. And going forward, as part of the growth initiative, I mean the simple answer is as long as we see growth initiatives, we will invest. As soon as we see &#x2013; we don't see them, we will certainly adjust to this environment.</p>
+          <p>So the current &#x2013; and this is why the chart what I have shown you is very important. So these are not SG&amp;A &#x2013; so these are not G&amp;A costs. This is really revenue generated. There is very rigorous process in the company; there's &#x2013; where are revenue generating business opportunity for the company? And then we invest. Obviously, this is why we want to drive organic growth as a key priority.</p>
+          <p>So the simple answer is as long as we see and the current program is to a very large extent actually directed towards across, basically, the businesses, leveraging the growth opportunity in the emerging markets and making sure that we have the infrastructure and the resources in place to capture the growth opportunities there. So selective, very clear targeted approach, and we will continue to invest in this.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Colin, hi. On the NSN topic, I've been trying to follow &#x2013; there's a couple currently through a consortium of banks that is currently being renegotiated. We also consider whether or not we want to tap the bond, the high-yield bond market that some time when the windows are decent. So that's currently an ongoing discussion. The good news here, NSN is first of all that they have resumed growth on the top line. They are considered a meaningful and strategically important source of 4G, fourth generation, network investments by many of the leading operators. And they are back on the inner ways and passage we consider to be very important. They lost that a few years ago, and I'm glad to see that they are back now this one.</p>
+          <p>Now on the &#x2013; if anything needed a recapitalization also in terms of equity or a similar to equity-related structure, that certainly would need a refocused strategy on the asset and how they create value going forward, but it's way too early to discuss that now in more detail since there are no decisions made at this time.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Sure.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We will take our next question from James Moore of Redburn Partners.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Hey. Good morning, everybody. Firstly, I wondered if I could ask percents on how June and July short cycle orders developed. We've heard from other companies that the calendar second quarter, your third, has been okay, but June and July has deteriorated sharply. Could you give us a sense of where that's happened &#x2013; if it's happened in Siemens?</p>
+          <p>Secondly I wondered if you could explain a little bit more behind the weaker in and Building Technology and Mobility, particularly the mix. I'm thinking in BT, for instance, has the Low Voltage business shown any improvement since the break even level when you moved it from IA?</p>
+          <p>And then thirdly, pricing, I wondered if you could say a little bit about pricing in orders and sales, and what the change has been against the first half and whether the net versus raw materials has got easier or harder? And finally could you say a bit about capital return?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Hi, James.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Hi.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>That's a series of questions. I'll try to be quick. I said a few minutes ago, I stated regarding industrial automation drive technologies, I stated that I would be disappointed if Q4 weren't similar in terms of margins as Q3 was. And I would also be disappointed if there weren't a low double-digit growth quarter year-over-year. So I think that should tell enough about the very short term outlook on the current fiscal quarter and obviously the two numbers are in the Q3 numbers already anyway.</p>
+          <p>On the weaker margins in Mobility and BT, Mobility is quite a quick one that had a few topics in there which should not have occurred to begin with and secondly will not continue in Q4. So just tick it off and let's move on. They'll be fine going forward, assuming that they diligently execute as they have been executing on their projects in the last few quarters.</p>
+          <p>On BT, that's quite a more sophisticated topic, I have to admit. We are not where we should be in the low-voltage environment. We've got good growth there, but margins have good potential going forward. That may take a few quarters till we are where we should actually be. And you may remember I have flagged that in July and already in April that this will take a bit more time as we would have wished for.</p>
+          <p>Now on the pricing, there is some ease in pricing on the Industrial sector. I would expect that to result from the fact that we are pretty fully loaded and so there is not much room or time to negotiate prices down. By the same token &#x2013; on Energy we have talked about similar levels as we have said in November; some, I wouldn't say mounting pressure, but smellable pressure on transmission coming back. In orders, we've seen some of that pricing pressure, which we had about a year ago, now materializing in revenues. So that's a bit softer.</p>
+          <p>Healthcare is within the usual development, a few percentage points down every year, but not really spectacular. Unfortunately though, and I believe that's true for the whole industry, unfortunately though, the adverse impact from the purchasing environment is higher than the ease we are getting from the customer side. So we, net/net, are not in a position that we will compensate for that. And year over year, 2010 to 2011 for the full year, we expect that adverse net/net impact to be just about 1 billion. So you can see that this is something which we are very close to and continue to work on.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Next question, please? I think we'll extend the call by a couple of minutes, because I believe we still have a number of people wanting to ask questions. So I'll ask the operator for the next person, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Michael Hagmann of Nomura.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thank you. I was wondering, if you look at the quarter, and if you actually look at the year-to-date, the results have largely been carried by the <mark type="ph" /> four tools in the crime (58:24), whilst the other businesses have not been exactly shining, also particularly in this quarter. If you now look into the budgeting season and into the next year, what do you think are the top priorities going into the budgeting season?</p>
+          <p>And the second question is on pricing. GE was saying that the pricing in gas turbine orders is still very, very bad. So I was wondering if you're seeing similar levels, which I think were down about 10% or 11%? And if that's the case, why is the market not going for better pricing if actually the volumes are recovering? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Mike, let me start with the &#x2013; first of all, we will talk about 2012 when we go into our next conference call. This will be in November. On the environment &#x2013; on the turbine environment, what we see &#x2013; I mean we have &#x2013; A, number one, what is when we talk about the year, we have &#x2013; and I'm not talking about for the overall company, we have now 80% of our sales, of our Q4 sales, are already in our order books, okay? Just to give you the big picture first. And the margin quality is exactly what you see there currently so we have no issues.</p>
+          <p>When it comes to the pricing environment, there is no doubt that the big ticket items, the big projects, are highly competitive in the Fossil Power Generation business. So we have to make sure that you have productivity in place, you have &#x2013; that you make absolutely sure which one you want to win and which one you don't. So there's no question that there is some pricing elements what you see going forward in big ticket items.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We will take our next question from Ga&#xEB;l de Bray of Societe Generale.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Hi. Thank you very much and good morning to all of you. My first question actually related to Osram. Do you concern that the margin was about 7% in the quarter for that business? Probably down 300 bps year on year. So maybe if you could give a bit more color on what happened exactly? And how do you expect pricing pressure to move going forward in the Lighting business?</p>
+          <p>The second question is about your Transportation division. We've seen a number of your competitors in transportation warning recently about sales and margins. And obviously you're fulfillment in the quarter was not that great. I understand you're talking about a rebound in Q4 but maybe could you elaborate a bit more on the current market conditions, maybe in relation to the constrained public budgets in Europe?</p>
+          <p>And my third question relates to Drive Technologies. We are already back to the pre-crisis level margins or at least almost back. So do you see further upside from here given that the recent rebound in orders are probably seen to translate into sales in the coming quarters? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Hi Ga&#xEB;l. I will make it very short. DT, on Drive Technology, no upset. Transportation, we are very successful. It's not just what is happening in Europe. For us, the big rail projects which are currently happening basically on three fronts. One is Russia, where we are in final discussions, soon to be announced; a big, big order. We are their preferred bidder with Thameslink, so we are very successful there. I mentioned, finally, the Euro Star and we have quite a successful also light-rail business in the United States. So we see &#x2013; I think we're extremely happy about the very successful order wins in that area. And the other one?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Ga&#xEB;l, on Osram, on the numbers again, to keep our records straight, so if we looked at Osram as it used to be when it was a division of Siemens, then the revenue numbers would go from 11.53 in Q3 2010 to 11.62 in Q3 2011, which make it grow as reported 1%, and currency adjusted by 7%. Okay?</p>
+          <p>The profitability in Q3 2010 was 118, which equals 10.3% margin, which is now down at 61, which makes it 5.3. So we do see similar deterioration in margins as we've seen previously in the market, but in terms of revenues, obviously we've been doing, I guess, better than most others did.</p>
+          <p>So that's actually the numbers on Osram. The reason why we have different numbers in the earnings release is technical, of course as you know, because now we consider it discontinued operations, which is after tax and also withholding the depreciation for <mark type="indiscernible" /> (64:02). So that's the bridge for the numbers you've seen during three.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you, Joe. Next question?</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We will take our next question from Olivier Esnou of Exane.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Hi. Good morning. Thank you for taking my question. Two left, please. First one, corporate expenses, if you could clarify the number? It looks quite low again this quarter, so is there some underlying gains? And as we look forward, what should we model for that line for the coming quarters?</p>
+          <p>And secondly, in terms of Fossil Service Business, you said how strong this is developing. Maybe, can you just remind us of the relative size of that business within Fossil? And the kind of growth rate you are enjoying right now? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I'll do the second one first. Olivier, as you know, we are not reporting these figures.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah. On the corporate expenses, I believe if you do the modeling as we have been guiding, if you took the corporate items, you'll be okay. You're right; Q3 was a bit more favorable as the run rate has been. Q4, as you know, is usually somewhat more adverse. This is also true for the current fiscal quarter. But if you on average use that run rate we have been giving to the market earlier, I think that's a safe way to put it.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Like 150 to 200? Would that be okay?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah. That's the number.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Okay. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Maybe more 200 plus in Q4, but on average you will be fine.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We will take our final question from William Mackie of Berenberg Bank.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Yes. Good morning. Thank you for two questions left. Firstly on Transmission, given the trend in booking the orders, the lower priced orders through revenues, could you give us some indication of whether we've reached a base margin within that division? And how the margin pattern might develop going forward?</p>
+          <p>And then secondly on the discontinued operations, now that you've closed SIS, perhaps you could &#x2013; could you qualify in any way the P&amp;L impact that we may see in the fourth quarter? And more specifically what the cash impact is likely to be with relation to discontinued operations for the rest of this year and into next year? Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Hi, Will. On SIS first, we've been taking everything, obviously, we could in Q3. There will be some remaining items in Q4, which should be about mid-single digits, obviously after tax, and then we should be done on the transactional side. As you may remember, we've guided the market into high-single digit transactional cost after tax.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Three.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Also &#x2013; high three digits, maybe that was a Freudian error. High three-digit million numbers after tax on transactional. And we also said, it will be some 250 up to 300 carve-out costs which come on top of it so the majority has been done. And as I said, some mid-single digit for Q4 based on the transaction.</p>
+          <p>The cash impact obviously will be significant, mostly in 2012, since we have not yet expensed most of the items we have been booking reserves for in Q3. So that will be mostly a topic of 2012, and that will be specified in a more detailed way when we talk about the outlook in 2012 in November.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Operator, do we have any more questions?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We currently have no questions in the queue.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay. Well, thank you, everyone, for participating this morning. Give us a call if there are any other questions coming up. The IR team is there to help you out. Thank you very much and have a great summer. Bye.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>That will conclude today's conference call. Thank you for your participation, ladies and gentlemen.</p>
+          <p>Once again, let me repeat the instant replay numbers. Participants in Germany please call the replay number +4 969 2222 2236, with the access code 4049591#. Participants in Europe call +44 207-111-1244 with the access code 4049591#. Participants in the U.S. call +1 347-366-9565 with the access code 4049591#.</p>
+          <p>This replay service will be available for 48 hours. A recording of this conference call will also be available on the Investor Relation section of the Siemens' website. The website address is www.siemens.com/Investor Relations.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1202450" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q4 2008 Earnings Call</title>
+    <date>2009-01-20</date>
+    <companies>
+      <company>77</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Steve Lackey, Investor Relations</participant>
+      <participant id="2" type="corprep">Robert P. Kelly, Chairman and Chief Executive Officer</participant>
+      <participant id="3" type="corprep">Thomas P. Gibbons, Chief Financial Officer</participant>
+      <participant id="4">Michael Mayo</participant>
+      <participant id="5">Robert Kelly</participant>
+      <participant id="6">Thomas Gibbons</participant>
+      <participant id="7">Gerald Hassell</participant>
+      <participant id="8">Karen Peetz</participant>
+      <participant id="9">Nancy Bush</participant>
+      <participant id="10">Glenn Schorr</participant>
+      <participant id="11">James Palermo</participant>
+      <participant id="12">Thomas McCrohan</participant>
+      <participant id="13">Ken Usdin</participant>
+      <participant id="14">Elizabeth Graseck</participant>
+      <participant id="15">Mike Mayo</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good afternoon ladies and gentlemen, and welcome to the Fourth Quarter 2008 Earnings Conference Call hosted by the Bank of New York Mellon Corporation. At this time, all participants are in a listen-only mode. Later we will conduct a question-and-answer session. Please note that this conference is being recorded.</p>
+          <p>I will now turn the call over to Mr. Steve Lackey. Mr. Lackey, you may begin.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, Melissa. Good afternoon, everyone and thanks for joining us on relatively short notice to review the fourth quarter financial results for the Bank of New York Mellon Corporation. Before we begin, let me remind you that our remarks may include statements about future expectations, plans and prospects, which are forward-looking statements.</p>
+          <p>The actual results may differ materially from those indicated or implied by the forward-looking statements as a result of various important factors including those identified in our 2007 10-K, our most recent 10-Q and other documents filed with the SEC that are available on our website at bnymellon.com.</p>
+          <p>Forward-looking statements in this call speak only as of today, January 20, 2009. We will not update the forward-looking statements to reflect facts, assumptions, circumstances or events, which have changed after they were made.</p>
+          <p>This afternoon's press release focuses on the results for the Bank of New York Mellon. We have also included a supplemental document, the quarterly earnings review, available on our home page, which provides a five-quarter view of the total company and our six business sectors. We will use this document as discussion slides Todd reviews the results with you shortly.</p>
+          <p>This afternoon's call will include comments from Bob Kelly and Todd Gibbons. In addition, there are several members of our executive management team to address your questions about the performance of our businesses during the quarter.</p>
+          <p>Now, I'd like to turn the call over to Bob Kelly, CEO of The Bank of New York Mellon.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Well, thanks Steve, and good afternoon everyone, and thank you all for joining us on such short notice. Frankly, it's pretty good to see 2008 in the rearview mirror now. We generated profit every quarter including in the fourth quarter. We had record levels of revenue in our institutional servicing businesses in Q4. We had outstanding results in foreign exchange and net interest income. We enjoyed a flight to quality in deposits, wide spreads in net interest income, and we enjoyed volatility in the foreign exchange markets, which really helped those revenues.</p>
+          <p>We continued with strong deposit levels from our Securities Servicing clients. In fact, we gained market share in virtually every business this year. In Asset Management, we're continuing to gain share in Europe, and in money market funds. In Wealth Management, we had record net inflows. We added almost 2 million in new client assets. In Asset Servicing, we had great new wins, including an outsourcing mandate for a asset manager. In broker-dealers services, we continued to gain share. Now we have well over 50% share of the U.S. government clearing market.</p>
+          <p>In Corporate Trust and Asset Servicing, we of course won the TARP administration, and also the mandate to act as the infrastructure agent for most of the programs in the United States. And on a related note, we have won similar mandates abroad. We're also continuing to win new business in Clearing and in Treasury Services. When you get past the revenue line, we're successful in controlling expenses. You'll note that they're actually down 7% year-over-year, and down 2% sequentially, and Todd will take you through that. And you'll note we had significant positive operating leverage in the fourth quarter.</p>
+          <p>The issues with the economy were reflected in our bottom line as we posted only a modest profit after taxes, essentially three reasons. We recorded a securities write-down due to weak markets and an extraordinarily illiquid discounts -- illiquidity discounts in the mortgage-backed securities market. On a loan equivalent basis, our expected loss is much smaller, and Todd will speak to that as well. Over time that we would hope to earn back a substantial portion of these losses.</p>
+          <p>Secondly, we took a restructuring charge related to our workforce reduction that we talked about a month ago. And we also took some expenses relating to our existing capital support agreements, and we -- in our view that is almost all behind us now.</p>
+          <p>Overall, full year revenue growth was 9% versus 2007, which is something we're pretty proud of. We outperformed on the merger and integration goals. We had top ranked client service globally, and I don't know if you saw it, but we were just named last week the number one global custodian, and number one custodian in Asia in the most recent client survey. And if you think about it, if you think about life now from a client retention standpoint, our client retention in the 18 months that our companies have emerged is, in the custody business, has been over 98%. And I think we're going to officially declare victory now from a client perspective. Clearly, we have demonstrated that we do not lose clients as a result of the merger. And Jim and Tim, and all the people in the custody business and other businesses have done just a terrific job of ensuring that we not only delivered great client service, we actually continue to improve it throughout the merger.</p>
+          <p>So, our business model is working. We remain incredibly liquid. Our capital ratios are better than most. And Todd will go through a new schedule for you, which is in your deck where we actually stress test Tier I capital and TCE by showing you various levels of what if &#x2013; a what if analysis on OTTI and OCI which I hope you find useful.</p>
+          <p>And finally, we're feeling strategically well positioned, and I think we're going to weather this challenging year ahead as we did in 2008. So, at this point, before we get into questions, I'd like Todd to take you through a lot more detail of what the quarter actually looked like. Todd?</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thanks, Bob. Before I take you through the highlights of the quarter, note that for comparative purposes, I will exclude the impact of security losses from fee revenue. But our operating EPS does include the impact of those losses. And I'll exclude the support agreements and restructuring charges from non-interest expense.</p>
+          <p>If you look at our results, our bottom line does not reflect the strength of the underlying performance. In a recessionary environment, we had a record operating performance from virtually all of our institutional services businesses. The drivers of our operating performance were strong client deposit flows. We saw increased market share, continued market volatility, and very well controlled operating expenses.</p>
+          <p>Client deposits, particularly those of the non-interest bearing type were very strong throughout the quarter. Custody, Broker-Dealers, Services, Corporate Trust and Treasury Services all generated record client deposits, which resulted in a record quarterly level of net interest revenue.</p>
+          <p>Volatility was also a key driver for us. We gauge volatility based on a basket of the 30 major currencies, and during the quarter, exchange rates were extremely volatile and combined with increased market share, we enjoyed a record quarter for our Foreign Exchange business.</p>
+          <p>We really held the line on expenses also which helped us again achieve high levels of positive operating leverage. And all of our regulatory capital ratios strengthened considerably. We closed the quarter with a Tier I capital ratio of 13.1%. Our tangible common equity ratio was stable at 3.8%, a reflection of our strong capital generation from our diversified business mix and a smaller balance sheet.</p>
+          <p>Now let's get into the numbers. My comments will follow the quarterly earnings review report beginning on page three. Our continuing EPS was $0.05. If you round the numbers, it was reduced by a total of $0.88, including $0.65 per share or $752 million from securities write-downs, reflecting significant market illiquidity and these securities have an expected incurred loss for us of only about $0.10 or $208 million.</p>
+          <p>There were $0.22 per share from the following: a restructuring expense relating to the 4% workforce reduction which we previously announced, and which that comes to $0.09; and $0.08 associated with the existing support agreements; and there was $0.05 of M&amp;I cost. In an environment that challenged most of our core businesses, our total company revenue increased by 3% year-over-year and 6% sequentially. For the full-year, revenue on an operating basis increased 9%.</p>
+          <p>Factoring out the expense items I mentioned, we reduced expenses by 7% year-over-year and 2% sequentially. This strong expense control resulted in 1,000 basis points of positive operating leverage year-over-year and 800 basis points sequentially.</p>
+          <p>Turning to page five of the earnings review, you can see that both assets under custody and assets under management held up relatively well, given the impact of sharply lower market values and the stronger U.S. dollar. Both continue to benefit from new business.</p>
+          <p>Turning to page six of the earnings review, which details fee growth. Securities Servicing fees were down 7% year-over-year. But if you adjust for the sale of the B- and G-Trade businesses in the first quarter, fees were down 3%, sequentially they were down 5%.</p>
+          <p>Let's look at the component of Securities Servicing. Asset Servicing fees were down 4% year-over-year, and 3% sequentially due primarily to lower market levels and the strength of the U.S. dollar, which offset the impact of net new business, higher securities lending revenue, and the impact of the December 2007 acquisition of the remaining 50% of the joint-venture with ABN AMRO.</p>
+          <p>Over the past 12 months, we have generated $1.9 trillion of new business, including 690 billion in the fourth quarter. In December, the Global Custodian survey named BK as the top global custodian for the second year in a row, quite an achievement and valued recognition of the success of our merger.</p>
+          <p>Securities lending fees were up $20 million year-over-year and 32 million sequentially. Both increases reflect favorable spreads in the short-term credit markets, offset by decreases in volumes, which was driven by lower market valuations and the overall deleveraging in the financial markets.</p>
+          <p>Issuer services fees were down 11% year-over-year, resulting from lower depositary receipt fees, which was due primarily to the timing of corporate action related fees, and lower corporate trust fee revenue, as a result of lower levels of fixed income issuances globally.</p>
+          <p>During the fourth quarter, we were awarded the mandate from the U.S. Treasury to serve as the administrator/custodian/back-office for the TARP program. This win is a reflection of our unique strengths and the capabilities as the largest custodian and trustee in the world. We continue to see similar new opportunities, both domestically and internationally.</p>
+          <p>Clearing fees decreased 8% over the prior year, but here if you were to adjust for the sale of the B-Trade and G-Trade execution businesses, fees increased 11%, principally due to growth in trading activity, continued growth in mutual funds and our success in gaining market share from the disruptions in the market.</p>
+          <p>Asset and wealth management fees were off 26%, but that's compared to a 38% decline in U.S. equity market and a 45% decline in the global debt market, as we continue to benefit from additional net money market inflows. Wealth management continued to see record new sales in the fourth quarter benefiting from strong investor performance at a time when several of our competitors are losing market share.</p>
+          <p>We are pleased with performance fees of $44 million. This was driven by two of our international boutiques. It is down from 62 million in the year-ago period, but up from 3 million in the third quarter. The decline from the year-ago period was primarily due to a lower level of fee generated from certain equity and alternative strategy.</p>
+          <p>FX and other trading revenue jumped 67% over the year, and 32% sequentially, where we capitalized on strong client flows and market volatility. And investment income was off 24 -- 25 million compared to the fourth quarter of '07, but increased $10 million sequentially.</p>
+          <p>Turning to NIR, which is detailed on page seven of the earnings review. Net interest revenue increased 42% year-over-year, and 31% sequentially. Both increases reflect a higher level of interest earning assets and wider spreads. Average client deposits increased significantly led by non-interest bearing deposits increasing 84% year-over-year, and 56% quarter-over-quarter. As I noted earlier with our institutional servicing clients continuing to place significant deposits with us.</p>
+          <p>Our net interest margin was 234. That was an increase of 18 basis points year-over-year, and 7 basis points sequentially, if you exclude SILO/LILO charges in the third quarter. The gain was largely attributable to the increase in free deposits.</p>
+          <p>Turning to page eight, you can see we managed to reduce operating expenses. Excluding the items mentioned earlier, non-interest expenses were down 7% year-over-year and 2% sequentially. The 7% year-over-year decrease was driven by a 15% decline in total staff expenses, which reflects the ongoing benefit of merger related expense synergies and lower incentives. Partially offsetting these declines were the impact of the fourth quarter of '07 acquisition of the remaining 50% of the custody JV with ABN AMRO, higher professional, legal and purchase service fees, and a $7 million additional FDIC expense related to our participation in the FDIC Temporary Liquidity Guarantee Program. Our participation is expected to result in $50 million of additional expense in 2009.</p>
+          <p>As I noted upfront, we took a $181 million restructuring charge related to our global workforce reduction program. The goals of this program are to reduce expense growth beyond the benefits of our merger synergies and further improve the efficiency of our organization. We expect to reduce our workforce by 4% or 1,800 positions in 2009, which will create an annualized savings of 160 to $170 million. We also expect to record an additional pre-tax charge of 20 to 25 million for restructuring in the first half of 2009.</p>
+          <p>Page nine of the earnings review shows the investment securities in our portfolio. We have again given you details of the asset categories, ratings and fair values for each of these investment categories, as well as the other than temporary impairment write-downs that we incurred during the quarter.</p>
+          <p>At the time of purchase virtually all of the securities were rated AAA. Over the past year, we have seen a continued migration in the ratings and market value of fixed income securities, particularly the mortgage-backed ones. As of December 31, the ratings continued to be strong with 87% rated either AAA or AA. And I should note that we continue to have the ability and the intent to hold these securities until their prices recover or until maturity.</p>
+          <p>I would remind you that changes to OCI or Other Comprehensive Income impact our intangible common equity ratio only, while other than temporary impairment impacts our Tier I ratio. We have included for you a new watch list designation to approximately 35% of the portfolio. These securities are under more credit stress, and are generating the majority of the negative marks and impairments.</p>
+          <p>The unrealized net of tax loss of our total securities for sale portfolio was 4.1 billion at December 31, and that is an increase of approximately 1.3 billion compared to the prior quarter. This primarily reflects the underlying performance and wider credit spreads.</p>
+          <p>Obviously, the housing market indicators and the broader economy have deteriorated since the end of the third quarter. In addition, securities prices have declined significantly after it appeared the TARP program would not be used to purchase securities. So in the fourth quarter, we adjusted our modeling assumptions on all residential mortgage-backed securities with the primary changes being under default and severity rates. We increased projected default rates. We increased the projected severity of loss in the event of a default. And as a result of these adjustments, we reported an impairment charge and wrote-down to current market value certain securities, resulting in a $1.2 billion pre-tax securities loss.</p>
+          <p>At December 31, if we look at the expected loss, for example, from the Alt-A securities, it is estimated to be $124 million. This is our estimate of the potential loss of principal if we held those securities to maturity. However, the impairment charge reflects the additional market discount in today's environment, and as you might expect, the market is using a very high discount rate.</p>
+          <p>On page 10, you'll note we voluntarily called the first loss notes of Old Slip Funding making us the primary beneficiary and therefore triggering the consolidation of Old Slip, which had approximately $125 million in assets. The consolidation resulted in the recognition of an ordinary loss -- excuse me, of an extraordinary loss of $26 million after-tax or $0.02 per share representing the current mark-to-market discount from par associated with spread-widening for the assets held in Old Slip. We're pleased to say we have no more conduits.</p>
+          <p>On October 28, we issued $3 billion of securities to the Department of the Treasury as part of the TARP. It was comprised of nearly 2.8 billion in Series B preferred stock as well as common stock warrants with an estimated fair value of 220 million. Since receiving the investment from the Treasury, we put the 3 billion to work in several ways.</p>
+          <p>We use most of the capital to purchase mortgage-backed securities and debentures issued by U.S. government sponsored agencies to support efforts to increase the amount of funds available to borrowers in the residential housing market. We also purchased securities of other financial institutions, which helps to increase the amount of funds available to lend to customers &#x2013; excuse me, to consumers and businesses. And we also continue to make loans to other financial institutions through the InterBank lending market.</p>
+          <p>All of these efforts directly address the need to improve the liquidity in the financial system and are consistent with our business model as a bank that primarily serves institutional clients.</p>
+          <p>I will emphasize that we will not use the funds to pay dividends, bonuses or incentive compensation of any kind. Prior to this investment, we were already well capitalized. With this investment and a lower level of risk-adjusted assets, our Tier 1 capital ratio is now 13.1%. At period end, our tangible common equity ratio was 3.8%.</p>
+          <p>I will note here that certain rating agencies include a portion of the Series B preferred stock and trust preferred securities when assessing our capital strength. Using the lowest allocation permitted by the four agencies, our TCE was 450 at period end.</p>
+          <p>On page 12, we've included a new disclosure, which gives you a window into the stress testing we routinely perform in the adequacy of our capital base. We have modeled the impact to our Tier 1 capital and tangible capital ratios for increasing levels of impairments and unrealized losses related to our investment securities portfolio. Please note that impairment charges impact Tier 1 only and unrealized losses impact other comprehensive income, which only impacts tangible common equity. As you can see, if we took another $5 billion of impairment charges we would have a strong pro forma Tier 1 ratio at the end of 2009. So, we continue to be comfortable with our capital levels.</p>
+          <p>Now turning to our loan portfolio, during the quarter, we raised the provision for credit losses to 60 million, charge-offs were less than the provision at 25 million, and non-performing assets increased by 25 million to 292 million. I should add that we've had great success in reducing our total loan exposure over the last couple of years. At the time of our merger, we had set a goal of reducing our total exposure by 4 billion. By year-end, we had reduced it by 10 billion and we've now set a target of further reducing it by an additional 4 billion.</p>
+          <p>Our results include an income tax benefit of 135 million. If we were to exclude the impact of the securities write-downs, the restructuring charge, the support agreement charges and M&amp;I, the effective tax rate was 32.6%.</p>
+          <p>Turning to the integration front, which we've got outlined for you on page 14, we remain in excellent shape in all of our key milestones. We achieved $258 million in revenue synergies against our full year target of 180 million. We reached 157 million in expense synergies during the quarter, which is 13 million higher than the third quarter.</p>
+          <p>For the full year, we realized 550 million in expense synergies well ahead of our target, and we continue to exceed our client retention goals in asset servicing. Quality remains very strong. And in the Global Custodian survey results just released, we ranked number one among all Global Custodians.</p>
+          <p>In summary, we have a fairly conservative view of things for 2009, a view that we've been articulating consistently over the past few months. Realizing that there will be challenges to the top line, we are more committed than ever to controlling expenses and driving through the synergies from the merger. We're fortunate we're positioned to continue to benefit from disruptions in market share gains across all of our businesses.</p>
+          <p>And with that, let me turn it back to Bob.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Well, thanks, Todd. I hope you found that to be a useful review. Why don't we go right to questions at this point if we could, operator?</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you. We will now conduct the question-and-answer session. <mark type="Operator Instructions" />. Our first question comes from Mike Mayo of Deutsche Bank. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Good afternoon.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Hey, Mike.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Three questions. First, on tax goals, you're at 3.8% tangible common equity and that's not -- it could have been worse, but it's still below your 5% target. Does your 5% target still hold, and how do you think about that ratio?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah, I -- let me start that. I'd say we de-emphasized the 5% last quarter, Mike, given the global government emphasis on Tier I and the 3.8, you also have to think about it in terms of how rating agencies think about it. And as detailed in the numbers, the S&amp;P and Moody's kind of think about it as including some of the TARP money as well. So, the rating agencies would think of it as something north of 4%.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>And then second question, you're not incurring deposits up one-half. Where does that come from? Why does it go to you and how <mark type="inaudible" />?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Well, I'll take that. I think some of the executives running our businesses can add. It's really coming from all of our businesses. Mike, we saw a fair amount, when you saw interest rate cuts and the yield and Treasury funds decline pretty dramatically, we saw a fair amount of clients just parking those funds with us. And so, I think this is part of the flight to quality where you're seeing funds come into either money market funds, Treasury funds, or sitting on our balance sheet, but it's really across-the-board. It's no one single business. We're seeing it in Corporate Trust. We're seeing it in Custody. We're seeing in our Broker-Dealer services business. We're seeing in our Treasury services businesses.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>And it's all client money.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>It's all client money. I don't know if anybody has anything to add to that.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>No, I think you covered it well, Todd. In in terms of its stickiness, Mike, we continue to -- this is Gerald, we continue to operate at pretty high levels of interest free deposits, even though the market is up until today, it calmed down a little bit.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Well, I guess, why does it <mark type="inaudible" />?</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Maybe I can pipe in.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Mike, it's Karen Peetz. Just specific to Corporate Trust, which is a big driver. A lot of it relates to it's bond holder money waiting to be paid out. And so Safe Haven and Safe Harbor is particularly important. And that's a big driver in the issuer services sector.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>We don't expect it to stay here forever, that's for sure Mike, and that's why we've got such incredibly liquid, and a lot of it just sitting in the account at the Fed. Some of it may come for example with redemptions. We may see a decline in the first few quarters here.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>And third question, as it relates to new mergers, what is your appetite? Clearly some competitors are more in the back than you are at the moment? Would you try to act opportunistically?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Mike, Bob again. We -- as I said earlier in my opening remarks, we're gaining share through organic growth in just about every business we have, where they continue to do that. The number one priority for us is to deliver fantastic client service. And we've been saying for numerous quarters here that we haven't really been interested in acquisition opportunities. And frankly, I just never speak directly about merger or acquisition opportunities. We'll see how the year plays out. It's clearly a difficult environment and we feel we're well positioned here.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>All right. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Thanks Mike.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. <mark type="Operator Instructions" />. Thank you. Our next question comes from Nancy Bush with NAB Research. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Hi guys, how are you?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Hi Nancy, good.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>A question on your accounting for the TARP or the uses of the TARP, my understanding is that accounting is to be formalized. Had there been goals or targets set down for you guys, and I guess my question is how far can you stretch 3 billion in TARP funds?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Well Nancy, what we did -- first of all, we don't have any leverage. We're not out buying wholesale funds, so the TARP isn't something that we would lever. So, when we receive the funds, we -- as we would with any situation, we sat down with our Alco and we said, what would -- how shall we invest this? We are -- we do have a $3 billion larger balance sheet. How should we invest this in the spirit of the purpose for which we received it, and also within our business model which is obviously -- we're not a consumer lender and we didn't expect that the regulators would expect us to change our stripes.</p>
+          <p>So, we came up with a program to help the InterBank market, it was at a time when the InterBank market was really struggling. So, we put a fair amount of it into the InterBank market, and we put it out for a little longer terms with institutions that we felt comfortable with. And we also invested in the government-sponsored entity, the agency, mortgage-backed securities as well as their straight debentures. And I think that certainly served the purpose. We've also had ongoing discussions with our regulators as well as the Treasury, and we've reflected exactly what it is that we've been doing with those funds to them, and they seem supportive.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay. And, secondly if I may ask and forgive me if you discussed this, it's been kind of a long day, could you speak to the NIM, net interest margins trends?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Yeah. We had a -- the net interest margin is primarily driven by the very high level of free deposits. We do expect to continue to see a pretty high level of free deposits, we would expect them to normalize a little bit. There are a couple of things that benefit us, that have benefited us here. Number one, the very wide InterBank spreads is a real positive, so we can enjoy quite a bit of spread on those deposits. We would expect that to compress, it has compressed somewhat, actually significantly, we would expect that to continue to compress. Also, the overall level of interest rates have come down, so those free deposits are going to have less value to us.</p>
+          <p>So kind of the windfall from this should be compressed, because obviously we don't -- we can't think long-term, we don't think these are going to be here forever. So the windfall that we've enjoyed in the late third quarter and the fourth quarter, we wouldn't expect to move forward. We do however expect that LIBOR spreads will continue to be wider, not wider than they were in '08, but certainly in '06 and '07, so that's a positive.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Right.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>And frankly, Nancy, it's Bob. We would like to see these spreads come back to more normal levels, because that implies the financial system is getting back on its feet again.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>You and everybody else Bob, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question comes from Glenn Schorr. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Hi, thanks. Two quickies. One is, in the assets that got moved over to help the maturity last quarter, could you just give us a bit of a breakdown of what got moved in? And if you were -- if they were not moved in, I'm just curious what the unrealized loss component would have been on that use of the portfolio?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Sure, Glenn. We moved about $7 billion in securities, about half of them were floating rate notes and about &#x2013; and I'm giving you some rough statistics here. I don't have it right off the top of my head, but about half of those were residential mortgage-backed securities. We moved them on September 12, and it was right around the time of the Lehman collapse, because frankly we thought there was a pretty high probability that asset prices would further decline as a result of that. Had we not moved them, the impact to our other comprehensive income we'd estimated would have been a little over 500 million.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Pre-tax?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>That's after-tax.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>After tax.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>The after-tax effect.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Well, good timing on your part, <mark type="inaudible" />. And then the other question on sec lending portfolios, especially on the commingled side, just curious on your thoughts of if all the industries coming upon us just have that same kind of under a dollar NAV, just because spreads have widened and assets have gone down, if you're experiencing similar type of customer issues that we've seen around the industry?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Glenn, are you on a cell phone?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>I am not. I will transfer over to my &#x2013; I am on a headset, and I will pick up the handset.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Yeah, we're losing you.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Any better -- better?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Yeah, that's better.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay. So the question was regarding the sec lending portfolios, and if your sec lending portfolios are &#x2013; have NAVs below the buck in the commingled side, and if you're having some customer issue similar to what we've seen in the industry?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Jim, you want -</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>Yeah, Glenn, it's Jim. We've got about 12 different funds that support our securities lending activity. We have a weighted average on those funds of about just under 97.5. And they range from about 92 up to a dollar. But we were able to operate all those funds by very carefully managing the liquidity levels. We've been operating them on a dollar-in, dollar-out basis. We've been able to honor all the trading activity that occurs on a daily basis. And then for any unusual activity that may occur from a given client, if they were to look to exit they go out in the form of a vertical slice.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Meaning some cash and some assets in kind?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>That's right, they go out in in kind.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay. Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>You're welcome.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question comes from Tom McCrohan with Janney Montgomery Scott. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Yeah, hi, everyone. There is a pretty significant echo that I am hearing on my end for all the questions, just so you guys know. For Jim, what was, Jim Palermo, can you just remind us what the total dollar amount is of the commingled funds that are unregistered within your various programs?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Tom, we're also losing you there. We're going to check with the operator here, see if we can clarify this line.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Just hang on a sec, Tom. Are you on a headset?</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Not any more.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Okay, you're sounding better. You want to try that one more time?</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Yes, sure. If you could remind us all what the total dollar amount is of all the commingled funds within the securities lending programs that are unregistered?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>The unregistered piece is about 34 billion.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>And what is the NAV on those right now?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>They range anywhere from 96.8 up to 1 even.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay. And are the capital support agreements or any of the existing support agreements contractually obligating the Bank of New York to support that 34 billion?</p>
+          <p>&lt;&lt;A &#x2013; Thomas Gibbons&gt;: The question, are there any of the capital support agreements that are required to support that 34 billion? Not that I'm aware of, right, Jim?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="a">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>No.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>And of all of our capital support agreements, what do we have left at this point, Todd?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>We -- in this quarter we took a charge under a capital support agreement that will route a little over 160 million. And that was a reflection of the value of the underlying assets for the most part. And it is kind of the worst-case scenario that we've estimated is it could be 150 million of additionals.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Tom, Are you hearing us clearly now?</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>I can hear you clearly. But even when I talk there's a pretty big echo. Well, I'll jump off. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Sorry about that. Unintentional</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thanks. <mark type="Operator Instructions" />.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>I do have a question from Ken Usdin, Banc of America. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Hi, thanks good afternoon.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Hi Ken.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Hi Ken.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Just wondering on the TCE ratio, can you just walk us through again, the ins and outs of that, just trying to make sure we're understanding what the balance sheet size is that goes into that calculation?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Ken, we lost you as well. But, I think your question was what's going on in the TCE ratio. There is really two, obviously two aspects to it. In the numerator, it declined this isn't adjusting it. This is the standard calculation. We did lose about 1.6 billion in intangible common equity, largely due to the valuation adjustments in the portfolio. And the balance sheet came down quite a bit in size in as well as risk-weighted assets, but as well as total size. So, the denominator came down probably over 35 to $40 billion. And the combination of the two held it fairly constant.</p>
+          <p>What we did exclude in calculating the denominator, we did exclude the very large deposit that we're leaving at the Fed. And it's obviously a zero risk, and it's just to the unusual nature of those free deposits that are coming with us.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>And that's consistent with last quarter as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>It's consistent with what we did at 9.30.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Right, that's the 50 billion?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Right.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Right.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>The other &#x2013; Ken what I should add to that, is we had pretty strong earnings. And the earnings basically offset the impairment, and the impairment reduced the unrealized loss in the portfolio.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>And Ken, and everyone on the call, I would encourage you to look at page 12 again. And just, it -- that does really provide you with great what-if scenarios that are pretty brutal on the OTTI side. And given all the write-downs we've taken on the OCI standpoint, we really stress test that as well. So, in just about any scenario that you could paint for this year, I think you can pretty easily see that we have levels -- we have capital levels that will meet the test here.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay. I'll try to talk through my second question. With regards to the 1.2 billion of OTTI impairments, there is a portion of it that's expected loss, and then there is the portion of it that's not. Can you help us understand over what time period would you expect to reaccrete?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Ken I -- I think I know where you're going with the question, but I didn't hear the end of it.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Why don't you repeat it for him? What you think it was.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>I think the question was, if we could explain the difference between the economic loss and the mark-to-market loss. Is that correct?</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>That's the first part. And the second part is, then over what time period would you expect that loss to reaccrete assuming everything did mature at par?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Okay. The way we calculated it is, we take what we think are conservative estimates of defaults and severities. We do overall rate analysis on a security-by-security basis, and we make and we conclude that, yes this security might lose let's say 10% of the principal. And we think we've been reasonably conservative relative to the market in how we're doing this.</p>
+          <p>So, if we're losing 10% of the principle, we then look at the market value of the security, and let's say it's $0.50. We've been able to ascertain that the market is discounting securities at about a 20% rate. 15, it's actually in the vicinity of 15 to 25%. So they're doing a cash flow analysis, they're discounting at 15 to 25%, where we've typically got a coupon of something like 5%, so you can do the arithmetic if you got a few years of duration, the market price is going to be at a significant discount to the expected loss.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>What I would just say just as Todd continues here is, the way I just kind of think of it is that the difference between what you take through the income statement and the expected loss is only the discount rate. All the other assumptions are the same. So the expected loss is discounted like a loan. This makes it -- the expected loss is a loan equivalent basis, and that is the pitch that the major accounting firms were proposing last quarter that wanted to treat securities much like loans. And again, the only difference is the discount rate, something at the expected loss rate might be 5 or 6%, and on the mark-to-market they might be at a 20 to 25% annual yield.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>So that might end up with a situation where you think you're going to lose $0.10 to markets at $0.50, so what happens to that $0.40 differential? Right now, you've got to figure out what you think the duration of these assets are. It's pretty hard to estimate, but we think they have extended significantly. So what might have been a three or four-year security might be a five or six-year security. So it would be over a relatively long time period that we'd estimate that we would accrete that back. And the methodology for doing that, frankly we have not worked out at this point.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>But it could be a couple of hundred million a year type thing back in the envelope, or not even that?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>That would probably be the high-end of it.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Okay. Thanks, Ken.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question comes from Betsy Graseck, Morgan Stanley. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thanks. Just a questions. One is the <mark type="inaudible" /> Tier I, why didn't you use the <mark type="inaudible" />?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>It was -- Betsy, it's Bob. It was pretty straightforward actually. We already took &#x2013; if you go back to the securities schedule, we've already took over $7.5 billion worth of mark-to-market write-downs through OCI already last year that most of that occurred of course in 2008. And the Watch List securities are now down to $0.60 on the dollar. So, in just about any reasonable scenario by taking another 3 billion that's another very material write-down in '09 from '08 and that would take you for the Watch List well below $0.50 on the dollar.</p>
+          <p>But having said all that if you want to take it further, you can obviously and you can see on a relative per billion what it would be. But from a management perspective we just didn't realistically see it going beyond that particularly if we expect to see something this year, we're starting of course on the weekend starting to see more and more talk of whether or not the TARP asset repurchase program will be started up again or whether or not a Bad Bank would be created or other types of vehicles would be created. So, since OTTI is new, we made it a much bigger number since OCI was something that's been around for a while, we just went with a slightly smaller number but still a very material one.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>And Betsy, the assumptions in these prices are already pretty darn and draconian. Who's not to say you couldn't see more than 3 billion but that's just &#x2013; it's basically saying everybody defaults and you have severe losses on -- even on those defaults. So, we think given just how draconian the assumptions were that's probably a good place to stop it. But we will give you -- you could certainly push it more if you like.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay, and just one more <mark type="inaudible" />?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>No that was not the implication.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>It was just reasonable stress levels in a really tough environment being assumed in '09?</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>And could you just give us an update as to how you are thinking about the dividend <mark type="inaudible" />?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Well, just looking at those stress levels, you'd have to conclude that we feel pretty comfortable with the dividend levels, because that assumes the balance sheet size of what we have today as well as the existing dividend level. I guess we could look at it every quarter. But those numbers, if you backed out some portion of the dividend, you'll see that the impact is not really that material. It does provide some level of basis points, but it's not super material. So we concluded we should feel comfortable about the dividends. Thanks again, Betsy.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next --</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Next question?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Yes. The next question comes from Mike Mayo with Deutsche Bank.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Hi, thanks for taking the follow-up. So your TCE ratio stayed about flat even though you didn't earn much money this quarter and you had higher unrealized securities losses, because you downsized the balance sheet by 12%? If you could just confirm that?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Sorry, Mike.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Mike, you really broke up on that one.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>The bottom line is your TCE ratio was helped by downsizing the balance sheet by 12%?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>That's correct. That is the -- there is two aspects of it, Mike. First of all, we had a -- we did have a significant decline in the value of the portfolio. Our earnings offset about half of that decline. And we took it through earnings.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>And of course we had an incredibly unusual ballooning of the balance sheet in the third quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Right, we had a very high spike in the balance sheet. So our earnings -- I want to make sure you get the pre-tax and the after-tax impact here. We took 1.2 billion pre-tax charge through our earning, so that's 752 million after-tax. That ate into what would have otherwise gone against the TCE ratio, because otherwise we would have had a bigger valuation adjustment. We then had a significant valuation adjustment even after that, which was offset primarily just as you pointed, by a smaller balance sheet. But we had a very unusual balance sheet on September 30. We still have an unusually large balance sheet today.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>And it's not that we managed it, it was what our clients wanted to do. And I would think, Mike, that ultimately if the markets continue to stabilize, our balance sheet could get smaller.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Right.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>So what is your outlook for 2009? One thought is that if  you can downsize the balance sheet, that's what <mark type="inaudible" />  what is the general outlook for '09?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Well, what I really want to point out Mike is that there was a spike in the balance sheet and I'd call this a little bit of what you saw in the third and the fourth quarter a windfall. And a lot of the revenue, the NIR revenue was driven by placements. And we don't expect that to be an ongoing feature. I would go back to more of the levels we are looking at in the first and the second quarter of last year.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Okay. So, at this point, thanks, Mike. At this point, we're going to wrap it up. We don't have any more questions. I really appreciate everyone getting on the call and asking the good questions as always. We're going to work hard for you, and we look forward to filling you in with more details when you talk to the IR folks. And I wish you all the best. I know this is an extraordinarily difficult and tiring time right now, and thank you for dialing in. All the best.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. If there are additional questions or comments, you may contact Mr. Steve Lackey at 212-635-1578. Thank you ladies and gentlemen. This concludes today's call. Thank you for participating.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

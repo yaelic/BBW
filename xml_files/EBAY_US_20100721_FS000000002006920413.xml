@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1300042" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q2 2010 Earnings Call</title>
+    <date>2010-07-21</date>
+    <companies>
+      <company>175</company>
+    </companies>
+    <participants>
+      <participant id="0" type="corprep">Tracey Ford, Director of Investor Relations</participant>
+      <participant id="1" type="corprep">John Donahoe, President and Chief Executive Officer</participant>
+      <participant id="2" type="corprep">Bob Swan, Senior Vice President, Finance and Chief Financial Officer</participant>
+      <participant id="3" type="operator">Operator</participant>
+      <participant id="4" type="analyst">Sandeep Aggarwal</participant>
+      <participant id="5" type="analyst">Imran Khan</participant>
+      <participant id="6" type="analyst">Mark Mahaney</participant>
+      <participant id="7" type="analyst">Spencer Wang</participant>
+      <participant id="8" type="analyst">Gene Munster</participant>
+      <participant id="9" type="analyst">Steve Weinstein</participant>
+      <participant id="10" type="analyst">Douglas Anmuth</participant>
+      <participant id="11" type="analyst">James Mitchell</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker>
+        <plist>
+          <p>Good day, ladies and gentlemen and welcome to eBay's Q2 2010 earnings call. At this time, all participants will be in a listen-only mode, but later we will conduct a question-and-answer session which instructions will be given at that time. <mark type="Operator instructions" />. As a reminder, today's conference is being recorded.</p>
+          <p>Now it's my pleasure to announce your host, Tracey Ford, Director of Investor Relations.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Good afternoon. Thank you for joining us and welcome to eBay's earnings release conference call for the second quarter 2010. Joining me today on the call are John Donahoe, our President and Chief Executive Officer and Bob Swan our Chief Financial Officer. We are providing a slide presentation to accompany Bob's commentary during the call. This conference call is also being broadcast on the Internet and both the presentation and the call are available through the investor relations section of the eBay website at investor.ebayinc.com.</p>
+          <p>Before we begin, I would like to remind you that during the course of this conference call, we will discuss some non-GAAP measures in talking about our company's performance. You can find the reconciliation of those measures to the nearest comparable GAAP measures in the slide presentation accompanying this conference call.</p>
+          <p>In addition, management may make forward-looking statements relating to our future performance that are based on our current expectations, forecasts and assumptions, and involve risks and uncertainties. These statements include, but are not limited to statements regarding expected financial results for the third quarter and full year 2010 and future growth in the Marketplaces and Payments businesses.</p>
+          <p>Our actual results may differ materially from those discussed in this call for a variety of reasons, including, but not limited to the continuation or the worsening of the global economic downturn; changes in political, business, and economic conditions; foreign exchange rate fluctuations; the impact and integration of recent and future acquisitions; our increasing need to grow revenues from existing users and established markets; an increasingly competitive environment for our businesses; the complexity of managing increasingly large enterprise with a broad range of businesses; our need to manage regulatory, tax, IP and litigation risks, including risks specific to PayPal, Bill Me Later and the financial industry; and our need to upgrade our technology and customer service infrastructure at reasonable costs while adding new features and maintaining site stability.</p>
+          <p>You can find more information about factors that could affect our operating results in our most recent annual report on our Form 10-K and our subsequent quarterly reports on Form 10-Q, available at investor.ebayinc.com. You should not unduly rely on any forward-looking statements and we assume no obligation to update them.</p>
+          <p>All information in the presentation is as of July 21, 2010, and we do not intend and undertake no duty to update this presentation.</p>
+          <p>With that, let me turn the call over to John.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks, Tracey, and good afternoon, everyone, and welcome to our Q2 earnings call. Today I will talk about our results for the quarter and our progress toward achieving our growth objectives. Bob will then give more details on the numbers and our guidance and we'll take questions.</p>
+          <p>I want to begin by reminding you of our strategic goals. We are positioning PayPal to be the leader in global online payments and we are positioning eBay to continue as a leader in ecommerce with competitive strength as the world's largest online marketplace for secondary or off-price new and pre-owned merchandise.</p>
+          <p>And we are working towards achieving these goals in three ways. First, we are becoming a more customer driven organization. We have three clear customer metrics: net promoter score, velocity and market share and we have tied a portion of management's compensation to customer satisfaction.</p>
+          <p>Second, we are becoming a more technology driven company with an increasing commitment to innovation. Our efforts in mobile, platform, and the launch of products such as our fashion vertical illustrate our commitment and increasing pace of innovation.</p>
+          <p>And third we are operating more efficiently. We are taking $2 billion out of our cost structure over a three-year period and reinvesting in our growth priorities.</p>
+          <p>And now, our Q2 results. Both revenue and earnings exceeded our guidance. Excluding Skype, revenue increased 15% and non-GAAP EPS was up 18% year-over-year. PayPal continued its strong revenue and total payment volume growth, and eBay's turnaround continued with progress in key metrics.</p>
+          <p>We continue to focus on delivering strong financial results, managing a healthy balance sheet and making the necessary investments to satisfy our customers and compete and win.</p>
+          <p>Our Q2 results also demonstrate the global strength and increasing diversity of our company. Almost 60% of the eBay Marketplace revenue was generated outside the U.S. And more than 60% of PayPal total payment volume comes from our Merchant Services business off of eBay. The diverse nature of our portfolio gives us the ability to balance opportunities and challenges across our businesses and geographies.</p>
+          <p>Now, let's take a look at the results from each business unit. PayPal had another great quarter. We added 1 million new accounts each month during Q2, and PayPal now has 87 million active accounts. Penetration on eBay continued to increase, and our Merchant Services business grew over 40% for the third quarter in a row.</p>
+          <p>Overall, PayPal continues to grow significantly faster than global ecommerce and gain share as the leading online payment method. As we continue to execute our plan to grow merchants and consumers, we're also taking steps to accelerate PayPal's competitive position globally and drive payments innovation.</p>
+          <p>I want to touch on three brief examples in today's call. First, we're aggressively expanding PayPal's presence across Asia through pursuit of strategic relationships. For example, our previously announced partnership with China UnionPay is on track to launch in Q3, giving millions of Chinese consumers the ability to shop online and pay with PayPal.</p>
+          <p>And in Q2, PayPal launched on Alibaba.com's AliExpress platform, giving small merchants worldwide a faster, safer way to pay for wholesale merchandise from China.</p>
+          <p>In Japan, PayPal went live with SoftBank payment services and we're now on the top five gateways in that country, providing access to a market with more than $25 billion in addressable spend.</p>
+          <p>We've also announced significant mobile deals in Singapore and Malaysia to help make the mobile wallet a reality for millions of new consumers in Asia. For example, PayPal's mobile platform was chosen by the Singapore government to power its m-commerce infrastructure.</p>
+          <p>And in Malaysia, PayPal signed a deal with Maxis, the country's largest telco operator to provide PayPal to Maxis' 12 million subscribers on its mobile, online and internet TV platforms. These are just a few of the examples illustrating PayPal's significant opportunities in Asia.</p>
+          <p>We're also driving significant product innovation with Bill Me Later, both within the PayPal wallet and as a separate payment option. Merchants are recognizing the potential for Bill Me Later to help drive sales and higher order value. And consumers like the benefits of online credit as an easy payment option.</p>
+          <p>As a result, Bill Me Later's growth in Q2 is accelerating, and in Q2, we also began testing Bill Me Later as a checkout option on eBay. Early results show that when buyers use BML on eBay, their purchases are generally two times larger than the average order value on eBay. More to come on that in future quarters.</p>
+          <p>And my third example of how PayPal is driving growth and innovation is in mobile payments. More than 2.5 million people have downloaded PayPal's mobile apps and in the first six months of this year, PayPal generated nearly twice the mobile payment volume than it did for all of 2009.</p>
+          <p>In the U.S. in Q2, PayPal introduced Mobile Express Checkout, which is designed to vastly improve the mobile shopping experience for consumers and PayPal merchants. Mobile Express Checkout offers consumers the same frictionless payment experience on the mobile phone that PayPal customers enjoy online and Mobile Express Checkout offers PayPal merchants an easy way to extend their business to the mobile phone.</p>
+          <p>All in all, PayPal continues to make progress toward achieving its enormous potential to be the clear leader in online and mobile payments. Now, let's turn to eBay. We continue to make progress in our multi-year turnaround with ongoing improvements in the buying and selling experience and growing innovation in areas such as mobile and fashion.</p>
+          <p>For the quarter, Marketplace revenue was up 11% year-over-year with solid performance on the underlying customer metrics. Net promoter scores were up for top and active buyers in the U.S., U.K. and Germany and buyers are buying with greater frequency. Sold item growth continued to be strong at 11% globally.</p>
+          <p>And when we look at GMV in our three largest markets, we gained share in the U.K., driving mid-teens growth in Q2. We performed well in Germany with GMV and sold items accelerating from Q1, however, in the U.S., we grew more slowly than the market.</p>
+          <p>We're not satisfied with our U.S. results. While clearly we saw consumer spending soften during the quarter, and the strengthening dollar hurt GMV exports from the U.S., however, we aim to do better in this market.</p>
+          <p>Now, we believe the changes we implemented in the U.S. at the end of Q1 to offer more competitive pricing for sellers and better experiences for buyers ultimately will have the same positive impact we have seen in Europe, however, we are in the midst of making a series of format and search adjustments following that price change, just as we had to do last year in Europe. But overall, we are not satisfied, and we are on top of it.</p>
+          <p>That said, overall, buyer satisfaction on eBay is continuing to improve. As I mentioned a minute ago, buyer net promoter scores are up in each of our major markets. This is driven by increased trust on our marketplace. Bad buyer experiences are decreasing and sellers across the site are improving their service. In eBay, Buyer Protection is improving buyer satisfaction. Buyer Protection allows buyers to shop on eBay with confidence.</p>
+          <p>We've also launched a couple of innovative shopping experiences. Our new fashion vertical offers a more compelling and visual shopping experience, better surfacing our deep inventory in this $5 billion plus eBay category. We are making strong progress in working with the top fashion brands in Europe and the U.S., and we're getting great feedback from buyers and sellers on the fashion experience, and our teams are rapidly building suggestions into site improvements.</p>
+          <p>And mobile innovation is another way we are creating better shopping experience on eBay. We are well on our way to delivering $1.5 billion of mobile GMV this year, more than 2.5 times our volume in 2009. Our main eBay iPhone app has been downloaded almost 11 million times, and eBay is consistently a top free lifestyle app on the iPad. Our eBay selling app which we just launched in the U.K. has quickly become a top ten app there and is already generating an average of more than 2,000 listings per day.</p>
+          <p>So we are continuing to expand the availability of our applications across all platforms, iPhone, BlackBerry and Android, so that we are reaching millions of potential new users worldwide.</p>
+          <p>In addition, in Q2, we acquired the popular RedLaser iPhone app. We will be integrating this bar code scanning technology into our eBay apps providing users with fast and easy selling and comparison shopping information. We'll also be enhancing selection on the free standalone RedLaser app by adding eBay's more than 200 million listings as well as inventory from 7,000 merchants on shopping.com.</p>
+          <p>Turning briefly to our adjacent ecommerce formats. Our classifieds business was up 7% in Q2 with strong growth in Canada and Germany.</p>
+          <p>StubHub had another great quarter, continuing to reinforce its position as the tickets marketplace that offers the most choice and availability. Q2 ticket demand was strong for sporting events including the NBA and NHL playoffs and Major League Baseball. StubHub also expanded into mobile commerce with the launch of its iPhone application.</p>
+          <p>So in summary, with the first half of 2010 behind us, we continue to make progress against our three-year growth objectives and deliver on our financial commitments. PayPal is strong and has great potential and momentum. And eBay continued to make progress in key metrics with strength in Asia and in the U.K. and solid performance in Germany. We still have work to do in the U.S., our toughest, most competitive market and we are not satisfied. However, we remain confident that our turnaround is on track and we continue to target having our aggregate Marketplaces businesses grow at ecommerce global rates for the year.</p>
+          <p>We're a strong company with great competitive assets in ecommerce and payments and across our two businesses, we will continue to focus on our customers, innovate and drive operating efficiencies to invest in growth. Now, I will turn it over to Bob for more details on the quarter and our financial outlook before we take questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks, John. During my discussion I will reference our earnings slide presentation that accompanies the webcast. All growth rates mentioned in my prepared remarks represent year-over-year comparisons, unless I clarify otherwise.</p>
+          <p>Overall, we delivered strong second quarter results. We came in above our guidance on both the top and the bottom line, despite the impact of a stronger U.S. dollar. We continued to execute against our strategic priorities during the quarter. PayPal increased global share of ecommerce off of eBay and increased penetration on eBay and the Marketplaces' turnaround remains on track. Solid sold items' growth was partially offset by lower ASPs.</p>
+          <p>We are pleased with the results we've achieved in the first half of the year. PayPal is performing better than expectations, and the Marketplace business is on track with the plans we laid out at the beginning of the year. Geographically, Europe growth is up, Asia is in line and the U.S. is below our expectations.</p>
+          <p>However, the stronger U.S. dollar will have a significant impact on both the top and bottom line. As a result, we are modestly adjusting full year guidance and I will discuss this in more detail later in the call.</p>
+          <p>Our combined businesses generated net revenues of 2.2 billion in the second quarter, a 6% increase or 15% excluding Skype from Q2 '09. Foreign exchange decreased growth by one point and our acquisition of Gmarket increased growth by three points, resulting in organic revenue growth of 13%.</p>
+          <p>Second quarter non-GAAP EPS was $0.40, an 8% increase or 18% excluding Skype. Non-GAAP operating margin was 29.1%, up 40 basis points from Q2 '09. The year-over-year increases were primarily due to volume leverage and productivity gain, partially offset by a lower take rate.</p>
+          <p>We generated 519 million of free cash flow in the quarter. CapEx as a percentage of revenue was 9%, which was higher than recent quarters due to the timing of some expenses for our new mega data center we opened in Utah this &#x2013; in the second quarter.</p>
+          <p>For the full year, we expect this rate to be up slightly versus last year. Return on invested capital was 22.8% on a trailing 12 month basis, the third consecutive quarter of improvement reflecting higher earnings growth.</p>
+          <p>Now, let's take a closer look at our segment results. Starting with our Payments business, PayPal posted another great quarter. Total Payments revenue increased 22% to 817 million. Total payment volume increased 28% to 21.4 billion. Geographically, TPV growth was 23% in the U.S. and 37% internationally. We continue to expand our global footprint with 40% of our TPV from outside the U.S. for the quarter, compared to 38% in the second quarter of last year.</p>
+          <p>PayPal's Merchant Services business had another excellent quarter, driven by increases in the number of merchants who accept PayPal, the number of active accounts and our share of checkout. Merchant services TPV grew 43% in the quarter and now account for 61% of PayPal's total TPV.</p>
+          <p>On the eBay platform, PayPal's TPV growth rate was 9%, penetration of addressable GMV increased 420 basis points which was driven by Germany, Australia and Italy.</p>
+          <p>PayPal transaction margin was also strong, increasing to 62.8% in the quarter. Although global take rate was down 17 basis points and transaction expense was up modestly, these effects were offset by a significant improvement in transaction losses, which was primarily a function of better fraud detection and prevention along with a shift of much of the cost of our Buyer Protection program from PayPal to Marketplaces.</p>
+          <p>PayPal's segment margin came in at 19.9% in the quarter, up 380 basis points year-over-year. The increase from last year was primarily the result of operating leverage on volume, higher transaction margins, and improvement at BML.</p>
+          <p>Now, let me touch on a few key operating metrics for Bill Me Later. Bill Me Later's gross receivable balance at the end of the quarter was 691 million, up 25%. The quality of the portfolio continues to improve and the charge-off rate has continued to decline, down to 8.6% from 9.5% in Q1 2010. Risk adjusted margin improved 130 bips sequentially to 12.8%.</p>
+          <p>Within the last year, we fully integrated Bill Me Later into the PayPal wallet, began testing Bill Me Later in eBay listings and started using eBay Inc. data with the goal of reducing the customer decline rate without taking on additional risk.</p>
+          <p>Now, let's move to our Marketplaces business. Overall, Marketplaces achieved net revenues of $1.4 billion, an 11% increase. Marketplaces FX neutral revenue accelerated five points from the first quarter, driven by a higher take rate, lower contra-expense and higher ad-based revenues. Transaction revenue was up 12%, and marketing services and other revenue was up 7%. Marketplaces generated 58% of its revenue internationally this quarter.</p>
+          <p>Marketing services and other grew 7% in the quarter and represents 15% of Marketplaces revenue. Our classifieds business grew 7%, with strong growth coming from Canada and Mobile. Total global advertising revenue grew by 9%, driven by strength in Europe and APAC display advertising.</p>
+          <p>A few quick highlights on Marketplaces' operational metrics. Active users increased to 92 million, up 4% year-over-year. Sold items excluding Gmarket, grew 11%, geographically driven by the U.K. and China's cross border trade. U.S. core GMV was 2% in the quarter down 4 points from Q1. The decline was driven by lower ASPs due to broader selection of well-priced inventory and reduced cross border trade, primarily to Europe as European currencies weakened. As John indicated earlier, we feel good about the expanded selection and better deals on the site but we have work to do to increase velocity of sold items.</p>
+          <p>International core GMV grew 20% or 21% on an FX-neutral basis. The growth in both the U.K. and Germany continued to be strong and accelerated for the quarter. China's cross border trade remains one of our fastest growing markets but was negatively impacted by the weakening of the euro and the British pound. Marketplaces segment margin was 40% in the quarter, down 220 basis points from a year ago.</p>
+          <p>The main drivers of the change include increased investments to continue to build trust, value, and selection, as well as inclusion of Gmarket which we acquired in June of last year. These were partially offset by savings from our operational excellence initiatives. Global take rate was 8.03% in the quarter, up 16 bips from last year, or up 10 bips excluding vehicles, StubHub and Gmarket.</p>
+          <p>The take rate increase was driven by higher velocity on lower priced items and lower power seller discounts versus last year. Turning to operating expenses, in Q2, our operating expenses were 44% of revenue, essentially in line with last year. We've invested more in product, while leveraging our G&amp;A infrastructure. We expect this trend to continue.</p>
+          <p>From a cash perspective, we generated free cash flow of 519 million during the quarter. Cash, cash equivalents and non-equity investments totaled 5.6 billion at quarter end. Of this, we held approximately 1.2 billion in the U.S.</p>
+          <p>Now, let me turn to guidance. We have outperformed our expectations for the first half of the year, but we exit the first half with a bit of caution. As we head into the second half, our guidance reflects a few things. First, PayPal will continue to perform well. Second, European currencies will remain relatively weak versus the U.S. dollar. And third, the U.S. ecommerce market will be relatively slow. The implications on these, on our full-year guidance we originally provided in January are as follows: PayPal will continue to perform well on the top and bottom line. For the full year, this will contribute an additional 100 million in revenue or $0.06 to $0.08 in earnings per share.</p>
+          <p>Marketplaces is on track, geographically Europe growth is stronger, Asia is in line, and the U.S. and cross border trade are weaker.</p>
+          <p>Third, the stronger dollar will hurt revenue by approximately 250 million or $0.09 to $0.11 in EPS for the full year. So for the full year, we now anticipate revenue of $8.8 to $9.0 billion, representing growth of 9 to 11% excluding Skype. And we anticipate non-GAAP EPS of $1.60 to $1.65, representing growth of 9 to 12%, also excluding Skype.</p>
+          <p>The implications on the third quarter are as follows: We anticipate revenue of 2.13 to $2.18 billion. This represents growth of 4 to 6% excluding Skype. And we anticipate non-GAAP EPS of $0.35 to $0.37, which represents growth of 0 to 6% excluding Skype.</p>
+          <p>On a year-over-year basis we expect the stronger dollar to have a negative impact on Q3 results of approximately 70 million in revenue and approximately $0.02 in earnings per share.</p>
+          <p>In summary, we had a strong first half with double digit top and bottom line growth. Our global footprint is expanding. Innovation is accelerating and ops excellence enables investments into trust, value and selection. PayPal has outperformed our expectations and the Marketplaces business is on track and the stronger dollar creates real challenges given our global footprint. We are confident but cautious as we enter the second half of the year.</p>
+          <p>And now we would be happy to answer your questions. Operator?</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="3">
+        <plist>
+          <p>
+            <mark type="Operator instructions" />. Our first question is coming from Sandeep Aggarwal [Caris &amp; Company].</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Thanks for taking my questions. Actually, I have two questions. One is, John, the active user growth has accelerated for the Marketplace and this is a visible change versus the last four or five quarters. I was wondering, what are the drivers for that growth?</p>
+          <p>And secondly, if you can help us to compare and contrast, a typical mobile user behavior, in terms of propensity to buy at ebay.com, average order size and maybe total number of orders? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Sure, Sandeep. Let me take each of those in turn. In terms of active user growth, what's encouraging is that when you peel beneath the surface, what's happening is what we have been aiming toward, which is users are coming back more frequently and they are buying more. And that then is leading to new users because we think of word of mouth. The market that it's most pronounced in is in the U.K., where, as I mentioned, we are growing faster than the market. We are growing in the mid-teens in the U.K. and we are beginning to see this dynamic where the site experience has improved, our existing customers like it. They are coming back more frequently, buying more and we are beginning to see a pickup in new users as well.</p>
+          <p>So, you know, we're far from being done with where we want to go and need to go, but we're encouraged by some of those signs.</p>
+          <p>With respect to mobile users, here's what's interesting, is they are not pure mobile users or pure website users. They are a class of users who are using both devices and what we are seeing is mobile increases the intensity of the number of times they touch eBay, the number of times they use eBay. And so someone may search for an item on their laptop or desktop, put it into their My eBay and then they actually buy it the next day standing in line at a Starbucks or they may be standing in line at a Starbucks, do a search, put it in their My eBay and then actually close it later on their laptop.</p>
+          <p>So we're looking at mobile as an extension of the ways people interact with eBay, rather than being a separate set of customers, and so that's why we doubled down or continue to double down on mobile and, sure, we're innovating this RedLaser application is something that we feel excited about because it, again, brings eBay's 200 million listings to consumers when they are in stores in the offline world. So mobile's increasing the intensity of interaction with eBay.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>And Sandeep, the only thing I would add on John's response to your first question, is while active users were up 4%, as you know, GMV was up 6%, but sold items were up 11%. So what we're seeing is more frequency from our active user base.</p>
+          <p>Now, the challenge is to continue to increase that frequency and also bring back more &#x2013; more users.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" />. We'll take our next question from Imran Khan [JP Morgan].</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Yes, hi. Thank you very much for taking my question. I have one question. You talked about cross borders was down. Can you give us some sense how much cross borders were down on a year-over-year basis and how much your U.S. GMV growth rate &#x2013; non-vehicle GMV growth rate was negatively impacted by the cross border trade decline? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yes, Imran, the cross border trade, as you know in our business for eBay is roughly 18% of volume and that didn't change dramatically year-over-year. What changed was the growth rate. We've had very high growth rates primarily out of greater China, China and Hong Kong to our developed markets in Europe and in the U.S. And also cross border trade from the U.S. to Europe is a net importer from both Asia and from the U.S. And we saw that demand slow dramatically.</p>
+          <p>Relative to the &#x2013; the U.S. GMV decline from 6 to 2%, two points of that was driven by lower cross border trade and, again, we saw a fairly direct tight correlation between the weakening of the European currencies and the demand on U.S. products throughout the course of the quarter. So overall it was about a point in total. It impacted U.S. GMV more than rest of the world, and our challenge as we go into the second half of the year, if currencies stay where they are is how do we highlight some of the great deals of our European sellers and merchants into our stronger &#x2013; our stronger currency countries like the U.S.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>All right, thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>We will go with our next question coming from Scott Ebid.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thanks. Two please. The first one is just on the sold item growth. It was 13% last quarter, 11% this quarter. And you mentioned that through word of mouth, that's driving new active users. I wonder, John, if you could talk about how you are thinking about marketing campaigns both internal with eBay Bucks and external campaigns in terms of driving increased usage with existing users as well as driving new users over time now that the marketplace is in such a better place than it's been in the past couple of years?</p>
+          <p>And then secondly, Bob, could you update us on the top 100 penetration for PayPal Merchant Services U.S. and Europe? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Sure, Scott. On marketing, let me first make a comment on something you said. I think the marketplace is in a better place than it has been in the last couple of years but I'm still not satisfied. So we're you know, we laid out a three-year plan. We are halfway through it and I'm pleased with progress on some fronts, but also believe we will make a lot more progress in the next six to 18 months. And the kind of thing I think you are going to really begin to see more of is things analogous to the fashion experience on the core eBay business.</p>
+          <p>And any of you that haven't gone into that fashion tab, I would encourage you to go into it. In fact, you can check today the -- the Fashion Vault, we have Tag Heuer watches, luxury off-price watches, you'll see most of the men's watches are sold out already, but we are bringing in new kinds of inventory. We ran one with Brooks Brothers last week and bringing in new kinds of inventory and bringing it to life in very different ways and so that fashion application, if you will, is the first vertical we built on our new search platform, and it's a precursor of additional vertical experiences that will come over the next 6 to 18 months.</p>
+          <p>And so with respect to marketing, the most valuable indicator of if our changes are working are, are buyers buying more and then are they coming back? In the second half this year, we will spend roughly a comparable amount in marketing than we did in the second half of last year. We'll probably lean in a little bit. We'll spend a little bit more toward loyalty, eBay Bucks and a little bit less towards things like Microsoft cash back, because obviously that program is stopping.</p>
+          <p>And as we move into 2011, I believe we will be on a trajectory where our user experience, say by midway next year will be in a place where I think we can go back to inactive eBay users and really market to them. So a lot of work to be done. We've got some tweaks to make in U.S. search, given the recent changes there, but I'm confident we are on track for being in the right place over the next 12 to 18 months.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>And Scott, your question about top merchants, you know, just overall as John indicated, we just hit our third quarter in a row with PayPal Merchant Services growing by over 40%. So we feel pretty good about the traction. Relative &#x2013; on both small and medium-sized merchants, as well as large merchants. On the large merchants in the U.S., we got, you know, roughly 56 out of the top 100, 27 out of the top 100 in Europe, and about 13 out of the top 100 in Asia. So we continue to get, again, both small and medium-sized merchants while also getting these lighthouse large merchants in each one of the geographies around the world.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Okay, thank you, Scott. We'll take our next question from Mark Mahaney [Citi].</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Thanks. Just one question on the Merchant Services business. John, if you step back, what would be the greatest challenges to you being able to maintain 40% or, you know, a high, 30, 35, 30% Merchant Services growth for the next year or two? What do you consider the greatest risks to that kind of very high growth rate? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, it's really three parts to our PayPal strategy, Mark, and it's what Scott laid out at analyst day last year. The part that we are being very aggressive and executing on right now is simply merchant acquisition. And as Bob just mentioned, we are adding new merchants, both large and small in all regions of the world, and, frankly, we see a reasonable amount of runway left in that.</p>
+          <p>Second, we're working to ensure we improve consumer preference, which is to say again, it's the frequency, the velocity, when I talk about our customer metrics which is how frequently do consumers use PayPal? Are they using PayPal every time they see it online? You know, it's getting the &#x2013; let's be everywhere and then let's get consumers using it everywhere. And I would say we are &#x2013; we're getting better at that. We're getting better at sort of basic marketing, basic consumer -- consumer preference, consumer frequency on PayPal.</p>
+          <p>And then the third angle that is becoming increasingly important, frankly, is innovation, and whether that is digital goods, whether that's mobile payments. Frankly, whether that's credit and BML, I mentioned earlier some the innovative products on credit or whether it's &#x2013; frankly, we are now getting pulled offline by some large merchants who view a mobile payments approach on PayPal as a way to extend their private label cards and other in-store experiences. So as you know, we opened up our platform to help us expand our capacity for innovation.</p>
+          <p>So I don't see any one area as a risk. I just see a market that is quite large, where the opportunity is expanding and we need to ensure we execute well across all of those fronts. And so if you were to hear both what Scott Thompson would be saying to his team and what Bob and I are constantly focusing on at PayPal, it's let's ensure we are executing on the opportunities that are in front of us.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Thanks, John.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Probably the two areas that we need to maintain massive diligence on are, to state the obvious, are the scalability of the infrastructure. That's something that we &#x2013; you know, our merchants continue to rely on us, and we've got to &#x2013; in a rapidly growing business, we stay way ahead of the demand from our consumers and merchants by having a scalable infrastructure.</p>
+          <p>And the other one is, you know, regulation. The regulatory environment continues to change here, here and outside the U.S. and staying ahead of the regulatory environment. So those are the two things that we don't talk about much, but the PayPal team is very focused on, you know, continuing use, scalability of our infrastructure and our ability to deal with a changing regulatory environment as challenges but also barriers to entry as we continue to grow.</p>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thanks, Mark.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Okay. Thank you. We'll take our next question coming from Spencer Wang [Credit Suisse].</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thanks. Good afternoon. I just had a two-part question on Marketplaces. I guess, John, could you talk a little bit more about what the plans are to address the issues in the U.S. beyond the search issue?</p>
+          <p>And then secondly, I guess for Bob, Marketplaces' margins are down year-over-year through the first half. So do you still feel comfortable that margins on a full year basis for Marketplaces will be flat year-over-year? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Sure, Spencer. As I said early on, as I step back, we are sort of halfway through this turnaround and, frankly, we are ahead of where I thought we would be in the U.K. and we are behind where I would like to be in the U.S., at least in Q2. And so I'm not satisfied with where we are in Q2, but I do think we are on the right path. And here's, sort of, the facts: as you know, we launched a significant pricing and search change on April 1 in the U.S. In essence, the same change that we had done in the U.K. and Germany over the previous 12 to 18 months and we knew the stakes were bigger because there were simply a lot more listings that were going to be impacted in the U.S.</p>
+          <p>And so what we have seen is selection in core search is up. So the core search engine in the U.S. is now processing three times as many listings at the end of the quarter than it did at the beginning of the quarter, as the stores' inventory and frankly, a lot of new listings came on. So selection is up for U.S. consumers in core search, and they are getting better deals and we saw that in ASP.</p>
+          <p>ASPs frankly came down even more than we thought because a lot of the lower-priced items from the store inventory now came in core search and people were buying them. So that we felt good about.</p>
+          <p>What did not increase, however, was velocity. Sold item growth was 5% in the U.S. in Q2. That was a two point deceleration from Q1 and we want that to go up. We want that to go up over time, as it has in Europe. And so we are in the midst of making some adjustments in the format mix of auctions and fixed price. We brought a lot of the stores' inventory came on in fixed price and we kept our exposure, auction and fixed price exposure the same and we're now going to be increasing, gently, the fixed price exposure, as well as ensuring that higher ASP items are getting appropriate visibility.</p>
+          <p>So these are actually analogous to the fine tuning we had to do in Europe last year and we are already on it, and we will be doing that over the next &#x2013; remainder of the year.</p>
+          <p>And then we are going to continue on the product innovation in the U.S., as well as the rest of the world. CSA is our first launch. We are looking to go through additional verticals such as technology and parts and improving that user experience.</p>
+          <p>And then the last thing I would highlight in the U.S. that I think &#x2013; or I know you will see us a little more from eBay Buyer Protection. I mentioned that trust on eBay is improving. Interestingly, consumers or buyers that have had experience with the eBay Buyer Protection report significant increase of satisfaction after they've had it because they either got their item or they got their money back.</p>
+          <p>And yet our research is saying, actually not many users are yet aware of eBay Buyer Protection. So you will see us increasing the awareness around the eBay Buyer Protection which we hope continues to give U.S. consumers confidence that eBay is a trusted marketplace where they can find a wide selection of great deals.</p>
+          <p>So our &#x2013; Lorrie Norrington and our U.S. team are very on top of executing between now and the remainder of the year.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Great. That's helpful.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Spencer, relative to the eBay business operating margins, in the second half of last year we were at about 42% and what we said at the time is we expected that to be roughly flat for the full year of 2010 and that hasn't changed. As you know, Q1 was about 42. The second quarter was 40, and we still expect full year to be 42.</p>
+          <p>And the dynamics haven't really changed. Good productivity by doing things smarter, for the most part, take rate, year-on-year will come down. We'll spend more on product and more on trust with higher resolution &#x2013; the eBay protections program, and Gmarket, on a year-over-year basis, for the first half of the year weighs down margins a bit due to the mix &#x2013; the mix effect. But for the full year, 42% last year, and we expect that to be roughly the same during the course of this year.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Okay, thank you. And our next question is coming from Gene Munster [Piper Jaffray].</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Good afternoon and congratulations. It sounds like the clothing vertical, the fashion vertical has been a hit and as you continue to kind of define eBay in the marketplace, I know a year and a half ago, you talked a lot about that. That's playing out now. Are there any other verticals that you could see putting an emphasis on to help really establish eBay's value proposition, I think, in what can be a confusing ecommerce environment for consumers?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, sure, Gene. What we said a year ago is that our source of differentiation, the thing that we were going to be known for was having the best deals on what we called secondary market. Increasingly we are calling it off-price inventory, right? It can be new inventory. It can be pre-owned inventory, but it is off-price. Think about it as the online outlet mall. And our target segment is the shopping enthusiast.</p>
+          <p>And so we picked clothing as the first category to really focus on because it's a large &#x2013; a large segment that frankly has not yet come online that much and it requires innovation to come online because it's almost an unnatural act to buy clothing online because you want to try it on. And so, it's already was one of the largest categories on eBay with $5 billion in GMV. We brought a lot of additional inventory on, things like, I mentioned earlier, the Tag Heuer watches in our Fashion Vault.</p>
+          <p>If you go to the U.K. site, you'll see Fashion Outlets and Savile Row has opened up a store on eBay where they're selling off-price Savile Row suits and Brooks Brothers and others. So we're bringing on additional inventory and then that user experience you see on the fashion tab on eBay or on the fashion app on the iPhone is a more powerful way to bring that inventory to life for the shopping enthusiast.</p>
+          <p>Now I go through that because we will be repeating that same formula, if you will, in consumer electronics, in auto parts and other categories over the next six to 18 months, where we'll go out and try to identify, what are the best sources of off-price inventory? Our eBay sellers, the 25 million eBay sellers provide a lot of that, but there are additional sources of inventory that we can now add on and scale. So whether that's auto parts inventory or whether that's consumer electronics, we will go out and acquire the inventory and then with our new search platform, we have more capacity and more flexibility to build category specific search experiences. And you will see us over the next 12 to 18 months do that in technology and in auto parts and then we'll just continue working our way down the line.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>And just the baseline today really is apparel, is the one, probably your strongest vertical?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, it's the one that has &#x2013; it's the one where it best illustrates a different user experience, right? Which is that fashion tab. The other area where we are driving a different user experience obviously is mobile. The iPad app and the iPhone app but these are the first areas where our platform is not holding us back. In fact, our platform, we are building off of it in a way that allows us greater flexibility and agility and Mark Carges and his team have used clothing to be first. We are now doing some analogous things in the consumer electronics and technology sector, which is another large category on eBay and on the auto parts area, which is another large category on eBay.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Great. That's helpful, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thank you. Our next question is coming from Steve Weinstein [Pacific Crest].</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Great, thank you. When you were talking about the change you made in the U.S. and some of the difficulties you're seeing now, you said it was analogous to what happened in Europe as you first started the process. I'm curious, can you tell us, after you made the changes in Europe, how long did it take you to tweak the model to get it to where you wanted? Do you think we can make a similar assumption about the U.S.? Can you talk about what might be different about the U.S. market, compared to what you were dealing with in Europe, other than it's just a lot bigger? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Sure. Let me just summarize what we did in Europe and then what the results were and then I will talk about the U.S. In Europe, we actually made separate changes around auction pricing and around fixed pricing in Germany and the U.K. And so we made four different pricing changes across the two countries over what was a nine-month period in the Q4 of '08 and the first quarter of '09. And we did it because we weren't certain of what the short-term impact would be and we wanted to make sure we moderated any risk.</p>
+          <p>And after each one, we made a series of adjustments to try to, if you will, balance the marketplace. The net result was in the sort of latter half &#x2013; let's say fourth quarter of 2009, we saw, particularly the U.K. marketplace which is the first place we did it, start to have a good balance of where business sellers were listing in fixed price format in volume, and selling in fixed price format and consumer sellers were listing in auction format which was a better way for them to sell. And that combination was leading to more velocity in the U.K. and in the German site.</p>
+          <p>So it took what I said in last quarter, it took two or three quarters for it to really work its way into &#x2013; into a good place, and we anticipate it to be the same thing in the U.S.</p>
+          <p>What's different about the U.S. was it felt riskier to do up front because we had 50 million listings in stores. So we had, you know, roughly 30 million core listings, 50 million fixed listings that were not in core search and coming out of the quarter, we moved all 50 million of those fixed listings into core search and added 10 million new listings and frankly, our sore search engine held up in Q2 in the U.S. But we held the auction/fixed price mix constant and that's what we are now adjusting. We will adjust between now and the end of the year. We are always quite thoughtful in search to make sure that we don't &#x2013; it's such a powerful part of our site, we need to make sure that we don't overcorrect but we will make a series of incremental changes and that combined with the changes in trust, that combined with the changes in the vertical experiences that I described earlier are what, you know &#x2013; the formula that we are pursuing that we think will allow us to be the winner in the secondary market or the off-price market.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Okay. Thank you. Our next question is coming from Doug Anmuth [Barclays Capital].</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Great. Thanks for taking the question. Two things, first, John, I was just hoping you could give some more color on your view on the macro environment here, heading into the back half and on overall retail.</p>
+          <p>And then secondly, an update potentially on the use of cash and is it possible for you to potentially bring back more cash from international at some point and what's the update on shifting the BML loan balance more towards international? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Sure. Maybe I will take the first part and, Bob, you take the second.</p>
+          <p>In the macro environment, here's what we see, and it's not anything different than what the publicly reported numbers have been, which is in the U.S. consumer spending softened each month during the quarter and you saw that in U.S. retail sales. You saw that in U.S. ecommerce sales and we saw that on eBay and in the PayPal Merchant Services business in the U.S. So that's why, as Bob said, we are cautious in the U.S. about the second half of the year in terms of a macro environment.</p>
+          <p>The other macro factor we saw, again Bob referenced earlier is the -- in essence, it was the weakening euro reduced imports to Europe, both from the U.S. and from Asia. And so call that a strengthening dollar and weakening euro, but because Asia's pegged to the dollar, it had an impact on the exports out of the U.S. and exports out of Asia into Europe. And again, we don't see that really changing in the second half of the year, although far be it from us to be predictors of currencies.</p>
+          <p>So, you know, we are focused on &#x2013; we are trying to focus on what we can control and we can't control the macro environment. We have some caution around the macro environment and we are focused on what we can control which is our user experience and our execution.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>And Doug, before addressing the cash, maybe I would put a fine point on John's comments. You know, I would say that virtually every metric we look at, both external metrics you see and our own internal metrics, particularly with PayPal and the visibility that it has to a broader base of merchants, we did see a big slowdown in the end of May and during the course of June. And so that does, you know, in terms of the guidance we provided, while we have some things we feel great about, you know, the guidance we provided is influenced by what I'd characterize as, you know, a cautious outlook on the U.S. economy based on what happened in the month &#x2013; in the month of June, so just a fine point on John's comments.</p>
+          <p>In terms of cash, yeah, we've had this opportunity/challenge for a while of having this strong balance sheet, wonderful cash position, and how do we ensure we get that cash in the right place so we have ultimate flexibility to deploy as appropriate? As you know, we were successful with, you know, very legitimate business purposes to bring a couple billion dollars back two years ago, $1 billion back at the end of last year. So we continue to look for ways to repatriate in a tax efficient manner.</p>
+          <p>One of the possibilities is, you know, we feel very good about the Bill Me Later loan portfolio, and the prospects for growth here in the U.S. so that growth will be a user of cash. At the same time, we would love to be able to use our offshore cash and our Luxembourg bank to be the source of cash to finance that growth and that's something that we &#x2013; we continue to pursue, and we'll keep you updated as we go, but our challenges, great balance sheet, great cash flows, get it in the right place and have ultimate flexibility to do the things we think are going to drive long-term shareholder value.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Operator, we have time for one more call -- one more question, sorry.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Okay, we'll take our last question for today from James Mitchell [Goldman Sachs].</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thank you very much and I apologize in advance for kind of wasting the last question on a super financial question. But I wonder if we can dive into the impact of FX a little bit. First of all, to what extent you hedged for FX for the eBay and PayPal businesses entering the second quarter and then today?</p>
+          <p>And secondly, if I look at your full-year guidance, a $0.10 reduction in EPS due to FX, equates to about $130 million net income impact and about $160 million pre-tax income impact, which seems like quite a big number, on the $250 million revenue impact.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Okay. First, I think your first question, James, was related to our hedging coming into the second quarter and I will macro and then deep dive. First, for the most part, you know, we try to within a quarter, try to hedge the lion's share of our earning at risk in the quarter. So we were fairly well protected coming into Q2. Obviously, you know, what happened was revenue relative to our guidance was probably off by about 35 million due to currency changes.</p>
+          <p>In terms of income or EPS, the negative impact is about half a cent. So the $35 million top line challenges, we had hedged a portion of that and had a relatively modest impact on EPS in the quarter, relative to where we were on April 20, you know, whenever our last earnings call was.</p>
+          <p>So we try to protect our earnings within the quarter, at the beginning of the quarter for the most part against dramatic swings.</p>
+          <p>In terms of our full year, you know, the guidance we gave, the 250 and the $0.10, that was based on, you know, we gave you our outlook for the year back in January, and we're trying to update where we were then and where we are now and isolating for currency. The 250 million is simply at the &#x2013; you know, at the simplistic level over half of our business is outside the U.S. It's primarily, the euro, the pound and the Aussie dollar. Those from the beginning of the year to today have depreciated quite a bit vis-&#xE0;-vis the U.S. dollar and we need to bring those earnings back in the second half &#x2013; or for the full year.</p>
+          <p>It did impact our EPS in the first quarter. It did impact it in the second quarter and through the first half, I would say about 100 million top line, and $0.03 bottom line, we've already had to deal with. For the second half, it will be another 150 million and $0.06 to $0.07 on the bottom line because a lot of our hedging goes in place at the beginning of the quarter.</p>
+          <p>So full year 250 million, $0.10 in earnings, important to emphasize that the lion's share of that will be offset by the progress and the momentum we are seeing on the PayPal business, both top line and through margins &#x2013; operating margin expansion.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>So the $0.10 full year impact includes the impact of sort of re-hedging for the second quarter at a more adverse exchange rate and then re-hedging again for the third quarter and so forth?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Exactly.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>All right, thanks everybody. We will talk to you next quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Okay, ladies and gentlemen, this does conclude your conference for today. Everyone have a great day. You may now disconnect.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

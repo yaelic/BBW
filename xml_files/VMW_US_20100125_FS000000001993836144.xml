@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1280609" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q4 2009 Earnings Call</title>
+    <date>2010-01-25</date>
+    <companies>
+      <company>59359</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Michael Haase, Investor Relations</participant>
+      <participant id="2" type="corprep">Mark Peek, Chief Financial Officer</participant>
+      <participant id="3" type="corprep">Tod Nielsen, Chief Operating Officer</participant>
+      <participant id="4" type="corprep">Paul Maritz, President and Chief Executive Officer</participant>
+      <participant id="5" type="analyst">Adam Holt</participant>
+      <participant id="6" type="analyst">Heather Bellini</participant>
+      <participant id="7" type="analyst">Derek Bingham</participant>
+      <participant id="8" type="analyst">John DiFucci</participant>
+      <participant id="9" type="analyst">Brent Williams</participant>
+      <participant id="10" type="analyst">Laura Lederman</participant>
+      <participant id="11" type="analyst">Kash Rangan</participant>
+      <participant id="12" type="analyst">Kaushik Roy</participant>
+      <participant id="13" type="analyst">Jayson Noland</participant>
+      <participant id="14" type="analyst">Sunil Koshie</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good afternoon. Welcome to VMware's Fourth Quarter and Full Year Earnings Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks there will be a question and answer period. At this time I'd like to turn the call over to Mr. Mike Haase, Vice President of Investor Relations. Mr. Haase, you may begin your conference.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks and welcome to VMware's fourth quarter and full year 2009 earnings conference call. On the call we have Paul Maritz, CEO; Tod Nielsen, COO; and Mark Peek, our CFO. Following their prepared remarks we will take your questions. This call is being simultaneously webcast on our website. A press release was issued after close of market and is also on our website.</p>
+          <p>Statements made on this call that are not statements of historical fact are forward-looking statements subject to Safe Harbor provisions. This includes statements with the words will, believes, expects, continues and similar phrases that denote future expectation or intent. This includes but is not limited to statements regarding our financial outlook, future product offerings, and future demand.</p>
+          <p>These statements are based on current expectations as of the date of this call and are subject to uncertainties and changes in condition, significance, value and effects as well as other risks detailed in documents filed with the Securities and Exchanges Commission, including our quarterly report on Form 10-Q for the period ending September 30, 2009 that may cause actual results to differ materially from those set forth in our statements.</p>
+          <p>In addition, during today's call we will discuss certain non-GAAP financial measures. These non-GAAP financial measures which are used as measures of VMware's performance should be considered in addition to, not as a substitute for or in isolation from GAAP measures. Our non-GAAP measures exclude the effects on our GAAP results of stock-based compensation, amortization of intangible assets, employer payroll tax on employee stock transactions, the net effect of amortization and capitalization of software, and acquisition-related items.</p>
+          <p>You can find additional disclosures regarding these non-GAAP measures including reconciliations with comparable GAAP measures in our earnings release for the period ended December 31, 2009, and on the Investor Relations page of our website.</p>
+          <p>The webcast replay of this call will be available for the next 30 days on our company website under the Investor Relations link.</p>
+          <p>Our first quarter quiet period begins at the close of business March 17, 2010. Also, unless otherwise stated, all financial comparisons in this call will be in reference to our results for the comparable period of 2009.</p>
+          <p>With that, let me hand it over to Mark.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks, Mike, and good afternoon, everyone. We are pleased with how far we have come and what we achieved during 2009. Despite very difficult global economic conditions, we successfully delivered on two major product releases, vSphere and View 4; began billing and collecting in local currency; and invested in our global market footprint. We also joined forces with SpringSource and the integration of people, products and culture has gone very well. In summary, we are pleased with how we weathered 2009 and although license revenue declined 13% during the year, we achieved 8% growth and significantly increased our deferred revenue and cash.</p>
+          <p>Full year free cash flows were $840 million, an increase of 39% from a year ago. Our cash flow's performance reflects good execution in cost management, strong product releases, and a customer base that clearly finds significant value in our products. Free cash flow per share was $2.10, an increase of 38% over 2008.</p>
+          <p>We ended 2009 with an outstanding fourth quarter including record revenue and non-GAAP operating profit. Although there continues to be concern around the global economy, we certainly have better short-term visibility than we had in the first three quarters of 2009. Revenues for the fourth quarter were $608 million, an increase of 18% from a year ago, and 24% sequentially.</p>
+          <p>During the quarter we had a particular focus on upgrading customers to vSphere Enterprise Plus. The field in our channel did a great job of executing on this promotion, driving more than $100 million in total upgrade bookings. The fourth quarter was also marked by pent-up demand on the part of our customers, and we definitely believe we were the beneficiary of Q4 capital spending. So although we are very pleased with our performance during the fourth quarter, we approach 2010 cautiously with an understanding that the world is fragile, both politically and economically.</p>
+          <p>Q4 license revenues were $304 million. Although down 3% from last year, license revenue increased 27% sequentially. The software maintenance portion of our services revenues was $246 million, up 53% compared to last year. With the launch of vSphere, certain customers needed to be brought current on their maintenance to receive their upgrade to vSphere.</p>
+          <p>From a revenue perspective, the back maintenance revenue recognized in Q4 more than doubled over last year. We have been focusing on recovering back maintenance for the past three quarters and as a result, for Q1 we expect back maintenance to be down sequentially. In total, renewal bookings grew approximate 67% compared to the fourth quarter of 2008.</p>
+          <p>Professional services revenue was $58 million, up 47% from last year. We benefited from a surge in training and consulting as customers utilized professional service credits purchased in either ELAs or as part of vSphere accelerator kits. We do not expect this benefit in the first quarter and are planning for PSO revenue to decline by approximately $10 million in Q1.</p>
+          <p>Our overall ELA activity level once again included a large number of small and medium sized ELAs, and we had no eight-figure transactions. As a percentage of total fourth quarter bookings, ELAs were approximately 20%. In general, ELA dollar amounts throughout 2009 were smaller than we experienced in 2008 but the activity level was high despite the economic conditions.</p>
+          <p>U.S. revenues increased 15% year-over-year to $315 million and grew 28% sequentially. International revenues were $293 million, an increase of 22% compared to last year, and up 20% sequentially. International revenue growth was driven primarily by improved demand in China, Japan, Brazil and throughout Europe. As a reminder, late in Q2 we started to bill and collect in euro, pounds sterling, yen, and the Australian dollar. Until we have prior year comparables, we won't provide you with a constant currency revenue impact.</p>
+          <p>Now turning to operating expenses. Unless otherwise noted, all references to our expenses and operating results are on a non-GAAP basis, which are reconciled in the press release tables and posted on our IR website. Total operating expenses including cost of goods sold increased 18.3% sequentially to $451 million, driven primarily by sales compensation. We pay our field based on bookings including first year maintenance.</p>
+          <p>As a percentage of fourth quarter revenue, cost of revenues were 11.8%, consistent with the 2009 run rate. Fourth quarter R&amp;D expenses increased sequentially $6 million to $113 million, largely due to the inclusion of SpringSource for an entire quarter. Sales and marketing expense were $213 million or 35.1% of revenues compared with 34.5% in the third quarter. The increase was largely due to higher sales commissions from actual performance compared to quota as well as our ongoing global expansion efforts.</p>
+          <p>G&amp;A expenses were $52 million or 8.5% of revenue, a slightly lower percentage compared to the third quarter. On an absolute dollar basis, G&amp;A had some seasonal increases and expenses.</p>
+          <p>Our operating profit measured on a non-GAAP basis was $158 million or 25.9% of revenue compared with 22.2% last quarter. This beat our forecast range due to operating leverage from our revenue performance. As a reminder, the fourth quarter was our first full quarter with SpringSource and this impacted our fourth quarter margin by approximately 100 basis points.</p>
+          <p>Diluted non-GAAP EPS was $0.31 a share on 411 million diluted shares. Our non-GAAP tax rate was 18%. A year ago non-GAAP EPS benefited $0.05 from a tax credit. Taking this into consideration, non-GAAP EPS was flat to a year ago.</p>
+          <p>For the full year, total revenues were $2 billion, up 8% from 2008. The year was driven by 48% increase in software maintenance revenues and a 16% increase in professional services revenues. License revenues were down 12.6% for the year.</p>
+          <p>U.S. revenues increased 5% and our international revenues increased 10%. As a percentage of total revenues in 2009, the U.S. was 51% and international was 49%. The non-GAAP operating margin for the year was 23.9% and the fully diluted EPS was $1.00.</p>
+          <p>Now on to our balance sheet and cash flow statements, our balance sheet remains strong with cash at yearend of $2.5 billion. We continue to become more efficient in our capital spending as we focus on free cash flow. Our net fixed assets declined for the fourth consecutive quarter. Although capital spending may vary from quarter to quarter, we are monitoring this closely.</p>
+          <p>In Q4 total deferred revenues increased 34% sequentially to $1.3 billion, driven by the strong bookings of the quarter, including our Enterprise Plus upgrade program and sales of multiple years of maintenance. Over 90% of our deferred revenue is recognized ratably with the passage of time or delivery of professional services. The remainder is tied solely to product release events. The timing of recognition of deferred revenue related to product releases is not a material factor in our revenue guidance for Q1 or 2010. For the year, total deferred revenue increased 52%.</p>
+          <p>Our net accounts receivable was $534 million, and our DSO including the change in deferred revenue was approximately 52 days. Again, the high receivables balance was driven by a particularly strong December.</p>
+          <p>The interest rate on our $450 million note with EMC adjusts each quarter at LIBOR plus 55 basis points. Our Q1 2010 rate is 80 basis points or 4 basis points lower than Q4 2009. Likewise we expect our investment yields in the first quarter to be lower than Q4 of 2009.</p>
+          <p>Non-GAAP operating cash flows, which exclude adjustments for capitalization of software development costs and excess tax benefits from stock compensation, were $282 million for Q4. Free cash flows for the quarter were $259 million. For the year, non-GAAP operating cash flows were $943 million, an increase of 19% from the same period ended December 2008. For the same period free cash flows increased 39% to $840 million.</p>
+          <p>2009 free cash flow per share was $2.10, an increase of 38% over 2008. Although free cash flow per share can be volatile in the short term, we are paying increasing attention to the metric as a measure of financial progress in our business, as it balances operating results, cash management, capital efficiency and share dilution.</p>
+          <p>Our full-time head count at the end of the fourth quarter was approximately 7,100 people, about flat compared to last quarter. For the year we added approximately 400 employees.</p>
+          <p>The fully diluted share count increased to 411 million shares for the fourth quarter, driven by the impact of a higher share price on the calculation of diluted securities and equity issued for the SpringSource acquisition. Free cash flow per share was $0.63, an increase of 37% over Q4 of 2008. We expect that our diluted weighted average share count for Q1 will be approximately 415 million shares, and a weighted average of 425 million shares for the full year.</p>
+          <p>Before I turn it to Tod, I want to share with you how we are looking at the business to give you some assistance in developing your estimates. During the fourth quarter we were the beneficiary of pent-up customer demand, yearend capital budget spending, and our promotion to upgrade to Enterprise Plus. While we welcome the improved short-term visibility in our business, we are planning conservatively for 2010 and assuming a slow and possibly bumpy economic recovery.</p>
+          <p>We believe that our first quarter revenue will follow normal seasonal patterns for license revenue, and total revenue will be within a range of 580 and $600 million. Although Q1 is a difficult comparable for us, we do expect single-digit license revenue growth. We believe that the first quarter non-GAAP operating margins will be between 23 and 25% after taking into account our adjustments to GAAP operating income that that Mike disclosed at the start of the call. We expect our GAAP operating margin to be approximately 13 to 14 percentage points lower than the non-GAAP margin.</p>
+          <p>I recognize that one of the downsides to our strong fourth quarter and a modest return to license revenue growth a quarter ahead of schedule is the risk that your revised forecasts for the remainder of 2010 and particularly the second half of the year could be too optimistic. We continue to set six-month quota plans and operate our business in a half-yearly rhythm. We do however want to provide a couple of data points for the full year 2010.</p>
+          <p>We are building our spending and capital budgets on total revenue for the year of between 2.45 and $2.55 billion, or growth of 21 to 26%. Remember, the second quarter of 2009 was our low point on license and revenue growth for the year, and that we believe Q4 2009 has established a very high bar for Q4 2010.</p>
+          <p>From a margin perspective, we will continue to invest both organically and through acquisition. We look forward to closing our recently announced acquisition of Zimbra this quarter. We successfully managed through what we hope is the worst of the great recession. Our employees, particularly in the U.S., were asked to sacrifice a lot last year. In the fourth quarter we reinstated contributions to the 401(k) retirement plans and we have budgeted for a merit increase effective in Q2.</p>
+          <p>We will continue to invest and I don't expect that we will set any company operating margin records for 2010, but rather return to the 25% margin targets we managed to in 2007 and 2008. This includes about 150 basis points dilution from SpringSource and Zimbra combined. We anticipate that for 2010 our GAAP and non-GAAP tax rates will be approximately 22%. CapEx excluding acquisitions should run at approximately the same percentage of revenue as 2009.</p>
+          <p>To summarize, 2009 was a good year and we are pleased with our execution and solid performance throughout the year. We are planning for the future, assuming that the economic recovery will be gradual. We continue to manage our resources prudently, while making the key investments necessary to maximize our long-term growth in free cash flow per share.</p>
+          <p>With that, I will turn it over to Tod.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thanks, Mark. Good afternoon. As you'll recall, I spent a significant portion of my prepared remarks the last two quarters discussing the launch of vSphere and the effort underway to drive important operational improvements here at VMware. These efforts continue to progress nicely, illustrated by a solid fourth quarter, positive upward movement in license revenue, and continued strength of several key indicators of our health.</p>
+          <p>For example, customer satisfaction continues to trend at industry highs, with 90% of customers responding they are satisfied with VMware and plan to continue to purchase down the line. In the second half of 2010 we added approximately 20,000 customers and 3,000 partners to the VMware family. We also experienced continued strength in renewals bookings, which performed very well and were up 67% year-over-year.</p>
+          <p>We are seeing strong interest in vSphere as measured by over 800,000 downloads since it became available in late May of 2009. Further, our web polls and customer survey data show that at least 75% of customers polled expect to upgrade to vSphere, with 38% doing so in the fourth quarter.</p>
+          <p>The success of our vSphere Enterprise Plus upgrade promotion highlights the fact that customers are seeking robust virtualization solutions, which provide functionality well above that of a basic hypervisor. Our strategy is to continue to invest in the innovation of our core virtualization products to ensure we continue to lead our customers through their virtualization journey. The strength of the quarter also signals that vSphere is making its way through the channel with strong channel support and is beginning to positively impact our revenue.</p>
+          <p>I'm pleased that we are beginning to see positive signs of productivity in our geographic expansion investments. In fact, we've achieved double-digit growth in EMEA and Asia Pacific sequentially quarter-over-quarter and year-over-year. As mentioned on previous calls, there is significant headroom in our core virtualization opportunity within international and emerging markets. We will continue to invest in sales capacity and distribution in these markets.</p>
+          <p>Operationally, we ended 2009 stronger across all aspects of our business operations, with core improvements across field and partner enablement, customer support, IT systems and process improvements, conducting business in local currency, and defining a consistent message for our various routes to market.</p>
+          <p>The back office improvements in particular enabled us to process more orders this quarter than ever before, while maintaining flat head count within sales operations. In Q4 we launched our desktop virtualization offering, View 4. This was an important milestone for VMware to bring to market a solution that further addresses the cost and quality issues that have inhibited broader adoption of desktop virtualization. Product reviews and initial customer reaction have been positive.</p>
+          <p>In Q4 60% of the proof of concepts that our pre-sales technical team conducted were centered on virtualize-ing the desktop. This said, I want to reinforce that we are early in the desktop virtualization market and the pace of growth is unknown. Though we are expecting strong revenue growth from desktop in 2010, it is still off a relatively small base. We are positioned well and expect to win our fair share of this opportunity, but we remain cautious that notable revenue contribution from the desktop area is still a ways off.</p>
+          <p>Overall, I am pleased with our performance in the quarter and for the entire year, given the substantial economic challenges 2009 had for the entire industry. Our field execution is impressive. We are continuing to improve close ratios and becoming more enterprise solution oriented. The task in 2010 is to build on our leadership position within the most important software category CIOs are investing in today, while helping our customers along their journey to cloud computing.</p>
+          <p>I'll now hand the call over to Paul.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Thanks, Tod. First, I'd like to extend my thanks to all parts of the company and our partners who have helped us weather the storm of 2009, and exit the year in what's a strong position. We believe that our industry is in the midst of a major shift. The great recession of 2009 has convinced customers they can't continue to simply prop up aging, inflexible and costly infrastructure forever. They're looking to fundamentally remove complexity and looking for a path to a more cost effective and agile world.</p>
+          <p>As you've heard us emphasize before, we believe that virtualization is key to this. It's not just a tactical ingredient to enable more efficient utilization of hardware, but it is in fact a strategic layer on which to build the data center of the future and to build a bridge to the cloud. In fact, virtualization is probably the only realistic way that most customers can embark on such a journey in an evolutionary way. We believe that this evolutionary journey resonates strongly with our customers and represents a major opportunity for us, given our strength as the unquestioned virtualization leader.</p>
+          <p>Over the past year we've worked hard at strengthening our operational capabilities to get full benefit from additional investments in both organic R&amp;D as well as acquisitions. This will allow us to accelerate our progress in both the dimension of data center infrastructure, management and automation, as well as in the complementary dimensions of application development, middleware and solutions.</p>
+          <p>The strength in demand that we saw during the last quarter of 2009 is testament to the value our customers see in virtualization technology and the opportunity that exists before us. vSphere 4.0 and its related management products were a big step forward. We are planning to maintain a consistent, measured tempo of vSphere related releases that build upon each other and enable our customers to take digestible steps, each of which will have value in and of itself, which will also move us in the right direction strategically.</p>
+          <p>Specifically this year we plan to strengthen and widen our value proposition to what is being called the private cloud, enabling our customers to get further utilization and automation out of their X86 related compute, storage, security and networking resources, enabling them to operate and relate to their own customers as though they were an internal service provider.</p>
+          <p>In doing so, customers will also be preparing themselves to be able to reach out into the public cloud, and to take advantage of compatible infrastructure and management being offered by our public vCloud partners, when and if it makes sense for them to do so.</p>
+          <p>We'll also be investing in and strengthening our desktop virtualization offerings as Tod said, which will enable customers to get further value from this internal or private cloud. In parallel to providing the customers with a path forward for their existing data centers, there's a complementary opportunity to guide application development and middleware to fully benefit from the underlying infrastructure, and to offer complete new services that sit on top of that infrastructure.</p>
+          <p>You saw us make a big investment in this regard last year with the acquisition of SpringSource. After one full quarter of operating together, we are even more convinced of the potential for integration and innovation. While keeping and enhancing Spring as an open framework targeting multiple environments, we expect to see new products that specifically integrate Spring and vSphere appear in 2010.</p>
+          <p>We are now in the process of taking another complementary move with the acquisition of Zimbra. We believe that Zimbra has the right underpinnings to be offered as a scalable solution either on-premise or through our service provider partners as a cloud-based solution. Upon closing, this will represent a big step forward in being able to offer complete services that sit on top of VMware infrastructure, be it in the private or the public cloud.</p>
+          <p>From a financial point of view, as Mark noted, we're continuing to manage the company conservatively, keeping a close eye on costs and aiming at all times to maintain healthy margins. You can see some of the results of the cost containment in the efficiency actions we took in our 2009 results. And I would again like to thank our employees who contributed to these efforts.</p>
+          <p>We intend to keep the ball moving forward at all times in terms of investing for the future. We intend to be one of the major beneficiaries of the coming shift towards new computing architecture that will allow greater efficiency and simplicity, both inside and outside the data center.</p>
+          <p>Now with that, we'll open up for questions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="1" type="a">
+        <plist>
+          <p>Great, thanks. Let's start the polling process please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thanks you. <mark type="Operator Instructions" />. And we'll go first to Adam Holt with Morgan Stanley.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Good afternoon and congratulations on the quarter. Just two quick questions for me. First, what impact do you think a reacceleration in the server market had on your fourth quarter, and what is your outlook in terms of server growth heading into the first half of the year?  And then secondly, should we expect to see Q1 be the bottom in terms of license growth?  It sounded like you were implying that, but just to be clear?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well, I'll take the server question. We saw some good progress with all of our OEM partners across the board in Q4. And going forward we're still cautious about server growth. The analysts are saying they expect it to be about 2% in 2010. And as we've said in the past, we're somewhat loosely correlated to what's going on with the server shipments and we're continuing to do great things with our partners like HP, IBM, Dell and others.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>And Adam, on license growth, we're guiding to single-digit license growth in the first quarter and then reminding you that the second quarter is an easier comp for us and so we'd certainly expect growth. But as you look at the back half of the year, remember that this fourth quarter sets a high bar for us for the fourth quarter of next year.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>And if I could just ask a quick follow-up, it sounds like there were some special incentives in the fourth quarter that helped drive the strength. Do you anticipate any of those incentive programs moving into the first half of the year?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Not that we can think of at this time. And any incentive was just a promotion. We're going to continue to have the promotion in place, but there was some special pricing for Enterprise customers to upgrade to Enterprise Plus.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Terrific, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our next question comes from Heather Bellini with ISI.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Hi, good afternoon and also congratulations. Wanted to ask you about what gives you increased confidence in your outlook in 2010?  I think everybody's surprised by how strong it was, yet you also mentioned that you guys are trying to be somewhat conservative. So I guess I'm just wondering if you could help characterize for us your close rate assumptions driving the guidance. And then also my follow-up would be how should we be thinking about the split in calendar '10 between license and service revenues as a percentage of revenue?  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks, Heather. This is Mark. In looking at guidance for 2010 and reflecting back on where we were a year ago and frankly through the first half of 2009, we were really like many others flying blind as far as what demand was going to be. And many of our customers were struggling with budgets and where their capital spending was going to happen.</p>
+          <p>In the fourth quarter we began to see better visibility and that appears to have continued, where our customers now are in fact establishing their capital budgets for 2010. They're going on with business. We do hear caution about how the global economy will recover, and we are hearing a certain air of fragility should the world be hit with some other major setback. So we have better confidence in our pipeline, better confidence that our close rates will follow historical standards, and as a result, have confidence but caution with respect to 2010 guidance.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>And what about the license/services split?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, the &#x2013; certainly the midpoint of the annual guidance is 2.5 billion. What we've &#x2013; what we do is we're planning on single-digit growth in the first quarter. And if you look at the historical track record on service and maintenance runoff, it should get you in the ballpark with respect to the split. But we would expect that it would be relatively consistent with historical patterns.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our next question comes from Derek Bingham with Goldman Sachs.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Hi, everybody. Congratulations as well. I think you had commented publicly before the holidays or maybe it was reiterating the comments that you had given in the third quarter &#x2013; on the third quarter call about ASPs being stable and maybe even up a little bit. Just wanted to check in on that to make sure that that's still the case or what's the latest on ASP patterns?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, Derek, this is Mark again. Yeah, ASPs did remain stable through the period. We did benefit from the Enterprise Plus upgrade promotion. But across the board with SKUs including Essentials, they largely balanced out. But there was stability in discounting and our ASPs remained constant.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay, thank you. On &#x2013; related to the operating margin, you gave pretty clear guidance, Mark, in terms of what we should expect for 2010. But you had held the head count pretty stable it looked like quarter-over-quarter. Are we going to see an acceleration in hiring plans starting off in Q1? Has that already kicked off or what should we expect?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, we certainly have plans to grow &#x2013; continue to grow in our sales and marketing and our engineering organizations as well as enough support from an operating perspective to support both orgs. We believe there's a lot of opportunity both on the product front and in continued geographic expansion, so I would expect head count growth to increase over 2009 (sic) [2010].</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay, perfect, thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from John DiFucci with JP Morgan.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thanks. The results here were obviously very impressive relative to expectations, license down just a little bit year-over-year. Just curious just upon your own judgment, how much of the upside was due to improving, macro which appears to be happening, versus the maturation or the maturity of VMware's operations, as you have gotten more efficient and more effective in dealing with partners?  And then secondly, Mark, if you could please explain what that &#x2013; exactly how that Enterprise Plus upgrade cycle is working?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Sure, this is Tod. I'll take that. So I think the contributing factors in Q4 were all that you mentioned. There's &#x2013; the macro economy certainly helped, the end of year budget flush we saw with customers expending their remaining budget, as well as in our Enterprise Plus promotion certainly helped things. So we saw strength across the board in all the geographies, in our channel business, our ELA business, you know, across the board.</p>
+          <p>With respect to the Enterprise Plus promotion, what happened is December 15, we had a promotion that if you were an existing VMware customer, you could upgrade to the Enterprise Plus, which is the premium SKU, for a discounted price. And December 15 that promotion went away, but the ability for existing customers to obviously purchase and upgrade to Enterprise Plus still exists and will continue to do so.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Is there...?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I might just add there that the &#x2013; under our maintenance arrangements, if you were current on maintenance with VI 3, you received vSphere Enterprise as part of your maintenance arrangement. So this was an upgrade for those customers that had vSphere.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>This is Paul. I'd just like to jump in and say that in terms of VMware's operational capabilities, I don't think we can take full credit for the 2009 &#x2013; the fourth quarter 2009 results. But it is a constant theme that we've been working very hard on to improve the scalability of our backend operations, the professionalism of our sales force and above all, our support services. So while I don't want to say that was that was &#x2013; Tod is right. We had a triple play of good news coming in fourth quarter, but I think in the long run it's going to stand us in good stead.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay, thank you. Just a quick follow-up though on the Enterprise Plus, were there any limitations or was there any way customers were forced to upgrade to Enterprise Plus in any situations? For instance, if they were an existing customer on the Enterprise edition and wanted to buy a new product, could they have just bought Enterprise edition?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah, they certainly can just buy the Enterprise edition and they can continue to do that today. This was a special if you will, price promotion: now only, includes Ginsu Knives kind of thing, opportunity for the customers to make the upgrade. But there was no other issues at hand. And if customers wanted to remain at Enterprise standalone, they certainly can do so.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay, thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll go next to Brent Williams with Benchmark.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Hi, I wanted to focus in on Zimbra for a second. How much of that is an opportunity to deliver virtualization right away?  I mean I understand e-mail has such scalability problems across all sizes of enterprises. But can you give a sense of how much of Zimbra's business is on hosted offerings, how much of it is on on-premise offerings, so we can see just what pull there's going to be for virtualization over the shorter term?  And then relatedly, what's the current employee count at Zimbra currently?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah, this is Paul. I'll take the first point and then we'll update you on the part of &#x2013; Mark can update on the employee count. The majority of Zimbra's revenues today is coming from on-premise operations although the majority of their mailboxes would come out of service provider operations. We actually think that there's opportunity on both.</p>
+          <p>That being said, as Mark implied in his guidance, the revenue levels in the near term are relatively small, so it's a small base that we're building off. We see Zimbra as both an opportunity and a strategic move because this will allow us to show how our underlying infrastructure can handle workloads at any level of scale, and provide a ready-made solution that both our own channels and our service provider channels can take to market.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>And there are about 125 people at Zimbra.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay, and then you mentioned integrating SpringSource and vSphere. I've been looking at SpringSource for some internal development projects that we're looking at to power our firm. And even though I'm pretty much an engineer and an IT guy in some parts of my job, I'm mystified. What exactly does that look like?  Can you give me some more color on how that's going to go?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Well, we think there's an opportunity to have new middleware offerings that essentially embody the SpringSource development model at the top end and which bind to the VMware or vSphere deployment and resource scheduling model at the bottom end. So what you're missing today is the layer of middleware in between that will glue those two things together, and that's what's coming down the pike.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>So I would hear that as like some additional stuff so that the applications can be aware of and take advantage of a particular deployment environment a little bit more?  So it's not about just raw application functionality?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>The whole point is to make it easier to develop applications that are not only quick to develop, but scale better and are above all more easily managed, and in doing so, automate the entire environment.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Great, okay. Hey, thanks for taking the question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll go next to Laura Lederman with William Blair.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yes, thank you for taking my questions and congratulations on a great quarter. Can you talk a little bit about competition, how much you're seeing Microsoft in the Enterprise? I would assume that you're win rates are tremendously high, but are they being used a bit of a price wedge?</p>
+          <p>And also in desktop, who are you seeing there competitively as well?  And also maybe you can talk to us &#x2013; second question, a little bit about future acquisition strategy and is it about broadening the suite?  Just give us a sense of kind of how to think about future acquisitions? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I'll take the competition, this is Tod, and then I'll let Paul take the acquisitions. Competitively we are in a strong position, working well with our customers and really staying focused on our vision and roadmap, leading them through their journey of virtualization, if you will. In the enterprise, we don't really see Microsoft that much in proof of concepts or out there. We are seeing them internationally as far as putting new troops or putting feet on the street. We understand that they've increased their investments of virtualization specialists in Asia Pac and in EMEA, and that certainly would be consistent with their playbook of how they would compete.</p>
+          <p>On the desktop side, Citrix is I guess clearly an incumbent out there that we compete with and &#x2013; you know, with our overall strategy and roadmap and vision we're able to compete very well. So overall, the challenge that we're trying to keep the organization focused on is thinking ahead and not looking back as our competitors are trying to catch up to us. We want to keep moving the ball forward, continuing to differentiate, and add more value to our customers.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thanks, Tod.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>In terms &#x2013; this is Paul, in terms of the acquisition strategy, as I tried to outline in my remarks, we are trying to provide to our customers cloud-like benefits by operating in two parallel dimensions. One is, first of all, is to grow vSphere into a solution that allows them to further automate their data centers and be able to operate internally as though they were a cloud provider. And we will be looking in that sense to coordinate not just compute and memory, but many other aspects of the data center and provide better management for the data center. And we will be doing that first and foremostly by organic development but we'll also be looking for specific technology acquisitions that help with that endeavor.</p>
+          <p>At the same time, we're trying to enable people to develop applications that can further take advantage of our cloud-like approach and manage those applications in a cloud-like manner, and have solutions that they can integrate on to their infrastructure and integrate their applications with. So the second dimension will again be both organic development and technology acquisitions that speak to application development, middleware and management.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our next question comes from Kash Rangan with Merrill Lynch.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Hi, thank you very much. Mark and maybe the rest of the team, I'm wondering if you could help us reconcile the server unit data that Tod talked about, low single-digit growth rate, and yet when I look at the license and use, typical license versus rest split as you said, Mark, I get about license growth of plus &#x2013; well over 20%. I'm just trying to get your help, trying to reconcile the disparity between server unit growth rate and license growth rate. Is it that you're expecting server unit growth rate to actually be much better than what the industry is forecasting or are there other issues we should be aware of? And then I have a follow-up question, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, Kash, I mean the 20% license number growth that you threw out there is &#x2013; causes me to pause because it's higher than I would have gotten to with our guidance and looking at services and professional services over time for 2010. You know, and a reminder that server shipments, although we have license attached to them, we are also selling an installed base. We are selling on ELAs, forwards for server shipments and so it is somewhat of a blended rate and so the relationship is not one to one.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>And &#x2013; this is Paul, the servers aren't only used for virtualization so it is possible to end up inconsistent with a lot of the survey data that people will be having a higher deployment rate of virtualization on servers than they would on certain applications.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Got it. So Mark, I'm hearing my own voice back as an echo so I'll just pause for a second here. So Mark, if I read your comment right, I should not be taking the historical split between servers and license which, if you look at 2009, was about 50/50. So based from your commentary, I should be using perhaps a 40/60, 45/55? In that case I get to what license rate, high single digit, maybe even 10%, just as a observation.</p>
+          <p>And also secondly, wondering if you could also talk about sales and marketing leverage. The company's definitely bigger, growing faster, and I would imagine for a company of your size growing at this rate, you would have even more sales and marketing leverage flowing through to the bottom line. But we're not &#x2013; you're not expecting clearly that to happen. You certainly said that we're going to be at the point where we were in 2007, 2008, yet the company size has doubled. So help us understand structurally the investments you're making in your expense structure to &#x2013; that dampens the margin outlook in the near term?  That's it, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Sure, first on the &#x2013; just the license/services split, the guidance we're providing for Q1 is single-digit license revenue growth and we continue to believe that what's best for our company is to set quotas and to really plan around halves. And so we've done detailed planning and have quotas out for the first half. With the second half it's much more about forecasts and having some expectation as to run rates, et cetera.</p>
+          <p>The best way to get I think a reasonable split is to look at the history of how maintenance runoff occurs. We're now at $1.3 billion in deferred revenue with some track record of how that will amortize over time, and then a little bit of color around the fact that that maintenance will likely decline sequentially in the first quarter, as well as PSO revenue declining $10 million.</p>
+          <p>Regarding cost structure on sales and marketing, first we're investing heavily in emerging markets. particularly outside of the United States and outside of Europe. We are &#x2013; we had a good quarter from a performance perspective and again, since we plan and pay in halves, there was some catch-up really from bookings in the third quarter as well funded in the fourth quarter.</p>
+          <p>Then finally, when you look at the overall margin guidance, we're guiding up over 100 basis points on margin from where we executed on 2009. We are guiding about 150 basis points of dilution as a result of acquisitions. And then when you take into account adding the 401(k) plan back in and adding in merit increases for our employees who haven't &#x2013; who didn't have those essentially over the last 18 months, that's another 150 basis points or so.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our next question comes from Brian Marshall with Broadpoint AmTech. Brian?  Mr. Marshall, please check your mute button.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Next?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Kaushik Roy with Wedbush.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>As a follow-up to the question on Zimbra, it seems like you're getting more and more into applications space. Now getting into applications will get you in direct conflict with your partners and OEMs. How do you mitigate that risk? And I have a follow-up.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Well, the majority of our partners and OEMs are not in the application business. That certainly does put us in conflict with some others in the industry but that &#x2013; to a large extent we're already in competition with those folks. But that being said, we're not getting full on to the applications space. We view this as an enabling technology that will enable users of our infrastructure to have a more complete solution.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Can you quantify the revenue from desktop or VM View, or alternatively, can you &#x2013; are you expecting material revenues in Q4 &#x2013; by Q4 of this year or is it something for 2011?  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, we've &#x2013; from a products perspective haven't broken out desktop separately. And as Tod indicated in his remarks, it's &#x2013; again, it's a year where there's a lot going on from a perspective of proof of concept, et cetera, but it's not yet a material part of our revenues.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>So is it more like 2011 that it would maybe put a material 10% of products?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>It's difficult to say. That's why people run the proof of concepts.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Operator, we're going to take two more questions, please. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Okay, our next question comes from Jayson Noland with Robert Baird.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Great, thank you. A question on ELAs first, Mark, what are your expectations roughly for 2010 and would you expect acceleration in the back half of the year as you start to anniversary things from 2007?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, as we build the pipeline, we're looking at really the channel and what we'll do direct through partners on ELAs. And so each quarter we identify particular accounts that we think either are ready to adopt an ELA because most companies that go into ELAs have been customers historically. We do begin to see enterprise agreements that will expire on their maintenance in the summer of 2010. That said, when we have an opportunity to sell to them like with the Enterprise Plus promotion, we will go ahead and sell prior to the expiration of that deal. So it's &#x2013; again in the first half as we set quotas, ELAs are certainly an important part of it, and then as we go forward in the second half we'll continue to update you on ELAs as a percentage of booking each quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay, and last question from me, Paul, if you could talk about partnerships in general? And then bundles I guess, how important do you see some of these bundles and dedicated solutions becoming?  And is there a risk of complicating the message?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Well, the first question in &#x2013; of our partners, of course we work with a large ecosystem of partners and that remains extraordinarily important for us. And we put a tremendous amount of energy into doing that. And the good news is our number of partners that we work with continues to grow as you would expect. As more and more customers adopt our platform, that attracts more people to want to work with the platform. So that remains a very important fact for us. We invest in dedicated resources to work with and foster that community.</p>
+          <p>In terms of bundles, we're at this point I think the &#x2013; far away from the point where that story would start to confuse the message. At this point in time, we're focused very squarely on our core value proposition and extending that as I said to the private cloud in particular. And that's a very natural value proposition extension, one of which our customers resonate strongly with. So I'm not too concerned about that.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>One thing to add to that &#x2013; this is Tod, is with respect to solutions, we're finding a number of our partners are going out to market and they're looking for some of the virtualization magic that they can put as part of their offering. And so we're seeing some interesting bundles and things we're doing in the healthcare space and other opportunities. But these are primarily led by our partners and we're just a part of that message.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thank you, gentlemen.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our final question will come from Brian Marshall of Broadpoint AmTech.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Hi, sorry about the last time. Can you guys hear me now?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yep, no problem.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Yeah, first of all, congratulations on a great quarter. And &#x2013; so this is Sunil Koshie calling in for Brian. Brian couldn't take this call unfortunately. I'm just wondering if you guys could shed more on the Zimbra acquisition and what it means for VMware's strategy going forward?  It looks like you guys are trying to leverage your strength at the infrastructure level and kind of move up the stack and become more of an end to end player.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Well, it certainly &#x2013; as you said we're trying to leverage our strength in the infrastructure and so first job as I said is to strengthen that infrastructure itself. And the vast majority of our investment and effort and time and IQ is going into growing that underlying infrastructure. But that then presents the opportunity to complement that infrastructure with additional layers and solutions, and that's certainly the motivating fact behind our Spring acquisition and now Zimbra. And we think that in time there's a positive feedback effect that occurs because we can then evolve both the infrastructure and the layers above it to take advantage of each other.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Sure, thank you. conference.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay, thank you very much. That concludes the call.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>That does conclude today's conference. We thank you for your participation.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

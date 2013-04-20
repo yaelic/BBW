@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1533448" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q4 2012 Earnings Call</title>
+    <date>2013-02-15</date>
+    <companies>
+      <company>1562</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep" affiliation="VP-Investor Relations &amp; Enterprise Risk">Jody L. Balko</participant>
+      <participant id="2" type="corprep" affiliation="President, Chief Executive Officer &amp; Director">Albert Monaco</participant>
+      <participant id="3" type="corprep" affiliation="CFO &amp; Executive VP-Corporate Development">J. Richard Bird</participant>
+      <participant id="4" type="analyst" affiliation="Canaccord Genuity Corp.">Juan Plessis</participant>
+      <participant id="5" type="analyst" affiliation="CIBC World Markets, Inc.">Paul Lechem</participant>
+      <participant id="6" type="corprep" affiliation="President-Liquids Pipelines &amp; Major Projects">Stephen J. Wuori</participant>
+      <participant id="7" type="analyst" affiliation="Goldman Sachs &amp; Co.">Ted J. Durbin</participant>
+      <participant id="8" type="analyst" affiliation="TD Securities">Linda Ezergailis</participant>
+      <participant id="9" type="analyst" affiliation="BMO Capital Markets (United States)">Carl L. Kirst</participant>
+      <participant id="10" type="analyst" affiliation="Scotia Capital Markets">Matthew A. Akman</participant>
+      <participant id="11" type="analyst" affiliation="Morningstar Research">David C. McColl</participant>
+      <participant id="12" type="analyst" affiliation="Credit Suisse (Canada)">Andrew M. Kuske</participant>
+      <participant id="13" type="analyst" affiliation="RBC Dominion Securities, Inc.">Robert Kwan</participant>
+      <participant id="14" type="analyst" affiliation="UBS Securities Canada, Inc.">Chad Friess</participant>
+      <participant id="15" type="analyst" affiliation="Credit Suisse Securities (USA) LLC (Broker)">John D. Edwards</participant>
+      <participant id="16" type="analyst" affiliation="Bloomberg News">Jeremy van Loon</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good morning, ladies and gentlemen. Welcome to the Enbridge Incorporated Fourth Quarter 2012 Financial Results Conference Call.</p>
+          <p>I would now like to turn the meeting over to Jody Balko, Vice President, Investor Relations and Enterprise Risk.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, John. Good morning and welcome to Enbridge Inc.'s fourth quarter of 2012 earnings call. With me this morning are Al Monaco, President and CEO; Richard Bird, Executive Vice President, Chief Financial Officer and Corporate Development; Steve Wuori, President of Liquids Pipelines; and John Whelen, Senior Vice President and Controller.</p>
+          <p>This call is webcast, and I encourage those listening on the phone lines to view the supporting slides, which are available on our website. A replay and podcast of the call will be available later today, and a transcript will be posted to our website shortly thereafter. The Q&amp;A format will be the same as always. We'll take questions from the analyst community first and then invite questions from the media.</p>
+          <p>I would ask that for everyone's benefit, you wait until the end of the call to queue up for questions and that questions are limited to two per person. Please reenter the queue if you do have additional queries. Lastly, I would also remind you that Jonathan Gould and I will be available after the call for any follow-up questions that you may have.</p>
+          <p>So before we begin, I'd like to point out that we may refer to forward-looking information during the call. By its nature, this information applies certain assumptions and expectations about future outcomes, so we remind you it is subject to the risks and uncertainties affecting every business, including ours. This slide includes a summary of the more significant factors and risks that might affect future outcomes for Enbridge, which are also discussed more fully in our public disclosure filings available on both the SEDAR and EDGAR systems.</p>
+          <p>I will now turn the call over to Al Monaco.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks, Jody, and good morning, everybody. I'll start by providing a brief summary of our fourth quarter results and our business and operational highlights, but after that I'd like to spend a couple of minutes on the key issue facing our industry, which is the significant price discounting of Western Canadian and Bakken crude and the various initiatives we have in progress to tackle that challenge, and that includes the joint venture that we announced earlier today to move crude to the Eastern Gulf Coast refining market, which we're very excited about.</p>
+          <p>Earlier today, we announced our fourth quarter results. As you saw, adjusted earnings came in at $327 million or $0.42 a share, bringing the full-year EPS to $1.62. This represents a year-over-year EPS increase of 11%, in line with our guidance range. We are pleased with those results, especially given the amount of equity pre-funding that we undertook last year, and we did that because of the magnitude of our secured capital program that grew larger as we moved through the year.</p>
+          <p>2012 was, however, a tough year for NGL prices, which affected our Enbridge Energy Partners gathering and processing business even after our hedging programs. But despite those headwinds, we've delivered another excellent year of EPS growth. Now Richard will provide more color around the pre-funding and our segmented performance in a few minutes.</p>
+          <p>So based on those strong results and management's and the board's confidence in our long-term outlook, we increased our dividend by 12% for 2013 or $1.26 per share annualized. That continues our history of dividend growth over the last decade as you see in the slide here, which also averaged 12% annually. And we believe that it reflects the strength of our business model, which emphasizes disciplined capital investment with supportive business fundamentals and strong commercial underpinnings.</p>
+          <p>I won't dwell on this slide because it is history, but it does show how our growth profile and business model have consistently translated into shareholder value. 2012 was a rewarding year for our shareholders with a total return of 16%, well in excess of the broader market. We believe the key ingredients to sustain this track record remain in place. One of those ingredients supporting the outlook is the $15 billion of growth projects we secured last year, our largest single year ever. That brought our inventory of secured capital to $27 billion, all of which will be in service between now and the end of 2016.</p>
+          <p>While in the past we were driven by fewer large-scale projects, you can see the $15 billion is made up of both large and medium-sized projects. The magnitude of our liquids pipelines growth is substantial at this point, but you can also see that doesn't mean we've taken our eye off the ball on other business units. On gas distribution, we're undertaking the single largest capital investment in EGD's history, that's the $600 million GTA reinforcement.</p>
+          <p>We also expanded our Green Energy power footprint with the Silver State North's solar plant in Nevada and the Massif du Sud wind farm in Quebec. With these investments, we're nicely diversified across the premium wind and solar markets in North America. And it's just worth noting that we're now the largest solar power generator and the second largest wind power generator in Canada. We also advanced our Canadian midstream strategy. We acquired the Peace River Arch assets in the liquids rich Montney play. We believe that there are good future development opportunities here, which also complement our Alliance and Aux Sable position.</p>
+          <p>So with these newly secured investments, we're increasingly confident that we can extend our industry leading growth rate beyond 2016. And having that growth profile well in hand allows us to develop our new platforms in a measured way, those being Canadian midstream, electricity generation and transmission and international. While we've made excellent progress on strategic development of the business, we're equally focused on safety and operational reliability of our assets. In fact, that is our number one priority. Since the beginning of 2011, we've conducted what we believe has been the most extensive integrity management program in the history of the North American pipeline industry.</p>
+          <p>To put that in perspective, we own about 10% of all the pipe in North America, but we've conducted 40% of all crack in-line inspections. This includes using the most advanced in-line inspection tools in the world, including the use of medical imaging technology. An integrated part of that is our dig investigations, which we use to validate the tool data that we're seeing on those inspections and make repairs as needed. And over the last year, we've done over 40 &#x2013; two years rather, we've done over 4,300 digs.</p>
+          <p>So given the intensity of this current inspection program and the work done to date, we do expect the level of in-line inspections and digging activity to somewhat normalize after 2013. I should note that this program has been fully accounted for in our long-range plan and reflected in our funding and earnings outlook. We've also placed into service a new state-of-the-art control center that you see in the photo and made significant organizational enhancements. The goal with this ramp up is quite straightforward, to be the industry leader across all of the key dimensions of operations and safety.</p>
+          <p>So with that overview, let me move to the industry challenges and how we are at the forefront of addressing those issues. So, we are on slide 10 here, which captures the price discounting I referred to earlier. These prices are from January, so they are pretty recent. You can see here that Edmonton light crude if you focus on that circle for a moment was trading almost $30 a barrel off Brent at either the Gulf Coast or the East Coast of the U.S.</p>
+          <p>Most concerning though is the $40 barrel disconnect between Western Canadian heavy and a comparable barrel priced in the Gulf Coast and that's the Maya circle you see. In this case of Western Canadian select versus Maya, the basis or the difference between those two points should roughly reflect the cost of transportation if we had enough infrastructure or about $8 to $10 a barrel, not $40 a barrel, and that disparity moves to $49 if you compare WCS to the Asian market.</p>
+          <p>A couple of years ago, we set out to address this issue. So, let me review how we are doing that. This slide captures the three market access projects we are currently executing to extend the reach of the mainline. Several pieces will come into service this year, which will start to alleviate the market access constraints. First, the replacement of Line 6B to Stockbridge coupled with the Line 79 Twin will allow 80,000 barrels per day of additional heavy to get to the Toledo and Detroit market by the end of the year.</p>
+          <p>And just for reference on the slide, that's the blue line and blue pie with the +80 in it. Then by mid-2014, our U.S. Gulf Coast Access project will add almost 600,000 barrels per day of incremental primarily heavy capacity out of Chicago through our Flanagan South system. This timing will match up with the in-service of the Seaway Twin connecting Cushing to the Western Gulf. So, that's the green line and the largest pie you see in the chart.</p>
+          <p>Also in mid-2014, the completion of our Line 6B replacement project will allow light barrels to flow east of Chicago and tie into the Line 9 reversal, which should be ready to feed an additional 320,000 barrels per day to Ontario and Qu&#xE9;bec refineries, and so that one is the yellow with these three quarters blue pie circle. Then in 2015, as part of our light oil initiative that we talked about in December, the new Southern Access extension project will come into service and will add 300,000 barrels per day of light oil into Patoka to serve the Eastern PADD II refining markets. So, that's the full yellow pie that you see.</p>
+          <p>So, as you can see here, we haven't exactly been sitting on our hands. All told, we have committed over $15 billion to add roughly 1.3 million barrels a day of new market access beyond Chicago to address the price disparities. So that brings me to another important piece of the puzzle, which is today's announcement of our Eastern Gulf Coast initiative with Energy Transfer.</p>
+          <p>On our last call, I mentioned that our Southern Access extension was the linchpin to opening up the Eastern Gulf and light markets east of Patoka. That strategy has now come together. The project involves the reversal and conversion of one of Trunkline three gas pipelines to crude oil service, which will run southbound from Patoka. The pipeline could provide capacity for up to 420,000 to 660,000 barrels per day to the St. James hub in Louisiana by 2015, and the range there really reflects the crude slate differences.</p>
+          <p>The U.S. Gulf Coast is one of the largest refining centers in the world and the eastern part of the refinery center around Louisiana makes up a good chunk of the refining capacity at over 3 million barrels per day. It's both a heavy and light crude market that attracts premium pricing. And up until now, this market has not been directly accessible to Western Canadian and Bakken crude producers. Importantly though, we're taking advantage of existing pipe in the ground, so not only are we minimizing the environmental footprint, but we can get it flowing to market sooner and that's very important in terms of the price disparities we're talking about and at a lower cost than a new build.</p>
+          <p>We and our partner, Energy Transfer, hope to have a decision from the FERC on taking the line out of gas service by the end of the second quarter. Leading up to that, we will be conducting an open season to book long-term commitments on the line. We'll also be working closely with Energy Transfer to conduct final due diligence on the capital costs.</p>
+          <p>Now depending on the degree of commitments we receive and the conversion costs, we expect our share of investment to be between $1.2 billion and $1.7 billion. The final picture I'd like to show here illustrates the scope of what we're executing to open up new markets as quickly as possible, and in a nutshell really all of what we're doing here is allowing access to premium markets.</p>
+          <p>Southern Access Extension and Eastern Gulf Coast access provide light barrels new access to LLS-based markets in Patoka and the Eastern Gulf. The Line 9 Reversal opens up Brent-based markets for light oil in Ontario and Qu&#xE9;bec. The Eddystone rail terminal is an entry point for Bakken crude to access Brent pricing on the Eastern seaboard via rail, and the possibility exists, as you see in the map, for vessels originating in the Gulf Coast to access these East Coast markets as well.</p>
+          <p>And finally, the Flanagan South and Seaway systems provide Western Canadian heavy with access to Mayan-based pricing on the U.S. Gulf Coast. We believe that these projects will go a long way to address the significant price discounting that Western Canadian and Bakken producers are currently facing as well as to meet the demand of North American refiners seeking reliable domestic supply.</p>
+          <p>So with that overview, I am going to turn it over to Richard to discuss the 2012 financial results and our funding position in more detail.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thanks, Al, and good morning, everyone. So I'll pick up on slide 14 with a walk-through of the quarter, toughing on the areas which unfolded a little differently than we had expected on our third quarter call. So I think you'd have to call it a bang-up quarter for liquids pipelines and a bang-up year as well with the earnings up 45% for the quarter and 25% for the year.</p>
+          <p>Nevertheless, the fourth quarter wasn't quite as strong as we had expected, specifically in the mainline CTS earning sub segment. So while CTS volumes were just a snick higher than the third quarter, the supply issues of the third quarter persisted to a degree into the fourth quarter and Kearl Phase 1 did not come on as expected in the fourth quarter. However, even with lower supply than forecast, we weren't able to accommodate all the supply which was available and that was a result of operational constraints that will continue to have some impact on our available capacity in the first quarter, then diminishing over the balance of the year.</p>
+          <p>Our effective CTS tax rate for the fourth quarter was also higher than expected due to a delay in commencement of tax deductions on an IT project. So in combination, the lower volumes and revenues than forecast and the higher tax rate costs us nearly $0.04 in earnings per share. The other liquids pipeline sub-segments generally performed in line with expectations during the quarter and consistent with their performance during the first nine months of the year.</p>
+          <p>Gas distribution had a strong fourth quarter as we had expected with EGD in its final quarter on incentive tolling ending the year a little better than flat despite the Enbridge Gas New Brunswick situation. Gas pipelines, processing and energy services finished the year a little stronger than we had expected though still off from last year. Aux Sable continued to be a source of strength both relative to the prior year and relative to expectations.</p>
+          <p>Energy services did a little better in the fourth quarter and for the year than expected though it couldn't capture as favorable arbitrage opportunities as it did last year. And the asset drop down to the Enbridge Income Fund, which occurred in late 2011, also contributes to the reduction in the full-year earnings from this segment.</p>
+          <p>With sponsored &#x2013; within sponsored investments, Enbridge Income Fund continued to benefit from the 2011 dropdown transaction, but Enbridge Energy Partners had a very weak fourth quarter, even weaker than expected due to gas and NGL prices. Corporate finished the year pretty much as expected with our preference share equity pre-funding contributing to higher net financing costs.</p>
+          <p>Moving onto slide 15, it was another active quarter for funding and liquidity actions, which totaled $3.5 billion during the quarter, bringing us to $10.9 billion for the year and that's inclusive of a substantial build in our bank credit facilities. Some highlights for the year included our 100-year term Century Bond out of Enbridge Pipelines and also a $150 million 10-year MTN at a yield of 2.9%, which was the lowest coupon Canadian corporate tenure issue in 2012.</p>
+          <p>Also notable, our asset dropdown to the income fund which actually punches above its funding weight in terms of its enhancement to our FFO coverage. If this looks like an awful lot of capital market activity, it was. Enbridge was the fourth largest issuer of capital market securities in North American markets in 2012, and with respect to equity securities, we were the third largest issuer.</p>
+          <p>Moving to slide 16, our funding and liquidity actions were directed not only at keeping up with a record year of growth investments in 2012, but also at building additional liquidity in equity reserves to support the substantial growth program ahead of us. We now stand with over $1 billion of cash in hand and over $13 billion of credit facilities, so with only $3.5 billion of those facilities currently drawn or backstopped in commercial paper, we have nearly $11 billion of available liquidity. So we're very well positioned to execute on our growth program from a liquidity perspective.</p>
+          <p>On slide 17, during the fourth quarter, we continued to chip away at our five-year funding plan. For the year as a whole, our focus has been primarily on getting ahead of the curve on the equity side of the equation. As a result, the amounts remaining to be funded fall well within our issuance capability, and in particular the remaining $1.4 billion of equity funding as I've mentioned previously should be readily manageable through additional pref share issuance and another drop-down transaction or two.</p>
+          <p>To finish off my financial perspectives on slide 18, I'll add some more color around the financial impact of the pre-funding actions we took last year. These actions were taken in response to the substantial expansion of our growth capital program over the course of the year, and were intended to generate sufficient liquidity and a solid equity base to support the growth program. In particular, we made a call to pre-build significant equity to get ahead of the curve on our equity funding requirement, primarily in the form of preferred shares but a little common equity as well. We also issued more debt than we had planned to.</p>
+          <p>These were all prudent actions taken to support the growth program, and ones we could afford given we were headed for another industry-leading growth year in any case, but they did act to trim our earnings per share by nearly $0.06, leaving us below our guidance midpoint but still able to deliver an impressive 11% year-over-year growth rate.</p>
+          <p>So with that financial summary, I will hand it back to Al to touch on the forward outlook.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Okay. Thanks, Richard. So, let me just wrap up here. This slide that you see essentially updates the makeup of the $35 billion capital program we've been talking about. As you can see, we have $27 billion of that secured, coming in service between now and 2016. We've made great headway on securing most of these projects that we had identified in what we call the highly probable unsecured category since we introduced that concept last year. At this stage, the Eastern U.S. Gulf project that I talked about earlier would fall within the existing risk unsecured category until we finalize commercial underpinning to move forward.</p>
+          <p>I should highlight too that we had already accounted for the funding of the $5 billion of projects in this category within our long-range plan. So, the project has no impact to the funding requirement and plan that Richard had laid out.</p>
+          <p>On slide 20, a key element of assuring our success to address the size of that bar you saw in the coming years will be project execution. Given the size of our capital program, it's essential that we get them in the ground on time and on budget. Our major projects group has an experienced team and about 1,200 people to manage the current slate of work, and of course there're thousands more in the field contracted to make that all happen.</p>
+          <p>In 2012, you see &#x2013; as you see in the chart here, we brought four projects online, all on time and all below budget. And if you run your eyes down the two columns to the right, we're in excellent position here to bring 14 projects into service this year. In fact, out of the 35 projects currently in execution that major projects is handling which total about $25 billion, 33 of those are on schedule at the moment and either at or below budget.</p>
+          <p>In December, we announced our 2013 EPS guidance range of $1.74 to $1.90 a share, and midpoint of that would represent another double-digit growth year for the company, in line with our long-term average growth target. The bulk of the increase will come from liquids pipelines. We expect to see mainline volume growth picking up through the year, and we should also see contributions from the long list of projects that I just referenced coming into service in 2013.</p>
+          <p>Finally, the recent project announcements have moved the majority of the highly probable projects to the secured bucket, which will tend to move us towards the high end of our five-year annual EPS growth range of 10% to 12%. This builds upon an already industry-leading, long-term growth profile. And one more point on this, given the commercial model that supports many of these investments, we are gaining increasing confidence that we'll be able to sustain an industry-leading growth rate into the second half of the decade.</p>
+          <p>So to conclude, maybe just a couple of remaining points here, the first one is that safety, operational reliability and project execution remain our top priorities. That's what's going to drive future, and as you see, we continue to deliver solutions to provide producers greater access to new markets. And with that, we're enabling our province, the province of Alberta to maximize the value of resources and that, of course, will benefit all Canada. And our continued business development success has set us up well to achieve the high end of our long-term EPS growth forecast through 2016.</p>
+          <p>So, that concludes the prepared comments. So, I'd now ask the operator to open up the phone lines for questions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" /> And our first question comes from Juan Plessis from Canaccord Genuity. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Thanks very much. Some of the headwinds you've experienced on the mainline that Richard referred to in his remarks that may flow into Q1, do you see that at all impacting your confidence on 2013 guidance?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>So, Richard, go ahead with.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Sure. No, Juan, not at this point. We are going to continue to be below our nameplate capacity in the first quarter, but not to the extent that it should significantly eat into the level of earnings that we had anticipated. So, you could continue to see apportionment occurring as crude comes at us above and beyond what we're able to accommodate but not above and beyond what we had provided for in our guidance.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah Richard, maybe I'll just tag onto that. It's pretty tight right now obviously with capacity versus supply coming at us. We have undertaken a number of initiatives in cooperation with industry to approve the capacity &#x2013; improve the capacity that we have available. That includes some things that help us with making sure that the volumes come into our system on a ratable basis. It includes some efforts downstream to make sure terminals and batches are cleared through our tanks in an efficient manner, and as well trying to look at ways from a tankage and terminal point of view to effectively increase the overall capacity. And one way to do that is to co-mingle some of the crudes that that we're seeing. So, we're doing all we can to make sure that we have enough capacity, Juan.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Great. Thank you very much. It's very helpful. And secondly, can you quantify how much your operating costs has increased year-over-year due to the operational risk management plan, and if you expect to see some additional ORM cost increases in 2013?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Richard, do you want to?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah. That's not something that I've got at the tip of my fingertips pulled out on a separate basis. We certainly have experienced some increase in operating costs year-over-year, although even back in 2011, we were starting to ramp up, so that's not a level of granularity that I have really got explicitly split out, Juan.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Paul Lechem from CIBC. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Thank you. Good morning. You spend a lot of time talking about the expansion of the system to take Alberta crude out to market. You announced in the quarter an open season &#x2013; launching an open season on Southern Lights to bring diluent back in. Just wondering what's driving that and also the increased interest in the open season?</p>
+          <p>And also, do you have any other plans around bringing diluent back into Alberta, either sourcing it from Eagle Ford or elsewhere in the U.S. and then in Alberta to actually deliver it up to the oil sands?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I'll start out, and then I'll see if Steve has something to add. Essentially on the Southern Lights, it's all driven of course by the expected increase in volumes out of the oil sands, which is going to require more diluent and we're in good shape and that we happened to have some capacity further on Southern Lights, and that's what's really driving it. We expect to see very good interest in that additional capacity. Anything to add to.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Yeah, I think the only thing I'd add, Paul, is that we do expect to see some Eagle Ford condensates making their way up. They're certainly not of high value down in the PADD III market and they're of higher value in Alberta, so we would expect to see some of those making their way up to Southern Lights also.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Okay. Are you looking to make any investments to actually transport the condensate?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>We've looked at that. At the moment, we just take in what comes to us at the Chicago end of Southern Lights, but we have looked at some possibilities, I guess, to be upstream of that, which means south in the case Southern Lights, nothing specific at this time, no.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Okay. And what about in Alberta or itself?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>In Alberta, I think we are working to add to the distribution system for condensates to the various oil sands operators, and pursuing a project or projects to do that from the Edmonton hub where most of the condensate pool becomes available from Southern Lights and from other sources. So, we are looking at ways of moving condensates up for diluent needs, as it's apparent that a lot of the growth will be from dilbit which is condensate added to bitumen as opposed to synbit, which is synthetic crude added to bitumen. So, the answer is yes, we are looking at projects to do that in trial.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Okay. If I can sneak one more question in just on the write down at your offshore assets in the quarter, can you talk about what the impact is going to be to results going forward and what you actually wrote off there?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, I guess maybe just starting out with what drove it, obviously, the fact that there's been so much gas supply coming on on the Continental side of things in the U.S. market. Obviously, gas drilling specifically in the Gulf is at a zero level. So we're only talking about associated gas moving from oil projects in the future. So that's certainly one thing. So, we're running at relatively low volumes compared to the ultimate capacity of the system. We did look at some other potential opportunities to utilize that infrastructure. We weren't confident in that, and that's what led to the amount that you saw there of $160 million pre-tax. So as far as the annual effect on that in terms of the outlook for earnings, I don't expect that would be significant to the numbers, but I'll look to Richard to provide any further detail on that.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah, that's &#x2013; I think that's about right. As we saw in 2012, the offshore earnings or maybe losses would be a better word looked to have stabilized. So we're going to continue to run in the red on offshore in 2013. And then as we move beyond that and some of the new projects come into service, we should be climbing back up into positive earnings.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Okay Paul.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Ted Durbin from Goldman Sachs. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thank you. Question on the Energy Transfer project here. I guess first is, is the $1.2 billion to $1.7 billion of capital, is that a 50-50 split or is it a 100%. I'm sorry if I missed that? And then if you can talk about the returns there and kind of the volumes that you need to make that project go. How do you think about that relative to some of the pull-though you get on mainline volumes, which might help the overall returns in the system?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Okay. So Ted, the range that I talked about, $1.2 billion to $1.7 billion, that is our 50% share in the project. And essentially that investment is made up of two things, the amount of equity we're contributing for the existing assets and then our share of the conversion costs, which includes tankage and the lateral that you saw on the map there. So, I think that's the make-up.</p>
+          <p>As far as the return, we expect the project to generate more or less the same type of return as we're seeing on the other market access projects, in the low double-digit level. And that would be &#x2013; the way to look at that would be a standalone type of return on the project. As far as the mainline, we haven't accounted for that in the view related to this particular project in that it's standalone on its own.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>That's great. And then just staying on the same topic and more macro, but kind of give us your views on the need to move light oil to the Gulf Coast and the potential for that to become oversupplied with oil if you think about, Steve, your Seaway Expansion, you've got TransCanada with the Gulf Coast project, you got some Permian pipelines coming in and then Trunkline, it just seems like there's a decent chance that LLS well might a bigger discount to Brent than what it is at currently?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, I'll take a shot at that and see what Steve has to add, but I think you're right. Our view of it is by 2014-2015, you're going to see probably a displacement of light barrels coming into the Gulf Coast because of what you referred to. But the way we're looking at it here in terms of the market access initiative, most of the volumes that are going to be traveling on our Gulf Coast project and as well hopefully the Eastern Gulf project are going to be light, or sorry, heavy barrels. So, remember that the refinery area in the Gulf Coast is configured very nicely for heavy crude and, of course, that market is screaming for heavy and will continue to do so in the future, particularly given the decline in Mexican and Venezuelan crude.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>I think what I'd add to that, I think you had a question about light oil as well and particularly in the St. James market, New Orleans, there's a tremendous demand for Bakken crude. There is nearly 400,000 barrels a day of Bakken crude moving by rail and maybe some by barge loads and barge movements to New Orleans at the moment tend to be more heavy crude coming down the Mississippi.</p>
+          <p>So, there's a good market for both, but certainly there's a strong light market that the Trunkline project with Energy Transfer will intend to facilitate. The other thing is that looking at the very large volume of imported crude, the largest percentage of imported crude from abroad moves into the Gulf Coast market today, and inevitably with greater and greater American and Canadian supply, that's going back out those imports. And so, there's an opportunity for backing out the imports in the Gulf Coast and that's what's going to happen.</p>
+          <p>The other thing when you talk about the LLS pricing that would be related to Brent, and inevitably with diverted cargos in fairly significant volumes to other markets, I think the inevitable is that Brent also falls. And so while there is the issue of clearing that differential that exists today with more and more pipe capacity into that Gulf Coast market, I think we're also going to see that there's ample opportunity for Bakken and Canadian crude in that market to displace foreign imports. And as far as pricing goes, I think we'll watch. Differentials are funny things, but the market is very efficient at removing large arbitrages, and I think that's what you're going to see happen as we move these volumes there.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>That's great. I'll leave it there. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Linda Ezergailis from TD Securities. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thank you. Just a follow-up question on your JV announcement, does your core mainline have enough capacity to support those additional barrels flowing through or is that just in fact diverting barrels that would be flowing through any way? So, do you anticipate requiring additional twinning or looping within your core mainline to accommodate those barrels, and if so, is that included in your $1.2 billion to $1.7 billion, it sounds like it's not?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>No, it's not, but maybe let me take you back, Linda. So right now, we think there's enough volume at Patoka through existing infrastructure. There is three lines currently moving in there, and there will be a fourth of course with our Southern Access Extension that would support about 250,000 barrels per day. Above that 250,000 a day, we will require some additional upstream capacity. We are currently in discussions with shippers on further capacity additions that might be developed, but obviously at this point, it's probably premature to talk about what that might look like. But I will say that we're fairly confident in our ability to add capacity, further capacity in the mainline upstream given the scale and scope of our system beyond even what we have already talked about in terms of scaling up and powering up Alberta Clipper and Southern Access.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay. So would those additional mainline capacities be done on time for this project or would it infer maybe a scaling up of this project to 2016 or something as those capacity expansions come through?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think what we're saying Linda is that there is sufficient capacity right now to underpin this particular joint venture to a level of 250,000 barrels per day. However, if we do get more commitments than that, then we will certainly investigate potential further upstream expansion.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Great. Thank you. And just a follow-up on your Seaway debottlenecking this year, at what point in Q4 of this year will that lateral be completed and how might we think of how much of that kind of de-rated capacity would be take or pay volumes versus maybe prorating down the contribution from Seaway on a kind of volumetric basis?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, we should see the lateral in by early Q4 I would say, and there are a number of other actions that we're undertaking right now to mitigate the downstream issues that we've seen so far. Steve, I don't know, do you have any further detail on that?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>No, I don't think so. Certainly, that lateral is being very actively worked on. It isn't that far from Jones Creek over to the ECHO Terminal. So, we have high confidence in the Q4, and we'll update as the year goes along. We are also working on a number of other initiatives to debottleneck the downstream end of Seaway in the meantime. So, it's a little early to tell quite honestly exactly what the run rate for Seaway will be now that its capacity came up just over a month ago, and we're just going to have to see how the next quarter evolves before we can really know.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>And maybe just to close a loop on a couple of interrelated questions here. So, with respect to the 250,000 a day of throughput on the new joint venture that Al mentioned can be accommodated from existing infrastructure into Patoka and the returns that he described when he answered the previous question, those returns are based on that 250,000. So the low-double-digit returns are consistent with that level of throughput.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, that's a good clarification. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Carl Kirst from Bank of Montreal, BMO. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thanks. Good morning, everybody. In fact, Richard, you just hit one of my questions there, so thank you. Second, just also on the Trunkline conversion, just really maybe more on the possible in-service date of early 2015, and Al, I know you noted ETE was hoping for the FERC maybe to come out with something in the second quarter. Clearly, there are some LDCs, who aren't as happy with it, and I guess my question is in order to get to the early 2015 in-service date, when do you need FERC approval and signed contracts to be wrapped up, when do you have to start construction shall we say?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, I think our best guess right now on that is the end of 2013, for that to happen by early 2015. I guess I'd say it's a good point you raised about the process they go through here. I guess our view on the FERC approval is that, first of all, this is one of three lines that is being converted, so there's lots of capacity to serve the market.</p>
+          <p>The other issue is and I know that there's lots of considerations here, but one of the things that FERC considers is other long-haul pipes going into that market, which there is in this case. And of course, as you know, there's some pretty significant supply growth outlook here from the Marcellus and the Utica. So we feel reasonably good about the ability to get approval here, but obviously it takes some time to work through. Remember the application for this by Energy Transfer was made back in the middle of 2012. So hopefully, our second quarter estimate is not unreasonable.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Great. I appreciate the color. And then just one other question if I could, there was some, I guess, concern perhaps that back last year it looked like Keystone was continuing to get delayed decision, there was the January timeframe out there on the CTS. Is there anything to report on that or did that kind of come and go and shippers don't really care so to speak?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, I won't say they didn't care, but it did come and go in that the notice was supposed to be provided according to our CTS agreement by February 1. We did not receive that notice. And I think you know that probably reflects the fact as we have been saying all along here that I think the shippers are quite pleased with CTS in that they have got toll certainty, and it really is a good arrangement for both the shippers and us frankly. So we didn't expect that to be triggered and it wasn't.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Excellent. Thanks, guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Matthew Akman from Scotia Bank. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Hi. Thanks. Maybe this is for Steve. I am just wondering where all that heavy oil is going to come from that gets into Patoka. I think at one point, you guys said that the Southern Access extension is for light, and then you said you expected most of the oil on this new venture that moves south to the Eastern Gulf Coast is going to be heavy. So, what is your thought on where the heavy is going to originate or where it's going to come in from on pipeline?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Well, that's a great question, Matthew, and you are already, I am sure, checking your left forearm for the playbook. You can suspect that we'll be looking at what Southern Access extension's size and capacity needs to be for both light and heavy. We also have our Mustang system coming in on the same routing, our joint venture with ExxonMobil and so we're looking at how to optimize capacity for light and heavy into the Patoka market.</p>
+          <p>In the interim, as Al said, there are a number of pipelines that go into the Patoka hub including Mustang, soon-to-be Southern Access expansion. There is the Keystone system, there is the now Spectra Plat system and there is our Ozark system. So there's quite a variety of feeds available for different crudes into Patoka to feed this joint venture, but clearly, there is a strong heavy demand market in the Eastern Gulf Coast, some very large refineries with coking capability, and we'll be looking to piece that together, but one of those points will be what is the final size and capacity of Southern Access extension when we finally order the pipe.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Got it, but some could also come off Keystone?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Yeah, I think so, and that's going to depend somewhat on Excel and when it comes into service, which would tend to offload the base Keystone systems somewhat and allow for more possible movements into Patoka. And then Plat, I think, Spectra will do what it does, which is it runs pretty much full all the time at 140,000 barrels a day. So, yeah, there is a few different possibilities there, and we'll be exploring how the picture ought to evolve.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay. And just one other question, maybe to keep Steve busy this morning. It is on your findings to date on the integrity program, can you just give us a quick update, are you finding that you can phase down this big capital spend based on some of the inspection you've been doing or is it going extend further into 2014 and 2015, how is the program going, are things on track or are you getting any negative surprises?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Actually things are very much on track, and I think you've seen a very high level of spend on pipeline integrity management and maintenance in 2010, 2011 and 2012, continuing on into 2013, but we are going to be running out of that high-level of work to do. For one thing, Line 6B, one of our tape coated lines will be completely replaced by later this year. That brings our total tape coated percentage on the mainline down to somewhere in the teens percentage.</p>
+          <p>And so, as you know, the maintenance intensity is higher on tape coated lines and we've been actually doing on the order of 150 runs a year on various segments. And so, after a while, you just run everything you can run. And then you would go into more of the cycles, which would be two, three, four year cycles. And so, I think what you can expect is that in 2014 and beyond, you'll see some of those cost taper-off as the very extreme level of activity that constrains the system really does come-off a bit.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, that's &#x2013; actually, that's a great point. If you look back to mid-2010 till today, it's been a three-year blitz I'd characterize it as, to get us to where we want to be, which is industry leadership position on the operations and integrity side of the business. And we'll still be very, very active, but obviously like Steve said, it's going to tail-off again.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah, I think, the one way to look at that, just to keep you busy writing Matthew is that, prior to 2010, we were spending about $150 million a year on pipeline integrity maintenance and management, which was industry-leading through that period. There is very few companies that spend that much. Now, we've been spending nearly $1 billion a year in 2011, 2012, probably 2013 and then it is &#x2013; we simply will have looked at all of the pipe there is to look at.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay. Thanks. My pan is already blitzing like you guys were on integrity, so I'll stop there.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>All right. Thanks, Matthew.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from David McColl from Morningstar. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Good morning, everyone. Just two questions. I'll start with the first one, which really builds off kind some of the questions and comments from everyone else. I am just wondering given the growing list of projects by yourself and the various operators, whether there is any concern that we could be approaching a North American kind of pipeline glut, accepting the fact there will be some constraints in certain areas kind of around 2016-2017 timeframe?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Glut, are you referring to sort of labor requirements or can you specify, capacity?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Sure. I was just kind of thinking like excess capacity in terms of pipelines?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah. To us, if you go back to the maps that we looked at and the supply profile that we see coming out of Western Canada and throughout the U.S., we are definitely tight right now. And I would say that by 2015-2016 when we finish our initiatives and some others get done by others, I think that will probably be in balance by that time. We're definitely tight today. We will be short if we don't move forward with these initiatives.</p>
+          <p>So I would say that all of that's happening out there is going to meet the increasing supply that is out there. Now, from our perspective, what you're raising is a good question, because you just never know where supply is going so &#x2013; and that's why we focus from a commercial point of view to make sure we have long-term commitments and take-or-pay arrangements on these lines.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I think too, Al, if I could add in to your question David, the important thing is to take a surgical approach to where pipe ought to be built. And for example, the Trunkline project with Energy Transfer, that is really designed to take what is currently a rail and water market and make it a pipe market. There is very little crude that can move by pipe into that market. It ought to be a pipeline market, it will be a pipeline market just like the Western Gulf Coast.</p>
+          <p>On the other hand, Philadelphia is not a pipeline market for crude oil and it likely won't be, and so therefore rail projects and water projects are important. They are like the Eddystone Rail Company that we've developed in Philadelphia, because that will be and will likely remain not a pipeline market. And so that's the important thing is taking a very surgical approach to understanding the market and understanding where pipelines ought to go and where they ought not to go.</p>
+          <p>And also in our minds, it's very important to show a lot of optionality to the barrel, because as Al said, who knows where the various crudes are going to need to go, who knows what differentials are going to do. And so the projects that we're putting together as you look at the map allow the producer to show that barrel to Minneapolis and Chicago, Detroit, Toledo, Eastern Canada, the Western Gulf, the Eastern Gulf, Philadelphia. There's a lot of optionality for the future, that's going to be very important in a world where differentials do move around. And so that's the approach we take. And I think it goes beyond worrying about whether those things that are going to be &#x2013; areas that are going to be over piped, but rather looking at where pipe needs to go, knowing that we're short today.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>And just commercially, what we always say is that if you visualize a typical upward sloping production profile, where we want to be in that profile is near the middle of it, we certainly don't want to be attacking the top end of it, which obviously comes with more uncertainty. So we're really attacking the highly certain type of volumes that we think are going to move.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>To follow-up on that and this is kind of the second part, which you actually almost alluded to. We've been very fortunate having increase of growing production, ability to bring pipes in the ground during a period of what is rather weak economic activity. I'm just wondering what the long-term plan, outlook or concerns are, and again, cover the next five years as it relates to skilled trades, specifically for really building these pipes across North America. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, that's a good question. So my view on this is that I don't think at this point we're looking at a very tight pipeline market. You're right, there's lots going on, but there is a lot of capacity for pipeline skills and trade. And where we see the biggest issue frankly is more in the oil sands area itself, and we don't necessarily double up or duplicate with the skills that are required there. So we feel reasonably comfortable over the next five years that we'll have good skills and labor to execute. For us a big chunk of the cost, well likely a third in some of these new pipeline project comes from the steel itself. And steel cost looks reasonably well attainable at reasonable levels. And plus we have a long-term arrangement that allows us to access that pipe. So I think we're &#x2013; in the realm of things, there's lots of risks out there, but I wouldn't put that one necessarily at the top, although we're watching it very closely.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>The other side to that is the labor side that you alluded to, and particularly in a hot labor market like Alberta, what we've done is made agreement &#x2013; long-term agreements with certain pipeline &#x2013; large pipeline contractors for year around work, which is unusual and pretty highly sought after in the contracting world. And so we &#x2013; because we know we have a slate of projects that can keep contractors working year around, we've made agreements with them to do exactly that. And that way, they can keep their best people, their best leadership and supervision and so on and keep that going year around. So, that we've done pretty aggressively in the Alberta marketplace and in select areas also in the United States.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>The underlying theme to that question too has to do with the quality of labor, and we watch that very carefully in terms of our processes to make sure that what we're putting in the ground is properly reviewed, inspected and signed off. So, you do tend to get in sometimes tight conditions, a bit of a dilution of skill that we're trying to keep on top of that as best we can.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>That's great. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>You're welcome.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Andrew Kuske from Credit Suisse. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Thank you. Good morning. I guess the question really relates to your issue &#x2013; your access to capital markets. And Richard you touched upon this, and you had a pretty heavy year with fixed income issuance, but perhaps which obviously you did a lot of, and then the tiny little bit of equity. When you look on a go-forward basis, obviously as your asset base grows, you're going to have to have more fixed income issuance primarily to help fund that growth. Do you have a concern that you just become frankly too big in the market, and you really get driven towards alternative sources of capital, whether they be pension fund partnerships or some other alternative?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well, pension fund partnerships is certainly one of the tools that we've got in our back pocket so to speak, Andrew, and we do have good direct relationships with a number of the large pension funds, but I would characterize that as a tool or an option as opposed to the base case plan. And no, I think with access to both the Canadian and the U.S. capital markets and given that our fixed income issuance is spread around three different Canadian issuers plus in the U.S., we're pretty comfortable that over the remaining four years in that five-year plan, we can accommodate that issuance just in the normal course and also, of course, that very massive liquidity buffer that we've built up is intended in part to give us some flexibility to spread that around if we need to. So I think we've got lots of options.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>And then I guess just a related question on the $35 billion of growth enterprise wide, that's largely secured and more or less locked and loaded for the next several years. Do you have some sort of blue sky scenario that you think about in an unconstrained kind of environment that you would think about allocating capital beyond the $35 billion?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, I'll take a first shot at it. You know what Andrew it's our job to be thinking about things like that. I think right now with $35 billion, we have our plate full for sure, but I can assure you that we are always looking for new opportunities, and sure we think about ways that we may be able to attack that from the funding perspective all the time. So we're thinking about it. We are not there at this point, but those thoughts are there.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay. That's helpful. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>So, I guess the only thing I would add Andrew is that the $35 billion isn't all spoken for at the moment. We do have pretty good chunk of capital, maybe it doesn't look big relative to $35 billion, but $5 billion of that $35 billion isn't spoken for just yet, although the Energy Transfer joint venture once its secured will take a chunk out of that. So at the moment, as Al indicated, I think we're &#x2013; our base case plan is for the $35 billion, but we continue to consider whether we might need to expand beyond that and look at different ways we could do that.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Robert Kwan from RBC Capital Markets. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Hi, good morning. Just first question on the mainline and maintenance work and debottlenecking work. We've seen some capacity optimization numbers get better. I'm just wondering if you're able to give us some color as to how much of that is some of the fiscal improvements that you have versus some of the access changes around things like air barrels and is the worst behind us as we head through Q1?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think we'll have Steve talk to that.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Sure Robert. I think what we've been doing very, very actively in the last number of months is tightening more than ever the entire chain of feeder pipelines that come into us, terminal constraints within our own system as we keep 70 or so different varieties of crude separate, and then downstream constraints and really squeezing out the inefficiencies that have been there in terms of batches parking in tanks longer than they should, in terms of feeders not bringing in crude on the schedule that they said they would, we've really done an entire value chain scrub of all of that and that's actually paying some dividends now, and I think that's what we're seeing.</p>
+          <p>It would be bold to say the worst is behind us. We do have the ExxonMobil Kearl volumes coming from their new facility in the oil sands, and so we're watching that very closely as well, but we certainly have looked at maximizing the efficiency of the system, and it really is paying off. They were &#x2013; in a system this large, there naturally were times when a certain refiners batch would park in a tank for a number of days and it really ought not to do that and so we're squeezing all of that out.</p>
+          <p>And also through verification squeezing out the air barrel issue as to what people are nominating that really doesn't exist or if they're nominating the same volume to the Kinder Morgan Trans Mountain pipe and our pipe on the same month, we've got ways now of figuring that out, and so that's also helping and we've got a team that every single day works on that issue, capacity optimization, and are just newshounds for every scrap of news and understanding they can get about what operations of third parties are doing in the upstream and the downstream</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>You know, just big picture wise to add to that, obviously as a common carrier, we have a responsibility to manage things for the betterment of the entire industry, and I will say that there's been some good cooperation between industry players. You can imagine that in this environment, everybody wants to grab every piece of space for themselves, but I think in the big picture, we are seeing a decent amount of industry cooperation to make sure that we can maximize the entire capacity available and that the measures that Steve mentioned go a long way if we can squeeze those out.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah, and I think we've seen behavioral changes in some of our very large customers and we really appreciate that, because those behaviors tend to be entrenched over a long period of time.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>So with things like Kearl supply obviously potentially causing some apportionment issues in a greater scale as we go forward. As it relates to your volumes and your efficiencies, it sounds like we may be fairly close to a bottoming of the constraints as it relates to CTS volumes on the mainline?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Again, it'd be a little bold, but I think that's &#x2013; I think that's true. We certainly had a conversion of different &#x2013; convergence of different factors late in the fourth quarter and those tend to be clearing up now in the first quarter. So, I think that's true. We haven't had constraints on our light crude system. We have had constraints on the heavy crude system, Kearl is a heavy barrel. And so, we're preparing for that as soon as that turns on.</p>
+          <p>The other thing to remember is that our Line 5 expansion is going to go into service very shortly, and that's going to add 50,000 barrels a day to the light system capacity, which in turn could draw more barrels through the North Dakota system off of rail as an example. So, that's &#x2013; yeah, that's a few of the factors that are in play.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>And just if I can ask one last question, shifting to regional and this being a smaller line item question, but it sounded like there were some one-time amounts that impacted the fourth quarter, and I think Richard you might have alluded to that on the last conference call. Just wondering are you able to quantify what some of those one-time items or kind of shorter-term items and how long that might persist in coming quarters?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>In terms of the regional oil sands earnings, is that &#x2013; was that the question?</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Correct.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah, I think we did have some higher O&amp;A in the fourth quarter. It wouldn't have been a huge number, but it would have been enough to take a little bit of the wind out of the sales. And I wouldn't say it was necessary &#x2013; it was maybe peculiar in the quarter but not necessarily something that would be out of the normal course over the course of a full year.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay. So more of seasonality rather than unusually high maintenance but won't persist going forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay, that's great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from <mark type="indiscernible" /> (1:07:17). Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Hi. You said in your statements that there were third-party restraints at the southern end of the Seaway pipeline that have been inhibiting flows. I was wondering if you could just elaborate a little bit on what the nature of these bottlenecks are, and the time scale and nature of the other actions you mentioned that you're undertaking to solve the problems?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, maybe Steve can take the first part of that and we can talk about the rest. Steve?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Sure. Well, Alex, I mentioned the Q4 timings for the lateral from Jones Creek, which is essentially the end of the Seaway system over to the ECHO terminal. That will largely relieve the constraints that you could probably bookend it there. There is also some things we're working on, on the current takeaway line out of Jones Creek, which is a Department of Energy DOE line that gets shared by a few different parties, and we're looking at ways of maximizing the capacity out of that. So, that's all the color that we have right now. Certainly Enterprise, our partner and ourselves are looking at all of the possibilities for debottlenecking downstream of Seaway and will be working on those every week as we build that lateral across.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Okay. Well, I guess one quick follow-up would be up until the end of the third quarter this year, what are you sort of expecting the flow rate of Seaway out to Cushing to be?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Well, I think as I said, it's a little early to establish a run rate. We've only have the capacity increase for the last month or five weeks, and so we are not in a position to pin exactly what that rate is going to be. There is a lot of traders that would love to trade around that information for one thing. And so, I think you will see ourselves and Enterprise communicating that as it becomes more certain.</p>
+          <p>The line has a nominal capacity of 400,000 barrels a day in light oil. We are seeing a certain amount of heavy crude being nominated to it, which isn't surprising given the Canadian crude &#x2013; heavy crude differentials. And so in mixed service, heavy and light, it goes down somewhat from there into the 300,000, and we'll be doing everything we can to debottleneck downstream to achieve that, but it's too early to pin a number or a run rate for the first three quarters of the year.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Chad Friess from UBS Securities. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thank you. I am interested in slide 13 that shows tankers moving from the U.S. Gulf to Eastern refining markets in the U.S. and Canada. It strikes me that this is maybe a better solution than one competing proposal with some of the regulatory semantics can be alleviated. I wonder could you speak to the current challenges of making that trip, and how you think transportation in that quarter will evolve over the next few years?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, I guess the first thing about that, Chad, is that obviously that is a very timely solution to markets that could certainly utilize the crude, being the Eastern Coast both in Canada and the U.S. So from the point of view of moving crude from the U.S. to other parts of the U.S., we think that's doable. There are some requirements from a tanker point of view that would have to be met.</p>
+          <p>As far as movements from the U.S. Gulf into Canada, I think there is certainly allowance to do that through the NAFTA exemption. It does require licensing but we think it can be done. So the thing we like about it the most is that once you're in the Gulf Coast, which is the primary market and I think people sometimes forget that, the first objective is to get to the primary market which has both heavy and light processing capacity. It certainly makes a lot of sense to us to then move or have the ability to move crude beyond that to the East Coast of both the U.S. and Canada. So we think it's doable and we think it's a very timely solution.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>And then the other thing I'd just add Chad is that, the maritime refineries in Eastern Canada and Philly for that matter in PADD I have historically received all of their crude by water, and they're very much tooled for that. For pricing reasons, most of them are engaged in rail transportation for the interim to access the Bakken barrel or the Western Canadian light barrels more economically than they can purchase Brent. But they are waterborne refineries, and this is a great way to play to their strength, which is the receipt of crude by water.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>That's great. And you've gotten into the rail business. Are you going to get into the barge business?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, probably not. It's obviously something that others do, and generally we're not &#x2013; well, we won't be at least in the near-term involved in taking crude on barges ourselves. But at least not at this point, but it's certainly a well-developed market.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Fair enough. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>You're welcome.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our last analyst question comes from John Edwards from Credit Suisse. At this time, we would like to invite members of the media to join the queue for questions. <mark type="Operator Instructions" /> John, you may go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Yeah, thanks for taking my question. Just real quickly, it wasn't clear who would be the operator of the Trunkline project? And then just wanted to verify what I thought I heard you say was to make it financially feasible, you need a commitments of about 250,000 barrels a day? And then lastly, just in terms of the rate or tariff structure, are you thinking kind of a fixed fee commitment or you're talking more of a cost and service type rate structure? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Okay. So, let me hit those. The first, on the operator, the operator would be Energy Transfer. Of course with their recent acquisition of Sunoco, they're well qualified to operate and as well manage the conversion process.</p>
+          <p>With respect to commitments, yes, it's somewhere in the order of 250,000, perhaps a little bit less than that in terms of ensuring economic viability on this particular project. And thirdly with respect to rates, we're going to be going into open season on that. So, I think you can take away that there will be fixed fee take or pay structure on it, but other than that, we won't be getting into any details at this point.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Okay. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>You're welcome.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We have a question from Jeremy van Loon from Bloomberg. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Just a couple of questions. One is on the new pipeline plan, I recall Energy Transfer had talked about doing the whole conversion in the past for $1.5 billion, and I'm just wondering if you can provide a little bit of insight into how the partnership is planning to sort of change that project, adding more components to it. And then the second question is just wondering if you can add &#x2013; provide some insight into your plans for returning to the international business? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Okay. Well on the first one related to the capital costs of the conversion, essentially it involves &#x2013; and a lateral by the way, so we're talking about a lateral into St. James from the takeoff point on the gas line tankage and, of course, conversion costs, which relate to confirming the integrity as well as adding pump stations. I think on where the estimate would be right now, the range I gave you was for our share, both the capital and the equity entry level investment. We're going to be going through the capital costs as I mentioned earlier with Energy Transfer in a fairly detailed due diligence. So, I think at this point, that's probably all the color we can provide on the estimate.</p>
+          <p>With respect to your second question on the international, right now, we essentially have three focus areas that we're looking at, Australia, Peru and Colombia. At this point, we don't have anything that would be ripe enough to talk about, but as I said in my comments earlier with all the growth we have in the next little while here, it allows us to bring these other platforms on like international on in a measured way. So I think that's how we're approaching it. There are some good opportunities, particularly where we can bring some value to the equation. So if we're talking about obviously crude oil or gas pipelines, than we would be a strong player.</p>
+          <p>Columbia is probably one where that fits exactly right, good volume growth profile there for oil, and certainly we have a good opportunity in that. There is a lack of infrastructure generally in terms of connecting that crude supply with market. So, that's where we would play.</p>
+          <p>Okay. Next question?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>As there are no further questions, I would now like to turn the call back over to Jody Balko for any closing remarks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Great. Thank you, John. We have nothing further to add at this time, but I'll remind you that Jonathan Gould and I are always available for any follow-up questions that you might have. So thank you and have a good day.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Ladies and gentlemen, this ends today's conference call. Thank you for your participation. You may now disconnect.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

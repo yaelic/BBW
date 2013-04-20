@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1121344" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q4 2007 Earnings Call</title>
+    <date>2008-01-23</date>
+    <companies>
+      <company>175</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Mark Rowen, Vice President of Investor Relations</participant>
+      <participant id="2" type="corprep">Meg Whitman, President and Chief Executive Officer</participant>
+      <participant id="3" type="corprep">John Donahoe, President and CEO-elect</participant>
+      <participant id="4" type="corprep">Bob Swan, Senior Vice President, Finance and Chief Financial Officer</participant>
+      <participant id="5">Scott Devitt</participant>
+      <participant id="6">Meg Whitman</participant>
+      <participant id="7">John Donahoe</participant>
+      <participant id="8">Mark Rowen</participant>
+      <participant id="9">Imran Khan</participant>
+      <participant id="10">Bob Swan</participant>
+      <participant id="11">Douglas Anmuth</participant>
+      <participant id="12">Heath Terry</participant>
+      <participant id="13">Brian Pitz</participant>
+      <participant id="14">Robert Peck</participant>
+      <participant id="15">John Donahue</participant>
+      <participant id="16">Jeffrey Lindsay</participant>
+      <participant id="17">Mary Meeker</participant>
+      <participant id="18">David Joseph</participant>
+      <participant id="19">Benjamin Schachter</participant>
+      <participant id="20">Justin Post</participant>
+      <participant id="21">Christa Sober Quarles</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good day everyone and welcome to eBay's Fourth Quarter 2007 Earnings Results Conference Call.  Today's call is being recorded.  With us today from the company is the President and Chief Executive Officer, Ms. Meg Whitman; the future CEO, Mr. John Donahoe; the Chief Financial Officer, Mr. Bob Swan; and the Vice President of Investor Relations, Mr. Mark Rowen.</p>
+          <p>And now at this time, I would like to turn the call over to Mr. Mark Rowen.  Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, operator; good afternoon everyone.  Thank you for joining us, and welcome to eBay's Earnings Release Conference Call for the Fourth Quarter and Full Year 2007.</p>
+          <p>Joining me today on the call are Meg Whitman, our President and Chief Executive Officer; John Donahoe, our future CEO; and Bob Swan, our Chief Financial Officer.  We're providing a slide presentation to accompany Bob's commentary during the call.  This conference call is also being broadcast on the Internet and both the presentation and call are available on the Investor Relations section of the eBay website at investor.eBay.com.</p>
+          <p>Before we begin, I'd like to remind you that during the course of this conference call, we may discuss some non-GAAP measures in talking about our company's performance.  You can find a reconciliation of those measures to the nearest comparable GAAP measures in the slide presentation accompanying the call.</p>
+          <p>In addition, management may make forward-looking statements regarding matters that may involve risk and uncertainty, including those relating to the company's ability to grow its businesses, user base, and user activity.  Our actual results may differ materially from those discussed in this call for a variety of reasons, including our increasing need to grow revenues from existing users in established markets; an increasingly competitive environment for our businesses; the complexity of managing a growing company with a broad range of businesses; regulatory, tax, as well as IT and other litigation risks, including risks specific to PayPal and the financial industry, and risks specific to Skype's technology and to the VOIP industry; our need to upgrade our technology and customer service infrastructures to accommodate growth at reasonable cost while adding new features and maintaining site stability; foreign exchange rate fluctuations; changes in political, business, and economic conditions; and the impact and integration of recent and future acquisitions.</p>
+          <p>You can find more information about factors that could affect our results in our Annual Report on Form 10-K and our quarterly reports on Form 10-Q.  You should not unduly rely on any forward-looking statements and we assume no obligation to update them.</p>
+          <p>And now, let me turn the call over to Meg.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks, Mark, and welcome everyone to today's conference call.  In conjunction with announcing our quarterly and annual financial results, we also made another big announcement today.  On March 31, 2008, I will step down as eBay's President and CEO.  Our current head of eBay Marketplaces, John Donahoe, will succeed me in my role and will join the Board.   Rajiv Dutta, our current President of PayPal and former CFO for many years, will replace John as the President of Marketplaces and will also take a seat on our Board of Directors.  I too will remain on eBay's Board.</p>
+          <p>I've always believed that planning for succession ensuring a seamless transition whenever I decided to leave my post was part of my role as President and CEO of the company.  I'm very confident that we have successfully executed this with the new appointments of John and Rajiv.</p>
+          <p>I was given a remarkable opportunity when Pierre Omidyar, eBay's founder, asked me to join eBay in January of 1998 and I couldn't be more in awe of what our employees and our communities of users have achieved together.  Working at eBay has exceeded all of my expectations and it is with great pride and a strong sense of accomplishment that I turn over the leadership of the company.</p>
+          <p>Many of you know I have repeatedly said that ten years was about the right amount of time for any CEO to stay at the helm of a company.  Now that I have reached that milestone, I've decided that it's time for eBay to have new leadership, a new perspective, and a new vision.  I've known John for many years and have believed for a long time that he would be the ideal person to succeed me at the right time.  We have worked really closely over the last three years to get to this point and I'm enormously confident in John's ability to steer eBay.  He is a fantastic leader who connects with and inspires our employees and both his inside and outside eBay work experiences will serve our users around the world very well.</p>
+          <p>So now let me talk about some of the highlights for the fourth quarter and the full year.  I will then turn it over to John who will talk about what you can expect to see from the company in the future.  Bob will then give you more context on the quarterly and annual results as well as our outlook for 2008.</p>
+          <p>Driven by another successful online holiday shopping season for eBay and PayPal, in Q4 we generated record net revenues of $2.2 billion, a 27% increase over last year.  The company also generated operating income of 755 million, a 31% year over year increase; and EPS for the quarter was $0.45, representing a 45% increase over last year.  We are very pleased by these very strong financial results.</p>
+          <p>Let me quickly give you a few operating highlights for each of our three business units for the quarter, starting with Marketplaces.  Revenue for our Marketplaces business unit was $1.5 billion, up 21% from the fourth quarter of 2006.  Based on unique visits, eBay was again the number one e-commerce site in the US, Germany, and the UK according to Nielsen/NetRatings.  Nearly 80 million shoppers came to eBay to make their holiday purchases.  In the quarter, eBay around the world drove more than $16 billion of GMV [Gross Merchandise Volume] and saw record volumes of traffic, number of listings, and velocity of trade.  We are clearly the online leader when it comes to delivering value and selection to millions of online shoppers.</p>
+          <p>Our PayPal business delivered another excellent quarter.  PayPal now represents nearly 8% of all global online transactions and is the e-commerce leader in payments.  For the first time since PayPal was acquired by eBay in 2002, PayPal has delivered three consecutive quarters of accelerating revenue growth.  Our remarkable Merchant Services business continues to grow rapidly, attracting thousands of new customers and merchants each and every week.</p>
+          <p>On the communications side, Skype had a strong quarter, delivering a total of $115 million in revenue, up 76% year over year.  We also reached a total of 276 million Skype users, while SkypeOut minutes also increased to 1.6 billion.  Among their successes for the quarter, the Skype Phone, launched with Skype's partner '3' continued to sell briskly in the UK, Italy, and Australia.  And our recent deal with MySpace has already helped bring millions of new users to Skype.</p>
+          <p>The fourth quarter capped off a strong 2007.  For the full year, the company delivered revenues of $7.7 billion, which represents 29% growth.  We also delivered more than $2.5 billion in non-GAAP operating income, and closed out the year with $5 billion in cash and investments, even as we repurchased $1.5 billion worth of eBay shares.  EPS grew 46% while operating margins remained at 33%.</p>
+          <p>It was clearly a record year for us financially, but it was also an important year for us strategically.  In our eBay business, we made substantial progress on meeting the growing expectations of buyers and sellers.  In fact, we took a look at every aspect of the site from trust and safety to user flows to see where we could do better.  We also tested various pricing strategies to learn what might work best for our sellers.  But with all these efforts, we know we have a lot more work to do, particularly in our three biggest markets.  John will talk in more detail about what we intend to do in 2008 to accelerate growth on eBay.</p>
+          <p>Another strategic thrust for us during the year was to focus on growing some of our newer businesses.  Our Classifieds business, for example, continues to be profitable and is growing rapidly.  We are now the number one or number two C2C classified site in over 450 cities and in 20 countries.  Our Dutch and English classified sites are on fire.  Also worth noting is the steadily increasing popularity of our classifieds brand, Kijiji, here in the United States.  This site has now more than 3 million monthly unique visitors and we are seeing very strong levels of user activity on the site.  StubHub, our online tickets marketplace, ended a very successful 2007 on a high note, having exited the year selling more than 5.5 million tickets to more 36,000 events.  And last but not least, our advertising partnerships with Yahoo! and Google continue to deliver revenues that have exceeded our expectations.</p>
+          <p>2007 was the year that PayPal was firmly established as the preeminent leader in online payments, both on eBay and off eBay.  PayPal delivered a total of $1.9 billion in revenue this year and continues to impress with its strong growth rates, innovative product launches, and expanding presence across the web.  In short, PayPal is a gem of a business and we couldn't be more pleased by its performance and trajectory in 2007.</p>
+          <p>As for Skype, while we were disappointed in the write-down we announced in October, it's important to remember that Skype is an extremely successful four-year-old.  Skype ended 2007 with $382 million in revenue and 276 million users, up significantly from 2006.  And SkypeOut minutes reached 5.6 billion, up 38% from last year, another indicator of the strength of the Skype business.  During the last two months of the year, the new leadership team at Skype has done a fantastic job.  Skype is exiting 2007 much stronger than it was even this summer, and the team is excited about the year ahead.</p>
+          <p>I'm extremely proud of eBay's performance in 2007; but more than that, I'm very confident about our future.  eBay has always been at the forefront of innovation.  By listening to our users, we pioneered almost every aspect of e-commerce, and by continuing to listen to our users, I'm certain that eBay's new management team will take eBay and our community to places we never dreamed we could go.</p>
+          <p>And with that, let me turn it over to John, eBay's next President and CEO.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thank you, Meg.  Before I spend time talking to you about our future plans, I want to take a minute to acknowledge Meg.  What Meg has built is truly remarkable and deserves a bit of pause and reflection.  When Meg joined eBay ten years ago, eBay was a small online auction site with only 30 employees and revenues of just $4 million.  In September 1998, just six months after she joined eBay, she took the company public, resulting in a valuation of about $2 billion.  And here we stand today a decade later and eBay is worth approximately 39 billion, employs 15,000 talented people, and has an unrivaled portfolio of brands that generated 7.7 billion in revenue in 2007.</p>
+          <p>Along the way, Meg has built outstanding relationships with our users, our investors, and our employees, and our partners.  But I know that Meg is most proud of the fact that 1.3 million people use eBay to earn all or some of their livelihoods.  This company has had an enormous social impact, a very positive impact that many people cherish.</p>
+          <p>What I'm inheriting from Meg is a well managed and well positioned organization whose best days are ahead of it.  I couldn't be more excited about the opportunity to lead eBay and I'm grateful that Meg will remain on our Board and has agreed to provide advice whenever I need it.</p>
+          <p>Let me tell you why I think eBay's best days are ahead.  Most importantly, we have three tremendous businesses.  eBay, of course, is the number one commerce platform in the world.  eBay's users traded nearly 60 billion of gross merchandise volume in 2007 and listed 637 million items in Q4 alone.   While eBay is not growing as rapidly as I would like, the brand, the traffic, and the work we did in 2007 positions us well and gives us strong advantages as move in to 2008.</p>
+          <p>Then there's PayPal. PayPal is a fabulous business. It's growing fast and has the kind of accelerating momentum you love to see. The opportunities for PayPal are unlimited.</p>
+          <p>Finally, there's Skype. When you reach 276 million users in just four years and achieve 382 million in revenue, you have a strong business. Skype is still a young company on a great trajectory that's revolutionizing communications on the Net.</p>
+          <p>With these three great assets in place, eBay has a leg up on the future, and our future is going to be all about delighting our customers and mining new areas of growth. Here is what you can expect.</p>
+          <p>First, we're going to get very aggressive about making eBay easier and safer to use. The Net has evolved dramatically in recent years.  Buyers have become accustomed to streamlined purchasing experiences that put a premium on speed, convenience, and reliability.  While we've made strides in these areas, I am clear that we need to do much more. So we've taken a close, hard look at the entire eBay buying and selling experience and we're going to make breaks from the past where necessary to deliver the experience our users tell us they want. Watch for us to make some exciting announcements about feedback, new user protection programs, customer support, and pricing over the next week.</p>
+          <p>Second, I believe eBay's next wave of growth is going to come from weaving the strengths of auctions with our fixed price offering in a uniquely eBay way. Auctions attract enormous value selection and fun to eBay.  But for many sellers and buyers and for many products, auctions are just not the optimal format. So what we need to do is marry the value selection and fun created by auctions with the convenience and opportunities inherent in fixed price. Only eBay can do this successfully and we believe this ability is a true competitive advantage.</p>
+          <p>The potential here is already evident.  Our global fixed price business already accounts for than 40% of our GMV, a clear indication that our users are embracing this format. In fact, the growth of our fixed price business is outstripping the growth of e-commerce. So we're confident that evolving to a better balance of auctions and fixed price for eBay's millions of buyers will accelerate growth in our business.  We understand in order to capture this opportunity; we need to aggressively change our product, our customer approach, and our business model.  Bob will talk in a minute about how we have architected our 2008 budget to give ourselves the freedom we need to act and win in our ongoing quest to revolutionize e-commerce.</p>
+          <p>Third, PayPal is an incredibly important part or our go-forward strategy.  With 57 million active users, PayPal is the leader in online payments, and we intend to extend that lead even further. We have more opportunities to make paying with PayPal on eBay easier and faster and the growth prospects for our early stage off-eBay Merchant Services business is stellar.  I believe 2008 will be PayPal's best year yet.</p>
+          <p>This company has a fantastic portfolio of businesses, a team of motivated employees, and a passionate following of users. These are the building blocks for our future. My commitment is to build from these strengths and make the changes that are necessary in today's competitive environment.  I'm confident that we can accelerate eBay's leadership position in the years to come and that's why I truly believe that eBay's best days lay ahead.</p>
+          <p>Now, I will turn it over to Bob for a closer look at the numbers.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Thanks, John.  First, let me both acknowledge and thank Meg for all her accomplishments over the last 10 years and the opportunity to work with her over the last 20 months or so; and secondly congratulate John on his new role.  I would also like to reiterate John's comment that eBay's best days are ahead of us.  As the competitive landscape intensifies and consumer expectations for online shopping experience increase, we have the leading position in e-commerce, online payments, and online communications. By listening to our community of users, we will take the necessary actions to extend our leadership positions.</p>
+          <p>Now, let me turn to the business at hand.  First, I will review our Q4 and full year '07 financial performance in some detail and then I will give you some color around our 2008 guidance.  During my discussion, I will reference our earnings slide presentation which accompanies the webcast.</p>
+          <p>Overall, we are extremely pleased with our Q4 results.  We generated strong top line growth, even stronger non-GAAP earnings growth, and excellent free cash flow.  Additionally, we purchased more then 300 million worth of eBay shares during the quarter. These results cap off a great finish to a very strong year for our company.</p>
+          <p>In total, our combined businesses generated record net revenues of 2.2 billion, a 27% increase over last year.  This was a milestone quarter for us as we achieved 2 billion in quarterly revenue for the first time ever.  Organic revenue growth excluding acquisitions and foreign exchange was 18%.  Growth was turbocharged by PayPal and its Merchant Services business and by some of our non-GMV businesses such as Shopping.com, advertising, and classifieds, where we continue to gain traction.</p>
+          <p>Non-GAAP EPS was $0.45, a 45% increase from last year and $0.04 above the high end of our guidance range.  The EPS growth was primarily driven by strong operational performance across most of our businesses.  In addition, we also benefited from a weaker US dollar, a lower tax rate, and a reduced share count when compared to last year.</p>
+          <p>Operating margins came in at 34.6% in the quarter, 120 basis points higher than last year.</p>
+          <p>We generated 665 million of free cash flow in the quarter, an increase of 26% above last year's level, primarily driven by earnings expansion.</p>
+          <p>Now let's take a closer look at our segments results for the quarter.  Overall, our Marketplaces business segment achieved net revenues of 1.5 billion, an increase of 21% over a year ago.  Global GMV was 16.2 billion in the quarter, a 12% increase.</p>
+          <p>Now let's walk through some of the key operating metrics.  eBay has 83 million active users at the end of December, up 7% over last year excluding China and Taiwan.  New listings totaled 637 million in the quarter, representing growth of 4% versus Q4 '06 and marking the first time in three quarters that listings have increased on a year over year basis.   US GMV was 7.3 billion in the quarter, an increase of 8% year over year.  International GMV grew by 16% year over year to 8.9 billion, accounting for 55% of global GMV.  Excluding benefits from foreign exchange, international GMV grew by 8% and international listings growth was up 10%, again excluding China and Taiwan.</p>
+          <p>In Europe, revenues in Germany and the UK grew in the mid-teens while France continues to grow at stronger rates, helped by successful category specific pricing promos during the quarter.  We're also seeing positive early results from our Best Match relevant space search in France which rolled out mid-quarter in certain categories.</p>
+          <p>In Asia, GMV in Korea grew 33% year over year in the quarter excluding vehicles, where we no longer capture GMV due to a format shift.  We're pleased about performance in Korea, where we believe we've significantly narrowed the gap with our main competitor over the last three or four quarters and have gained significant share in the overall Korean e-commerce market in the process.</p>
+          <p>Elsewhere in Asia, we continue to experience robust growth in Australia, and our cross-border trade out of Asia is becoming increasingly important for us as a company as well priced merchandise from China and Hong Kong finds its way onto our US and European sites.</p>
+          <p>In Q4 as in previous quarters, we continued to see a wide gap between year over year growth in listings and growth in Marketplaces revenue.  The 8 point gap between listings at 4% and GMV growth at 12% is primarily explained by three factors.  First, we no longer include listings from China and Taiwan; second, our acquisition of StubHub in Q1 '07; and third, benefits from foreign exchange.</p>
+          <p>The 9 point gap between GMV and revenue is primarily driven by continued strength in our non-GMV businesses such as shopping.com, classifieds and advertising, and the inclusion of StubHub, which has a higher than average take rate.</p>
+          <p>We continue to make great progress in diversifying our revenue streams in 2007, and we expect continued progress in 2008 and beyond.  Both our advertising and classifieds businesses were in hyper-growth mode this quarter, growing at 182 and 104% respectively.  And shopping.com, our online comparison shopping business, continued on its strong growth trajectory with 26% growth over the prior year.</p>
+          <p>In summary, our Marketplaces business posted a solid quarter with excellent financial results.  However, the key operating metrics and resulting GMV growth in our big three eBay markets are still not where we want them to be; so as John said, we'll need to accelerate the pace of change in 2008.</p>
+          <p>During 2008, we'll focus on retaining the strength in our leadership position in e-commerce by taking bold steps to meet the expectations of our community in the areas of product innovation, trust and safety, end-to-end customer experience, and pricing.  We've made significant strides in '07, and we'll double down on our efforts as we head into '08.</p>
+          <p>We're making a number of changes in '08, but one area which I know you have a lot of questions on is pricing.  We spent a significant amount of time and effort over the past couple of quarters studying our fee structure in relation to the elasticity of supply and demand on our sites.  We've learned a great deal from the pricing tests we ran in the back half of 2007, and we'll announce specific changes to our seller community in the coming weeks.  In essence, we believe that sellers will be willing to list more high quality inventory on eBay if we were to change the risk/reward ratio in their favor, namely by reducing upfront listing fees and increasing final value fees.</p>
+          <p>We also believe that listings with gallery photos improve the buyer experience and increase the conversion of browsers to buyers.  As a result, in the US we'll make it more attractive for sellers to incorporate the gallery feature with their listings.  All in all, we believe that these upcoming pricing changes will help deliver to sellers the best economics on the Web and thereby help stimulate velocity of trade on our largest marketplaces as buyers find the widest product selection at great low prices.</p>
+          <p>As I said, we anticipate the pricing changes we plan to announce next week will shift some of the conversion rate/risk from sellers to us, and it is also likely to reduce our take rate modestly in 2008.  However, we believe the modest take rate reduction will more than pay for itself over time as we stimulate long term growth on our marketplaces.</p>
+          <p>Now let's turn to our payments business.  PayPal posted another stellar quarter with total revenue coming in at 563 million, a 35% increase versus the same period last year.  This strong growth rate is a reflection of the tremendous progress we're making in our efforts to achieve ubiquity for PayPal on the Web through increased penetration on eBay and an expanded global footprint beyond eBay.</p>
+          <p>Net total payment volume in the quarter was 14 billion, an increase of 35% year over year, making a third straight quarter of accelerating growth.  TPV [Total Payment Volume] grew by 30% in the US and 43% internationally.  PayPal accounted for 12% of US and 8% of global e-commerce in the quarter.  In terms of key operating metrics, PayPal had over 57 million active accounts in the quarter on a 12-month trailing basis, an increase of 16% over the same period last year.</p>
+          <p>On the eBay platform, PayPal's global net TPV grew by 17% year over year.  TPV growth was fueled by increases in GMV coupled with an increase in the global penetration rate on eBay to 54% of addressable GMV, up from 51.6% last year.  Beyond the eBay platform, PayPal's Global Merchant Services business recorded another phenomenal quarter, generating 6.1 billion of TPV, a 66% year over year growth, and also marking a third straight quarter of acceleration.  We continue to attract top online retailers to our platform and consumers increasingly turn to PayPal as the preferred way to pay on the web.</p>
+          <p>PayPal's Q4 transaction expense was 118 basis points and its transactions loss rate was 27 basis points this quarter as its segment margins improved sequentially.</p>
+          <p>In summary, PayPal notched another great quarter and our Global Payments business continues to be one of the key pillars of our company-wide growth strategy.</p>
+          <p>Now let's turn to our Communications business.  Skype posted total revenue of 116 million in the quarter, an increase of 76% over last year while delivering a fourth consecutive quarter of segment profitability.  Skype's total registered users grew to an impressive 276 million, representing an increase of 61% over last year.  On key user metrics, Skype-to-Skype minutes were up 26% versus last year at 11.9 billion and SkypeOut minutes increased 10% versus last year at 1.6 billion.</p>
+          <p>Now let me touch briefly on Inc. level operating expense and cash position before I discuss our 2008 guidance.  We recorded 755 million of non-GAAP operating income, up 31% on a year over year basis and non-GAAP net income of 611 million, up 42%.  Sales and marketing improved 260 basis points from the year ago period.  Product development was up 40 basis points, and G&amp;A was down 150 basis points.</p>
+          <p>We ended the fourth quarter with more than 5 billion in cash, cash equivalents, and investments, an increase of approximately 600 million from the end of last quarter; and we utilized 312 million to repurchase approximately 9.2 million eBay shares.  We have repurchased 3.2 billion worth of eBay shares since we launched our first repurchase program 18 months ago.  And today, we have announced that our Board of Directors authorized an additional 2 billion of share repurchases.  Coupled with the outstanding balance on our previous authorization, this gives us the flexibility to opportunistically purchase approximately 2.8 billion worth of eBay shares over time.</p>
+          <p>The fourth quarter results capped off a strong year.  Net revenues were up 29%.  Non-GAAP EPS was up 46%, and free cash flow was up 26% over the prior year.  Organic revenue growth excluding acquisitions and FX was up 21%.  Our operating margin was up 30 basis points from the prior year, attributable to continued productivity and leverage as well as foreign exchange benefits, which more than offset the impact of negative mix and investments we made in product development and marketing.</p>
+          <p>With that, let me turn to our non-GAAP guidance for full year 2008 and for the first quarter.  For full year 2008, we expect to generate revenue of 8.5 to 8.75 billion, non-GAAP EPS of $1.63 to $1.67, and generate free cash flow of 2.3 to 2.4 billion.  The expected revenue represents year over year growth in the range of 11 to 14%.</p>
+          <p>Our guidance reflects some of the momentum we carry from 2007 and some of the challenges we face in 2008.  First, we expect continued momentum in our PayPal, advertising, and classifieds businesses.  Each of these businesses grew rapidly in 2007, and while we feel great about the progress, we expect that growth will come off these '07 levels.</p>
+          <p>Second, our GMV-based business in our three largest markets will be challenged, and John discussed the series of bold actions we would take.  As part of these moves, we plan to implement pricing actions, which moderately reduce our take rate; and customer loyalty programs, which are reported as contra-revenue.  These factors will contribute to growth slowing a bit.</p>
+          <p>Third, e-commerce is expected to decelerate in 2008, and we've taken a cautious outlook for consumer spending in our major markets.</p>
+          <p>Finally, our guidance reflects &#x2013; or excludes any significant impact from M&amp;A activity in the year.</p>
+          <p>We expect our operating margin for full year 2008 to be approximately 32%, around 1 point lower than 2007.  While productivity and leverage will offset our increased investment and the impact of pricing actions, they will not be able to offset business mix working against us as our lower margin businesses, PayPal and Skype, grow significantly faster than Marketplaces.  Non-GAAP EPS growth is expected to be in the range of 7 to 9%.  Excluding the one-time tax benefit in the third quarter of 2007, non-GAAP EPS growth is expected to be in the range of 9 to 12%.  GAAP EPS is expected to be in the range of $1.27 to $1.31, with the difference primarily being stock-based compensation expense and amortization of intangibles.</p>
+          <p>We anticipate we'll generate 2.3 to 2.4 billion of free cash flow in 2008. Our strong cash position at the end of last year coupled with strong expected cash flow generation will give us the flexibility to pursue strategic acquisitions and continue with opportunistic share repurchases.</p>
+          <p>In the first quarter, we expect to generate revenue of 2 billion to 2.05 billion and non-GAAP EPS of $0.37 to $0.39.  GAAP EPS is expected to be in the range of $0.28 to $0.30.</p>
+          <p>In summary, we're pleased with our Q4 and full year 2007 performance and we'll carry that momentum into 2008. As John said, we're clear about the challenges we have in front of us.  We're clear on what needs to be done in order to accelerate future growth in our eBay business and I believe we have the best people in place and focus on our most difficult challenges.</p>
+          <p>Our focus will be on executing our strategy to extend our leadership position in e-commerce, and in addition we'll continue our efforts to diversify our revenue streams. We believe the financial architecture of the plan will allow us to invest in and make necessary changes to our business while still delivering top line, bottom line, and free cash flow growth to our shareholders.</p>
+          <p>And now we'd be happy to answer your questions. Operator?</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you sir. <mark type="Operator Instructions" />. We'll go first to Scott Devitt with Stifel Nicolaus.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Hi, thank you.  I have two questions. First, could you talk a little bit about eBay Express, some of the recent search integration of Express on core eBay, and how you may be able to segment the marketplace between core eBay and Express over time?  And then separately on the coming pricing adjustments, if you exclude Gallery initiatives, could you talk a little bit about whether the focus on shifting risk from listings to success is going to be exclusively on fixed price listings or whether you plan to shift risk toward the back end in auctions as well? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>John do you want me to take eBay Express and maybe you take the pricing jump?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Sure.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>So eBay Express, interestingly enough, has been &#x2013; had quite a successful year in the US and I think what it demonstrates is that a seamless, very convenient, fixed price shopping experience is good for our buyers and they like it. What we're going to do in 2008 and beyond is actually more deeply integrate our fixed price offering into what we call the river of traffic, the 80 million eBay users that come to the site, so that they have a chance to see those listings.  So eBay Express was the right strategy.  Not showing it to all 80 million users is something that we need to fix in 2008, and I think you're going to see John and the team really roll out a more integrated fixed price auction offering that uniquely displays those two formats in a uniquely eBay way.  Do you want to talk about pricing?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Just to add to that, the way I'd say it is eBay Express has been a fantastic learning laboratory and we're going to take those learnings and pull them into core eBay's fixed price experience.  On pricing, Scott, the rebalancing of pricing will apply to both fixed price and auctions.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Great, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Imran Khan with JPMorgan.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Yes, hi; thank you for taking my questions; Meg, best wishes in your new venture; and John, congratulations on your new role.  Two questions; first, I think it seems to us that some of your competitors are doing some of that to reduce the user/consumer friction, buying friction, by introducing prime shipping or free shipping or one-click shipping.  In your business model, how do you think you can improve the user or buyer's experience or reduce friction?  And I think, John, you talked about some of the initiatives. Can you give some color?</p>
+          <p>And secondly, the second question is for Bob.  Bob, you talked about that in terms of your guidance, you have been conservative and take into consideration consumer spending slowdown.  If I look at the last three years, you have exceeded on your high end guidance by average 5 percentage points.  Can you give us some maybe color like what kind of conservatism you are baking into in terms of consumer spending slowdown?  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Why don't I take your first question, Imran?  With respect to reducing friction and shipping, obviously we run a marketplace and so we don't control shipping.  Our sellers do.  Now the good news is we have millions of sellers that provide reasonable, fast shipping.  And what we intend to do in 2008 is alter our policies such that we will incent and reward those sellers that provide the best shipping cost and speed.</p>
+          <p>The reason we can do that is the change we made in 2007 around feedback with detailed seller ratings created user-generated feedback for the sellers on shipping timing and shipping cost.  And we now have a database, if you will, to be able to use that information in search and in other areas so that those sellers that provide reasonable, fast shipping will show up higher in search results, and be rewarded and provide a better buyer experience.  So we try to address this in a very eBay way.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Imran, on the top line guidance for 2008, our guidance is about 11 to 14% top line growth.  And as it relates to the economy, as our business becomes more and more diversified, we believe we are increasingly sensitive to economic conditions.  So when we put our guidance together, the words I would use is we are cautious in terms of looking at what's happening, particularly here in the US, in developing what we thought was the best case plan based on what we know today.  I hope that twelve months from now that we will outperform our guidance again.  That being said, we think the current guidance best reflects all the information we have as we know it today.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Doug Anmuth with Lehman Brothers.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay, thank you; two questions.  The first one is what gives you confidence that the new Find technology is strong enough to handle the likely increase in listings you'll likely see with the lower listing fees?  That's number one.  And second, I think Bob alluded to customer loyalty programs going forward, if you could potentially elaborate on that?  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Sure, should I take the first and then Bob take the second?  On the Find technology, as I said earlier, we've learned a lot around relevant space search from our work in eBay Express, from our work in Korea.  We've actually rolled out Best Match, which is really our version of relevant space search in France.  And so we feel confident that we are going to be able to handle both the increase in fixed price listings as well the ability to serve them to buyers in a way that brings the best value and highest service right to the top.</p>
+          <p>It's interesting, Rajiv is going to be taking over the Marketplaces business, and he's already talking about the race to the top of the highest value, best service, fixed price listings for our buyers.  And so, we learned from our experiences in 2006 that you can't get one side of the equation right without the other.  I think we've got the ingredients in place so that in 2007, we feel like we can substantive progress in improving the fixed price experience, and do that alongside of the auctions experience.  We still have this fantastic auction experience where the core search will continue to be time ending soonest.  So we feel like it's the best of both, which is uniquely eBay.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>In terms of the question on customer loyalty, we have this massive user base and our focus is on getting our existing users to be more active and more frequent in their shopping.  And we believe one of the best ways to do that is with a loyalty program to reward and motivate our top buyers and we're going to be rolling that out during the course of 2008.  The implications in terms of how we account for that particularly as it relates to couponing will be a contra-revenue that all else equal would lower the top line growth.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>And Bob, let me just build on that because I think our plans around customer loyalty go beyond just the couponing.  That's the one that's going to hit the revenue figures.  But we absolutely &#x2013; our top buyers believe they are deeply loyal to eBay.  They want to do more business with eBay and we need to make it easier for them to do that; and so that's where you've seen some changes to our feedback system.  That's where we providing better customer support for our top buyers.  That's where PayPal can come in and provide them complete guarantees.  So we have a number of things in store that I think really take advantage of cementing our relationship with our most loyal buyers.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Are you able to quantify that at all, the customer loyalty in terms of how that's factored into your current guidance?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>All I can say is it's factored into our current guidance.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Heath Terry with Credit Suisse.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Great, thank you.  I was wondering if you could give us an idea &#x2013; you talked about what you learned in the form of relevant space search in France as you introduced Best Match.  You also introduced Best Match in a few categories here.  Can you talk about the early metrics on what you're seeing for those categories where Best Match has been applied? And then since you've done testing beyond that, where you can give us an idea of what kind of early results you're seeing?  I would certainly appreciate that.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Sure, let me just say upfront that relevant space search or Best Match is not going to be a silver bullet.  This is not something that we're going to turn on overnight into this gigantic eBay ecosystem and it be a silver bullet.  We have rolled out relevant space search in Korea in a fixed price market and have seen a real acceleration of growth in that particular market.  In France, we are seeing Best Match increase the ability of buyers to find what they like either in the auction format or in the fixed price format and we've seen an increase in successful items and GMV, so we are encouraged by the results.</p>
+          <p>As we roll this out in 2008, we're going to both be aggressive but also balanced and thoughtful about how we do it because we are conscious that we have the world's largest e-commerce platform with $60 billion of gross merchandise volume going through it and search is a core functionality.  So, we're learning aggressively; we're going to be more aggressive in '08 than we have in '07.  We're encouraged by the early results and we think, as Bob said, by the end of the year that we're going to be in a much stronger position to bring both a great auction experience with a great fixed priced experience to our millions of buyers.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Great, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Brian Pitz with Banc of America Securities.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Great, thanks.  With respect to listing fee reductions, can you talk about the potential for total elimination of listing fees or specifically in certain categories, especially given competing sites that are out there that do not charge listing fees upfront.  Second, unrelated, can you talk about the acceleration of advertising during the quarter, any color on specific initiatives here that would be quite helpful to us?  And just Meg and John, congratulations and good luck on your moves.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thank you, Brian.  So maybe I will take the listing fees, and then...</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>I can talk about advertising.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>So Brian, on listing fees, the pricing that we will announce early in the year will, as Bob said, shift the balance, but there will still be insertion fees because we think that in our core format, insertion fee is still important to motivate sellers to price items well. I will remind you we have a stores inventory format, which is a way where sellers can list items at a significantly lower price.  The insertion fees today in the stores item format in the US for instance are $.05 per month.  So, we have a format that allows sellers to upload large numbers of listings and do that in a way that has lower upfront fees and higher final value fees. I think as we evolve and go through the year, you will see us build on this learning and begin to bring these products together in a way that we balance finding, insertion fees, and the right format.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Brian, on the second question on the advertising and the other related performance in the quarter, it has been a continuation of what we have demonstrated throughout the course of the year where essentially our advertising business has doubled year over year each quarter and has demonstrated continued momentum throughout the course of the year.  It's primarily driven by the relationships with Yahoo! for both text-based and graphical ads here in the US and Google internationally with text-based.  So this is one that you will remember a year ago, we were talking about testing; a year later, a really good performance on advertising.  We expect that to be a source of revenue growth as we go through the course of this year as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We will go next to Robert Peck with Bear Stearns.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Hi, guys; just a couple of quick follow ups here. First of all, for the changes in the fee structure, have you said it is going to be site-wide or is it going to be category specific?  And then I was wondering also if you can maybe quantify for us a little bit more on what you're seeing as far as impact to conversion rates, ASPs, and listings.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>We'll be announcing the fee structures for both US, Germany, and UK next week, and so they will be site-wide changes.  In some countries, there will be some category dimensions to it and others that will be less so.  So what we've tried to do is take the testing we did last year in Germany, UK, and US, and while there will be some similar principles across all three, we tried to customize the actual pricing to what we learned in each country and to how users, both buyers and sellers, responded.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>The second component of your question, I would characterize what we saw in the aggregate across all of our different pricing tests around the globe essentially was a modest increase in listings.  The fourth quarter you saw for the first time in four quarters a growth in listings, and part of that was attributed to the pricing tests we have done; and secondly, modest improvement in conversion rate as well.  So as John referred to, improvements in successful listings for successful items, it was a function of both: modest listings growth and modest improvement in conversion as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>And then ASPs because what we're trying to do in the pricing is also incent listings at the lower price levels as well as higher price levels.  We saw ASPs come down a little bit but GMV, while up, came down a little bit less.  So part of our goal here is to build real marketplace vibrance at all price levels, and we think our tests show us that we have the ability to do that.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>John, how do you assure it's quality listings?  I think one of the concerns is that as the listing fee comes down, you get flooded with a bunch of stuff that maybe consumers don't want to see.  How do you control that you actually get increased quality on the site?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="a">
+        <plist>
+          <p>I think that's a very good question.  That gets to why we're keeping the insertion fee in the first part of the year, and as we implement more finding changes, inventory that's not well priced will never get exposure.  So just in the fixed price format, inventory that's not well priced will get less and less exposure.  And so auctions, obviously you're guaranteed exposure because time ending soonest and that by definition allows the best values to rise to the top.  In the fixed-price format, what we didn't do in '06 but what we will do in '08 is ensure motivation through Best Match where only the best priced items with the highest service levels rise to the top of exposure.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Jeffrey Lindsay with Sanford Bernstein.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Hello. I wanted to ask, the step down from revenue growth from 29% down to 13% growth is starting to look less like a growth play for the company overall and more like a value play.  Could you comment on is the company likely to accelerate plans that it discussed in earlier quarters to restructure the balance sheet and take on debt and become more of a value play, basically using the debt to buy back stock?  And then the second question is, is eBay considering any new initiatives to stimulate growth of its third-party business?  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Let me take the first part of it.  First, just maybe a point of clarification on growth rates; '07's 29% growth rate on an FX organic, FX-neutral organic basis, which I think is the appropriate compare, was 21% in 2007.  So, the differential growth rate may be not as wide as you expected.</p>
+          <p>Secondly, we ended 2007 with a great balance sheet: $4.3 billion in cash, essentially zero debt, and over the last several quarters, we have bought back a significant number of shares and taken steps to ensure that despite the fact that our strong cash position isn't all in the right places to ensure that we have the flexibility to continue the buy back program.  Today, we announced an increase in the overall buyback program by another couple billion dollars; so our intentions are to continue to be opportunistic.  As it relates to further moves in balance sheet or levering up, we're not &#x2013; we've got a great cash position.  We'll use it to invest and grow the business and we'll also use it to opportunistically buy back stock.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="a">
+        <plist>
+          <p>Jeffrey on your second question, I want to make sure I understand.  When you say stimulate our third-party business, could you be more specific in what you're referring to?</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Yes, really the people who basically are store sellers; and basically could you comment on we're picking up a migration basically of some business through Amazon's third-party sales and could you comment on that and what steps you might take to stimulate that business in the year?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="a">
+        <plist>
+          <p>Yes, our Stores business is experiencing strong growth and our sellers like that format, particularly to lift, as we talked earlier, those safe items that have very low insertion fee and longer duration.  And so what we have begun to do in Q4 and we will also do in 2008 is where it's appropriate, increase the exposure of the store inventory.  So for instance if you do a search for the &#x2013; I grew up in Chicago, so I was a big fan of Ernie Banks in the '60s.  So for an Ernie Banks baseball card and our core format only has 10 items, yet we have 30 of them in the Stores format, we will show the Stores format in core search.  And so we're increasing the exposure of our Stores inventory in those places that make sense, and we'll continue to do so in 2008, and we're coming down that learning curve on I think finding the right search approach so that we can give the best to both, both core and Stores.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Mary Meeker with Morgan Stanley.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Yes, Dave and I have a couple questions; and John, the question is not who is Ernie Banks; but Meg, thanks for building such a great business.  It's been really inspiring to watch, and question for you is why change now? Question for Bob, obviously revenue growth forecasts for '08 are below consensus but the operating margin percentage is the same as I think people, we think people were forecasting.  You talked about productivity improvements.  How should we think about that?  What are they?</p>
+          <p>And three, John, you talked about the growth opportunities for PayPal, Skype, advertising, StubHub, et cetera, and the key issue for '08 will be determining the eBay core growth rates.  And you talked about the pricing changes et cetera, but is it your expectation that we could potentially get to double digit listing growth, which would be a nice acceleration from where we are today, which could obviously bode well for financial results in the second half of this year and into next year?  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Mary. It has been an incredible journey for me, and I have been honored to be able to lead eBay and serve our community for 10 years.  But as I've said almost since I came to eBay that I thought 10 years about the right amount of time for a CEO to serve in this industry.  With the remarkable underlying technology change, competitive change, I think it's important that new perspective and new eyes come to the company, and I think it's tough to stay fresh after 10 years no matter who you are.  So I've been thinking about this for some time.  Three years ago I brought John into the company, and we've worked very closely over the last three years.  He's done a great job leading the biggest part of our business and bringing a new process and a new thought process to eBay.  And I thought John was ready; the Board thought John was ready and I felt like it was the right time to turn over the reins and I think as you can see, we're in very good hands.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Mary, in terms of operating margin, our guidance reflects roughly 32% operating margin, which is down about a point from last year. And the way our plan is built is we will generate significant productivity and leverage. However, our intentions are to reinvest that back into our customers, whether it's through pricing actions, whether it's through improved loyalty and buying experience. It's generate productivity; reinvest back into our customers.  Where our margins will go down in 2008 is primarily a function of mix. PayPal will continue to exhibit strong growth. Skype will exhibit strong growth, both faster than the Marketplaces.  And as a result, margins purely for mix will decline on a year over year basis.</p>
+          <p>In terms of where the productivity will come from, a few things; things that you've seen during the course of 2007: G&amp;A leverage, we'll continue to get good momentum on G&amp;A leverage.  We'll be more and more efficient with our sourcing buy. Investments in technology to improve our risk models and bring down fraud losses are three of the key components that will drive efficiencies during the course of the year.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="a">
+        <plist>
+          <p>And Mary, to your third question in this trifecta, we couldn't agree more that the core eBay business and re-accelerating growth in core eBay business is critical. It's my number one priority.  It's the company's number one priority. That's why Rajiv and Lorrie Norrington &#x2013; we're putting our all-star team on it.</p>
+          <p>And with respect to listings growth, listings growth will be one indication. I'm not sure it's going to be the best indication because over time, we envision in the fixed price format that multi-item listings may be more prevalent. And so we're going to be focusing on sold items because sold items show us the real velocity of trade on the site. We're confident we're going to make progress in 2008 and we intend to be in a stronger position coming out of the year than we are going in.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Hey John. I'm sorry, it's Dave Joseph; one quick follow-up. Obviously, we love the changes that you're making to the site and improving the product and leveraging technology to govern quality but one overriding issue remains to be &#x2013; continues to be demand. And it looks like active users decelerated again to about 2% year over year in the fourth quarter despite actually having launched a new marketing campaign in mid-September. I'm wondering if you can give us a little bit of color on how the marketing campaign went but also that seems like a fairly big issue for 2008 and how you might be able to address that. We know coupons is one, but what else might you be able to do?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="a">
+        <plist>
+          <p>I'll remind you that in the fourth quarter, we had 80 million online shoppers come to our site; so the scale of our traffic is still significant and I believe excluding &#x2013; 83 million &#x2013; and excluding Taiwan and China was up 7%.  What we are really focusing on, this is why we are focusing on the buyer experience because continuing to improve our buyer experience is going to allow us to retain our current users more effectively, and we've got some strong and loyal users, and to attract new users.  People who may be new to eBay are more familiar with more standard e-commerce formats and have trouble getting started on our site. We think we can improve the ease and safety of shopping on eBay and that that is going to allow those new users to convert to ongoing users.</p>
+          <p>With respect to our marketing dollars, we are going to continue to allocate our marketing dollars between online marketing, which is our biggest investment, investing more in more loyalty oriented, and then we will do some offline in Q4 '08.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We will go next to Ben Schachter with UBS.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>I was just wondering given the amount of changes that the site is going to be going through in Q1 and probably throughout the year, why not give yourself a wider range in terms of the guidance? What gives you confidence that you can accurately predict how these changes are really going to impact the site and maybe answer that in context of how well you predicted the big changes that happened in Q4? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>In terms of the guidance we gave, we have tried to take into account the momentum we have seen in some of our non-GMV businesses.  In our GMV business, try to take into account the actions we took in the fourth quarter, the lessons we learned from them, and how we incorporated them in our 2008 plan. So we are trying to take the best of what we know, what we've learned, and give you a range of guidance that we feel we can deliver on in the course of 2008.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Okay, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, sir.  We will go next to Justin Post of Merrill Lynch.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Thanks for taking my question. I will go over to PayPal because there haven't been a lot of questions about that. When you look at the mix, clearly Merchant Services is growing faster.  Can you compare the difference between the funding expense as well as the take rates between Merchant Services and on eBay?  Obviously, PayPal is a big asset for the company.  Can you give us any thoughts on where your margins are today and where you think they can be over time in that business just to help us get an understanding of what this part of your business can be worth long term?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Hey, Justin; thanks. Yes, PayPal, a great quarter and great year with Merchant Services growing even faster than the core business. In terms of funding mix or funding expense, not dramatically different between eBay versus non-eBay; it's more a function of the products in which we offer. Then we see some distinctions in terms of product funding mix.  What we know is over time, time is a key metric; the more PayPal is offered by a merchant and used by a consumer, the better the funding mix gets over time. In terms of the second portion of your question?</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>The pay grade difference?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Yes, we indicated a couple years ago that we believe that long term margins for PayPal are in the 20 to 25% range.  During the course of '07, we have made substantial investments to accelerate the growth of PayPal and in particular Merchant Services and we've seen as I indicated earlier, we've seen some pretty good improvement and sequential margin growth from Q3 to Q4 and we expect that to continue during the course of 2008.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Operator, we have time for one last question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, sir.  Our last question today will come from Christa Quarles of Thomas Weisel.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Hi, the first question I guess is on the conversion rates and ASPs.  In Q4, the lift was a lot smaller than the last three quarters, I think 0.4%. I was just wondering, it sounded like, John; you made some comment about improving the robustness of the lower ASP items.  I was just wondering if you could maybe finer slice the conversion rate version of the ASP and the impact in the quarter there.  And then the second question was just also on PayPal.  You guys did a fair amount of promotional activity in the fourth quarter.  I was just wondering if you could be more specific as to whether you felt that that enabled you to gain share for example against Belle Milaire and how is that likely to be positioning yourself going forward? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Yes. On the first question, the primary difference in the fourth quarter on conversion rate and ASP was really comps. Last year in the fourth quarter, we had a fantastic improvement on conversion rate and ASPs, particularly driven by hot consumer electronics in the fourth quarter of last year. So this years' fourth quarter was just a much tougher comp, so we feel pretty good in light of that that even though listings went up, conversion rates still held and marginally improved.</p>
+          <p>In terms of PayPal generally, again, 66% growth in Merchant Services during the fourth quarter as we continue to invest both in merchant adoption and consumer adoption and we believe that bodes well as we go into 2008.  As I indicated, PayPal will be a big part of the growth story in 2008 and will continue to expand not just PayPal on eBay and off eBay with Merchant Services but also leverage that huge user base to add new products and features like PayPal Later that we just introduced several months ago.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Just one quick follow up on the conversion rate comment; if you comped over some of the low hanging fruit, where do you see additional growth expansion there on the conversion rate?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>We'll go back a few years and say conversion rates several years ago used to be much higher than they are today and we believe as we make the appropriate steps on the user experience and the actions John talked about in terms of engaging our buyers more effectively that we still have more headroom to improve conversion rates as we go forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Okay.  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Great, thank you very much for listening today and I'm delighted to turn over the leadership to John, so thanks for coming today.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>That does conclude today's conference call.  We again thank you for your participation.  You may disconnect at this time.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

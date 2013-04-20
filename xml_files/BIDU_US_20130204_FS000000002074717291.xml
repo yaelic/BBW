@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1531478" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q4 2012 Earnings Call</title>
+    <date>2013-02-04</date>
+    <companies>
+      <company>44197</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep" affiliation="Director of Investor Relations">Victor Tseng</participant>
+      <participant id="2" type="corprep" affiliation="Co-Founder, Chairman and Chief Executive Officer">Robin Li</participant>
+      <participant id="3" type="corprep" affiliation="Chief Financial Officer">Jennifer Li</participant>
+      <participant id="4" type="analyst" affiliation="JPMorgan Securities (Asia Pacific) Ltd.">Dick Wei</participant>
+      <participant id="5" type="analyst" affiliation="Barclays Capital Asia Ltd.">Alicia Yap</participant>
+      <participant id="6" type="analyst" affiliation="HSBC Investment Bank Asia Ltd.">Chi Tsang</participant>
+      <participant id="7" type="analyst" affiliation="Jefferies (Hong Kong) Ltd.">Cynthia Meng</participant>
+      <participant id="8" type="analyst" affiliation="Deutsche Bank AG (Broker China)">Alex Yao</participant>
+      <participant id="9" type="analyst" affiliation="Macquarie Capital Securities Ltd.">Jiong Shao</participant>
+      <participant id="10" type="analyst" affiliation="Nomura International (Hong Kong) Ltd.">Jin-Kyu Yoon</participant>
+      <participant id="11" type="analyst" affiliation="Oppenheimer Securities">Andy Yeung</participant>
+      <participant id="12" type="analyst" affiliation="Goldman Sachs (Asia) LLC">Piyush Mubayi</participant>
+      <participant id="13" type="analyst" affiliation="Merrill Lynch Far East Ltd.">Eddie Leung</participant>
+      <participant id="14" type="analyst" affiliation="UBS Securities (Asia) Ltd.">Vey Sern Ling</participant>
+      <participant id="15" type="analyst" affiliation="Goldman Sachs (Asia) LLC">Catherine Leung</participant>
+      <participant id="16" type="analyst" affiliation="CIMB Securities Ltd.">Wendy Huang</participant>
+      <participant id="17" type="analyst" affiliation="Morgan Stanley Asia Ltd.">Richard Ji</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Hello and thank you for standing by for Baidu's Fourth Quarter and Full Year 2012 Earnings Conference Call. At this time, all participants are in listen only-mode. After management's prepared remarks, there will be a question-and-answer session. Today's conference is being recorded and if you have any objections, you may disconnect at this time.</p>
+          <p>Now, I'd now like to turn the meeting over to your host for today's conference, Victor Tseng, Baidu's Investor Relations Director.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Hello, everyone, and welcome to Baidu's Fourth Quarter and Full Year 2012 Earnings Conference Call. Baidu's earnings release was distributed earlier today and you can find a copy on our website as well as on newswire services. Today you will hear from Robin Li, Baidu's Chief Executive Officer; and Jennifer Li, Baidu's Chief Financial Officer. After their prepared remarks, Robin and Jennifer will answer your questions.</p>
+          <p>Before we continue, please note that the discussion today will contain forward-looking statements made under the Safe Harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements are subject to risks and uncertainties that may cause the actual results to differ materially from our current expectations. Potential risks and uncertainties include, but are not limited to, those outlined in our public filings with the SEC, including our annual report on Form 20-F. Baidu does not undertake any obligation to update any forward-looking statement, except as required under applicable law.</p>
+          <p>Our earnings press release and this call include discussions of certain unaudited non-GAAP financial measures. Our press release contains a reconciliation of the unaudited non-GAAP measures to the unaudited most directly comparable GAAP measures and is available on our IR website at ir.baidu.com.</p>
+          <p>As a reminder, this conference is being recorded. In addition, a webcast of this conference call will also be available on Baidu's IR website.</p>
+          <p>I will now turn the call over to Baidu's CEO, Robin Li.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Hello, everyone, and thank you for joining today's call. In many ways, the atmosphere over the last year, with the whole industry shifting in to the mobile space, feels a lot of like the early days of the Internet. This is a huge change and we are feeling energized by the opportunities before us. The mobile and cloud-based products we are developing are our best and most creative work to date and I'm incredibly excited about the innovation that's coming out of Baidu campus.</p>
+          <p>This is the kind of atmosphere in which Baidu strives. This is a great time to be at Baidu. And going into 2013, I'm more convinced than ever that we've got the right recipe for success. We want to give users the best experience across desktop and mobile devices, integrate with the cloud and push out the most exciting new technologies.</p>
+          <p>With these ingredients in place, Baidu is in a great position to lead the next stage of China's Internet innovation. Of course, there is a lot of work ahead of us as we transform Baidu for a new world of mobile. But we are off to a great start. Our internal tracking shows Baidu is the clear market share leader with around 80 million daily active users for our flagship web search product on mobile. We expect this trend to continue as Baidu search results become more and more location sensitive and personalized.</p>
+          <p>In time of disruptive change, having killer app is key. And Baidu's LBS and Maps services continue to be stars. Installations of the Baidu Maps app grow over 50% quarter-over-quarter in Q4. And ours is now the clear number one maps app in China, with over 3.5 million daily active users.</p>
+          <p>On top of this organic growth, we are expanding partnerships with the handset makers to add more pre-installations and usage. We are turning the low-usage Map service into a high-usage LBS platform to solve people's problems. By integrating data and information from our own verticals and from a whole range of third parties like SouFun in real estate, Qunar in travel, and New Oriental in education, to name a few, Baidu now has the most comprehensive data set of LBS service provider. There's a huge database of merchants and other useful local information. And with more coming on board all the time, users will want to use us daily instead of weekly or monthly.</p>
+          <p>A real breakthrough this last quarter was Baidu Voice Assistant, built on self-developed voice recognition technology, with the highest accuracy in Mandarin Chinese of any system on the market today. Our Voice Assistant gives users fast, intuitive and accurate responses from their device. This is more than just a voice activated search. Voice commands are a key functionality. Now, I can ask my device sing a song of Andy Lau for me; show me TVs that are under RMB3,000; or where is the nearest Bank of China. I can ask the Voice Assistant to set an alarm to wake me up at 6 a.m. tomorrow morning or to show me the holiday schedule for the upcoming Chinese New Year break. And Voice Assistant is fully integrated with all our vertical services, Baidu Post Bar and Baidu Knows as well.</p>
+          <p>And our image recognition technology continues to become more sophisticated as well. Today, we have the world's most comprehensive index of facial images and the increasingly powerful image matching technology, with an ever widening range of applications from finding information to mobile commerce. We are just in the initial stages. We are rapidly fulfilling our vision for image recognition to be just as effective and input method as text or, indeed, voice.</p>
+          <p>In terms of client side software, we launched an updated version of our mobile browser in Q4, which is seeing excellent uptake. The new version is 30% faster and includes better categorized content. The browser combines unrivaled speed with very efficient data compression, both of which were big factors in securing the deal we signed recently with France Telecom/Orange in the Middle East and Africa.</p>
+          <p>The exciting work we've been doing in mobile also extends to our strategically important verticals in areas such as online video and travel. As we've said, ITE is well established as a top player in the market with the leading position in terms of user time spent. We are very encouraged by the progress it has made in the mobile space.</p>
+          <p>Traffic and app installations are both growing exponentially. The ITE app has already hit over 100 million downloads and 32% of its traffic is now from mobile. And as content costs have stabilized, ITE has established a firm position in mobile and is very well recognized brand by brand advertisers. So we are very optimistic about the future here.</p>
+          <p>Qunar is also positioned as a market leader in an area that is seeing some very exciting roles. It was the most popular travel app on the market last year, with over 24 million downloads, according to CNNIC's annual report. The same report showed around 20% of Internet users in China booked their travel online in 2012, which is over double the figure from 2011. This includes train tickets, air tickets, hotel rooms and packaged tours, all of which Qunar enjoys a strong positioning. And with mobile booking penetration rates under 6%, there's still huge room for growth here.</p>
+          <p>Turning now to the customer front, we added over 100,000 customers in 2012 to bring us to a pool of almost 600,000 on the Baidu platform. The vast majority of these customers are still coming to terms with the shift to mobile. At present, only a small fraction of merchants have optimized a mobile website. And we see it as our job to help them develop the right infrastructure, resources and knowhow to convert mobile leads effectively. Although there is a lot of work ahead on this front, we are confident in the potential for growth. But as I have said before, it will take a couple of years to close this gap.</p>
+          <p>We also continue to make exciting progress with large customers. Most recently, our sales team has been rolling out a new model of cooperation in important industry verticals like the leading insurer, Ping An. In this model, the customer allocates budgets for a joint project with us and we, in turn, open our platform to make certain data resources available in order to facilitate more seamless cooperation and better marketing ROI.</p>
+          <p>Our strategic partnership with Ping An is developing new products to reach China's fast-growing legion of car owners. We'll look to replicate this model we've pioneered with Ping An with other leading players in traditional industry verticals like finance, FMCG, retail and automotive. In turn, the close working relationship we are establishing with these leading vertical players should create more opportunities in these key sectors.</p>
+          <p>As I said earlier, 2012 was a year of transition as we entered a new period of really exciting opportunity in the mobile Internet space. We expect this transitional phase to accelerate in 2013, as we aggressively market our suite of products and increase our ability to monetize mobile search.</p>
+          <p>Alongside this, initiatives like the Institute of Deep Learning, our first research lab launching this year, will enhance our ability to innovate and develop cutting-edge new products. By deploying the knowledge and resources we have at our disposal, I'm confident that the future opportunities will out-match anything with everything. We are just getting started.</p>
+          <p>With that, I'll now turn the call over to Jennifer for a look at our financials.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thank you, Robin. Hello, everyone. I'm pleased that we're ending another productive year with a strong set of results for the fourth quarter. I'd like to share a few highlights with you before turning to our financial results.</p>
+          <p>As Robin laid out in his prepared remarks, this is a transformative period for the industry. The opportunity is enormous and we are fully focused on growing our business. 2012 saw us launch many great products that we've integrated seamlessly into the Baidu ecosystem. In 2013, we'll continue to invest and we'll be stepping up promotional efforts to drive installation and usage of our products.</p>
+          <p>M&amp;A efforts will continue to complement our disciplined approach to investment and channel building. As you will have seen, we completed the ITE transaction and consolidated their financials on December 1. All the line items in our P&amp;L now reflects this consolidation.</p>
+          <p>I will now take you through the highlights of our Q4 and full-year financial results. All monetary amounts are in RMB unless otherwise noted. For the fourth quarter, total revenues were RMB6.3 billion, representing a 42% increase year-on-year. Total revenues for the full year 2012 were RMB22.3 billion, a increase of approximately 54% from 2011.</p>
+          <p>During the fourth quarter, Baidu had approximately 406,000 active online marketing customers, a 31% increase from the corresponding period in 2011 and a 4% increase from the previous quarter.</p>
+          <p>Revenue per online marketing customer for the fourth quarter was approximately RMB15,500, a 8% increase from the corresponding period in 2011 and a decrease of 3% from the previous quarter. For the full year 2012, active online marketing customers increased by 22% and revenue per online marketing customers increased by 26% over the full year of 2011.</p>
+          <p>Traffic acquisition cost, as a component of cost of revenue in Q4 was RMB607 million or 9.6% of total revenues compared to 7.9% in the corresponding period in 2011 and 8.6% in the third quarter of 2012. TAC, as a percent of revenue, for the full year 2012 was 8.7%, up from 8% for 2011, which primarily reflects the increased revenue contribution of contextual ads and Hao123 promotions through our network.</p>
+          <p>The Baidu Union network continues to be an important driver of Baidu's overall revenue growth. We expect to leverage our network further to extract more growth in the long term. We will manage our network partnerships dynamically and use them to aggressively promote our products. As a result, we expect TAC, as a percent of revenue, to continue increasing over the medium term.</p>
+          <p>Bandwidth cost and depreciation cost, as a percent of revenue, in Q4 were 5.3% and 5%, respectively, compared to 4.3% and 4.8% in the corresponding period in 2011. In 2012, bandwidth and depreciation cost, as a percent of revenue, increased to 4.8% and 4.9% respectively, compared to 4.3% and 4.5% respectively in 2011. The increase was mainly due to an increase in network infrastructure capacity. We expect to see more bandwidth and depreciation cost in 2013 as we sustain investment in network infrastructure and also the contribution from ITE consolidation.</p>
+          <p>Content cost was included in operational cost previously and mainly consists of amortization of licensed content cost from copyright owners or content distributors and cost of self-produced content. With the ITE consolidation, we have separated this line item. Content cost, as a component of cost of revenue, in Q4 were RMB120 million, representing 1.9% of total revenues compared to 0.6% in the corresponding period in 2011. Total content cost for 2012 were RMB215 million, representing 1% of total revenues compared to 0.5% in 2011. This increase in content cost was largely attributable to the consolidation of ITE as said before.</p>
+          <p>Selling, general and administrative expenses in Q4 was RMB792 million, an increase of 52% year-over-year. Total SG&amp;A expenses for 2012 were RMB2.5 billion, a 48% increase from 2011, mainly due to increased head count-related expenses, marketing expenses related mostly to mobile products and the consolidation of ITE.</p>
+          <p>2013 will be an important year to position Baidu's many great products, particularly in mobile. We will look to aggressively drive installation and usage. In Q1, we will up our marketing efforts during the Chinese New Year period to promote our mobile products. These expenses are necessary and will be closely monitored for effectiveness.</p>
+          <p>R&amp;D expenses in Q4 was RMB702 million, a increase of 70% over the corresponding period in 2011, primarily due to increased head count. Total R&amp;D expenses for 2012 were RMB2.3 billion, a 73% increase from 2011, reflecting our continued emphasis on investing in top R&amp;D talent.</p>
+          <p>Share-based compensation expenses, which were allocated to related operating costs and expense line items, increased in aggregate to RMB67 million in the fourth quarter from RMB47 million in the corresponding period in 2011. SBC expenses for 2012 increased to 40% over the 2011 level. We plan to put greater emphasis on SBC to attract and re-incentivize key talent.</p>
+          <p>Operating profit for Q4 was RMB2.8 billion, a increase of 24% over Q4 2011. Operating profit for the full year 2012 increased 46% from 2011. The one last consolidation of ITE negatively impacted our overall operating margin by a little over one point.</p>
+          <p>Loss from equity method accounting was RMB122 million in Q4 2012 and RMB294 million in 2012 versus RMB8 million in Q4 2011 and RMB179 million in the whole year of 2011. This increase mainly reflects the loss pickup from Baidu's cash investment in ITE for the months of October and November 2012 and other invested entities. Having consolidated ITE in December, we will not be incurring any more loss pickups related to this investment going forward.</p>
+          <p>Other income was RMB381 million in Q4 and RMB455 million in the whole year of 2012 versus RMB21 million in Q4 of 2011 and RMB78 million in the whole year of 2011. This increase mainly reflects a one-time gain for fair value adjustment arising from the ITE transaction.</p>
+          <p>Total head count as of December 31, 2012 was approximately 20,900, a increase of 4,800 versus the end of 2011. R&amp;D and the consolidation of ITE's 1,000 employees were the main drivers of this increase. In the fourth quarter, head count increased by roughly 2,200 sequentially. In 2013, we'll continue to increase head count with more emphasis on R&amp;D expansion.</p>
+          <p>Income tax expense was RMB540 million for the fourth quarter. The effective tax rate for the fourth quarter was 16.2% compared to 16.5% in Q4 2011. For the full year, our effective tax rate was 13.2% compared to 15.2% in 2011. The year-over-year decrease in the effective tax was mainly due to recognition of tax benefits obtained in 2012 for the year before. For 2013, we expect our effective tax rate to be in the mid to high-teen level.</p>
+          <p>Net income attributable to Baidu for Q4 was RMB2.8 billion, a 36% increase from the corresponding period in 2011. Basic and diluted earnings attributable to Baidu per ADS for the fourth quarter of 2012 amounted to RMB8 and RMB7.99 respectively. Net income attributable to Baidu for the full year increased by 58%.</p>
+          <p>Net income attributable to Baidu, excluding share-based compensation expenses, a non-GAAP measure for Q4, was RMB2.9 billion, a 36% increase year-on-year. Basic and diluted earnings attributable to Baidu per ADS, excluding share-based compensation expenses, both non-GAAP measures, were RMB8.19 and RMB8.18 respectively. Net income attributable to Baidu, excluding share-based compensation expenses, for the full year increased by 57%.</p>
+          <p>As of December 31, 2012, the company had cash, cash equivalents and short-term investments of RMB32.5 billion. Net operating cash inflow and capital expenditure for the fourth quarter of 2012 were RMB3.4 billion and RMB786 million respectively. Full-year net operating cash inflow and capital expenditures were RMB12.6 billion and RMB2.3 billion respectively. In 2013, we plan to sustain our network infrastructures spend.</p>
+          <p>Now, let me provide you with our top-line guidance for the first quarter of 2013. We currently expect total revenues for the first quarter of 2013 to be between RMB5.89 billion and RMB6.08 billion, which would represent a 38.1% to 42.6% year-over-year increase. I do wish to emphasize that this forecast reflects Baidu's current and preliminary view which is subject to change.</p>
+          <p>I will now open the call to questions. Operator, please go ahead.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>The question-and-answer session of this conference call will start in a moment. In order to be fair to all callers who wish to ask questions, we will take one question at a time from each caller. If you have more than one question, please request to join the question queue again after your first question has been addressed. <mark type="Operator Instructions" /> And your first question comes from Dick Wei. Please ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Hello. Good morning. Thank you for taking my questions. My question is on ITE. What is the &#x2013; can management talk more about the impact on ITE consolidation in to the financial numbers? I guess, first of all, I'm not sure if you can share about the revenue contribution and was it booked on the other revenue or other services line? And also, some of the cost item, for example, bandwidth cost, was up like 25% sequentially; was it due to ITE as well? And then lastly, Jennifer mentioned about this 1% impact in operating margin. Was it on a one-month basis or was it more on the three months or on an annual ongoing basis? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Hi, Dick. As I just stated, in the Q4 of 2012, we completed the ITE transaction and ITE's financial, beginning on December 1, was consolidated. So the full fourth-quarter financial reflects one month consolidation of the results of ITE. Specifically to your question, ITE's revenue contribution to the top line, in comparison to the large scale of our business, is very small. However, in terms of category, it does have two categories. And one is most of their revenue is online marketing revenue as would be included in our general category of online marketing revenue. There is also our other revenue that you would see in this Q4 P&amp;L; this is basically related to some of the copyrights that ITE is allowed to redistribute some of the content to other players. And this is not categorized as online marketing revenue and you would get a glimpse of the quality of basically the categories of the revenues from ITE. Overall, the contribution is very small.</p>
+          <p>Bandwidth cost, to your question, does impact the overall sequential increase for Q4. If you look at our bandwidth sequential increases over the past few quarters, that give you the idea of the magnitude of Baidu's own business how that has been migrating and there has been additional increase because of the ITE consolidation. Having said that, I would say majority of the sequential bandwidth increase is because of Baidu's own business, not ITE. Bandwidth as a single item for ITE, of course, as you can appreciate for online video business, is a meaningful item. And going forward, as we look at bandwidth, as I said, we will continue to invest in infrastructure. And with bigger silver farms and more traffic that needs to be handled, you should continue to expect bandwidth to increase over the next year, over 2013 and on top of that would be the impact of ITE as well. So I hope that give you a glimpse of the bandwidth in itself. The 1% I mentioned about the impact for Q4 is a one-month impact of ITE. So if you could &#x2013; if you want to refer that to get a fuller glimpse of the whole quarter, I think you can do the math on your own. And that would be indicative of ITE's overall margin impact to the Baidu whole book.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Okay. And your next question comes from Alicia Yap. Please ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Hi. Good morning, Robin, Jennifer and Victor. Thanks for taking my questions. My question is regarding the ARPU. So can you explain or clarify the reasons why the ARPU for the quarter experienced a slight sequential decline? Was that mainly due to challenging economic environment, or was that related to available of a new alternative player? And how should we estimate this trend going forward. Will the high single-digit growth of ARPU is more reasonable going forward instead of the double digit previously? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Hi, Alicia. As you would have observed the trend over the past few quarters, we have been very successful in adding the number of customers to our platform. Most of the addition was developed in the SME business, the small medium-size businesses and our sales force has been very effective in executing the focus for our workforce this year. Many of the additions, because they are small businesses and particularly developed in second and third tier cities, their spending power is not as it used to be. If you recall, in 2011, we did benefit significantly from tremendous growth in the larger customers' account. And so the year-on-year ARPU number would be somewhat affected by that.</p>
+          <p>Having said that, you are also aware that the whole industry, including our customers, are migrating over to &#x2013; are seeing the transition to mobile. And so our sales force, our focus in 2013 is to ensure that we provide the live service and support to our customers &#x2013; current customers to continue to help them get the kind of desired ROI they're looking for and also educate them about the benefit of mobile platform going forward.</p>
+          <p>So that is basically the driver for the ARPU trend and we will continue to be very focused and deliver high-quality service to these SME customers.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Okay. So can I follow-up on that? So with the more focus of the sales force driving to the mobile platform, would that also kind of indicate a little but lower ARPU given mobile maybe a little bit lower conversion?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Alicia, the ARPU is based on the combination of desktop search and mobile search. So I would not think that mobile would necessarily negatively impacted the ARPU. Overall, it should be incremental to the customer spending.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Okay. Great, thank you. I'll get back to the queue.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from Chi Tsang. Please ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Hi. Thank you for taking my question. Just a couple of things. I'm wondering now with &#x2013; if you folks have iQiyi firmly in control. I'm wondering if you can talk about your strategy going forward, whether it sort of increased your monetization potential or sort of increased your library. And secondly, clearly, you guys are focused more on M&amp;A this year. Following the debt deal, the first thing you did was consolidate and take control of iQiyi. I was wondering if you can give us a better idea of what sort of transactions might make sense for you this year as it relates to mobile, client software, things of that nature. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah. For the video, we obviously think that it's important to us and it's also growing very quickly in terms of consumer time spend on the video. And we think we need to have a better control on that. So, for one thing, we will continue to aggressively invest in the video space to make sure that ITE will continue to be successful.</p>
+          <p>In terms of strategic areas, I basically covered a lot of them during the prepared remarks. There are verticals that we like a lot; video is one and travel is another. We are also looking at other or all kinds of verticals and continue to evaluate what sector would make sense for us to gain more strategic hold. But overall for the company, I think for 2013, mobile is probably the most important strategic area for us.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from Jiong Shao. Please ask your question. Jiong Shao, do you have your question? It seems there's no response from that line. Cynthia Meng, please ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thank you. I have a question on mobile. Can management give more color on the percentage of revenue coming from mobile for right now? And also, any guidance for what we should expect for 2013? And is mobile CPC lower than on the PC side, what is the percentage of mobile CPC as a percent of PC cost per click? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>We have mentioned in the past that the whole industry is going through a transition to mobile. It's a very exciting time for us all. But having said that, the users' habit and even our customers are continuing that phase, in that phase of migration, there hasn't been meaningful revenue that contributed from the mobile or even efforts our side and I think today a lot of the efforts is on the user side. And going forward, I think mobile affords tremendous opportunity because it does afford more accurate information for search engines and it allows our customers to target their potential customers more effectively and accurately. But today, it's too early to comment on the CPC trend or even the monetization power. It's very exciting, it's very promising but as we said, the whole transition will take a couple of years to close the gap.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from Alex Yao. Please ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Hi. Good morning, everyone, and thank you very much for taking my question. My question is about the mobile Internet development in 2013. What are the key goals or targets you would like to achieve in 2013? And what are the resources that are necessary to achieve these targets? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>There are basically two goals for our mobile strategy. The first and foremost is obviously mobile search. We want to make sure that users have the best experience in mobile search on Baidu. So we have been aggressively investing in this area to make sure the mobile search will continue to be the main gateway to Internet for most of the users going forward. It's in the very early stage of development. We are adding a lot of new features to our mobile search almost on a weekly basis if not on a daily basis.</p>
+          <p>When I said early, I can give you an example. Mobile search is pretty much like &#x2013; mobile search this year is pretty much like 1999 for desktop search. On average, it took more than two seconds to return the search results for a desktop search at that time. Today, it's the same for mobile search. And even for this kind of slow response speed, consumers are moving quickly to the mobile device to get information. So we are very encouraged and excited and we feel we need to invest to make sure we have the best search experience for our users.</p>
+          <p>In addition to search, we are also investing in a mobile ecosystem. We are building all kinds of tools and service capabilities for all kinds of app developers, so that they can quickly build up functionalities and serve their targeted customers. We believe by fostering a healthy and large and fast-growing mobile community, when more content, more information, more data and more services become available on the mobile Internet, people will become increasingly dependent on Baidu services. So we are investing in that front, too.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from Jiong Shao. Please ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Good morning. Thank you for taking my question. I have a couple of very quick ones. Just for your ITE revenue contribution for your Q1, I was wondering do you have a number you can give to us? How much of revenue from ITE you have embedded and factored into your Q1 revenue guidance? And just following up on Robin's comments on mobile just a minute ago, would you be able to share with us now sort of roughly what kind of a traffic contribution from mobile or some of the year-over-year or quarter-over-quarter rapid growth in mobile search queries? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>In terms of the ITE revenue contribution, as I said, with the backdrop of the overall Baidu platform business, ITE's business is really very material in comparison. You do know that we do have the ITE and we also have the Qunar, and these companies, we don't separately disclose because of the materiality test is not met. So that gives you an idea, I mean they are not that much different per se in terms of revenue contribution and, therefore, the overall guidance that you're seeing predominantly is Baidu's main business driven mainly by that.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>For the mobile traffic, it's obviously growing at a much faster rate than the overall search market. So mobile search will represent an ever-larger percentage of our total search traffic, but I figure it probably does not make sense for us to report this number quarter-by-quarter. The strategic direction is quite obvious. I think I will update you when the mobile search traffic overtake desktop search one day and I think that will happen sooner rather than later.</p>
+          <p>We just think that there is a lot of room for improvement for the mobile search technology, as well as for the overall mobile infrastructure speed, cost of the bandwidth, all kinds of supporting technology; browser technology, operating system technology. All these kind of things will become better and better, so customers or users will search more on their mobile device.</p>
+          <p>And also, there are other form of product or services that's closely related to mobile search. For example, the Voice Assistance product I talked about, although a lot of the requests are not really search, but there will be a very large percentage of the Voice Assistance traffic based on search. So consumers will have a lot more way to look for information or to search for information on the mobile. We will actually consolidate all kind of the traffic and make the overall search experience better and hopefully we can better monetize that in the future.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from Jin Yoon. Please ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yes, good morning. Just a couple of things. Can you talk about your traffic acquisition costs in the quarter? We saw a pretty significant sequential increase. First of all, how much of that is due to one-time costs or seasonality versus what's recurring? Second of all, with the traffic acquisition costs, how much of the increase is really coming from the likes of competition or from the likes of mobile? Now, that's my first question.</p>
+          <p>My second question has to do with the comments that Robin made earlier, saying that mobile is not &#x2013; I think you said that mobile is not impacting ARPU. Can you clarify that? Given the fact that mobile has lower CPC, why wouldn't it have an impact on ARPU? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Hi, Jin. On the traffic acquisition cost, you did observe that in Q4, the TAC as a percent of revenue has stepped up. As I said earlier, the sequential increase is mainly due to contribution of contextual ads business, as well as promotion for our products such as Hao123. This is not seasonal. This is intended. I've said for a few quarters now that we are leveraging this Union network to grow new business such as contextual business at the same time to also dynamically managing the partner relationships to promote our own products such as Hao123 and Baidu Browser. So this is only really just starting. We are stepping up our TAC as I indicated before. You should continue to expect that the TAC rate is managed dynamically and we are very ready to take advantage of this network to promote our products as well as grow new business.</p>
+          <p>Very little of the TAC is related to mobile, as we said earlier. Mobile monetization is really in its very early stage and, therefore, the TAC number that you're seeing has very little to do with mobile business.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Jin, just to give you more information on the mobile impact on ARPU. I think ARPU is decided by a number of factors, including our customers' budget, our inventory or traffic, the click-through rate and CPC. Budget is not negatively impacted by mobile, obviously, probably positively impacted, although it's not obvious right now, but it should become obvious going forward. In terms of the inventory or traffic, I think net-net, mobile traffic is incremental to desktop search traffic or it actually adds more inventory for our search traffic. The CPC is lower. Right now, it's roughly half of the desktop search CPC, but click-through rate is not necessarily lower. So if you combine all this kind of information, obviously ARPU is not necessarily going to be negatively impacted by mobile.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from Andy Yeung. Please ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Hi good morning. Thank you for taking my question. My question is about your investment and M&amp;A strategy. Given your strength, your <mark type="ph" /> management (48:27) strength and your goal to build a ecosystem, can you give us some color on your organic growth and M&amp;A strategy? How do you manage the division of labor between these two strategies?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>As I said before, M&amp;A is important element to complement our organic growth. We have the leading market position in search technology. And that is our core competency. As the whole industry is looking into mobile, I think it's great to have the resources and ability and see the kind of innovative efforts in the industry that Baidu can invest in. So Robin mentioned earlier, our key strategic focus for 2013 is mobile. So, if we are launching M&amp;A efforts, that would follow our overall strategy. We have also in the past invested in key verticals and so you can see that our M&amp;A strategy is really to enhance our core competency, to capture the main verticals to help with the ecosystem build-up, as well to invest in innovative companies, which help us position ourselves in the new industry evolvement. So that is basically how we manage our M&amp;A initiatives.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I just want to emphasize that acquisition is not our main growth strategy. We have a lot of room for growth for our organic traffic, our own products and we are also aggressively investing in building new products and technologies. Mobile will &#x2013; I mean acquisition will complement this kind of effort, but it's not going to be the main growth driver.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from Piyush Mubayi. Please ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Good morning. Could I just ask about desktop search trends, both from a revenue perspective as well as actual search perspective? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Desktop search has been soft during the past quarter and we expect that trend will continue for the coming year. You may know that the new PC shipment last year actually had a decrease over 2011 and we are not so optimistic about the new PC shipments this year either. So desktop search will continue to be a very important way for people to find information, but the real growth side is the mobile.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I think it's important to note that ultimately we're providing search and information services regardless of the end user devices that's coming from. We do see queries coming from a wide range of new devices and that continues to fuel the overall usage of the Internet and people taking advantage of search engine services.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from Eddie Leung. Please ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Good morning. Thank you for taking my questions. My question is more on ITE. Could you comment on the content investment trends in 2013 as we have heard different stories about the content cost trends in the industry? So I just want to get an idea on the investment amount, as well as the content cost trend in the industry. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Hi, Eddie. With the consolidation of ITE, we've separated the content cost line item. It is an important cost component for the online video business and I think for some of the publically listed companies, they provide a indicative trend in terms of content and I think market does have an expectation of how that looks like. And for us, I think the content, I think historically that has been mixed together with the operational cost line item. And I think if we look at those two line items together, as you look into 2013, Q4 level probably gave you an indicative line level of going into 2013. So, specifically, what I was saying is operational cost line item and the content cost line item, if you look that together, the Q4 level should be indicative. Not necessarily meaningful to single out the content cost line item because Baidu's overall cost base is so huge.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next question comes from Vey Sern Ling. Please ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>On the Qiyi's content cost, I see that in Q4, the content cost is RMB120 million; is that just for one month if I were to think of extrapolating that, or do I think about the RMB215 million that it spent over the whole of 2012?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>The RMB120 million, majority of that is ITE related. You would see that before the ITE consolidation, we do have some content cost and this is related to some of the data, music and stuff like that that we do acquire. I think that is a one-month impact, but the RMB120 million is not all because of Qiyi.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Got it. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from <mark type="ph" /> Mu Zhi Li (55:00). Please ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Hi. Thank you for taking my questions. I would like to ask the management to give some guidance for the margin trends going into 2013 and how shall we model the sales and marketing and R&amp;D expenses into the future? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>All right. Okay. As you know, we have been investing and I've indicated that very clearly earlier that in 2013, we have many great products that we look to aggressively promote through the different kind of channels. The SG&amp;A expense, as a percent of revenue, in Q4, you would have already seen some of the efforts taking in shape. And historically, you have seen SG&amp;A expenses scale with the fast growth of our business. In 2013, as we aggressively promote our readily great products, I would not expect the SG&amp;A line to further scale. And that's on the SG&amp;A expenses.</p>
+          <p>On R&amp;D, as I said earlier, that has been our focus in terms of investment and that focus will continue to carry. We do plan some head count increases and if we look at 2013, predominantly that kind of human resources investment would be focused on R&amp;D. And the Q4 R&amp;D expense, as a percent of revenue, should be relatively largely indicative for you as you look into the years out.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from Catherine Leung. Please ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Hi. Thank you for taking my question. My question is on the mobile monetization. I understand that you're testing mobile Phoenix Nest and so I'm curious. What are the main factors determining when you will officially launch this system and how would you expect advertisers to allocate budgets after this is officially launched, as we think about the proportion of traffic coming from mobile versus desktop? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Mobile monetization is very early at this stage. We are experimenting all kinds of possibilities like how many ads or promotional links we show on the search result page and how do we display advertising information or even how do we track conversion. All of these things are moving pieces. It's very early for us to give you any guidance on the trend. What we know is that mobile traffic continue to grow very quickly. We wanted to build the best user experience first and we will continue to help our customers to build up a mobile friendly website or app so that their conversion will improve. As the ROI improves for our customers, they will allocate more budget to the mobile advertising space.</p>
+          <p>Right now, our customers aren't given a choice whether they want their budget to be spent on mobile, only were most mobile and desktop or only desktops. Many of them choose to spend both on mobile and desktops. It's just not many people really understand how to promote their product and services through mobile search or through their mobile site. So there's a lot of work that we need to do to make that a better channel for our advertisers and customers.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Your next question comes from Wendy Huang. Please ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Hi, thank you. My question is mainly about desktop search. I think in the past one year, we have seen Facebook launch their Graph search, Google launced Knowledge Search and also, even Sina Weibo integrated <mark type="indiscernible" /> (59:45) to do the social search. I just wonder what effort will you make on the PC front to defend you market share on the PC and also to improve the user experience as well as the monetization further. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, that's a great question. We think search is still young. There are a lot of ways we can improve the user experience and there's a lot of ways we can develop the new technology to make the desktop search experience better. Let me give you a couple of the examples. For almost like 15 years, 20 years, search result looks like the same. You have a list of 10 links, titles, summary, those kind of things. We figured in a lot of verticals we can give &#x2013; we can serve the users' needs better by giving them different kind of information or different kind of display of the information. That's what Aladdin was aimed for, but we figured a lot more user request can be matched with the more diversifying or versatile way of displaying the kind of information, including things like you've just mentioned, Knowledge Graph; when you search for a celebrity name or a popular place, that has, say, things like Opedia entry from Baidu, we can display those structured data in a more direct way to satisfy users' needs. There are also verticals especially for those with commercial value such as travel or e-commerce, there are a much better ways to display information for our users instead of just a title and a summary. So we are doing a lot of that these days and you will find the Baidu Search result will look very different a year from now.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from Wallace Cheung. Please ask your question. Hey, Wallace Cheung, do you have a question? There's no response, we'll move on to the next. Richard Ji, please ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Thanks for taking my call. And can you comment on the revenue split between your large corporate customer as well as the SME? Especially, I'm also curious to know their different type of growth rates, especially given the end market start to stabilize, should we expect a meaningful pickup from your large corporate customers and in terms of their ad budget allocation?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Hi, Richard. Historically, we have not probably disclosed the split between SME and large customers, but I can tell you, predominantly, majority of our business has been coming from SME and the split that we internally measure has been pretty consistent. There are a lot of efforts and initiatives that we can do on both the SME front as well as the large customers. You do notice that over the 2012 year period, we continued to develop the SME market and that really just shows how tremendous the market potential is and how effective our sales force can be.</p>
+          <p>At the same time, on the large customer side, yes, I think the whole macro environment in 2012 was relatively depressed, but our sales force has been doing many different things with our large customers. The initiative that we mentioned with customers such as Ping An is really to explore not only just web search, but also take advantage of the whole media platform value of Baidu. And so, there is vast potential that continues to be on our platform that's yet to be exploited. So we are working with the large customers and they are very receptive to the idea of doing online marketing and through the Baidu's different kind of user products. And with the experiments like that, we can really get more of the large customers' ad budget. And so we do see, on both the SME and large customer side, there is a lot of initiatives and a lot of potentials for us to continue to grow our business.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We are now approaching the end of the conference call. And I will now turn the call back to Robin Li, Baidu's Chief Executive Officer for his closing remarks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Once again, thank you for joining us today. Please do not hesitate to contact us if you have any further questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you for your participation in today's conference. This concludes the presentation. You may now disconnect. Good day.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

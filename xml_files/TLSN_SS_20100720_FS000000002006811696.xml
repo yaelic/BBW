@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1262514" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q2 2010 Earnings Call</title>
+    <date>2010-07-20</date>
+    <companies>
+      <company>2927</company>
+    </companies>
+    <participants>
+      <participant id="0" type="corprep">Andreas Ekstr&#xF6;m, Vice President, Investor Relations</participant>
+      <participant id="1" type="corprep">Lars Nyberg, President and Chief Executive Officer</participant>
+      <participant id="2" type="analyst">Andreas Joelsson</participant>
+      <participant id="3" type="analyst">Michael Andersson</participant>
+      <participant id="4" type="analyst">Lena &#xD6;stberg</participant>
+      <participant id="5" type="corprep">Per-Arne Blomquist</participant>
+      <participant id="6" type="analyst">Thomas Heath</participant>
+      <participant id="7" type="corprep">H&#xE5;kan Dahlstr&#xF6;m</participant>
+      <participant id="8" type="operator">Operator</participant>
+      <participant id="9" type="analyst">Tim Boddy</participant>
+      <participant id="10" type="analyst">Peter Nielsen</participant>
+      <participant id="11" type="analyst">Maurice Patrick</participant>
+      <participant id="12" type="analyst">Jan Dworsky</participant>
+      <participant id="13" type="analyst">Sven Sk&#xF6;ld</participant>
+      <participant id="14" type="analyst">Jakob Bluestone</participant>
+      <participant id="15" type="analyst">Jacques de Greling</participant>
+      <participant id="16" type="analyst">David Wright</participant>
+      <participant id="17" type="analyst">Ulrich Rathe</participant>
+      <participant id="18" type="analyst">Soomit Datta</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Okay. Good morning everyone. I think that we are ready and welcome everyone to yet another very sunny day here in Stockholm. We will today present our Q2 report to you of course. However, we will do it in a slightly different way compared to the previous quarters.</p>
+          <p>Our President and CEO, Lars Nyberg will start to guide you through some important highlights of the quarter. After that, we will have a Q&amp;A session together with our CFO, Per-Arne Blomquist. After that, Lars will make a brief introduction to the next section on Mobile Data. We know that this is a topic and great interest to many of you. And we will share some thoughts on this topic. H&#xE5;kan Dahlstr&#xF6;m, our President of Mobility Services will guide you through that part of the presentation. After that, we will have yet another Q&amp;A session on Mobile Data.</p>
+          <p>With those initial remarks, I leave the floor to our President and CEO, Mr. Lars Nyberg.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, Andreas. Good morning, everyone. I think we had yet another solid quarter, which means we can all go on vacation this afternoon with good conscience. It looks like some of you have already gone to vacation but maybe those people are on the line listening.</p>
+          <p>What was most encouraging with this solid quarter of course was the growth. We had growth as you remember in the first quarter. We calculate growth in local currency. We had 2.5% in the first quarter. And we even managed to increase that to 3.3% in the second quarter. We continue as we have done for many quarters already, continue to improve our EBITDA margin with 1.2 percentage points, which I think is pretty impressive.</p>
+          <p>Free cash flow increased by 27%. Historically, I think TeliaSonera has benefited very much from the &#x2013; what we called the associated companies, MegaFon and Turkcell. They have always provided better results or increased results. That has not been the case for the last two years unfortunately, but of course I am proud of the performance of our company excluding the associated companies, which actually is better than as we report.</p>
+          <p>On the left-hand side, you see here for instance that net sale as reported is minus two and the EBITDA is plus two. If you exclude currency and the associated companies, the growth would have been 3% and EBITDA 7% an operating income plus five is around minus three. And I think that has &#x2013; is attributable to how this organization actually is performing for the last couple of years.</p>
+          <p>Growth was maybe the most positive in the quarter. Three major drivers: Eurasia, Spain and Mobile Data, particularly Mobile Data in Sweden. If you look at Eurasia and you look at all those markets, you can see that they &#x2013; basically with one exception, they all grew. And we have now seen Eurasia increasing the growth rates since Q3 of last year, if you remember we had 3.6% growth in Q3. We had 7 in Q4, we had 12 and change in first quarter and now we have nearly 15. So the economies, the countries and our organizations are clearly doing better. Very pleased with, you might think Uzbekistan and Nepal, and of course I'm pleased with Uzbekistan and Nepal. They are new markets, very important that we have growth rates in the neighborhood of 50%. But I'm mostly happy with the Kazakhstan because Kazakhstan is such a big market for us. We have 7 million subscribers in Kazakhstan and when Kazakhstan grows, then Eurasia grows.</p>
+          <p>So that was one of the drivers of growth and I said the other one is Mobile Data. If you look at the bottom here, we have an increase of &#x2013; similar to the first quarter of Data and Messaging, first quarter we had 38% growth and now we have 40% growth. This is a good business and we will talk about that somewhat later, H&#xE5;kan and I. I really believe this is going to be a growth engine for the industry and certainly for our company.</p>
+          <p>Continued margin improvements, the 1.2, I think we have said in the forecast for the year that we will increase the EBITDA margin and it's driven mainly by of course the big cost reductions we have done in the last 24 months.</p>
+          <p>Yeah, here is the explanation why we have lower income from associated companies. It's not MegaFon, it's about the same as last year. The whole market in Turkey has gone down quite dramatically. I believe that Turkcell probably takes, if not all, most of the profit in the market, so if the market goes down, of course Turkcell will go down too. Hopefully, the market will rebound, like it does in so many countries right now.</p>
+          <p>We did get a high CapEx in the second quarter. I think we were all a little bit surprised over the CapEx in the first quarter. We started this year saying we want to invest, we want to invest in 4G, we want to upgrade our networks in Finland and in Denmark, we want to roll out fiber, et cetera. And I think you can see that that has now started really in the second quarter.</p>
+          <p>Having said that, we are saying the CapEx for the total year will be somewhat lower than we thought when we started the year, but I'll come back to that in a minute.</p>
+          <p>So, if I summarize for the first half, we have a growth of 2.9% and that's the reason why I show this slide because when we now go to the outlook for the year, which we have revised, we talk about the net sales growth going to be in line with the first half. So around 3% instead of between zero and one.</p>
+          <p>And we continue to believe that the addressable cost base will be the same as in 2009. I want to remind you, we are increasing the cost fairly dramatically in Eurasia for instance. And we are increasing cost in some other places too. That means that we have to reduce cost elsewhere. And that's exactly what we are doing. And on top of that, we have had an increase, salary increase of about 3%. So, to have the same cost base in '10 as we had in '09 doesn't happen by itself.</p>
+          <p>The mathematics tells you that EBITDA margin will have to be somewhat higher compared to 2009. And as I said, we are slightly turning the CapEx-to-sales to 14 to 15% of sales.</p>
+          <p>I think I'll stop there. I think these are the highlights. It's maybe not in the sense, a quarter with a lot of news, it's a very solid, stable quarter, predictable, very much in line with the expectation. But I'm very pleased with it. And I'm certainly pleased that this is now our quarter number seven or so in a row that we deliver solid results.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, Lars. And I will also invite Per-Arne to come up to stage and we will start the Q&amp;A session. We will take a couple of questions from the floor and then leave over to the conference call and we will start with a question from Andreas. Please introduce yourself with the name and the company.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="2" type="q">
+        <plist>
+          <p>Good morning. Andreas Joelsson from SEB Enskilda. Two questions, please. Subscriber intake in Eurasia was extremely strong in this quarter. Is that sustainable trend you see or what is the driver behind that intake? And the second question relates to minutes of use in Sweden, that is increasing at a very good pace. What do you see in trends in terms of that going forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>If I start with Eurasia, we have two markets that are relatively new for us, Uzbekistan and Nepal. And of course, the intake of subs in those markets got to be very high otherwise we're not going to succeed. Now, I showed you growth rate in terms of revenue about 50%. We have become the number one &#x2013; sorry, the number two in Uzbekistan in every measurement you can do. And we are absolutely having the ambition to be number one in Uzbekistan. It's a big country.</p>
+          <p>Nepal is also a big country, 28 million people and there are two operators and we started seriously half a year ago. So, yes, I believe that we will continue to see a big intake of subscribers. Now the Swedish, you want to go answer that? Will you go answer that?</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Yeah. The question was on minutes of use and the strong growth in that. I believe it was 10% in the quarter, it was actually 9% in the first quarter, so it's a similar trend. I think that many of us have been quite surprised about this strong economy in Sweden and that continues to have an impact on our business. And the other thing is that we have a bigger base on smartphone that H&#xE5;kan will go back to talk about in a minute and that certainly also has an impact. So, a strong economy and more user-friendly handsets are probably the explanations for that.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We have a question.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Thanks. Michael Andersson, Evli Bank. The 3% organic growth guidance for this year, we still see a Q2 organic growth better than Q1, we see at the Baltics some bottoming out, maybe Eurasia increasing further. Do you see &#x2013; is it Nordics you are seeing coming down? Because it still sounds like you would &#x2013; with this pace, you would be able to beat the 3%.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah. I mean. You could argue maybe 3.5. I could argue maybe less than 3. I think we've had, I would nearly use the word spectacular growth in Mobile Sweden for a number of quarters. I don't think you can assume that just goes on. And Sweden is still a very important market for us. So I think with that as a backdrop, it's a bit, being little bit cautious, but I don't think 3% is going to happen automatically. I think I could actually see things go wrong and it'd be less than 3, that's why we came to 3, that's the most reasonable judgment.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>We have a question here from Lena.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Lena &#xD6;stberg, Carnegie. I was wondering on your addressable cost base, because you've had very good numbers for Q1 and for Q2. I think on average you're down 2.4%. So, I assume you will step up marketing, you said salaries will go up 3%, but what is it more that you see will increase the cost base in the second half?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>No, I think we have increased the OpEx I believe the 22% in the second quarter in Eurasia, and we are investing in Eurasia. And we will continue doing that. I also think that we need to step up some of the marketing activities in the second half.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>So, you expect the cost base to go up.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, we have a debate on that, because we don't want to have a run rate when we enter next year that is not acceptable to us. So we think we will reach the zero number as we said from the beginning. And we will increase some costs in the second half. I think there are at our discretion if you want to continue those kind of investment in OpEx, next year or let's say first half of '11 or not. That will depend very much on how we see the growth scenario. What do we think about growth in the first half of '11? We'll probably make some conclusion on that towards the &#x2013; somewhere in beginning of the fourth quarter or something like that, so. I understand your question and we are sort of dealing with that question and we are sort of playing the course &#x2013; how do we want to play this. But I do think it's important that we do make some investment in the second half of this year.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>And we'd also try to keep the this traction cost base under control. As it's more I would say, activity-based cost that we will put the amount from the sector in the third or fourth quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We don't expect head count, if you exclude Eurasia a little bit, head count is not allowed to go up.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>No.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>We will take one more question from the floor before taking some questions from the conference call. Thomas, on second row.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Hello, Thomas Heath, &#xD6;hman Equities. Just a question on wholesale, you're having some margin pressure there. And I just wanted to ask whether you think this is timing issues? I'm speaking particularly of international carrier than between quarters, so if this is a structural negative trend. So, what can we count on going forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Tom, what we have seen is that the voice volumes has gone down globally, number one and on the IP side, the volumes are fine, but there is certain price pressure, which comes from some competitors in the U.S. markets. It's a price pressure issue right now. It might have stabilized a bit right now from a pricing perspective, but it has been a very tough competition during the last quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Right. So perhaps, stabilization from these levels then?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Yeah, we hope so. We hope so.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Great. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We take a couple of questions from the conference call, so please, operator, if we could have the first question.</p>
+        </plist>
+      </speaker>
+      <speaker id="8">
+        <plist>
+          <p>The first question comes from the line of Mr. Tim Boddy from Goldman Sachs. Please go ahead with your question, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Yes, thanks. I wondered if could just give us an update on the next steps we should expect in your discussions in Russia and in Turkey? And then secondly, obviously continued very strong performance in Spain and I guess I asked this question before, but is there any change in your view on the sustainability of that business within the TeliaSonera Group? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. Nothing has really changed in Russia. I think the discussions and the dialogues are fine. We did lose in the first level of court, as you might have seen in Russia, Altimo and TeliaSonera will appeal that. The point is really that the decision whether we will be allowed to operate the way we want to operate together with Altimo, it's not decided in court, it's decided by this committee from the Duma shared by the Prime Minister. That's where the decision is really made. And they can't really make a decision before we have asked them for permission. We haven't asked them yet. Because we think if we could make some progress in Turkey first then that would help that process, we believe. Altimo shares that view.</p>
+          <p>And I'm not less optimistic today than I was six months ago. I think the dialogue with Altimo is going fine. Of course, we have difference of opinions with AF Telecom and Alisher Usmanov. But we knew that from day one, so that's &#x2013; nothing has changed.</p>
+          <p>The Spain issue, yeah, I am very pleased with Spain, of course. That was a big concern of everybody when I joined this company three years ago and also me because we lost a lot of money. We made a commitment and Johan Andsj&#xF6;, who runs Yoigo for us made a commitment to us that we will be breakeven from fourth quarter this year and onwards and I see that's absolutely feasible. That hasn't changed my mind on the principle or the strategic &#x2013; but it certainly took off some urgency, is much less of course. But I believe TeliaSonera is a reputable, high quality, hopefully world-class customer service operator who wants to be number one in the markets. That's our strategy, that's what we're good at. I don't think we should be a price fighter. So with that as a backdrop, I think I don't change my mind on the issue but the urgency has certainly disappeared.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay. Thanks for that.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Thank you very much, Tim. We take the next question from the conference call.</p>
+        </plist>
+      </speaker>
+      <speaker id="8">
+        <plist>
+          <p>The next question comes from the line of Mr. Peter Nielsen from Cheuvreux. Please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thanks very much. Couple of questions, first one relates to the Swedish Mobile market, particularly the Mobile Broadband market. I know some of your competitors have been introducing some more aggressive pricing offers in the courts, you still seem to have been enjoying good momentum here.</p>
+          <p>Now, how is your sort of own evaluation of how you fared in this competitive environment in the quarter? Have your offerings been resilient towards these offers from your competitors?</p>
+          <p>And secondly, how has the broadband ARPU developed within your Mobile business over the quarter? Is that possible, to talk about this? And thirdly, a question for Per-Arne, we're again seeing this quarter, some fairly significant movements within the working capital line. Is it possible to explain a little bit of what it is &#x2013; what it is we are seeing here? And also, when we should expect the sort of lower paid CapEx in this quarter to be paid? Would that be in the next quarter compared to the book CapEx, so to speak? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, it's a bit difficult for me to comment on the competitors' second quarter because they haven't announced them yet. I think we are doing fairly well in the marketplace with our offers. We clearly have had a momentum in Mobility for a number of quarters now in the Swedish market. We will come back a little bit on some of the issues that you might be referring to when H&#xE5;kan I make the presentation or the discussion, we could call it, about Mobile Data, pricing, et cetera.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>And when it comes to operating capital, I mean we have already partly started to pay off the investments and the negative change in working capital is connected to broadband Sweden and Mobility in Denmark. This stands for 80, 90% of that.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>You had the minutes of use.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Just to &#x2013; on the working capital, just to say that in the booked CapEx, not paid CapEx, you have the Danish 4G license of some SEK430 million as well, part of difference. And your second quarter was on ARPU on Mobile Broadband, I think it was and H&#xE5;kan has to correct me if I'm wrong, but I think it was quite flattish in the second quarter compared to last year.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you. Very good. We take one more question from the conference call.</p>
+        </plist>
+      </speaker>
+      <speaker id="8">
+        <plist>
+          <p>The next question comes from the line of Maurice Patrick from Barclays Capital. Please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Oh hi, there. Couple of quick ones. Just on the Baltic assets, obviously an improvement in the trends in the quarter. Do you think you have visibility of when we can call the bottom of these markets and when we might start getting towards 0% revenue growth or perhaps even return to positive growth? And I know you'll talk about this Mobile Data later in the presentation. But can you just remind us which markets you have where you've got upcoming license auctions? Obviously, India is still high on people's minds. I'm just kind of keen to understand where you see those and which market is it coming through in terms of new spectrum? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. You got me little bit off there. India, I don't know, this TeliaSonera, not Telenor. Baltics, sorry, I think we see an improvement in the Baltics, particularly in Estonia. I think it's lesser of an improvement in the other two countries. I think they are coming out. Have you seen the bottom of it? I would dare to say, yes, I hope so. And maybe I even believe that. Clearly, Estonia have seen the bottom of it, there's no discussion about it. But the other two, I'm not totally sure of yet. But I would be surprised if we wouldn't start seeing improvements in the Baltics in the coming three, four, five quarters.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>On accounts of licenses we have issues coming up in Azerbaijan and Kazakhstan and but that's what we know right now.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Thank you, Morris. I see that we have some more questions here from the floor or apparently not. One question from Jan.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Thank you. Jan Dworsky, Handelsbanken. Just a detail, the head count increased in the second quarter. Was that due to in-sourcing in Finland and the Baltics, or?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>More and more temporary people coming in for the summer vacation.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>One more question from Sven.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Further on the costs, Sven Sk&#xF6;ld from Swedbank. I saw that the gross margin declined a little bit in Q2 versus last year. Is that something to, I mean be aware of for the future, or I mean is that an important change?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>No, I don't think, I don't think so. I'll take that. I mean the margin has developed fine and it's &#x2013; sometime you have timing issues as well, but it's not trend.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We have one follow-up question from Lena.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Yes, maybe I could ask a little bit on the EBITDA side in Finland on Broadband and on Mobile, what's going on there? Why we see slightly lower EBITDA? And also on taxes, which were lower in the quarter, what we should expect going forward with withholding taxes.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah, I can start with the taxes then. I think you should expect the tax rate to be roughly at 22%, instead of between 22 to 23 before. But we have had some positive effects and so I think you should expect rough around 22%.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Do you want to take Finland, Per-Arne or -?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>No, <mark type="inaudible" />.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>If we look at Broadband in Finland, I think that we had the same EBITDA margin as we had in Q2 last year. So still we see the benefit of the cost cutting in that market. On the Mobile side, we had a bit of a lower EBITDA margin. That was mainly due to higher equipment sales than previous quarter. We bought in more equipment at a higher average selling price. And that took a bit of a hit to the margin. So I wouldn't say it's structural decline, it's more equipment.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I think we have been working pretty hard in the last year with Finland, in Finland, with our colleagues there. I have a positive vibration that we will improve our position in Finland. We have been struggling for quite some time, I would argue. And I also think and hope that the Finnish economy will stabilize a bit because they have been hurt much more by the market than we have for instance, in Sweden, where the economy has been clearly better.</p>
+          <p>But I have confidence in the management team in Finland. I think they are working well together and I think they are very focused on trying to regain a bit of position in that marketplace.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>We do have a couple of more questions on the conference call as well. So, operator, I will leave to you to introduce the next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="8">
+        <plist>
+          <p>The next question comes from the line of Mr. Jakob Bluestone from Merrill Lynch. Please go ahead with your question, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Hi, there. Just one question, could you maybe give us an update on your thinking on balance sheet and particularly on your thinking on returning cash to shareholders through share buyback? I think you indicated in the past that that's something you would contemplate.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Well, if you look at our dividend policy, we have said that, we should pay out more than or around 50% of our net income and if we have done all the sort of investments and projects that we would like to, then still we could use either buybacks or ordinary dividends for handling the balance sheet. But that's too early to say yet, what will happen. But I think if you look at our dividend policy anyway, we stick to that.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>That's great. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Next question, operator.</p>
+        </plist>
+      </speaker>
+      <speaker id="8">
+        <plist>
+          <p>The next question comes from the line of Mr. Jacques de Greling from Natixis Securities. Please go ahead with your question, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Good morning. One small question on the Swedish market. Could you comment the drops like the cycle up in the number of broadband lines in Sweden? And what should we expect longer-term? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>What was the question?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Broadband lines.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Drop in number of broadband lines in Sweden.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. I think the decline has sort of stabilized, it will continue I think to decline, but I think we are managing that thing pretty well. And on the other hand, the fiber rollout. I am convinced that the fixed network is going to be very important also for many years to come and that's why we are very keen on investing in fiber because that's going to provide the bandwidth and the speed and the capacity that we hold on demand as customers.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>I was a bit puzzled by your question. I had to look in my papers because I see that the broadband subscribers was actually flat quarter on quarter. So, I &#x2013; was that the answer of your question, Jacques?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>This was decline of 0.3, I think. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Okay. Thank you. We have one more question on the conference call. Operator, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="8">
+        <plist>
+          <p>The last question comes from the line of Mr. David Wright from Deutsche Bank. Please go ahead with your question, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Yeah, hello. It's David here. I guess just pushing a little more or falling back, let's say on the MegaFon issue. I guess just to understand to what extent you have to stay in Russia as it were, or whether if negotiations do break down, whether you would ever consider a possible exit route. You've obviously struggled to get cash back from MegaFon, there does seem to be a little struggle now to push through the Turkcell merger. You were sort of close to Russia and do you feel the need to stay in Russia like perhaps your peers, Tele2 and Telenor?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, I don't think we have, have to be anywhere maybe with the exception of our home countries, but we have made an investment many years ago in MegaFon. MegaFon is a very well managed company and they are making quite nice results and therefore, we want to be part of this business and to develop it further, and that's our objective and our priorities.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Would you say the priority was for a growth contribution to the earnings line or is the priority to get some cash back from the investment in the near term?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Both.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Both, thanks very much, Lars.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Before we go into the next section of the presentation, we have one or two follow-ups from the floor. Let's take them before we move on. Jan?</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Thank you. Jan Dworsky from Handelsbanken. We've seen a good development in Mobile Sweden and Finland and some improvement in Norway. Denmark is moving the other way. What's explaining that? And then, has there been any movement toward development in relation to discussions with the regulator in Fiber-to-the-Home, and what terms competitors will be able to access that?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, Denmark is a challenging market to be in for Mobile. All the operators are having the same sort of issue and again, the size determines basically your results. H&#xE5;kan and I laugh sometimes about the market share in percentage equals the EBITDA margin in percentage. It's actually not so untrue. And we are number three, we are clearly number three, not even close to number two in Denmark. That's a problem in itself. And this is one of the challenges that H&#xE5;kan has going forward, how do we improve in Denmark.</p>
+          <p>The second question was about fiber, yeah, I think we have a good dialogue. I think we have gone through the decision that was 600 pages long or something like that. And we could eliminate quite a number of worries. There is one big issue left and that is how the pricing is going to be determined. And the regulator clearly said that that was not part of this document and it should be discussed in dialogue with the different operators. And therefore, I reserve my final opinion until I understand what that means, because we talk about big money here.</p>
+          <p>We talk about maybe 5 or SEK10 billion over a number of years. And unless, unless we feel confident that the pricing model is such that our shareholders get a decent return on those 5 to 10 billion, we will not invest, anyway not to the extent that we would like to. And I think this country needs, somebody needs to make this investment. And I don't think there are too many alternatives as the state has said, they do not want to invest.</p>
+          <p>I don't think there are many players left on standing. And we will absolutely require clarity on the pricing model. For the rest, the fact that we are obliged to open up our fiber networks to everybody, although other people who have fiber are not obliged to do that, which is a bit strange. But I have no problem with that or we have no problem with that. We can live with that. Fundamentally, we have changed our mind a little bit I think in the last couple of years.</p>
+          <p>Our business, TeliaSonera's business and our results is driven by traffic in our network. So the more traffic we have in our network, the better it is. Yes, I love the &#x2013; all traffic to be done by TeliaSonera retail. But I don't mind if Tele2 or Telenor have their traffic going in our network, as long as they pay for it and they pay a reasonable price model that assures me that our shareholders get a return on the investment. So we have changed our mind. We do like our competitors to have their traffic in our network. Therefore, access to fiber, to Telia Fiber is fine with me. The only real issue left standing is the pricing model.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Just before we take the last question &#x2013; on Denmark, Jan, there was a cut in interconnect from the 1st of May and that can explain one-third of the revenue drop sequentially from the first quarter. We take one more question and then we go to the next topic. And we have Thomas that was asking for the microphone.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Just a question, you mentioned in Q1 a little bit of &#x2013; you had some organizational changes with Mobility and Broadband and that you wanted to sort of work a little more as one group. Is that something you are working on and is it possible to have some concrete points on that?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah. That's very important and I think it's an issue of culture. I mean one of the things we have been doing here in the last three years is changing culture, changing the way we operate, changing the way we think, changing the way we actually talk to each other. I cannot give you proof of that, like I can do with numbers. But I can certainly give you a feeling or it is my interpretation, we had for instance, we have once a year the top 100 people from the 20 countries together.</p>
+          <p>And I remember the first meeting we had three years ago, and I remember the second year meeting and I &#x2013; this meeting we had this year was, yes, so different in terms of mood, in terms of colleagues talking to each other.</p>
+          <p>Now, we were extremely lucky because we had this kind of weather and we were at <mark type="inaudible" /> and we took a boat. So, I mean the circumstance was pretty good too. But I think if I look now on how my two colleagues in the group management, H&#xE5;kan sits here and Malin Frenning who runs Broadband, how they and therefore the people below them are talking about combining offers, making decisions that takes both entities into account. I really think, I really think lots are changing.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Okay, with that, we close this part of the presentation and I will leave the floor to Lars again to introduce the next topic, Mobile Data.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="1">
+        <plist>
+          <p>You've heard me talk about this issue for the last year. I have been saying the appetite for bandwidth is unlimited and I truly believe that's been the case. And I am absolutely convinced that the operators and their suppliers are going to be able to provide us with that bandwidth, that unlimited bandwidth. And therefore we'll have significantly higher performance in our networks. I talk about Moore's Law, you heard me say that I believe that our suppliers will be able to provide basically every 18 months, double the capacity at the same cost for us. Whether that's exactly going to be that case or not, is not the issue. The issue is the technology will drive a lot of additional bandwidth for us and I've also &#x2013; we have also picked up of course among the investor community that this explosion of demand for bandwidth, there is an concern that that would drive very high CapEx increases and therefore the cash flow will be reduced significantly for all the operators, not only for us.</p>
+          <p>We do not believe that that's going to be the case and H&#xE5;kan will explain to you what has happened in the past couple of years, because we have seen this explosion in bandwidth in the last couple of years and we will try to give you some prediction for the years to come, based on our experience.</p>
+          <p>But there is one thing additional I want to address and I have been addressing this also before. If you imagine that you are the customers and your demand for bandwidth is basically unlimited and we have a technology that can double the bandwidth every 18 months. It's very important for the operators that we have a tool, so we can regulate how much traffic you are going to put on our networks, because the moment you put on more traffic than the network at that point in time can handle, that's when you get the disaster they had in Manhattan, AT&amp;T when you couldn't make voice calls anymore.</p>
+          <p>And that tool to control how much traffic is going to be allowed on the network in this quarter for instance, that tool is called price. And it's very logical in my opinion that if you use more capacity, higher speeds, you pay more than somebody who use less. That's why long-term for this industry, flat fee doesn't work. It's also interesting, it's not fair actually because if you look at our customer base, it's something like 5 to 7% of our customers are the real heavy users. They generate a big chunk of the traffic. And if we have flat fee, that means the 95% are actually subsidizing the 5%. So fundamentally, I'm convinced that the industry will have to have a pricing model, where you actually pay for how much you use.</p>
+          <p>Now the good news here is, I don't think it's going to be a lot more expensive because doubling the capacity at the same cost means that we don't need to raise the price much to the consumer, but we need to make sure that the ones who consumes maybe 50% of the capacity are paying more than the one who consumes 1%. So these are the fundamental convictions and drivers for us.</p>
+          <p>Let me now ask H&#xE5;kan to go through how we have come to the conclusion that CapEx will not explode and therefore cash flow will not be used even if we have to live a double traffic every year for the years to come. H&#xE5;kan?</p>
+        </plist>
+      </speaker>
+      <speaker id="7">
+        <plist>
+          <p>Thank you very much, Lars. Thank you. Yes, Mobile Data, it's a hot topic in the industry. I know we think it's &#x2013; today is the right time to talk a little bit about our view in this. And out from what we have seen, years, now and looking forward we believe that the traffic in our network will actually double every year. It has been a little bit more than that some years and some less some years, but looking at the five-year period in front of us, I believe that the network will double it's traffic every year.</p>
+          <p>This is a great opportunity for us. Someone out there really wants to use our services and they don't &#x2013; they want to use it more and more. Well-managed, this could be a great thing for us, developing our business.</p>
+          <p>There are some &#x2013; there are three different sources for this Mobile Data. And each of them have a different behavior, different use of behavior, different characteristic. And today, I will focus on the two first here, the Mobile Broadband, the Internet access that we create for your laptop or for your notebook and the smartphones, the high-end phone that is driving the mobile data usage. The third one, machine-to-machine, is something that will grow in importance going forward but we will not focus on them today.</p>
+          <p>Looking at the Nordic market, we see that the number of our customers and the percentage of the population that is using a mobile phone for getting an Internet access is increasing and today, the situation is so that the Nordic market is ahead of the rest of Europe. Also when we look at the ones that is using a wireless connection, some sort of wireless connection, it could be a Wi-Fi, it could be a mobile infrastructure to connect the laptop is also growing and the Nordic is ahead of Europe.</p>
+          <p>Due to this, we have picked Sweden as the example when we talk about Mobile Data. And as you heard Lars said before, that the net sales are growing and it's very much due to data in Sweden. If we look on Q2 to Q2, we have a growth of 40% here and if we clean it from messaging, we are on the level of 50% growth on net sales on the Mobile Data at the Swedish market.</p>
+          <p>One other &#x2013; the new thing in this is the smartphones. We see a tremendous fast pick-up of smartphones in the market. For a year ago, 13% of our phones of our terminals in the network were sort of a smartphone. Today it's more than twice as big share of the terminals. Of course, the iPhone is the biggest driver for this, but we also see a lot of other smartphones in the network. It is so that it's mainly the user friendliness that drives this change. When we're looking at user behavior, we can see that a certain user that gets into a smartphone, gets in a smart touch will actually change their behavior, but differently in different services. The voice minutes goes up a little bit. The messaging goes up much more, but it is the data usage that explodes.</p>
+          <p>So a low-end phone is on a very few megabyte per month and a mid range phone here that is usable for WAP, minor access to the Internet is using in the neighborhood of 15 megabyte per month. But smartphones can go up very, very high and the average today is 250 megabyte per user a month. This is mainly due to a streaming video as is one of the killer application on the smartphone. But we also see that our B2B customers, they could go mobile with their workflow, with their ordinary way of working that they have been locked into a stationary PC or a laptop, many of what their &#x2013; many features that they use, they could now use the smartphone for. So we are, together with our B2B customers, developing new way of working that increase efficiency of the B2B customer and this is a really fast take-up.</p>
+          <p>The ARPU on a certain customer increase when it go into a smartphone. It increase more on the B2B side than on the consumer side. And this is due to that they are picking up the ordinary work on the smartphone. When you have been a smartphone user for a year or so, you still are developing your behavior. So, the earlier user on a smartphone has an increase of data usage in the neighborhood of 50% year-on-year.</p>
+          <p>Also, within the Mobile Broadband there is a strong momentum and here we show the customer base on the Swedish market. So today, we have more than 500,000 customer on Mobile Broadband. This is, as I would say, a good example of what is happening when you're introducing a new services. It's actually 10 years ago since we introduced our first data services GPRS, and &#x2013; and nothing happened, nothing happened and it was a lot of question how to get this driving, and in the summer 2006, we actually got to that point that we could give the customer cost control. And with our fixed price offering in the summer 2006, this started to move. And then in the second quarter 2007, it was a lot of good offerings in the market suited for different kind of customers and it really started to take off.</p>
+          <p>So, this is a great development and I think that we can say that we are somewhere in the middle of it. But it's, as you see, still very much to do. So when we then are looking into what our customers are using, what kind of services, how do they use them, when are they using them. We try to estimate how will they use the data services going forward. And here is a split between Mobile Broadband, where we today have an average usage of 1.5 gigabyte per month. And we see that with the development that we have today and what we can see going forward, we estimate this to be in the neighborhood of 12 gigabyte, 2014.</p>
+          <p>On the smartphone, where we have an average as I said 250 megabyte today, we estimate this to be around 1 gigabyte, 2014. This, I wouldn't say that we are more right than anyone else in this area. This is an estimate, we are looking forward to what can be. But it will be somewhere in this neighborhood and we have seen so many numbers, so many estimate of this and I would say that ours is not standing out in anyway. I would say that this is probably something that we could agree quite fast about. It will be in this range somewhere.</p>
+          <p>So, of course this is a great opportunity for us as an operator, with this increase of usage of our services. So, then how would we deal with this, the unlimited demand for bandwidth and the increased need of traffic? Here I have split this in three different areas. And if we first start to look on the technology side and we talk about new technology, we have to remember that the mobile infrastructure or the mobile network, it can be split to be in a radio part, the sites where actually are placing the radio or the base station, then you have the transmission and the core net.</p>
+          <p>If we start with the core net first, the core net that is coming with 4G is well suited for integrating the previous version, the previous generation of mobile infrastructure. So the core net that comes with 4G is designed to deal with what we already have. That's a very good part. The other part is that core net have never, have never been the cost drive in this and I don't foresee it to be, going forward. So I think we could leave the core net.</p>
+          <p>Then the radio, the base stations, here have been the cost drive in all those year I have been here and I believe it's still going to be part of the cost drive going forward. But here we see that with 4G, that is very important for us and it is so important for us due to the fact that if we compare a certain investment, if we would do that in the technology that we have already deployed in our 3G network or if we reduce the money in 4G, we will get more traffic, a higher level of production in 4G than compared to what we have already in our 3G network today, in the neighborhood of eight times for the same money.</p>
+          <p>Of course, you could argue that the 3G network has also a development, yes, and we don't have in all places the latest state of the art of the 3G technology. There is more to do in the 3G network and we will do so. Of course we will develop our 3G network, but if you look at the state of the art, what you actually can buy today in the 3G technology and compare that to 4G, I would say that the cost efficiency, the benefit for 4G is in neighborhood of three times.</p>
+          <p>And that's a reason why we are so keen on going forward with 4G. And of course is also a much more fun to be a pioneer in this area and with the history of this company, I think it is reasonable that we are there. We are actually really proud of being a pioneer in the 4G area. As you know, the radio needs spectrum and the spectrum is something that we have been able to secure on the 2.6 gigahertz band. We have a license in order for Nordic market. And this is what we will start to use. We will use it to get up the speed, to get up the capacity. We also have ambition to get a license in each market on the 800 megahertz band. We have not seen that yet, but we are sure that in each market the regulators see the importance of the 800 band, so that we could create coverage. The 800 band is extremely important for being able to develop the mobile data services with a reasonable coverage.</p>
+          <p>The third part of this is, so that when you are deploying this mobile infrastructure, mobile network, you have these sites where you actually are placing the base stations. They are a big part of the cost. And when we look at what we would need in the Swedish market, the coming five years, to fulfill this need as I described earlier on, we see that we have more than 70% of all those sites that we needs. So the positive thing here is that we have a lot of sites, we could rebuild them for the 4G, for the new version of 3G that we also will invest in and by that keeping the cost for sites down.</p>
+          <p>The existing site is quite reasonable when you have to rebuild them for a new technology. It's more expensive if you have to establish a new site. It's also so that most of the need, I would say, two-third of the need of new sites is within cities. Whether it's easier to be able to place downtown on a rooftop or somewhere else where you don't have to establish a complete new site with masts and everything. So, 70% of the need we already have today or more. And that we need to establish from new, I would say that more than two-third of that amount we can see possibility to get on a rooftop.</p>
+          <p>The next part of this in the mobile infrastructure that is a cost drive is the transmission. How you connect your base station to your core network. When we had 2G and the first version of 3G, we had a transmission solution that didn't scale cost efficient when you are ramping the speeds. With the introduction of the first version of HSPA or Turbo CD as you say sometimes, we started to change this and today we have made more than half of the swap towards a new technology that is IP or Ethernet on top of fiber or on radio link. That is scalable. It actually scales quite beautiful when the bandwidth is picking up. So this is something that I feel quite comfortable with, that we have also the transmission part under control.</p>
+          <p>So summing this up, the new technology give us a cost benefit when we're deploying this new amount, enormous amount of traffic. We see that we have the spectrum of 2.6 that we need. We also believe that it will come 800 licenses in the market. I'm not so optimistic on the Baltic. I'm more &#x2013; in the Nordic, I would say it's not a question, it's just when &#x2013; when and how soon we could get it.</p>
+          <p>And the last point that when it comes to sites, we have a lot &#x2013; a big portion of our need. And by that, we could scale this volume going forward. Then we look a little bit on how have we performed during this first phase of this mobile data explosion. And to the left side here, you see the data volume that we have produced. And on the right side, the yellow part here is CapEx-to-sales. During this first part of the explosion, we have been able to keep the CapEx-to-sales ratio on a stable level below 10% and I have no reason to believe that the CapEx-to-sales ratio will go above 10%. Might be one year somewhere in some market, but as a rule &#x2013; thumb of rule we will say that we will be able to keep this on the level of 10%, CapEx-to-sales.</p>
+          <p>On the COGS side, we see the same relationship as we have had also going forward and have no reason to believe that this will change dramatically. So when it come to this killer application, Mobile Data or a mobile access to Internet, we see a great interest in our customer base for these services. And when we price these services, I would say it's at least four different phases. When a service like this is entering the market, you normally more or less give it away for free. And so we did with Mobile Data and after a while, you see you come into something that needs to give the customer or to meet the customer's need for cost control. That is when you have flat rate. And then after some time, the user understands how these services work and how it suits them and you start charging for speed and volume.</p>
+          <p>This is a model that can live long-term but if I would guess, I would say that this is not the end game. Of course we would like to go into some sort of value based pricing, where if you buy a movie, a video-on-demand, you will actually have the traffic for that movie included in the price of the movie. That would be the reasonable part of it. The same with music, if you are listening to music, you pay for the music; you also have paid for the traffic. So some sort of value based pricing I believe would be the next step. But this is an example from the Swedish market how we are pricing our services this summer, so we are pricing it out from speed and from volume.</p>
+          <p>Okay, to sum this up then, the demand for bandwidth is unlimited. We have said that many times and we see that in our user behavior, it's proven every day. The technology and the new technology will continue to deliver the cost benefit and the possibility to increase the traffic in the network twice every year.</p>
+          <p>We see no reason that we shouldn't be able to keep the cost-to-sales relationship and the CapEx-to-sales relationship under the coming year due to this. But the most positive thing with this is that our customers, they have a willingness to pay for this. They are really so positive when it comes to the experience of Mobile Broadband and Mobile Data. It's very much about the speed and the usage.</p>
+          <p>And they see enormous amount of services that they would like to use. Very few of them will be developed by us. It will be a partner or they will find it on Internet. But on our hand, it is up to us to make sure that the quality and the experience is there. And due to that, this Mobile Data explosion has to be well managed and I think that we are in a good way to do that.</p>
+          <p>So by that, I will -</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Open up for Q&amp;A. Thank you very much, H&#xE5;kan. I will also invite Lars to come back here and we will see if there are any questions and we start as we did with the last section, with a couple of question from the floor and then go over to the conference call. We start with Sven.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="13" type="q">
+        <plist>
+          <p>Yes. Hello. Sven Sk&#xF6;ld from Swedbank. Thanks for a good presentation. I was just wondering I mean you have a very good price model for Mobile Data but there is also competition out there and we know that some of the players in the Swedish market are not as straight as you when it comes to the stairs that you show. They have free traffic I think, on some of their subscriptions. So what's your take on the market here, the Swedish market and the competition?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Yeah, I would say we take our share.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Really, I mean if you take it a bit further, if you look around, at least one player doesn't look at the return on investment because that is so high, it cannot be &#x2013; I mean you can't get return on that investment, anyway. So they're just looking at delivering some kind of revenue and some kind of EBITDA.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>As I see it &#x2013; I mean you have different phases of this, as I tried to say. In the beginning, you have to fight for market share and everybody tried to get up the volume and cost base and Telecom is very much about volume, you know that. So now we have a situation with more than 500,000 Mobile Broadband customers in the Swedish network. We have a big portion of our customers that is using a smartphone. They are creating a good service and a good experience there.</p>
+          <p>And I think we have taken the decision to go to the next phase in this business and so we have &#x2013; we charge for speed and volume and up to today &#x2013; of course we see what the other guys are doing, but I believe this is a model that is sustainable and we could live with this for long-term. And it's important to make sure that the quality for all our customers, independent if is voice or data, is there. And I would say that the problem with the data that should be a volume based price is I don't see it so big. It's very few of our customers that actually is running into any type of roof and if they are doing so, they are not cut off from the network. They get a lower speed, but they will still be in the network. They will still have an access.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>If I could add something. First of all, I think this is great news, because we have found a new application, a new kind of business in our industry. We've been doing voice for 100 years and now all of a sudden, we get something next to voice called data. And in my perception as I've said so many times, your demand for these services are absolutely unlimited. The  &#x2013; only the imagination is the limitation of the applications that you can imagine on this thing. It's great for &#x2013; to be part of an industry where the customers are saying, I just want more and more and more and more.</p>
+          <p>And it's beautiful that we don't have to double the price, if we double the speed for you, maybe we can raise the price 5% and we double the speed, because the cost for us is about the same. So I basically think we have a very attractive opportunity as an industry and I don't see where the limitations are going to be and they're certainly not going to be in the coming years. I think we're going to have a great opportunity here.</p>
+          <p>Now this industry, as H&#xE5;kan says, has in history &#x2013; when we introduce something new, we give it away. Remember, I've only been here for three years, but when I came in here we gave away TV, remember? And then we sort of said, now? Now we start charging for it. So we &#x2013; we show our customers, do you like it and somehow you get hooked on it, right? And then you're hooked, then we say, okay, you really like this thing, you will start paying a bit for it. And the more you use, the more value you get and you have to pay a little bit more. I think that's a good model for the industry and there'll always be some cowboys who short-term want to do something. And that's part of our history also, we have price wars off and on and competition is hard and we've been &#x2013; we have a track record. I think we have a track record of managing that fairly well with some exceptions, maybe. So, I actually see this as 90% positive and 10% concerning. I think this is a real opportunity for our industry and I'm very pleased that we have that opportunity.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Thank you. We have a question here from Lena.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Yes, I was wondering how much of the 4G investment that you've planned for this year has already been taken in the first half of the year?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>For 2010, we have two-third of it still to be done this year.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Okay. And then I was wondering, Tele2 has not had the iPhone and they've finally managed to sign a contract now. And they are the price leader usually in the market. So, how do you feel that they will affect the market now that they have the iPhone, do you think they're too late?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>The iPhone has been really good for us. We have been able to address a younger customer segment. We have picked up more customers in the big cities. This is two of our weak spot in the history and we have been able to improve a lot in those two areas. And we are happy for that. And what's going to happen and what other players are doing, I will not comment on. But we have had a great time together with Apple and iPhone and we are very happy for that. And we have no reason to believe that we wouldn't have it going forward. So we are excited about the launch of the next version, even though I have to admit, we were more excited last time. We had a great party those days and but still very good.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>We have a question from Michael.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Michael Andersson here again from Evli Bank. The roaming issue is at least as a private user, like this summer if you want to watch football in Norway on your iPhone, you're just like, don't do it, we can rent the whole Hotel instead. Because I guess, you'll get your flat fee from us now, but in the future you're going to pay for that service, that &#x2013; the roaming issue has to be solved.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yes. I agree with that totally. I have been &#x2013; this is a discussion that you know goes on in Brussels, too. And with the new commissioner, I had a meeting with her, Madame Kroes, two months ago something and I was very clear. We've got to do something about the roaming. Now it's &#x2013; I can be accused of, yeah, it's easy for you to say because you don't have that much roaming income compared to Spain, England and so on.</p>
+          <p>And yeah I admit that it is easier for me to say, but my customer, my customers' experience when they go to Norway and watch TV is horrible, it's horrible. And there is no cost basis, there is no cost basis that justifies it. So, but I also said to her, don't think that we're going to lower those prices only, we're going to raise something else because the total income cannot change. So maybe the prices should be a little bit higher for domestic calls, but the international roaming cost has to come down dramatically, in my opinion.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Within your network, within your -</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah. We are having some of those discussions right now.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>We would &#x2013; we are looking into what we can do in our part, but the trick is that when you are abroad, as you have experienced, you are moving from network to network. So, if it would have been so easy that we could say, okay, you are in our infrastructure, you would have a cost control in our infrastructure, that would have been easier to fix.</p>
+          <p>But I was in Paris, beginning of last week and I was in all network before lunch, I had been in all network and I had two terminals all over. So this is the problem that you need to have a solution for. And &#x2013; but we are looking into that &#x2013; we are not happy with the situation today, we are not.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>I am not surprised to see that there is lot of interest on the conference call as well. So we leave it to the operator to introduce the first question.</p>
+        </plist>
+      </speaker>
+      <speaker id="8">
+        <plist>
+          <p>The first question comes from the line of Peter Nielsen from Cheuvreux. Please go ahead with your question, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thank you. H&#xE5;kan mentioned that you do not expect CapEx to go up in the mobile networks going forward. Would you expect the composition of CapEx to change, i.e. from 20? Would you see a higher share of CapEx going towards the back or the transmission network going forward versus the radio part? And secondly, is it &#x2013; Lars touched a bit upon it, but is it possible to talk a bit more how you're seeing the tier pricing structure impacting usage of your high users? Has that restricted users overall? I would be interested in any comment on this.</p>
+          <p>And finally, where are you today in terms of your ability to segment and prioritize traffic based on various sort of user characteristics and is this something you expect that you would be &#x2013; improve your ability to do going forward? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>First question was the split between radio maybe and transmission.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Going forward, the cost for civil work and transmission will be increasing in relationship to other part of it, but both on the cost side and on CapEx side. So, if we have transmission and radio, you will have a shift towards, a little bit more on transmission and a little bit less on radio. That will be my &#x2013; the estimate.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>And then you asked about -</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>The second question, Peter Kurt, was about tier pricing and what we see on the high users or &#x2013; did I get you right there?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Yeah. Do you mean that if &#x2013; I don't -</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>What impact the caps have.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>It's very few &#x2013; it's very few users that actually run into the roof and they &#x2013; what we will introduce in the market is sort of a small top-up. So, you will actually be able to top up the volume and then continue to surf, so to say. So, we haven't seen that as a big problem today.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Fundamentally, fundamentally, the issue is are our customers willing to pay a little bit more for a lot of more capacity and I think the answer is yes. Will the competitors, some of them take an advantage and have flat fee? Yeah, sure they are, but fundamentally I believe the marketplace says yeah, I can pay 5% more for 100% more capacity. And of course as we introduce faster networks, we will move these, what we call caps up all the time. So I think, I hope that the so-called unlimited demand isn't that unlimited that we don't have time to move the caps up and only have a small portion of our users hitting the roof, as you call it.</p>
+          <p>I give you an example. In Elmund Holland we had 4G and Elmund Holland was filled by people from Stockholm who did video streaming, all of them at the same time. And we had some problems with the voice and that's exactly what I'm talking about when I say, we need a tool to make sure that we understand how much traffic we can allow on the network because what cannot happen is that we can't do voice calls, what happened in Manhattan before AT&amp;T. That cannot happen. So that's why the whole industry needs a tool to make sure that the demand is let on to the network. As we increase capacity network, we let more traffic on for the same price. But if somebody wants to be really heavy user, they got to pay a bit more.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>We had a third question as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>About traffic steering and privatization. Yes, we have the feature to do that and we don't do it particularly much. We see that the capacity in the network is still some high so that all the users can more or less do whatever they want, but we have the feature that I mean, probably the most obvious one is that we could steer our voice traffic between our 2G network and our 3G network. So, dependent on the load in the network, we can steer the voice traffic from one network to another to optimize the production cost and postpone a capacity increase in one part of the network. But also on the IP traffic side, there is a lot of possibility and you could find this kind of equipment for &#x2013; the best word is deep packaging inspection or you could more or less see what kind of service there are and out of that make different priorities. But this is not something that we use normally. This is very -</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Not yet.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Okay. Thank you Peter Kurt. We take another question from the conference call.</p>
+        </plist>
+      </speaker>
+      <speaker id="8">
+        <plist>
+          <p>The next question comes from the line of Mr. Maurice Patrick from Barclays Capital. Please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Oh hi. It's Maurice again. It's great to see TeliaSonera leading the debate in communications on Mobile Data, by the way. A couple of questions, you've talked about the revenue part of the usage per customer going from 1.5 gigabytes to 12 gigabytes and of course capacity doubling for the similar cost on an 18, 12 month basis. That kind of implies that the cost of providing the capacity per user, I guess on a four-year view, is broadly unchanged. Is that the right way of thinking about it? Because if so, that probably implies that the return on invested capital from those new investment you're making on data probably are similar to the legacy returned on invested capital.</p>
+          <p>And the second question is, you've answered most of your &#x2013; given most of the data on a Swedish context, where of course you are a dominant player with a large income and fixed network. Do you see the trends being markedly different, say for smaller operators or if you don't have a fixed presence? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I can start. The first question is, yes. I mean it's logical the cost per user and the return on investment are similar than with the history if you assume what we have assumed. And yes, we picked Sweden because first of all, Sweden is very early in applying this new technology. And we know Sweden best, of course, but &#x2013; and I certainly think that the countries will follow clearly the Scandinavian and the Nordic countries are sort of at the same pace more or less, and they develop in parallel, more or less.</p>
+          <p>The mainland Europe will certainly follow, and even Eurasia at a certain point in time will follow, because the data business in Eurasia has one additional benefit. The fixed networks are normally pretty poor in those countries. So if you want to have Internet access in Kazakhstan, it's very likely that you will get that over the mobile network, in my opinion.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>One quick follow-up. Do you have an estimate for the cost per gigabyte of adding Mobile Data right now?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Yes, but I will not share it. But, of course, we're looking into that continuously and yes, but not -</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>No, we don't share that.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>No. And the second part of the question was about if we have a benefit with the fixed infrastructures on the Swedish market. It's of course good to have the knowledge in the company and the resources in the company, but I would say it's more if fiber is available on the wholesale in the market that is important. And then you have to pay the market price in whatever market you are in. And also that you have the knowledge and possibility to build radio link. And we are playing with these two tools in the different market in a different mix out of the feature that is available in that market. So radio link and fiber in combination is what we use today in all markets in the same way, more or less.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Okay, thank you, Maurice. Take another question from the conference call.</p>
+        </plist>
+      </speaker>
+      <speaker id="8">
+        <plist>
+          <p>The next question comes from the line of Mr. Jakob Bluestone from Merrill Lynch. Please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="a">
+        <plist>
+          <p>Hello, again. I've got two questions, please. Firstly, I mean it sounds like messaging is still a significant driver of your data revenues, so I was just wondering is that something you're expecting to slow down and will the slowdown in messaging kind of offset the strong growth in non-messaging revenues that you're expecting to see? Secondly, I guess touching a little bit on Maurice's question from before, how important is this rollout that has now been slightly delayed in Sweden for delivering Mobile Data in Sweden and particularly for maintaining that CapEx sales? So if we see scaling back or further delays in fiber rollout, is that something that's going to impact your ability to deliver the sort of growth that you're talking about in Mobile Data usage? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>About messaging in the short-term, I don't see any reason to &#x2013; that the trend should change. Long-term of course, when you look on the youngsters today, they believe that SMS and texting is something for elder people. That's &#x2013; they don't communicate in that way. So of course, long-term we will have another usage, another pattern of this. But up to today I believe my kids are still answering on SMS. So, for a while more I think this will work, it will work more or less that we see today. Then -</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>The last one on fiber -- rollout will not affect this Mobile Data business, the regulator's discussion is more on the last mile.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Thank you. To be fair, we take a couple of questions from people here on the floor. And we start with Lena has a follow-up question.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Yes, I'm a little bit puzzled on your CapEx guidance, I have to say because you're delaying or not investing as much in the last mile of fiber until you have the pricing. You've also said now that CapEx-to-sales on Mobile will stay below 10%. So I'm just &#x2013; and for the first half of the year you're at 11.6%. So what's going to take you up to 14 to 15% for the full year?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Kazakhstan or sorry, Eurasia I should say. We are investing in Uzbekistan and Nepal big time.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>You did that already in this quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Sorry?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>But you did that already in this quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, but you don't build a network in one quarter.You want to cover Nepal, have you been there?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>No.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>No. it's a hilly place. And it's a difficult from a really technology point of view. So and then we need to upgrade all our networks &#x2013; continue to upgrade our networks, particularly in Denmark and in Finland. So that's it.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>So you will be above 15% for the second half.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>No, we think we will be &#x2013; 14 and 15.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>No, but I mean the half &#x2013; the second half of this year, I mean, you have -</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, it's math. It's math.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Yeah. Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Did Andreas have a question? It was answered and we have one question from Jan here in the front row.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Jan Dworsky from Handelsbanken again. On your smartphone sales, it's a big increase this year obviously compared to last year. What's the composition? Is it basically only iPhones or is Android making an impact? And how do you see it? Is it &#x2013; are you happy with being so dependent on Apple or would you like to see more of a mix between Android phones and possibly Symbian and iPhones?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>The Android phone are picking up very good. So we are quite happy for that and the iPhone is absolutely the biggest one, but the Android is picking up really fast. I think for us, it's not so &#x2013; it's not so important which terminal the user are using. We see that the user friendliness that has come the last two years is really, really good. Both for our business but of course for the users and that is what is most important. We are happy for all the smartphones.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>We have a couple of more &#x2013; I don't think that we will have time to answer all of your questions, but we can take a few more questions from the conference call, operator, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="8">
+        <plist>
+          <p>The next question comes from the line of Mr. David Wright from Deutsche Bank. Please go ahead with your question, sir. Hello to David, your line is open.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Can we take the next question, operator?</p>
+        </plist>
+      </speaker>
+      <speaker id="8">
+        <plist>
+          <p>The next question comes from the line of Mr. Ulrich Rathe from Soci&#xE9;t&#xE9; G&#xE9;neral. Please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Oh, thank you. One question I have about is cost-to-sales and CapEx-to-sales being stable with growing Mobile Data is, what are your assumptions on the effect of voice prices there? And I suppose, sort of the core of the question is the cost per bit that you're charging customers on voice is obviously a lot higher than the cost per bit you're charging customers on data. Now obviously, there are some operators in Europe, smaller operators in particular who are offering Voice over IP, essentially for free now on the mobile networks. So there's an arbitrage kind of between the two technologies. I was wondering, what's your thinking about that question? And also, what are your assumptions when you talk about stable CapEx, stable costs per se, it's vis-&#xE0;-vis the voice part of the revenue stream? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, this &#x2013; it's interesting, we spend &#x2013; H&#xE5;kan and I and some other people are spending some time on discussing this issue. I mean for 100 years, our industry has basically charged our customers for our services, voice services and that's how the majority of the revenues are defined. As voice becomes a very small piece, filling a very small part of our big pipes, the industry will have to move to another pricing model and H&#xE5;kan was on to that value-based pricing where traffic is included in the price, this is one model. But fundamentally, our revenue over a number of years, the proportion for being voice will decline to the benefit of other services, you can call it data traffic or whatever, that has then to increase. And that's absolutely true, that's going to happen.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>The sense of where you see these years going, I mean whether the year is on a per bit basis are I don't know, maybe a factor 20,30 higher now. Do you have &#x2013; what sort of &#x2013; what do you assume when you say CapEx-to-sales and cost-to-sales for the voice part, that's going to be constant. What you assume will happen to the voice yields?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>What you are talking about is that we would move part of the revenue away from voice and I'm saying if we do that then we have to have that revenue called data traffic or whatever you want to call it. We have assumed that we can handle the revenue. Whether we are charging it for called voice or we're charging it for data, is a second question. We have assumed that we will be able to continue to charge the kind of prices, the kind of revenue we have today and that's why we said compared with that level of sales, our CapEx and OpEx will be flat or equal to what they have been in the last couple of years. But it is true that the pricing model for telecom operators will have to change and a bigger portion will have to come from data and a smaller portion will come from voice.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>My colleague is telling me that there is a long list of questions, but I think that we have time for two more questions. After that, you are more than welcome to contact me and my colleagues in the IR team, after the presentation. But operator, can we have the last two questions, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="8">
+        <plist>
+          <p>The next question comes from the line of Mr. Tim Boddy from Goldman Sachs. Please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Yes. Thanks. I wanted to ask about your 28% of phones in your base which are smartphones. Are these are phones, how many of these are what you might call real smartphones as opposed to say, a Nokia Symbian phone, which is probably just used for taking pictures? So what portion is a kind of real high usage, touch screen kind of Android or Apple phones? I guess the difference here being that AT&amp;T now has 25% of its customers on iPhones and that's a very different type of traffic loading than I think we see in most European operators. And then I had a follow-up question, which maybe we'll come to. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>On the first one there, the 28% of the terminals, they are all smartphones, they are touch screen, they are Android, iPhones. They are what we call a really a smartphone, not the high end phone.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>That's great to know. And then, you have the 5 to 7% of users who are the kind of what you might call the abusers or they're very keen. Are they the same 5 to 7% every month or do they change? Because I have had a statistic, which says that it's actually something like a third of customers who end up using more than their kind of cap. It's just they're a different &#x2013; obviously each month it's a different &#x2013; different set of uses.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>I have not followed that in that way. So that I can say that it is exactly the same customers that bumps into the roof. I think it's reasonable to believe that a big portion of them are all the same but now I'm guessing. I have not &#x2013; we have not followed the customer in that way. At least I have not studied the material to that depth. So.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>That's very clear, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Thank you, Tim. Operator, can we have the last question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="8">
+        <plist>
+          <p>The last question comes from the line of Mr. Soomit Datta from New Street Research. Please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Oh, good morning. Thank you. I was just wondering, the non-voice revenues you report for Swedish and Finnish Mobile maybe. Could you split those into messaging mobile broadband and smartphones? So I think it's 26% you reported for Q2. Can you give a sort of further breakdown and maybe give a sense as to, you know, where exactly the growth is coming from? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Yes, 60% of it is from Mobile Data and 40 is for value-added services and messaging. I don't have the growth number for the Finnish market in my head but for Sweden the &#x2013; the growth number for Data is 50%. Do you have the Finnish in your head?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>No, I don't have the Finnish number in my head, actually, but 60-40, 70-30 somewhere in that range in Data favor.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>And is it possible &#x2013; sorry, I don't know if we have time for a quick follow-up. Is it possible to spilt the Data between Mobile Broadband i.e. dongles versus smartphones?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Not that different actually, it's &#x2013; to give you a rough figure, is 50-50.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Okay. As we started about to say we understand that there is a great interest in this question and this was an initial discussion from our side. Please, as I said, more questions can be addressed to my cell for the IR team after the conference call, but in the meantime, we wish you all a happy summer and see you after the summer. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="7">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

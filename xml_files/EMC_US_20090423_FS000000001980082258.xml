@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1224158" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q1 2009 Earnings Call</title>
+    <date>2009-04-23</date>
+    <companies>
+      <company>184</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Tony Takazawa, Vice President, Global Investor Relations</participant>
+      <participant id="2" type="corprep">David Goulden, Executive Vice President and Chief Financial Officer</participant>
+      <participant id="3" type="corprep">Joseph M. Tucci, Chairman, President and Chief Executive Officer</participant>
+      <participant id="4">Amit Daryanani</participant>
+      <participant id="5">Joseph Tucci</participant>
+      <participant id="6">David Goulden</participant>
+      <participant id="7">Tony Takazawa</participant>
+      <participant id="8">Aaron Rakers</participant>
+      <participant id="9">Mark Kelleher</participant>
+      <participant id="10">Toni Sacconaghi</participant>
+      <participant id="11">David Bailey</participant>
+      <participant id="12">Bill Shope</participant>
+      <participant id="13">Kathryn Huberty</participant>
+      <participant id="14">Brian Freed</participant>
+      <participant id="15">Keith Bachman</participant>
+      <participant id="16">Rajesh Ghai</participant>
+      <participant id="17">William Fearnley</participant>
+      <participant id="18">Kaushik Roy</participant>
+      <participant id="19">Jayson Noland</participant>
+      <participant id="20">Glenn Hanus</participant>
+      <participant id="21">Mark Moskowitz</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Welcome and thank you for standing by.  At this time, all participants are in a listen-only mode.  <mark type="Operator Instructions" /> Today's conference is being recorded.  If you have any objections, you may disconnect at this time.</p>
+          <p>Now I'd like to introduce your host, Tony Takazawa.  Please begin.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, Audra, good morning.  Welcome on EMC's call to discuss our financial results for the first quarter of 2009.  Today we are joined by Joe Tucci, EMC Chairman, President, and CEO; and David Goulden, EMC Executive Vice President and CFO.  David will provide a few comments about the results that we released this morning.  He will highlight some of EMC's activities this quarter and discuss some modeling assumptions for 2009.  Joe will then spend some time discussing his view of what is happening in the market, EMC's execution of the strategy, and how EMC is positioned going forward.  After the prepared remarks, we will then open up the lines to take your questions.</p>
+          <p>I would like to point out that we will be highlighting various non-GAAP numbers in today's presentation.  The reconciliation of our non-GAAP comments to our GAAP results can be found in the disclosure today in our press release, supplemental schedules, and the slides that accompany our presentation.  All of these are available for download within the Investor Relations section of emc.com.  As always, we have provided detailed financial tables in our news release and on our corporate website.  And with regard to details of VMware's results, we refer you to the release from last night.</p>
+          <p>The call this morning will contain forward-looking statements and information concerning factors that could cause actual results to differ can be found in EMC's filings with the US Securities and Exchange Commission.  And lastly, I will note that an archive of today's presentation will be available following the call.</p>
+          <p>With that, it is now my pleasure to introduce David Goulden.  David?</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks, Tony, good morning and thank you for joining us today.  In Q1, EMC achieved revenue of $3.15 billion, non-GAAP EPS of $0.16, and free cash flow of $681 million.  Given the very tough economic environment and the transactional nature of our business, we were encouraged by the resiliency of our business model.  We took a proactive approach in adjusting our business to this changing climate and we are very focused on managing the controllables in our business.  I think we did a great job of that in Q1.</p>
+          <p>We executed well on our cost reduction plans, maintained disciplined expense control, reduced inventories, and held a strong DSO number, all of which resulted in decent profitability and excellent free cash flow this quarter.  I would like to thank our global workforce for their efforts here.</p>
+          <p>In Q1, we also made good progress on our plans towards reducing our long-term cost structure and improving the future efficiencies of our global operations.  Importantly, we also utilized our financial strength to continue our investments in industry leading products and services.  This dual focus on efficiency and investments is key to reinforcing EMC's strong position to weather this downturn, take share in our addressable markets, and position EMC for even more success when the economy turns around.</p>
+          <p>Now let's take a closer look at the financial results for the quarter.  EMC Information Infrastructure revenues in Q1 were $2.7 billion.  This includes approximately 400 basis points of negative impact from currency.  Non-GAAP earnings per share were $0.11.  Free cash flow was $494 million, more than $260 million higher than non-GAAP net income.</p>
+          <p>Looking at our geographic results for the Information Infrastructure business in Q1, non-US revenues were 48% of the revenue mix.  We saw the effect of weak enterprise spending across the vast majority of our markets during the quarter.  On a global basis compared with the average, Government and Healthcare were relatively stronger and Financial Services was relatively weaker.  Our BRIC +13 markets were up 7% in constant currency.  We continue to invest in these markets as we believe they're important to EMC in the long term.</p>
+          <p>Looking at the results from our Information Infrastructure business units, in Q1 product revenues were $1.7 billion and services revenues were 1 billion.  Within this, Information Storage revenues were $2.4 billion.  At the high end, Symmetrix metrics revenues were down 25%.  But on a more positive note, bookings were down 17%.  In the mid-tier, CLARiiON revenues were down 18% over Q1 of last year.</p>
+          <p>These results from our two largest product lines reflect our exposure to weak enterprise spending, especially in the enterprise.  We are, however, encouraged that we maintained overall footprints in our existing accounts and actually added new enterprise customers during the quarter.  It's also good news that our channel related business that is less enterprise focused showed relatively better results.  These factors lead us to believe the weakness is much more macro related than company specific.</p>
+          <p>Both our Symmetrix DMX and CLARiiON CX4 families lead the market in terms of reliability, scale, performance, and cost efficiency.  In addition, we believe that the new, highly differentiated, and unique Symmetrix V-Max will strengthen our position even more in the high end and we look to extend our lead here.</p>
+          <p>Our Celerra NAS business continues to do well.  We achieved our eighth consecutive quarter of double digit revenue growth and we continue to gain share.  In February, we introduced our new Celerra NS Unified Storage Systems with Flash drive technology, management tools for VMware environments, and primary deduplication.  Customer response has been terrific.</p>
+          <p>Our deduplication business continues to show excellent growth.  We continue to be the leading provider of deduplication technology with multiple ways for customers to utilize deduplication to manage data growth and reduce costs.</p>
+          <p>In conjunction with the introduction of VMware's VCS 4 cloud operating system, we invested early to ensure our Information Infrastructure portfolio works with VCS deployments on day one.  We also announced our new PowerPath/VE software, specifically designed to unify the management of major server, operating systems, and virtual platforms across physical and virtual environments.</p>
+          <p>Dell represented about 10% of EMC's total revenues in Q1.  Within this, Dell was approximately 26% of CLARiiON revenues, representing a slightly higher percentage than in Q4.</p>
+          <p>Overall, the storage results this quarter reflect the pressure on customer budgets and IT spending, especially in the enterprise.  While near-term economics are challenging, we're confident that over the long term, we will gain share in these markets as EMC continues to have the best and also the broadest and most integrated storage part portfolio.  Our storage platform spans across the consumer, mid-tier, and high-end markets.  We continue to lead the market with cost effective solutions.  These solutions provide unique value to customers and are key to our ongoing market leadership, ability to grow share, and provide a very good return over time.</p>
+          <p>Our technology and solution approach to integrate systems and software has been very successful.  In fact, when you look at our storage business over the last few years, we have consistently shown solid revenue growth and the profitability on both the gross margin and operating margin have been very good.  As you can see on the chart, storage gross margins have consistently been around 50% over the last two years.</p>
+          <p>As you would expect, in Q1 our storage margins came under pressure mainly due to volume declines in our largest products.  Despite this revenue decline, we still achieved gross margins of 48%, demonstrating the strength of our storage business model.  Based on these factors, we believe the Information Storage business has been and will continue to be a great business.</p>
+          <p>We will continue to invest in our R&amp;D programs to lead the market with new and unique information storage products and solutions.  For example, in recent months we've integrated Flash technology across our entire product line, broadened our deduplication solutions, and added NAS and home media products to the Iomega consumer family.</p>
+          <p>And as a leading IT provider for virtual data centers and cloud infrastructures, we continue to innovate.  Our Atmos cloud infrastructure product, recently announced Symmetrix V-Max, and VMware vSphere integration across our entire storage portfolio are examples of our efforts here, and there's much more to come.</p>
+          <p>In today's economy, we think the less focused traditional competitors and the small feature-oriented companies will have a hard time keeping up the necessary investments.  As a result, we believe we are positioning ourselves to pull further ahead technology-wise and gain share near term and longer term.</p>
+          <p>Q1 RSA Security revenues were up 6% year on year.  We continue to see good demand for our Security Information and Event Management offerings.  In March, we announced the release of the new RSA enVision 4.0 platform that's designed to further simplify compliance, ensure efficiency and effectiveness of security operations and risk mitigation.</p>
+          <p>Our Identity Protection and Verification products also had another strong quarter.  We're starting to see demand for our offerings grow beyond consumer protection into healthcare, business-to-business, and enterprise applications.  And just last week, we announced our new RSA Data Loss Prevention Suite that's integrated with our enVision platform and offers new capabilities for discovery and remediation designed to reduce the total cost of ownership for DLP.</p>
+          <p>Revenues from our Content Management and Archiving business in Q1 were down 6%.  Constrained IT spending continues to result in smaller deal sizes and longer approval cycles in this area of our business.  Compliance continues to be important to customers and our SourceOne information governance solution we announced earlier this month positions us well to capitalize upon opportunities here.</p>
+          <p>In Q1, our Global Services organization performed relatively well, but challenging market conditions have an impact upon some customers' projects.  We are confident that EMC's service capabilities will continue to help customers to meet their near-term cost containment requirements while supporting their long-term objectives such as consolidation and virtualization.  Our focus on investments in our Services business give us a competitive edge as customers think about their information and virtual infrastructures and their virtual data center architectures.</p>
+          <p>Turning to other elements of the income statement, Q1 gross margins came in at 50% and operating margins were 11.3%.  Given the environment, we think these are pretty solid results.  As you would expect, the sequential decline in gross margins is almost entirely due to volume.  In order to offset this impact, we are very focused on controlling the controllables and have made great progress on our restructuring and cost savings initiatives.</p>
+          <p>As of the end of March, we completed approximately 50% of our head count reductions.  In addition, our cost saving efforts are on target relative to our previous plan for $350 million of savings this year.  Q1 actually saw a better than plan savings due to EMC employees doing a great job of controlling short-term spending, a little more than expected help from favorable currency rates, and a few one-time items.  While these favorable factors won't be as positive throughout the rest of 2009, we've identified some additional near-term cost reductions that will save EMC another $100 million, predominantly in the second half of 2009.  Joe will provide you with more details on these initiatives in his comments.</p>
+          <p>Based on our existing cost reduction plans and these additional actions, we now expect to reduce our 2009 Information Infrastructure costs by approximately $450 million from our 2008 spend.  Given the shorter-term nature of some of these new initiatives, we still expect total cost reductions to be approximately 500 million in 2010.</p>
+          <p>We remain very confident in our products, services, and solutions, and believe these near-term and longer-term changes through our cost structure will help us to ride out this period of economic uncertainty and put us in a position of strength when things get better.</p>
+          <p>This is a tough market, but we continue to move forward to stay in front of our customers, roll out new products, and invest in R&amp;D and new markets in a time when other companies might not be.  We continue to make investments that are necessary to support our future strategic plans for the virtual data center and cloud computing.  As an example, this quarter we invested approximately $20 million in our cloud infrastructure business.  We plan to play in this market from the infrastructure side and provide predominantly software based product infrastructures.  This will be a high growth, high margin business for us that will require significant investment, but we firmly believe it is the right approach, the right time, and right market to invest in.</p>
+          <p>As we've discussed last quarter, we are focused on improving our long-term cost structure, and we expect to incur approximately $60 million in transition costs in 2009 to implement these changes.  In Q1, we incurred approximately $10 million related to these efforts.  Overall, I think we did a good job balancing OpEx reduction efforts with necessary technology and business investments in the quarter.</p>
+          <p>Now turning to our consolidated results, total Q1 consolidated revenues were approximately $3.15 billion, down 9% over last year, including a 3.5% negative impact from currency.  Non-GAAP earnings per share were $0.16 and free cash flow was $681 million.  I want to reiterate that even though this very tough economic environment caused a big decline in important parts of our business, our operating model held up well and we're encouraged by these results.</p>
+          <p>VMware had a good quarter and contributed around $0.05 to our consolidated non-GAAP earnings.  Relative to VMware's comments last night, there are a few factors that will reduce VMware's profit contribution to our second quarter consolidated earnings by approximately $0.02.</p>
+          <p>Our non-GAAP tax rate for the quarter was 21%.  And our consolidated operating cash flow was $864 million.</p>
+          <p>A few balance sheet items that impact our Q1 operating cash flow include deferred revenues, which were $3.3 billion and up 13% over Q1 last year, inventory turns which were 7.3, and DSOs which were 49 days or very good given the current economic climate.  We ended Q1 with a record $9.8 billion in cash and investments, with 5.9 billion held overseas and at VMware.</p>
+          <p>Financial flexibility is a critical strength and competitive advantage for EMC, particularly in this unprecedented and unpredictable economy.  Our financial strength allows us to continue to invest in our business even during challenging economic cycles.</p>
+          <p>Now let's take a look at the rest of 2009.  In Q1, we saw customers carefully scrutinizing everything they spent and only buying what they had to in conjunction with continued uncertainty around their budgets, a real just-in-time, just-enough environment.  However, one positive sign is that the tone of the business improved during the quarter with March better than January and February.  While things are still pretty murky out there, the additional three months of experience does give us a better view of 2009.</p>
+          <p>Based on what we are seeing and hearing out there, our best guess at this time is that global IT spending will likely be down very high single to very low double digits this year.  In terms of linearity for the year, the good news is it looks like IT spending in Q2 will probably be flat with Q1, and we continue to expect the second half of 2009 to be stronger than the first half.</p>
+          <p>This is not an economic prediction, but more a belief that it looks like customers will end up spending more of their 2009 money in the second half than the first.  Historically this has been true, but we think it should be somewhat more pronounced this year as customers will have better visibility to budgets and be further along with their own restructuring programs and broader stimulus packages should be underway.</p>
+          <p>Looking more specifically at EMC, we believe that volumes and to a lesser extent customer pricing programs are dual headwinds that will continue resulting in lower gross and operating margins in 2009 over 2008.  We believe that the expected cost savings of 450 million in 2009 from our cost reduction plans will offset some but not all of these combined headwinds.  As we said last quarter, about a third of the cost reductions will be from our COGS line and the remainder representing lower operating expenses.  The savings will be weighted towards the latter half of the year.</p>
+          <p>For your modeling purpose, it's also important to keep in mind that we will continue to be impacted by the various factors we referenced last quarter with respect to transition costs; FAS 86, software capitalization; FSB 14-1, interest expense; and lower interest income.  So as we think about 2009, the combination of market impact, cost cuttings, continued investments, and the four facts that I just mentioned will lead to some ebb and flow throughout the year.  But we think operating profitability should show signs of improvement from Q1 levels in the second half.</p>
+          <p>As a reminder, we believe our non-GAAP results, which consistently only excludes stock-based compensation, intangibles, and unusual items such as restructuring charges, allow for the most transparent and clean view of our operating performance.  The non-GAAP financials better reflect how we run the business and are consistent with the way we discuss our results with you.  As a result, we strongly encourage you to model EMC reflecting this non-GAAP view.</p>
+          <p>Looking forward, we like our position on both defense and offense for this year and beyond.  We remain very confident that we have a very competitive product portfolio to help more customers meet their needs and will continue to increase our market leadership this year with new products and solutions.  And we have a solid financial foundation and strong cash position.</p>
+          <p>With that, I'll now turn the call over to Joe to comment on Q1 and the rest of 2009.  Joe?</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thanks, David.  I would also like to extend my welcome to everyone joining our conference call today.  As always, thank you for your interest in EMC.</p>
+          <p>Q1 was to say the least an interesting and extremely busy quarter for us.  We had to get a handle on how this economic recession and tight capital spending environment would affect our customer spending.  We had to execute on our own right-sizing and cost saving initiatives.  We had to finalize preparation for our Investors Day strategic forum which we held on March 10.</p>
+          <p>We have to forge tighter and deeper strategic alliances with the core partners for the future, such as Cisco, Intel, and SAP on the technology side; Accenture, Wipro, TCS, ACS, and EDS in services; with channel partners like CDW, Arrow, Avnet, and Ingram; with systems partners like Fujitsu; and yes, with Dell.  Michael Dell and I with our collective teams have been spending considerable time ensuring our mutually important alliance is back on track.</p>
+          <p>But it goes without saying that I am proud of the EMC and VMware teams across the globe.  They fought hard every day.  They exhibited a winning attitude, a relentless focus on our customers.  They have a great belief in our innovative products and services and they are charged up about our future.</p>
+          <p>Additionally in Q1, we had to get ourselves ready for the most expensive set of product launches in our history, including the very important transition plans that always accompany any major product introductions.  And of course, in a very, very tough and uncertain quarter, we had to book, ship, and bill the vast majority of our Q1 revenues to produce our top line of 3.15 billion.</p>
+          <p>This result fell short of our internal goal of 3.2 billion plus.  I do believe this result when compared to other large cap IT technology companies on an apples-to-apples basis; i.e., net of acquisition effects, will compare well.  But don't get me wrong, I am truly disappointed that we missed our top line goal and I offer no excuses.  I'll have more to say about that in a minute.</p>
+          <p>To refresh your memory, so far this month we launched the game-changing Symmetrix V-Max, featuring unmatched scale-up, scale-out capabilities, performance, and functionalities.  We launched a new compliant archiving suite called SourceOne, which features a simple consistent way for our customers to archive information across their many discrete applications.</p>
+          <p>In Security, RSA launched major new versions of our data loss prevention and security and event management suites.  And this past Tuesday, VMware introduced vSphere, the world's first data center OS.  vSphere is A-key, perhaps B-key technology for tomorrow's internal and external cloud computing environments.  So as you can see, all of our businesses were quite busy the first 111 days of 2009.</p>
+          <p>Let me now turn my comments to the economic and IT spending environment which we have operated in since the opening days of Q1 through today.  The first half of Q1 was extremely slow as customers focused primarily on their own restructuring and cost cutting initiatives.  A significant number of our customers did not have finalized 2009 IT budgets in place, and many of our customers that did have finalized budgets have implemented new policies and procedures that require top executive management approval before any IT purchasing could take place.</p>
+          <p>These reviews and lack of firm budgets elongated sale cycles, delayed and downsized many orders, and made the final outcome less predictable.  As we got into March, these top management approval processes were and still are in many cases in place.  But things improved; more budgets were set albeit at a somewhat lower level, and the new approval process became more programmatic and business felt somewhat more predictable.</p>
+          <p>I don't want to mislead you, IT budgets are still tight, and customers are buying only what they must have and need for today.  But they are proceeding with projects that have good ROIs, projects that help drive productivity and are truly strategic, and help them save dollars.</p>
+          <p>Customers are also very interested in technologies that will shape the future of IT, technologies like Flash drives and storage, technologies like fully virtualized data centers that are more automated, technologies like virtual desktops and clients, and the efficiency, control, and choice that cloud computing technologies promise.</p>
+          <p>Also worth noting was the fact that throughout Q1, our opportunity coverage was quite good.  In other words, our sales organization continually had solid pipelines of business and coverage models that would in more normal times have produced a significantly higher level of bookings than we realized this past Q1.  And I might add our win/loss ratios were in line and actually quite good compared to prior years and quarters.  In fact, I believe we took share in the markets that we addressed.</p>
+          <p>The business shortfall was a result of two major factors.  First, many orders were pushed out of the quarter.  And secondly, the size of orders were cut back.  Also, to be a long-term strategic partner to our customers, we did in this time of need offer programs that gave customers additional financial benefits.</p>
+          <p>As I look to the balance of 2009, I do believe we are at or very near the bottom from an IT spending point of view.  I continue to believe that the second half of the year will show an improvement with Q4 holding the most promise.  But I do not believe that Q2 will continue &#x2013; I do believe that Q2 will continue to be sluggish; a little more predictable, but sluggish.  Why sluggish?  I believe that customers will continue with their just-enough, just-in-time IT spending patterns.  They too are looking for signs of improvement.  And while there is some light at the end of the tunnel, they will likely wait a bit and continue to be cautious.</p>
+          <p>In addition, as we enter the second half of the year, our results will benefit from the strong product cycles I mentioned and customer adoption of these products: V-Max, vSphere, SourceOne and our security products.  Additionally, EMC's pipeline of new product introductions in the second year is also quite strong.  Overall, as David mentioned, we expect IT spending to be down this year in the very high single digits to perhaps the very low double digits.</p>
+          <p>To ensure EMC's strength and fully capitalize on our strong product portfolio and cycle, we intend not to reduce our head count beyond the 2,400 people we announced this past January.  We will continue to execute on our original 2009 R&amp;D roadmaps.  We will maintain our strength in sales, support, and services that touch our customers every day and drive new business.</p>
+          <p>But in light of this weakened economic environment, we will, however, reduce our 2009 cost base further.  To accomplish this objective of reducing our cost base without further people reductions, we will take a number of actions that will help us save another $100 million in 2009.  As a major part of this program, I have sent a letter today to all EMC exempt employees asking them to join management and our Board of Directors and take a temporary 5% salary pay reduction.  I might mention that for the senior management and our Board, this cut is on top of the 5% to more than 20% reductions that we already have implemented.  This and other actions will keep us at maximum strength for today while ensuring a strong and motivated EMC for tomorrow.</p>
+          <p>In conclusion, I firmly believe that we have the vision and strategy in place for us to win and prosper.  As you can see, the business model and leadership that we've put in place over the last several years passed the test and produced respectable results even in these unprecedented economic times.</p>
+          <p>Thank you and now let me turn it back to Tony to moderate the Q&amp;A portion of today's call.  Tony?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks, Joe.  Before we open up the lines for your questions, as usual, we ask you to try and limit yourself to one question, including clarifications.  This will enable us to take as many questions as possible.  We thank you for your cooperation in this matter.</p>
+          <p>Audra, can we open the lines, please?</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you.  <mark type="Operator Instructions" /> Amit Daryanani with RBC Capital Markets, you may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Thanks a lot, guys, good morning.  Just a question, I am trying to understand.  On March 10 at Analyst Day, you guys talked about IT spending being down mid to high single digits and now it looks we're talking of it being down almost low teens.  I mean it doesn't sound like demand patterns changed much for us.  So what's really driving your expectation of a worse IT spending pattern?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>It's just what we saw, it's Joe.  It's just what we saw in the market.  I mean obviously when we talked to you in January, we were giving you everything we believed and everything we were seeing at that time.  As we went into January and February, we had, and we watched others' results and the guidance of others.  We clearly believed that this was going to be a little tougher than we originally thought, which is again why we're taking the additional expense reduction.  And as always, we tell you how we're seeing it, this is how we see it right now.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Just to add to that, if you go back and think of what the global economic situation was in January, people were saying there might be a global recession.  Now if you look at things in April, there is no doubt there's going to be a pretty big global recession, the first one in the last 60 years.  So that's a significant change just in the whole global environment from an economic perspective that's happened from January through to now, and that difference is also driving our different view on IT spending.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, Amit.  Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Aaron Rakers with Stifel Nicolaus, you may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Yes, thanks for taking the question.  I guess if I look at the cost cuttings that you guys are implementing through 2009, now at $450 million on the core Information Infrastructure business, can you help me understand how to model that through this year and how much maybe with OpEx down 200-plus million non-GAAP, how much has already been flowed into the model already?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Yes, sure, Aaron.  As we said, the 450 is still going to be about one-third in COGS and two-thirds in OpEx.  The extra 100 that we spoke about is really all going to be aimed at the second half of the year.  Most of it is related to the salary reductions that Joe mentioned that we'll be implementing later this quarter and will be in place for the rest of the year.  So that leaves us with the original 350 which we spoke about, and again that will be more balanced towards the second half.  As I mentioned, we did a little better than you would expect in Q1.</p>
+          <p>Just to give you a couple more numbers, if you basically take the original 350 and you say there will be two-thirds sitting in OpEx, that will give you roughly 250 of savings.  If you would have expected that in Q1, we would have probably saved in the 30 to $40 million range in OpEx in Q1, and you saw the saving was much higher than that.  And the difference was mainly because we had that additional currency benefit, some additional one-time benefits like vacation accruals which we changed because of a change in vacation policy, and also because our employees really cut things down.  So hopefully that gives you a flavor of the moving parts.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mark Kelleher with Brigantine Advisors, you may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thanks for taking the question.  V-Max is certainly a great new architecture.  Can you comment on the product transition issues that may have affected the Sym [Symmetrix] sales in the quarter, gross margin, sale cycle extensions, things like that? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Mark, it's hard to say.  We did hundreds and hundreds of NDAs, nondisclosure agreements, with customers telling them about V-Max, so obviously it was well known.  How much that affected the quarter versus the general economic environment is hard to say.  For sure, most of it was the economic environment.  But clearly there was some stalling in the Symmetrix line as customers did wait for V-Max.  And obviously this is going to be a &#x2013; we have a very carefully planned transition here.</p>
+          <p>This is the biggest change.  As Dave Donatelli and his team have pointed out in the announcement, this is the biggest change in the history of Symmetrix in terms of architecture and approach with the scale-up and scale-out architecture, the switching of underlying engines.  So I expect this transition could take a little longer than normal, but it's going to be strong and it's going to increase the addressable market for Symmetrix.  So we have &#x2013; I have tremendous belief in the success of this product.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, Mark.  Next question please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Toni Sacconaghi with Sanford Bernstein, you may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yes, thank you.  I just wanted to explore the gross margin question.  David, I think you had said that it was almost entirely due to volume.  Can you comment on what percentage of your COGS are fixed today?  Is that 20 to 30%, and how we should think about that?</p>
+          <p>And then secondly, you said almost all of it was related to fixed costs.  But Joe said we provided additional financial benefit to customers, which to me sounds like a subtle way of saying that you were more flexible on pricing.  So can you comment on what impact you thought pricing had in the quarter and whether that was more pronounced on larger deals or in certain segments?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Toni, if you look sequentially, gross margins for Information Infrastructure were down about three points.  Over 80% of that reduction can be attributed to volume.  We did, as Joe mentioned, offer customer some pricing programs.  So there is a little bit of what I call mix/pricing in there.  And by mix, obviously you saw we had relatively better performance in some of our international markets.  Some of those carry lower gross margins, places like China.  So that impacted things a little bit.  So despite the fact that we did offer customer pricing incentives, basically we were able to offset most of those through the continued reduction in costs through our supply chain.  And there was very little net impact over and above volume and mix from a geographic point of view in the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, Toni.  Next question please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>David Bailey with Goldman Sachs, you may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Yes, good morning; thank you.  I'm just trying to parse through your comments about 2009.  You said that profitability should improve in the second half of the year compared to Q1.  Does that imply that profitability in Q2 will be flat or down?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Actually, we're not making any specific comments about Q2.  But I did mention a couple of factors that will impact that.  I mentioned that VMware will cost us a couple of cents of EPS in Q2, basically, $0.01 roughly from their operating performance EBIT, $0.01 from the impact of FAS 86 software capitalization.  So those are headwinds we have to push against in Q2.  They're not insignificant headwinds.</p>
+          <p>Obviously offsetting that, we've got some additional cost reductions.  As I mentioned to you, we did have some things in Q1 on the cost side that won't incur, that won't recur in Q2, so there will be a bunch of puts and takes.  So we're not calling a number for Q2 specifically, but you can see how some of those moving parts might impact Q2.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>I'll give you just a little bit of color, and I'm going to repeat what we just said.  I do not see an improvement in Q2 over Q1 for the industry.  I basically believe that &#x2013; I don't believe that in an IT spending view, it's going to get &#x2013; that will be pretty close to the bottom, I just believe that.  I'm not saying you're going to see a significant pickup in Q3.  But I do think as we get into Q4 you'll see some.  And then I think obviously the recovery will be slower than normal coming out of there.  So that's what I believe and that's the environment that EMC is operating in.  You saw our Q1 results, so you have to make your own judgments.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, David.  Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Bill Shope with Credit Suisse, you may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay, thanks guys.  I just want to get a little more clarification on the OpEx savings based on your previous commentary.  So are you guys saying that a large portion of the 1Q OpEx savings were outside of the official restructuring program, and would that imply that we should be thinking about pulling the savings off the run rate from 1Q OpEx or am I misunderstanding that?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Bill, just to help you quantify, roughly half of the OpEx savings in Q1 were things that were over and above the official cost savings program.  So when you look at the $90 million we saved on a non-GAAP basis OpEx year on year, think in terms of half of that came from our published cost reduction program and the other half came from the three other factors I mentioned that add up to again that roughly half of the total savings.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, Bill.  Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Katy Huberty with Morgan Stanley, you may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thanks, good morning.  David, you mentioned linearity was skewed towards the month of March in the quarter.  Was that the case for both enterprise and the channel business or were the stories different in the two segments?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Katy, certainly March was better in both.  It was more pronounced in the enterprise, but we did see improvements in March relative to January and February from a tone in the other segments of the business as well, but mainly in the enterprise.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, Katy.  Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Brian Freed with Morgan Keegan, you may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>You guys spoke to the broader IT market in your view.  But with respect to the storage market specifically, how do you think that's going to fare from a forecast perspective in '09?  And secondly, can you speak briefly as to trends April to date?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>When you think of the infrastructure, Brian, and you think of the three major elements, network, storage, and servers, clearly of those three, I believe storage &#x2013; while you see the declines for Q1 for the companies that I said, I think if you add it all up, I think you're going to be someplace in the mid-teens, and I think you're going to be probably 20 or north of 20 in the server market.  And based on some of the guidance we're seeing in the networking space, that probably will be a little bit north of where the storage is also.  And I think this is one of those times when everything is going to be affected by this economic &#x2013; all infrastructure elements are going to be affected.  I do think when compared to the two other major elements, it will be a little bit better, but still going to be affected.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, Brian.  Next question please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Keith Bachman with Bank of Montreal, you may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Hi, thank you.  David, for you, I wanted to follow-up and ask about gross margins.  Specifically it sounds like we should be thinking about having gross margins being flattish in the June quarter, question number one.  And then secondly, my understanding of the cost cuts that would layer into gross margins, those would likely be eaten up in the second half of the year and such that we should be thinking about volume variances potentially helping gross margins in the second half of the year.  But I just wanted to see if you could offer any color on gross margins generally?  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Sure, Keith.  Again trying to keep off being specific around the June quarter because we're not giving guidance, but basically we expect the environment that drove margins to the Q1 levels to continue to persist in Q2.  So other than a little bit of cost savings which could be offset by customer pricing programs, not a lot of moving parts relative to Q1 and Q2 in the gross margin side.</p>
+          <p>And yes, volume, as I mentioned, was the biggest driver of the margin reduction from Q4 to Q1.  So assuming that our predictions are correct and we see more spending in the second half with volumes picking up; that will be a positive impact for gross margin in the second half.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, Keith.  Next question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Rajesh Ghai with ThinkEquity, you may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Yes, good morning.  I had a question following up on the product margin question.  Now I understand that a component of that is related to volume, a component of that is related to pricing pressure.  Now given that we've been in recession for about a year and half now and pricing has been a little weaker, do you see pricing becoming your &#x2013; pricing power returning when demand picks up or do you see &#x2013; and just if you could give some color on that going forward, how do you see pricing trending?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>David can give you more details, but if I understand your question, I mean you've got three factors here.  The decrease in volume is causing most of the pain.  We are giving some better pricing, so that's causing some pain.  And on the other side as part of our austerity program and cost control, we are getting some good gains in the COGS area in terms of savings, and of course that goes the other way.  And I don't know David if you want to add.  So that's definitely a decrease in volume, definitely a decrease from discounting, and definitely a pickup because we're doing a better job on COGS.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Raj, I think your question was when things return where does pricing power sit.  I think that as Joe said, it's going to be a slow pullout when the pullout occurs.  So we don't see a lot changing on the pricing side of &#x2013; our customers are still looking for great value.  We mentioned that we're doing a number of things to help them through our customer programs.  We have been able to offset most of that through our cost reductions in our supply chain.  And we don't see that environment changing in the foreseeable future.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes, and then obviously the whole game here is for us to also take share.  This is why we're continuing our significant level of investment, more than double anybody else for sure in R&amp;D and Storage.  And that's why we're keeping our sales organizations and support organizations strong to make sure that we can capture those opportunities.  So that's a very important part of how the volume starts going to other way in the future.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thank you.  Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Bill Fearnley with FTN Equity Capital, you may ask you question.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Yes, thanks, guys.  I wanted to ask some more questions on the CLARiiON, if I could? Could you give some more color on the direct, indirect, and Dell mix for CLARiiON?  And given the performance in the first quarter, what are your expectations here for the CLARiiON line in the midrange here near term?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>I mentioned, Bill, that first of all, we told you that's Dell sequentially compared to Q4 represented just a little bit higher percentage of the CLARiiON mix, and that's an indication that Joe mentioned that we'd be working on the Dell/EMC Alliance.  We gave you a view that overall IT spending won't be significantly different in Q2.  On the other hand, CLARiiON and our mid-tier products in total, particularly our NAS, are very, very strong.  You see how well Unified Storage was doing.</p>
+          <p>When you look at our 3Cs together: CLARiiON, Celerra, and Centera, it's still a very competitive midrange offering.  And you saw that despite the fact that the market was down enormously, we saw continued growth in our NAS range.  And the Unified Storage aspects of our NAS products, which use a lot of the same components as a CLARiiON, was actually very, very strong.  I'd also mention relative to the Dell alliance that Dell now has also signed to resell the NX4.  So they're taking advantage of some of the NAS technology from us as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thank you.  Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Kaushik Roy with Wedbush Morgan, you may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Thank you.  During the quarter, did you do share buyback, and if not, why not?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Did we do any buybacks during the quarter?  As we mentioned before, we're going to be opportunistic.  During 2009, we want to make sure that we see how the market plays out and keep all of our options open moving throughout the year.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, Kaushik.  Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Jayson Noland with Robert W. Baird, you may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Thank you, David, a question on annual revenue linearity.  If you look at '07, the back half contributed about 54% and then in '08 about 52%.  It sounds like we should expect this year to be more exaggerated to the second half?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Jayson, I think we've given you a couple hints in terms of what we expect Q2 to be like given our view on the markets.  And then we said that there will be some uptick from that.  The reason we're not giving you anything more than that is because we really don't have a good handle upon how big the uptick could be or how fast it will happen.  But obviously if it does occur, then that would give us a relatively stronger second half.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, Jayson.  Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Glenn Hanus with Needham and Company, you may ask your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Good morning, guys.  I wonder if you could comment a little bit on the Oracle/Sun development and how you work with Oracle in the field and on an R&amp;D level today.  And obviously there's a new competitive element introduced and how that all changes the dynamics for you with Oracle going forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Obviously, it will change the game to some degree.  I mean the name of the game has always been "coopetition."  A significant number of Oracle's big customers rely on EMCs infrastructures.  And Oracle is going to continue to work with us as an important partner.  We're going to continue to work with them, that's clear.  That commitment is there both ways.</p>
+          <p>Obviously, what's happening here in the market is Oracle is building a vertical stack and that they'd like you to use more and more of their vertical stack.  And then of course, others are doing the same.  And the problem that that gives CIOs and IT professionals is that each of these stacks looks different, gets managed different, has different processes and procedures.</p>
+          <p>What we do is we have a stack also, but our stack is horizontal.  So if you look at our storage, it supports the Oracle stack, it will support the Microsoft stack and IBM stack, et cetera.  If you look at VMware, for instance, the same thing.  If you look at Security, the same thing.  So we're building a stack horizontally and that has a lot of appeal.  So obviously, there's a battle on which should win the multiple vertical stacks or basically managing your information and your virtualization horizontally, which is obviously the way we think will win.</p>
+          <p>So Oracle will &#x2013; if a customer chooses a way, Oracle will work with us.  But obviously, they'll push their way and we'll push our way, and that's the way it has been for a while and Oracle has obviously raised the stakes in that game.  And obviously, as we did vSphere and V-Max, we're raising the stakes in the game too.  So, it's going to be I'm not saying business as exactly usual, but it's the same battle that we've been fighting for a while, and the horizontal stacks that we're building have great applicability and great interest in IT professionals.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, Glenn.  We have time for one more question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Mark Moskowitz with JPMorgan, you may ask you question.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Yes, good morning, thank you.  I wondered if you can give us a little more color around the market displacement that you're benefiting from in terms of Celerra.  Are you winning from mass vendors historically, or are these more stand installations historically?  And then secondly on the supplemental revenue analysis, can you give us a little more background in terms of why we don't see the software maintenance and license breakdown on MR?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes, I'll take the first part and let David do the second part.  Clearly, we are winning these from mass vendors and these are winning in the iSCSI.  In other words, if you're going to put a &#x2013; if you say you want to use a SAN and you want to do iSCSI, you're also probably going to have an opportunity and a need to do file and print or file sharing, and then you need a NAS engine too.  So what we do is basically say hey, we'll give you both in one, and that is really appealing to customers.</p>
+          <p>So this share is clearly being taken from the iSCSI world and it's clearly being taken from the NAS world.  And the fact that we do them so well out of a single &#x2013; and then we could also, by the way, do Fibre Channel.  So we go all three ways and that is incredibly appealing, so we're absolutely taking share from iSCSI and absolutely taking this share that we get from the NAS.  David?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>So Mark, on the supplementary schedule, you are right that we've moved the reporting.  We've actually simplified it to just looking at the product lines and the services lines combined.  We think that's a more consistent way that other people look and report externally.</p>
+          <p>Specifically, one of the major reasons is there was a lot of confusion around our storage business about hardware/software mix.  We said that's not really the way that we go to market.  We sell solutions, so look at how our product revenues are doing and look at how our gross margins are doing.  We'll make it very clear to everybody going forward exactly what the puts and takes are around product revenues and gross margins in storage.  So we think that's just the right way to go to create a clearer and more consistent view of our financial statements.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>For the closing message, what I'd like to leave you with today is this.  I believe that we have the vision and strategy in place for us to win and prosper.  I believe we are balancing the realities of today with the opportunities for tomorrow.  We are reducing costs.  We are investing in innovative products and services.  We are investing in our sales and support engines to bring us more customers and maximize our revenue both this year and beyond.  So I believe we're doing what we need to do for this environment.  And most important is that the EMC troops are up and they're motivated, and we're going to &#x2013; and we will be successful.</p>
+          <p>So thank you very much for joining us today, and I'm sure we'll be talking.  Bye-bye.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Today's call has concluded.  Please disconnect at this time.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

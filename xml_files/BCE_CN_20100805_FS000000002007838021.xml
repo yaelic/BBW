@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1287714" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q2 2010 Earnings Call</title>
+    <date>2010-08-05</date>
+    <companies>
+      <company>1556</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Thane Fotopoulos, Head of Investor Relations</participant>
+      <participant id="2" type="corprep">Siim A. Vanaselja, Executive Vice-President &amp; Chief Financial Officer</participant>
+      <participant id="3" type="corprep">George Cope, President and Chief Executive Officer</participant>
+      <participant id="4" type="analyst">Greg MacDonald</participant>
+      <participant id="5" type="analyst">Simon Flannery</participant>
+      <participant id="6" type="analyst">Jeffrey Fan</participant>
+      <participant id="7" type="analyst">Jonathan Allen</participant>
+      <participant id="8" type="analyst">Phillip Huang</participant>
+      <participant id="9" type="analyst">Maher Yaghi</participant>
+      <participant id="10" type="analyst">Vince Valentini</participant>
+      <participant id="11" type="analyst">Dvai Ghose</participant>
+      <participant id="12" type="analyst">Peter Rhamey</participant>
+      <participant id="13" type="analyst">Glen Campbell</participant>
+      <participant id="14" type="analyst">Ric Prentiss</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>All participants, please stand by. Your conference is ready to begin. Good morning ladies and gentlemen. Welcome to BCE's Second Quarter Results Conference Call. I would now like to turn the meeting over to Mr. Thane Fotopoulos. Please go ahead, Mr. Fotopoulos.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, Colleen. Good morning everyone. With me as usual today are George Cope and Siim Vanaselja. Earlier this morning, we did issue our news release and second quarter financial statement, MD&amp;A, and supplementary information package, which are posted on SEDAR as well as on our website. Also posted on the Investor section of our website is the slide presentation that we'll be taking you through on this call.</p>
+          <p>George will give you his perspectives on our operational performance, while Siim will be start-off &#x2013; start off the call by covering the financial aspects of the quarter and guidance. Once that's all done we'll obviously move to Q&amp;A, time permitting.</p>
+          <p>However, before we begin, as usual I'd like to remind you that today's remarks will contain some forward-looking statements with respect to items such as revenue, EBITDA, adjusted EPS, free cash flow, and capital intensity. Several assumptions were made by us in preparing these forward-looking statements, and there are risks that our actual results will differ materially from those contemplated by our forward-looking statements. For additional information on such assumptions and risks, please consult BCE's 2009 Annual MD&amp;A as updated in BCE's Q1 and Q2 2010 MD&amp;As, and BCE's press release dated August 5, 2010, announcing its financial results for the second quarter of 2010, all of which are filed with the Canadian Securities Commission and with the SEC, and which are also available on the Investor Relations section of BCE's website.</p>
+          <p>These forward-looking statements represent BCE's expectations as of today, and accordingly are subject to change after such date. Except as may be required by Canadian securities laws, we do not undertake any obligation to update any forward-looking statement, whether as a result of new information, future events or otherwise, and I am making this cautionary statement on behalf of both George and Siim, whose remarks today will contain forward-looking statements.</p>
+          <p>So, with that, I will hand it over to Siim.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks, Thane, and good morning everyone. We appreciate your taking the time to join us on the call this morning. I would like to start with a few comments on the quarter overall. Our operations performed at an exceptional level, with strong financial results highlighted by significant earnings growth and free cash flow. Revenue trending in both our wireless and wireline units improved, and together with disciplined cost containment, contributed to improved EBITDA and overall margin performance.</p>
+          <p>I'd say our results through the first half of the year and visibility for the second half put us now in a position to improve our financial guidance for the full year, and to reward our shareholders with the further dividend increase which we announced today.</p>
+          <p>So, starting on slide 5 &#x2013; sorry, slide 4, total revenue growth at Bell was 4.5% this quarter, and is trending ahead of guidance. This was driven by double-digit growth in wireless and TV service revenues, as well as by the inclusion of The Source in our results, which is reflected as higher product revenues year-over-year. Growth in IP and ICT services in our business markets, and some upside from the recent G8/G20 Summit in Toronto, also contributed to improved overall revenue this quarter. Importantly, I'd say total service revenue &#x2013; which of course would exclude revenues from The Source &#x2013; grew 2% this quarter, and we're quite pleased with that.</p>
+          <p>Bell's EBITDA grew 3.3% this quarter. That's comfortably in line with our full-year guidance of 2% to 4% growth. Margins were essentially stable at about 40%, which I'd say is positive in terms of an outcome when you consider the significantly higher number of wireless activations and upgrades that we had in the quarter, year-over-year. As expected, EBITDA also benefited from lower pension expense year-over-year of approximately $20 million.</p>
+          <p>Our CapEx decreased this quarter, given the higher spending in 2009 on the construction of our HSPA+ network. Capital spending did increase however year-over-year on our broadband fibre deployment and network conditioning programs, as we ramp up those programs for IPTV. And we would expect a further acceleration of capital investment on fibre initiatives through the second half of the year.</p>
+          <p>A few quick observations on earnings. BCE's statutory earnings for the second quarter increased to $0.78 per share from $0.45 per share last year. The increase was driven by EBITDA growth and lower restructuring charges year-over-year. In addition, EPS benefited from lower income tax expense, driven by the favorable resolution of uncertain tax positions. Fewer shares outstanding from our share buyback program also contributed to the increase.</p>
+          <p>Adjusted EPS, which is before restructuring and net gains on investments, was $0.70 per share, up 33% year-over-year. That's running ahead of our plan, and it was driven by higher EBITDA and lower tax expense. We generated free cash flow of $566 million for the quarter, which was 9% higher year-over-year, a good result, I think, that is tracking to the high end of our 2010 free cash flow guidance.</p>
+          <p>So on balance, quite a good financial delivery this quarter, reflecting solid execution of the plans that we outlined to you back in February. And I'd say we continue to have a very strong balance sheet and liquidity position. Our financial flexibility is reflected in the substantial balance of $916 million in cash and access to 1.4 billion in largely undrawn committed credit facilities backed out.</p>
+          <p>So, with that summary perspective on the quarter, let me turn to the details for each of our segments. Our wireless business continues to show great momentum. As you see on slide 5, wireless service revenues had double-digit growth of 10.8%, reflecting strong net additions in our postpaid subscriber base, and significantly higher data usage and smartphone adoption, which generated a significant increase in wireless data revenue of 45% year-over-year. A standout metric for us this quarter was ARPU. Higher mobile broadband and data usage drove ARPU growth of 3.3%, and this marked the second consecutive quarter of year-over-year growth in ARPU since the beginning of the economic downturn.</p>
+          <p>We also were encouraged by Bell Mobility's voice ARPU performance in the second quarter, as we experienced a slowing in the year-over-year decline. I think that can be attributed to a better mix of higher value postpaid subscribers in our base, and an improving economy with increased roaming and LD usage.</p>
+          <p>As you know, the competitive environment remains intense &#x2013; remained intense during the quarter, with aggressive acquisition offers and deeply discounted handsets being featured in the market. In response to these competitor actions we also lowered our average handset prices, and as a result you see that wireless product revenues decreased year-over-year despite the significantly higher sales volume.</p>
+          <p>Wireless EBITDA performance this quarter reflected higher spending to gain 77,000 more activations year-over-year. We've also been upgrading existing customers to higher-end data devices, which of course drive improved ARPU and churn performance going forward. So together, subscriber acquisition and retention spending was $62 million higher this quarter compared to the second quarter of last year.</p>
+          <p>Notwithstanding the higher level of spending and competitiveness, our wireless EBITDA margin was a solid 41%, reflecting stronger service revenues and disciplined control over the higher levels of subscriber acquisition and upgrade spending, and I believe there are certainly opportunities to expand on that margin.</p>
+          <p>I'll turn to our wireline segment next. Wireline revenues were up 2.2% year-over-year from product sales at The Source; higher average revenue per household driven by growth in TV, residential, Internet, and home phone ARPUs; and increased IP-broadband connectivity sales and ICT solutions to large business customers. The improvement in average revenue per residential household this quarter was 12%. This reflects customer upgrades to higher-end-priced TV programming packages and increased Internet usage base billings. The pace of voice erosion also continued to trend as in prior quarters, with residential NAS line losses showing improvement for the 11th consecutive quarter now.</p>
+          <p>Voice revenues also benefited from a targeted price increase to home phone packages and long distance network charges. While revenues in the business market continue to be affected by some of the macroeconomic pressures we're seeing, we did nevertheless see some signs of stabilization in the quarter. Business NAS losses were unchanged year-over-year, despite heightened competitive activity from the cable operators, principally in the mass and midsize segments of the market.</p>
+          <p>Legacy voice and data erosion slowed, and appeared to be beginning to trend its way back from the downturn. IP and ICT solutions showed encouraging growth, and we continue to retain large business contracts on renewals. These are all encouraging signs, I think, and we're hopeful that employment rates, new business formation, and large enterprise solution spending will continue to show improvement.</p>
+          <p>The clear highlight metric for the quarter for our wireline segment was EBITDA, which grew 6% year-over-year. This improvement is attributable to lower pension expense, continued strong financial performance across our residential units, and cost savings from the flow-through of workforce reductions, which you'll recall we undertook in 2009, and supplier procurement savings and operating efficiencies in both field services and call centers. So all in all a very successful quarter in wireline, which delivered an EBITDA margin of 40% with a 1.5% improvement year-over-year in that margin.</p>
+          <p>Turning to adjusted EPS on slide 7, adjusted EPS was $0.77 in the second quarter, 33% higher year-over-year. That again positions us to exceed our full-year EPS outlook. The EPS improvement in the second quarter was due mainly to higher EBITDA and lower income tax expense, as well as to a fewer number of BCE common shares outstanding, as a result of the repurchases made under our current NCIB program. As of today, I'll mention that our current share buyback program, which targets the repurchase of 500 million in BCE common shares in 2010, is approximately 66% complete.</p>
+          <p>Foreign exchange gains on financial instruments from U.S. dollar hedges and a bit of equity pickup from our minority stake in the Montreal Canadiens that we didn't account for in our original guidance also provided an additional $0.015 to adjusted EPS this quarter. I want to spend a minute to bring to your attention our lower effective tax rate for the quarter. You see that it came in at 18.5%. Now at our February guidance session, I said that our expected accounting tax expense for 2010 reflected a statutory tax rate of 30.6%, but that given our consolidation of the non-taxable earnings of Bell Aliant, that we expect reduced tax expense &#x2013; and by the fact that we expect reduced tax expense from the resolution of past tax positions, we projected at the time an effective tax rate for 2010 of around 22%.</p>
+          <p>Now that effective tax rate was predicated on favorable tax adjustments for the year in the vicinity of $0.20 per share. However, given the favorable resolution of items year-to-date, and the visibility that we have on the status of some remaining tax issues through the balance of the year, we now expect those tax recoveries to contribute more in the range of $0.25 of EPS in 2010. And that would correspond to an effective tax rate equal to or perhaps slightly below 20% for the full year 2010, compared with our previous expectation of 22%.</p>
+          <p>On slide 8 you have the details of our free cash flow generation, which increased 8% year-over-year to $566 million. Our total CapEx spending in the quarter was $141 million lower, year-over-year, as I discussed. Net interest payments are lower this year, as we repaid a little over $2 billion of long-term debt in 2009, which lowered our average level of long-term debt outstanding. We also incurred lower restructuring payments related to our workforce and real estate reduction activities this period.</p>
+          <p>Higher cash funding of the pension plan this quarter that you see on the chart is entirely consistent with the guidance we provided to you in February, and it really reflects the timing of when contributions in 2010 are being made. So the lower actuarial valuation, with the $500 million special contribution that we made at the end of 2009, will only start reducing cash pension funding beginning in the third quarter this year. So you'll see that reduction in the second half.</p>
+          <p>We remain very focused on efficient working capital management. This quarter we built up more accounts receivable though, due to the significantly higher service revenues that we generated. At the same time, our inventory turnover levels improved to partially offset that increase in receivables.</p>
+          <p>The key highlight is that our year-to-date free cash flow generation, I think has really been exceptional, with growth opportunities ahead from business performance, continued efficiency gains, and the stronger Canadian dollar. With free cash flow before common dividends of 1.1 billion on a year-to-date basis, we are tracking to the higher end of our full year 2010 guidance and clearly that puts us into a very comfortable position to execute all of our business plans going forward, and our capital market strategy going forward as well.</p>
+          <p>And with the stronger year-to-date execution, let me turn then to the upward guidance revisions that we're making today. We are increasing our revenue guidance from growth of 1 to 2%, to 2 to 3% revenue growth, reflecting the step-up in Bell Wireless's revenue trajectory that is supported by strong postpaid subscriber growth and improving ARPU that I talked about.</p>
+          <p>In wireline, our expectation is for continued TV and Internet financial performance, with residential NAS erosion remaining relatively stable. Given that the Source acquisition was completed July the 1st last year, we will experience, as expected, lower year-over-year revenue growth from the lower product sales in the third and fourth quarter.</p>
+          <p>In terms of EBITDA, there are no changes to the current guidance of 2% to 4% growth for 2010. This guidance already reflects the substantial progress we've made on cost reductions, and takes into fact the higher year-over-year level of spending on wireless subscriber acquisitions and retention, and growth.</p>
+          <p>We are now calling adjusted EPS to be in the range of $2.75 to $2.80 per share for the year, and that represents year-over-year growth of 10% to 12%. And this is very much consistent with our expectation for a lower effective tax rate for 2010 of approximately 20%.</p>
+          <p>And finally, while our free cash flow guidance remains at 2 to 2.2 billion for the year, we do expect it to be at the high end of that range. Now this takes into account higher capital spending in the back half of the year compared with the first half, to keep us on pace <mark type="inaudible" /> intensity level of close to 16% for the year. Our free cash flow outlook also reflects an improved cash tax outlook for 2010, which we now expect will total approximately 120 million, down from our original guidance that I spoke to in February, where I indicated cash taxes of about 200 million. So the improvement from 200 million to $120 million is due to the finalization of our 2009 tax return. That came in better than what we had originally projected, and that also resulted in reduced tax installment requirements for 2010.</p>
+          <p>Let me close by quickly reviewing how we're executing against our capital market objectives. So on slide 10 you see, given our strong year-to-date earnings and free cash flow performance, improved operating outlook and sound balance sheet, we are pleased this morning to announce a mid-year dividend increase for our shareholders from an annualized rate of $1.74 per share to $1.83. This is the second common-share dividend increase this year, and will be effective starting with BCE's third quarter 2010 dividend payment on October 15.</p>
+          <p>This latest 5% increase maintains our dividend payout ratio within the lower end of our target range, our policy range, of 65 to 75% of adjusted EPS, and it's certainly readily funded from operating free cash flow. And with the dividend increase, we continue to anticipate a projected cash balance at the end of 2010 of approximately $500 million. And as we execute against our plan in the second half of the year, and gain more clarity on our outlook for 2011, we'll assess how to deploy any surplus cash.</p>
+          <p>And lastly, on slide 11 we summarized our share buyback activity over the course of the last 18 months. In total, we've repurchased and canceled over 51 million BCE shares, and expect to repurchase at least a further 5 million shares through the balance of this year. As you can see from the slide, we have undertaken these share buybacks at an practice average price per share for our shareholders.</p>
+          <p>And that's it. So with those comments, I'll now turn it over to George to provide his perspectives on the quarter. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Great. Thanks, Siim. Good morning everyone, and thank you for joining us. Your company had a very strong second quarter, and hopefully you can see that in the financials and our confidence in raising guidance, and as Siim said, raising the dividend this morning.</p>
+          <p>Turning to page 13, a few highlights here. Importantly, our execution in the marketplace continues to build momentum for us from a subscriber perspective. RGU net adds, excluding NAS, up 56% year-over-year. At the same time, NAS line losses improved 2.6% year-over-year. And most importantly for our long-term shareholders, our customer mix has really evolved over the last couple of years. You can see now NAS representing 37% of our customer base versus 42 two years ago. And I think what's a significant achievement is, we have grown our margin over 1.3% over that 24 months period, while at the same time through cost cutting been able to, if you will, absorb the effect of 900,000 less NAS, and at the same time grow our wireless business.</p>
+          <p>Another interesting number for our shareholders, we now generate more revenue from our TV consumer business than we do from the consumer home phone access business. And that's before we begin to rollout IPTV.</p>
+          <p>Turning to page 14, we had a strong quarter in wireless again, net adds doubling year-over-year. Most importantly, postpaid growth of 60% year-over-year, and we believe we will achieve our goal of approximately a third of the market for postpaid, compared when &#x2013; if you take that with the other incumbent carriers. Most important metric for us in the quarter, and for shareholders, is the blended ARPU, up 3.3% year-over-year. The data growth of 45% year-over-year, and the mix of smartphones, and the mix of the right customers with our new network starting to truly pay off, and as we mentioned that's two quarters in a row of ARPU growth.</p>
+          <p>We're well positioned into the third quarter, 10 new devices launched in Q2. The iPhone 4 launched, as everyone knows, on July 30, and carried by Bell. And most importantly for us is the Samsung Galaxy as well on August 6, which will be exclusive to Bell for the quarter &#x2013; for the third quarter. All setting us up for continued strength and maintaining our target in market share that we had set a year ago with investors.</p>
+          <p>Turning to slide 15, residential NAS losses improved, as Siim had mentioned, for the 11th consecutive quarter, an improved in a 4.3% year-over-year. Particularly important for us is part of that strength came out of Qu&#xE9;bec, where we're seeing a slowdown in the rate of loss on NAS, year-over-year. Business NAS loss was essentially flat, and quite frankly the business side for us is flat still. We're not seeing a much growth there, and until we see employment growth we think that will continue to be a flat area for us in the organization, in terms of growth.</p>
+          <p>In terms of revenue, you can see fairly stable with long distance and local access in terms of the decline, and particularly on the NAS side as we mentioned, our highest ARPU since Q3 '05, in terms of pricing on the local access side. I think an important point on that slide though, the investment community has asked and continues to ask about acceleration of local access declines. We have not seen that, and as I mentioned that's 11 quarters actually of improvement.</p>
+          <p>Turning to slide 16, Bell TV had another strong financial quarter, double-digit revenue growth, ARPU up 6.5%, net adds of 10,000. A little lighter on the net side than we like to see. It wasn't an issue of gross activations, we were actually happy with the increasing gross sales. But it was very competitive in Ontario, with some conversion offers by our competitor that we've reacted to now in the third quarter and didn't necessary to react that aggressively to in the second quarter. And an important milestone for the company, we began market trials of IPTV in certain areas of Toronto and Montreal as we entered into the third quarter.</p>
+          <p>Turning to slide 17, on the data side a data revenue growth of 3.8% for our residential services business, particularly driven through an increase in Internet ARPU of 3.3%. And interesting, almost all that increase now coming from usage-based billing as the demand for our Internet use explodes through the use of video services, and we're continuing to see an increase in the revenue per customer.</p>
+          <p>Churn was reduced year-over-year, as a result of clients moving to our new Bell Fibe product. It is a maturing product, though, clearly, as many households now have access to the Internet. So, with net adds minus 4,000, it is a seasonally low time of the year and you are definitely beginning to see the maturity of the product. So, clearly our focus there is making sure we're monetizing that investment by moving our clients to higher-speed products. As they demand higher speeds, we then generate obviously more revenue growth in this sector from that development.</p>
+          <p>On the business market side, business data growth was up 1% year-over-year, driven by solid IP and ICT growth, and where we saw significant decreases on the wholesale side of 11.5%, but remember when wholesale revenue declines that can also be positive for us, because clearly it means we're winning on the retail side in the marketplace.</p>
+          <p>Turning to slide 18, two of our other key strategic imperatives, improving customer service and achieving a competitive cost structure, saw significant progress in the quarter. You can see here on the slide that our call center volume continues to drop. As we've improved service, the requirement for customers to call in has dropped dramatically since a year ago. You see a 16% decline, and a 12% decline, and then an 8% decline. And at a cost of anywhere between $6 and $8 a call, a reduction in calls drives costs down, and obviously the customer experience is much more positive because they're not having to call us as often. And that has principally been driven by our 95% completion rate of Same Day Next Day service, and we would now put our in-home service in the home up against any competitor in Canada today, in terms of the work we've done in the last 24 months.</p>
+          <p>On the cost side, $92 million reduction in wireline operating cost year-over-year enabled us to make the investment we wanted to make in growing market share in wireless, and as you see has enabled us to maintain the margins that Siim talked about.</p>
+          <p>The other really important cash generator for us has been our work on working capital. Days receivable reduced another 2.4 days year-over-year, so that's reduced approximately 10 days over the last 2.5 years. And also in the quarter we reduced inventory by 30 million, which isn't easy to do given now we're running both a CDMA and the HSPA network. So a real focus on working capital management as well. All in all, through the last 24 months we've been able to improve service to a level we've quite frankly never been at, and at the same time been able to lower costs.</p>
+          <p>So in summary, a very strong quarter, progress on all five strategic imperatives. Most importantly I believe in the quarter was the trajectory change in wireless ARPU, not seeing an acceleration in NAS erosion, and the continued strong financial performance on the TV and Internet business. Our cost reductions are enabling us to grow our market share in wireless, while at the same time to grow our EBITDA and make the appropriate investments we need for the future for FTTN, IPTV, and fibre-to-the-home in Qu&#xE9;bec.</p>
+          <p>All that combined give us the &#x2013; put us in the position today, as we said, to increase guidance and increase the dividend.</p>
+          <p>With that, thank you for joining us. <mark type="inaudible" /> questions. Thane, over to you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Yeah, thank you. So before we start the Q&amp;A period, I just want to keep &#x2013; I want to keep in mind that &#x2013; or let you know, rather, that keep your questions short and to-the-point. We do have a lot of people in the queue this morning. And I am available after the call for any clarification, follow-ups, and questions we don't get to. So, with that, Colleen, can you please explain the call-in instructions?</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you, Mr. Fotopoulos. We will now take questions from the telephone lines. <mark type="Operator instructions" /> The first question is from Greg MacDonald of National Bank. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Thanks, good morning guys. My question's on costs. Very good efforts on the wireless side, with a 40 basis point sequential increase in that margin. Consensus on the outlook here is that there's not a lot of low hangings fruit left. Is that necessarily an accurate view? Specifically, anything unusual in the quarter? I'm trying to get a sense of whether we should be expecting a plus-39% margin on the wireline side going forward? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Good morning, Greg. First of all, we're not going to forecast margins. But there is nothing unusual in our cost reductions in the second quarter. It's the work that we executed last year, and as I mentioned on a call a few quarters ago, it's undoubtedly the culture in the company now, that anywhere we have costs that we don't need, to remove them. And that is a continual process. You'll see that again when we get into 2011 as well. We have a trajectory in mind, to make sure we can continue to see cost reductions year-over-year. Specific things we'll benefit on are things such as not having the Olympic costs, and other cost reductions we're working on, but we'll talk about those as we get into &#x2013; closer to the end of the year.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Thanks George. A quick follow-up if I might, on a different subject. 66% completed on the buyback, strong cash flow, you're guiding toward the high end of that previous range. I think you're signaling no change to that buyback outlook for 2010. But can you indicate if there is a bias toward higher buybacks in '11 and beyond, given the fact that the refinancing risk on debt is dropping significantly?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>No, there is no signaling at all. I mean, this is &#x2013; we're, first of all, executing the buyback. We talked about it, the guidance for the year. How we will use our capital going forward for '011 will be a decision we'll make at the end of '10, as I think people come to see we've done in the last few years. And we have a capital-to-market strategy that we've been really transparent on, that maintaining the debt ratios are important to us, and then maintaining a dividend growth model, and then using surplus cash for things such as buybacks, some of the tuck-in acquisitions you've seen, or for pension, depending on what we think is the right use of those resources for our shareholders. And we'll do that at the end of the year.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>All right. That's helpful. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question is from Simon Flannery of Morgan Stanley. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Thank you very much. Good morning. Good performance again on wireless data. Can you give us a little bit of color on the smartphone loading, what percent of the new devices that you're selling are smartphones, and how does the ARPU of the average smartphone customer compare to your existing ARPU? Giving some sense of what the ability to drive further ARPU improvements might be, as we increase the loading of smartphones in the base? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah, thank you. Yeah, it is &#x2013; it's a mix issue for us, for sure. And so the opportunity is &#x2013; and this isn't through price increasing at all, it's really through moving our mix through smartphone acquisitions, and seeing therefore better ARPU from that. We talked about, I think in the one of the slides, that smartphone subscribers were up 66% year-over-year in Q2. We are &#x2013; the best way we see is between the two networks, but we're seeing ARPU is obviously in the $90 on people on the new network, but that's on average, quite frankly, and that's because of the move to the smartphone.</p>
+          <p>Over time, obviously, that will come in as the entire market moves to smartphone usage, but there is no doubt it adds to our ARPU, and that's really for us the key, is that is that mix. So, as mix moves in our favor, then the ARPU increases, is why you're seeing the ARPU increase.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Do you see a world where the majority of your customers are going to be on smartphones?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I do. Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Without &#x2013; more than, obviously, 100% of our net-adds are smartphones every quarter, when you take in the new account migrations.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Great. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question is from Jeff Fan of Scotia Capital. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Thanks very much, and good morning. My question is on the broadband subscriber performance. I understand, George, from your comments that it's largely seasonal, but if you look at it on a year-over-year subscriber growth basis, it's &#x2013; there was really no growth, yet you guys are increasing your FTTN footprint pretty aggressively. So, just wondering as we look forward, when do we expect to see sort of an inflection point, in terms of your broadband subs and seeing growth return to this &#x2013; what kind of footprint coverage do you need, and what kind of efforts you need to put forward to see that growth come back?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well, there's &#x2013; we've got to look also at the cable operators and their growth, to get a sense of how much the broadband market in subscribers is growing. But our investment in FTTN is really two or three things. One, the demand for video from the customer, or for more usage on the Internet, is met by our movement to FTTN. So that we're then in the marketplace, we're meeting the demands of the consumer. The consumer keeps moving up the usage threshold; that's where the revenues growth comes from. I believe the majority of revenue grows for us in the broadband &#x2013; some will come from subscribers, and a lot will come through the movement of subscribers to higher-end plans as their demand for the Internet grows. So, it's both.</p>
+          <p>I don't &#x2013; I don't think there's some significant inflection point coming in broadband, because of the maturity level in the household. Having said that, when we add IPTV to our solution on top of FTTN on the broadband side, we would anticipate that the market share we'll see on TV will help pull through some additional broadband growth. And obviously we have to see that in evidence to say that it's going to happen. So, but our plan would be that that's where we would see some increase in Internet subscriber penetration for us. So that would be actually a market share move, as opposed to an actual change in penetration, where we're getting pretty mature.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>And just a quick follow-up. Do you guys track what the DOCSIS 3, Cable DOCSIS 3, roll out in your markets? And do you have any sense of how, where that is today versus where it was perhaps a year ago or even six months ago?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah, I mean our competitive &#x2013; Kevin Crull, if he were on the call, would tell you every single day and every week of exactly what our competitors are doing, and they're making sure we're rolling out FTTN as quickly as we can, and one of the reasons to go to Qu&#xE9;bec City was fibre, we talked about it, it's because it's an aerial footprint and we're going to learn a lot from that execution and then find out whether or not there's other aerial footprint that Bell has, that if it also moved from FTTN to fibre on, if the economics, quite frankly, work. And we believe fibre, when you're using aerial, quite frankly the economics are pretty attractive, versus putting FTTN in, or over time overlaying the FTTN. But it's a matter of we'd like to see the real results out of Qu&#xE9;bec City before we make that type of decision. And that's going be a ways away.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question is from Jonathan Allen of RBC Capital Markets. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thanks very much. Very glad to see the dividend increase, but George, I think an obvious question that investors will ask is the sustainability of dividend growth. Particularly since the guidance increase on EPS for the year seems to be mostly due to below-the-EBITDA-line items like the tax &#x2013; or sorry, the lower tax expense that Siim had mentioned, and perhaps also depreciation. So investors will probably ask and say, well, you're doing a dividend increase based on what seems to be one-time tax increases &#x2013; or one-time tax benefits. Is this a valid reason for a dividend increase? Or where do you get the confidence for dividend sustainability going forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah, well I probably couldn't disagree more with your point. I couldn't be stronger on the disagreement to be quite honest. 3.3% EBITDA growth, lower interest expense because of our capital structure, lower depreciation expense because we're now running capital intensity at a 16% C-to-I, is what will grow that EPS over time. There's three ways we'll grow EPS over time. Earnings on the back of EBITDA, earnings on the back of a lower CapEx intensity, and a capital structure that we've clarified through refinancing that's lowered our cost of interest.</p>
+          <p>Those are three focuses, and obviously the EBITDA growth comes from the back of aggressive cost reductions in the wireline, and growth in IPTV, broadband products and wireless. So, we don't view &#x2013; this dividend increase is not on the back of tax. In fact, if you were to not have the tax change and look at our payout ratio, we're well, well within our 65 to 75% payout ratio.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thanks for addressing it. And if I could ask a quick follow-up, Telus announced earlier this week that they're upgrading their wireless network to the 42 megabit per second service on HSPA+. Just wondering, since you're sharing a network with them, does that imply also that BCE will be doing it, and should we some higher wireless CapEx with that?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well, certainly &#x2013; I should say a few things. What Telus is doing and what we're doing are always different, even though the networks may be built the same. So I don't want to imply something we're doing is something that's happening because they're announcing it. Secondly, though, without a doubt we'll be in the market with 42-meg service, we'll be there when our competitors are there, and there is no capital increase from our requirements. No requirement for additional capital from where we've guided to make that happen. But it will be a great development for the market, it just moves broadband speeds on wireless up, and another reason to subscribe to Bell Mobility's new wireless network.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay. Thanks, George.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Your next question is from Phillip Huang of UBS. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Good morning. Thanks for taking my question. My question is on the wireline subscribers. Can you maybe talk a bit about the more aggressive acquisition offers that you saw from the cable co's during the quarter? Whether you expect that level of competitive intensity to continue, and what you guys think in terms of strategy in addressing that going forward? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Sure, yeah. Where we actually saw the competitive intensity, it wasn't so much on the wireline and it wasn't particularly in that area where we saw it. It was just on the TV in Ontario with our main TV competitor, where they had a switching offer, switch from satellite to cable. I don't know why anyone would ever do that, but that was the offer, and so we obviously in the third quarter have matched that offer in the marketplace. That was really the specific issue, so we saw a little bump in churn because of that.</p>
+          <p>And of course we're really looking forward to getting IPTV launched as well, because then we can penetrate the core city market of Toronto and Montreal, and you should anticipate us to be pretty fully in the market as we exit the fourth quarter and into 2011, with IPTV in those cities.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next name is Maher Yaghi of Desjardins Securities. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Yes, thank you for taking my questions. Just want to come back to one of &#x2013; some of your guidance changes, and try to understand a little bit your new guidance and the relationship to EBITDA. You mentioned that you see some increased competitive markets in the second half. So I just wanted to understand what are you implying in your EBITDA guidance in terms of increased spending, increased retention cost, or increased activation cost of new customers as new competition is entering in your market in Qu&#xE9;bec and Ontario, both on the wireless side?</p>
+          <p>Can you maybe just talk to us about the competitive profile of these markets? How you anticipate the market to behave in the second half, and how much of that is implied in your EBITDA guidance?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I'll get Siim to address the overall guidance. Just on the EBITDA, I mean we've got the target and we didn't change the number particularly given our market share growth in wireless and wanting to leave ourselves the headroom to make investment in market share as required, because of the momentum we've got in that business. So that's why we haven't changed that range. And all of our guidance obviously has a sense that we anticipate the new entrants to do more and we've seen some other developments in the market as well that we've got to maintain our competitive stance against, as well. But on other areas of guidance, Siim, do you want to comment &#x2013; anything else to add to that?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, well just on the EBITDA, we did increase our revenue guidance, and I understand your question, why are we increasing revenue guidance without making a change to our EBITDA guidance. First, the EBITDA range was reasonably wide to begin with, from 2 to 4%, and as you've seen through the first half of the year, both in the first quarter and the second quarter, we have added significantly higher wireless subscriber growth, year-over-year, and our spending on wireless retention has been higher year-over-year, both in the first quarter and the second quarter. All that clearly bodes well for the business in terms of driving future growth in revenue, reducing the churn of the customer base.</p>
+          <p>We see that momentum continuing to the second half. So we haven't adjusted our EBITDA guidance upwards; as I said, the range is reasonably broad to begin with, and we want to ensure that we leave appropriate latitude for continued good growth and picking up new customers in the base.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>So I just want to follow up on this question. I mean, it's not &#x2013; there is no sense in the room that, I mean everybody is looking at Vid&#xE9;otron coming to the Qu&#xE9;bec market in wireless. Can you maybe speak about &#x2013; without getting into the actual product strategy, but how much have you implied in your estimates, in terms of how aggressive you'll be in the market, trying to load customers ahead of their launch? Have you changed those estimates as we went through the year, or I mean your plans are unchanged, and your &#x2013; that's why your EBITDA is not changing?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well, I'm not going to answer too much on the competitive intensity, because our competitors will be listening, but we'll have by far the superior network in Qu&#xE9;bec, superior distribution. It's why we built the new network, and so we're ready for the competition. One of the reasons, though, for the acceleration of IPTV is we will be as aggressively selling TV in Montreal as competitors are aggressively trying to enter the wireless market. So it'll be a competitive, full-out competitive marketplace.</p>
+          <p>And our revenue growth focus on wireless comes, as someone had asked earlier and I think it's spot on, which is the mix for us is improving, and the mix is what gives us the ARPU lift, and obviously our market share changes, we've been able to execute on, because of the new network version in The Source. So, yeah, obviously we've been planning for a year for new entrants, and &#x2013; but we can't tell what they're going to do, and we'll react accordingly to that. But we're pretty confident about &#x2013; that no one has a better network or will have a better network in Qu&#xE9;bec, or frankly, on a national basis.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question is from Vince Valentini of TD Newcrest. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yeah, thanks very much. I noticed that your home phone ARPU is up nicely. I'm wondering if you think that's sustainable. I know your sub add &#x2013; or sub losses are not accelerating on the residential side, but they're certainly not getting a heck of a lot better, and with substitution picking up, it may be sort of flat-lined at that kind of decline rate for the next few years. Do you think you can keep raising home phone ARPU, or is this sort of a one-off year in your mind?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah, well, it's &#x2013; again, it's hard to forecast pricing, but one of the things we saw in the market, we did see some cable competitors raise price on their local phone business early in the year, I believe. And so some of those pricings that we initially see, maybe to grab market share when they're seeing a maturing product, might lend itself to some different pricing. We'll just have to see in the market.</p>
+          <p>Clearly, our real focus is through value-added services that are driving our revenues. So on the TV side, through pay TV, or those services on HD, and on the Internet side through people moving up the usage curve and the speed curve, that's really where we've got to drive the incremental revenue. Not so much these one-off price increases on the NAS side. Because obviously, there is a &#x2013; that's a competitively intense space, and we've got the wireless substitution issue, which is always, as we know, in one sense growing, although it's never yet shown up in the numbers.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yeah, that's great. Could I just clarify, do you count iPad subs as prepaid or postpaid?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Pre...</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Prepaid.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question is from Dvai Ghose of Canaccord Genuity. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Yeah, thanks very much. George, there's obviously three potential margin and cash-flow pressure points in the second half. Number one, the unlimited plans that Rogers has launched vis-&#xE0;-vis chatr, and your potential requirement to match, which could hit both your wireless, as well as wireline operations. Number two is retention expense of the new iPhone, while your retention increased year-over-year at 76% of network revenue versus 10 to 12% for your peers. And number three, IPTV, which we've talked a lot about, but still waiting for a launch. So I'm wondering if you can help quantify what sort of impact these things are going to have, and how you can offset them?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah. Thanks, Dvai. The &#x2013; you are right, all the items are increasing cost. So the challenge for us obviously is to continue to drive the revenue change on the wireless and the TV, and at the same time make sure we're keeping the cost structure reduced as we've done over time. But to try to address a little bit of each, no doubt our retention spending's growing, and it has increased on a year-over-year basis, and we are ticking it up every quarter as we migrate people to these &#x2013; the smartphones, but the investment pays off. So it's a balancing act and we think we're holding the right balance, and we want to make sure we maintain low churn levels. So that area will continue to be invested in, and so that does have effects on margins, and therefore that's why for instance it seems that we didn't take EBITDA guidance up, even with revenue guidance going up.</p>
+          <p>On chatr, yeah, obviously that's a significant competitive development. We will respond to that. Solo Unlimited will launch, it'll launch in August, it'll be competitive with chatr, and it'll cost us no capital at all because it will go on our CDMA network where we've been moving clients off of CDMA to HSPA. So for us, the Unlimited won't cost our shareholders any capital. It's a development in the marketplace and we'll, as we said, defend our third of the postpaid market, and so we'll be in the marketplace this quarter with Solo Unlimited. No surprise to anyone, because we've &#x2013; we said that since the beginning, that we'd always remain competitive and our pricing will be competitive with what we see in the marketplace there.</p>
+          <p>On IPTV, you're right, as we build that business it will be a drag on EBITDA. It affects us more in '11 than it does in '10, and the offset to that will be the continued focus on cost, and as I said, hopefully not a decline in wireless ARPU, hopefully stabilization, and if we're fortunate maybe we some increases in '11 as well there.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Maybe if you can just respond on chatr, because that's probably the most important of the three incrementally. Are you surprised, do you think it's going to help your wireline margins &#x2013; sorry, wireless margins, or hurt them, and how much wireless substitution do you expect?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well, it's hard on the substitution. Am I surprised? Yes, I was totally surprised by that development, but we'll remain competitive. I think what's important for us, and why we kept the Solo brand, was in case we saw this development. We have the distribution, we'll have it distributed in over 500 locations by the time we launch this month, and we'll make sure that it's focused in the cities in a segmented market as it's been designed. What helps to protect possibly ARPU somewhat is the &#x2013; to the charges for outside roaming of the cities, but we'll just stay competitive in that space.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question is from Peter Rhamey of BMO Capital Markets. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Yes, thank you. Another wireless question, if I may, George. How should we think about the acquisition of The Source and Virgin? Have those two entities hit full stride with regards to their capability or is there more upside to come in the back half of the year? And related to that, how can we think about the gross margin contribution from HSPA? You started off, you had a certain amount of fixed cost. Is that now a contributor to the overall performance of wireless, and so that contribution should grow as you scale that half of your network, so to speak? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Okay, well on Virgin and The Source, both acquisitions have turned out to be much better than we anticipated, quite frankly. And The Source is still building its momentum, although I think we probably started to hit our stride in the second quarter with it. The first quarter we were just getting in those stores. I think the strategic benefit of it we see for instance by having the ability to put Solo Unlimited into those stores, which at the moment The Source doesn't carry Solo. So that's one of the strategic benefits of that.</p>
+          <p>Virgin, we've really tried to move that to much more postpaid than prepaid, and that's beginning to build. So I don't think Virgin has hit its full stride yet. I think at The Source we're really starting to see the benefits, and we saw that in the second quarter. And more from both of those we think to come, but we feel really, really positive about those two acquisitions last year, in terms of what it's contributed to the market share swing for us.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Perfect. And on the gross margin in HSPA?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well, I'm trying to think of how to answer your question. The HSPA network really, as you know, would be a new capital program that we executed on, so it's about filling up the network before we have to put capacity dollars in. We're getting a higher ARPU on that business than we were off of our traditional CDMA. So from a network perspective, it's in our numbers. We don't tend to think about it as a negative drag on the business, to be quite honest.</p>
+          <p>Most of that's in our CapEx side. I mean the back-haul &#x2013; it's the same cell types we were using before for CDMA, so our back-haul really didn't increase. If anything, as you know, we went to fibre. So we may want to take you offline on this. I may not be answering it. Siim, is there anything you can think of to try to clarify it a little better? Comes to mind? No, but we're happy to talk and take it offline, see if we can give you a little more detail.</p>
+          <p>And the roaming &#x2013; no, I don't think there's anything on roaming there, either.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I'm sorry it wasn't very clear, but I'm not sure I &#x2013; we don't quite look at it the way you're asking us the question.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question is from Glen Campbell of Bank of America. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Yes. Thanks very much. A quick follow-up on the last point. On the HSPA network, how much &#x2013; how long do you think you have until you run out of capacity and have to start making capacity investments in that network? And then my main question was on bundling. It seem &#x2013; George, you've defied the skeptics on residential line losses, but it seems you have a lot of residential customers who have a line but no DSL, no TV. And DSL is realistically fairly flat, TV will have to come up at a moderate pace. So can you share any insights on what's going to motivate these customers to stay with Bell? Are they likely to be interested in high-end video products or data sticks, or do they just want to save money? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Okay. So on the CapEx on HSPA+, I mean we are seeing a real acceleration in data requirements for customers. So there is some capital that we'll spend this year, but again we'll stay within the capital guidance, and we've talked about trying to run wireless at a C-to-I of around 12%. I think Glen you wanted to &#x2013; you're hoping it'd get down to 10. I'm hoping it gets down to 10 as well, but I think that might be a tough stretch for a while until we see &#x2013; really understand the amount of data usage we're going to see as we go forward into '11 and '12. So, we keep &#x2013; I'd say we tend to think about it here as around a C-to-I of 12 for that business, and we do. We have a bit of a holiday, you can see that in our CapEx right now, and what we've been able to do is direct that towards wireline and getting ready for IPTV.</p>
+          <p>On the NAS side, yeah, I think in fairness a real credit to our branding and our improvement in service, I think, has been really, really important around that &#x2013; around our NAS. The improvement in our Internet through Fibe, and then finally the real answer to the question is getting IPTV into the bundle for us in the core cities, where we've done very well with satellite and we've talked about, for instance, a 905, a little more challenging in something like 416 if you're thinking of just Toronto to give one example, and IPTV will address that. So, we're hoping adding IPTV to the bundle will help us mitigate some of the issues we've had on NAS.</p>
+          <p>Having said it, we're quite transparent with everyone that the &#x2013; everyone talks about the acceleration of NAS; we've not seen it. We've worked hard to not to see it and we hope that continues, but it's hard for us to argue when people say maybe it would increase, and quite frankly it could increase, with substitution. We just haven't seen it develop yet.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay. Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay, this is last call. Yes, the last call. The last question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The final question is from Ric Prentiss of Raymond James. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Yes, thanks. Question is on the capital intensity. In the United States we're seeing a lot of take-up of LTE as far as building; Verizon sounding like they're going to be putting more <mark type="inaudible" /> than first thought, Clearwire last night talking about trailing WiMAX with LTE. What are your thoughts as far as when LTE might be required in your network, and how you might roll it out?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah, it's obviously a few things. We just rolled out HSPA+. As you would know, we're ahead of the U.S. on HSPA+ deployment. And so we're obviously in labs, et cetera, testing LTE, and we'll come into the marketplace when we think that product's mature and going to add incremental market share for us, and obviously make sure we maintain a competitive position against our other two competitors. But I don't have any timeframe to forecast that on at the moment, because quite frankly with HSPA+, with the fibre to the cell sites, and now with heading towards, as we just talked about earlier, 42-meg sticks, we think we've got a &#x2013; we can hunt for quite a while with the HSPA+ investment.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>You don't have a CDMA operator really pushing you quite like Verizon and Sprint and Clearwire are doing in the U.S., I guess, also?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Well no, they &#x2013; I think Verizon went, as know, right to LTE, whereas we made the decision as a CDMA operator, as others did in Canada, to go to HSPA+ not HSPA. And we'll continue to, if you will, sweat that investment and get a return for our shareholders on that, before the next investment, which would be LTE.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Great, thanks...</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Also, the 700 megahertz auction that needs to take place before LTE can be launched, and there's an Industry Canada consultation paper that we're waiting on that, but our expectation is that we probably won't see that auction until 2012, at the earliest.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Good. Thanks guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. There are no further questions registered at this time. I would like to turn the meeting back over to Mr. Fotopoulos.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, Colleen. So I want to thank you all for your participation this morning. As usual I am available for follow-ups and questions throughout the day. So, on that, thank you very much. And have a good day.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The conference has now ended. Please disconnect your lines. Thank you for your participation.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

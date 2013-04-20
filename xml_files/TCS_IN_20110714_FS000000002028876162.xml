@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1405784" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q1 2012 Earnings Call</title>
+    <date>2011-07-14</date>
+    <companies>
+      <company>37018</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep" affiliation="Director-Investor Relations">Kedar Shirali</participant>
+      <participant id="2" type="corprep" affiliation="Chief Executive Officer &amp; Managing Director">Natarajan Chandrasekaran</participant>
+      <participant id="3" type="corprep" affiliation="Chief Financial Officer">Seturaman Mahalingam</participant>
+      <participant id="4" type="corprep" affiliation="Non-Independent &amp; Non-Executive Director">Phiroz Adi Vandrevala</participant>
+      <participant id="5" type="corprep" affiliation="Global Head-Human Resources">Ajoyendra Mukherjee</participant>
+      <participant id="6" type="analyst" affiliation="Cowen &amp; Co.">Moshe Katri</participant>
+      <participant id="7" type="analyst" affiliation="Ambit Capital Pvt Ltd.">Ankur Rudra</participant>
+      <participant id="8" type="analyst" affiliation="Janney Montgomery Scott LLC">Jeff S. Rossetti</participant>
+      <participant id="9" type="analyst" affiliation="Wells Fargo Advisors LLC">Ed S. Caso</participant>
+      <participant id="10" type="analyst" affiliation="Seligman Global Fund Series, Inc - Columbia">Ajay Diwan</participant>
+      <participant id="11" type="analyst" affiliation="JPMorgan India Pvt Ltd.">Viju K. George</participant>
+      <participant id="12" type="analyst" affiliation="RBS Equities (India) Ltd.">Sandeep Shah</participant>
+      <participant id="13" type="analyst" affiliation="UBS Securities India Pvt Ltd.">Diviya Nagarajan</participant>
+      <participant id="14" type="analyst" affiliation="AlfAccurate Advisors">Sangameswar Iyer</participant>
+      <participant id="15" type="analyst" affiliation="Spark Capital Advisors (India) Pvt Ltd.">Srivathsan Ramachandran</participant>
+      <participant id="16" type="analyst" affiliation="Macquarie Capital Securities (India) Pvt Ltd.">Nitin Mohta</participant>
+      <participant id="17" type="analyst" affiliation="Citigroup Global Markets India Pvt Ltd.">Surendra Goyal</participant>
+      <participant id="18" type="analyst" affiliation="Nomura Financial Advisory &amp; Securities (India) Pvt Ltd.">Pinku Pappan</participant>
+      <participant id="19" type="analyst" affiliation="Centrum Broking Pvt Ltd.">Girish Pai</participant>
+      <participant id="20" type="analyst" affiliation="Standard Chartered Securities">Pankaj Kapoor</participant>
+      <participant id="21" type="analyst" affiliation="Nomura Financial Advisory &amp; Securities (India) Pvt Ltd.">Ashwin Mehta</participant>
+      <participant id="22" type="analyst" affiliation="Sentinel Asset Management, Inc.">Sanil V. Daptardar</participant>
+      <participant id="23" type="analyst" affiliation="Antique Stock Broking Ltd.">Sandip K. Agarwal</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Ladies and gentlemen, good day and welcome to the TCS Earnings Conference Call. As a reminder for the duration of this conference, all participant lines will be in the listen-only mode and there will be an opportunity for you to ask questions at the end of today's presentation. <mark type="Operator Instructions" /> Please note that this conference is being recorded.</p>
+          <p>I would now like to turn the conference over to Mr. Kedar Shirali of TCS. Thank you and over to you sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks Melissa. Good evening and welcome everyone. Thank you for joining us today to discuss TCS's financial results for the first quarter of fiscal year 2012 that ended June 30, 2011. This call is being web-cast through our website and an archive including the transcript will be available on the site for the duration of this quarter. The financial statements, results, presentation and press releases are also available on our website.</p>
+          <p>Our leadership team is present on this call to discuss our results. We have with us today Mr. N. Chandrasekaran, Chief Executive Officer and Managing Director.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Hello, everyone.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Mr. S. Mahalingam, Chief Financial Officer and Executive Director.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Hello.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Mr. Phiroz A. Vandrevala, Director of TCS and Managing Director of Diligenta.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Hello everybody.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Mr. Ajoy Mukherjee, Head of Global Human Resources.</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Hello everyone.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>As usual Chandra and Maha will give us a brief overview of the company's performance followed by a Q&amp;A session. As you are aware, we do not provide specific revenue or earnings guidance. Anything said on this call, which reflects our outlook for the future or which can be construed as a forward-looking statement must be reviewed in conjunction with the risks that the company faces. We have outlined these risks in the second slide of the results presentation which is available on our website.</p>
+          <p>One last point, this is the first quarter in which we are reporting our financials in IFRS in place of U.S. GAAP. To facilitate comparison with prior year performance we have provided extracts from last year's quarterly consolidated income statements and the year-end balance sheet under IFRS. You can find this tool on our investors page of our website, www.tcs.com.</p>
+          <p>With that, I would like to turn the call over to Chandra to begin the proceedings.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Kedar and good morning, good afternoon and good evening friends and thank you for joining this call for the first quarter results of the financial year 2012.</p>
+          <p>From TCS perspective, it has been an exceptional quarter on all counts and actually &#x2013; may have already seen, we have delivered a revenue growth of 6.3% in rupee terms and 7.4% in dollar terms &#x2013; 7.5% in dollar terms and 7.4% volume growth in the first quarter. And what it translates to in terms of incremental revenue is about $168 million which is the second highest incremental revenues we have delivered in our history.</p>
+          <p>What is more satisfying for us is the metrics in terms of how well it has come across industries, markets and services. If you take the geography perspective, we have grown in all the markets in the &#x2013; in which we operate. Our emerging markets are Middle East, Africa and India and Asia Pacific have delivered a double-digit dollar growth. And our major markets in the U.S., UK and Continental Europe have delivered high single-digit growth rate.</p>
+          <p>From industry perspective, we have seen double-digit growth coming in Telecom, Retail and Hi-Tech industries. And we have had very good growth coming from BFSI and manufacturing industries as well. And in all the other sectors also, we have been pretty happy with the performance.</p>
+          <p>From a services dimension again, we have grown in all our service lines and the growth mix is pretty satisfactory. Then if you look at the customer metrics, we have expanded the revenue band, the number of customers in the revenue bands of 10 million, 20 million, 50 million and 100 million, handsomely in each and every band.</p>
+          <p>Then, if you look at the offshore movement this quarter, we have also had a good offshore movement that has contributed to the margin improvement, the details of which Maha will provide shortly. Then if you look at the deal closures, it has been pretty good. We at least signed 10 key deals, large deals this quarter and that have been pretty broad based. And if you look at the deal pipeline, the pipeline is very good, robust at this point in time and if you take the top 15 deals that we are chasing, it's again well distributed across U.S., UK, Europe and the emerging markets and similarly in terms of the industries in which operate. The utilization has been pretty good and including &#x2013; excluding trainees, we have maintained it at about 83.2% as we have said in the last earnings call.</p>
+          <p>If you look at the overall environment going forward, I would like to make the following observations. The first is that the global environment is uncertain and it will continue to be so for time to come, primarily because things are different in different markets. There are markets in which unemployment is the issue. There are markets where you have inflation problems, markets in which there is civil unrest and there are &#x2013; markets in which there are natural calamities, so, all kinds of things are going on. But talking to clients, meeting with clients and looking at our deal pipeline, all I would say is that, the clients are going about executing their plans in a very stable manner so that they are able to excel in their operational environment as well as drive their growth initiatives and that is presenting a number of opportunities.</p>
+          <p>From a TCS perspective, we have not seen any let up in the demand environment; it continues to be robust. And the addressable space for us continues to increase. What we do as a firm today and how we partner with clients as a firm today is very different from what we used to do a few years ago. And this varies according to industry and we are partnering with clients in their transformation agenda and what that is varies for every industry.</p>
+          <p>If you take banking and financial services, we work with customers in transforming their retail business or in getting a single customer view, single bank view or re-engineering their custody platforms, payment platforms. Or if you take retail, it could be in terms of building an e-commerce platform for them. If you take another industry, it is getting their loyalty engine in place. If you look at another industry, it is supply chain.</p>
+          <p>So, the transformation agenda is our ability to partner with customers in solving a high level business problem and capturing the downstream revenue. It requires skills in enterprise solutions. It requires consulting skills, domain skills, architecture skills and execution skills. And we are able to bring all of that to bear in both capturing the demand as well as in executing the demand. So overall, I think we are well placed.</p>
+          <p>And with those comments, I will turn it over to Maha.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thanks, Chandra. As mentioned already, our revenue of INR107.97 billion translates into a sequential growth of 6.3% in rupee terms and wide growth of 34%. In dollar terms, our revenue of $2.412 billion is a quarter-on-quarter growth of 7.4% and year-on-year growth 34.4%.</p>
+          <p>Constant currency revenue was $2.383 billion, a growth of 6.2% quarter-on-quarter. The breakup of our quarterly revenue growth in Indian rupee term is as follows: volume growth is plus 7.45%, exchange is plus 10 basis points, realization is minus 50 basis points, effort mix is minus 75 basis points and it comes to 6.3%.</p>
+          <p>Moving on to margin, you might recall that in April we have given a 12% to 14% wage hikes in India, and varying amounts in other country. As expected, this had an immediate impact on the first quarter's operating margin.</p>
+          <p>Despite higher utilization, operational leverage and top line growth, this quarter's EBIT margin declined 2.1% as we have reported sequentially to 26.2%. I want to just make one observation here. We have moved from U.S. GAAP to IFRS and therefore, at the time of drawing last year's &#x2013; last quarter's IFRS account, the margin had improved slightly through a one-time adjustment to 28.3%, but that benefit we don't have in this quarter. I'm just emphasizing to say that because we have a difference of 23 basis points between the two, the real margin drops has been 1.90%, but I will let that remain as such.</p>
+          <p>The impact of different levers on the operating margin is as follows. Currency is minus 9 basis points, impact of wage hike is 251 basis points, offshore shift is plus 7 basis points, rate productivity improvement is plus 115 basis points. SG&amp;A efficiencies, the first component is provisioning for bad debts that is minus 15 basis points. Others, minus 61 basis points and therefore, we come up with a difference of minus 214 basis points.</p>
+          <p>On net income, our other income was higher this quarter from foreign exchange gains of INR797 million compared to the last quarter. As expected, our tax rate went up following the expiry of Software Technology Parks scheme benefits or what we refer to as <mark type="ph" /> STE (12.37) and the tax rate now is 22.7%, giving us a net margin of 22%. Lastly, our DSO for the quarter was 83 days. Cash and liquid funds stood at INR105.2 billion.</p>
+          <p>In conclusion, we have made a very good start in the opening overs of this current innings, to use a cricketing metaphor. The growth momentum continues and our execution engine is humming along nicely, well placed <mark type="indiscernible" /> (13.09) demand very well.</p>
+          <p>The controls of the institutional framework we have put in place are ensuring that the growth is not at the cost of financial discipline or operational rigor, and regardless of one quarter's margin decline, we continue to make investments in the various initiatives that we consider important for our future sustainability.</p>
+          <p>With that, we can open the lines for questions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Ladies and gentlemen, we will now begin with the question-and-answer session. <mark type="Operator Instructions" /> The first question is from the line of Moshe Katri from Cowen &amp; Company. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Hey, thanks. Congratulations on a very strong quarter. I have a couple of kind of follow-on questions. Maha, pricing was down, maybe you can talk about that a little bit, maybe talk about pricing trends in general? Net client additions were a bit light during the quarter, compared to what we've seen in the past and this was in the context of what's going on in general? And then finally, can you keep on running at such high utilization rates down the road, maybe some feedback on that? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Moshe, the pricing is only a 50 basis point impact on the revenue analytics and that's really turning out to be stable. I think &#x2013; I don't think we have found anything where we have reasons to worry about any decline. At the moment of course, I will stand with that, it is a stable environment.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>And then talk a bit about net client additions during the quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah, I think the client addition has been quite good overall. And from quarter-to-quarter, there will always be variation in terms of the net client addition because there are two or three things that happen in our environment. One is some of the clients where we do large projects when we finish, we don't have repeat business, in our business model that it is the reality. So you will see the <mark type="ph" /> churn (15:44). So, because of that you will always find net client addition sometimes not as good as or as strong as some other quarter, but that is not a concern at all. I think the overall, the client feels that we have got this quarter, the type of engagements, the quality is all pretty good, I would say.</p>
+          <p>Then at the utilization my answer is, I think, as a company, we have grown large. We are over 200,000 employees now and the percentages should not be the measure. Even at the current utilization levels we still have enough people on the bench and enough people doing other activities. So if I recall, in the last earnings call I said, we were &#x2013; we are going to be looking at operating between 82% to 84%. So I don't see our utilization excluding <mark type="ph" /> training (16:51) coming down at this point in time; we would be comfortable operating between 82% to 84%.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from the line of Ankur Rudra from Ambit Capital. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thanks for taking my question and congrats for the very strong quarter. Just a couple of questions on the strength in the telecom vertical, could you comment on the nature of deals you have been winning and was there any one-time element. I noticed you mentioned a little bit of discretionary involved?</p>
+          <p>Second question on Europe, what's really driving the growth there and what are you seeing different from some of your peers? Just finally a bit on energy and utility; the weakness in the quarter, was that one-time or is that something we should be worried about? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I think there is nothing one-time about telecom. The telecom vertical, the growth has predominantly come in the emerging markets. I think if you look at our growth in the emerging markets, as I said, between India and Asia-Pacific and Middle East, Africa, we have had a significant growth. And there, we have had some transformation projects in telecom. And from a discretionary spend point of view, these are quite important and sizeable contracts. And that's what is driving the telecom growth. You should still be not totally bullish on telecom, primarily because I would like to see the annuity kind of contracts also increase in telecom. Currently, I think, the growth is coming significantly from the discretionary spend. So there will likely be &#x2013; likely to be some volatility in the way the telecom industry for us is going to perform. But having said that, we are looking at growth.</p>
+          <p>From the second question you had is with respect to &#x2013; what?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Europe.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Europe, I think Europe is doing well. In fact, not only did we deliver well this quarter, we have signed some good deals in Europe. And also we are negotiating the signings of some more deals. So I think Europe will continue to do well from here. And it is coming across retail, financial services, at least these two sectors. And also there are potentially &#x2013; we may grow in insurance and other sectors. So I think Europe is doing well.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Just on the point, if I can &#x2013; if I may, is that a bit more comparative gaining of share as opposed to the market being strong, because we haven't heard similar remarks from some of your peers?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>See, I don't know how you interpret the market being strong. All I can tell you is that it is not necessarily taking market share away from somebody else. Some of the deals we have won are from first time outsourcers. In fact, one of the deals that we're &#x2013; we've been selected but not yet signed so it will come in the next quarter, is a deal which is totally discretionary and it's a transformation deal. So it's not like a outsourcing deal. So there is a mix of deals in Europe and are closing some pipeline is quite healthy at this point. So I think Europe will do well in near-term and all that happens in long-term is something that we've got to wait and watch.</p>
+          <p>Then from energy and utility sector, I don't think that you should get worried. It's a one-off primarily because last quarter, we had a substantial revenue coming from completion of one of the fixed rate projects and that has not repeated and the sector size for us is small. So any of this kind of deal closures or operations that would affect the group performance, but I don't think there is any cause for worry. It should grow from here.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Just one last one if I can include that, just on the comment from Maha, the DSOs, they have been inching up a bit and I guess also there was an impact on the cash conversion, anything that &#x2013; is that mainly because of the growth in India?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>No, it is &#x2013; we found that lot of money came in early July, so that's &#x2013; we haven't really seen any impact <mark type="ph" /> native of India or of outside. (21:21) It's just a matter of conversion of that into cash which happened toward the beginning of this month.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>All right. Thanks a lot and best of luck with the remaining quarters.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from the line of Joseph Foresi from Janney Montgomery Scott. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Hi. Thank you for taking my question. This is Jeff Rossetti for Joseph Foresi. I just wanted to see if there was any update regarding your hiring guidance, and also the hiring onsite and how that might affect your offshore onsite mix going forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Okay. From hiring point of view, we have said that at the beginning of the year that we'll be doing 60,000, during this fiscal and we will &#x2013; at the moment, we are keeping that the same. As far as Q2 is concerned, we will be doing somewhere between 17,000 to 20,000 gross, so that's the number that we are looking at at this point in time. As far as offshore leverage is concerned, that is something that we are constantly tracking and monitoring so that we will improve on our performance. But onsite hirings will go up from the current levels.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay. Thank you. And then just can I also ask for a little bit of additional color, I know you gave some regarding your pipeline with respect to Europe, could you also maybe provide just broadly a little bit more detail about those 15 deals that you mentioned and how it might &#x2013; how might it be with respect to transformation and maintenance deals that you're seeing? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, I think from a deal perspective, if you take the top 15 deals that we are chasing, they are well-distributed, at least to four each in U.S., U.K. and Europe and the remaining three in the emerging markets. And if you see their nature, there are more discretionary deals now than we had a year ago or six months ago. So I feel that the discretionary spend is slowly coming in and we need to wait for the deal closures and then the revenues to kick in, so you can't count the next quarter, it'll take time. But we are quite happy with the mix as well as the mix of geography, the industry as well as the mix of annuity versus transformation.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thank you. Congratulations.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from the line of Edward Caso from Wells Fargo. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Hi, thank you. Good evening. My question is around your ability to hire and your view towards wages after your recent increases, do you believe that they will be sufficient for the following year? Or do you sense a still very tight market in India, which may require sort of <mark type="ph" /> tweaking (24:27) to promotions or bonuses or maybe even another round of increases?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>From a hiring point of view, what we have been doing, yes, we are able to hire and we are not seeing any kind of challenges from that point of view. As far as wages are concerned, we do our increments once in a year, which is on 1st of April. But having said that, we, in our compensation scheme, we do have a variable pay and that payout depends upon the performance of the organization, performance of the unit and that is a mode that we will use in case &#x2013; based on the company's performance. We are not really seeing any kind of a wage pressure at this point in time.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>My other question, my last question is around U.S. and U.K. visas, could you give us your sense for the market right now. We're understanding that the rejections for the U.S. ones are running 40%, up from say 5% a year or two ago. So, much more hostile environment as far as actually getting approval and if you could just give us an update and if that could be impacting your business?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, I think on that only comment I would have is that as the unemployment situation remains tough, we would continue to expect regulatory changes and visa related issues. So from our point of view we are being getting the number of visas we need and we also applied for enough number of H1 visas as per our business plan and what we see for the next 12 to 18 months.</p>
+          <p>Then in addition, all I would say is that the situation and the environment demands very strong and rigorous planning, on how you start your engagements. And we are doing a lot of work in around how do we start our engagements. Planning that is required in kicking-off projects and executing projects has gotten a lot of attention within the company. And we are spending a lot of effort there.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thank you. Congratulations.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from the line of Ajay Diwan from Seligman. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yes, thank you and congratulations also. I was curious, your competitors at Infosys just yesterday, or a couple of days ago, were saying that they had seen some extension in sale cycles and more &#x2013; longer decision making. You don't seem to see any of that. Is there any kind of explanation you could offer maybe for that contrasting view?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>No. I think what I can tell you is based on what we see from our <mark type="ph" /> planned (27:31) segment and the kind of deals that we are chasing. And I won't be able to say anything more.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from the line of Viju George from JPMorgan. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Yeah, hi. Congratulations to management. You seem to be leading the market every quarter. I just had one question on the supply side. When I look at some of the net hiring numbers in this quarter, and I combine that with the fact that utilization is already 83%, does it mean that you are still in a very good position to take advantage of maybe a much better quarter maybe in Q2; traditionally that's been your strongest quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Viju, first of all, this quarter is &#x2013; Q1 is the quarter in which our hirings are a little lower compared to Q2 and Q3. That's how traditionally it has been. So hiring will go up in Q2. And the reason for the higher number that Ajay has indicated is also the utilization. Our utilization is running pretty high, as you can see, at 83.2%. While we will &#x2013; would like to operate at 82% to 84% utilization, still the fact of the matter is that it is pretty high.</p>
+          <p>Then with regards to your comment on still better quarter, I am just &#x2013; I want to be a little cautious because we've just had an exceptional quarter of, as I said $168 million, which is one of the second highest in terms of incremental revenue in our history. So you should keep that in mind when you look at the future and I can't say anything more.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Sure. Thank you so much, all the best.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from the line of Sandeep Shah from RBS. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Yes. Just wanted to check with increasing news on the macro concerns, are you witnessing any decision-making in terms of any discretionary projects which were supposed to start getting delayed, as your comments indicates that the discretionary ramp ups have been better versus <mark type="ph" /> what it's been in (29:52) earlier quarters?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>We are not seeing any delays in decision making in any discretionary projects.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay. Okay. And in terms of the India revenues, is there any one time revenues for the system integration or the hardware related portion in this quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>India revenues doesn't have any one time, but the point is that the India revenue always has higher discretionary revenue in nature. So I wouldn't put it down to any one time or one-off that we have got. It's all projects that we've been executing and they have been <mark type="indiscernible" /> (30:37).</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay. Okay. And is it possible to give some color in terms of the volume growth in the international business?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>It's pretty close to &#x2013; I don't have it handy but it is pretty close, because the size of the international business we have is much higher compared to domestic business. So you see the growth rate is high, but it is on a much smaller base. So it's pretty close, a few basis points down, that's all, a few <mark type="ph" /> bps (31:14) of basis points down.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay, okay. <mark type="ph" /> And sir, (31:17) even what you have said in the previous reply to a previous question where Q2 on a high base, the growth rate may be little, you have been cautious on the growth rate, so the same logic do you also expect in terms of your international revenue, which has little grown at 6.9% in this quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Are you saying it's good or bad?</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>No, what I am trying to say is your reply to a previous question that this quarter growth being higher...</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>See we don't give guidance and all I would say is that all the operating metrics are good. The demand environment is good. And we've had a good quarter. And we are not giving any <mark type="indiscernible" /> (32:01) any allowance, but at the same time I don't want to give an unreasonable guidance.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from the line of Diviya Nagarajan from UBS. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Hi Chandra, Maha. Congrats on a yet another great quarter. My question is related to your comments earlier on <mark type="ph" /> TV (32:26) that you said that you don't see that ongoing macro uncertainty have any impact on IT decision making, could you elaborate on that? How &#x2013; what gives you the confidence that this will not translate into slower decision making as &#x2013; in the next &#x2013; in the rest of the calendar?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Diviya, I don't think I quite said that. Let me say that &#x2013; let me exactly say what I said. I said, the economic &#x2013; the macro environment continues to be uncertain and I don't think that is going to correct in near-term, because we are seeing many different things and many different types of problems in different parts of the world.</p>
+          <p>Second point I said is that, having visited all customers, many customers and also looking at our pipeline, we have so far not seen any impact of the macro in our current business demand environment. I have not commented anything about the future.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Right. So, what I'm asking is that, how do you think this is going to translate if the macro uncertainty continues?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I can not &#x2013; your guess is as good as mine. All I can tell you is that I have been visiting customers and I have been reviewing deal pipelines. The trends I've seen is that, we have been able to convert the deals into wins and able to start engagements and deliver. And we have also seen an increase in the discretionary projects in our pipeline under the deal closes. So far, we have not seen any impact of that in our operating environment.</p>
+          <p>And also I said that going forward, we just need to continue to watch, and if there is any change, we need to be nimble enough to be able to work with the customers in whatever the business demands. Those are the comments I've made. I would never be able to say how a macro environment will affect the business flow. That is something that I wondered about.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Got that. And some color on Europe. Europe has done reasonably well for you this quarter. Could you give us some breakdown on which industry verticals or sub-segments within Europe did well for you this quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think in Europe &#x2013; from a revenue point of view, I think it has come fairly distributed. We have done well in Retail, we have done very well in Travel, we have done very well in BFS, Insurance we have done well. So these are the sectors we have done well. And in terms of deal wins, we have also won a couple of deals in Europe. And if you take the future deal pipeline, the deal pipeline is good both in U.K. and in Continental Europe.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay. And lastly, Maha, earlier we were maintaining that ex currency we would be looking at holding margin steady. So can we expect margins to improve from the seasonal weakness that we saw this quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah. In fact &#x2013; of course, I have always talked about the margin around 27%. And we certainly do see margins improving from this current one. As you know, this has really happened as a result of the wage hike and certainly we should be in a position to take care of it as we move along.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thanks, and all the best for the rest of the year.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from the line of Sangam Iyer from AlfAccurate Advisors. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Yeah, hi. Congratulations on a great set of numbers. Just a continuation of the previous question; could you give us some idea on the margin levers going forward for us?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I think the margin levers continue to be the same. We will apply all of them. As I said, at this moment in time, pricing is not available. If it happens, it's going to be a major margin lever. The second one is onsite/offshore. We are at a good level. I don't expect higher offshore.</p>
+          <p>But other than that, whether it is a employee pyramid, or whether it is in terms of SG&amp;A cost management, so that it delivers higher revenue, all of those will be applicable. So there is really no change. All that is required is that you play all these elements together and make sure that the growth, as it happens, we are able to take <mark type="indiscernible" /> (37:16).</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay. Thanks a lot, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from the line of Srivathsan Ramachandran from Spark Capital. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Yeah, hi. I just wanted to get a better understanding of what's happening in the Continental Europe, specifically. Are we seeing more <mark type="indiscernible" /> (37:38) offshore? Also the <mark type="indiscernible" /> (37:41) offshore is working with <mark type="indiscernible" /> (37:43). Just wanted to understand how you <mark type="ph" /> look at from modeling (37:45) next three to four quarters' point of view in the current macroeconomic weakness that we are seeing in Europe specifically?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think the type of deals we are winning are either transformation deals, which are replacement of their core systems, or building new platforms. For example, retail companies and ecommerce platforms and so on. And third is definitely <mark type="ph" /> operations (38:18). It could be either from &#x2013; by taking market share away from existing incumbent or first-time outsources. So <mark type="indiscernible" /> (38:28) and these are the three types. Obviously it's not plenty but it's reasonably robust by client on the basis which we are operating and actually we have done well this quarter both in terms of revenue and also the deals we have closed. So this gives us confidence that we will do well in Europe.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>I was wondering to just understand <mark type="indiscernible" /> (38:54) slightly more in markets like France where the labor laws are a lot tighter. I just wanted to see how our clients looking at <mark type="indiscernible" /> (39:01) and then they have to let go some of their clients or are they asking vendors to transition their clients into the books of the vendors. I just wondered specifically on tighter labor market like maybe France or even Germany to some extent?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Markets like France are tough, that's all I can tell you.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Okay. Maha I just wanted to get an update on the hedge strategy and the hedge book at this point of time?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Our hedging strategy remains the same. We have a certain rate to protect and we are doing that. At the moment we have got some &#x2013; for Q2, the September quarter, we've got about $1.1 billion in terms of revenue hedges and they are at around a little under INR 45 to protect but they will take part in upside if rupee depreciates. So, for the year as a whole, we have got $1.7 billion, which includes this $1.1 billion.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Anything for FY '13 at this point in time?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Sorry, anything for?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>FY '13, FY '12 &#x2013; '13?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>No, there is some small about $600 million beyond FY '12 and we'll build up those positions as we go along.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Sure. And I just wanted to get your guidance on CapEx and taxes?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>CapEx, as we had said at the beginning of the year, it's about 2,300 crores of rupees and we seem to be well on our way to meeting it.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>And tax?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Tax should be about &#x2013; I said 23%. This quarter, we are at 22%.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from the line of Nitin Mohta from Macquarie. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Thanks for taking my question. Chandra, earlier you talked about changing the addressable space, it wasn't what you were operating in few years ago. Can you please share what does that mean in terms of the competition that you are facing. Is it that you're not facing competition from Indian players any longer, just your thoughts there?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>No. I think that's not fair to say that. There are credible players in India and we face competition from a mix of Indian players as well as multinationals. So I have been saying for quite some time that now there is only a single list, there is not two lists, two different lists. I think it's &#x2013; there are sort of credible firms, which compete for the business. And it varies &#x2013; the list varies from the market as well as from the industry segment on the type of deals.</p>
+          <p>If you are doing big transformation deals in financial services, we face certain type of players. If we look at retail it is different, if it's Europe it's different, U.S. is different. But there are some minor variations, but overall, the number of transformation deals that we compete in, the type of resources we are having to bring, the collective power of the company from a domain knowledge, from a technology knowledge, as well as tools and processes, as well as <mark type="indiscernible" /> (42:20) ability, all that we're able to bring in being a strategic part of our business. So the scale size and the type of deals is what I was referring to, when I said that we are seeing an expanding, expanding, not only expanded, expanding space that we are looking at.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Fine. Thanks and congrats on a great quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from the line of Vishal Agarwal from Citigroup. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Yeah, hi, good evening. This is Surendra here. Chandra, just one question on pricing, your pricing commentary feels to have migrated a little bit over the last three months, so I was just trying to understand has anything changed in the last three months? And should we expect pricing to increase over the course of FY '12?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>See, I don't think I have changed my commentary at all, neither the tone nor the body language to take an analyst view. All I have said is that the demand environment is very good. And this should result in pricing and even in this quarter I think what you should look at is considering that we have grown in all the emerging markets double-digit, the geography mix also you should take into account. So we have done quite well even in this quarter. And I do expect to see some pricing up-tick, but it is getting delayed. It's not coming in as expected for various reasons, but I do think that sometime in the fiscal year, we should see an up-tick, maybe later part.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Okay. And now, just one data point, what would be the constant currency growth rate for the international business?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Constant currency growth rate for international business, I don't have that ready at this moment in time, I think it is close to, what, 7.4%, but I'll have to reconfirm.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Sure. I'll take it from Kedar later. Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from the line of Pinku Pappan from Nomura. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Hi. Thanks for taking my question. Chandra, could you talk about your win rates in these transformation projects over the last 12 months? How that trend has moved and specifically with respect of the competition to are you're seeing anyone being more competitive, more aggressive there? Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>No, I think it's quite good. All I would say is that there are two metrics to look at here. One is the number of transformation deals in which we compete, and the second is our win rate. If we look at the number of transformation deals in which we compete, it is higher in certain sectors and not so higher in certain other sectors.</p>
+          <p>I would like to see us competing in more transformation deal across sectors. Currently, in fact, in some sectors we are doing very well. In some other sectors we are not competing enough. So that's something that I would like to address. But in the sectors in which we are strong where we are competing, our win rate is pretty good.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>And those sectors would be?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Let us leave it for now.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Okay. Fair enough. Ajoy, a question for you. Can you talk about how easy or difficult it has become to hire laterals in the market? Are you seeing any tightness there and are you confident that you can hire laterals going forward, if you see a sudden surge in demand?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes, we are &#x2013; from a lateral hiring point of view, there should not be an issue, we are finding the talent. And I'm not even seeing any kind of wage pressure. I think that question was asked and I mentioned that yes, we are able to hire.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Okay. And I mean, what do you expect the mix is going to be this year in FY '12 the lateral to fresher kind of mix?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>The mix as far as the Q1 is concerned for the India hiring was 75/25. 75 laterals, 25 trainees and that is traditional because most of the trainees start joining from Q2 onwards. So we are looking at it from a quarter-to-quarter point of view.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Yeah, but for the year do you see &#x2013; what kind of mix do you see?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>For the year, I think in the beginning it's as we had mentioned somewhere around 50/50 is the kind of split. And I still would think that it will be somewhere around the same range.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Okay. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from the line of Girish Pai from Centrum Broking. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Thanks for taking my question. Chandra, this is for you, in the press release you're quoted saying that the uncertain global macroeconomic environment demands that we adopt an entrepreneurial approach, now what exactly would you mean by that?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think, all I'm saying is that in, if you go back the 2007-2008 situation, we all got kind of shocked in the situation. So the reaction time was not good, both from a customer point of view and also from our point of view, the reaction time was pretty weak.</p>
+          <p>So at this point in time, all we are saying is that we've got to be flexible and agile enough to be very entrepreneurial at that time. If there is issue that the macro pressure coming in any market, any industry, to react quickly. React quickly because react in what way, what manner is very difficult to say today because we don't know if there is going to be an impact, what the impact is going to be. So that's what I'm talking about.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Okay. Just a couple of other questions, on pricing are you not getting even increases based on cost of living increases?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>We are getting price increase in new contracts as well as in contract renewals, but for it to translate also it takes time.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Okay. And my last question is to Ajoy, you mentioned that you work with business associates. What kind of number do you have as of the last quarter and what does that look like, vis-&#xE0;-vis say a year back?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>The numbers will be less than 4%.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Okay. And what was the number say first quarter of last year?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>It's very much kind of similar, so there is not much of a change because most of it we do recruit people and try &#x2013; so that they build a career within TCS and what we are doing is try to keep it within 3% to 4%.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>And this number is part of this &#x2013; the company number or it's outside of the company number?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>The head count does not include the business associates.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from the line of Pankaj Kapoor from Standard Chartered Securities. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Yeah. Hi, sir. Good quarter. Congratulations. Just want to understand in the context of the financial services clients in your recent discussions, are you picking up anything different from what they're saying versus what they were telling you maybe three months back? Also if you have noticed anything different in their spending pattern more so on the discretionary spend areas?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>In the financial services clients, we are doing well, Pankaj. In fact we are seeing discretionary spend opening up in financial services.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Okay. And any changes in their spending patterns? Are they looking at long range projects <mark type="indiscernible" /> (50:23) in terms of something which is flowing in over the next two to three years?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I mean &#x2013; I can only tell you the themes and it varies from client to client how they chose to spend. The themes again are operational excellence, transformation or reengineering complaints. These are the three themes.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Okay. And just one more on, especially in the clients in Europe, have you been seeing any pickup in trends like clients asking for higher onshore or near-shore deliveries?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Pardon.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Are the clients in Europe asking for onshore or near-shore deliveries.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I mean there is nothing specific I can say to answer that.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I mean because there are times the deals require complex structuring and we skip those deals, if there are &#x2013; so I can only talk about the deals we qualify to do. Some of the deals that come for play are very complex in terms of the deal structures and we just &#x2013; we don't pick those deals.</p>
+          <p>In fact, there are a few deals during the last three, four months that we have to not participate and kind of de-qualify it from our pipeline, primarily because the deal structures were different and there are others who want to do those things. So, again, I can only tell you that we try and keep the business model simple.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Okay, great. Thank you and all the best.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from the line of Ashwin Mehta from Nomura. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Hi. Congratulations on a good set of numbers. I had a question; typically 2Q has a higher proportion of freshers, but given that you added less than 2% head count in this quarter and are running at 83% utilizations, do you see either of the possibilities, utilizations temporarily being higher than your guided range or more upfront lateral hiring in 2Q for the ramp-ups that you see.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>See, 2Q, I said, we will be growing between 17% to 20%, so that is the <mark type="indiscernible" /> (52:38) addition that we will have. At the moment, given the kind of demand that we have, I think we do have sufficient &#x2013; the manpower that we need in order to fulfill that demand including the hiring that we will do in 2Q.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Okay. But in terms of pattern, 2Q would still be skewed significantly towards freshers.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>In terms of pattern, yes, it will skewed towards the freshers; it will be somewhere around 50/50 kind of a split.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Okay, thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from the line of Sanil Daptardar from Sentinel Investments. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="22" type="q">
+        <plist>
+          <p>Thanks. Just wondering about how do you plan to use your cash? Your cash fundings continues to build up on your books. Could you just give a color on that?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>How do I want to &#x2013; how do we want to use the cash?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>There are two things, one is definitely, we are continuing to make our investments. And from acquisition point of view, we will keep looking. So if there is the right asset, we will look at an acquisition. So acquisition is definitely something that we keep looking. And whenever we find the right asset, we'll need the cash.</p>
+        </plist>
+      </speaker>
+      <speaker id="22" type="q">
+        <plist>
+          <p>Any plans to increase the dividends or stock buyback or any other &#x2013; other than the acquisitions, any other use for the cash?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Our dividends are one of the benchmarks in the industry. We continue to pay very handsome dividends. And whenever we feel that there is excess cash and we don't need it, then we give special dividends, like we did last year. So that's our policy.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>At the moment nothing is being <mark type="indiscernible" /> (54:26).</p>
+        </plist>
+      </speaker>
+      <speaker id="22" type="q">
+        <plist>
+          <p>Okay. On the volume growth that you talked about, 7.4% I guess, just could you give us a color on what was this actual breakdown, what sectors contributed the most to the volume growth, and how do you see going forward when you are talking about healthy pipelines between different sectors?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>See, the retail hi-tech contributed to &#x2013; contributed significantly to the volume growth, as well as telecom and BFSI and manufacturing.</p>
+        </plist>
+      </speaker>
+      <speaker id="22" type="q">
+        <plist>
+          <p>And when you look at the pipeline, where you are seeing the most healthy pipeline? In what sectors are you seeing the healthy pipelines?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>It's pretty distributed. If I take the top 15 deals, five of them in BFSI, telecom, manufacturing, utilities and travel, two each. Then we have a couple of deals in media and hi-tech.</p>
+        </plist>
+      </speaker>
+      <speaker id="22" type="q">
+        <plist>
+          <p>Okay. And just one last question on the pricing, up to this quarter you had a 50 bps decline in pricing. You talked about you're getting price increases, but that might take some time to materialize, can it be inferred that there you might be bidding for some low value work or it is not the case?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think I have given enough data points for you to believe that we are doing a very high quality business.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>15 basis points is neither here nor there, that's why even in the previous quarter when we had a 1% increase that is of &#x2013; we didn't make much of it so these are all...</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah I just want you to notice that today we have a margin of 26.2% which is pretty good margin and we have been very careful in choosing the deals that we want to do and we continue to make investments in opening new markets. And as I said our transformation engagement pipeline is going up. So there are enough data points I have given you on how we are shaping our business.</p>
+        </plist>
+      </speaker>
+      <speaker id="22" type="q">
+        <plist>
+          <p>Yeah. Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from the line of <mark type="ph" /> Ritesh Vora from Equinox (56:49) Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>My question has been answered. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The next question is from the line of Sandip Agarwal from Antique Stock Broking. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="23" type="q">
+        <plist>
+          <p>Yeah, hi Chandra and Maha and your team, congratulations for a very good quarter. Just one question, you have said that you will be adding more number of freshers probably in the second quarter. So just wanted to have some light on the utilization part, what I believe is that, in second quarter you will have 100 basis points kind of utilization decline, if you take into account just trainees, is it correct or is my assumption correct?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>See, we in general want to operate 82% to 84%, excluding trainees. Including trainees, if the trainee influx will increase, definitely, you will see a decline in the utilization in building trainees.</p>
+        </plist>
+      </speaker>
+      <speaker id="23" type="q">
+        <plist>
+          <p>Yeah. Correct. So what I believe is that next quarter, probably there will be some decline from the current level, so that's what I believe. So, is my assumption correct? That's what I am asking.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>You are right.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Your assumption is right for including trainees, but not for excluding trainees.</p>
+        </plist>
+      </speaker>
+      <speaker id="23" type="q">
+        <plist>
+          <p>Okay. Thanks. Thanks. Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Ladies and gentlemen, due to time constraints that was your last question. I would now like to hand the floor back to Mr. Shirali for closing comments. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Chandra?</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you. Thank you all for joining this call. And, in summary, I would like to say that we have started the year quite well with an exceptional quarter. We are happy with both, the financial numbers and more importantly, the operating numbers. We are seeing a very broad based growth. It has come across markets and across industries and we are seeing the kicking in of the discretionary spend from the deal closures. And we are seeing the demand environment continuing to hold and we are happy with the way our business has increased with all our existing customers.</p>
+          <p>We've added more than &#x2013; more customers in the 20 million band, 50 million band and 100 million band across all the bands which is very satisfying and we already talked about utilization, which we will keep at 82% to 84%. And overall, I think, we are off to a good start and we're happy with where we are. Thank you very much and thank you for your support.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, gentlemen of the management. Ladies and gentlemen, on behalf of TCS, that concludes this conference call. Thank you for joining us and you may now disconnect your lines.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

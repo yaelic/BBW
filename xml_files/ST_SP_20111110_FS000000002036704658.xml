@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1436520" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q2 2012 Earnings Call</title>
+    <date>2011-11-10</date>
+    <companies>
+      <company>2911</company>
+    </companies>
+    <participants>
+      <participant id="0" type="corprep">Unidentified Participant</participant>
+      <participant id="1" type="corprep" affiliation="Group Chief Executive Officer &amp; Executive Director">Sock Koong Chua</participant>
+      <participant id="2" type="operator">Operator</participant>
+      <participant id="3" type="analyst" affiliation="Goldman Sachs &amp; Partners (Australia) Pty Ltd.">Christian Guerra</participant>
+      <participant id="4" type="corprep" affiliation="Member-Management Committee">Paul O'Sullivan</participant>
+      <participant id="5" type="corprep" affiliation="Chief Financial Officer, Optus Communications Pty Ltd.">Murray King</participant>
+      <participant id="6" type="analyst" affiliation="HSBC Securities Brokers (Asia) Ltd.">Luis Hilado</participant>
+      <participant id="7" type="corprep" affiliation="Chief Executive Officer-Singapore">Allen Lew</participant>
+      <participant id="8" type="corprep" affiliation="Vice President-Audit">Khee Yang Chor</participant>
+      <participant id="9" type="corprep" affiliation="Group Chief Financial Officer">Jeann Low</participant>
+      <participant id="10" type="analyst" affiliation="Nomura Singapore Ltd.">Sachin Gupta</participant>
+      <participant id="11" type="analyst" affiliation="BNP Paribas Capital (Malaysia) Sdn. Bhd.">Choong Chen Foong</participant>
+      <participant id="12" type="analyst" affiliation="Morgan Stanley Asia Ltd.">Navin Killa</participant>
+      <participant id="13" type="analyst" affiliation="CIMB Investment Bank Bhd.">Kelvin Goh</participant>
+      <participant id="14" type="analyst" affiliation="UBS Securities (Australia) Ltd.">Richard Eary</participant>
+      <participant id="15" type="analyst" affiliation="Merrill Lynch (Singapore) Pte Ltd.">Roshan Raj Behera</participant>
+      <participant id="16" type="analyst" affiliation="Goldman Sachs &amp; Partners (Australia) Pty Ltd.">Raymond Tong</participant>
+      <participant id="17" type="analyst" affiliation="RBS Equities (Australia) Ltd.">Ian Martin</participant>
+      <participant id="18" type="corprep">Unverified Participant</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>A warm welcome to all investors and analysts. You're listening to SingTel's Earnings Conference Call for the Second Quarter and Half-Year Ended 30 September, 2011. My name is <mark type="ph" /> Yan Fong (00:00:10) and let me introduce management on the call: Ms. Chua Sock Koong, Group CEO; Mr. Allen Lew, CEO, Singapore; Mr. Paul O'Sullivan, CEO, Optus; Mr. Hui Weng Cheong, CEO, International; Ms. Jeann Low, group CFO. They are also assisted by other members of the management team from Singapore and Australia.</p>
+          <p>Before we start taking questions, I would like to invite Sock Koong to share some highlights from this set of results.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, <mark type="ph" /> Yan Fong (00:00:38). Good morning, everyone. This morning, we announced the results for the quarter ended 30 September, 2011. So let me just take you through some key highlights of our performance.</p>
+          <p>The operations across the group was released. We delivered revenue and EBITDA growth and also strong free cash flow. Net profit was down 1% and that's due to the associates fair value losses and also lower earnings from Airtel.</p>
+          <p>The strong Australian dollar lifted contributions from Optus and although this was offset by the weaker regional currencies. In constant currency terms, the group's net profit would have been up 1%. In our Singapore business, showed top line growth of 3% if we exclude the fiber growth revenues. And EBITDA was up 5% and that's helped by reduced selling cost and stable content cost.</p>
+          <p>In Australia, Optus revenue and EBITDA grew 1% and that's despite an intensely competitive environment. The regional mobile associates continued to deliver robust customer growth. And in some markets, competition has actually started to ease and mobile towers have improved.</p>
+          <p>Although the weaker regional currencies led to fair value losses on the associate foreign currency liabilities and have also resulted in lower translated earnings. In constant currency terms, earnings from the regional mobile associates would have been lower by about 6%.</p>
+          <p>Overseas operations now contribute 77% of proportionate EBITDA. And yesterday, the board approved an interim dividend of $0.068 a share consistent to last year and that represents a payout ratio of 62% of underlying net profit.</p>
+          <p>So let me stop there and we can start Q&amp;A.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, Sock Koong. I would like to remind participants that this call will last for about an hour. To help us achieve that, if your questions has already been asked and you like to de-register from the queue, please press 0, 2. Our operator will now assist you to put through your questions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="2">
+        <plist>
+          <p>Thank you. The first question comes from Ms. Christine Guerra (sic) [Christian Guerra] (00:03:00), Goldman Sachs.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Hi. Good morning, and thanks for your time. Further questions for Paul O'Sullivan on Optus. Paul, just wanted to focus on the ARPU trends across the business. And the numbers I'm looking are on a prior period on PTP, postpaid mobile ARPU down about 4.3%, prepaid down 11.5%, fixed on-net voice down 4%, fixed on-net broadband down about 8%. So basically it looks like there are ARPU pressures across the business.</p>
+          <p>I wanted to ask you two questions. The first one is, when do you think the ARPU trends will stabilize and what do you think is going to drive that? And secondly, focusing on the mobile business, you were basically protected in the 1Q because of the late launch of the iPhone 4S. And I'm just wondering with the launch now in the 2Q, do you think of this mobile EBITDA could potentially go backwards in the 2Q given those ARPU pressures and given that costs are likely to rise? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Well, Chris, I'll take the first of those, and then I might ask Murray King, our CFO, to pick up on the second. So if we look at the ARPU trends, I've been highlighting those myself this morning in an earlier call. We think that our performance is still driving strong subscriber growth performance at a time when there's intense market competition, shows that we still got the ability to drive our presence to the market and to acquire. However, we do reflect the fact that both of our major competitors have reduced prices. And they've largely done that in two ways.</p>
+          <p>They've done it by increasing the allowance of minutes, so a data that's included in plans or secondly, it's been done by actually making subsidized equipment available at a lower tariff than it might have got to previously. So both of those for us to also have to react in the marketplace. So what you're watching is the increased allowances in value that are now available to customers causing them to trade down on operating capital as much as previously feeding through into ARPU.</p>
+          <p>I can't put a timeline on when that will finish. But what I will say is that if you look at our mobile performance, what you can see based on the announcements we saw a couple of nights ago from our smaller competitor Vodafone, our estimate at the moment would be that given our subscriber growth performance and the way that we have managed ARPU, that we believe we would have held revenue market share as well as at least held our subscriber share. And I think given the trend of the market place and the fact that we've also been able to grow or at least hold and slightly grow our EBITDA this year in mobile shows that we've got a very strong and resilient brand.</p>
+          <p>And in terms of broadband and fixed, it's the same trend. It's increased allowances that have been put into broadband plans, particularly on data. And that's caused customers to start trading down and again, that's washing through.</p>
+          <p>Now, where will we go in terms of mitigating this moving forward? Well, our strategy all along has been about looking to lead in customer experience and looking to lead in innovation and in making technology more useful to people. And on the second of those, you've seen a very strong couple of quarters from us. We've launched things like TV Now on mobile, Go Places which does couponing and location-based searches and reviews for restaurants sort of online booking. We've launched our MeTV which will now be available on fixed broadband. And we've launched in the SME space some very innovative offerings in terms of client hosted apps including a new mobile security app in the last quarter.</p>
+          <p>On the customer experience side, we've been doing a lot of process redesign. And of course, we're getting from customers in terms of satisfaction have continued to rise. So we'll continue to focus on those areas to differentiate. And our strategy in the medium term is to look to monetize a lot of those digital apps and to all to be able to monetize the customer experience different in order to get an opportunity to re-grow our ARPUs. But all my comments will obviously be heavily influenced by the extent to which competitors continue to discount and to sacrifice profit.</p>
+          <p>I'll pass over to Murray to talk a little bit about what we would see as being the impact of the iPhone 4S launching in what would be our Q3.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah, thanks Chris and Paul. So as you already point out, the iPhone 4S is launched in quarter three versus quarter two of last financial year. We don't provide guidance with regard to our respective product lines of businesses with regard to EBITDA positions for the year. Although we are reaffirming guidance on the overall Optus EBITDA results for the full year and that is to grow EBITDA at low single-digit levels for the full year. As we have said in the prior year quarters, our results in our mobile division can be impacted at the EBITDA level and the EBITDA margin level depending on the level of volume of acquisition activities or re-contracting activities in any one particular quarter. So depending on those types of drivers, they could well have an impact on EBITDA in any one particular quarter. But as I said, we're not providing any guidance in relation to our quarter three EBITDA for our mobile business.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>And Paul, just on the competitive environment, the Vodafone result the other night was relatively soft at the top line. Are you expecting some sort of response from them or do you think, we just sort of continue with the markets on average that they are right now?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Well, we've already seen a response from them, Christian. I think the Infinity plans they launched earlier this year were quite remarkable in terms of the pricing on them. It's a level of marketing that I would not tolerate inside my own house in that I don't think it's ever healthy to discount so heavily below the market. So what we have in those plans was a $45 all-you-can-eat plan in a market where the postpaid ARPU was somewhere around about $70, not particularly sophisticated. They have recently increased prices for those plans to $50. So that would imply some pressure which may be partly driven by the results we saw.</p>
+          <p>However, given all of that, the thing we should also note that our other major competitors' EBITDA was down about $900 million if you use consistent accounting over the year for their FY '11. So I think we should be realistic and accept that we're the only one of the three major players who has not done a major profit sacrifice over the last year. The market is very competitive to the extent that both of our competitors are willing to continue to sacrifice profitability. That's negatively going to have an impact not only on our performance, but on industry growth and industry profitability overall.</p>
+          <p>What I do take out of these results is that we have shown remarkable resilience. We've been able to hold our revenue market share. We've been to hold our subscriber share and we've been able to put in a pretty solid performance in terms of subscriber ads through the last quarter, indeed through the last two quarters. And I think that says something about the way we've executed our differentiation and also about the resilience of our brand.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>That's great. Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you. Luis Hilado, HSBC.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Hi. Good morning and thanks for the call. I have three questions on the Singapore business. On the OpEx side, just wondering on the increase in staff cost by 7% QoQ and depreciation and amortization by 10% QoQ, whether there's any one-off items in those or we should assume this will be recurring. Second question is, if you could disclose how much the unamortized gains on NetLink is on the balance sheet? And last question is on Fox TV, during the last conference call, you mentioned you will be interested in that content. Have you signed the non-exclusive contract with them?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Hi, Luis. Your first question was about staff cost and something else. I might have missed that.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Yes. Depreciation and amortization, up 10% QoQ?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Depreciation and amortization.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Okay. Luis, this is Allen here. I will let Khee Yang answer the question on depreciation and amortization, and Jeann will talk about the unamortized gain in NetLink. And then I'll come back to talk about Fox. In terms of the stock cost increase QoQ, it's primarily from MTS. They have been hiring people because we won a very big government contract, which we announced a couple of quarters ago, related to the Ministry of Education. So we have to staff up. And the amount, the increase QoQ is also because of annual increment that are going to Q2. I will hand over to Khee Yang to answer the question on depreciation.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="a">
+        <plist>
+          <p>Hi. On the depreciation, the increase that you're seeing is actually coming from the commission of new assets. In particular, we have the ST-2 satellite, which we launched and we commissioned. We can see the depreciation coming through from that. And also in respect of some assets on the IDD side, in respect of the Ministry of Education project that we announced.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>And on the deferred gain on NetLink Trust, it is close to $1.1 billion and disclosure is actually in our SGX announcement, SGX financial statements released. So it's in note 11 of the SGX.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Regard to your last question about the non-exclusive contents that's available, obviously we are &#x2013; our MUTV franchise is a very important one for us. We've seen significant improvement in the operations on MUTV. MUTV also does have a pull on effect on our other fixed line and mobile products. So we don't, as a practice, discuss the state on negotiations that we have with different content providers. We do have very strong content that competes with Fox in terms of U.S. TV series and of course the new Jia Le Asian channels that we've launched. So I think once we've reached a decision or we reached a point where we've agreed something that we accept, then we'll make the announcement. But at this time, I can't comment on our content negotiations.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Thank, Allen. Just one follow up question, is there any other content coming up soon, that you'd be keen on getting a contract with?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Yes. There's a number of contracts that's coming up. I don't want to, at this time, talk about which ones we are more keen on, but just like keen on. I think we've seen our content starting to take hold in the market. You can see from our results, we're getting a reasonable revenue from TV and we are increasing our customer base in TV. In this quarter, we increased by 22,000 compared to Star. We've just announced yesterday, they have declined in TV customers. So I think we see we've got a good content options and we'll continue to pick and choose which content we think will add value to our TV franchise.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Mr. Sachin Gupta, Nomura.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Hi. Thanks very much. Just a few things. Firstly on Telkomsel, there has been a lot of press about a possible restructure. So I was wondering maybe a bit of a hypothetical, but if a restructure were to happen, is there a preferred approach from management? That's my first question. Secondly Paul, just on the Optus business again, we have seen historically, when Telstra gets aggressive, it has been pretty hard to match it. Just wondering, is there any approach from Optus' point of view going forward, how the market is likely to pan out? And also just a small one on Optus, you paid a cash tax for the first time. Is that something that's likely to continue? Thanks. Hello?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Hi, Sachin. It's Paul here. I think we still got everyone on the line. Maybe I'll jump in and do the second question while we're waiting for Singapore on the <mark type="indiscernible" /> (00:16:03). Singapore, do we have you back? No, I think, they just got temporary offline. So let me &#x2013; hello?</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>SingTel has dropped the line. They will call back again. <mark type="ph" /> You may push through (00:16:17).</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Okay. Well, I'll jump in and get on with the second question then. So Sachin, in your question &#x2013; yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Sorry, my second finger pressed the wrong button. So I think you go ahead with Optus question first. My apology.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah, okay. So Sachin, basically your comment was that one we've seen Telstra sacrifice profit, which they have done in the past, similar to the last 12 months, then where do the market go afterwards? I think we focus very much in deciding our own destiny rather than waiting to see what happens at Telstra's offices. So we focus very much on the core elements of our strategy, which I mentioned previously very briefly.</p>
+          <p>But for nearly 3 years now, we've been embarked on the first element of that, which is taking a lean process re-engineering approach to the key processes and areas that research tells us that customers see us critically important. I'm sure that driving an ongoing improvement in customer satisfaction, because we believe that is a core differentiator for Optus. And we are seeing that pull through in terms of our measurable results in the market. We've got further work on going on that and our goal is to create a sizable gap between us and the other players who rival us in the industry.</p>
+          <p>The secondary is all around creating new revenue streams in digital apps and content, not just for the revenue streams themselves, but we also think it's very important that our brand is relevant to consumers and that they see that when we give them a mobile phone or a broadband connection, that we also give them access to content and applications, which make it more powerful and more useful. And our Go Places app or TV Now app are two great examples of that in the last quarter.</p>
+          <p>Underpinning all of that then is to make sure that we have the cost structure and the infrastructure that's needed to compete. On the call structure side, a lot of the work we're doing on lean engineering is also helping us take significant call side of the operation moving forward. That makes us upgrade our capability to withstand any competitive pressures. And on the network side, we put over $2 billion in the last four years into the mobile network. We've increased the coverage from 96% to 97%. We have fought and are now deploying basically doubling of our 3G spectrum in the capital cities. We've moved the majority of our sites in metro onto fiber for backhaul. And we're now commencing the rollout of LTE and the reform of our 900 frequencies at 3G in all of the big cities.</p>
+          <p>So all of that combined, we believe, is increasingly giving us mobile capability that is a serious competitive threat to Telstra. So those are the key areas we focus on. I think what you can see from our results is we've withstood so far what's been a very significant profit drop from our competitor. Clearly, the trends we talked about with Christian of ongoing pressure on price and ARPU are likely to continue for a while. And obviously, it could be a very competitive market for the next 12 months. But nonetheless, we'll pride ourselves in continuing to protect our revenue share and our subscriber share position. That's really how I would characterize it. Murray, do you want to talk a little bit about the tax outlook?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah. <mark type="indiscernible" /> (00:19:24) point out, if you see in our cash flows statement, we did pay $39 million of tax cash in the quarter. This is a result of the fact that we have utilized all prior year tax losses and therefore, we will become tax payable in the current financial year. And this is an installment based on estimated revenues and forecasted tax profits for the full year. I would point out, it doesn't impact in any shape or form we recognize the full tax expense each quarter and for the full year. So but we're looking to make tax payments going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>So we might pass back to you in Singapore, Sock Koong, to answer the question about Telkomsel and Indonesia.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Sachin, can you explain what you mean by a restructure at Telkomsel. I'm not quite sure what your concern is?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>It's just basic question because there's been a lot of press about talking about a possible restructure, SingTel looking to oppose the divestiture shareholding. But just wondering just any thoughts on that, if it was to happen, would you have any preferred model?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>I think &#x2013; Sachin, this is Jeann. You've seen a statement from SingTel to say that basically, I think, in response to some media queries that we had. And we have issued a statement to say that we have no discussions on the divestment.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you. Mr. Foong, BNP Malaysia.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Hi. Thanks for the call. I have three questions. The first one is for Optus. Can you tell what is the reason for the increase in ARPU QonQ? And on competition, you said that you expect that competition will let me continue for a while, but I'm wondering whether you think that the intensity rate, has it reached a level where from here onwards you think it's going to stabilize or do you think it's still going to get worse in the coming quarters?</p>
+          <p>My second question is with regards to the recent 2% acquisition in AIS. I'm wondering whether you think there's opportunity to add to the AIS stake by buying more from Shin Corp going forward. And my third question related to the second question, I wanted to ask if you think that raising the stake in associates is generally a better use of the excess free cash flows that SingTel's generating compared to giving it back to shareholders at special dividends sometime down the road. Those are my three questions. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>It's Murray King here. I'll take the Optus question first in respect to the quarter-on-quarter ARPU moment. I assume you're referring to the mobile ARPU. Historically, we see, due the seasonality, an uplift in usage, which from the June quarter to September quarter resulting in the overall ARPUs increasing. And that's not inconsistent with what we're seeing this financial year.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>On your question regarding uptick in associated versus return of cash to shareholders. I think we always look at it from a value accretion basis and we have always maintained it. Our strategic intent is always to maximize the value that we have in our assisting associates. And it's an opportunity for uptick where we can create value, we would do so. So we've been consistent with that with the AIS uptick. I think in terms of return of cash to shareholders you've seen our statement on dividends. We have basically said that the dividend policy is 65% to 70% payout. And every three years we will do a formal review of our cash <mark type="ph" /> meets (00:23:33), which are viewed to returning excess cash to shareholders.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay. Just a follow up question for Optus, I just wanted to get back on the question on competition. I think you mentioned earlier on that you have seen from your competitors raising the prices a little bit on that Infinity plan. I'm wondering whether you see that as indication that the market competition is starting to stabilize a little bit or do you think that it's still going to get worse in the next few quarters?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I'll take that. It's Paul here. I think it's important to say that I called that out really just to talk about maybe the state of mind of Vodafone. However, it's still priced well below the market. And as a result, I don't think you could take it as a sign. It's certainly a stabilization. We would expect that the competitive environment is going to continue. And then it's going to be a very intense marketplace over the next six months. And clearly in that environment, we have to do work very hard and make sure that we continue to protect our subscriber and revenue share. But you can certainly expect a continuation of the competitive intensity in Australia.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay, thanks. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you. Mr. Navin Killa, Morgan Stanley.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Hi. Thank you for the opportunity to ask questions. I actually had three questions. The first one was just trying to understand from an accounting perspective. How does the whole NetLink Trust transaction work? So what happens to the asset side and what happens to the liability side? Sorry, it's very basic, but if you could explain that.</p>
+          <p>Second, the Singapore CapEx levels have been high over the past couple of years and this year as well. I know there are some one-offs, presumably satellites and also some CapEx associated with NCS. But how should we look at CapEx on a medium-term basis? Is it possible to see this going back to 10%, 11%, 12% of revenue where you were before? And then the third question, I had was just to understand how you treat the ForEx losses at Bharti on all the debt, U.S. dollar debt that they have. Do you also take it straight into balance sheet the way they do? If you could explain that. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Hi, Navin. This is Allen. I'll answer the second question. First on the CapEx. I think is that CapEx historically has head somewhere north as you mentioned, I think going ahead with the one-offs gone and obviously with our transformations, our business a little bit more toward multimedia and IDD which are less capital intensive. The current number should start to go down. I can't give you the exact prediction right now. But I think you can take into consideration the fact that we will be moving our revenue streams and we'll be moving more towards the non-capital intensive businesses, number one.</p>
+          <p>Number two, we will be upgrading our mobile networks for LTE. And that would have some CapEx next year as well. And of course, we will also have some investments in submarine cables, specifically the one that we announced from Singapore to Japan to ensure we have the right connectivity to the rest of the world as there's more and more Internet and other business traffic. So I think we will see some moderation in the CapEx. But I can't give you the detailed forecast going ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>On the NetLink accounting, I think what you have to remember is that NetLink Trust is 100% owned by SingTel. But it will be managed and operated by the trustee manager, which is CityNet. And therefore, it will be equity accounted as an associate of SingTel. So what it means is that at the consolidated level, the gain on the disposal of assets and businesses that's been recorded by SingTel that will be deferred in the group's balance sheet. So in terms of recognition of gain at the group level, it will be default and it will then be amortized over the life of the assets. Now you should recognize that because we have uplifted the value of the assets. The value of the assets, I think, we have said that the transfer of the assets is at about total $1.9 billion.</p>
+          <p>And the unamortized gain at a group level will be released to the income statement only when there is either a partial or full sale of our stake in NetLink Trust. Okay. So that's basically proportionate accounting. And that's how we would do it. I think if you look at our MD&amp;A on Page 37, we would have set out some principles of the accounting to at least the community.</p>
+          <p>I think you also had a question about on Bharti's FX differences. I can just confirm that whatever Bharti records into its balance sheet and P&amp;L with regards to FX currency loans, the same will be applied in the SingTel book. So we do not take a different approach from Bharti. It is consistent.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Kelvin Goh, CIMB.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Hi. Thanks for the call. Just like to follow up on Foong's question to Sock Koong regarding the acquisition of AIS. You said that you wanted to maximize value. I don't quite understand what that means. If you can just describe that a little. And second question is on the acquisition costs in both Singapore and Australia. Both have been down year-on-year and especially in Australia where competition is quite intense. But you've kept it pretty well under control. Do you see more opportunities to more potential for further downgrades there? And are you taking into account the iPhone 4S coming into the market? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>This is Jeann, sorry. And I will take that question on the maximizing the value of our existing businesses. I think we have always been consistent in saying that we look to maximize the value of our businesses including our associates when we look at the opportunities to increase the shareholdings in these associates. And obviously, when the opportunity arise or when there's a willing buyer and willing seller scenario where we believe that the terms are right and we can create value, further value with the uptick, we would do so. And basically that's what I meant. And of course you know that as a group, we continue to look at our associates and we continue to look to leverage our scale to achieve the operating leverage, where we can drive out lower cost and develop new products that will benefit our customer base.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>This is Allen here, Kelvin. I'll answer the question on subscriber acquisition costs for Singapore and then I'll hand over to Paul. With regard to Q2, the subscriber acquisition costs are down primarily because last year's Q2, there was the launch of the iPhone 4. This year, iPhone 4S has been delayed by a quarter. And that's one of the major reasons why our subscriber acquisition costs are down <mark type="indiscernible" /> (00:32:05) we think for the new phone to come.</p>
+          <p>I think going ahead, subscriber acquisition costs, well, we cannot give you a forecast or projection. I just want to make two points. Number one, smartphones continue to be very accretive for us. We see smartphone customers not only giving us higher ARPUs but we also see smartphones with either Android or other platforms, of which iOS is one, gives us the ability to put digital applications and services onto it that will help increase the stickiness of these customers, help increase the ability of these customers, help increase our brand presence in the minds of these customers. And in our results, we talked a little bit about what we've done with this service cost define, which is our local <mark type="indiscernible" /> (00:32:53) service. So obviously, from that perspective, they are giving us additional value, we will subsidize these customers and bring them on to our two-year contract.</p>
+          <p>The second important thing to bear in mind is also the availability of these handsets. As we've seen historically, when these new headsets like the 4S and others come into the market, sometimes the demand is there but the supply is not there. So it all depends in Q3 and Q4, whether Apple and other suppliers are able to meet the market demand for some of these devices. So it's not quite the answer you want. But at the end of the day, we can't give you the detailed forecast at this time as well. I hand over to Paul to answer the question from the Australian end.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Hi. It's Murray King here. With respect to the subscriber acquisition cost for Australia, similar story with regards to the quarter-on-quarter and year-on-year movement, as Allen has explained, in Singapore with the phasing or the timing of the iPhone 4S versus the iPhone 4 last year, in quarter two versus quarter three of this year.</p>
+          <p>As we've said in previous quarters, our subscriber acquisition costs or selling costs in any one particular quarter will be somewhat determined by the level of acquisition and recontracting activity we have in any one quarter. So while we continue to drive and see momentum with regard to postpaid customer growth, our subscriber acquisition costs will continue to be at similar level. As Allen has indicated, we don't provide any definitive guidance with regards to those particular KPIs on a quarterly basis or on a full year basis. But we will continue to be competitive in the marketplace as smartphones continue to be in demand and we can look to attain our share of  smartphone devices.</p>
+          <p>And as Allen has articulated, we have a similar strategy with regard to providing value-added services to our smartphone customers through relevant and personalized digital services such as the Go Places application you've seen us launch. The MeTV Now product you've seen us launch as well. So we have a similar strategy as Allen has detailed for Singapore.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>A quick follow up Murray. What's the makeup like or the trend for the take-up of Androids versus iPhones in Australia?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We do have reasonable demand for Androids. It's obviously, it just somewhat depends on the timing as Allen stated in particularly on both the timing of launches of products and also the availability of devices at any one point in time. So obviously, off the back of the 4S launch, there's high demand for that particular product. We do see opportunities for Android not only in postpaid but also prepaid as well. So given that the Android operating system is deployed across a wider range of handsets and therefore, you can take them down into lower priced &#x2013; that platform into lower priced handsets. We do see an opportunity to be able to see greater smartphone take-up in prepaid through the Android operating system.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Mr. Richard E., UBS.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Yeah. Hi, guys. Just a couple of questions just with regard to Optus. Just looking at the outbound service revenue growth was down sort of minus 3% in the quarter and that included obviously high take-up of data services, I think, from 40 to 46 year-on-year. Now that implies that obviously that the voice component has come down substantially. Can you just talk about what's happening in terms of voice yields within that and how you can rectify that decline? So that's the first question.</p>
+          <p>The second thing is that if we look at mobile termination rates in terms of what decisions could potentially happen, is that where we go from $0.09 to potentially $0.036 by '13. If that does come through, sort of what measures do you have to offset that decline? Because it seems though that if you can't resurrect outbound yields and you get termination rate pressure, then clearly, that's going to put further downward pressure on the EBITDA number. So I'm just trying to get a gauge in terms of how you can resurrect that.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I'll let Murray talk a little bit about some of the trends. I mean the overall macro trends, Richard, are what I described earlier, which is people being able to get better handsets at lower tariffs or more inclusion in voice inside of tariff. But actually, there's also a few other dynamics, which are reflected in our numbers.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Richard, in relation to your point in relation to outbound service revenue growth versus the growth in our data revenue. Clearly, what we're focused in on is the access fee and we're looking to secure customers at higher access fees sort of around the $59 and above access fee. The data numbers you see in our MD&amp;A disclosure have an element of allocation of access fees. And it's a reflection of how the customers are utilizing the service between data versus voice. So as you rightly point out, you're seeing a shift in customer's behavior to move to a greater weighting of data services versus voice services.</p>
+          <p>But in relation to overall ARPUs, we look to manage it through the overall access fee and taking customers up on to higher rate plans as opposed to just looking at it as purely a voice and/or a data service. Your point in relation to the mobile termination rates, clearly as the rates come down from $0.09 to $0.06 as proposed by the ACCC the beginning of the next calendar year, will have an impact on our service revenue lines. But that will also have an impact on all the other carriers in respect to proprietary at similar levels.</p>
+          <p>Therefore as a consequence, the service revenue or the revenue share impact, we don't believe will have a significant overall marked impact on our overall revenue share. Your position or your view on impact to EBITDA, if you look at our overall interconnect levels, you're seeing similar levels of growth on interconnect to our incoming. And as a consequence, the EBITDA impact as a consequence of reduced mobile termination rates will not be as significant as the impact at the top line on incoming revenue line.</p>
+          <p>So we think we can manage it. Obviously as we move forward into next year, we'll provide guidance as a consequence of that factoring in the termination rate impact both with the revenue line and at the EBTIDA line. And then today, we are reaffirming our guidance for the current year. Obviously, that will be in clearer view as to the termination rate impact into the last quarter being the March quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>And then picking up on Richard's question about our strategy longer term, first and foremost, I'd say voice continues to be a killer app in some senses. So we should not discount the fact that there's still important revenues to be realized out of voice and traditional messaging moving forward. Having said that, your point on these being ongoing pressure on these competitively is correct. So that's why we haven't backed in such an aggressive strategy about developing new sources of revenue on the mobile platform, and also being able to extend those beyond the mobile platform under fixed broadband or indeed onto television. So moving forward, we would look to find ways in which we can increasingly monetize apps and content on the mobile screen, and also converge that on what we're delivering in, today on ULL and HSB, tomorrow on NBN.</p>
+          <p>And the products we've launched in the &#x2013; so far this year in fact, our ability to do Smart Safe which allows us to back up customers' content which works across mobile and fixed is a good example of that. The fact that we've got TV Now, which allows you to record television and time shift it and play it back. The fact that we've added mobile functionality to MeTV launch which is an IP TV service which goes in on broadband but which has some mobile functionality. Those are all examples of us leveraging these new revenue streams and creating new sources of earnings. But we'll be working hard on maximizing both, maximizing what's available in voice, data, and at the same time, maximizing what's available to us from new sources of revenue.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Paul, just a follow up. If you look at the investment that is yet to be made and that works with regard to Spectrum and obviously LTA, and particularly in terms of obviously putting more capacity in place. Given where our current yields are on the price and the investment, do you think yields need to go up to make your return on capital and do you think is that something that you would physically look at doing?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I think there's a general point, which is that we absolutely believe that there is room for more rational data pricing. And that it would make sense for the industry to find new ways in which to price for data. And the blunt instrument would be to look at raw pricing today, a more sophisticated instrument might be to look at the types of data that are carried and to have some sort of relationship between applications and content which are very bandwidth-heavy as opposed to those that are not. I know there is a huge debate around that whole issue internationally, but we would certainly be an advocate for looking at a more sophisticated way to doing data pricing.</p>
+          <p>And actually that's in the consumers' and interests as well because in order to incent the right type of investment and to make sure there's not distortion of assets, the more your pricing can reflect the true value of what's being delivered or what's being consumed, then they're better in terms of efficient asset allocation and encouraging the right type of investment. So we'd be advocates of that. Independent of that, there's a strong case for LTE in its own right. It is a much more efficient carrier of data. So it would allow us to handle some of the explosive growth we forecast in data over the next 5 to 10 years in a much more cost-effective way. And that is an existing factor in the investment we're making in it. Acknowledging the point of course that there is extra capital required in order to make that investment.</p>
+          <p>Overall, we're quite bullish about the medium term environment in Australia. There's still a lot of voice minutes trapped on fixed that we think can be realized and moved to mobile. We think the functionality of devices and the speeds that can be delivered on both mobile and fixed networks will lead to a fairly aggressive and accelerated uptake of content and apps. And we think that carriers, although they will face increased competition from non-carrier brands, still have an important role to play. And we'll be working with our partners in Singapore and across the rest of the SingTel group to develop more content and more applications we could roll out.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thanks, Paul.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you. Mr. Roshan Raj, Merrill Lynch.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Hi. Thanks for the call. Two questions from me. Firstly for Singapore, the postpaid ARPU after taking out the data-only users, that's been flat year-on-year. I'm just wondering why this should not be increasing. Second question is at the comp level, if we look at trends at Singapore and Australia, it looks like the SMS revenue contribution is holding up well, almost flat or slightly up. So just trying to understand what's supporting this and what would be your expectation in terms of possible SMS cannibalization. And when you look at your associates in other developing markets, there are some signs of possible cannibalization of SMS. So what's kind of being different in Singapore and Australia? Those are the two questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Okay. Let me answer the first question on Singapore ARPU. I think the ARPUs, the voice ARPUs are flat and then voice SMS ARPUs are flat. And that's really &#x2013; despite that, our revenue is growing at 9% year-on-year. This is a reflection of the fact that we are gaining customers. Thus, customer base has increased by 11%. Some of this ARPU fatness is primarily due to our bundling effect. We do bundle or mobile products with our fixed lines products.</p>
+          <p>Paul spoke about a little bit of what we do in Australia. We do very similar things here because this allows us to create better value for our customers both in terms, not just in terms of their carriage and the ease of carriage, but also in terms of the possibility of the content and the application. So I think the primary reason why our ARPUs are flat is due to the bundling effect. But we continue to win and lead in this market with mobile. As you can see, our mobile revenue is growing significantly faster than our two other competitors who announced their results recently as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Roshan, just to clarify, you had asked a question about cannibalization effect of SMS from data services. Which markets were you talking about?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>For example, I mean, Singapore and Australia they are holding well, but some of the operators in Indonesia they are seeing some cannibalization of SMS.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>
+            <mark type="indiscernible" /> (00:46:08) In fact for all our associates. Although there are cannibalization, but in fact it's not as severe as in Singapore or Australia largely because the percentage of smartphones in the emerging markets is very minimal. Because you need smart phone in order to use some of those new apps in the market, they allow you to send details, messages to each other. And for the most smartphones usually to have your friends on the same smartphones in order to send the messages via data. So currently, the impact of the cannibalization is not as huge.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I think what is important to understand is even in the associate, a large part of the associates are operating on prepaid. And with prepaid, even while there are &#x2013; if they're using data our IP messaging, that will cannibalize SMS even if they are on smartphones. If you're talking about them having to be charged for data plan vis-&#xE0;-vis SMS. I think when you try and compare this part of the world with what's happening in Singapore and Australia with what's happening in Europe, we have for a long time already bundled for SMS and voice into our price plan. And also is the impact of the cannibalization it's not of the same quantum that you  see with operators like KPN and all that, where they have basically not gone down the right path for the SMS bundling. But they have priced the data plan very low and that data plan has IP messaging have basically taken over the SMS, has basically cannibalized SMS <mark type="indiscernible" /> (00:47:48). So there is a difference in the pricing structure that you have seen in Europe versus what you see in Singapore and Australia.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>And just to add also that in the Philippines market, in fact the operators there have been having unlimited SMS packages. So this will have to uptick on the SMS messaging subscription.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Okay. Thanks for that. Just one follow up question. This is on AIS 2 percentage increase in stake. I mean longer term, this might fall in line with your view of increasing stakes in associate. But in terms of just the timing of it, when you actually do a transaction directly from the market, I mean, just looking at stock price of AIS and given the fact that you announced pretty much when the stock was at one of its high levels. Just trying to understand, what are the factors which kind of go into play when you decide that you have to increase the stake at that particular point of time?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I think for any transaction to take place, there must first of all be a willing buyer and a willing seller, which means that the terms would be right for both parties.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Okay. Anything else be kind of secondary in the sense, the stock price, I mean, before the announcement came was possibly at its 52-week high. So just trying to understand how that timing just kind of arrived there.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We have announced the basis on how the price is going to be strike and of course we've got the flow and the cap. But I should also point out that the sale of course, is conditional on some of approvals that had to be obtained.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you. Mr. Raymond Tong, Goldman Sachs.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Good morning, guys. Just as couple of questions for Paul and Murray. First one, just your postpaid net adds remain pretty strong. Just wanted to get you to talk about how much of a benefit you guys are getting from all the issues that Vodafone are having at the moment and do you expect that to continue? Secondly, just in your fixed line strategy in Australia, can you talk about that maybe your potential strategy about actually expanding your scale into off-net areas?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>So I might add, I mean I guess our postpaid, it will be &#x2013; the question you had, I think, has got a lot to do with the consumer or a mass market-type acquisition. So I might just ask Murray to talk. Although, we're always hesitant to give too much competitive information on these calls. I think they can speak for themselves. But maybe, Murray, you might just talk more about how did we manage to maintain a pretty respectable postpaid number through the quarter. And then we'll come back and maybe just explore a bit more about the question you're asking on fixed line and understand what's behind it.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah. I think, Raymond, on sort of postpaid net ads remaining strong over the period, a combination of things really. We've expanded our distribution over the course of last year. I think we've referred to that previously in these calls. The work that we've done in country areas which was in a way, a bit of a greenfields play against Telstra. No doubt some of the issues Vodafone have had helped us as well. But I'd like to think of the things we've done as well when it comes to the launch of Qantas Frequent Flyer, the work we've done on the Home Zone, our femto-based product, have all brought sort of differentiation to be there in our products. Of course, when it comes to sort of value and competitive pricing, we've remained pretty consistently competitive on that front as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Just back on the fixed line. I guess, Raymond, I think your question is maybe more about how do we pre-empt NBN rollouts into areas and make sure that we're able to get in the market aggressively. Was that really background of the question or maybe help me make sure I've understood it.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>They tried. I mean just letting out to NBN, you're on-net areas at the moment. Also NBN is going to be able to get scale. How do you sort of get to that?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Okay, all right. I thought that might be the direction. Well, look, we've always been a little hesitant about off-net sales. The reason we've managed the exit out of them over the last three to four years was because the Chinese are dealing with the incumbent under the current regulatory regime were difficult. And so for those reasons, we have tendered to exit it. I think there is a valid point to be made. But if we know NBN is arriving in a certain timeframe, then it may be worth our while acquiring a customer which we could do potentially using mobile broadband if that's available or potentially going back in and expanding our ULL or finally maybe using retail. Those all are options which we're looking fairly actively.</p>
+          <p>And another option for us of course is to come in and develop a relationship with the customer using one of our new digital products over the top. And MeTV is very well positioned for us to also be able to do that. And so those are the variety of instruments we have in front of us. For competitive reasons, I'm not going to be too specific about what we will use where and when. But we are very aware of the issue. I'm looking at it very actively. Given that there is quite a long lead time period for most of the NBN roll out territories, it's probably not the right time for us to be too explicit about where our strategy would go.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Great. Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you. <mark type="ph" /> Surama Maruwada, Daiwa (00:53:19).</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Good morning. Two questions from me, please. On the Singapore side, first is on the fixed working lines on the residential segment. This has been oscillating a fair bit in terms of losses as the last additions on a quarter-on-quarter basis. If you could provide a little bit color on what is the broader term we should be looking going forward. The second one is on, if you could provide some commentary on the IPLCs as a domestic leased line market in terms of some color on the pricing environment at the moment? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Okay. With regard to the residential fixed lines, I think for some years now, there has been some substitution in fact a wise move on from being fixed to mobile. So I think we're managing the decline. Actually, if you look at our results, fixed lines, our <mark type="ph" /> down (00:54:18) lines have actually increased because of the uptick in business segment. Residential continues to be one that we are managing the decline. I think our TV product helps justify the needs of people to have a fixed line. So we continue to push this as hard as we can. But we know for well that at the end of the day, the future is more in fiber. So we'll manage the decline according to our longer term or medium term expectations for that business.</p>
+          <p>In IPLC and local leased lines, there are two different effects that's happening as you can see from our results. IPLC is declining primarily because of heavy price competition in the market. We remain the number one provider of data connectivity services in the region. But I think because of the block of submarine cable capacity, we have to price very aggressively. And we can see year-on-year, the price declines on a per unit basis. It's in the region of 20% to 25%. So again, this is something where we use IPLC as a way of getting and establishing a relationship with the multinational and then we go in and up sell managed services and other value-added services to them. So it's like an entry climb for us. You can see our managed services revenue continues to grow very strongly. I mean that's executing on using IPLC to get a foot in the door and then upwelling.</p>
+          <p>In terms of domestic leased circuits, that is something which we are managing the pricing because of the advent of NBN. I think this is something that we've told our investor community for some time that we will be adjusting the pricing of our domestic leased circuits as and when the NBN network rolls out. So you have seen in Q2 some of this adjustments being made. Similarly to IPLC, domestic leased circuits is a way for us to establish a network for our customers.</p>
+          <p>But really, the end-game for SingTel is to move towards being a one-stop ICT provider for these customers, providing them with the connectivity and then upwelling them managed services. And in the case of SMEs, managing to up sell to them applications. And as you can see from our results, we announced that now we have in excess of 150,000 people using our SME cloud services. For enterprise, we go out and up sell them some of our cloud services and some of our IT services from our NCS subsidiary as well.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Okay. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you. Mr. Ian Martin, RBS.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Well, yes. Thank you. Two quick questions. Paul, are you <mark type="indiscernible" /> (00:57:00) strategy to have a view yet or be able to share a few with us on what the margin impact that's going to be? Is it comparable to the other on-net margins you have? And secondly, in relation to the associates, are you say the underlying performance have been strong, but contribution's been negatively impacted by the currency effects. But contributions are still negative even in local currency terms from the associates. I was just wondering if you can share with us when you expect those contributions to pick up and whether you got some ability to manage the timing at least of the cash flow contributions from the associates to get the best impact from currency changes?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Okay. Ian, it's Paul here. I'm going to get Murray to talk about the femto because it's very much sold in consumer. And it's a very interesting product and so the need feedback from customers we're giving it to is very positive.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Hi, Ian. the Home Zone product is sold as a bolt-on to a mobile service but can equally be sold for &#x2013; or bolt-on to a fixed service. So it accretes to the underlying core product, access fee and ARPU as opposed to being an individual service in its own right.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Any indication of what kind of margin impact that will have then?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>I mean, we haven't disclosed how many people we've sold on the Home Zone product today. The product is sold in a variety of combinations. You can buy it outright which would just be equipment. You can buy it for a $10 to $20 a month access price. We've now included calls and we can put included calls in it as well. So it's like a variety of any of our other bolt-ons. Where it's accretive to a customer, it's probably in the tune of $5 to $10. But when you bring that across our base at this stage, it's not actually contributing significant ARPU movement.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>All right.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="a">
+        <plist>
+          <p>Ian, I should &#x2013; this is Jeann, I should highlight that the associates earnings, when you look at financials, it's down 12%. But if you adjust for the currency translation impact, which is translating it back into Sing dollars, it would be down by a lower 6.7%, about 7%. But if you further exclude the fair value adjustments and the fact that these that adjustments are the fair value losses that have been taken at the associate level because of their weaker currencies. If you adjust for that, the associate pre-tax contribution would in fact be up in excess of 5%.</p>
+          <p>I should highlight and when you look at the disclosures that we have made on each of the associates as well as the associates own set of financial results that have been published. You will note that the revenue and the EBITDA of the associates and for all performed are fairly strongly of the major associates. In local currency terms, the revenue and the EBITDA growth of the associates had been very positive.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Okay. Thanks, Jeann.</p>
+        </plist>
+      </speaker>
+      <speaker id="18">
+        <plist>
+          <p>All right. I'm afraid we have a time constrain. We do have to stop the call here. For callers, if you still have questions, we have your name, we will contact you soon. And a transcript of today's call will be posted onto our website by end of tomorrow. We thank you for your interest. Should you have further questions, please don't hesitate to contact the IR Team in Singapore or Sydney. Thank you very much and good bye.</p>
+        </plist>
+      </speaker>
+      <speaker id="7">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

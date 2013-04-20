@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1280515" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q4 2009 Earnings Call - Q&amp;A Session</title>
+    <date>2010-01-21</date>
+    <companies>
+      <company>8238</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Maria Shim, Investor Relations</participant>
+      <participant id="2" type="analyst">Sameet Sinha</participant>
+      <participant id="3" type="corprep">Jonathan Rosenberg</participant>
+      <participant id="4" type="analyst">Aaron Kessler</participant>
+      <participant id="5" type="corprep">Patrick Pichette</participant>
+      <participant id="6" type="corprep">Nikesh Arora</participant>
+      <participant id="7" type="analyst">Ross Sandler</participant>
+      <participant id="8" type="analyst">George Askew</participant>
+      <participant id="9" type="analyst">Scott Davis</participant>
+      <participant id="10" type="analyst">James Friedland</participant>
+      <participant id="11" type="analyst">Heath Terry</participant>
+      <participant id="12" type="analyst">Richard Fetyko</participant>
+      <participant id="13" type="analyst">Mary Meeker</participant>
+      <participant id="14" type="analyst">William Morrison</participant>
+      <participant id="15" type="analyst">James Mitchell</participant>
+      <participant id="16" type="analyst">Mark Mahaney</participant>
+      <participant id="17" type="analyst">Ben Schachter</participant>
+      <participant id="18" type="analyst">Justin Post</participant>
+      <participant id="19" type="analyst">Brian Pitz</participant>
+      <participant id="20" type="analyst">Spencer Wang</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good day, and welcome, everyone, to the Google Inc. conference call. This call is being recorded.</p>
+          <p>At this time, I would like to turn the call over to Ms. Maria Shim, Senior Manager of Investor Relations. Please go ahead, ma'am.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Good afternoon, everyone, and welcome to Google's fourth quarter and fiscal year 2009 earnings follow-up conference call. With us are Patrick Pichette, Chief Financial Officer; Jonathan Rosenberg, Senior Vice President of Product Management; and Nikesh Arora is also going to be joining us for the first half-hour, so if you have specific sales geographic vertical question for him, please address them to him in the first half-hour of our call.</p>
+          <p>After we cover a few housekeeping items, we will begin taking your questions. This call is being webcast from our Investor Relations website located at investor.google.com. Please refer to our website for important information including our earnings press release and related slide deck. A replay of this call will also be available on our website in a few hours. Please note that we routinely post important information on our Investor Relations website located at investor.google.com, and we encourage you to make use of that resource.</p>
+          <p>As a reminder, the purpose of this follow-up call is to give participants the opportunity to ask more detailed financial and product questions in an efficient and Reg FD-compliant manner.</p>
+          <p>Let me now quickly cover the Safe Harbor. Some of the statements we make today may be considered forward-looking, and these statements involve a number of risks and uncertainties that could cause actual results to differ materially. Please note that these forward-looking statements reflect our opinions only as of the date of this presentation, and we undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements in light of new information or future events.</p>
+          <p>Please refer to our SEC filings, including our Annual Report on Form 10-K for the year ended December 31, 2008, as well as our earnings press release for a more detailed description of the risk factors that may affect our results. Copies can be obtained from the SEC or by visiting the Investor Relations section of our website.</p>
+          <p>Also please note that certain financial measures we use on this call, such as operating profit and operating margin, are expressed on a non-GAAP basis and have been adjusted to exclude charges relating to stock-based compensation. We have also adjusted our net cash provided by operating activities to remove capital expenditures, which we refer to as free cash flow. Our GAAP results and GAAP to non-GAAP reconciliation can be found in our earnings press release.</p>
+          <p>With that we're ready to take your questions. Operator?</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you. The question and answer session will be conducted electronically today. <mark type="Operator Instructions" /> And we'll take our first question from Sameet Sinha from JMP Securities.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>Yes, thank you very much. Just wanted to get down to some more details about CPC growth sequentially. Are there any specific instances? I know in the past quarter you talked about how emerging markets where credit growth has been strong but CPCs are lower. Could you help us quantify that impact?</p>
+          <p>And secondly, on the CPC question itself, anything specifically in Europe? We had heard instances where trademark bidding has kind of slowed down or the efficacy of that has slowed down and probably pulled down CPC with it. Could you comment to that? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yes, sure. This is Jonathan. I'll let Nikesh comment on any specific issues related to Europe or any dynamics that he's seeing there on the trademark issues.</p>
+          <p>The specific issues, which we've traditionally talked about a lot on, you're looking at average CPC, which obviously is a blended number and is impacted by some of the things that you suggested, such as the relative growth in maturing markets versus established markets, had some anomalous dynamics when you look at this quarter, which I would highlight, which are first and foremost the FX movement. We had &#x2013; the dollar was weaker in Q4 '09 when you compare to Q4 '08, so that causes the non-U.S. clicks to have higher CPCs, right, when reported in dollar terms.</p>
+          <p>But I think the other thing that you may not see is there is an important mix effect going on. We made some quality improvements on the AFC network, and basically that had the effect of reducing the total clicks in the AFC network relative to what it would have otherwise been. And so we had a higher proportion of clicks therefore coming from google.com and from AFS, and that's a mix shift that caused the blended average of CPC the way you're seeing it to otherwise rise. And so those are the two things that I think are more different than this quarter than in the past. And I think that &#x2013; and otherwise I don't have any more insight.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay, next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Aaron Kessler from Kauffman.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Yeah, just a question on the local side in mobile, how that ties in. There's a lot of assumption on the mobile side that that's really going to be dependent on local growth longer term. Just your view on that and maybe how that you're seeing the growth in the local side develop to drive mobile longer term here.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>It's Patrick speaking. I think that mobile, one element of mobile is local, but I would far and away not only pin it to local. There's no doubt that we are having some great experiments on local, but on mobile, what you have is a whole set of searches and a whole set of activities that actually just transcends clearly just the local business. And those searches obviously are going to also fuel it. So it's a mosaic of opportunities, but local is just one of them. But, Jonathan, maybe you have additional comments.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah. Look, I mean, I think local is hugely important. It's going to be much more important in the not-too-distant future, because as we're seeing more integration, as I mentioned in some of my other remarks, people who are shopping offline start online. And today, people still don't have access to the inventory information in the local stores. So I mentioned that in mobile we're seeing that when phone numbers and coupons are offered, people are much more likely to click on the mobile ad.</p>
+          <p>Well, imagine if the inventory information is there so that they can actually consummate a transaction locally. As that information becomes available, local is going to be much, much more powerful. And we already have some examples where advertisers, like with AT&amp;T are using some of our local products to help people find local stores. So I think we're just starting to get there in terms of the capabilities that are going to be necessary for local to take off, but I think local is going to matter much more on these devices, because obviously they know where they are with GPS.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Great. And I think there's also &#x2013; just quickly, I think you filtered out some of your advertisers this quarter, maybe it's just in the AdSense for Content. Maybe you can just provide some more details around that?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Sorry, can you restate the question?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Yeah, I think there's some reports that you may have filtered out some of your advertisers this quarter on the AdSense side, so can you just provide any more details about that?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Yeah, we have been &#x2013; obviously we're constantly looking at our advertisers to see whether there is any fraud or any spam that is happening, and we permanently suspend advertisers who repeatedly attempt to scam users. So we went through one of our regular processes of looking at advertisers and seeing which ones of those we thought were not adding quality or adding sort of value to our users, and in those cases we chose to suspend them permanently.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Okay. And did this have any -</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>This quarter was the approach that we took to suspend the repeated scam users, as opposed to before, where all we were doing was disabling certain bad ads.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>All right. And did this have any material impact on the quarter numbers? It sounds like it could have had a slight impact from what I was reading.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>No.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>The impact is slight. It's a relatively small number of advertisers.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Okay, great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. Can we have our next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Ross Sandler from RBC Capital Markets.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Hey guys, two questions. First on the cyclical nature of paid click growth and then a follow-up from James' question earlier. So on paid clicks, the growth rate has been decelerating pretty steadily for the last couple quarters based on some of the mix and kind of natural deceleration you guys talk about. Do you see any evidence in your data that as the economy recovers in 2010 that paid clicks could actually reaccelerate? And for instance, in the fourth quarter you had a reacceleration in the domestic market. Did paid clicks reaccelerate there? What are your thoughts on that?</p>
+          <p>And then the follow-up from James' question, on the international stuff, so if we've done the math correctly, international growth ex currency and ex hedging decelerated to around 16% from 19% last quarter. Can you talk about what's driving that deceleration? Because I think it had accelerated in 3Q. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>So on the paid clicks, I think that the only thing we would tell you, because we can't give you anything prospective, is obviously as &#x2013; every place there's a recovery, and there's robust auctions &#x2013; and there's also seasonality with each of these auctions, right? &#x2013; you could have kind of increased CPCs. And so, that's really the only fundamental driver of the CPC and CPC growth. In terms of -</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>But you don't see consumers clicking on ads, not the CPCs but actually the volume of paid clicks? You don't see that incidence increasing when the economy gets better?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah, absolutely, absolutely. People search more and they search more, and not only do they search more, but they click more. There's no doubt about it. So you'll remember if you go back to a couple quarters ago, we had this conversation where we said because people were more shy at shopping, they click less. And so it was a consumer-driven phenomenon that drove our CPC at the time, and it was just simply that no matter how the auction operated, the fact that people click less. And as people &#x2013; as the economy recovers and people click more, obviously it will have an effect on the CPC.</p>
+          <p>As for the international, Nikesh, do you want to cover the international portion?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>I think &#x2013; well, the important thing to note is if you look at last year Q4, we had a precipitous decline in the U.S., much more sort of sharper than what we saw in the international market. So the comps for the U.S. look much better than they look for international regions. In addition to that, many of our new product areas which we stage globally will start in the U.S. but make their way across the globe. We have had sort of more of them do well in the U.S. than they have done internationally. So purely from that perspective, the U.S. is going to look slightly stronger from the rest of our international markets.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Great, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Thanks, Ross.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from George Askew from Stifel Nicolaus.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Yes, thank you very much. Two questions. First, has Google, since the first of the year, finished implementing the Caffeine search architecture across all your data centers?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>I don't know if we've finished implementing it. I know it's -</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I believe the answer to that is no.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>We just started. It's not over.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Not yet. Not yet.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay, okay. And then the second -</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I'm sorry, I said yes. In the answer to your question, not yet. The answer is not yet.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay. Not yet. All right. And then obviously, display advertising is a huge push for the company. Can you help us please understand how much of your display advertising revenue is from owned and operated properties such as YouTube and how much is powered by tools of Google but does not appear on your websites, like a DoubleClick?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Well, we don't give the mix, but clearly, it's all of the elements that are at work. So -</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>The best way to think of our business on the display side is we have our business on the display side, which corresponds to the premium end, which is where people &#x2013; brand marketers looking for premium advertising slots look at YouTube as a property they want to advertise in, in competition to other premium inventory that's out there.</p>
+          <p>If you go to the next level, the best way to think about it is in our network, which is our collection of publishers, which are all the way from small publishers to dorsal publishers, to certain large publishers, will give us access to the inventory, which we are then able to collectively sell as a network both using contextual advertising as well as using interest-based advertising, and that of course has a different profile as it relates to the margins and the revenues as compared to YouTube.</p>
+          <p>And then the third part which is where we use both our tools as well as our exchange properties like Ad Exchange and DoubleClick platforms, which is where you can have different buyers and sellers and different people who put that inventory up there and just be different people selling that inventory. And that's beginning to get traction now, and most of our top ad networks are in that space. But clearly again that is a very different pricing profile or margin profile in the market. So that's the way to think about our three different businesses. Now &#x2013; from a structural perspective. But clearly from an advertiser perspective, when we go make that pitch, we offer the entire gamut of services depending on what campaign objectives they have and what they're trying to achieve.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Would Google have another owned and operated display ad site?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Well, we are constantly experimenting with various properties that we have to see what's the best mechanism and the best format of advertising to use on those.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. Thanks. We'll take the next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Scott Davis from JPMorgan.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Yeah, hi, thank you. Nikesh, I think I just have a follow-up to Ross' and James' question about the rest of the world growth. So given that it decelerated &#x2013; and I understand that the products in the U.S. haven't been rolled out there &#x2013; that would explain why it wouldn't reaccelerate, but it doesn't explain the deceleration. So it sounds like you're saying the primary answer is just the comps, which did in fact get a lot more difficult versus the fourth quarter of last year.</p>
+          <p>I was wondering though if there's a third element, which is there were a number of times on the call that it was mentioned that large advertisers have come back first. And I guess I was wondering if you could give some color on whether or not the rest of the world makeup of advertisers is more small advertisers as compared to large, and therefore that lagged a little bit for that reason as well. Or was it just purely the comps for the first reason that I said?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thank you very much, Ross, for the clarifying question. I think there are three elements to what you ask. One clearly is a comp element, because as Patrick would say, we've had a V-shaped recovery in certain markets, we've had sort of a slightly elongated V in some markets, and some of the markets have been bobbing around. So clearly in the U.S., we've seen a sharper sort of rebound than we have seen elsewhere, because they had &#x2013; or not as sharp a decline, so clearly one is a comp issue.</p>
+          <p>The second issue has also to do with the advertiser mix. Actually, the large advertiser phenomenon is overweighted to the U.S. than it is towards emerging parts of the world. So in various parts of Southern Europe; various emerging parts of Asia, Latin America, and the Middle East; and the other parts of Europe, we are clearly not seeing as much divergence between large advertisers and small advertisers in those markets. So they're not &#x2013; the large advertisers haven't been as aggressively back, since they hadn't as aggressively left in the first instance.</p>
+          <p>And the third case is clearly in some of those markets which are nascent what has happened is as the economy took sort of a hit or sort of a stutter earlier, they actually reprioritized their spending, and some of them may have pulled back from search, and it just takes a little bit longer to get them back onto online advertising, because in those markets, they're not as reliant or as convinced of online advertising. But clearly, as I said, in places like Brazil we've been making huge efforts to get the education up on advertising. And we do that around the globe.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Do you have an expectation, just to follow up, on &#x2013; because you're clearly pleased with sales, and it's easy for the Street, including myself, to get ahead of ourselves because we can do channel checks and hear about the U.S. and hear about the UK, and those things accelerated nicely. So it feels like the only thing that a bull is missing is just some conviction on when you'll see a reacceleration in the rest of the world. Part of it will come just because the comp are going to get a lot easier, but do you have a suggestion for what kind of lag you think is involved for the rest of the world?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Well, clearly, I'm not going to try and speculate on numbers and try and figure out when these things are going to happen. But from a long-term perspective, if you think about the U.S. versus these markets, clearly some of these markets are further behind in terms of the development where the U.S. is or certain parts of Europe are. Like example, UK is very advanced as an online market.</p>
+          <p>And even if you look at the evolution of some of these markets over the last three or four years, we have seen a trend. And the trend suggests that over time people will start getting more convinced about online advertising as more and more consumers in those market get online, as more and more broadband penetrates those markets. And those dynamics are clearly easy for you guys to understand and try and project.</p>
+          <p>And based on that, my long-term conviction is that we are going to see the continued shift toward online advertising both on the search side as well as the display side. And as Patrick alluded to in the earlier call, the television market is yet another huge market, where the eyeballs are beginning to shift, and advertisers will want to target those audiences, and as we feel comfortable that the tools we're developing based on our experience in the U.S. markets can be deployed around the world. So in the long term, I believe there is clearly growth in each of those markets. I can't project which quarter they're going to show up in.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah, I think just as a general comment on the overall total revenue and then these different &#x2013; between all these markets and geographies, I mean, as we said in the call, on the previous call &#x2013; I mean, we are really pleased with the trajectory of the company. And the reason for it is you can see how a quick rebound in the economy in the U.S. or at least kind of our &#x2013; not a strong rebound, but a quick rebound &#x2013; actually you can see the leverage model of the Google model, so in that sense I think that we take a lot of comfort for the long term.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Great. Could we take the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Jim Friedland from Cowen and Company.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thanks. First on G&amp;A, if I look at Q4 versus Q3, there was a &#x2013; it actually moved up decently. Last year it was flattish, but then you're really working on the costs. Was there anything one-time in nature or unique about that increase, or was it seasonal, or is this just getting back to what's sort of a more traditional pattern?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>No, I think on G&amp;A, the two big areas that we talked about, one of them was actually ramping up our marketing, as we discussed on the previous call. We also had a few expenses, more than would have been ordinary, on the legal side. And so those would be kind of the two big bumps that &#x2013; if you think in the quarter.</p>
+          <p>But nevertheless, I mean, very much under our control, right? If you think about it, if there's one thing we've proven this year at Google is our ability to actually really control our expenses and dial where we think we're going to get a great payback and a great return. And that's exactly what you've seen in Q4, where when Eric talked about, okay, let's push back the investments, let's go back into making sure that we run the business the way we want to run it. Obviously when you have areas like marketing, broadly defined, that's the first place that you can actually turn on the dials to get a real impact back, and that's why we moved that way.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay. And then on marketing, we have &#x2013; and with the Nexus One, we've seen some ads around the Google network, but we haven't seen any sort of more traditional advertising. Given that it is sort of a meaningful product launch and you are trying to change an industry, why haven't we seen a push in that area? Or are you just telling us that you're going to use sort of the traditional ways that Google has gotten out there?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah, I think that Nikesh will probably have more details on this. Because we launched a product, and not like it's really a new model we're trying to launch with this online store, we did not &#x2013; all we wanted to do is &#x2013; and we had so much advertising anyways, and marketing around the product itself, we didn't deem necessary to actually push it in the same way that other more traditional channels would have done. Nikesh, any more &#x2013; ?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>I think Patrick said it, and I think we alluded to this on the earlier call. As Eric said, this is a new way for us of selling mobile phones. And clearly the first target group that we can go after are the people who like Google, who are the Google aficionados, people who are online. So since we are trying to sort of come up with a model of selling something online, it's perfectly logical for us to do online marketing for that. And as this evolves and as we test this, we will explore other ways of going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay, great, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>You're welcome.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Great. Could we take our next question please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Heath Terry from FBR Capital Markets.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Great, thank you. Eric touched on this a little bit on the call, but can you give us an idea of where you're seeing the most traction in your display efforts? And as you look at the DoubleClick ad networks what are its competitive advantages, and what does the development path look like there?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Look, in terms of display, I think Nikesh, in the way that he portrayed it a few minutes ago, there's really &#x2013; let me just give the high-level answer, and then Nikesh, if you have color or commentaries. There is &#x2013; the simplification of the process with DoubleClick and the DoubleClick platforms for both the publishers and the advertisers has made it &#x2013; so simplification of all that has made a huge difference, and we can see it in the numbers of people kind of signing up for it. Then obviously, on the performance and the markets, two other big thrusts that actually are &#x2013; have good trajectory. So maybe, Nikesh, you want to give a bit more on the display itself?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>I think that's very important to understand. If you think about the evolution of the display market, right? In the early days of display, we've been selling sites. And as we look at it, there's been a huge explosion in the number of sites. There's millions and millions of websites that you could actually decide to target ads and try and display ads. Now, the challenge that it creates is on two ends. One, it creates a challenge in consistency, which is where products like DoubleClick, which creates some degree of consistency in how ads are served and how they're put across the board, and products like Ad Exchange begin to help. Because effectively you're trying to create a consistent way of serving ads in the market.</p>
+          <p>The second part is also that sort of the inefficiency in the selling side, because it's very hard for an advertiser then to go aggregate multiple sites and try and buy them individually, so it really helps to have an exchange where you can aggregate tremendous amounts of inventory. If you do both of those things, then we can layer on top of that both contextual and interest-based advertising. So that's the way to think about this, then. We're slowly shifting the display industry behavior to look and mimic what advertisers have been traditionally used to buying.</p>
+          <p>They've used to buying audiences on an aggregated large scale, and the way we are able to put together the Google content network, the Ad Exchange, the DoubleClick platforms, we are trying to replicate that ability to buy large audiences. And as that begins to happen, as they're able to target it more and more, you clearly expect that becomes more relevant for them, and therefore the prices will react accordingly to that relevance to the advertisers.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah, this is just Jonathan, quickly. I would summarize the competitive advantages. We're making it easy to buy, sell, and serve display ads. And one of the things that I think is particularly exciting, which Eric was asked about on the call earlier, was this shifting budget dynamic. One of the things I think's been very positive that we've seen is that with products like Display Ad Builder, we're actually bringing a lot of new advertisers to display. They can much more easily create display ads now. They can do it directly from the AdWords interface. Turns out they're new advertisers to display, and they're not fundamentally decreasing their budgets in search, so we're winning on both sides.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Great.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thanks. Could we take the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Richard Fetyko from Merriman &amp; Company.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Thanks, guys. In the past you'd talked about changes in ad coverage or density of coverage. I was wondering if you could characterize the changes in the last couple of quarters, if there's been any. And then secondly on the mobile strategy, just wondering, the success that you've had with the Android &#x2013; adoption of the Android operating system for the mobile devices, what role do you see that as playing in your mobile strategy? I mean, does that lead to a certain level of &#x2013; certain opportunity of modernization over time?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>So let me answer the mobile first, and then I'll let Jonathan answer the first question on ad coverage.</p>
+          <p>But the whole mobile strategy is built on building and accelerating an ecosystem. And obviously we have our own mobile teams that have developed these cool apps, like so if you think of Vic, for the people who know Vic, and all of the really cool applications, that you can see through applications and all the rest, but it's about the ecosystem that does three things, right?</p>
+          <p>It really promotes innovation. It has a lower cost of innovation because by being open sourced, you kind of enable everybody to jump in and do it, and then as a consequence you keep it open sourced, so the benefit to us really is twofold.</p>
+          <p>The benefit is users get better applications faster if markets spread faster everywhere, so think of the spread of high-end devices faster at a lower cost sooner, which drives all these applications. And so users get a benefit. And then as a consequence of that, as we talked before, consumers that have Android devices, we know from our own research, they use it like 30 times more than what a typical handset would be. And in consequence, they do a lot more search and then there's a lot more advertising opportunities.</p>
+          <p>So pushing that ecosystem is so critical, because that's where the world is going. And if you think in terms of NPV as the image I always use, right? What's the value of accelerating that? Well, it's huge, and it's huge for the users, but it's also huge for us. That's why we're pushing it in the three dimensions of mobile, Android, and now what you've heard is the Nexus with handsets to kind of set the standards at a higher level. So that's the mind-set in which we operate, and we gain to benefit massively from it, and so does the user.</p>
+          <p>Now, for the ad coverage, Jonathan?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Sure. So as you know, we really don't break down the components of the RPM equation specifically to coverage CPC or click-through rates. We have told you in the past on a couple of occasions when there's been a situation where we noticed a dynamic that caused us to make a change, which we'd mentioned a few quarters ago in the past.</p>
+          <p>Right now I think we're pretty happy with where coverage is. We'd mostly have been focused on improving the quality of the ads themselves, and we've talked to you a bit in the past about the tradeoffs that we make there in terms of how we decide to take improvements with respect to quality and coverage.</p>
+          <p>I think the main change that you can probably see is the new formats that we've been launching, which we talked about, which basically offer a better experience within our ads rather than new ads that we're not otherwise showing today. So I don't think there's &#x2013; there's not a lot to say in terms of fundamental changes in coverage.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. Could we have our next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Mary Meeker from Morgan Stanley.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Hey, Maria, I'll let you be the bouncer here, but Scott and I have a couple questions. And first is for Nikesh. And if you'll let us ask together, we will. If not, we'll queue back up.</p>
+          <p>You guys on the call were obviously very enthusiastic about the growth and monetization opportunities in YouTube, mobile, DoubleClick, and enterprise. That said, desktop is still the vast, vast, vast majority of your revenue. You guys are the ones that are getting the inbound phone calls about people getting more interested in these categories. And to Scott Davis' question, the stock market's not responding that well to your earnings announcement, but at the same time, you guys are really enthusiastic about 2010, per your tone and your commentary.</p>
+          <p>Could you give us a sense of when these new initiatives start to add 100 basis points here and there or a couple hundred million in incremental revenue to the business? And if not quantitatively just philosophically about when they start to move the needle, because that would drive an acceleration in revenue for the company.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>It's Patrick. Let me start by saying the following: One is we &#x2013; display, as Eric said, right, already a pretty significant business for us.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Yep.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>And in the sense that when he talks about it the next billion dollar business and when you take all of the elements that Nikesh has talked about &#x2013; so if you think of YouTube and if you think of all of the elements that are within it, right? I mean, at some point in the future, right, this will add up to something that, one, we're excited about and then, two, that moves the needle. And you could argue in many areas within it, it's already started moving the needle.</p>
+          <p>And then on the other ones, they are &#x2013; as you said, Mary, they're nowhere near where the core business is, but the trajectories and the growth rates that we see and the adoption rates and the adoption rate on users &#x2013; I mean, gives us &#x2013; that's why we feel so comfortable about &#x2013; when we talk about 2010 and beyond, right, building this business for the long term. We see a lot of positive trajectories. And we have to kind of celebrate that because two years ago, right, we couldn't have said that maybe about mobile, we couldn't have said that about enterprise. But two years later, when we stand at the end of 2009 and we look at the great progress from Jonathan's comment of putting a few arrows in the right place and then just putting more wood around them, we're very pleased about the trajectories that these have.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Is there any stuff around it that you can provide us?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Yeah, so maybe let me talk to this more. This is Nikesh. If you just think about our business in the various ways we just talked about, and I want to sort of underline that search is not sort of by any means exhausted. This is an area where we continue to make progress and we continue to see interest. I would say we're seeing more and more large advertisers coming in, and that's not just a function of the economy. It's also a function of them having developed their e-commerce capabilities and worked really hard on having an online strategy. So as they come forth and build their online strategies across multiple verticals, we're beginning to see a resurgence and return of those guys into the online fray.</p>
+          <p>Having said that, in addition to pure from a direct marketing, direct response perspective, the next leg which we're beginning to see in search is that people are beginning to see the offline impacts of people searching online. So even if you have a business where you're not selling something on the web, it is very clear to most businesses &#x2013; whether they're in pharmaceuticals, consumer goods, autos &#x2013; that most people, 70, 80% of the people, will research something online which is of significant value to them or significant importance, whether it's a drug or whether it's a car, before they will go make that purchase or before they will make a brand affiliation.</p>
+          <p>So clearly that sort of research is being funded by us, by various agencies out there, and that's continuing to drive that search cycle. Whilst that's driving that in some of our mature markets, clearly those facts have still to make their ways into emerging markets and maturing markets around the world. So I just want to underline that there's tremendous sort of runway in search still from where we stand.</p>
+          <p>As Patrick said about display, again, clearly you're seeing this shift from people buying sites to where people are buying audiences and people &#x2013; they're making it more and more interest-based, which is &#x2013; that's how traditional advertisers are used to buying stuff. They're buying frequency, they're buying advertisers; they're often not buying sites because sites overemphasizes brand affiliation as opposed to interest targeting. And I think that trend is going to continue.</p>
+          <p>If you think about sort of the YouTube space and the online video space, I think we have seen that sort of becoming a relevant part of the media mix as far as online advertising's concerned. But if you just think structurally in the industry, we're beginning to see the emergence of professional content on the web slowly, both from broadcasters or from sort of content creators, as well as people who provide online video.</p>
+          <p>And as that trend continues, as that sort of creates more and more inventory on the online web, we're going to see more and more people get excited about advertising video to those audiences, which I think is going to be another big leg for the whole industry, not just for us. And if you continue that story, Jonathan talked about mobile, Patrick talked about mobile, again as we see the emergence of smartphones and devices like the Nexus One continued, sort of success of devices from various handset manufacturers around the world, we're again going to see the search traffics begin to move in that direction.</p>
+          <p>So clearly, all those things are in the right direction, and of course, and as Eric alluded to earlier on the enterprise side, we are seeing this big shift in cloud computing. We are beginning to see large customers and even parts of the government, the city of L.A., start to take &#x2013; sort of make their road, make inroads &#x2013; we're making inroads into those customer segments. And clearly other people will watch those customers and gain strength from those and start to converge.</p>
+          <p>So across the board, I think I'm very positive about the potential and prospect of each of these business lines. Again, and as Patrick said and Jonathan said, we can't actually comment on when these things will materialize from a quarterly basis. But again, we remain convinced that this is a good long-term trend.</p>
+          <p>Does that gave you enough flavor, Mary?</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thank you. Thank you very much, Nikesh and Patrick. Maria -</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Thank you. We'll go to the next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Sorry, Mary, we'll go to the next question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>I apologize. We're going to take William Morrison from ThinkEquity.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Hi. Just a couple quick modeling questions, Patrick. How should we be thinking about tax rate in 2010, and then on CapEx, before the recession, you guys were kind of consistently spending low teens, somewhere in the low teens, as a percent of revenue and CapEx, and that came way down last year. Curious, should we be expecting CapEx to ramp back up to 10% plus of revenue, or any commentary around CapEx?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Okay, so William, thanks for your question. All right, look, the usual suspects continue to be OI&amp;E, CapEx, and tax rate. And this quarter is no different than the prior quarters.</p>
+          <p>So just to give a bit of color quickly on each, tax rate has been quite stable through the year, and so there's &#x2013; I mean, the big issue that we focus on the tax rate, because it gets affected by mix and a few other things. But the real fundamental issue is legislation for us, rather than this quarter or next quarter. So I think that there's nothing in our tax rate that is affecting it more if you think in the long term than any of these big legislations. And that's why we're focused on them, because I think it is really important for the U.S. economy and for U.S. companies that are participating internationally to get this right, because there's so many jobs in the U.S. associated with them. So that's on the tax side.</p>
+          <p>On CapEx, I mean, sometimes people say, "Patrick, you say this too often," but it's true. I'm really pleased with our CapEx numbers, right? I think that it's &#x2013; we are ramping back up. We're ramping back up at a much lower level than what has been historically, but we are ramping back up. And every opportunity that we have to make sure that we need capacity or we need CapEx, we will fund everything fully. We've been really fortunate in 2009 that we've had a couple of good breaks in terms of capacity utilization, a bunch of chip sets that worked really well in our favor in terms of performance, as we discussed before, and all of this, I mean, we just brought right to the bottom line. That's fantastic to us and our shareholders, and we're continuing to monitor that very closely. So that level &#x2013; what you should take away is we're going to continue the level of discipline.</p>
+          <p>If you'll allow me to close on OI&amp;E, again, a big variability quarter over quarter, so everybody who has their crystal ball on both the variability of FX, as well as just variability in general between FX exchange rates. And it drives so much of our FAS 133 that you see the big swing this quarter yet once again, but in the other direction. And it was also, you will remember I said in the previous call that we had taken so much accelerated write-offs of our previous hedges portfolio that we had so much of it written off that at some point you get some benefit in the short term. So that's what happened.</p>
+          <p>And then also, people should note that we have started moving off, as we had discussed in the previous quarters. We'd been so focused during the crisis of late 2008 or early 2009 of cash preservation to make sure that we do not put at risk the cash that we had accumulated. And then over the last couple quarters, we've begun the transition to a more balanced portfolio. So you're also seeing the proper kind of ramp up in yields there as well.</p>
+          <p>So these are the big-ticket items that usually fluctuate or you have questions on the P&amp;L. So I'm glad you asked the question, William, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thanks. Could we take our next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from James Mitchell from Goldman Sachs.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thank you for taking another question. I believe you mentioned on the fourth quarter 2008 results call that the quarter was, quote, "one of our strongest ad quality improvement," whereas on the call just now you mentioned that the quality launches are more modest in terms of impact on monetization. Is it fair to infer that fourth quarter 2008 revenue benefited more from ad quality initiatives versus fourth quarter 2009 revenue?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>That's a pretty hard question to fully parse without my actually going back and digging into the data. It is consistently the case that we freeze quality improvements after Thanksgiving, so I'd have to actually look at what the exact improvements were and when they occurred intraquarter, comparing Q4 this quarter to Q4 last quarter, and without actually having that in front of me, it's pretty hard to say.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay -</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Can we take our next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Mark Mahaney from Citigroup.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Thanks. There was a recent deal with Twitter in terms of live feeds, and Jonathan, you mentioned your own anecdotal experiment or uses of it. Can you make any broad comments about what kind of impact that you think that that's had on overall usage? Have you found any levels of greater engagement because of the inclusion of real-time Twitter results in your overall search results, anything in terms of click-through rates, length of time, number of searches, anything like that? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I'm not sure I have any great data to offer you there. The sets of things that we're now incorporating into the real-time search are Tweets, blogs, news. We certainly see those dynamics when you have something that is very interesting like an earthquake. So the feature we think is certainly performing well and it's giving people better quality results much more expeditiously than they previously had. But what the overall impact is across search and each of the other metrics, I think it's still too early to say.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Well, I think it is worth saying that in the last &#x2013; again, if you go back in the last six to nine months, people tend &#x2013; the thing that continues to amaze me on the search side is how people almost take it for granted that search works. And when you look at the last six to nine months, like real time search introduction, which was really done in the second half this year, the complete overhaul of the Caffeine, so that from a speed perspective, and tying it all back again to the mobile &#x2013; I mean, it is amazing the kind of searches you can do right now, just typing a few words that even six months ago you wouldn't have dreamed of doing.</p>
+          <p>So from that perspective I think that it was really important to us to get real-time search up and running because there are a lot of types of information that people want on a kind of actual basis because it just happened, and having these feeds, right, provides so much value. So in that sense I think that there's no doubt that they're having an impact.</p>
+          <p>Now for the &#x2013; we haven't &#x2013; the issue is we haven't &#x2013; Mark, we haven't asked the economics team that actually can run these models, give me a sample and then do an experiment and then &#x2013; so it's a good question to ask, but there's no doubt that it's clearly improved the experience.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Can I ask also a quick question on China? Is there a solution here whereby you can stay committed to China in the future and not censor search results? Is there some sort of workaround on that?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Now, look. The team is working on this, and I think it's really important that &#x2013; if we want to &#x2013; it's really important we stick to Eric's comments of earlier this afternoon, so I'd just refer you back to his comments.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay, thanks. Could we take next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Ben Schachter from Broadpoint AmTech.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Patrick, I have a couple of sort of housekeeping modeling questions, and then Jonathan, one for you. On the housekeeping front, can you give us some specifics on how you're accounting for Nexus One products being sold? So are you taking inventory? How do they go through the P&amp;L? And then also on gross margin, it's obviously trending up significantly from lower CapEx. Is there anything that's going to offset that anytime soon?</p>
+          <p>And then, Jonathan, if you could, CPA product ads, I know it's still early stages here, but how widespread are they, where are we in the rollout of that product, and general thoughts on the product? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>All right. So let me start with the specific of Nexus One. The Nexus One &#x2013; I mean, we have partnerships, as you know, with T-Mobile with that specific handset right now. We &#x2013; actually we book them to other revenue, so the revenue comes as other revenue, and we recognize a full $529 per device upfront. So &#x2013; and it's tied into the licensing and other set of revenue, and then &#x2013; and that's regardless if it's an unlocked phone or a T-Mobile phone. And then, in terms of the gross margin &#x2013; sorry, the costs obviously go to other costs.</p>
+          <p>And if &#x2013; and on the gross margin, I think that the thing that &#x2013; you've noticed properly that over the last few quarters, not only did CapEx run well, but because CapEx ran well, also our data center expenses as we continue to kind of push for efficiencies, we've got some benefits out of that as well. And again, can't push forward to give you any details on the future, but you should take comfort that we're actually really managing these efficiencies quite well right now.</p>
+          <p>There was one last point, Ben, that you talked about on the Nexuses. On the inventory side, right, it's really immaterial to us. I mean, it's inconsequential. So we don't have a big exposure, neither on inventory and clearly not on margin. So I'll turn it over to Jonathan.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah, hi, Ben. The product ads, I think, are still occurring on a relatively small portion of the queries. I was trying to come up with an example here. And it took me a couple of tries; "jogging strollers," if you type into Google, will show you one, but I think it's a small portion of the queries. It's certainly &#x2013; there's certainly a lot of interest from the advertisers. We started by focusing on the larger retailers, and it was just a relatively small number of them, but it's a great ad experience for users, because you see the pictures, you see the prices, it gives users a lot more information to help them decide which product to buy. So I'm very excited about the form, but I think right now it's still in pretty nascent stages in terms of the number of participants and the degree to which it shows itself in the results.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Great. Can we have our next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Justin Post from Merrill Lynch.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Yeah, I just wanted to talk about the CapEx efficiencies. Really been able to pull back your CapEx budget, and just going forward, do you think you can still see a lot of efficiencies, or do you think you just kind of need a ramp-up as you see growth kind of reaccelerating? What's your view on that?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>It's a tough answer to give for the following reason &#x2013; and I don't want to be evasive here. But here's the real issue, is you &#x2013; because Google as you know does its own data centers, and most of its equipment is built and designed by ourselves, all you need is by pushing hard on the limits of this equipment and working really hard to make sure we get good performance, you get a couple of good breaks. And as you see in the last 12 months, you get a really nice break from a CapEx perspective.</p>
+          <p>And in the future, we're obviously pushing the team for utilization and design to make sure that we get as many of those as possible. What's the beta on that? It's pretty high, but every time you get one, right, you get a lot of value, and you have at least some evidence that we're pretty good at it. So there lies the tension that I have, Justin, with &#x2013; because I'm not just assembling stuff that's off-the-shelf from regular products that I can give you the exact forecast and then life goes on, it's much more difficult to actually answer your question.</p>
+          <p>Having said that, there's no doubt, as you can see in the last 12 months the level of commitment that we have in making sure that we're going to be capital efficient. And on the flip side of that, if we ever needed to actually ramp up our CapEx for whatever reason, we're ready to pounce as well. So that's the balance we're trying to strive.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Great, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Great. Can we take our next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Brian Pitz from UBS.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Great, thanks. Just quickly regarding China, I know what you guys have said on it so far, but help us think about something for a second. If you in fact made the decision to leave this market, do you think you would still operate your AdSense and/or apps businesses, which are pretty much unrelated to censorship in the region? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah, I think again, I'm going to ask everybody to be patient over the coming weeks as we're working through the resolution of this issue. I think that Eric was quite eloquent in what he tried to kind of communicate with the market. The blog post was very clear as to the objectives we have, and Eric was quite eloquent in trying to &#x2013; so I just &#x2013; I would circle back to his answers. And just &#x2013; in a way, work with us as we have over the coming weeks, you can imagine that we're working really hard at this. And as soon as we have more information, we'll let you know.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay, could we take one more question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And we'll take our next question from Spencer Wang from Credit Suisse.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Thanks for squeezing me in. I was just wondering, if we look at the international markets, was wondering, as you guys have wrapped up 2009, in 2010, which geographies do you think you have the most opportunity to gain incremental share in search? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>In search, I think the answer &#x2013; share in search, the answer is yes. I mean, you'd expect to have, in every area, with the kind of product rollouts that we have and the focus that we have, I wouldn't say that we are favoring one market versus another to actually push.</p>
+          <p>I mean, there's clearly &#x2013; the world is really divided into kind of three sets of markets, as Nikesh always pointed out, right? You have the very mature market of the U.S. and the UK, then you have the next tier of kind of somewhat mature markets but with a lot of headroom, which is the kind of big European countries, Japan, and all the kind of industrialized countries of that nature. And then you have all of these other emerging economies that actually are very promising, very different CPC, but very promising.</p>
+          <p>And we have a balanced set of approaches for each of them because they're just so different in terms of where they are. And that's why &#x2013; even the marketing is different for each of them because of their different circumstances. So our objective is to continue to actually increase our share of search by having the right both kind of total global products but also pushing on localization with languages and everything else that you hear from us.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Great. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Maria, I'll let &#x2013; oh, so why don't I close? I want to, Mary, it's funny, as &#x2013; or somebody else; I think it was Mary &#x2013; that talked about we feel optimistic about 2010. I think that we have had a &#x2013; I mean, we're very optimistic for the reason that we see great trajectories from our 2009. I think Eric said it very well. 2009 was a real year of testing. We tend to forget how fast 12 months has passed, but I mean, the roller coaster that we went through over Q1, Q2, Q3, and Q4 of this year, we're delighted to see the recovery in terms of our kind of &#x2013; if you think of the growth rates, the performance of the business, and the innovation that we drove through 2009. So from that perspective, that's why the company feels confident about not only 2010, but its long-term prospects in all these areas.</p>
+          <p>So with that, I'd like to thank everybody for your great questions, and I look forward to seeing you at the end of Q1. Have a happy new year, everyone. Cheers. I'll leave Connie &#x2013; is it Connie? &#x2013; to close the call.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. And this concludes today's conference. We thank you for your participation.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

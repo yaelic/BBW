@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1168888" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q2 2008 Earnings Call</title>
+    <date>2008-07-21</date>
+    <companies>
+      <company>508</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Ron Slaymaker, Vice President and Manager of Investor Relations</participant>
+      <participant id="2" type="corprep">Kevin March, Senior Vice President and Chief Financial Officer</participant>
+      <participant id="3">John Pitzer</participant>
+      <participant id="4">Kevin March</participant>
+      <participant id="5">Ron Slaymaker</participant>
+      <participant id="6">James Covello</participant>
+      <participant id="7">Uche Orji</participant>
+      <participant id="8">Christopher Danely</participant>
+      <participant id="9">Cody Acree</participant>
+      <participant id="10">Glen Yeung</participant>
+      <participant id="11">Srini Pajjuri</participant>
+      <participant id="12">David Wong</participant>
+      <participant id="13">Tristan Gerra</participant>
+      <participant id="14">Ross Seymore</participant>
+      <participant id="15">David Wu</participant>
+      <participant id="16">John Lau</participant>
+      <participant id="17">Sumit Dhanda</participant>
+      <participant id="18">Tim Luke</participant>
+      <participant id="19">Krishna Shankar</participant>
+      <participant id="20">J. Steven Smigie</participant>
+      <participant id="21">JoAnne Feeney</participant>
+      <participant id="22">Michael McConnell</participant>
+      <participant id="23">Tore Svanberg</participant>
+      <participant id="24">Doug Freedman</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good afternoon. My name is John, and I will be your conference operator today. At this time, I would like to welcome everyone to the Texas Instruments Second Quarter 2008 Earnings Conference Call. <mark type="Operator Instructions" /> Thank you.</p>
+          <p>Mr. Ron Slaymaker, you may begin your conference.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Good afternoon, and thank you for joining our second quarter 2008 earnings conference call. Kevin March, TI's Chief Financial Officer, is with me today. For any of you who missed the release, you can find it on our website at ti.com/ir. This call is being broadcast live over the web and can be accessed through TI's website. A replay will be available through the web.</p>
+          <p>This call will include forward-looking statements that involve risk factors that could cause TI's results to differ materially from management's current expectations. We encourage you to review the Safe Harbor statement contained in the earnings release published today, as well as TI's most recent SEC filings, for a complete description.</p>
+          <p>Our mid-quarter update to our outlook is scheduled this quarter for September 9. We expect to narrow or adjust the revenue and earnings guidance ranges as appropriate with this update.</p>
+          <p>In this call, all of our financial results will be described for continuing operations, including historical comparisons, unless otherwise indicated. In today's call we'll address key questions such as what is driving the continued weak demand, why revenue and earnings were in the lower half of the ranges that we recently provided at our mid-quarter update. Also we'll discuss why our inventory continued to increase this quarter, despite our earlier projections that it would decline.</p>
+          <p>At the top level, we believe the second quarter's result illustrate the significance of the opportunities that we're addressing in Analog and Embedded Processing. Revenue in both of these areas grew sequentially and was up 10% from the year-ago quarter. At the same time, we had some disappointments. Notably, results landed in the lower half of our range of expectations. This was mostly the result of distributors not replenishing inventory to the level that we had expected. You'll recall at the mid-quarter update, we said we expected that our sales into distributors and their re-sales of TI products would both be up a little and that distributor inventory would remain about even. In fact, re-sales ended the quarter a little stronger than we had projected, while our sales into the channel declined as distributors reduced inventory. The end result was that our revenue tracked below our expectations in June.</p>
+          <p>Let's look at it by product category. Analog revenue was $1.29 billion in the quarter, up 10% from a year ago and up 2% from the first quarter. In both comparisons, high-performance analog was the driver of growth.</p>
+          <p>Embedded Processing revenue of $436 million was up 10% from a year ago and was up 4% from the prior quarter. Catalog DSP and microcontroller product were the primary drivers of growth in both comparisons, although communications infrastructure also contributed solid growth.</p>
+          <p>Wireless revenue of $903 million declined 12% from a year ago and was down 2% sequentially. Baseband product were the reason for these declines.</p>
+          <p>Other revenue of $720 million declined 14% from a year ago. Most of these product lines were down over this period, although I should remind you the decline also included the impact of the sale of a DSL product line in July of last year. Sequentially, Other revenue grew 8%, driven by the seasonality of graphing calculator sales, which more than offset weakness in RISC microprocessors.</p>
+          <p>On our website, you can find some additional historical revenue data by the new categories. We've included revenue by quarter beginning with the first quarter of 2007.</p>
+          <p>At this point, I'll ask Kevin to review profitability and our outlook.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks, Ron, and good afternoon, everyone. Gross profit was $1.75 billion in the quarter or 52.2% of revenue. Gross profit was down 35 million from a year ago due to lower revenue. Gross profit was about even with the first quarter, although normally it would have been expected to be up, given the higher revenue level.</p>
+          <p>The shortfall was due to a number of factors that drove manufacturing costs higher, such as decreased absorption of fixed costs, as a result of a lower factory utilization levels that resulted from our reductions in wafer starts in the quarter.</p>
+          <p>Manufacturing costs were also impacted by expenses associated with converting capacity at our DMOS 5 wafer fab from digital to analog, higher costs on commodity raw materials such as gold, and the rate of exchange impact on expenses such as labor in regions where we compensate in currencies other than U.S. dollars.</p>
+          <p>In addition, we continue to incur expenses associated with transferring equipment from our shuttered KFAB factory to increased capacity at analog wafer fabs around the world. Although none of these items individually was particularly significant, the cumulative effect was noticeable.</p>
+          <p>Operating expenses were down 6% from a year ago and 3% from the prior quarter. Lower R&amp;D expense was the biggest factor in both comparisons. As a result, operating profit for the quarter was $833 million, up 24 million from a year ago and up 26 million sequentially.</p>
+          <p>Other income and expense declined to $17 million due to a combination of lower interest income and lower earnings from investments. Income from continuing operations was $588 million, or $0.44 per share. I'll leave most of the cash flow and balance sheet items for you to review in the release. However, let me make just a few comments.</p>
+          <p>Cash flow from operations was $520 million in the quarter, and we ended the quarter with $1.65 billion in total cash. We also continued our share repurchases, using $433 million to buy back 14.1 million shares of TI common stock, and paid dividends of $132 million in the quarter.</p>
+          <p>Inventory of $1.65 billion at the end of the quarter increased $227 million from a year ago and $73 million from the prior quarter. Inventory days declined to 93 from 94 last quarter. The increase in inventory was primarily due to higher manufacturing costs, as I previously discussed, and the lower-than-expected revenue in the quarter.</p>
+          <p>Although we reduced wafer starts throughout the quarter, work in process continued to build, as previously loaded wafers moved through the production lines and as other manufacturing costs increased.</p>
+          <p>In addition, about a third of the inventory increase was built to support the upcoming back-to-school season for our Education Technology business.</p>
+          <p>TI orders in the quarter were $3.46 billion, about even with the year-ago quarter and an increase of $143 million or 4% from the prior quarter.</p>
+          <p>Turning to our outlook for the third quarter, we continue to remain cautious relative to our guidance and our internal operating plans, given the changing demand environment and the overall uncertain economic environment.</p>
+          <p>We expect that &#x2013; total TI revenue in the range of 3.26 billion to $3.54 billion. Earnings per share are expected to be the range of 0.41 to $0.47.</p>
+          <p>To summarize, we're encouraged with our progress in Analog and Embedded Processing. We believe these areas will become the primary drivers of TI's financial performance in the years ahead and offer significant revenue and profit growth opportunities for TI.</p>
+          <p>At the same time, the broader economic environment and its impact on near-term demand have our attention. As a result, we will continue to be cautious in our operating plans and our forecasts until we have a better clarity on demand.</p>
+          <p>With that, let me turn it back to Ron.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks, Kevin. Operator, you can now open the lines up for questions. In order to provide as many of you as possible an opportunity to ask your questions, please limit yourself to a single question. After our response, we will provide you an opportunity for an additional follow-up.</p>
+          <p>Operator?</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" /> And your first question comes from the line of John Pitzer with Credit Suisse.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Yeah, good afternoon, guys. Thanks for taking my question. Just a couple questions here. When you look into the September quarter, can you give us a sense of what kind of gross margins we should be expecting and how much of the margins in the quarter are going to be negatively impacted by sort of utilization rates coming down in order to control inventory?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>John, we won't be forecasting gross margins specifically, but I'll give you some other numbers to kind of work with. We've already given the range on revenue and earnings per share. I should mention that we still expect our R&amp;D to be about $2 billion for the year and our depreciation to be about $1 billion for the year, with CapEx continuing to be about 900 million for the year.</p>
+          <p>So you can work into the math there what that may cost on how you model our revenue expectation. But with the continued efforts to reduce our overall inventory, we continue to expect the wafer fabs to be less than ideally loaded. And so that will put some pressure on our gross margin moving forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Do you have a follow-up, John?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Yes, just quickly. Any targets for inventory exiting the September quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>No targets specifically. I would note that the inventory that we just left the second quarter with was higher than desired, roughly in the 100 to $150 million kind of range. We do build our inventory and expectation of what we expect our next quarter's revenues to be. And consequently with our revenue expectation cautious right now, we have more inventory than we desire to support that revenue expectation at present.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Okay, John, thank you for your questions. Let's move to the next caller.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from the line of Jim Covello with Goldman Sachs.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Hi, thanks so much for taking the question. Kind of a follow-up to John's question, or along similar lines. You'd commented the last couple of quarters that you didn't want to cut production too aggressively for fear that you could get caught with a shortage if demand snapped back. I mean, I didn't hear that on this call. Are we kind of beyond that point and to the point where you just have to be more aggressive in cutting utilization and managing the inventories down?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah, Jim, what we talked about last quarter when we came out with the first quarter earnings results was that we would spend the next two or three quarters working the inventory down in a measured manner.</p>
+          <p>Frankly speaking, we had anticipated having the quarter lower than what it just closed out. The fact of the matter is, it was higher and it was higher really for a couple of reasons. One was the increase in manufacturing costs that I mentioned earlier that we actually saw roll through to the P&amp;L in the quarter. And that's continuing to roll through into our inventory.</p>
+          <p>And the other was that, as Ron mentioned during the call, distribution customers chose to reduce their inventories more than we expected late in the quarter, and consequently our revenue came in below where we thought it would be at, leaving us with more inventory than we expected. So we will continue to work down the inventory over the next couple of quarters, along the lines that we mentioned earlier.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Do you have a follow-on Jim?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Yeah, I guess a lot of the questions that we're asking here are focused on your internal production. How about the external production in terms of wafer start requirements to the foundries, for the Wireless business?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Well, as we mentioned during the last release, we had pulled back the loadings in the foundries at that point in time to begin to bring those inventories down. Because you may recall that we had late demand reductions at the end of the first quarter in the Wireless space. We've progressed on that front and have loaded the foundries in order to support our expectation for revenue in the third quarter now.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Okay, Jim, thanks for your questions. Let's move to the next caller.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from Uche Orji with UBS.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Hi, Uche.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Just very quickly, if I look at your Q3 guidance, how should I expect that to &#x2013; break that out between Wireless, Analog, and Embedded? Is it fair to assume that Wireless will be flattish to down in Q3?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Uche, we don't break our outlook down below the level that we've provided, which is TI. I think you can probably look at the quarter we just reported and note that Wireless was certainly unseasonably weak in the second quarter. In fact, it was unseasonably weak in the first quarter as well. But we don't specifically break our outlook down into various product lines.</p>
+          <p>Did you have a follow-on, Uche?</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Yes, I do. If I look at this current quarter, can you just give me some more insight as to what happened to mix within Wireless? Specifically, how much of the sales this quarter was 3G and how much was OMAP, if possible? And any comments on  ASV business units? That'd be helpful. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Okay. Uche, I can &#x2013; and when you're saying "this quarter," I assume you're referring to the quarter we just reported, second quarter.</p>
+          <p>What color I can provide is that &#x2013; actually very similar in terms of mix as to what we even said we expected at the mid-quarter, in that 3G rebounded somewhat from the very low level that we had in first quarter. And the only point I'll make on that was consider that first quarter was very weak specific to 3G.</p>
+          <p>And then the more legacy products, the GSM, GPRS, and probably EDGE, if you just take those in combination, were the areas that declined both sequentially as well as year-on-year.</p>
+          <p>So again, mix improvement in terms of stronger 3G sales in both comparisons, but at the same time, weaker legacy product sales in both comparisons as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Okay, Uche, thank you for your questions. Let's move to the next caller.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from Chris Danely with JPMorgan.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Hey Kevin, you said your outlook remains cautious, but I think on the last call you said you expect utilization rates and inventory to trend down throughout the end of the year. So can we assume that there's going to be a big slowdown in utilization rates and inventory in Q3? Or should that spill into Q4, like you guys talked about last quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah, Chris, we expect the utilization to continue to decline in a measured way, if you will, again over the next quarter or so. Fourth quarter is little bit too far out to call just yet. In fact, it did decline a fair amount in second quarter as well. And it began a decline in first quarter, although it was fairly modest by the time that happened.</p>
+          <p>And again, recall that what drove our inventory increase this quarter, roughly a third of that, was Education Technology, which has a seasonal build for the calculator sales, and about a third of that was due to cost growth that we're seeing, and then roughly the remaining third was due to the fact that the distribution customers chose to reduce their inventories unexpectedly in the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay, thanks. And then as a follow-up, in terms of the guidance, your leading customer seem to give fairly positive Wireless trend guidance. And you guys seem little more cautions than that.</p>
+          <p>So can you just give us any hints as to what's going on out there? Is it pricing? Is it share loss? Is it you expected Motorola to come through in the second half and they're going to sleep? Can you just give us a little insight there?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Chris, I probably can in terms of the second-quarter performance, maybe more so than the outlook, as I previously discussed.</p>
+          <p>But I think if you look at the quarter we just reported and the decline in Wireless revenue, which we'll note certainly was below seasonal. You heard from our largest customer, Nokia, last week. I think our shipments and our revenue, our business levels with Nokia, were fully consistent with what you heard from that customer. However, Nokia's not our only customer, and I would just say possibly &#x2013; or most likely &#x2013; the customers did not fare as well as Nokia in terms of sales of their own product.</p>
+          <p>As far as share, probably the one caveat I would say is that we've discussed the loss of the 3G program at Ericsson Mobile Platforms. That, as we've said before, we expect to decline until it bottoms out, oh, call it roughly the end of this year, stabilize for about a year before growth returns there on the next-generation program that we've won. But that would probably be the one case in terms of a program where there's a share loss consideration for TI.</p>
+          <p>Outside of that one program, we believe that our share is stable at those various customers and our results really are reflecting the variant performance levels of our customers in their marketplace. Okay, and that's probably about all I can really add in terms of color there, Chris.</p>
+          <p>Why don't we move on to the next caller, and thanks for your questions, Chris.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from Cody Acree with Stifel Nicolaus.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Maybe, guys, you can talk about the order trends in the Wireless. You said orders picked up I think maybe DSP versus Wireless, order trends picking up. And if you can make any comments of the makeup of those orders in the distribution channel, assuming those aren't through your OEMs? R2 Wireless.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Cody, I think you're right. There may be some distribution support of Wireless, but for the most part the comments we're talking about distribution are much more broadly based than in any particular end segment. I don't know that we made comments on distributor orders previously, but what I can say is distributor orders did increase in the quarter. Our backlog with distributors increased in the quarter. In fact, our book-to-bill with distributors is probably at the highest level it's been in a year. We saw, as we described already, re-sales increase at distributors even more than what we were expecting back in early June.</p>
+          <p>So, everything at distribution sounded good, with the exception of our revenue went down as they reduced inventory. And so I don't have a lot of insight as to exactly why they chose to reduce inventory, other than the observation that in fact they did, and that represents the gap in what we were expecting in early June and what we actually closed out the quarter.</p>
+          <p>Do you have a follow-on, Cody?</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Yeah, I do. I guess the question, then, is what's in that distribution inventory that they are cutting back? Is it kind of catalog Analog? Is it the high-performance analog? Where's the makeup?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Cody, best I can tell at this point is it was pretty broad-based. So it wasn't specific to any particular product area in terms of focus or concentration, it was pretty broad-based.</p>
+          <p>And just as a reminder, distribution represents about 30% of our revenue. It would be predominantly products such as the catalog DSP and microcontroller products, the high-performance analog products, and the standard logic products. Those are the type of products that we moved. I can't say it's totally uniform in terms of their inventory actions across those areas, but neither was it concentrated in any single product area.</p>
+          <p>Okay, Cody, thanks for your questions. Let's move to next caller.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from Glen Yeung with Citi.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thanks. Ron, you make a point that your June month saw a slowdown. What's your sense as to how July has been, and are you getting any indications from your customers on direction?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Glen, probably the best I can say is it's very consistent with the guidance that we're giving. And so the guidance has the range, but generally if you look at the middle of the guidance that we're issuing, it would be flattest in terms of semiconductor. And what we've seen thus far in the month of July would be consistent with that type of outlook. Nothing that we've seen in July is causing us to question whether that guidance should be moved one direction or the other.</p>
+          <p>Do you have a follow-on, Glen?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yeah, and maybe is for you, Kevin. To the extent that this is a downturn that last a long time here, is there room for you to cut costs, both on the OpEx side &#x2013; particularly given that you haven't lowered that number for this year &#x2013; and also on the gross margin side? Is there still a room here for you to tighten up the model a little bit?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Glen, there's always room for us to continue to improve. Let me start with the gross side. The biggest benefits that we have still coming to us on the gross side is the increase of Analog as a percentage of our total mix, especially high-performance analog, which as you know, delivers very generous gross profit margins. And so as we see that mix continue to change and become proportionately larger over time, that will give us a boost. As well as, we expect to see depreciation continuing to be modest, if not even going down a little bit.</p>
+          <p>For the last couple of years, our CapEx has been &#x2013; last year and this year, CapEx running below our depreciation. And so it's only natural to assume that depreciation will continue to moderate. In fact, if you look over the last four quarters or so, depreciation's been running &#x2013; if you add the last four quarters' worth of revenue &#x2013; depreciation's run about 7% of that, and CapEx has run about 6% of that. So that gives us a bit more head room also on the gross line.</p>
+          <p>On the OpEx line, as we see certain markets changing, we will clearly make the changes consistent with the timing of those market changes. And that'll be &#x2013; speaking like of large programs or large markets that may be shifting, where we'll shift resources accordingly or invest in those areas accordingly. So I would expect that the OpEx lines will reflect the changes that we see and a fairly close timing to any outlook that we have for the respective businesses and the changes for their futures.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Okay. Thank you, Glen. Let's move to the next caller, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from Srini Pajjuri with Merrill Lynch.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thank you. Kevin, the inventory, I'm just curious as to what's in that inventory? And as I look out to the next few quarters, I'm just trying to evaluate the risk of any potential write-downs here?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Srini, the inventory on the custom side is pretty tightly managed. In fact, our biggest custom exposures on the Wireless side that you may recall &#x2013; and we, in fact, worked quite hard during the second quarter to bring that more in line with our customer demands there. So our view as there is very little risk to the value of the custom inventory. The catalog inventory tends to have very long shelf life.</p>
+          <p>So the only risk there is the timing at which that inventory will sell. It tends to not be too at-risk from a price standpoint. It tends to be just a question of when it will actually sell. So we do not foresee inventory valuation risks at our current levels.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Do you have follow-on, Srini?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Yes, and Kevin, for you again, just a follow-up to the previous question. I mean obviously the business has been weak for the past few quarters. But it looks like you're sticking to your expense and depreciation forecast. I'm just wondering at what point would you say, "Okay, we're going to take another look at R&amp;D and SG&amp;A expenses here and maybe resize business the a bit." Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Srini, we talked about in the past what we would do if it turns out that we're dealing with a softer overall business climate than I think people are hoping for it. And really what we would do is take advantage of the position that we have, both from a cash position as well as market position. In other words, from a cash standpoint, if we did see continuing softening going on, we'd probably take the opportunity to go ahead and try to continue to acquire used manufacturing equipment that we can get much cheaper in an environment like you're describing.</p>
+          <p>And from a overall market standpoint, we'll continue to deploy a sizeable sales force to sell to as many of our competitors' customers as well as our own customers as possible. So we'll continue to be fairly aggressive in our approach to the market. Now that being said, of course, we won't have our head in sand. We will be paying attention to costs and where it makes sense for costs to be removed, again consistent with changing fortunes for the businesses that we may be in. We'll go ahead and make those adjustments. But right now, I don't have anything specific to predict for you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>But Srini, let me also just remind you, our OpEx in the quarter we just reported is down 6% from the year-ago quarter. So, in fact those changes are ahead of revenue. Revenue was down 2% over that same period.</p>
+          <p>Okay, Srini, thank you for your questions. Let's move to the next caller.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question is from David Wong with Wachovia.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>&#x2013; much. Just a clarification of your answer to Glen's question. So have you seen orders weakening since the end of the June quarter? And is your current run rate at a book-to-bill of 1 or is it below 1?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Oh, David. I don't know that in terms of book-to-bill looking at it on a weekly basis is meaningful. What I can say is that orders in the month of June declined from what they had been running previously. And you might expect that just by nature of a lot of the distributor business that did not occur was in the form of turns business that we had expected to occur. So, with that turns business turning down, or those orders not coming in place &#x2013; just as the revenue turned down from our expectations, the orders turned down as well.</p>
+          <p>All I'm trying &#x2013; in response to Glen's question, I was not indicating a trend for the month of the June, other than saying, the orders that &#x2013; or I'm sorry, for the month of July. Other than saying what we are seeing thus far in the month of July is fully consistent with the guidance that we gave. And the guidance that we gave at the middle of that range would be flattish with what we saw in the June quarter. But I'm not trying to provide at this point the first three weeks of July trended direction X or direction Y.</p>
+          <p>Do you have a follow-on, David?</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Yeah. Thanks. Further on that sort of general idea then. You're basically cautious on September. Are there any segments that seem to be weaker than others, or is your caution broad brush, across the board?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>David, I guess I would just say, similar to what we've said before, that we're not breaking the guidance out by individual product lines. Probably the best we could say is, look at the quarter's result that we just reported, what was weak, what was stronger, and make assessments that you might on the third quarter based on that. But we won't break our caution or our enthusiasm down into individual product areas.</p>
+          <p>Okay, David, thanks for your questions. Let's speak to the next caller.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question is from Tristan Gerra with Robert Baird.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>You mentioned that your market share was stable outside of TNT in Wireless. Would you have the same comments for Analog? And specifically are you seeing anything abnormal in terms of pricing or competitive action, including in PCs into the second half?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>And again, you're saying broader Analog, not analog in the handsets. Is that correct, Tristan?</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>That's correct.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah. I don't know that &#x2013; to be honest, at this point. we've seen none of our competitors' report, so it's really difficult for us to make an assessment of, did we hold share or did we gain share in the Analog overall? So I don't think we're aware of any significant moves that would indicate a share issue.</p>
+          <p>And again, if you look at our year-on-year growth in Analog, it was up 10%. You probably have an assessment, but I don't know that we believe the Analog market is tracking up 10% this year. So I would say the longer-term trends are what you've seen in the past in terms of share gains for Texas Instruments in Analog. But again, I don't have any specific data from competitors at this point to provide much substance behind that speculation.</p>
+          <p>Do you have a follow-on, Tristan?</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Just a quick one. What's your inventory in weeks at distribution currently?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>It's generally tracking between eight and nine weeks, as it has been over the last year. What I would say is it's moved toward the lower end of that range with the action that they took in the month of June. But generally it's been tracking eight to nine week and at the low end of that range currently.</p>
+          <p>Okay, Tristan. Thanks for your questions. Let's move to the next caller, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question is from Ross Seymore with Deutsche Bank.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Hi, guys. Just a question again on the DSP side of things. What are your expectations for your DSP business heading into the third quarter, either on sell-in, sell-through or whatever metrics you can provide?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Ross, we don't have that level of detail to provide on the outlook. What I would say is given they're running on the lean side of their historical trends in inventory, if their re-sales pick up, likely they will need to move inventory in the same direction. But we're not guiding specific to our DSP expectations.</p>
+          <p>Do have a follow-on?</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>I guess the follow-on would be kind of the inventory impact of all that. Even if I back <mark type="audio gap" /></p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Operator, it sounds like we lost Ross. So, if &#x2013; Ross, if you come back into the queue, we'll try to let you in. Otherwise, let's go ahead and move to the next caller, operator.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And the next question is from David Wu with Global Crown Capital.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Yes. Ron, can you help me on this thing? Because when I look at the products that were strong in the second quarter, they were all distributor-related. And yet you had a revenue shortfall in the sell-in basis in the month of June. And I was trying to reconcile why was June so bad and yet the stuff that were good were all &#x2013; goes through distribution in the quarter ended in June?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>That's an interesting observation. And all I can say, David, is that what that translates to is back in early June, clearly we had expected those various areas to do even better than they had. And at least on a re-sale basis, in fact they did. But again we got caught up in some distributor inventory actions even in those high-growth areas.</p>
+          <p>Do you have a follow-on, David?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Yeah. If we finished our inventory balancing act by the end of this calendar year, based on the trends we've seen thus far, do you think that gross margin won't be sequentially year-to-year higher as we go into '09, because both depreciation will be down and also your mix should be richer?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>David, I agree with your assessment that, because we are in an inventory adjusting phase and therefore under-loaded in the factories, presuming that in fact we do see some reasonable upward movement in revenue growth next year, then clearly we will have tailwinds on mix, depreciation, and utilization.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Okay, David, thanks for your questions. Let's move to the next caller.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question is from John Lau with Jefferies &amp; Company.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Great. Thank you, Ron. I may have missed it, but just to recap on the flex manufacturing model, you indicated that the utilization internally has gone down, but the outsourcing was supposed to buffer that. Is the internal loading down-tick more of a mix issue? And I guess the bigger question is, how much flex can you manage with the mix constraints that you have? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah, John, the load-ins with the foundries are primarily on the advanced CMOS or digital wafers. And in fact that is where we have flexed our loadings up and down. Our internal loadings in those internal capacities have actually remained quite well utilized throughout this period. It's on the Analog side; the Analog loadings are the ones that we've adjusted a bit more to accommodate these changes in demands.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>And, John, just as a reminder, so where we use foundries is primarily in those advanced logic areas. Almost all of our Analog production is done in house at TI as opposed to a combination of TI and foundry partners.</p>
+          <p>Did you have a follow-on, John?</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Yeah, I did. With that clarification &#x2013; thank you &#x2013; with the digital stable. What is the overall utilization rate that you have internally now? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>John, we don't publish our utilization rate. I'll just &#x2013; suffice it to say that it has been down for a couple of quarters now, as we have pulled back on our factory starts in order to begin to work our inventories back to a more desirable level.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Okay, John. Thank you for your questions. And operator, let's move to the next caller.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And the next question is form Sumit Dhanda of Banc of America Securities.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Yes, hi. Kevin or Ron, I'm having a little trouble reconciling your outlook for the September quarter, which is barely up on a semiconductor-only basis. And I guess my issue is, given that your inventories are ostensibly not at the low end of the range, within the distribution channel, why guide so far below what would be your seasonal norm here, both in terms of your Wireless business and your core Analog business?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Sumit, the reason that we're guiding is, really, it's a cautious approach to the market, as we described earlier, given the fact that we saw very late and unexpected demand changes late in June. We're using that as just a point of reference to be cautious in how we approach the third quarter.</p>
+          <p>The backlogs that we have, the order patterns that we've seen, support the range that we've got out there. The distribution of course is at the low end of the inventory weeks on hand that Ron talked about. Not sure if the distribution customers are going to continue to operate at that level or to increase it; we're not counting on that. Consequently that all comes together to the forecast range that we've delivered to your.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Okay. And then a separate question, just to follow on. On the R&amp;D line, it came down fairly significantly sequentially, and down significantly on a year-over-year basis, your restructuring obviously helping. Can you highlight some areas which would allow you to sustain this level of R&amp;D reduction going forward? Or are the businesses that you're now currently involved in going to require a fairly sustained level of R&amp;D investment at current level point?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yes, Sumit, the R&amp;D is down, as you pointed out, year-over-year. And that's largely a reflection of the change to our advanced topography development that we announced at the beginning of last year. We're now working in conjunction with the foundries on that. So we're realizing the reduced expenses on a year-over-year basis there.</p>
+          <p>Quarterly, it was &#x2013; our OpEx was down, largely a function of compensation costs coming down. We have given a guideline of 2 billion for the year, and we're actually right inside that.</p>
+          <p>So we should be just fine at this spend rate or at about this spend rate on the balance of the year. And again, to the extent that we continue to adjust program development costs based upon the outlook for programs that'll have an impact on those numbers going forward. But I don't anticipate at this point in time anything significant to talk about.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Okay. Thank you for your questions, Sumit, and let's move to the next caller.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question is from Tim Luke with Lehman Brothers.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Thanks. Kevin, you talked about shorter lead times or the ability to fulfill with shorter lead times being a factor. Could you just frame for us what the shorter lead times are? And if you could also just remind us of how linearity has usually shaped in the third calendar quarter, that would be helpful too.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Tim, on the lead times, we have generally had reasonable lead times for most of our products. Some are still a little bit long, but by and large they're coming in at little bit as we're positioning more inventory internally.</p>
+          <p>And consequently, our customers don't have to carry as much as they may have, and we believe that's part of what we're seeing here, that they have more confidence in us being able to deliver more quickly, as they're well aware that we have ample inventory to meet most of their near-term demand requirements.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Do you look for change there, Kevin? It's gone from what to what?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I'm sorry, Tim, the change -?</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>In lead times. So, where are they now, and &#x2013; ?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Tim, I think if you look at the broad base, you don't see a substantial difference in overall lead times. The cases where we've been able to pull lead times in were probably in areas where there were more call it outlier type of lead times. We've been able to get more &#x2013; those lead times more reduced, consistent with probably the overall lead times that &#x2013; I don't know, probably &#x2013; we have so many different product lines, probably lead times overall would range anywhere from six to 12 weeks on average.</p>
+          <p>So again, what we've managed to do is pull in the outliers into that range. And at the same time, we've also notably increased our delivery performance in terms of our delivery schedules and actually hitting the lead times that those customers were expecting.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>For example, where, from the &#x2013; in saying that, shorter lead time, better delivery, where would we point to as being the biggest area of difference on that?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>In some of the &#x2013; this is more of an example as opposed to a specific, where the math of it would occur. But for example, in some of the Analog products, we had some products previously that lead times were out, oh, even greater than 20 weeks, which clearly is not something that we want to sustain on a long-term basis. And we've been able to pull those back into a 12-week range. So that would be just an example, Tim, not necessarily a high volume or representing a significant part of our revenue.</p>
+          <p>The follow-up question, Tim, that you asked was with respect to linearity in third quarter. What I would just say is from a revenue perspective, linearity tends to be in every quarter, the last month of the quarter tends be strongest. I guess if I think about &#x2013; there's different weightings.</p>
+          <p>In some cases there's more strength in that third month than there are in other quarters. I would say it's reasonably pronounced for TI in the third quarter, meaning September is the strongest month. But even there, Tim, think of &#x2013; we don't have quarters that ship 50% of our revenue. When I'm talking about something being pronounced, it would probably more in the upper 30s, as opposed to a straight 33% across each month of the quarter.</p>
+          <p>So again, September would be the strongest month, but we're talking a few points off of a straight linearity.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Okay, Tim, thank you for your questions. And let's move to the next caller, operator.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question is from Allan Mishan with Oppenheimer.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes, Allan, are you there? Okay, operator, why don't &#x2013; Allan, if you can re-queue in since we can't hear you. And operator, let's move to the next caller, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And the next question is from Krishna Shankar with JMP Securities.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Yes, can you tell us again in terms of the cell phone market caution that you have, do you see more weakness in the low-mid-range cell phones or is it the high-end 3G phones? And with respect to Nokia, do you feel that you have stabilized your presence there in terms of the market share?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Krishna, in terms of Nokia, we continue to ship into essentially all of their handsets. So I don't believe at Nokia there's been any noticeable impact on baseband products or application processors, in terms of other competitors.</p>
+          <p>And again, what I tried to characterize was that our shipments into Nokia in the second quarter were very consistent with what you heard that customer describe, in terms of their business last week with their own earnings release and conference call.</p>
+          <p>If you look outside of Nokia, that's where there's been probably customers that just have not been performing as well in the marketplace. And I think those customers have reported or will report their end results, and I'll probably just need to leave it at that.</p>
+          <p>Do you have a follow-on, Krishna?</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Yes, and then switching to high-performance analog, just with sort of an extended downturn or slowing in the global economy, how do you expect your high-performance analog business to perform under tough macro conditions?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah, Krishna, I guess what I would just offer there is that we continue in that product line to introduce 4 to 500 new products each year. We continue to expand our sales force on the ground, around the world, including our field applications engineers. And between those two things, we have been discovering a lot more of customers and are gaining a lot more share over time.</p>
+          <p>So if the macro market slows down, it's difficult to predict what that might do to our growth rates, but I believe we would still be quite confident that we'd continue to take market share independent of what happens to the macro environment.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>And certainly, HPA as marketplace is going to move up or down depending upon the macro environment. It is so well diversified and even our own revenue in there, the largest segment inside of high-performance analog is industrial. So it's clearly macro-sensitive, but again we measure our results on a relative basis versus our peers despite the overall environment.</p>
+          <p>Okay, Krishna, thank you for your questions. And, operator, let's move to the next caller.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question is from Steve Smigie with Raymond James.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Steve, are you there?</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Can you hear me?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes, go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Okay. Sorry about that. I was hoping you could comment a little bit on the high-volume analog and how you are performing there relative to your hopes of getting that going and just sort of general color on the traction there?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Steve, I would say if you look at high-volume analog, again, I think our characterization in the second quarter was that the Analog results were driven predominantly by high-performance analog. I think we had &#x2013; oh, let me just say some small growth in high-volume analog from a year ago, which says that it's doing okay. But certainly not consistent with where we expect that it has the potential to go, going forward.</p>
+          <p>And I think as we've talked about even at our analysts meeting in depth, probably the biggest single marketplace that we believe has the potential to drive that turnaround will be inside the wireless handset, where we have been seeing that revenue decline over the last few years. I think you can expect that it is in the process of stabilizing.</p>
+          <p>And then, I think what we've described is that in second half '09 is when we expect that wireless handset revenue for Analog or for HVAL to move back into growth mode again. And again, that's not based on just wild hope. That's based upon design programs that we have in the pipeline and are well into the execution of.</p>
+          <p>So think of it, again, stabilization for a while and then second half '09 is when that specific segment will turn back into growth.</p>
+          <p>Did you have a follow-on, Steve?</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Yeah, sure. Actually sort of looking for similar color on the 3G, 3.5G design wins for baseband and aps processors. Is there anything going on there that might lead you to believe that you can have some potential to capture some share in that market, or maybe not capture share. Is there anything &#x2013; any dynamic there that you could comment on a little bit?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Steve, I think probably the best that I could lead you to on that one is, again, set the Ericsson program aside. Outside of that, I think we're going to perform consistent with our customers. The one new program is the custom 3G program at Motorola, and that'll be 2009 before it moves into production.</p>
+          <p>The program at Ericsson, where again it's kind of hurting us now, but we said will move back into growth mode again, think of that as second-half '09, late '09 before that translates into share gains.</p>
+          <p>So again, for a period of time, we'll move with the marketplace. And then once we get into 2009, some of those new programs at customers will have the opportunity to start translating to, I'll call it above market growth or share gains for TI in 3G.</p>
+          <p>Okay, Steve, thanks for your questions, and let's move to the next caller.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question is from JoAnne Feeney with FTN Midwest Securities.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Yes, good evening folks. A question one more time on the gross margin front, if we could. You remarked on a few one-time costs in manufacturing that contributed to its decline. And so I guess I'm wondering, with those going away presumably next quarter, how much greater headwind might there be from utilization rates falling?</p>
+          <p>Secondly, are you seeing any increase in your cost of wafer processing with your foundry partners? And finally, how much is the decline in your RISC revenues contributing to that decline in gross margin and how much further could it fall because of that one factor?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>JoAnne, let me try to hit the manufacturing cost elements. In fact, we anticipate continuing to see some manufacturing cost increases as we go into the quarter. And really, we talked about a number of different things regarding that.</p>
+          <p>There is obviously the utilization rate that we talked about, and that will continue to be a headwind as we drive our inventories down some. We had also described rate of exchange, cost of certain raw materials such as gold and so on, and redeployment of some of our equipment, as we expand our Analog capacity internally. We expect those costs to continue. They move through inventory and then make their way into the P&amp;L, so there's about a &#x2013; anywhere from a eight to 12 week lag from when those costs are incurred to when they actually come through to the P&amp;L. So those are continuing to be something of a headwind for us.</p>
+          <p>On the RISC microprocessor, that really is one customer that we're selling to there. And that is a fairly sizeable decline, partly a delay to a program ramp and also just that customer's outlook in the market in which they serve, as they are quite dependent upon certain customers such as financial institutions and so on for their products, and that will tend to have an impact on the kind of demand that we would expect that they would put into their products in the end.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>And then, JoAnne, on your question about foundry price increases and impact that would have, I would say zero. We're not seeing price increases from our foundries. Their prices are still too high, but we're certainly not seeing increases from them.</p>
+          <p>Do you have a follow-on question, JoAnne?</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Yeah, quick question on the high-performance analog. Can you tell us how much just high-performance alone grew quarter-to-quarter?</p>
+          <p>And then specifically in power management, you've made some strong efforts there. I'm wondering if you could describe perhaps how successful those are looking these days?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>JoAnne, you're right, power management has been a great story for TI over the last several years, and we expect it will continue to be. If anything we're intensifying our focus on the power market.</p>
+          <p>In terms of specific growth numbers for HPA, again, with our new breakdown of revenue, we're providing specific revenue growth numbers for Analog, and we'll use the trends inside of that between HPA and HVAL to explain the overall Analog, but we're not providing growth rates specific to HPA or HVAL on a go-forward basis.</p>
+          <p>Okay, JoAnne, thank you for your questions. And let's move to the next caller, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question is from Mike McConnell with Pacific Crest Securities.</p>
+        </plist>
+      </speaker>
+      <speaker id="22" type="q">
+        <plist>
+          <p>Thank you. Ron, so I'm just trying to understand this. So the book-to-bill is above 1 at DSP, your backlog is higher, orders are up 4%. So it was just that in June the pulls were not commensurate with the bookings and that's why we're getting more cautious with the guidance for Q3? Is that it in a nutshell?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>That's pretty close. The only thing I would say is the pulls in the month of June, certainly they didn't place orders for what they didn't pull either. So we saw &#x2013; I don't know what the DSP-specific trend was in the month of June, but overall orders trended down with the revenue, call it the gap in revenue, as associated with that. But basically, what you've described is correct.</p>
+        </plist>
+      </speaker>
+      <speaker id="22" type="q">
+        <plist>
+          <p>So when you guys &#x2013; at the mid-quarter, the orders were higher on a percentage basis and now they've come in?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>That's correct. Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="22" type="q">
+        <plist>
+          <p>Okay. And then last one from me, just specific to, I guess the industry versus TI. This dynamic we saw with the distributors working down inventories, was this more &#x2013; do you think &#x2013; an industry-wide phenomenon or is it more being driven by the fact that you've &#x2013; maybe either the distributors have more confidence that your lead times are going to be lower going forward or some dynamic with that? And the last one would just be, any region in particular where you saw this occur?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Mike, I don't know that we have the insight as to whether distributors pulled back across the board or whether it was more specific to TI. I will say, I know distributors are pleased with the delivery performance that they're seeing from TI. And certainly, we have enough inventory on our balance sheet to support their demand in third quarter on pretty short order. But whether they took just their inventories down more broadly than just TI, I think we probably need to wait until they report their own results for us to be able to say that specifically.</p>
+          <p>Kevin, do you know whether there was any weighting by region in terms of just &#x2013; did Asia pull that back more so than North America or Europe? I don't recall that.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>It was fairly broad. Asia being our largest region, it was most noticeable. But it was broad across the regions. The only region that we didn't really see it was in Japan.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Okay. All right. Mike, thank you for that. And I guess do you have a follow-up question? That probably was your follow-up. Thank you, Mike, and let's move to the next caller, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from Tore Svanberg with Thomas Weisel Partners.</p>
+        </plist>
+      </speaker>
+      <speaker id="23" type="q">
+        <plist>
+          <p>Thank you. Just going back to your &#x2013; you mentioned that you saw a late June decline in selling orders. Did you see that same element for sell-through as well, late in June?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>No, Tore. It was the opposite in terms of re-sale. So let me just kind of repeat what I said in the prepared remarks. When we gave our mid-quarter guidance, I think I even said on that call that we expected both sell-in and sell-out to be up a little on a sequential basis. And what ended up happening, the sell-out increased more than we expected and our sell-in to distributors actually declined in the quarter. So there was an acceleration in sell-out and a deceleration in sell-in.</p>
+          <p>Do you have a follow-on, Tore?</p>
+        </plist>
+      </speaker>
+      <speaker id="23" type="q">
+        <plist>
+          <p>Yeah, and you talked about the eight to nine weeks of inventory at DSP, and we're probably at the lower end of that now. How does that compare historically, let's say, over the last six to eight years?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Tore, I think over the last &#x2013; if you look at it over that period, we probably, last I looked at it, the longer-term historical inventory level for TI distribution had been closer to 11 weeks. So they have been trending down over a number of years in terms of the level of inventory that they hold. And in fact, as is evident from our own balance sheet trends over that time period, you've seen more of that inventory move upstream to TI.</p>
+          <p>And I think in general that's a trend that we appreciate just from the standpoint of it gives us better visibility. We don't have multiple buckets of inventory all through the supply chain that makes it &#x2013; makes the marketplace more volatile in general. So &#x2013; but there has been a trend over the last, the time period you're referring to, for our own inventory to increase and our distributor inventory levels to go down.</p>
+        </plist>
+      </speaker>
+      <speaker id="23" type="q">
+        <plist>
+          <p>Understood. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Okay. Thank you, Tore. And operator, I think we have time for one additional caller.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And your next question comes from Doug Freedman with AmTech Research.</p>
+        </plist>
+      </speaker>
+      <speaker id="24" type="q">
+        <plist>
+          <p>Great. Can you hear me, Ron?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes, I can. Go ahead, Doug.</p>
+        </plist>
+      </speaker>
+      <speaker id="24" type="q">
+        <plist>
+          <p>All right. Can we get a little bit of detail on your Wireless infrastructure business &#x2013; I know TI's got a fair share in that market &#x2013; and what you saw and what you expect to see in the back half of the year there?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Well, I can tell you what we saw, which was growth in both year-on-year as well as sequentially. I think, again, Wireless infrastructure is now being described as part of our Embedded Processing revenue category, or product category, and was a nice contributor to that growth in both comparisons.</p>
+          <p>I think if you look at &#x2013; what we've said is certainly the bigger piece of that pie as well as the bigger part of the growth driver was the catalog product, both catalog DSP and microcontrollers. But we saw a very nice growth out of our comms infrastructure as well.</p>
+          <p>As you're well aware, we have a very good position there, most noticeably with our digital signal processors and probably most noticeably there, or most pronounced, in the advanced infrastructure such as 3G. So as 3G deploys as TD-SCDMA deploys, as any of those advanced technologies deploy in the marketplace, TI will benefit with those deployments.</p>
+          <p>Do you have a follow-on, Doug?</p>
+        </plist>
+      </speaker>
+      <speaker id="24" type="q">
+        <plist>
+          <p>Yeah, if I could move over to Kevin for a question. Kevin, looking at the dividend in the past, the company's been pretty quick to increase the dividend. We're still at a low percentage of total earnings. I was wondering what the company's thought is about increasing the dividend and improving the yields here?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah, Doug, you're &#x2013; talking about the dividend, we've increased it five times in the past few years, to the point now where it's almost five times what it was when we started the dividend increase back in late '04. The Board, of course, has final say as to whether or not there's a change in our company's dividend. As we've talked about in the past, we do look for ways to return cash to our shareholders, when we believe we have more cash than is necessary to run or invest in our business. And we do that primarily through stock repurchases and also through dividends.</p>
+          <p>So both of those continually get reassessed and reviewed with the Board on a periodic basis. And I expect we'll continue to review that. I can't predict really any conclusions to what those reviews would be at this point in time.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay, Doug. Thank you for your questions, and with that, we'll wrap up. Thank you for joining us. A replay of this call is available on our website. Good evening.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And this concludes today's Texas Instruments Second Quarter 2008 Earnings Call. You may now disconnect.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

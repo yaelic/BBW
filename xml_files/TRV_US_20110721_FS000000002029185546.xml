@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1405140" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q2 2011 Earnings Call</title>
+    <date>2011-07-21</date>
+    <companies>
+      <company>1056</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep" affiliation="Senior Vice President-Investor Relations">Gabriella Nawi</participant>
+      <participant id="2" type="corprep" affiliation="Chairman &amp; Chief Executive Officer">Jay Steven Fishman</participant>
+      <participant id="3" type="corprep" affiliation="Vice Chairman &amp; Chief Financial Officer">Jay S. Benet</participant>
+      <participant id="4" type="corprep" affiliation="President &amp; Chief Operating Officer">Brian W. MacLean</participant>
+      <participant id="5" type="analyst" affiliation="Barclays Capital, Inc.">Jay H. Gelb</participant>
+      <participant id="6" type="analyst" affiliation="JPMorgan Securities LLC">Matthew G. Heimermann</participant>
+      <participant id="7" type="analyst" affiliation="Bank of America Merrill Lynch">Jay A. Cohen</participant>
+      <participant id="8" type="analyst" affiliation="Macquarie Capital (USA), Inc.">Amit J. Kumar</participant>
+      <participant id="9" type="analyst" affiliation="UBS Securities LLC">Brian R. Meredith</participant>
+      <participant id="10" type="corprep" affiliation="President-Personal Insurance">Greg Toczydlowski</participant>
+      <participant id="11" type="analyst" affiliation="Goldman Sachs &amp; Co.">Michael Nannizzi</participant>
+      <participant id="12" type="corprep" affiliation="Executive Vice President-Business Insurance">William E. Cunningham</participant>
+      <participant id="13" type="analyst" affiliation="Sandler O'Neill &amp; Partners">J. Paul Newsome</participant>
+      <participant id="14" type="analyst" affiliation="Credit Suisse (United States)">Vinay Misquith</participant>
+      <participant id="15" type="analyst" affiliation="William Blair &amp; Co. LLC">Adam Klauber</participant>
+      <participant id="16" type="analyst" affiliation="Deutsche Bank Securities, Inc.">Josh D. Shanker</participant>
+      <participant id="17" type="analyst" affiliation="Langen McAlenney">Larry Greenberg</participant>
+      <participant id="18" type="analyst" affiliation="RBC Capital Markets">Mark Dwelle</participant>
+      <participant id="19" type="analyst" affiliation="Adage Capital Advisors LLC">Ian J. Gutterman</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good morning, ladies and gentlemen and welcome to the second-quarter results teleconference for Travelers. We ask you hold all questions until the completion of formal remarks at which time you will be given instructions for the question and answer session. As a reminder, this conference is being recorded on Thursday, July 21, 2011.</p>
+          <p>At this time I would like to turn the call over to Ms. Gabriella Nawi, Senior Vice President of Investor Relations. Miss Nawi, you may begin.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, Jennifer. Good morning and welcome to Travelers discussion of our second quarter 2011 results. Hopefully all of you have seen our press release, financial supplement and webcast presentation released earlier this morning. All of these materials can be found on our website at www.Travelers.com under the Investor section.</p>
+          <p>Speaking today will be Jay Fishman, Chairman and CEO; Jay Benet, Chief Financial Officer; and Brian MacLean, President and Chief Operating officer. Other members of senior management are also in the room available for the question and answer period. They will discuss the financial results of our business and the current market environment. They will refer to the webcast presentation as they go through prepared remarks and then we'll open it up for questions.</p>
+          <p>Before I turn it over to Jay, I would like to draw your attention to the explanatory note included at the end of the webcast. Our presentation today includes forward-looking statements. The company cautions investors that any forward-looking statement involves risks and uncertainties and is not a guarantee of future performance. Actual results may differ materially from those projected in the forward-looking statements due to a variety of factors. These factors are described in our earnings press release and in our most recent 10-Q and 10-K filed with the SEC. We do not undertake any obligation to update forward-looking statements. Also in our remarks or responses to questions we may mention some non-GAAP financial measures.</p>
+          <p>Reconciliations are included in our recent earnings press release, financial supplement, and other materials that are available in the Investor section on our website. With that, Jay Fishman.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Gabby. Good morning, everyone and thank you for joining us today. Given the fact that we disclosed as much as we did at our June 10 Investor Day, our results shouldn't be much of a surprise. In April and May, it was all weather, all the time. Total after-tax catastrophe costs for the quarter were under $1.1 billion, generating a loss for the quarter. The tornado and hailstorms in those two months were unprecedented in their size, scope, geographic dispersion, and destructiveness. The loss of life was substantial and our hearts go out to those who have been personally impacted by the events.</p>
+          <p>In that regard, our immediate focus is on delivering outstanding claim service and support to those who have had losses. Our entire claim organization is very much on the case and energized to do this right. We're well aware of the demands that events like this place on the claim organization and we're thankful for their dedication and professionalism.</p>
+          <p>We're also well aware that events of this magnitude will happen from time to time. It is critical that we price our product and manage our exposure thoughtfully. In that regard, we have great confidence in our data, analytical skill, and underwriting expertise. Given the hail and tornado experience of the last few years, we are gaining a better and more granular understanding of the tail risk associated with these types of storms.</p>
+          <p>Even in these early days following the April and May storms, we are focusing on improving rate and/or terms and conditions in those geographies that may be more exposed to these storms than history has suggested. Importantly, it is events such as these that reinforce our view that the correct way of defining success in our business is to measure returns over time.</p>
+          <p>While we are certainly not pleased that we had a loss in the quarter, we know we are on the right path in running our business appropriately. There is no lack of enthusiasm or optimism here. In that regard, we are very encouraged that a number of important barometers of our business continue to improve.</p>
+          <p>In Business Insurance, exposure in the quarter improved and audit premiums, which were negative throughout the financial crisis, turned positive in the first quarter and grew meaningfully this quarter. Perhaps most importantly, we continue to be successful in delivering written rate improvements, particularly in Business Insurance. The overall, pure renewal rate gain in Business Insurance, excluding national accounts, was just over 2% for the quarter, demonstrating the success we are having in driving rate improvement.</p>
+          <p>Retention remains at very strong levels, and all of the anecdotal feedback from our organization remains solid. We are executing on this strategy effectively.</p>
+          <p>As we've said before, we are not waiting for some mythical turn in the P&amp;C cycle to improve our pricing. We are driving rate improvement on a measured basis, particularly for those specific accounts where rate is needed to produce acceptable returns. We are also encouraged that there are signs that economic activity may be improving. While it remains somewhat anecdotal, I was personally encouraged by the article in yesterday's Wall Street Journal on C2, in which a number of banks reported an uptick in commercial lending.</p>
+          <p>Early results from the credit card sector as well as results from the tech industry over the last few days are also encouraging. And while it does seem that we are coming down to the wire with respect to a federal debt limit solution, it may be that there are the beginnings of a bipartisan agreement, and it is encouraging that more states are dealing with their own financial situations, building foundations for an improved fiscal outlook.</p>
+          <p>Before I turn it over to Jay, let me make a brief comment about our share repurchase philosophy. Simply put, it remains unchanged. Our premise for the creation of shareholder value is that we will generate top tier earnings and return excess capital to shareholders through dividends and share repurchases. The fact that we had a loss in the quarter rather than our historical level of earnings impacted our share repurchases, but only in the second quarter. With less internal capital generated, there is less capital to return.</p>
+          <p>On the premise that weather patterns return to more normal levels and our profitability returns to historical levels and to the extent that the capital can't be put back to work in our business for growth opportunities, we will continue buying back shares.</p>
+          <p>Summing up, while the weather was challenging, it is the business we are in. We're doing all the right things and remain on the right track to create superior shareholder value. And with that, let me turn it over to Jay.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thanks, Jay. There are a few things I'd like to highlight about our operating results in the quarter. First, in early June at our Investor Day conference, we disclosed on expected range of $1.0 billion to $1.05 billion after tax and reinsurance for cat losses relating to the extraordinary tornado and hailstorm activity that occurred in April and May. While our current estimates for those storms remain within that range, additional storms that occurred in June brought total cat losses for the quarter up to $1.085 billion after tax and reinsurance.</p>
+          <p>Second, we continue to see net favorable reserve development in each of our segments, although at a lesser amount this quarter in Business Insurance than we had experienced in recent quarters.</p>
+          <p>Third, ex-cat and TYD, underwriting margins were impacted by several items in the quarter. The re-estimation of certain first quarter non-cat winter storm losses in Business and Personal Insurance, adverse current quarter non-cat weather-related losses in PI, for both Homeowners and Auto, as well as a larger number of large dollar fire losses in Personal insurance. Adjusting for all of these items, underlying underwriting margins were generally in line with our expectation, which included, as we previously anticipated and disclosed, modest margin compression in Business Insurance where earned rate increases were not keeping pace with changes in underlying losses.</p>
+          <p>I'd also like to add that the investment portfolio continued to perform very well. Net investment income was down slightly from the prior year quarter as the impacts of lower fixed income reinvestment rates and lower average assets due to our share repurchase activity during the past 12 months were mostly offset by strong performance in our non-fixed income investment portfolio.</p>
+          <p>Finally our net realized investment gains, we had a tax increase by $400 million from the beginning of the quarter from $1.8 billion to $2.2 billion. Book value per share of $59.62, although down less than half a percentage point in the quarter due to the cat losses, has increased 2% since the beginning of the year and 7% in the past 12 months.</p>
+          <p>Year-to-date we repurchased 1.3 billion of common stock, including 237 million in the second quarter and paid $330 million in dividends. While in the past 12 months, we purchased 3.5 billion of common stock and paid $659 million in dividends.</p>
+          <p>Our capital management strategy worked very well in the quarter and remains the same as it has been. Despite the extremely large cat losses, there was no meaningful change in our balance sheet strength between the beginning and end of the quarter. Shareholder's equity and stat surplus was still over $25 billion and $20 billion, respectively. Debt-to-total capital of 22.5%, well within our target range, and holding company liquidity was $2.4 billion, more than twice our target level.</p>
+          <p>And based upon first half results and consistent with our announcement at Investor Day, we expect common share repurchases in the second half of the year to approximate $400 million, in excess of second half operating income.</p>
+          <p>Finally, I'd also like to point out that we successfully renewed our cat treaties keeping essentially the same structure but at a slightly higher cost. The new treaties are outlined on pages 19 and 20 of the webcast and are described more fully in the second quarter 10-Q, which was filed earlier today.</p>
+          <p>With that, Brian's now going to provide some further insight into our results.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Thanks, Jay. The obvious headline for our results this quarter was the extraordinary tornadoes and hailstorms that impacted the industry. To give you a perspective on the magnitude of these events, when measured as a percentage of our earned premiums, our cat losses this quarter were 12 times our 20-plus year average for second quarter cats and almost four times larger than our next largest second quarter, which happened to be last year. So clearly the level of catastrophes we experienced this quarter was extraordinary, and in addition to the weather events that hit the catastrophe disclosure threshold, our second quarter combined ratio was significantly impacted by non-catastrophe weather events and development on the first quarter winter storm activity.</p>
+          <p>The significant and unpredictable impact of weather, notwithstanding, we remain pleased with the underlying performance of the franchise and continue to see positive signs across our businesses and in the operating environment.</p>
+          <p>Beginning with Business Insurance, we had another very strong quarter for top line. Net written premiums continue their positive trend and were up year-over-year driven by increases in pricing and exposure along with modest account growth. Retention and new business levels, although down in the quarter, remain at high levels.</p>
+          <p>Looking at pricing, the momentum we saw in the first quarter accelerated as rate was up two points compared to one point of positive rate in the first quarter of 2011 and negative rate in the second quarter of 2010. We are encouraged that rate was positive for all lines of business and, in fact, increased in all lines of business from last quarter, with workers' compensation leading the way.</p>
+          <p>As we discussed last quarter, our pricing strategy is to actively manage rate in a thoughtful and targeted manner that seeks to minimize disruption to our agents and customers. We believe our results this quarter demonstrate that this strategy is working. We also see momentum in exposure, up over a point in the quarter compared to being essentially flat both last quarter and in the second quarter of 2010. This growth and exposure combined with audit premiums that were positive for the second consecutive quarter demonstrates that the improving economic trends we noted in the first quarter have continued.</p>
+          <p>Turning to operating earnings, we were impacted significantly by the cats, that I just discussed, as well as by less favorable prior year development versus the second quarter of 2010. Second quarter results have also been negatively impacted by approximately $40 million after-tax or about 2.2 loss ratio points for Business Insurance due to the re-estimation of certain first quarter losses primarily related to the development of non-catastrophe winter weather and to a lesser extent workers' compensation.</p>
+          <p>Overall, if you look at underlying Business Insurance margins on a year-to-date basis, they are about where we expected them to be. Before I go to the other segments, I want to take a few minutes and talk about workers' compensation, because there's a lot of anecdotal marketplace conversation about the line.</p>
+          <p>Comp is one of our long tail lines of business with a duration of about eight years on the new block and 11 years for the reserves. We actively manage all our lines of business and in the case of workers' comp, our conclusion is that in the aggregate, we feel very positive about our book.</p>
+          <p>On the severity side, we have not seen any substantial change in the risk. Medical cost trends continue around, in fact, slightly below our expectations and lost time activity has remained stable. We are encouraged by the reform activity already approved in numerous states and under consideration in many more. These are obviously aggregate marketplace comments and there are certainly jurisdictions where we see more challenging environments and, accordingly, we are taking the necessary actions in those states.</p>
+          <p>For example, in one state where we are seeing increased losses along with a more difficult legislative environment, we are achieving rate gains significantly above the average for the line and in the case of Commercial accounts, well into the mid-teens.</p>
+          <p>We also feel good on the frequency side. But there's more texture underneath the trend and I want to share with you how we look at it.</p>
+          <p>The graph on page 12 of the webcast shows our workers' comp frequency for lost-time claims from 2006 through the first quarter of 2011. The green curve is actual claim frequency or, more specifically, the four quarter rolling average of our reported lost-time claims at 12 months.</p>
+          <p>Through 2006 and 2007, the trend was consistent with the long-term average of about a 2% per annum decline in this measure of claim frequency. The dotted blue line on the graph shows a hypothetical trend of reported claims if we simply extrapolate the historical 2% per annum reduction.</p>
+          <p>With the beginning of the financial crisis in 2008, the actual trend began to diverge from this historical pattern, and by 2009, comp frequency had dropped to levels that were unusually low, and in our opinion, even at that time, were not sustainable for the long term. Consequently, in the aggregate, we were not pricing new or renewal policies assuming this unsustainable level of frequency would continue.</p>
+          <p>Off of these lows, we've seen an increase in claim frequency and it is happening somewhat sooner than we had anticipated. It's important to note that the frequency is still below the extrapolated pre-crisis trend line, which again, represents a 2% per annum drop in the measure and while it's early, the most recent data is beginning to point to a flattening. We believe that the movement in frequency trends in the last three years have been attributable to the economy, and in that light, the recent uptick could actually be evidence of some economic improvement for the classes of business that we insure.</p>
+          <p>So bottom line, although there's been some movement in frequency, it's still at levels that are consistent with long-term improvement. All in, we believe the prospects for the line are sound, but we're not standing on the sidelines relative to pricing. In the aggregate, we are driving for rate and we are encouraged by the fact that our most significant written rate gains in this quarter are in the workers' comp line.</p>
+          <p>Turning to Financial, Professional and International insurance segment, operating income was down modestly from the prior year quarter reflecting lower net investment income. Underwriting gains saw a slight decrease, which is the net of a few items primarily more favorable prior year development offset by an increase in catastrophe and non-catastrophe weather.</p>
+          <p>Excluding cats and prior year development, underlying loss margins were consistent year-over-year while expense dollars were up modestly due to the investments we continue to make in this business.</p>
+          <p>In International, net written premiums were up year-over-year with strong results in Lloyd's, Canada, and the U.K. more than offsetting the impact of the termination of an exclusive distribution relationship in Ireland. In both Bond and Financial Products, surety results continue to be impacted by sluggishness in construction spending. We believe we offer a unique value proposition in this business and we are very satisfied with the margins and the quality of our portfolio. In Management Liability, we saw significantly improved production results in the quarter and remain satisfied with our overall returns.</p>
+          <p>Finally, we completed the acquisition of our joint venture interest in Brazil which gives us an ownership position in the market leader of the Brazilian surety business. We're pleased about the opportunity to leverage our leading U.S. surety franchise as well as our other franchises to expand beyond the surety business into the growing property and casualty markets in Brazil.</p>
+          <p>Moving to Personal Insurance, the weather in the quarter, both catastrophic and non-catastrophic, drove the operating loss. Prior year development for the segment was up year-over-year driven largely by the favorable development of 2010 cats. Excluding cats and prior year development, the Personal insurance combined ratio increased by approximately five points quarter-over-quarter.</p>
+          <p>The majority of the increase was driven by adverse non-cat weather losses in Homeowners and even Auto, some of which related to first quarter storms. A smaller financial impact resulted from a higher number of severe fire losses in Homeowners.</p>
+          <p>Turning to production results, we had another good quarter with both lines of business posting growth in policies enforced and net written premiums. Renewal premium change was up year-over-year in both Auto and Homeowners and Other. Retention remains near historic highs for both lines and new business is solid, but down slightly from recent quarters.</p>
+          <p>So, in summary, while this quarter was a strong reminder of how the unpredictability of weather can drive results, we remain very positive about the underlying strength of the business. We continue to see some improvements in the market environment and we believe we are well positioned for success going forward. With that, Jennifer, we'll now open it up for questions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you. <mark type="Operator Instructions" /> Our first question is from the line of <mark type="ph" /> Mark Jellry (20:25) from Barclays Capital. Please proceed with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Hello, this is Jay Gelb from Barclays Capital. I wanted to touch base on the environmental increase on the reserves and if that could have any implications for asbestos given what we saw out of Hartford. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Hey, Jay, this is Jay Benet. As it relates to the environmental, I would say that look at the environment itself. There really hasn't been a major change in the environment. We experience the same kind of favorable trends and claim payments that we had been experiencing and as we've said before, we extrapolate information that we have into some formulaic views of what the ultimate loss costs are going to be and it doesn't take a lot of change in the actual environment to make for some dollar changes in the reserves. So while I would say we just saw the same favorable trends, the favorable trends were a little less than we had anticipated in our calculation. So that was the adjustment, nothing major going on. And as it relates to asbestos, we really don't have any comments to make here. I would say overall the environment for asbestos has not changed fundamentally from the way we viewed it last year.</p>
+          <p>And as it relates to where we are, as you know, we do our quarterly procedures on asbestos. The quarterly procedures didn't lead to any kind of change in the reserve. We also do a real detailed overall claim review that we complete annually and we're expecting to complete that in the third quarter and at that, we'll see what the asbestos reserves look like.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>All right, thanks. And then a separate issue on capital management. Am I right in thinking that the debt-to-capital level is more of a constraint in terms of how much stock Travelers can buy back at this point? If it's 22.5% now, debt-to-capital, what's the high end of the range that the company's comfortable with?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>We generally talk about a range of somewhere between 15% and 25% associated with a double A rating. One of the things I'd point out about the 22.5% &#x2013; there's about a point of that that relates to essentially pre-funding some future debt. We took advantage of the low interest rate environment last year to do some retirement of our convertible hybrids that we had. But we also had some excess that we just kept on the balance sheet to be able to use to pay off future debt.</p>
+          <p>As it relates to that range, we do have lots of flexibility in the range and will continue to manage the overall capital position. With that in mind and with the operating company capital, being first and foremost, as well as the liquidity at the holding company which we've already said many, many times has a target level of about $1.1 billion.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>And I just want to clarify that. So does that mean that Travelers is okay going up to 25% debt-to-cap? Or would that be too high at that end of the range?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>As far as the rating agency's discussion, if we did it in a way that took advantage of low interest rates, we have flexibility.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, but I wouldn't... Jay, this is Jay Fishman. The question is Travelers okay at 25 implies, or the question may imply that we intend to leverage up with the purpose of buying back more shares and that's just not how we think about managing our balance sheet.</p>
+          <p>We're &#x2013; the range, at least as we understand it, that supports a strong double A rating in our business, which is where we belong, is in that 15% to 25% and we always want to leave some flexibility to deal with unexpected issues and we recognize that the kinds of events that we saw this quarter could happen again and they could happen even worse.</p>
+          <p>And so we don't want our business at the edge, but it's that range that really establishes the notion of that 15% to 25% range is a range that we understand is in support of a double A rating.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Great. That's what I thought. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question is from the line of Matthew Heimermann from JPMorgan. Please proceed with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Hi. Good morning, everybody. I just wanted to follow up on the asbestos question. Could you just remind us &#x2013; because I don't think you report this anywhere anymore of just what the survival ratio looks like when you adjust for buyouts and settlements?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>It's not really a statistic I keep at the top of my head because it's not something we think is terribly relevant. But we can calculate &#x2013; we can get it for you, though. Your way of looking at it is a good way of looking at it though. Taking out the settlement activity, but we just have to get the data.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay, that's fair. I can do the raw numbers, but I suspect there's probably a material difference, so I just want to make sure I'm thinking about it correctly. I guess the other question, maybe for Brian, is could you give us a little bit more color on the rate increases by kind of core product line? And I guess I was thinking about maybe how we work comp contrasts with Property, and how that contrasts with maybe General Liability, and then maybe other specialty liability lines.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>So broadly as I said I think in a couple of spots, the largest increases are in comp. Positive increases everywhere, but consistent with what I think we in the market have been saying for probably the last year. Property's probably at the tail end of it. So, strongest increases in comp.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>And when you say Property you're really talking about Business insurance.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I'm talking about Business Insurance on the first party side. And probably over the last couple of years, the larger the account, the more challenging the pricing environment had been. We're seeing improvement everywhere. So we're encouraged that, again, even on the Property side it's gone from negatives to albeit small, but small positives. And we're also seeing in the large Property world, a little bit of favorable movement on the terms and conditions rhetoric in the marketplace. And so that's very encouraging in that business. And <mark type="indiscernible" /> (27:13) falls somewhere in between.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>All right. So just to restate what you said, if I could kind of think about work comp greater than the two and pretty much property less than two and pretty much everything else is probably clustered around the average?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yep.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>All right. Much appreciated. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Matt, as it relates to the survival ratio that you were asking about ex the settlement activity, it's probably close to eight.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question comes from the line of Jay Cohen from Bank of America Merrill Lynch. Please proceed with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Thank you. A couple of questions. The first is just a numbers question. In the interest and other segment as you break it out, the G&amp;A number was quite a bit higher than it had been running, and I'm wondering what's behind that.</p>
+          <p>The second question, you kind of alluded to the fact that we're obviously dealing with this debt ceiling at this point and there's been obviously some noise about a potential downgrade for U.S. Treasury securities, have you thought about the implications should that happen, hopefully it doesn't, but should it happen, would it might be for you, specifically, maybe muni's might get downgraded as well? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>On the last question, Jay, we don't know. That's the simple answer. It's unimaginable, right? Unthinkable, that a sovereign entity that has a printing press in the basement, somehow makes a decision to stop printing. We don't &#x2013; and so we simply don't know. We don't know the consequences of what a technical default, a partial default, or anything else might be. We'll play it out as it comes.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Fair enough. That's my answer, too. I have no clue.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>As far as what you were seeing in interest and other, from time-to-time we have some items that will impact that. As a rule, we allocate costs throughout our business segment and minimize the amount of cost that's sitting in the interest and other. So it's got a very low base. In this particular case, there was a legal matter that was settled and it impacted it, but it's a non-recurring item and that's as much as we'd like to share about that.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>That's helpful. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question comes from the line of Amit Kumar from Macquarie. Please proceed with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thanks and good morning. Just going back to the discussion on asbestos. One of the other companies recently added to the reserves and it talked about increased claim activity against smaller peripheral insurers. Am I understanding this correctly that you are not seeing that trend in your numbers?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I wouldn't say that at all. I'd say we've been seeing that trend for a long time and our reserves have reflected that.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>But you are not seeing any comparative adverse trends?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Not based on what we had expected.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay. That's really helpful. The only other question I have is on the new business. If I look back over the past four quarters, it has trended down. And I'm just wondering, is that a function of your attempt to drive pricing or is that a function of competition?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I would say it's hard for me to separate those a little bit, but certainly as any carrier begins to drive for some rate improvement, you're going to get some reaction in new business levels and you're going to get some reaction in retention levels. So that's what we've seen on the Business Insurance side and we're very comfortable with the trade-offs that we're seeing there in the activity.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Why don't you comment on our view of the pricing of new business?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I think that one of the things that we are encouraged by directionally is, the last quarter certainly, maybe two quarters, throughout this year. That environment we think is actually improved slightly. And there's always a delta between, as we've talked about a zillion times, a delta between renewal and new pricing. But that has shrunk over the last couple of quarters, and so directionally we feel that's moving the right place.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>We've actually got a couple of things going on there. The first is as renewal pricing lifts, you're working off a higher base and then I think importantly, but I wouldn't declare a definitive trend here that's unassailable, but importantly, the spread between new and renewal has narrowed meaning that the gap between the renewal price and new price was wider previously and it's more narrow off a higher number. So, Brian's comment about it improving is a complex one and really is impacted by both the level of renewal as well as that spread.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>And I didn't know if you were talking about just the I, but on the Personal Insurance side, we think that there's some of the movement there is the economy and the slowdown in new auto sales and shopping and home sales. And then some of it is probably a little bit of reaction to our pricing strategy there.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Got it. That's quite helpful. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question is from the line of Brian Meredith from UBS. Please proceed with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Yeah, good morning. Two questions here. The first one just with respect to workers' compensation, you made the comment that you were pricing in line with the trend line versus extrapolated trend line versus the back in '09. I'm curious, do reserving practices follow the same kind of pattern as pricing?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>First of all, we're going to ham and egg this. Go ahead. Do you want to take it?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Two things.  One is we were not pricing fully up on the extrapolated trend line either. We were somewhere in between.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>And what I think any carrier is going to do is they're going to  look at changing trends and they've got to decide, do I ignore it, do I fully incorporate it or do I look at someplace in between? And we were someplace in between. And I probably in my comments didn't make that crystal clear. So we didn't fully incorporate the downturn.</p>
+          <p>And now I have &#x2013; oh, and from a reserving side, yeah, we will reserve and price somewhat differently in that as we look at trends, and as they emerge, we should appropriately reflect the actual trends reserving for the business that's written and the accident years that those losses are coming from. So we more incorporate into our reserving the facts that we see. Obviously, we're coming up with an estimate of what we think the ultimate's going to be at, though.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>With the exception of Brian's comments in his prepared remarks that the lift off the bottom was somewhat faster or sooner, however one wants to interpret it, than we had originally assumed, we've actually so far done a good job of, ultimately, picking the developed numbers pretty close. We've had a series of years of favorable development in workers' comp because our assumption of that development was actually not that, it was less than that. And with the exception of how fast we assumed that bottoming out would move back is the only area where we missed a little. And I do think it's actually missed a little. I don't know if anybody else disagrees with that.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>And the other point I'd emphasize, Brian, is again the obvious, but that's just frequency, on the surety side, we felt pretty good about the trends.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Terrific. And the other question, Brian, can you just chat about &#x2013; obviously excluding comp because you talked about that, but loss trend, what's going on with loss trend in Commercial and then maybe even in Personal Auto?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>On the Commercial side, there's really been no dramatic change. I would say on the encouraging side, we continue to feel pretty good about what we see out of the tort environment and how that's been progressing. And otherwise, the trends are pretty consistent with what we've been seeing. Greg, why don't you on the Personal line side &#x2013; Greg Toczydlowski.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Sure. Yeah, Brian. A similar story on the Personal Insurance side, good news on the frequency side, pretty much contained loss cost trend. We see a little bit of pressure on the severity side and Brian's comments really talked about that this quarter in terms of the non-cat weather driving that. We don't believe that's an ongoing trend. We believe that's some fluctuation and we'll continue looking at the business more over the longer term.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>One place where we see a difference between the Commercial and the Personal, quite frankly, is a little bit on the frequency of the Auto side. On Commercial Auto, we are seeing a little pick up in frequency and that we think is pretty directly related to a pickup in economic opportunity for our insured base. And we're not seeing it on the Personal line side because we don't think there's pick up in the miles driven on the Personal side. So a little bit of a difference there, but small movements.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you very much. Our next question is from the line of Michael Nannizzi from Goldman Sachs. Please proceed with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thanks. Just a quick one on workers' comp, sorry to keep hitting this one. But after the changes you made in the first quarter to that book, can you talk about the difference between premium trend and lost trend? And especially given that you've seen that book increase a lot or at least written premiums increase a lot in the second quarter and just one follow-up. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>We're going to resist the temptation to make a declaration and try and compare written rate to earned loss trend. We spent some time yesterday trying to understand that issue with real clarity and candidly you make so many assumptions about will written trend continue and will &#x2013; I'm sorry, will written rate trend continue and what will happen to earned loss trend that we're just going to avoid any predictions about whether written trend is running higher than earned loss trend and I think the numbers at least for the moment speak for themselves.</p>
+          <p>I think what we're comfortable saying, and correct me because I'm &#x2013; if you think I'm wrong, is that we're not losing ground. I think that's the important comment. We don't believe, at least at the moment &#x2013; that can change next week, that can change next month, either way. But we feel pretty good that we're not losing ground. And that's about, I think, about as far as we want to go in an outlook kind of statement about workers' comp.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>That's very fair. Thank you so much for explaining that. One question on commercial accounts, I guess, and I imagine a lot of that uptick there is also comp, but you're seeing pricing or taking pricing higher. What competitively on those accounts or is it just in the business you're writing, what's happening? Is it that others are not following or is it that people are taking their retirement? Any notion on what's causing both a raise in rate and also the opportunity to hold business? And I see your retention's down a little bit, also picking up new business, and thanks for answering my questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I think that &#x2013; there's a lot there in your question. We talked a lot about what we do as a franchise and we think we've got some real market-leading, distinct competitive advantages in those businesses that customers' value and enable us to keep our business and keep it at appropriate rates of return.</p>
+          <p>I'm not sure where the broader market is. Because I sense a little bit implied in your comment was we're doing distinctly better than the marketplace. I would hope we are, but I don't know exactly where those numbers are.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="a">
+        <plist>
+          <p>Just to add to that. This is Bill Cunningham. I think the other thing you have to keep in mind is we don't approach every account the same. This is not a one-size-fits-all in terms of how we approach each account. We try to be as thoughtful as we can in terms of rate need down to the risk based &#x2013; down to the risk characteristics and what we're seeing. We manage things differently office by office based on what we're seeing. Line approach may vary by state. So as thoughtful and as labored as we can be, I think is having a big difference in terms of the retained sales.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think one of the things we take for granted that we tend not to speak about in these comments is the risk-control approach that we take to workers' comp. It's not an open to buy book. It's not that we underwrite any comer that happens to walk into an agent's office. There is an active and engaged risk control process and a substantial engineering group that for every virtually every new account in Commercial accounts, again, if I'm overstating, correct me. But for virtually every new account in Commercial accounts, we've got our own engineers out in the field actually observing the risk control practices and procedures of the accounts we underwrite, and I would speculate, and it is just speculation, but what we're ending up with is a better class of workers' compensation business from a loss management perspective than carriers who don't bring that level of expertise to the market.</p>
+          <p>And there's an interesting phenomena to talk about about what happens to those classes of business and their unemployment statistics and their way of dealing with injuries, that's different from the average marketplace. I do think that our risk control organization adds real value here and ends up creating a block of business, a book of business, that's just different from lots of other people who write more generally. Not everyone, and there are other people who bring that level of expertise also, but I think relative to those who don't, we end up with a very different managed book of business from a loss perspective.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Great. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question is from the line of Paul Newsome from Sandler O'Neill. Please proceed with your questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Good morning and thanks for the call. I believe from the presentation we saw at the Analyst Day that you folks have been having a pretty heavy push into the Midwest in your Personal Lines business. And I'd like to know, given what's happened the last quarter, your thoughts there. And a broader, sort of secondary question, should we in general think of, because of the geographic changes in your book, having a larger cat load overall in your Personal Lines business?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>A couple of questions there. And first, I'm not sure there've been any geographic changes in particular in our book with respect to your last question. I'm going to let Greg speak to the distribution, but to the extent that one concludes that the tornado peril is more prevalent than it was previously, it's a challenge to deal with that from a risk selection and underwriting point of view. It's difficult for us to determine the difference between Charlotte and Atlanta and Dallas and Houston and Joplin and, frankly, Springfield, Massachusetts, in this last quarter. So as we think about how do we manage this more effectively, it really does come down to rate and terms and conditions a lot more than it comes down to geographic selection relative to trying to manage the peril differently.</p>
+          <p>It's one thing to manage coastal exposure. We know where the coast is. It's another to try and manage broad-based tornado exposure because it is just so random. It is so random but so intense at the point of storm. So it's a real tough one to deal with from a selection standpoint.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Paul, this is Brian. And let me take a shot at I think addressing the broad question you're asking which is, is our exposure going up here, is our estimate of cat activity going up. And then I'm going to throw it to Greg on the specific on the geography. I think it's fair to say for every underwriter in this industry, while looking at RMS '11 and looking at the wind/hail activity for the last couple of years, actually, but certainly this year in particular, we're looking at higher rather than lower. But we're still in the middle of evaluating that whole process. But it's not fundamentally driven by our geographic shift. It's driven by the obvious concerns with changes in the weather patterns and how we impact that, I mean &#x2013; how we integrate that. So, Greg, if you can talk about the geography.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>Sure. I think we've talked to you in the past about our agency expansion strategies, and we have had a disproportionate amount of new agents coming in the Midwest and that's just because of our heavy penetration in the Northeast. So I think that's some of the data that we have shared with you.</p>
+          <p>We've been trying to respond to a lot of the rhetoric in the marketplace. Is this a new normal for weather? And we just got to go back a couple of years to 2006 and 2007, when there was relatively no catastrophes in the marketplace over those 24 months and we certainly, and the marketplace wasn't saying that's a new trend at that time also. So we're certainly not in the business of guessing what the weather's going to be in the future. We're being very disciplined and focused around our pricing and terms and so forth and feel very comfortable around our footprint.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Great. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question comes from the line of Vinay Misquith from Evercore Partners. Please proceed with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Hi. Good morning. Two questions. The first one was on workers' compensation. Was curious whether some of the adverse prior quarters of development came from workers' compensation?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Just in looking at the overall line, there was no adverse development to workers' comp this quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Prior year.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Prior year, yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Prior year and prior quarter. Okay, great. And the second question -</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>No, no, no. Just, let me be specific. Because everything before January 1 of this year, in any given quarter, we're doing a full analysis of what our reserve needs are. There's always going to be some prior years where it's going to go up a little bit, some go down a little bit, but net-net, there was no prior year development of any magnitude for workers' comp.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>But Brian did say in his comments, because again your question was, I thought, quarter-to-quarter -</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Some of the re-estimation of the current year- some of it was due to the winter storms and to a lesser extent workers' comp. What underlies that is a projected increase in the current year loss ratio for comp driven by this movement coming back to trend line faster than we had anticipated. So there was the impact in the second quarter. These, by the way, relative to a company of our size are relatively small numbers. But what we did was we upped the loss ratio of some a little bit -</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>For the current year.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>For the current year and we obviously had to catch up in the second quarter relative to the first quarter re-estimation.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Fair enough. I understood. Thank you. The second question is on Homeowners. You are taking up rates 9%. Just curious as to what reception you're getting from the regulators as well as your customers on the rate increases?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>This is Greg again. As you see, we've had 9% for two consecutive quarters and clearly we live in a regulatory environment and so, we need to get those approved either file and use or prior approval and we've got very good relationships with the regulators and our distributors and there are always cost-based reasons around why we get the rate level. And we've been successful in implementing those. So we obviously are seeing the results around that particular product line in this quarter and believe they're warranted and we'll continue to watch that and be prudent with rate going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>So, just curious as to why we're not seeing sort of a drop off in the retention ratios in Homeowners because of rate increases. Could that be because most competitors are taking rates also by similar levels?</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="a">
+        <plist>
+          <p>We clearly are operating as a function of a market and we're not the only ones feeling these catastrophe losses over the last two years. So there clearly is an increase in rate environment on the Property side. We watch the marketplace quite a bit in terms of the amount of filings that come through, increases to decreases and the simple ratios.</p>
+          <p>And it's close to a double digit ratio right now of what the marketplace is doing on that particular line. So clearly we're not the only one taking some rate in that particular product.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay, that's great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you very much. Our next question is from the line of Adam Klauber with William Blair. Please proceed with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thank you. Good morning. You mentioned exposure growth in the Business Insurance is moving positive. How big of an impact are payrolls on exposures increasing?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>In comp, it's the whole gain, so it's &#x2013; but the biggest driver in our overall results would be GL which is fundamentally driven by sales and business receipts. That's the biggest driver. But you can look at our book and you can look at the relationship of comp and so payrolls have been moving up and are certainly a piece of that.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Projected payrolls. Exposure is a projected number that our insureds provide us at renewal. And then obviously it gets trued up at Auto premium down the road in the middle market. And so what we're seeing is it's actually, there are two manifestations of a better environment. The first is that insureds are perceiving the environment better, meaning they are anticipating some payroll growth. And then what we're actually seeing in the Auto premium numbers in the aggregate, and I don't know how the Auto premium relates down narrowly to workers' comp, but what we're seeing in the Auto premium is, in fact, the activity that our insureds, economic activity, ratable activity, that you're experiencing over the policy period is turning out now to be more than they had originally anticipated. So there's two elements to it and they're both worth thinking about it.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Great. That's helpful. And also in Business Insurance, it's very positive that you're getting rate on the renewal book business. Is it a several year, gradual process to get rates where you want?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>It's actually a very good question. And I'll ask Bill to chime in as well. The history on this is that we wrestled for a long time as to how to respond to the precipitous decline in investment rates, which obviously form an important part of the profitability of our business, and when investment rates fell in connection with the crisis, that obviously impacted the profitability of prospectively of business that we were writing. The notion that we would have a knee-jerk reaction and attempt to increase prices precipitously, dramatically, never really occurred to us. We always have a mindset about making sure our agents are comfortable with understanding what we're doing and why, and that our insureds understand what we're doing and why. And importantly, we weren't smart enough to know when the investment market would return to more normal levels. As I commented last quarter, we're beginning to contemplate the notion that the investment environment that we're in may indeed be longer rather than shorter.</p>
+          <p>That, obviously, back in the third quarter, I think, of last year set us on a path of trying to get rate on a measured basis, not being mindful of not disrupting agents' business and certainly not disrupting insureds' business, but to do so thoughtfully. If you've got a $100,000 account, and you've got a 2% rate increase, it's a $1,002 premium and hopefully where we bring value enough to both the agent and the insured that that's a transaction that can be delivered to the insured without great concern. So far, so good. But it is so far and I would answer your question as saying, yeah, we think about this as a multi-year effort. It's not our strategy in the pricing environment remains impact driven to a great extent by the declining &#x2013; but the reduction in investment rates available and just thinking about the aggregate returns in our business.</p>
+          <p>Now, having said that, we balance that out against the notion that cost of equity has dropped dramatically over the last three or four years for most good companies anyway. We put up a slide in Investor Day that showed our historical cost of equity and then you get into an interesting question of what happens to the long-term cost of equity. Does it stay down at the level that it's at and therefore, what levels of returns are going to be available in the marketplace before competitors step in? And so those are all that the variables that we're wrestling with. The conclusion of all of that, though, is to move for rate gains on a measured basis, thoughtfully, non-disruptively. Any of those concerns are dealt with by a measured pace of getting rate gains.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>My pleasure.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Great. That's very helpful. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question is from the line of Josh Shanker from Deutsche Bank.</p>
+          <p>Please proceed with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Good morning, everyone. On the charts you show about renewal rate change. Given the fact that there was unfavorable development on 1Q 11 does that change your prior opinion on renewal rate change or is that an absolute number or based on loss cost trends?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>The renewal rate change is a pure rate number and looking over at Bill and Fred Donner, a pure rate number calculated at the time of renewal. And so it's independent of loss cost trend.</p>
+          <p>If we had a policy that was $100,000 and it's renewing with exactly the same exposure and exactly the same terms and conditions and we do our best to analyze down at this level and it's really at $102,000, that's a 2% rate gain. So it's calculated and it's expiring premium relative to renewal premium and is independent of any loss trend analysis or re-estimation of loss rates.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>And then can you comment, in general, on where you see your current growth relative to the rate of loss growth?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I commented on that before. We're going to resist the temptation to make predictions or estimations about whether the rate gains that we're getting once they are earned will then offset the loss trend that we are experiencing at that point in time. What we're pretty comfortable saying at the moment is that we're not &#x2013; we're not losing ground.</p>
+          <p>We're not losing ground. There is a comment as there always is in the outlook section of the 10-Q that we filed earlier today that speaks to what we expect underwriting margins to be. Now, remember, that's earned. What's in the 10-Q is purely earned so it has nothing to do &#x2013; well, it has obviously something to do, but it's not a direct function of written rate gains right now. But there is a comment in the Q what about we anticipate underwriting margins to be. But the rate change moves each quarter. The loss trend moves each quarter and so, any predictions that we make are going to force us to constantly go back and revisit whether we were right or wrong and we're going to just resist that temptation.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>And in my comments I said that if we look at underlying Business Insurance margin on a year-to-date basis, there's about where we expected. There's always little movements, but we're talking about real little movements here, so rate might be a little better than we expected and loss trend might be slightly worse, but it's netting out to about where we thought.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Thank you. And are there any other unusual items beside the catastrophes in the Auto combined ratio number? It was somewhat high this quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>It was really all weather related, either catastrophe or non-catastrophe had a weather impact on it.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Just to reinforce that, I don't want to say it's unusual, but most people don't think about the fact that a hailstorm that doesn't qualify as a cat could, in fact, generate Auto losses. So a small hailstorm can, in fact, produce non-cat weather Auto losses. And we've had experiences in this quarter of non-cat weather producing Auto losses.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>And can you reiterate your threshold on where weather then becomes a cat?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>I don't believe that we have ever disclosed that.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question is from the line of Larry Greenberg from Langen McAlenney. Please proceed with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Good morning. I'm just wondering if you might be able to talk qualitatively about Business Insurance reserve development which is positive but down from prior period levels and I know the environmental was a portion of that, but I guess more specifically I'm wondering if workers' comp might be playing a pretty significant role in that given that the trend line was favorable for a while and now you're saying that loss trend is moving up a bit more rapidly.</p>
+          <p>Is that a meaningful piece of the lower favorable development? And maybe anything else you might be able to add on that front.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>First of all, I'd go back to what we were saying earlier. We look at our reserves in a very fulsome way each quarter and we evaluate movements and the net result of it is what you see this quarter. I wouldn't read too much into it in relation to the level this quarter versus prior quarters. As it relates specifically to things like workers' comp or general liability or the other components that make it up, if you go back and read through our quarterly 10-Qs, which I'm not urging you to do, but if you did it, you would see that each quarter there are different elements contributing to the net favorable development.</p>
+          <p>So it's not like if you look at workers' comp this quarter versus last quarter versus the fourth quarter versus the first quarter of this year are you going to see any kind of patterns that say one particular line has been favorable, favorable, favorable and suddenly it's not. It's a process that we go through that just looks at what's developing in the data and we make adjustments when the data suggests we should be making adjustments.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question is from the line of Greg Locraft from Morgan Stanley. Please proceed with your question. Mr. Locraft, your line is open. Mr. Locraft, we are unable to hear you at this time. <mark type="Operator Instructions" /></p>
+          <p>Our next question is from the line of Mark Dwelle from RBC Capital Markets. Please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Yes, good morning. A lot of my questions have already been asked and answered, but one topic I wanted to touch on briefly. In the, both the rate and the volume environment in Commercial, are you seeing any big disparity between relatively large accounts, mid-size accounts and small accounts? We've heard a lot of commentary from brokers that there's that type of a divergence.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>And the answer is yes, but nothing new in that regard. These are comments you can go back over the last several years and you'll see us saying the same thing. The smaller account business has been less subject to rate volatility than the larger account business, and the middle market business falls right in between. What I always try and reinforce to people because I do think there's any number of folks who kind of misperceive us and what it is we do.</p>
+          <p>We are not, broadly speaking, a large account casualty writer in particular. We are a small and middle market company and that comprises a substantial percentage of our Business Insurance business. To the extent we do business with large accounts, it really falls into two areas. One is National Property, where as a result of our reinsurance programs our actual net exposure is not what one would think of relative to kind of large accounts, and then we do FIFA service business in our National Accounts business where we're handling claims, workers' comp claims for a fee, and the nature of the risk &#x2013; it's not guaranteed cost. It's loss-sensitive business has a very different characteristic. But most certainly when you look at our middle market business, which is larger obviously than the small commercial business, you do see a more price competitive environment. And as we watch broadly speaking into the large account arena, which again, we don't participate in, in a dramatic way, in a meaningful way, it is indeed more competitive at that end as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>So with that then, that's probably the best explanation as to why the National account premiums would be, let's say the weakest amongst those three, whereas the Commercial account segment would really be the strongest amongst those three.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="a">
+        <plist>
+          <p>That is part of it, be careful not to read into that because as you look at the loss-response business &#x2013; this is Bill Cunningham, that's also a function of the losses under management and largely workers' compensation. Over the course of the last few years as frequencies dropped and the overall losses have dropped as we look at those renewals prospectively, that has an impact on the premium we charge...</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I wouldn't reach the conclusion and it is a complicated answer that our National Accounts business to the extent it shows up as premiums, a lot of it is guaranteed cost that's showing up as premiums and it's not subject to what's the premium basis. Bill is expressing that as the loss content is projected to go down, so do our premiums, they go right along with it, but by definition the profit margin on that business may not go down in the same way.</p>
+          <p>So the nature of our National Accounts business is such that it wouldn't make a lot of sense, it's not guaranteed cost and it would be &#x2013; you get to incorrect assumptions to look at our National Accounts business at the changes and perceive that it's a function of the competitive environment. There are carriers that have real expertise in dealing with large accounts and we're just not one of them. And I'm speaking on the guaranteed cost basis. It's just not what we do.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>That's a helpful clarification. Thank you. That's all my questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our last question is from the line of Ian Gutterman with Adage Capital. Please proceed with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Thanks. I'll be brief. I just had one quick question on Commercial accounts. I'm trying to understand, it seems there's some contrasting trends and I was hoping to get some insight. The retention pressure seemed greatest in that line. And I'm guessing maybe part of that was due to the rate increases, but at the same time, your new business is probably one of the better lines there and the premium growth is obviously very strong, up double digits. So can you help me understand why retention would be getting worse at the same time new business and overall premiums would be getting better?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Your statement is factually correct, but the interpretation is a little off, Ian.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>The fact is retention in the second quarter of 2011 was 84%. From a historical perspective, that's extraordinarily strong. We were coming off levels of 86% and 87% in the second and third quarters of last year, which is candidly one of the factors that led us to conclude that there might be opportunities to gain rate while still improving the overall quality and profitability of the business that we do.</p>
+          <p>So you're right, it's dropped from 87% or 86% in the second quarter of last year to 84%, but that's still at levels that are solid, strong, great, terrific, whatever words you want to put on it. So at the moment, while it's dropped the tiniest bit, we don't perceive it at the moment, Bill unless you see it differently than I do, that we've taken a meaningful dip in retention relative to what long-term profit, relative to the way one would manage the business to produce returns.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>And on the growth side of the question, there's a number of things playing through there. First, in addition to having continued strong retention, you've got the impact of exposure being positive on renewals, but you also have the audit additional premium coming to those numbers as well. And then the rate. So you've got rate gain, exposure gain and renewal, positive audit premium, and those are the factors playing through that are impacting the growth.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="a">
+        <plist>
+          <p>And the positive audit premium compared to negative audit premium last year so that's going to have an impact on that percentage growth.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Your question is still a thoughtful and substantive one. We will always watch as we go down this path slowly, thoughtfully, and hopefully our concept is that we can execute this without trading off substantial amounts of retention. If, in fact, we overshoot and retention drops in a precipitous way, we'll obviously re-evaluate our view about how we approach pricing. But the question's right. I think you have to put it into a historical perspective to look at it and say, still on track.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Understood. That's all I had. Thank you, guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. There are no further questions at this time. I would now like to turn the call back to you Ms. Nawi. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, thank you all for joining us today. As usual, both myself and Andrew Hersom will be available to take any additional questions. Thank you and have a great day.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, ladies and gentlemen. That does conclude the conference call for today.</p>
+          <p>We thank you all for your participation and we ask that you please disconnect your lines.</p>
+          <p>Thank you and have a good day.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

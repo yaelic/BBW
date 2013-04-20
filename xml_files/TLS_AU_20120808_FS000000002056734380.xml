@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1495796" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q4 2012 Earnings Call</title>
+    <date>2012-08-08</date>
+    <companies>
+      <company>1549</company>
+    </companies>
+    <participants>
+      <participant id="0" type="corprep" affiliation="Director-Investor Relations">Ben Spincer</participant>
+      <participant id="1" type="corprep" affiliation="Chief Executive Officer &amp; Executive Director">David Ingle Thodey</participant>
+      <participant id="2" type="corprep" affiliation="Chief Financial Officer &amp; Group MD-Finance">Andrew Penn</participant>
+      <participant id="3" type="analyst" affiliation="RBS Equities (Australia) Ltd.">Ian Martin</participant>
+      <participant id="4" type="analyst" affiliation="BBY Ltd.">Mark McDonnell</participant>
+      <participant id="5" type="analyst" affiliation="Goldman Sachs (Australia) Pty Ltd.">Raymond Tong</participant>
+      <participant id="6" type="analyst" affiliation="Deutsche Bank AG (Australia)">Andrew Anagnostellis</participant>
+      <participant id="7" type="corprep" affiliation="Chief Customer Officer">Gordon Ballantyne</participant>
+      <participant id="8" type="analyst" affiliation="UBS Securities (Australia) Ltd.">Richard Eary</participant>
+      <participant id="9" type="operator">Operator</participant>
+      <participant id="10" type="analyst" affiliation="Citigroup Global Markets Australia Pty Ltd.">Justin F. Diddams</participant>
+      <participant id="11" type="analyst" affiliation="Bell Potter Securities Ltd.">Daniel Blair</participant>
+      <participant id="12" type="analyst" affiliation="Merrill Lynch Equities (Australia) Ltd.">Sameer Chopra</participant>
+      <participant id="13" type="analyst" affiliation="CLSA Australia Pty Ltd.">Digby Gilmour</participant>
+      <participant id="14" type="analyst" affiliation="Credit Suisse (Australia) Ltd.">Bradley Clibborn</participant>
+      <participant id="15" type="analyst" affiliation="JPMorgan">Paul Brunker</participant>
+      <participant id="16" type="corprep" affiliation="Deputy Chief Financial Officer &amp; Group MD-Finance">Mark Hall</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good morning, everyone. My name is Ben Spincer and, on behalf of Telstra, I'd like to welcome you to our full year results for financial year 2012. I'd like to welcome those of you here in Melbourne, those of you listening on the phone and those on the webcast. Without further ado, I will hand over to the Chief Executive, David Thodey, to run you through the results. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks, Ben. And let me add my welcome to you all. Great to see you this morning. Well, the full-year 2012 results. What we thought we'd do today is go through three things. I'm going to give you a brief introduction just on the highlights of the year, then I'd like to have Andy Penn, our CFO here, and he is going to take us through the numbers in more detail and then I'll come back and give you a bit of an update on the big strategic priorities we've been working on and how I see those going.</p>
+          <p>So, the year in review. Well, we've had a strong year and I'm glad to say we've delivered on our commitments. We've met the guidance that we set 12 months ago and we've delivered total revenue of $25.4 billion. On a guidance basis, total revenue increased by 1.3% and EBITDA was up 2.1%. I'm very pleased to say the business has proved resilient in very mixed economic conditions. And when you go through the results, there's some real highlights. We've had top and bottom-line growth, which is so important in terms of profitable revenue growth. We've won share in all or our major product categories and also we have grown profitability across all our key products, which is so important.</p>
+          <p>And, very importantly, as you know, we have the declines in Sensis and in the Telstra business, and the rest of the domestic Telco business has been able to pick up those declines and offset them in the year. Also, our balance sheet remains very strong and we really do now have a very clear capital management strategy that Andy will talk to as well. So our strategic priorities are really starting to deliver results. Improving customer service, growing and retaining the number of our customers, simplifying the business, taking the complexity out of the business and also finding new growth portfolios that will be so important for us in the future.</p>
+          <p>What I thought I'd do before I throw to Andy is just reflect on what I think have been three of the four key highlights for me personally through the year. There's no question, when I look back over the 12 months, it's been an eventful year. In fact, it's hard to imagine it was nine months ago when we went to shareholders on the NBN transaction. It's &#x2013; a lot has happened in the last 12 months. But let me just give you my four highlights.</p>
+          <p>Firstly, our focus on putting the customer at the center of everything we do, as easy as that is to say, is starting to make a difference. And I want to stress this is as much a cultural change within a company like Telstra as it is about changing the way we really run the business. And there's been a lot of efforts right across the business to do that because it's not just an attitude, it's you got to really get down into the core part of the business.</p>
+          <p>When you look at some of the internal and the external measures, it's encouraging to see the changes, things like number of TIO complaints, deactivation in terms of activating services and also restoring them when we've got a problem, have all shown significant improvement, the number of billing and billing enquiries have gone down significantly. We had shop and online improvements. So it's a vast array of things we have to do to actually change the way that customers talk about Telstra, and we are starting to make progress.</p>
+          <p>And then we've taken a significant step that I probably would say is not as well understood by the market, is moving to this thing called Net Promoter System, where you're really driven by giving a customer an experience that they say hey, you should try it. And that is a big change for a company like Telstra. And we really want to turn customers into advocates for Telstra not just to say, well, it was an okay service. So that's been encouraging but we still have a long way to go and I &#x2013; very clear that we have not delivered anyway near where we'd like to be.</p>
+          <p>The second achievement is our mobiles performance, both in terms of the growth in the number of subscribers, the revenue growth and also, importantly, the quality of our network, that really reflects the outstanding engineering capability we have in this company. We added 1.6 million domestic mobile customers, that means we're now at 13.8 million customers. This includes 6.6 million postpaid handheld, 3.3 million prepaid handheld and now 3.1 million mobile broadband customers. That's outstanding results. We also, very pleasingly, had 475,000 new mobile customers in Hong Kong, bringing the total number on our CSL network to 3.5 million customers.</p>
+          <p>Also, as I said, the quality of your network is really a differentiator in this game of mobility. And as you know, we improved the performance of our network by rolling out LTE. We were the first operator ready to roll it out, one of the first in the world around the 1800 spectrum. And it's one thing for us to say that we think the network is good, but when you got companies like J.D. Power, Frost &amp; Sullivan, Gizmodo and Lifehacker all saying that your network is very strong, that's the endorsement that we look for, and customers speak. And that's really who we look to. So, very strong results in our mobiles performance.</p>
+          <p>The third achievement is the work that we've done in relation to capital and portfolio management. For a company like Telstra, this is very important. As you know, it was in April that Andy took you through our capital management strategy, and I think that that's giving us the discipline in the business to make the right decisions. And this is very important across all our portfolio. You would have seen last month that we made the decision to sell TelstraClear in New Zealand. And this is a very active part of managing the portfolio that we have as Telstra. Lastly, and I couldn't but mention has been the NBN negotiations and it's great to have those agreements done by the Commonwealth and NBN Co.</p>
+          <p>And, of course, the ACCC acceptance of the structural separation undertaking were enormous efforts right across the business and really have taken up a lot of time. As I alluded to in my introductory comments, it was only just last October that we had the AGM where shareholders voted in favor of our participation in the roll out. And that was an important milestone because, for us, giving greater certainly around our future having that behind us, is so important, so we can get on and do what we enjoy doing and that's running the business. Also with the NBN agreements now in place, we really are committed to delivering on those agreements and that's our focus, very much our focus. And we are NBN ready because we've got to leverage the opportunities that that does create for us.</p>
+          <p>As you know, in March we received $321 million from the government as part of the Information Campaign and Migration Deed. Then in June, we received another $100 million from the government for the retraining funding arrangement. So these have been significant payments to us. Also, and I'm very pleased to announce today that we have handed over stage I of the transit network build to NBN Co. Now remember, that's a dark fibre build and getting all the rack spaces done for their <mark type="ph" /> POIs (8:42). That's been a lot of work and we don't often talk about it, but we have a very strong and a very capable team working on that. And we are going to continue to see opportunities to collaborate with NBN Co as they work through their roll out schedule.</p>
+          <p>We think there are some opportunities which we are going to alluded today to accelerate that transit bill because we think that's important in terms of the overall relationship and structure of the NBN.</p>
+          <p>Also, I'm pleased to say that we are now competing aggressively in the market with our NBN products, and as these fiber service areas are rolled out, we have really ramping up our marketing and sales efforts and our service efforts in competing, and I am very pleased with some of the early results.</p>
+          <p>So they were the four highlights from me from the year. Andy is going to take you through the financial highlights and I must say that I'm actually delighted to have Andy with us on the team. It's a great pleasure to work with him and we think we have got some exciting days ahead of us. So, Andy, over to you?</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you very much, David, and good morning, everybody. I'm going to cover five topics in my presentation this morning. Firstly, I will take through the group results and comment on how we've tracked relative to guidance. Secondly, I will take you through the performance of our key product groups, Fixed, Mobile, Data &amp; IP, and of course our growth businesses NAS, Media and International. Thirdly, I will comment on our continued progress we are making in relation to productivity improvements and efficiencies and how these are being delivered through operating expense improvements. Fourthly, I will provide you with an update, as David said, on our capital position against the background of the capital management framework that I announced in April. And finally, I will conclude with some comments on the outlook for fiscal year 2013 and also guidance.</p>
+          <p>As David has already mentioned, we are pleased to have delivered another strong set of results, in line with our commitments to the market and in line with guidance. For the financial year ended 30 June, 2012, on a reported basis, revenue was up 1.1% to $25.4 billion, ETBIDA was up 0.8% to $10.2 billion, this included the $130 million impairment in relation to the sale of TelstraClear in New Zealand. Earnings per share were up 5.4% to $27.5 per share. On a guidance basis, total revenue, as David mentioned was up 1.3%, and EBITDA was up 2.1%. The guidance basis excludes the impacted impairments, regulated wholesale price changes and payments received from the government in relation to NBN. The reconciliation of these impacts is provided in the appendix to my presentation.</p>
+          <p>Accrued capital expenditure for the year was $3.6 billion or 14.2% of sales. During the year, we generated $5.2 billion of free cash flow further strengthening our capital position. The board has declared a final dividend of $0.14 per share and this brings a total dividend for the year to $0.28 per share fully franked.</p>
+          <p>Looking across the businesses, reported revenue was up 1.1% to $25.4 billion. Fixed revenues declined 6.1%, as expected, and like most print businesses Sensis experienced a significant decline in print revenues this year, which was the main cause of the 9.6% decline in media. It is against this background, therefore, that our revenue growth was particularly pleasing, with mobile revenue up $679 million or 8.5%, NAS revenue up $120 million or 10.5%, and international revenue up $98 million or 7%, collectively adding almost $1 billion of extra revenue.</p>
+          <p>Let me now take you through the performance of our products in more detail, starting with fixed.</p>
+          <p>Total fixed revenue declined 6.1% to $7.5 billion. PSTN revenue declined 10%, due to a $281,000 reduction in retail PSTN lines and lower ARPU. Recent research has indicated that approximately 2% of households moved to mobile-only households during the year, with the total now standing at around 14% nationally. Partly offsetting the decline in PSTN revenue was strong growth in our fixed retail broadband business. Revenue was up 8.5% to $1.6 billion, driven by strong customer growth, up $203,000 to $1.6 million.</p>
+          <p>This strong result highlights the success of our bundle strategy in particular with continued strong growth in existing customer taking multiple products for the first time. We now have more than 1.4 million customers on bundled plans with 336,000 added in 2012. We also achieved a 6 percentage point improvement in our fixed retail broadband margin to 37%, following capital investments and productivity improvements. Going forward, we expect the revenue mix to continue to shift from PSTN to fixed broadband, with increased penetration of bundled plans and of course the roll out of NBN.</p>
+          <p>There is no doubt that 2012 was a standout year for mobiles business. Revenues were up 8.5% to $8.7 billion, and mobiles now represent more than a third of total revenue base. We continue to win market share during the year, with the acquisition of further 1.6 million mobile customers. These results were supported by the superiority of our networks, including the launch of our 4G network in September 2011. We have sold more than 375,000 4G devices since the launch. In the postpaid handheld market, customer growth was up 8.8% and revenue was up 6% to $4.7 billion. ARPU declined 3.8%, mainly due to the impact of the mobile repayment option. Excluding this, postpaid handheld ARPUs were broadly flat over the year whilst postpaid handheld deactivation rates improved to 12.2%. 2012 has therefore represented a very &#x2013; another very strong year for mobiles with EBTIDA up 21% to $3.1 billion.</p>
+          <p>Turning to Data and IP, overall revenue declined 0.8%, however, the portfolio continued to deliver strong EBITDA margins at 64%. IP access revenue grew 8.9% to $1.1 billion as we continued to grow market share. This was offset by declines in legacy data products down 14.9% and ISDN revenues down 5.8%.</p>
+          <p>IP Access continues to act as a strong platform for our Network Applications Services business, NAS. In Enterprise and Government sector in particular, NAS products such as cloud and IP telephony are also a platform for extending our IP products into the small business sector.</p>
+          <p>In this regard, we have seen strong growth in NAS over the last couple of years and revenue was up again, in 2012, 10.5% to $1.26 billion. This was supported by a strong growth in unified communications up 14.4% and cloud computing up 42.2%. We saw a growth in NAS across most market segments, particularly enterprise and government and a large business market. During the year, we signed a number of important contracts with the Department of Human Services, Australia Post, NEP and Origin. These long term large contracts will underpin our growth in the coming years.</p>
+          <p>Looking at the core Australian Telco business through the customer segment lens, total retail revenue grew by 2.6% to $19.3 billion. We saw strong growth in customer up 3.6% to $10.3 billion &#x2013; sorry, in consumer &#x2013; and also growth in Enterprise and Government up 4.4% to $4.3 billion.</p>
+          <p>Telstra business declined slightly, down 0.9% to $4.7 billion, reflecting the challenging economic environment for small and medium-size businesses. Wholesale declined 4.4% to $2.1 billion, mainly due to regulatory price changes, migration from resale products to lower ARPU infrastructure products and declining PSTN usage.</p>
+          <p>Turning to Media, there are three aspects to our Media portfolio: Media Marketing Services, which is Sensis; Media Entertainment Services in content, which includes BigPond, content arrangements and the resale of the FOXTELvia Telstra, and finally FOXTEL itself. David will talk a little later on Sensis, but it has clear been a challenging year, as it has been for many print businesses as we transition from print to a digital marketing services business. Sensis revenue was down 17.7% to $1.5 billion, with print revenue down 22.1%, partly offset by growth in digital, up 4.5%. Notwithstanding the challenging year, Sensis margins remained attractive albeit declined 9 percentage points to 47%.</p>
+          <p>In Media Entrainment Services and Content revenue was up 4.7%. This includes FOXTEL sales via Telstra up 3.1% to $602 million. During the year, we also saw a number of positive signs that point towards the continued growth of this business. We have now sold close to 400,000 TBoxes. Over 5 million BigPond movies have been downloaded by the TBox since its launch. There are now over 2.3 million bill transactions every month across the BigPond portfolio, including movies, music, games, and shopping. There have also been more than 600,000 downloads of the AFL app and 8.1 million online video streams.</p>
+          <p>Let me now turn to FOXTEL. On a standalone basis, FOXTEL revenues were up 3.6% in 2012 to $2.2 billion. EBITDA was up strongly, 8.5% to $598 million. These numbers exclude AUSTAR, which was acquired in late May. Customer numbers were up 24,000 to $1.7 million and FOXTEL also saw improvements in the take-up of a number of important products including FOXTEL IQ, multi-room and high-definition digital offerings. Penetration of FOXTEL's IQ HD service increased from 31% to 42%, while over 80% of subscribers now take up FOXTEL's sports package and more than 40% take up the premium package. Telstra's 50% economic interest in FOXTEL is not consolidated into our results. However, the distribution of $108 million received during the year was included in our EBITDA line.</p>
+          <p>Finally, turning to international, international had a positive year with revenue up 7% to $1.5 billion. For CSL New World, our mobile business in Hong Kong, revenue was up 5.7% to $860 million. On a local currency basis, revenue was up 10% following strong customer growth, as David has mentioned, with new customer ads $475,000. This performance supported strong growth in CSL's EBITDA margin, up 4 percentage points to 26%. While we saw a 27% decline in revenue in China, this largely followed the sale of Soufun in 2011, LMobile and China M in 2012, as we refocused our portfolio on the successful Autohome business.</p>
+          <p>During the year we also completed the Reach integration. Following this the global connectivity business grew 24.5% to $508 million, the reintegration of Reach and the further expansion of our regional cable business provides an excellent platform from which for us to grow our domestic NAS business into the region.</p>
+          <p>I would now make a few comments on our ongoing productivity and simplification program.</p>
+          <p>During the year direct variable costs increased approximately $300 million due to increased mobile sales. The impact of inflation was approximately $300 million and other business growth as a consequence of our growing portfolio and transaction volumes increased expenses by approximately $400 million, expenses were also impacted by the fall in the government bond rate and impairments and regulatory changes to mobile termination rates. Against this, project Project New delivered 1.1 billion in productivity benefits in 2012 with total operating expenses for the group including impairments up only 0.8% to $15.3 billion. Excluding impairments operating expenses year-on-year were broadly flat.</p>
+          <p>A few comments on capital management. In April we presented to the market our strategic framework for capital management. At that time we indicated our excess free cash flow at June 30, 2012 was expected to be between $0.5 billion to $1 billion. We ended the year with excess free cash flow of $1 billion, at the top end of this range. Against this, we have a significant debt refinancing program in 2013 and significant spectrum commitments. Also as you will hear from David shortly, we will be investing a further $500 million over the next two years to bring forward investments in our 4G mobile network and the NBN transit networks. This will extend our mobile network advantage and bring forward the benefits from the NBN agreements. These investments will increase our CapEx to sales ratio to approximately 15% per annum in 2013 and 2014. This number is then expected to reduce below 14% in 2015.</p>
+          <p>We also indicated in April that we expected our excess free cash to grow to $2 billion to $3 billion over the next three years subject to the timing of the NBN roll out. This did not include the proceeds from the sale of TelstraClear, or the additional capital expenditure that I have just mentioned. However, given our current capital position and based on the NBN revised roll out that was announced yesterday, I can nonetheless confirm that our outlook for the next three years is still $2 billion to $3 billion. The other parameters of our capital management framework remain unchanged and Telstra is not contemplating capital management initiatives at this time.</p>
+          <p>Consistent with this framework, we continue to target a Single A credit rating and all of the major credit rating agencies have recently confirmed this. We are currently operating at the conservative end of our balance sheet parameters with gearing at 53.2% and debt servicing at 1.3 times. In addition, we are carrying almost $4 million of liquidity at June 30. This positions us well for the significant debt refinancing program that I mentioned that we will be undertaking this year. We have debt maturities of $3 million in 2013 in addition to the spectrum commitments.</p>
+          <p>We have also been active in relation to our portfolio management as part of our overall capital management strategy. Subject to the regulatory approval of TelstraClear, we will have raised approximately $660 million through the divestments of TelstraClear L Mobile and China M in 2012 with most of this being redirected into a range of investment opportunities. These included minority states in IPscape, Dimi, Mandoe and Oooyala, increasing our economic interest in auto home and finally supporting Foxtel in its acquisition of AUSTAR. In summary, we finished the year in a strong capital position with a clear capital management framework and strategy and a better performing portfolio of businesses.</p>
+          <p>Before closing, I would like to make a few comments on guidance for 2013. As the decommissioning payments from the roll out of MBN will be treated as other income, we intend to guide based on total income in 2013 to capture these. We have also included &#x2013; sorry, we have also excluded the impact of the sale of TelstraClear on guidance and this includes the foreign exchange impairment expected to be released in 2013. On this basis, we expect to see continued low single-digit growth in both total income and EBITDA. We expect our CapEx to sales ratio in 2013 to be approximately 15% as we support accelerated investments into our mobile network and the NBN Transit Network.</p>
+          <p>Free cash flow is expected to be between $4.75 billion and $5.25 billion taking into account this additional capital expenditure. Unlike previous years the free cash flow guidance does not make any provision for investing CapEx. We will update guidance on free cash flow for investments if and when appropriate.</p>
+          <p>Finally, and subject to the board's normal approval process for dividend declaration and there being no unexpected material events, we expect to pay a fully frank dividend of $0.28 per share in fiscal year 2013.</p>
+          <p>Before handing back to David, let me summarize. 2012 was a year of strong performance delivering on our commitments and results in line with guidance. We achieved a standout performance in mobiles with EBITDA up 21% and 1.6 million new customers. In fixed retail broadband, we added 203,000 new customers. And we grew revenues in NAS up 10% and international up 7%. Notwithstanding the continued decline in PSTN, as expected, and a very challenging year for Sensis, we delivered top-line and bottom-line growth in a relatively tough economic environment.</p>
+          <p>Project New delivered $1.1 billion of productivity benefits and made a significant impact on improving our customer experience. We have put in place a clear capital management framework and have been actively managing our capital position, undertaking appropriate portfolio of management. We ended the year with excess free cash of $1 billion and confirmed our outlook of $2 billion to $3 billion over the next three years, notwithstanding the revised NBN roll out announced yesterday. And we expect the momentum in our business to continue into 2013.</p>
+          <p>Thank you and I'll now hand back to David.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay. So thanks for that, Andy. What I am going to do now is just go back to our strategic priorities and just give you a bit of an update on how we're going and some of the things I think are going to be important as we go forward. I may repeat a few of the things which Andy's touched on, but I think it's important just to give you the perspective. As you know, improving customer service, growing and retaining the number of our customers, really changing and simplifying the business bringing the complexity out and then finding new growth businesses is just what we focus on every day. So what I'm going to do is just take you through each one of them and just give you a little bit more color on it.</p>
+          <p>So firstly improving customer satisfaction, well, it is so core to any strategy and we've got a lot to do, but as you look across all the things we have done as I mentioned, there are some real changes happening. One area I would like to highlight is the One Step initiative, which has really changed the way we actually activate services. So if you imagine how many field engineers everyday are out there doing work, getting great efficiency in that and a better customer experience is very important.</p>
+          <p>So this is a one step process for activating a PSTN voice service and an ADSL service, for those who have moved house and had a different experience, this is actually really important. And this means it's one truck roll better customer experience. As simple as that may sound, when you are doing literally 100s of 1,000s of those every year, you get that right, great experience, it takes a lot of cost out and makes a great customer experience. Also we're seeing, like many other industries, real change in customer behavior in about how they want to interact with us. Often people are interesting in contacting us between 10 and 12'o clock at night. So we now need to provide a 24-hour a day, 7-day a week service.</p>
+          <p>Interestingly, the use of social media is becoming a very popular way to interact with us, and also things like use of Facebook and Live chat are really starting to change the dynamics of the way we support our customers. As I mentioned before, we have 60 people also just monitoring social media sites to find out where there's problems, so we can be more proactive. This is a very different Telstra. Also we are finding that people want to get real time information on how their mobile plan is performing, how their accounts are, where they are in the month and they often want to do it from their either from their mobile phone or from their tablet.</p>
+          <p>So we now have 13 mobile apps available in the market. And in fact one of the last ones I think was the most popular mobile app for at least month we put out there. So these are real changes in the way we run the business, in the way our customers want to interact with us. And of course we've had enormous redesign of our web pages making them simpler, easier to use and also with our online show. So we are seeing these improvements, as I mentioned before. Level one TIO complaints they are now down 26% in the year and over the last three years it's been down by over 30%. So really significant changes in terms of how our customers are interacting with us.</p>
+          <p>Also as a result of all these improvements we've made, a very important statistic is actually the number of times our customers are calling us. Now of course we want customers to call us when they need to buy something, but we prefer them not to have to call us about a question on the bill. But we've seen our consumer core volumes decline by 21%. We've never seen that sort of decline before and that can only happen by delivering a better service.</p>
+          <p>Also, as I said before, we are introducing the net promoter system and this is really another stage in really changing the culture at Telstra. As I mentioned before, too, we want to turn customers to advocates, not just giving them a great customer experience.</p>
+          <p>What we now do is measure as many transactions on a daily basis, I get a multimedia message every morning, it talks about all the transactions where we had a survey on the previous day, and that's where usually about 20,000 bits of information that we have garnered feedback from our customers. And they also give me a feel of whether there have been good experiences or bad experience or whether the issue or the question is being resolved. Interesting, I'd say this is probably the biggest change program we've ever put into Telstra, Robert Nason is driving this.</p>
+          <p>I can't stress just how transformational it is and it's not the things that you would see looking at it externally because it really touches every part of the business whether in finance or legal, accounting or you're in the frontline, everybody's involved. And it's a very simple principle that we adhere to, we ask every Telstra employee to treat our customers the same way that they would like to be treated. That's a big statement to make and to give them the authority to do that is a big cultural change for the company. So, a lot of work still to be done in that area.</p>
+          <p>For a company like Telstra with such high market share, this is not a nice to have, it's really a mandate. Secondly, retaining and growing the number of our customers and I do want to say we are very grateful for many customers who chose Telstra each year. The quality of our mobile network is really helping to drive this growth and I do believe if you look right across the world, the network is becoming a key differentiator. As Andy took you through, 1.6 million new domestic mobile customers were added, and that means over the last two years that's been 3 million new customers on our mobile network and that's really is significant.</p>
+          <p>In September last year, we were the first Australian company to roll out LTE, the 4G network, also one of the first in the world to put it on the 1,800 spectrum. Now, our 4G network covers more than 40% of the Australian population, I think its 16 major towns and another 20 odd rural towns. But we need to maintain that network advantage because we are seeing such a strong demand for it and very importantly the LTE technology carries information about half the cost of previous technologies. We will be investing $1.2 billion in fiscal 2013 as a part of this incremental capital investment that Andy mentioned before. That's very important. Mobility is a very critical part of our strategy.</p>
+          <p>Andy also mentioned we had very strong growth in Fixed Broadband. That particular portfolio was up 8.5% in revenue and we also had very strong growth in our subscriber growth. Also, 336,000 customers signed up to a bundle, as you know, that's very important because a two-year contract and very important we keep really having the aggressive set of products in the bundle area in the market. So the total number of bundled customers is now 1.4 million.</p>
+          <p>Also T-Box and T-Hub have done very well we've put the T-Hub version 2 and Android operating system in the new T-Hub 2 and we saw very strong sales in 2012. This year we sold 148,000 T-Hubs and 193,000 T-Boxes. So IP TV remains very important. I'll mention that a little bit more when I talked about the media portfolio. So all these products are NBN and really start to give a differentiate experience in the home.</p>
+          <p>Third area, simplifying the business. This remains and will always remain a critical part of what we need to do. Very importantly, we have seen this year a decline in our labor and labor substitution costs and this is being driven by all the simplification efforts, productivity improvements, we're driving right across the business.</p>
+          <p>Now I want to put this into context, to drive a 1.8% decline in our labor and labor sub costs while demand is growing and we are trying to improve customer satisfaction, is really a very strong result. And it is a testament of the incredible dedication on our staff right across the company. This is difficult to do because volumes are up and you've got to do things differently if you're going to be able to deliver that sort of productivity. $1.1 billion in productivity benefits across the business at a gross level but that gives us the freedom to invest in new growth areas, move our resources to the new growth areas and this will continue to be a critical part of what we need to do as we go forward.</p>
+          <p>So mentioning statistics now, 1.6 million customers access the build digitally, that's where they get a PDF one which is sent to them e-mail or they access it online. 1 million customers have registered for direct debit and we now receive over $100 million in online bill payments each month. These are really big changes and have shown really significant growth over the last 12 months. Even the new online shop, which if you haven't tried, you should, it's a really great experience, it's a simple, easy-to-use and that's how people are wanting to purchase.</p>
+          <p>And I've mentioned before some of the new ways we are interacting with customers around live chat, being on social media sites; it's really exciting to see the changes. But we have only just begun. We see really quite significant change over the next five years as we really change the way we run the business to really be a digitally led company. Now that's hard for a legacy, big corporation like Telstra, but we're making really good progress.</p>
+          <p>And then of course the fourth area is around growth businesses. Every element of that strategy is so important, media, Asia and Network Apps and services, because these initiatives are really adjacencies, they complement our core business. And if you can get it right, you both grow into new areas while still pulling through a lot of your core offerings in the market. So let me go through each one of those. Under the umbrella of our media business, we recently announced some quite exciting new initiatives with a company like MOG, which is a next-generation music company.</p>
+          <p>Now, it's a partnership and we think that this sort of partnership of innovation is going to be very important for us in the future. Now that particular one delivers really good music services on smartphones, tablets and wireless hi-fi systems but again a great example of using innovation to really differentiate our offerings. We think that partnering will be a critical part of the way we go forward.</p>
+          <p>Also the acquisition by FOXTEL of Austar was a key part of this growth strategy. Also the IPTV business is going well, and as you know we announced a new executive to run that business who's had deep media experience and has worked with Rick previously before and we think that IPTV does play a very important part of the media landscape in the future. I'm not saying it's everything, but it's a very critical part of the where we're going in the future.</p>
+          <p>I'll come back to Sensis because I've got a separate channel on Sensis, I want to give you a little bit of color about how that's going. But before I do that let me just turn to Asia and the network and the app services business. We've seen some quite significant changes there and it's good to see the collaboration from the area that Deena is working in, which is investing in new innovative technologies and fitting into our growth businesses.</p>
+          <p>Just last month, we announced the investment in a New South Wales company, very innovative company called IPscape. Now they provide cloud-based call center solutions, a lot of you picked up on it. But what is so strong about that product is that it can be offered throughout Asia. So Deena and Tarek are working strongly together to take that product into the international market, specifically Asia.</p>
+          <p>Also Telstra Global, now, Telstra Global is where we provide international services and managed network services is going very well. That's international data and voice, satellite across Asia-Pacific, China, India, Europe and Africa. You may not know, but we have 14 carrier licenses throughout Asia, 14 carrier licenses. Now, I am not saying we are going to set up an operation in each of those countries, but what's very important in terms of managing both the Australian companies going off shore but also serving regional customers. So, we're very pleased with how the international portfolio is going. They had 7% growth in product revenue last year, CSL in local currency terms grew 10%, and as you, CLS has had &#x2013; some years have been better some years not so good, but very strong results in Hong Kong. And the global connectivity NAS products, that I was just referring to grew by 24.5% to a little bit over $0.5 billion.</p>
+          <p>Within the NAS business I'm very pleased to say we've got a new leader in that group. Brendon has come in to run to the whole operations area, but David Buns is now heading up the NAS business. He comes with a lot of experience in this areas working in Europe, worked here in Australia, but this is a services business, it has different characteristics to the core Telco business but is a very strong adjacency and it's great to have David on the team. We had a very strong sales result last year.</p>
+          <p>When you're talking about these big contracts, it's really the same as you do in the previous year that flow through in terms of revenue and profit in subsequent years and that was a very strong bookings in the enterprise group led by Paul Geason, did very well. We have a very strong ambition to grow this throughout Asia, so Paul McManus who was running that business is now moving in to Hong Kong to extent our capability throughout Asia with the NAS business. So what you're seeing is these key growth portfolios working off each other to really drive differentiation.</p>
+          <p>So now let me come back to the Sensis because that has been a challenging business over the last couple of years. I think we are getting through it. We are absolutely confident the strategy is right. When I talk to customers they see the print to digital online world happening, but they want leadership, they want someone to take them through that. And I think that as we move from being what, we've called it yellow print, to become a digital media marketing services company, that's a very big transition. However the relationship we have with the vast majority of small and medium businesses in Australia gives us the unique position that we need to now really prove to them that we can take them into the online world.</p>
+          <p>We're now into the second year of digital sales and across we have these campuses, we're trying to see some really good response. They like the product and really importantly the sales cycle has shortened significantly. When we started nearly 8 &#x2013; well, would have been nearly 12 months ago, the sales cycle is quite long because they were used to buying a print product and now we have to explain to them how AdWords works with Google, how we are going to rent to them across various search engines. But now they're getting more familiar with that, we're starting to get a better response rate. And also we've got to retool that business, to get a 47% EBITDA, was a very strong result and great testament to the very hard work that's going on in that business.</p>
+          <p>We now have joined Alan, who has joined us to lead Sensis and John has a rich media experience and you really do need media experience to run that business now. No longer could retake a traditional Telstra executive and put them in there, we really need to build our online and digital experience in our executive ranks. And I'm pleased to say that he is sort of just arrived, got a lot ahead of him, but I think we are confident we can really make a difference as we go forward.</p>
+          <p>So we're now a year into our three year transition. We do still expect, as I said it was a three-year transition, there will be double decline in revenues next year and then by 2014 and 2015 we think we will sort of start to see some stabilization but we're not through it yet. So we've still got a lot of work to do.</p>
+          <p>So let me now summarize before we can take questions. First thing I want to say is that we've delivered on our commitments and that's so important for us in terms of credibility we've met guidance. Our business is proving resilient because it's a big portfolio and of course the balance sheet remains very strong. So it does give us flexibility as we look to the future. Our strategic priorities are delivering, top and bottom line growth is very important to us and we expect the business to continue to grow at the top and bottom line in full year 2013. And of course consistency as strategy is important and we are not changing our strategy at this time.</p>
+          <p>So, thank you for your time this morning. We'll be very happy to take any questions, so I'll ask Ben to come up and to just host that. So thanks very much.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0" type="a">
+        <plist>
+          <p>Thank you, David and Andy. We've got plenty of time for question this morning. We will as ever start for those of you who have come here in Melbourne and then we will take some question from the phone lines a little bit later. First question from Ian Martin. Go ahead, Ian.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Thank you. Mobile obviously very strong. Could you break it down into the different segments Enterprise and Governments double-digit, consumers double digit, but business services lagging behind about 2.8% growth and I wonder what's going on the because you think what's going on generally in mobile and the capabilities of mobile broadband that would be an ideal set of products in the business segment. You said back in February at the results, that you are seeing difficulties in monetizing data.</p>
+          <p>I think you're talking about generally than necessarily mobiles, but I wonder, is that still the case? Is there some turnaround there and what have you done, what can you do to achieve that? And if I might just also one question for Andy, with your guidance, you qualified the guidance to say subject to stable regulatory prices. I think you had a footnote to that affect, but the key access prices are set in concrete, as I understand for three years, ULL, wholesale DSL, wholesale line metal. So I wonder why you feel the need to qualify that and is there something else on the horizon, we should be aware of?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. Yeah, Ian, look, your observation is absolutely right. In the business sector, yeah, the mobiles growth wasn't as strong, primarily driven by ARPU decline, we had very high ARPUs in that market and it was pretty competitive, I know Will and the team have been working hard there. We've seen good momentum coming out of the year as we sort of rebalanced the pricing. And, of course, to your point around data, they are related because the consumption of mobile data plans as a lot of small businesses are using it to interact with mail, et cetera, is a mix we've got to get right.</p>
+          <p>We've had a bit of a competition in that part of the market, so as we pulled ARPU down we are starting to see the momentum or the prices down and then come back. We think there is opportunity for 2013, but, yeah, it's been a more challenged segment. But I think that some of the strategies around bundling, around the digital business product and the way we're interacting mobility with the IP servers will give us some nice differentiation going forward. But your point is right, we've got more work to do, it was not the highlight of the year but I truly recognize it.</p>
+          <p>I'll throw &#x2013; the data question on mobility is a bigger question. As you've seen, there's quite a bit of change around the world as people are moving to data plans and how you manage that in terms of the structure of your plans. Luckily, we've been pretty good at managing that transition. Remember SMS declines globally, we have not seen that because always had included SMS. So, Kate and the team are doing god job at managing through that, but we can give you more detail later. So I'll let you maybe just follow on the guidance side, Andy.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, thanks. Thanks, Ian. No, look, there's nothing sort of specific in that <mark type="ph" /> exclusion (50:02) on guidance. It's just basically the same guidance we've always given, which is that to the extent that there are regulatory determinations which we are not aware of today, i.e., those that we of today are included in our guidance. But if there are regulatory determinations during the course of the year that we are not aware of today, we will adjust for those when we actually come to our final result.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Ian, there is a little bit more on that. We have the IAD on the wholesale DSL pricing. We are still waiting for the FAD, and that's probably toward the end of the year. So that is one that has still not completely got a bow around it.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Hi, hello. Okay, couple of questions. First one on operating costs &#x2013; you did flat underlying costs this year. Just wondering if you can talk a little bit about productivity savings into FY 2013 and the potential for cost growth or decline in that year? And the second one is just around LTE. I know it's early days but just wondering if you could give us a little bit of sense of usage patterns, ARPU and maybe cost savings on those customers relative to your 3G customers?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>And just, thirdly FOXTEL, Richard Freudenstein has been talking about offering broadband as a triple play into the future. Just want to get your thoughts around how you view that. It's obviously something that hasn't really been discussed too much in the past. How you look at that going forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah. Okay. Let me &#x2013; I'll try to cover all three and I'll also ask Andy to give a few comments on productivity. Yeah, look, our productivity aspiration is about same as full year 2012, we need to keep driving that in both careful efficiency and as well as underlying simplification of the business to get somewhere in the legacy areas our operating costs down. And Robert and the team continue to run a strong cross-company program and working and Gordon and Brendon about how we can really drive greater efficiency so the scale is about the same. Always the question is about reinvesting in the growth businesses, and that's the tradeoff we make. But it will be about the same scale, we think, as 2012 that's what you should probably look to plan for.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>
+            <mark type="inaudible" /> (52:35)</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, yeah, in that area. LTE, yeah, look, the ARPUs are a little bit higher, but the costs are a lot lower. See, the thing about LTE, it's a far greater, far better efficient technology. So, as I say, it's about 50% less than what we would get on the 3G network. And we tend &#x2013; it's very early days because the people who adopt early tend to be the higher ARPU customers anyway. So we've not seen, we're not into the millions we're just on 400,000 odd, so actually 375,000. So, it's early days. And, of course, some of the people are taking dongles as well or the Wi-Fi device where you've got that, which has led to higher ARPU. So, we're a little bit reticent to put out too much data until we get to about a million subs or so. But it's encouraging, it's encouraging is the best way to say.</p>
+          <p>Okay. And number three, FOXTEL. Yeah, look FOXTEL has always had the ability to do the triple play. People ask me this question often, and it's purely a financial issue for FOXTEL. We have always said that when you need to do it, you can do it. Obviously, we would have to put a competitive tender into them if they hopefully use our services but that's not a given. They run independently in that sense. But, yeah, I think that just like BSkyB has done it in the U.K. and I think there's an opportunity for FOXTEL to do that. And we'll continue to look at what's the right thing for FOXTEL because that's our responsibility to get the best returns in that asset. So that's where we're at with that one.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Kind of just a follow-on question, you talked about IPTV as being important. How important is selling FOXTEL services through the T-Box as part of your vision there? It sounds like it's been relatively slow and you don't seem to push it very hard.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, well, it has been slow. We are really trying to get the experience as good as we can, putting all those services through our ADSL II services, it's pretty good on HFC and depending where you are on the copper. It's very important. Remember, we think that that pay-TV, paying for content, is a critical part of any media strategy. Within IPTV, you can do some things differently. Interactivity, how you structure the screen. And that's what we're going to be doing a lot of work on, but we're also partnering very closely with FOXTEL on that. And we'll work through the product offerings, but no very important.</p>
+          <p>Remember pay-TV in Australia is only at, what, 28%, 29% of homes have a pay-TV service, still a lot of growth. The issue has been it's a quite a high ARPU product, but we're trying to &#x2013; I think you'll see some changes, and Rich has already alluded to that in terms of improving penetration this year. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Mark?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Yes, good morning Mark McDonnell from BBY. Two areas I would like to ask you about. The first is mobiles and the second is on your revenue guidance. Firstly, with regards to mobiles, I was wondering if you could split out the 375,000 4G sales into those that are mobile broadband versus those that are handsets. And if you can't give us the exact numbers, if you could give us perhaps an indication of trend, i.e., does the higher speed of 4G translate to a higher proportion of broadband wireless connects relative to your underlying base?</p>
+          <p>But the broader issue is associated with your reinvestment strategy in mobiles to support the growth that you're enjoying relates to your views now about the adequacy of your spectrum, particularly in the light of Bill Morrow's comments that Vodafone may well not peruse the digital dividend spectrum, Optus' acquisition of Vividwireless and considerable enhancement of their spectrum assets. And whether in the light of that you believe that you have sufficient spectrum given the share that you have, the growth that you're enjoying and your relative position vis-&#xE0;-vis your competitors and, therefore, what impact that might have on your funding expectations with respect to the spectrum.</p>
+          <p>And the last component of that first question is then with respect to the debt funding that's proposed on that. I know that's been said a number of times, but what we haven't heard is in respect of the 15-year license, whether you would payback that debt at the rate of amortization or whether you see this as a permanent change to your gearing?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. Mark, so let me handle the first ones and then I'll get Andy to talk to the debt funding on the spectrum. So we did break out on the 375,000 4G devices, 113,000 were handsets, and so the rest will be dongles or the MiFi device. So &#x2013; and that's been &#x2013; remember, we've only got two handsets in the market, the HTC and the Samsung. So, but we're pretty pleased with that result, a lot better than we had actually anticipated. I think that answers that one.</p>
+          <p>Now, in terms of broadband wireless connectivity and is that having &#x2013; I think your question is is it having impact on the fixed environment. Well, we did see a 2% growth in the number of wireless-only households this year. I don't really know yet, Mark. It's sort of early days. If you looked at those numbers, you'd say of the 375,000 there was more obviously wireless broadband users on the LTE. But I don't think that, at least at the moment, I'm ready to extrapolate that out further. But a 2% growth is higher than we've seeing. Usually we've got about 1%, and so that has accelerated.</p>
+          <p>Now, spectrum. That's a complex question. Is spectrum important to us? Absolutely. Are we comfortable where we are with spectrum? Well, absolutely we are. I've &#x2013; our engineers were the first to look at refarming of 1800. I know the digital dividends coming up and we will talk to them in a moment. And also, we had an opportunity to do 2300 TD-LTE. But no, we're comfortable where we are, because it's not just spectrum; you need spectrum, the mobile network and you need devices in the market. Now, the Chinese are unquestionably pushing TD-LTE and they're becoming a big market, as you know.</p>
+          <p>However, you've got to have the whole ecosystem right, and that's what we look to, and pick the timing of when you bring that product to market. Now, we also have some access to those higher-end spectrum if we wanted to, but we're pretty comfortable where we are. But that's not to belie the point, it is very important us managing that spectrum is going to be very important as we forward.</p>
+          <p>Also, remember, the digital dividend isn't available still for a couple of years, so we have got to really free up the spectrum and move forward. But at the moment, we're pretty comfortable where we are. I'm aware of many comments made, but I'm focused on where we're seeing growth and where we can get good returns. That's what we do. Okay? Does that sort of give you a bit of a sense? We can pick it up later, there are many facets to the discussion.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Just on the financing point, so what we've said in the context of capital management is that we will basically fund the spectrum out of debt. What that &#x2013; it doesn't necessarily go as far as to say that we will then also amortize that debt in line with the spectrum life time. It's just from the point of view setting a framework for excess free cash that we have in the short to medium term.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>So, just to be clear on that, Andy, you're saying that there's no plans to reduce that debt over the 15-year period?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Sorry, just to be clear, so there is no plans to increase our gearing. Just in the short to medium term, we will fund the spectrum acquisitions out of debt and we will obviously maintain our gearing levels within our balance sheet settings, which is 50% to 70%. But essentially it's not a permanent increase to debt.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Okay. Mark, I have got, there's 10 more people waiting to ask questions, so can you make the second question one question?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>The question will be brief. I'm hoping you can help decompose revenue guidance, particularly the proportion of uplift associated with the recent price rises, particularly taking demand, price elasticity of demand effects into account, and the degree to which the slower rollout of the NBN is a decrement to your revenue outlook?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I think I'll ask my modeler to comment on that one.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think the short answer is, no, sorry, Mark, we won't provide a breakdown. I mean, obviously, we're providing guidance at the total level at low-single digits. But, Mark, I can say that on our first cursory look at the NBN roll out, there's no material impact to our forecast.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>We've got three more questions here in Melbourne and then we'll go to the phone lines. Raymond?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Good morning, David. Good morning, Andy. Raymond Tong from Goldman Sachs. Just three questions. Firstly, just in terms of your mobile margins, you got up to about 39% in the second half. Just wondering where you see that changing in the next year or so? And can you maybe just discuss the trends that you see happening in terms of re-contracting new customer mix going forward? Secondly, can you maybe discuss have you seen any economic slowdown across your consumer business and enterprise segments?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>And just the last one is just in terms of your FY 2013 guidance, now I just want to kind of confirm whether that includes or excludes the TelstraClear impairments?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Shall I just knock out that last one, first? So to be clear, we're excluding all of TelstraClear from guidance. So assume take it out of 2012, take it out of 2013, and that goes both for the operating numbers as well as the impairments.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay, do you want to do number one on the mobiles margin as well?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, I think that, David, you've been on the record in the past as saying that over the sort of medium term, we expect to see mobile margins in the high 30%, so 39% in the second half of the year is what we would sort of aim to be seeing over the medium term.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, so we think that's where we should be and that's where our plans are at the moment. So let me go through &#x2013; so, re-contracting, yeah, look, there's a little bubble coming our way, as we know. And, we have done a lot of work in this area, as you would expect. Obviously, it's a bit dependent on bit of an overhang in the market around when the iPhone 5 is going to arrive.</p>
+          <p>So, like any good operator, we're very diligently getting ready for that. But I'm confident that we're well placed in the re-contracting, it is a little bit higher this year, but, remember, it is all about how you re-contract, and there's some new ways that Gordon and the team are looking at. And I think that we've got some good approaches there. I think that's what I'll leave with today because it's a bit sensitive.</p>
+          <p>Now, in terms of the economy, look, if you look at our results, while there is some puts and takes on some accounting on the mobile results, the second half was a little bit slower. I mean I think that's just reflecting the pretty choppy different sectors across the retail set. I &#x2013; we're seeing continued performance in the last couple of months, but it is down from where it was seven months ago. But I don't think it's of any great significance.</p>
+          <p>We are watching it very closely. Our churn level is still very low and the take-up of bundles is strong. As you know, we have put the price increases into the market, but we think that if those who want to take up bundles if those are a really good offer, but if you're still are on the old PSTN service, then you get a bit of an increase. So, so far so good, but it is definitely a little slow. Then the last one was...</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Guidance.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Guidance and we covered that. Okay. Is that good? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="q">
+        <plist>
+          <p>Thanks, David.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Andrew?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Hi. Andrew Anagnostellis, Deutsche Bank. Just two questions following-up from the mobile discussion, you saw a slowdown 2.8% growth in the postpaid mobile markets. Just wondering if that's tough comps or anything else happening? Obviously, offset by the prepaids, perhaps if you can talk to the mix there. And just a second question take on board your comments on Sensis having another difficult year, but it looks a herculean task when you've got 4% growth in digital and 20% plus decline in print. What gives you confidence you can stabilize the business? And just at the bigger picture, I mean, why is Telstra as a group committed to this business when it's clearly a tough industry for everyone?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah. Well, I'll cover that one while it's sort of at the top of my mind. Do you have an offer? No, look...</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>AT&amp;T might.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>AT&amp;T might. Look, that's the reality. We have to. And actually the more we look at it, and Rick and I have spent a lot of time on it, we think there's some real opportunity. But it is going to be difficult and I don't want to leave you with impression that we've got it all covered. But the strategy that we're on is unique and we do know all the other yellow operators around the world, some have done well, some have been more challenged, and some people have decided to get out. Two and half times EBIT doesn't sound very good to us.</p>
+          <p>And as we restructure the business and look to the three-year plan, where we get to, and if it is truly an online business, it actually has more value than it does today. That's the strategy. The execution is going to be difficult. But the signs we've had in the last three months to four months have been encouraging but not victory, encouraging. If we can hold the customer base, move them to the digital product, then we think there is a future for that business. But, look, it is what it is. So, that's that one.</p>
+          <p>Now, in terms of mobile business itself, yeah, look, the growth was slower in the second half. There are a number of factors for that. But we are still seeing good growth. Remember, the half &#x2013; it's a half-to-half comparison, end of full year 2011 was a very strong half as well. So we've got that comparison. But we're still seeing that we'll grow faster than market as we go forward. And we think that momentum will continue. It is going to be dependent on when this iPhone 5 will be a bit of jab in the arm, I think for the industry and so we got to be well prepared for that, which we think we are. And it's been very gratifying to see the growth in prepaid.</p>
+          <p>I remember Gordon standing up here and saying, one of his must-win battles was to be number one in prepaid and I think we now are. And that's &#x2013; we've never been there, in all my years at Telstra. And we're still seeing good profitability coming out of that sector. So while it's actually declined, we are actually doing very well. So I've been very pleased with the performance in that area. And then as we continue to drive LTE and the 4G, we see a strong year ahead of us but I don't think it's going to be as good as 2012.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Do you want to make a comment, Gordon, Gordon is twitching at the front here and that always worries me when he does.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>It's fair to say that the &#x2013; I think all the analysts would predict that the market is slowing next year. And the challenge will not be the underlying growth in the market overall, it's around the value you create from the slowing mobiles market and is any global market you see the same trends occurring. So our aim is to continue to win market share and we are well positioned to continue to win market share. We have taken market share across all of our mobile categories this year. We've also seen a three-point improvement overall in mobile profitability and we know there is still some upside in underlying mobile profitability if we look at many of the global benchmarks around the world as well. So I think the next year is all about value creation and underlying profitability and growth in those particular attributes of our overall mobile products set and that's what we are aiming to achieve.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Thanks, Gordon.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Richard, last question from Melbourne at the moment.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Hi, Richard Eary from UBS. Just two questions, the first one was on M&amp;A, I think at the first half results you sort of  identified a number of areas that you were looking at, publically you've come out and obviously knocked a couple of those over. Could you give us a feel in terms of where there's anything material, sizable that you are looking at on a sort of 18 months view or whether you can update us in terms of how you are looking at the M&amp;A space? That's the first one.</p>
+          <p>The second for Andy in terms of guidance, the cash flow guidance for 2013, can you give us an update in terms of pension contributions within that guidance, and also the NBN proceeds I think in April you said you expected $1 billion for the NBN cash proceeds come to in 2013 and 2014, I just wonder whether you can give us an update in the split. And then on guidance for your $2 billion to $3 billion of excess cash flow, which you've maintained despite the increase in CapEx. Could you give just give us a feel in terms of where you think obviously that's a slight upgrade where you are bit more comfortable or where you are bit more positive within the underlying business?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Let me go in reverse order. So the $2 billion to $3 billion so I guess since April what's occurred is that firstly we've finished 2012 at the top end of our range that we indicated for 2012 which is $0.5 billion to $1 billion, so we are at the top end of range at $1 billion and also of course we 've announced the sale of TelstraClear, which assuming really completes it we fully expected to do with that another $640 million in cash proceeds against which we will be investing $0.5 billion dollars.</p>
+          <p>So they're the sort of upsides if you like which will give us the comfort going to be able to reconfirm that, we know it's obviously we have only just in the new NBN plans so then we had a quick look at that but as David indicated we don't think significant variance into that over the whole sort of transaction.</p>
+          <p>To the guidance point in relation to 2013, in relation to updating, update pension contribution all I would say is that there is no sort of expectation that they will either be more or less in 2013 relative to 2012. So there is no significant change there as regard the NBN proceeds, I'm not going to sort of break it down but suffice to say that of that billion dollars I've spoke to the market about in April as you can imagine a majority of that or the larger proportions that was in 2014 not 2013 at that time in any event just because what we were expecting in relation to the roll out?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>In relation to M&amp;A, Richard, our strategy is the same. We're really focused on acquiring capability where we need it. Bolt-ons around the core and new innovative technologies, like the investments in <mark type="indiscernible" /> (1:14:13), which is on the West Coast, that's our focus for now, and I think pretty much that will be going forward. Its, we scan the markets pretty aggressively these days because we do need to stay abreast of the changes in the industry and as the convergence continues to take place, but there is nothing on the horizon at this time. But look, if we do change that position, we will let you know, but that's our position today.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thanks, David.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>We'll now go the telephones. I think the first question is from Justin Diddams.</p>
+        </plist>
+      </speaker>
+      <speaker id="9">
+        <plist>
+          <p>Please go ahead, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Hello, guys. Can you hear me?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We can you hear you, Justin.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Sorry, I couldn't be down in Melbourne today. Just a couple of question from me, firstly just for mobile, so that 39% margin in the second half cracking result, I was wondering if you could give some color about where the cost &#x2013; what happened in the cost base there, obviously there is not much detail in the notes and just more specifically around the cost of goods sold and cost to handsets in and really what drove the margin beat there first.</p>
+          <p>Second question just on CapEx at 15%, if you look at global Telco players, 15% to 16% seems to the normal at the moment. I was wondering why you think CapEx will drop back to 14% in FY 2015. And then thirdly, bit of a dorky question just around interest expense. I was wondering if you could give us sort of a read on what you think the interest charge will be for FY 2013? Obviously there was quite a step down in FY 2012, that'll do it.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Right, I'm going to let Andy handle all three and then I'll make one comment on the CapEx to sales at the end.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Well, I think just &#x2013; firstly in relation to the margin on mobiles, as I said previously in response to a question, another question that David was given, I mean, I think &#x2013; our view aspiration is be at the high 30%. So, as you say, 39% in the second half was a cracking result, and I wouldn't say that we'd be predicting that completely into the future, but that is &#x2013; that's our aspiration to be at or around that level.</p>
+          <p>I mean, I think what underlies that is obviously the strong growth in mobiles that we have achieved on the one hand in conjunction with the productivity benefits that we have achieved on the other through the Project New through moving a lot of transactions online, lot of service aspects online as well, so that's been, I think it's been sort of on  both on sides if you like of the PN&amp; L account.</p>
+          <p>One thing the CapEx to sales ratio, why do we think it will reduce below 14% in 2015 is because that's what are planning to make it too. That's maybe needs a bit more color. But I mean the point is that we have maintained the CapEx to sales ratio in the context of a capital management strategy and framework is around 14% CapEx to sales, we believe that we &#x2013; it is a sensible thing for us to do take advantage of our stronger capital position at the moment to invest in acceleration of the roll out of LTE, to continue to invest in our mobile network.</p>
+          <p>By the way I don't if you pick up from what David said that will bring total investment into the mobile network in 2013 to $1.2 billion just in 2013, as well as enable us to accelerate our investment in the AMDN network. That therefore means that's expense or CapEx that is accelerated and therefore by definition if it's accelerated it should enable us to reduce what we would otherwise spend in 2015. So I think that's the answer.</p>
+          <p>As regards our interests cost and where that's likely to go, I guess if you could tell me what's going to happen with global interest rate, so I'll give you that answer. But maybe to put a bit more color into that. Look, I think our net interest cost this year was 7%, global interest rates don't look as though there's a lot of pressure on the upside at the moment. So I'm not expecting anything radically different next year.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I might just add just a couple of small comments. One of the areas that I think I would also attribute to the strong performance in the mobiles is Warwick Bray and the team have done an outstanding job in really managing the clarity you need around <mark type="ph" /> sarcs (1:19:02), around just how we are managing that mix, that does have a big impact and also we are doing a lot of work around reducing the cost both the activation of mobiles, how to do that differently is allowing us to get some cost out but also some very active management I think right across the portfolio, and, but as you know that's a, it's a complicated business when you get underneath it.</p>
+          <p>So that's a &#x2013; the 14% it is a tough call, I think you're right, Justin, because in our industry you've got to keep investing, you've got to keep ahead of the technology curve, but also I think Andy and senior team also believe that we can be more efficient in the capital we spend and that's a difficult one because you got multi-year projects and we are going to trial some really different ways in the way we manage big projects and how capital is spent. So, that's what we're going for and we've started a big body of work and that's what we're going to manage to, but I'm not saying that also is going to be easy but I think it's the right thing to do.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Thanks. Next question from the phones, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="9">
+        <plist>
+          <p>Next question for you is from Daniel Blair. Go ahead please, Daniel.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thanks, everyone. Thanks, David. Thanks, Andy, for your time. Three questions from me. Firstly, on the sales trends, if you look at the second half 0.8% sales revenue growth versus the first half with 1.2% within that second half there was $60 million related to the NBN residual agreement that accounts to half of the growth. As we run into FY 2013, can you just talk about some of the things that you are positive about some of the risks to those sales trends within FY 2013, I think there's a further $110 million related to the NBN residual agreement?</p>
+          <p>Secondly just on Sensis, so I think David you said double-digit written growth in 2013 just your expectations around what that translates into EBITDA and through the end of the three-year transition in FY 2015, what are your expectations for revenue and bottom line or EBITDA growth or otherwise? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay. So let me handle the sales one. Yeah, look, the second half was slow, but remember it was compared to that very strong second half the previous year. Interestingly, the momentum in the enterprise business and in consumer was still very strong coming out of the year and also business had some, a very strong set of sales results coming out of the fourth quarter, which we don't usually talk about. So that sets us up, I think better as we come into this year. The NAS portfolio has signed a number of deals Andy mentioned those as well and there is a number of very large transactions that will be decided in the next six months that give us some, quite a degree of confidence in terms of that trajectory.</p>
+          <p>It's interesting, we are seeing in the enterprise space, a strong push to use technology to drive costs out and that's across a number of sectors. So, the focus on technology being a product innovator is really starting to bear fruit. So mobility as we alluded to grows faster than the market, the question is Gordon said and I said it's slowed, but it's still going well. Fixed broadband, very strong coming out of the year, so when you put it all together we have a good degree of confidence about our growth trajectories.</p>
+          <p>Now in terms of Sensis, and I hope I've got the questions correct, I think firstly, the revenue decline, EBITDA decline, yeah roughly about the same, in terms of the scale for the full year 2013. I've made a very conscious decision in working it through with Rick. We've got to give enough life and breath into that business to reform itself. If we cut it back too hard, we are worried that it could be a self-fulfilling prophecy and we don't think that's the right strategy. So we are swallowing it hard in the year but we are looking after customers. Customer retention and growth is probably a critical-critical component because you can hold a relationship with the customer and prove to them that you can take them into the digital world, then I think we've got a stronger future ahead of us. I'm sorry, Daniel, the third part of your question, was it 2014, 2015 Sensis?</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Yeah, David, you're just saying that you're in the three-year transition, so in FY 015, what are the expectations in terms of revenue and EBITDA?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, look, our expectations in 2013 will be that the rate of decline will slow, as will in 2014 and hopefully by 2015 will be starting to flatten out. That's sort of the plan of record as much as we can give it to you. And we are going to try and as you do, you got to set your targets and manage too it. Rick, do you want to make any other comments on that all?</p>
+          <p>I think that's probably enough, yeah. Okay.</p>
+          <p>Yes, so that's it, Daniel. Hope that gives you some flavor.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>That's great, thanks. Great going, guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Great. Next question from the lines, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="9">
+        <plist>
+          <p>Sameer Chopra from Merrill Lynch, please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Good morning. I had three quick questions all on cost. First one, David, Project News now is about 70% complete and you were talking about the 20% fall in customer volumes. I was just wondering if you can comment on are you sort of right sized in terms of your head count or do you see potential for more chunky cost out coming through in FY 2013?</p>
+          <p>That's the first, the second one was just on COGS. COGS as a percentage of sales, your expectations for the next year, do you see this ratio going up or down? And last one is just a quick comment on depreciation. If you can guide us towards a depreciation number for next year?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Okay, I'll get Andy to get you an answer to the last two, I'm not sure, I don't think I have said that Project New is 70% complete. I look at Rob and I say its 30% complete. And I still think we got a lot of work to do. It's just the size of this business and the opportunity. Be it in the operations area in activation, the complexity of the hand offs we've created even in the new IP products. Look, we were spending I think it was nearly four, five months to do a IP telephony. And the end-to-end process, we got a lot of opportunity to take cost out and improve going forward. So there is a lot of opportunity there.</p>
+          <p>Look, in terms of productivity and head count, I have been on record. We will continue to manage that aggressively and where there aren't more opportunities to do drive the business more efficiently. But it's really a rebalancing of moving from the very large legacy parts of business, a lot of head count and moving them into the new growth areas. But there still more to do as we go forward. So, let me throw it to Andy and he can talk to you COGS as a percentage of sales and also depreciation.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, sure. <mark type="indiscernible" /> (1:26:57) I mean, in terms of COGS, we do expect COGS as a percentage of sales to go up a bit next year and in the end it's really going to be a function of the extensive re-contracting and how that plays out. As regard its depreciation and amortization, I think you can assume that there is no major change to the sort of current profile, D&amp;A is about$4.4 billion this year. And that's sort of trend that we would expect to mean our CapEx spend over the last couple of years, it was up 5% this year relative to last year. And it will be up a little bit as we just talked about because the additional investments we're making next year but that's not going to have a material impact to the D&amp;A line.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I think the other key point on the COGS to sales is that in these very large contracts you sign, you do have little bit cost up front over a 10-year period and that's probably pushing our COGS up a little bit higher, but over it's still a good business to be in.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Next question I think is Digby.</p>
+        </plist>
+      </speaker>
+      <speaker id="9">
+        <plist>
+          <p>Go ahead Digby.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thanks very much. Just one quick one from me. Andy, you indicated the PSTN declines are in line with your expectation. So if we look at revenue there, second half 2012 declined by 11%, which is I think the worst decline on record that I can see. So what exactly are your expectations for fiscal 2013 in terms of PSTN product revenues? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, sure. Well, there is a couple of things just sort of breaking that down a bit. So the number of services declined 281,000, that's around 4%. ARPU was down around 6.5%, I think 6.7%. There was a bit of an impact there from bundles where in bundles we attributed slightly more service revenue to fixed broadband than we do to the PSTN aspect and that's probably what's sort of coming through in terms of what appears to be slight increase in the rate of decline. But look, I think you know the more generic comment I would absent the impact of NBN because obviously the rate and pace of the roll out of NBN will influence if we're putting that to one side for a second, we don't expect &#x2013; we expect to see the rate of decline to be sort of similar to that it was in 2012.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="9">
+        <plist>
+          <p>
+            <mark type="indiscernible" /> (1:29:30) Please go ahead with your question.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thanks. Just a couple of follow ups to the questions asked earlier. Just wanted to get a handle on the percentage of contribution that's driving the CapEx to sales ratio increase to 15% what proportion is 4G versus NBN. And also just focusing on NAS, the rate of growth has been slowing in the last few halves, is double-digit organic growth going to be difficult to come by, is this one of the areas that you're focusing on for inorganic growth to compete against the larger players and is there plans for margin expansion in this area?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>So, I'll let Andy answer the first one and I'll do the NAS one.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I think if I interpret the question correctly, it is of the additional $500 million, how much are we investing into the LTE as distinct from how much we're investing in the transit network for NBN. So I think the short answer is well, we haven't actually disclosed that data and I'd be disinclined to, but the majority would be into the LTE network and into mobile network and just to repeat a comment I made earlier, that would bring the total investment in 2013 into our mobile network to $1.2 billion. So I think that's probably the best way we can give it to you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, look, the NAS business, the rate of growth did decline second half, but again there was quite a large one off transaction in the previous six months period so the underlying growth was actually very strong, also the number of sales, big sales we had was NAB, Department of Human Services, Australia Post, Origin, they are very big contracts that sort of really kick through into 2013, obviously as the business grows to get double digit growth gets harder but we still see double digit growth going forward and we remain enthusiastic about that business.</p>
+          <p>Now, in terms of margin you are right to point that up because margin is what is critical in a services business, It's less capital intensive, more labor intensive therefore methodology and efficiency is really important. Now, the reason that we don't often talk about NAS is that the margin is that it actually is spread right across the opps area and we actually leverage a lot of our existing capability so it becomes an allocation there, but over the next 12 months, 18 months we'll give you more and more clarity as we just sort of really focus in on that business and remember it is about how you put the services and the carriage together to deliver the service to the customer when you at the margin across both.</p>
+          <p>So that's the critical nature that we think we got opportunity, good opportunity and the plan is to improve our margin year-to-year as we go forward as we bring on these contracts, drive very strong what we call delivery towers, driving efficiency and data solutioning at the front end of the business, but we can pick that up with you separately. It is a &#x2013; we've come a long way in that business which is good.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>David, maybe to add as well looking at Paul Geason here, without sort of outing Paul under too much pressure. I mean, I think the other point to make is that as we sit here today, the proportion of sort of outlook and target for 2013 that is incumbent in existing contracts, which have been signed, because of those big contracts have been signed is a bigger proportion than it was this time last year, which I think all goes well for next year.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>We have just three more questions from the phones.</p>
+        </plist>
+      </speaker>
+      <speaker id="9">
+        <plist>
+          <p>Brad Clibborn from Credit Suisse. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Good morning gents, thanks for your time. Just two quick ones from me, firstly in terms of the tax rate, effective tax rate is up to 30.6% from 28.6% the prior-year. Was there any tax impact from the TelstraClear sale and just what's driving that and where you are at from a franking perspective as well and just following on the point around NAS. Those contract wins and the ongoing growth in NAS, do you expect to see any pull through in terms of the data and IP side of the business. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>On the tax one, so no there is no real impact from the sale of TelstraClear. Our franking position is currently negative, $54 million you can see that from the statutory accounts. We do have as you'll see from the balance sheet, a number of tax, sort of adjustments to be lodged which is already just about making sure we've got the right franking situation. So there is nothing &#x2013; there is no sort of systemic change in our tax position. It's just about making sure that the franking right, it's a negative $54 million balance, our outlook is that we're in a position to fully franc the dividend for 2013.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, and on the NAS question, yes, you do see pull through on the IP core access products, so we'll see good growth in that area as we go forward. That's the whole value proposition of that business as you pull through good next-generation carries to revenues.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Operator, we'll take the last question please.</p>
+        </plist>
+      </speaker>
+      <speaker id="9">
+        <plist>
+          <p>Last question is from Paul Brunker, JPMorgan. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Morning all. Just on mobile margins, there was some degree of slowdown in the second half as you said albeit from a high base. Has that somewhat helped margins through lower subscriber acquisition costs and would you expect <mark type="ph" /> FACs (1:35:04) to be rising in FY 2013 on the iPhone 5 and so I will just sneak another one on CapEx, your guidance I think referred to the accrued number, that's about $350 million less than the cash CapEx this year. If you can just clarify why that is &#x2013; are we right to assume that that gap reverses next year?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>All right. In terms of your first question on the mobiles, no, it's not significantly attributable the increase in margin. We are managing it better I think and therefore what, subsequently what phones, at what time, when we do it, re-contract rates, all those things are really important, but it's not significant in terms of the margin, I think it's been just a strong performance across a number of areas. In terms of going forward with the iPhone 5, look we do expect a slight increase, but over the full year I think we can manage it pretty well. It's still early days on that.</p>
+          <p>We need to get all the details, but we &#x2013; as I said we don't intend to take a step backwards through this process and I think we've had good experience with the introduction of new phones from Apple now and there is no question good demand and whether there is demand that's good business. So, Gordon, do you want to comment anything more.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>The only thing I'd say is one of the great shifts we've achieved this financial year is the quality of the mix of customers we are bringing on board, given the quality of the network and the introduction of LTE where we see if you looked a year ago, we would have had for price plans below $59, we would have had but in FY 2011, we were about 34 &#x2013; sorry we would have had 34% of our customers above the $59 price point and above.</p>
+          <p>If you look at FY 2012, we are now about 71%. So what we see is an improvement in quality of customer, what we see is improvement in the quality of the mix, and the plan mix, we're seeking an improvement in the sage and customers wanting more inclusions because they are using data more and we are beginning to monetize that and that actually is reaping greater margin improvement and we don't see that abating. So that's why the margin improvement is sustainable notwithstanding as we shift to a year of re-contracting with the launch of iPhone 5. So that's a positive trend that we want to..</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thanks, Gordon. And any further questions?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, I might just give Mark Hall to answer the question.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="a">
+        <plist>
+          <p>Thanks Andy. On CapEx, I mentioned at the half that in the past we've had a program that ramps up during the course of the year. So obviously the cash impact of that spills over into the following year. What we've had this year is a program managed on a far more flatter basis i.e. even keel across the year. So we don't have that same impact. We would expect that to continue going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="a">
+        <plist>
+          <p>Thanks, Mark. I think that's all the questions done today. I'll just hand it to David for any closing words. Then we'll close. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Yeah thanks, Ben. I don't have a whole lot to say. Look, it's been a strong year's results. We're looking forward to this year, this full year 2013. I think we've got good momentum. We are across all the key things and thankfully there is still great demand for our products and services which makes it fun to be in this business. So thanks for your time and we look forward to talking to you over the next few weeks. Thank you.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

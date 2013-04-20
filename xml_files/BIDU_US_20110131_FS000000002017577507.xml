@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1365317" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q4 2010 Earnings Call</title>
+    <date>2011-01-31</date>
+    <companies>
+      <company>44197</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Victor Tseng, Investor Relations</participant>
+      <participant id="2" type="corprep">Robin Li, Chairman and Chief Executive Officer</participant>
+      <participant id="3" type="corprep">Jennifer Li, Chief Financial Officer</participant>
+      <participant id="4" type="analyst">James Mitchell</participant>
+      <participant id="5" type="corprep">Haoyu Shen</participant>
+      <participant id="6" type="analyst">Dick Wei</participant>
+      <participant id="7" type="analyst">Jin-Kyu Yoon</participant>
+      <participant id="8" type="analyst">Eddie Leung</participant>
+      <participant id="9" type="analyst">C. Ming Zhao</participant>
+      <participant id="10" type="analyst">Andrey Glukhov</participant>
+      <participant id="11" type="analyst">Alicia Yap</participant>
+      <participant id="12" type="analyst">Yu Jin</participant>
+      <participant id="13" type="analyst">Gene Munster</participant>
+      <participant id="14" type="analyst">Eric Wen</participant>
+      <participant id="15" type="analyst">Steve Weinstein</participant>
+      <participant id="16" type="analyst">Alex Yao</participant>
+      <participant id="17" type="analyst">Philip Wan</participant>
+      <participant id="18" type="analyst">Aaron Kessler</participant>
+      <participant id="19" type="analyst">Wallace Cheung</participant>
+      <participant id="20" type="analyst">Mayuresh Masurekar</participant>
+      <participant id="21" type="analyst">Jiong Shao</participant>
+      <participant id="22" type="analyst">Wendy Huang</participant>
+      <participant id="23" type="analyst">Gary Ngan</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Hello and thank you for standing by for Baidu's Fourth Quarter and Full Year 2010 Earnings Conference Call. At this time, all participants are in listen-only mode. After management's prepared remarks, there will be a question and answer session. Today's conference is being recorded. If you have any objections, you may disconnect at this time.</p>
+          <p>I would now like to turn the meeting over to your host for today's conference, Victor Tseng, Baidu's Investor Relations, Director.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Hello, everyone, and welcome to Baidu's Fourth Quarter and Full Year 2010 Earnings Conference Call. Baidu's earnings release was distributed earlier today and you can find a copy on our website as well as on Newswire services.</p>
+          <p>Today, you will hear from Robin Li, Baidu's Chief Executive Officer, and Jennifer Li, Baidu's Chief Financial Officer. After their prepared remarks, Robin and Jennifer will be joined by Haoyu Shen, Senior Vice President of Business Operations, to answer your questions.</p>
+          <p>Before we continue, please note that the discussion today will contain forward-looking statements made under the Safe Harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements are subject to risk and uncertainties that may cause actual results to differ materially from our current expectations. Potential risks and uncertainties include but are not limited to those outlined in our public filings with the SEC including our annual report on Form 20-F. Baidu does not undertake any obligation to update any forward-looking statement except as required under applicable law.</p>
+          <p>Our earnings press release in this call include discussions of certain unaudited non-GAAP financial measures. Our press release contains a reconciliation of the unaudited non-GAAP measure to the unaudited mostly direct to comparable GAAP measures and is available on our IR Web site at ir.baidu.com. As a reminder, this conference is being recorded. In addition, a webcast of this conference call will also be available on Baidu's IR Web site.</p>
+          <p>I will now turn the call over to Baidu's CEO, Robin Li.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Hello, everyone, and welcome to today's call. 2010 was an exciting period for Baidu. The year marked the five-year anniversary <mark type="audio gap" /> (0:2:22 &#x2013; 0:2:49). Underpinning these results, were a combination of factors, this include the successful migration to our enhanced online marketing platform Phoenix Nest, strong macroeconomic conditions, customers' growing appreciation for search engine marketing and continued <mark type="audio gap" /> (0:03:10 &#x2013; 0:03:51).</p>
+          <p>On the user side, we continued to drive our box computing initiatives through improvements to Aladdin, Baidu's open data platform and we are the first general search engine in the world to invent applications in search results with the introduction of Baidu's open application platform. Together, these two platforms serve to enrich our search results with dynamic information and interactivity that were not readily available through search previously. As of today, Baidu opened applications library has accepted over 2,700 applications. This includes not only games but also books, tools and a range of entertainment applications. The application library is designed to give users the convenience of using the applications they search for right on the search result page and give application developers more exposure.</p>
+          <p>As we develop this initiative, we are exploring ways to support more developers and grow our platform. We believe that by integrating search with other online activities, box computing-related initiatives, will revolutionize user experience across all assets of online activity and further reinforce Baidu's position as a center of China's Internet ecosystem.</p>
+          <p>According to CNA, in 2010, search became the number one Internet application in China for the first time, surpassing music, news and instant messenger. And as the leader in search, we are seeing lots of opportunities to integrate search with a variety of online activities like social networking and e-commerce. Social networking, in particular, became a very significant element of the Internet market outside of China in 2010. In China, since our early days in 2003, we have been evolving our products to integrate search with users' social interactions online. For example, we pioneered a hugely popular query-based discussion forum platform, Baidu Post-Bar.</p>
+          <p>Our industry leading Q&amp;A platform, Baidu Knows, have answered about 118 million questions. Today, our social search products like Baidu Post-Bar, Baidu Knows, as well as Baidu Encyclopedia are significant drivers of traffic growth and users are taking it. Collectively, they represent about a quarter of Baidu's total traffic and they have been integral to Baidu's success through the years. We will continue to invest to further evolve these vibrant social products and integrate them with web search so that users will increasingly rely on Baidu at the starting point in their online experience.</p>
+          <p>Looking at fourth quarter results, we were pleased to see a 94% revenue increase and a 171% net income growth year-over-year. Top line growth was driven by an increase in traffic, growing customer understanding of Phoenix Nest and the rapid growth of spending from online retail sector. Spending by online retail customers grew by close to 200% in Q4 compared to a year ago. Even though our revenues are growing robustly only a small percentage of businesses in China are taking advantage of search engine marketing. Therefore, we will need to further promote SEM among China's business community.</p>
+          <p>To do this, we have established a qualification program to train online marketing professionals to understand SEM and to help online marketing customers navigate Phoenix Nest features and maximize return on investment. We believe such training will help expand our customer base and improve ARPU.</p>
+          <p>Also in Q4, we launched several new user products. Baidu Wenku our document-sharing platform lets beta and hosts more than 17 million documents now. We also launched a mobile version of Baidu Maps and expanded our partnerships. To-date, we've partnered with the majority of leading handset makers including Nokia, Samsung, Motorola, SOS, leading Chinese mobile operators to provide Baidu search services on mobile devices. And recently, we expanded some of these partnerships into a much deeper level. Qiyi.com, our online video venture, is off to a good start, gaining traction on both the user and advertiser front. Just eight months after its launch, the number of unique monthly users has surpassed 100 million equating to close to a quarter of all Internet users.</p>
+          <p>Talent development is very important to Baidu and I am delighted to highlight the promotion of two great people to Vice President. Wang Mengqiu has been with us since 2002 and before this promotion served as Senior Director, Engineering. Zhu Guang joined us in 2008 as Senior Director of Marketing and Public Relations and will continue in a similar but broader role as VP taking a responsibility for government affairs as well.</p>
+          <p>For over 10 years, our deep understanding of China's Internet, our commitment to continuously improve user and customer experience and our relentless execution has allowed us to build market leadership. This will remain a reliable roadmap for our future success but in a faster changing industry like ours, constant innovation and aggressive investments are key to ensuring that we continue to lead the market and benefit from emerging Internet mega trends.</p>
+          <p>In 2011, we look forward to further integrating search into our users' lives and drive results for customers with many exciting new innovations and increased investments. Particularly, we will invest aggressively in infrastructure and key hires, especially in R&amp;D as well as customer and user education campaigns.</p>
+          <p>With that, I will now turn the call over to Jennifer for financial highlights.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thank you, Robin. Hello, everyone. As Robin mentioned, Q4 2010 was a superb quarter for Baidu with very strong top and bottom line growth. Our improvements to Phoenix Nest have driven improved monetization and we look forward to continued growth both in terms of monetization and customer base. Our performance in 2010 as a whole was exceptional, with accelerating revenue growth and record levels of profitability despite aggressive investment. Into 2011, we'll continue with our strategy of investing aggressively in hardware, head count and marketing as we look to reinforce our leading position by building the strongest team in the industry and creating tools that enhance search and improve user experience.</p>
+          <p>Now let me take you through fourth quarter and full year 2010 financials before taking your questions. The amounts mentioned are in RMB unless otherwise noted. For the fourth quarter, total revenue were RMB2.5 billion, representing a 94% increase year-over-year. Total revenues for the full year 2010 was RMB7.9 billion, a increase of approximately 78% from 2009. During the fourth quarter, Baidu had approximately 276,000 active online marketing customers, a 24% increase from the corresponding period in 2009 and a 1% increase from previous quarter. Revenue per online marketing customers for the fourth quarter was approximately RMB8,900 a 56% increase from the corresponding period in 2009 and a increase of 7% from the previous quarter.</p>
+          <p>For the full year 2010, active online marketing customers increased by 30% and revenue per online marketing customer increased by 37% over the full year 2009 figures. Traffic acquisition cost as a component of cost of revenue in Q4 was RMB199 million or 8.1% of total revenues as compared to 16% in the corresponding period in 2009 and 8.9% in the third quarter of 2010. The slight sequential decrease over Q3 reflects the continued impact of our traffic optimization efforts from previous quarters. Full year 2010 TAC as a percent of revenue were 9.6%, down from 15.7% in '09 primarily due to impact of Union traffic optimization efforts. Bandwidth cost and depreciation cost as a percent of revenue both decreased in the fourth quarter compared to the corresponding period in '09 primarily due to stability of our network.</p>
+          <p>SG&amp;A expenses in Q4 were RMB313 million, a increase of 41% year-on-year. Total SG&amp;A expense for 2010 were RMB1.1 billion, a 35% increase from '09 mainly due to increased personnel cost and marketing expenses. In terms of marketing, as you have heard, we'll be launching a major marketing campaign in Q1 during the Chinese New Year period to promote search and we expect that this incremental marketing spend for this upcoming Q1 related to this campaign will be at a similar level to that of the Chinese New Year campaign we did in Q1 2009.</p>
+          <p>R&amp;D expenses in Q4 were RMB232 million, a increase of 86% over the corresponding period in '09, primarily due to increased head count. Total R&amp;D expenses for 2010 was RMB718 million, a 70% increase from '09, reflecting our continued emphasis on investing in our R&amp;D capabilities. Share-based compensation expenses, which were allocated to related operating cost and expense line items, increased in aggregate to RMB28 million in Q4 from RMB19 million in the same period in '09. SBC for 2010, increased 9% over 2009 levels.</p>
+          <p>Operating profit for Q4 was RMB1.3 billion, a increase of 176% over Q4 2009. Operating profit for the full year of 2010 increased 147% from '09. Total head count as of December 31st 2010 was about 10,900 roughly 900 more than at the end of the previous quarter. The increase in head count mainly came from R&amp;D and sales. In 2011, we will continue to increase head count aggressively with more emphasis on R&amp;D expansion.</p>
+          <p>Income tax expense was RMB160 million for the fourth quarter. The effective tax rate for Q4 was 12.1% compared to 13.6% last quarter. For the full year, our effective tax rate was 13.2% compared to 11.8% in '09. For 2011, we expect our effective tax rate to be in the low to mid teens.</p>
+          <p>Net income for Q4 was RMB1.2 billion, a 171% increase from the corresponding period in '09. Basic and diluted EPS, EPADS for the fourth quarter of 2010 amounted to RMB3.33 and RMB3.32 respectively. Net income for the full year increased by 137%.</p>
+          <p>Net income excluding share-based compensation a non-GAAP measure for Q4 was RMB1.2 billion, a 166% increase year-on-year. Basic and diluted EPADS excluding share-based compensation expenses both non-GAAP measures were RMB3.41 and RMB3.40 respectively. As of December 31, 2010 the company had cash, cash equivalent and short-term investment of RMB8.2 billion. Net operating cash flow and capital expenditures for the fourth quarter of 2010 were RMB1.8 billion and RMB362 million respectively. Full year net operating cash flow and capital expenditure were RMB4.7 billion and RMB895 million respectively.</p>
+          <p>In 2011, we plan to aggressively expand our server network and office capacity. As part of our international strategy, we continue to focus on leveraging a centralized architecture that will allow stability and transferability. Japan is part of our overall international strategy. Japan expense in 2010 was $27.6 million versus a planned $30 million, represents a small portion of our overall expense. Given that our base continues to grow, rendering that this expense is increasingly immaterial, we will not separately disclose this going forward.</p>
+          <p>Now let me provide you our top line guidance for the first quarter 2011. We currently expect total revenue for the first quarter of 2011 to be between RMB2.38 billion and RMB2.45 billion, which would represent a 83.9% to 89.3% year-on year increase. I do wish to emphasize that this forecast reflect Baidu's current and preliminary view, which is subject to change.</p>
+          <p>I will now open the call to questions. Operator, please go ahead.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" />. Our first question comes from James Mitchell with Goldman Sachs. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Great. Thank you for taking my question. You showed very strong revenue growth in the fourth quarter of 2010 but you added fewer advertising customers than you added the previous quarter or the new add in the fourth quarter of 2009 when you had the Phoenix Nest disruption. Could you talk a little bit about the customer additions rate and also why the customer deposit growth was so fast?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Hi, James, this is Haoyu. Well, the new customer net add, so one observation we had since we have Phoenix Nest on the market for over a year now. We're seeing that the sophistication is harder to manage a new pacer system has increased, meaning some of the small advertisers is less able to compete with the big advertisers. So over time, we're seeing some attrition of smaller advertisers. And especially in the early days of Phoenix Nest and other product features we added, they directly benefit the big advertisers. So that sort of made that situation even worse. But having said that, I think going forward, we're going to continue our focus on retention and launch product features that will help the small advertisers to improve their experience with Phoenix Nest. So that's probably why you're seeing some softness in net adds in Q4. As far as customer deposit, I'll refer it to Jennifer.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Typically, the seasonal nature of our customer deposit trends, James, you wouldn't normally see the Q4 customer deposits compared to the other three quarters are stronger. This is the same case for last year and the year before and which it really shows that the normal pattern of our &#x2013; the underlying driver for our revenue growth continues to be very robust and there's nothing really unusual that's going on with the normal trend.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Dick Wei with JPMorgan. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Hi. Thanks for taking my questions. My question is, can you give an update on the contextual search, how many customers are using contextual search and how many of the Union members are carrying the contextual search features then?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Hi Dick, this is Haoyu again. The contextual, well we're still &#x2013; we continue to work on it. So we made a lot of progress in 2010. We now have a new platform. I think the key now is to improve the algorithm on the platform. So we have pretty high expectation for that product in the next two years. Actually, we already have a lot of advertisers on this platform. Of course, we have fewer advertisers than the advertisers we have on search, but it's a very sizable customer base already. As far as the publishers that are showing contextual ads, we, Baidu Union, as we said many times is the largest ad Internet network in China. So we have tens of thousands of publishers on this network showing our contextual ads.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Just wonder, as far as the number of I guess Union member penetration, is there any number on that, that you're able to share?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>No, it's actually a very long tail business, right, there's hundred or thousands of Web sites in China and a lot of them are publishers. And our penetration in terms of percentage has increased over the past year but again it's a very long tail business. So even the number of Web site penetration has increased, it doesn't tell you much.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Okay, great, thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Jin Yoon with Nomura. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Hi. Good morning, everyone. Let me just piggyback off of Dick's question regarding contextual ad. Can you talk about how &#x2013; a bit on TAC and Contextual Ads, how fast the Contextual Ads business is actually progressing? I know that you mentioned in the past that the Contextual Ads will probably will one of the growth drivers going forward but yet TAC has been virtually halved over the last year. Does that mean maybe the Contextual Ads business is not growing as fast or the TAC optimization continues to be remain intact? And so how much can we really see TAC cost going further down from these levels and at the same time continue to increase greater exposure in Contextual Ads as a percentage of revenues? If you could elaborate on that, that be great thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Hi, Jim, this is Haoyu Shen. It's a loaded question. It's all about the TAC. So you're right that Contextual, typically on Contextual Ads, the payout is higher than our payout on Search. As I said, we've made a lot of progress in 2010 but mostly on the platform, on the infrastructure. As far as revenue, has not increased dramatically yet. So the TAC, the percent of decline in 2010 is largely driven by our affiliate Search business, and that has been a dominant factor. And going forward, our expectation is Contextual will become a bigger slice of our business and in turn, that will drive up our total TAC amount. But compared with Search, right now it's a small percentage of revenues. So when the day comes when our Contextual business grows dramatically and we pay out a lot of the TAC, then that impact, the total TAC number that probably means we're making huge progress on Contextual Ads.</p>
+          <p>We don't give forecasts or guidance on TAC going forward but on our affiliate Search business, the optimization or rationalization efforts are largely done by Q3. You're seeing a TAC ratio decline again in Q4; that's really impact of the actions we took on Q3. So going forward, we're not going to see dramatic differential as in with the traffic roads of organic and video traffic. So in that sense, I think TAC ratio should stabilize going forward. We don't give guidance but just look at the TAC numbers. The TAC percent numbers in the past three quarters, those are positive numbers to look at for next year and for this year, 2011.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Perfect. And how you're affected, just I have a follow-up question regarding that. What percentage of your network, your Baidu Union members is actually exclusive just particular to the Baidu? And I'll stop there. Thanks, guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Some of them are. I don't have the exact count but many of them are not. For them, it's really a matter of, how &#x2013; yeah, who can monetize better for them. So we don't require exclusiveness and many of them are not, but some of them are.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Great. Hey, thanks, guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Eddie Leung with Bank of America Merrill Lynch. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Hey, good morning, guys. Could you give us an update of the relative importancy of the various factors behind you increasing customer spending in the fourth quarter, mainly click-through rates, traffic, coverage ratio, pricing, et cetera? And also, could you give us the contributions of revenues from your top advertiser categories including perhaps our online retailers? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Hey, Eddie, it's Haoyu. We don't break out those monetization metrics but if you look at each of them coverage, click-through rate and CPC, they're all growing very healthy. So, as far as Phoenix Nest, it gives us better coverage. The algorithm it just supports better than before, it gives us better coverage and given a better coverage, it even gives us better click-through rates so that's very good. And CPC, we talked about this many items growing a healthy rate. We're not worried about it. So we can't give out the exact numbers for every quarter. As far as the important sectors, I'll have Jennifer give the breakouts of the top ones but as far as on retail, it's growing very fast. As I think Robin mentioned in his remarks, it grew by close to 200% over a year ago last quarter. So, it's becoming a more meaningful and more material part of our business but it's still small in our view, it has a lot of potential going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>And, Eddie, the top five sectors that for the quarter are the typical ones, it's medical health care, machinery equipment, education, travel and what actually book into the top five category this quarter was software and games, so online services in that regard. Just as Haoyu mentioned, we're seeing tremendous growth on the retail, online retail sector but it's not close to the top five. So, there's still a lot of &#x2013; we have very strong sectors. The traditional sectors continue to grow very fast.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" />. Our next question comes from Ming Zhao with SIG. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay. Thank you for taking my call. So, Robin, you've mentioned that the social network assets that you have, the community assets like Baidu Toolbar, Baidu Baike and Wenku, could you comment on how are you going to monetize these assets? For those external social network sites, do you have any plan to partner with them? Thank you,</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Okay, like I mentioned, social search products represent a significant portion of our total traffic and they continue to grow at a very rapid speed. The original purpose of these products was to strengthen or solidify our position, market leadership position in web search. But as time passed by, we realized that the commercial value of these products themselves are also very meaningful. So we are developing products, commercial products or add products for this kind of social search services, and going forward, we do expect to better monetize such kind of traffic. But again, I think that the main purpose of these products along this web search is really strengthen our position, the centerpiece of Chinese Internet users' online experience.</p>
+          <p>As to external partnerships, we'll keep our minds open. If anything makes sense for our overall strategy, we'll do it. But our current position in social, I think is already very strong. Probably among all the major search engines in the world, we have the strongest social flavor so to speak. So, I think we're fine at the current level.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>All right. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Andrey Glukhov with Brean, Murray. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yes. Thank you for taking the question. If I may follow up on one of the earlier questions. Haoyu, I think you mentioned that you guys are, this year, going to be putting in place a set of measures to sort of help with the advertiser churn. Can you guys maybe talk us through a direction of what some of those measures are and how immediate are some of those benefits for advertisers, sort of for advertiser count growth going to be? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Right, Andrey, so, yeah, retention will continue to be a strong focus for us in 2011. We never break out churn numbers but I think we can improve on that front. So, some of the things, experiments or things that we're doing are how to improve the experience of customers in their early days because our observation is if we can improve the experience in their early days, it will be much easier to retain them later. So instead of when the day comes when they decide to leave us, then do something, that's probably too late. So things like that, we're rolling out some experiments in different places and we hope that that will improve the retention. And we do realize that if we can improve retention meaningfully, it will drive our performance very materially.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Great. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Alicia Yap with Citigroup. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Hi, good morning. Thanks for taking my questions. In your previous occasion, I think you have mentioned that you do plan to utilize a little bit more on your display ads. Have you seen meaningful pickup of demand on display ad inventory lately? And what is the current percentage of revenue contributed by display ads?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>So, this is Haoyu. We have display ads on Baidu's non-web search inventory. We also have display on or affiliate Web sites, in Baidu Union. So a lot of Baidu Union ads used to be tax based. In 2010, while we made a lot of changes, now a lot of the ads we're showing affiliate Web sites are actually display ads. And in 2011, we also have very high expectation for display ads affiliate Web sites. And we think Baidu is in a very good position to become a leader in display ads in China because we have this huge Baidu Union network and also, we know so much about users. There's a lot of targeting that we can do, some of them behavioral-based targetings that we can do to improve the ROI for advertisers. So display ad is still small. I can't give you exact numbers but it's still small but going forward, we hope it will become a bigger piece of our business.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Yu Jin with CICC. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Good morning and happy Chinese New Year. First of all, let me congratulate for the strong results. I have a question related to the real time information search. So okay, <mark type="inaudible" /> share some insight on that topic. So how important is that real time information will become to the search platform and it might have additional opportunity there? And what kind of strategy is that is for also develop better computing? It seems like most of the real time information are hosted by some major like may be micro-blog or Internet Web site? So that's what I mean. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Hi, this is Robin. I think real time information search is important to us and we've been working on this problem pretty much since inception. I realize that the recent Internet trends showed a lot of micro-blogging and social related services generate a lot of real time information but there are also other type of real time information, for example Baidu Post Bar, there are a lots of real time information too. The problem were that the issue with real time search is that it's very prone to spam. If people know that something published just now can be shown on the front page of a search result page, they will try to spam that. So real time search requires a lot of technology to ensure that the user experience is good enough. It's a very hard problem but we are working on it.</p>
+          <p>I think information is pretty much overloaded on the Internet being in China or elsewhere. So, the real problem is not really to find information that's real time. It's really distinguish high quality information from the low quality information in real time. I think we have accumulated a lot of experience and technology in this front and our users' information needs on that very well for a better match in the past couple of quarters than before. So, that's our take on the real time search.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Gene Munster with Piper Jaffray. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Hey. Good morning and congratulations. I want to talk a little about video. Robin, you briefly mentioned it earlier but just in terms of any investments I guess in Qiyi and potentially there's been some reports that you may spin that out as a separate company. Any thoughts on that would be helpful. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Gene, this is Robin. Qiyi is actually an independent company controlled by Baidu where we have a controlling interest but we also have another investor. So it's already a separate entity. It has been doing very well and we do think it has a very bright future going forward. It got a significant investment initially when we launched earlier in last year. But going forward, we'll decide our capital needs and making our decisions accordingly.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Yeah, I guess, the question is would you potentially list that in the future?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>List, yeah, yes, I think so. It's an independent company, we could list let's say in a public market going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Great, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Eric Wen with Mirae Asset. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Hi. Thanks very much for taking my question. I think my question really just been asked by Gene but I would like to follow up with the overall strategy in the video market. I noticed, Robin, that your competitor last night just reported pretty good gross margins in its video business. And we noticed that GE since its launch has experienced a very rapid growth in traffic shift. It's almost one-third of Tudou as of this point. And I also want to &#x2013; I just want to seek your comment in addition to is Baidu's investment in Baidu TV, that was a while ago and whether Baidu TV and GE together is going to allow Baidu to capture more revenue share than its traffic share in the video market? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Eric, this is Robin. I think GE has only been in the market for like eight months. We are not in a hurry to monetize this and GE also has its position, which is really designed for long videos license to high quality content. That's different from the Youkus and Todous of the world. And Baidu TV is a relatively different product. It's a pure advertising system with a Baidu investment.</p>
+          <p>Going forward, I think consumers increasingly spend longer term on online video and media time almost immediately implies that advertising dollar will flow through that area too. We have a very strong advertiser network. We have very strong and unique monetization capabilities. I think we can help actually in other entities to monetize their traffic better than anyone else. Haoyu, do have anything add?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>No, other than just clarify it more on Baidu TV. Baidu TV is a video ad product that we display on our affiliate Web sites. So it's totally different than Qiyi.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next question comes from Steve Weinstein with Pacific Crest. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Right, thank you. So, looking at the spend per advertiser, I think it had the most growth, well, that you've shown in several years. And based on your commentary, it sounds like you think there's still a lot of room to go. I was hoping you could help us understand those drivers a little bit more in terms of how much of it is really coming from just people buying more terms versus just increasing volume versus pricing. You kind of alluded to it but given the magnitude of growth and how important that is for forecasting 2011, I was hoping you could rank order those or give us a little more color.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Hi, Steve. This is Haoyu. It's really hard to rank all of these factors and then plus we don't break out the detailed metrics of CPM. But I can just talk about them just high level. So first of all traffic drives up ARPU. Right, we have very healthy growth of traffic throughout the year in 2010. And, of course, after Phoenix Nest, customers are buying more keywords just because the system is more capable. It can help the advertisers to find more relevant keywords. So that will drive up ARPU as well.</p>
+          <p>And also budget, I think budget is &#x2013; for some customers they do set a budget, a daily budget for their spending. As they get good ROI out of Baidu Paid Search, some of them will increase their budget and that naturally will flow through to become higher ARPU. And also another factor that's driving up ARPU was our big advertisers are really spending more. They're benefiting from Phoenix Nest more. They're buying more keywords. They're setting higher daily budget and that drives a mix shift, right. So that will also drive the eventual ARPU number.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Okay. Great, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Mayuresh Masurekar with Kaufman Brothers. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Operator, we probably lost the caller. Maybe we can move on to the next one?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Okay. Our next question is from Alex Yao with Deutsche Bank. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Hey, good morning, everyone and congratulations on a very strong quarter. Just have one follow up question on the box computing initiative. What do you think is the biggest challenge right now to pursue this initiative? And how should we think about monetization into number '11? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Alex, I think that the main purpose for box computing is to retain users or satisfy all kinds of user needs, not just information needs but they also from time to time have needs on fax applications and things like that. So we are integrating all kind of stuff, including applications data content into one search box, so that users don't need to go elsewhere to find what they want. The biggest challenge for box computing is technology and ecosystem growing. On the technology front, it's very difficult to accurately analyze user needs. For the same meaning, there are probably 200 different ways of expressing it and our technology needs to be able to find out exactly what the users mean then deliver the right content, right fact or right application to the user. And on the ecosystem, we rely on because we operate an open platform, either open data platform or open application platform, we rely on third party to provide the data application to us. So our influence on the industry and our capability to monetize or to benefit our developers will also be essential to the success of the box computing initiatives.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>I've got it. Thank you very much. And how should we think about monetization in this year?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>I don't think for this year you would count on the monetization, although we are exploring ways for our developers to make money from our platform. But on Baidu side, we do not expect to directly benefit from this yet. I think the key is to really provide the best things for users so that they will come to Baidu more often and search more. So indirectly, we will all be able to benefit from this.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Philip Wan with Morgan Stanley. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Good morning, Robin, Jennifer, Haoyu and Victor. First of all, congrats on a very strong quarter and thanks for taking my question.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Very quickly, could you share with us the progress of your e-commerce JV with Rakuten, for example, and operating margin which has a transaction value of regular site users? That would be very helpful.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Hi, this is Haoyu. We can't report the detailed numbers yet. The site, as you all know, has been live for a few months; it started in October. We have a sizable team on the ground already. You can go and check out the sites. It's a B2C mall, business model which Rakuten have a lot of success in Japan. So we are fully behind this initiative in the cooperation with Rakuten but they are really the driver behind the seat so to speak for this joint venture. As we make more progress going forward, we'll probably give you more updates.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Aaron Kessler with ThinkEquity. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Great, thanks. Just a couple of questions. On the travel sector, can you give us an update what you saw within travel in the quarter and maybe then going into Q1? There's just been some reports that you've seen a bit of a slowdown. And also in terms of your smaller advertisers, you talked about churning up a little. Is there anything you can do to maybe simplify the bidding for those smaller advertisers like a fixed fee per month type of bidding? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Hi. This is Haoyu. On travel, it's still a very exciting big sector for us, a lot going on there. It's very competitive, a lot of players out there some more exceptional ones, some smaller ones. So then it will probably continue to see very typical seasonality during the year. So there's really nothing new there. As far as small advertiser attrition, we're exploring different ways to improve that to make it simpler for them. But we're probably not going to make some fundamental changes to the mechanisms of our auction system. So, for example, one of the things that mentioned by Rob in his prepared remarks were we have this qualification program, external qualification program which we used to sort of train external people to use SEM, to use search to help the customers manage their search campaigns. So that could be &#x2013; indirectly anyway help some of the less sophisticated customers to take advantage of Paid Search. So, on our side, we're also probably going to make more tools available to small advertisers to improve their experience.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Yeah, let me just add a few words on this. I think the history of Baidu's Paid Search platform, advertisers, large or small, usually needs a lot of hand holding from us and last quarter was no exception. What's different was that demand from large advertisers was really, really strong for last quarter. So, we probably spent a lot of time, a lot more time to help the large advertisers last quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Vivian Hao with Credit Suisse. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Hi. Morning. This is Wallace from Credit Suisse. Just quickly on the balance sheet items. I think the investment line has jumped from around RMB50 million R&amp;D in third quarter to around RMB287 million in the fourth quarter. Is it related to the Rakuten joint venture investment? And also that line called the loans payable non-current, RMB86 million, can you elaborate further? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yeah, Wallace, the investment line, the sequential increase that reflect in part to the Rakuten investment, the continued funding. And also, we had other M&amp;A activities during the quarter and that will be captured on this line as well. The RMB86 million you refer to is a interest-free loan that we get from some of the projects that we participate in government-sponsored research projects. So this is a interest-free loan that the government granted to us because we were supporting on some research projects.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Thank you. Just quick follow-up. There's some news talked about that you have set up a investment fund, around RMB100 million to invest in the Online Gaming business. Has this factored into the investment line yet? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>No.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Mayuresh Masurekar with Kaufman Brothers. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Hello. Congratulations on having a great quarter. Third-party reports are showing that search revenue growth is accelerating in the China overall market. So, could you talk about what's driving this revenue growth acceleration in the fourth quarter as well as in 2011 forecast? And also, is increasing competition actually benefiting you as the overall search by expense?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Let's put in it this way because of &#x2013; there are a lot of good factors in 2010 that helped to drive the revenue growth; the successful transition to Phoenix Nest; and our financial crisis, the better position of our search market leadership. So, there are a lot of good factors that contributed to the revenue growth in 2010. And going forward, because we already set a very good foundation for the paid search and because China is still a growing market, that the Internet penetration is only a third of the total population and consumers increasingly rely on search to find information and companies large and small increasingly realize that search marketing is the best way for them to promote their products and services. So, we do expect we will have a long, very long period of high growth going forward. Like I mentioned in the prepared remarks, for the first time search became the number one application for Internet users in China last year. So, it's a long deserved position but we just got there last year. So, that tells you that the potential for our business or search market in China.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Jiong Shao with Macquarie. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Thank you very much. First let me say Happy New Year to you all as well and to everybody on the line who celebrates. I have a quick follow-up and a question. The follow-up is on the Qiyi side as well. Could you just also talk about sort of how you view the business model, the advertising versus sort of pay per view? And any comments on the content, it would be highly appreciated. And my question is on the mobile search. Could you sort of talk about your current thoughts on how you're going to tackle and aggressively expand in the mobile search area in terms of the monetization market share given the rapid adoption of the smartphones and 3G? Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>This is Robin. Qiyi is a young venture. It's only been launched for eight months. The current focus is really user experience. We licensed very high quality content from all kinds of copyright holders, and we are obviously open to both the advertising model and the subscription model. We believe that either way we will be able to benefit from this as consumers spend more and more time on TV or online video sites.</p>
+          <p>As for mobile search, mobile-related traffic have been growing faster than PC-based search services over the past few quarters. We expect this will continue to be the trend going forward for the next couple of years. As you correctly point out, smartphone is gaining traction in the Chinese market too. We have put into a lot of resources to optimize our search services for mobile phones, particularly for smartphones. Monetization for mobile search is also very promising. Our initial experiments show that click-through rate, mobile devices are higher than PC devices. So whenever we want to monetize the mobile traffic more aggressively, we can do so. Right now, the focus is again on the user experience side.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Okay. Thank you very much and congratulations on a great quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Wendy Huang with RBS. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="22" type="q">
+        <plist>
+          <p>Thank you for taking my questions, Robin, you mentioned many times that you're seeing the aggressive spending from large advertisers recently. Just wonder if you can give more color on the revenue concentration from the top or large advertisers and what kind of average spending from big advertisers versus those small search advertisers?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Hi, Wendy, this is Haoyu. Especially in Q4, we're seeing greater demand from large advertisers. I remember a few years ago when we talk about our business, we say it's largely SME. Today, of course, it still is SMEs contribute the largest share of revenue but over the past three years, large advertisers' share of revenue contribution has increased a lot and this is probably due to their increased awareness and understanding of Paid Search and also the maturing of the industry. Their agencies are getting more familiar with Paid Search so their agencies can help them to leverage search better than say three years ago. But overall, if you look at our business, it's still a very long tail business, right. On a yearly basis, we have over 300,000 customers and all of them are important to us. We'll work hard on retention of all of our customers.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>In general, the large customer pools we have, only about 1,000 of those are large companies, are large customers. And when you look at our ARPU for the quarter, it's RMB8,900 average. There is a big disparity between the large customers and the small ones. The large customer spends hundreds of thousands on average but there are only 1,000 of them and for the big majority of our revenue, it continues to come from SME, albeit the large customers' contribution in revenue are increasing. But it's still not a major part of our total revenue picture.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Gary Ngan with UBS. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="23" type="q">
+        <plist>
+          <p>Good morning, everyone. Thanks for taking my questions. Just want to get your thoughts on browser. How important do you think a browser is for the engines of search engine? And eventually, what do you think we can expand on the browser uptake and to maybe become an ad platform or is that really sort of just stick to a search engine core business?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Gary, this is Robin. I think browser is a very important distribution channel for a search but also other kind of distribution channel, I think our Union business we have web directories, we have browser, we have other type of softwares. They collectively represent a relatively small percentage of our total traffic. Most people still come to Baidu's own Web site or set our baidu.com as their home page or starting page but again, a certain percentage of users used to do the search through their browser, through the URL address box of the browser. We think that will continue and we will try to find ways to serve that portion of users too.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And our last question for today is from James Mitchell with Goldman Sachs. Please proceed.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Hi, great. Sorry to double-dip with a clarification question but could you just clarify whether the first quarter 2011 ad campaign is primarily direct-to-the-consumers or direct-to-the-advertisers? And whether it's a single quarter phenomenon like the RMB40 million CCTV campaign two years ago? Or whether it's more of a recurring expenditure? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>In general, James, our focus to promote our brand and market our user products is consistent with our prior practice. And this Q1 marketing campaign is mainly focused on general search to drive users' better understanding of what kind of services and tools and how fun it can be to use search. So this is more user-focused. Obviously, this is a big effort and that's why we wanted to highlight it for Q1. And on an ongoing basis, it's going to be more consistent from a spending perspective than this maybe a bump as the reason that we wanted to highlight it.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>Great, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We are now approaching the end of the conference call. I will now turn the call over to Baidu's Chief Executive Officer, Robin Li, for his closing remarks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Once again, thank you for joining us today. Please do not hesitate to contact us if you have any further questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you for your participation in today's conference. This concludes the presentation. You may now disconnect. Good day.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

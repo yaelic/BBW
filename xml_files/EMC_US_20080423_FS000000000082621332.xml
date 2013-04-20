@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1147750" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q1 2008 Earnings Call</title>
+    <date>2008-04-23</date>
+    <companies>
+      <company>184</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Tony Takazawa, Vice President, Investor Relations</participant>
+      <participant id="2" type="corprep">David Goulden, Executive Vice President and Chief Financial Officer</participant>
+      <participant id="3" type="corprep">Joseph M. Tucci, Chairman, President and Chief Executive Officer</participant>
+      <participant id="4">Aaron Rakers</participant>
+      <participant id="5">David Goulden</participant>
+      <participant id="6">Joseph Tucci</participant>
+      <participant id="7">Tony Takazawa</participant>
+      <participant id="8">Shebly Seyrafi</participant>
+      <participant id="9">Keith Bachman</participant>
+      <participant id="10">Toni Sacconaghi</participant>
+      <participant id="11">Chris Whitmore</participant>
+      <participant id="12">Clay Sumner</participant>
+      <participant id="13">Paul Mansky</participant>
+      <participant id="14">Brian Freed</participant>
+      <participant id="15">Kaushik Roy</participant>
+      <participant id="16">Tom Curlin</participant>
+      <participant id="17">William Fearnley</participant>
+      <participant id="18">Benjamin Reitzes</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Welcome and thank you for standing by. <mark type="Operator Instructions" />. Today's conference is being recorded. If you have any objections, you may disconnect at this time. I would now like to turn the meeting over to Mr. Tony Takazawa. Sir, you may begin.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, Laurie. Good morning, everyone. Welcome to EMC's call to discuss our financial results for the first quarter of 2008. Today, we are joined by Joe Tucci, EMC Chairman, President, and CEO; and David Goulden, EMC Executive Vice President and CFO.</p>
+          <p>David will provide a few comments about the results that we released this morning and he will highlight some of EMC's activities this quarter. Joe will then spend some time discussing his market outlook, EMC's execution of the strategy, and how EMC is positioned in the marketplace. After our prepared remarks, we will then open up the lines to take your questions.</p>
+          <p>I would like to point out that we will be highlighting various non-GAAP numbers in today's presentation. The reconciliation of our non-GAAP comments to our GAAP results can be found in the disclosure today in our press release, supplemental schedules, and the slides that accompany our presentation. All of these are available for download within the Investor Relations section of emc.com. In addition, so you can more easily compare our results with prior periods, we will discuss our GAAP and non-GAAP numbers, and outlook excluding this quarters IPR&amp;D charge unless otherwise indicated.</p>
+          <p>As always, the call this morning will contain forward-looking statements, and information concerning factors that could cause actual results to differ can be found in EMC's filings with the US Securities and Exchange Commission. Lastly, I will note that an archive of today's presentation will be available following the call. With that, it's now my pleasure to introduce David Goulden. David?</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thanks, Tony. Good morning and thank you for joining us today. I am pleased to report that EMC demonstrated strong performance in the first quarter. We had a great start to the year with revenue growth of 17%, non-GAAP EPS growth of 28%, and free cash flow growth of 22%. We executed our business plan and we're on track to achieve the financial goals for 2008 we set ourselves in January.</p>
+          <p>Before we dive into the financial details of the quarter, I'd like to make a few comments about what we're seeing out there in the marketplace. We know that IT spending will grow in 2008 driven by the need to manage the ever-growing volume of information. We also know that today customers are much more careful in how they spend their money, as they struggle to make their IT infrastructures more efficient.</p>
+          <p>Given today's uncertain economic environment, it's not surprising that we see customers increasingly focused upon reducing operating costs, improving efficiencies and maximizing ROI. Simply put, they want to get real bang for their IT buck. They are also increasingly realizing that they need to implement new technologies and new approaches in order to really improve their IT efficiency. And therefore, we're seeing lots of interest in things like storage tiering and consolidation, data deduplication, virtual provisioning, server virtualization, content management and security. And while there are discreet benefits from each of these, a customer can only achieve maximum efficiency and ROI if they implement it cohesively and seamlessly as part of an information infrastructure and not as one-off purchases.</p>
+          <p>This increased customer focus on the benefit of information infrastructure as a cost saver is playing right into EMC's strength. We have all these key products and technologies, and we have experience implementing these new approaches. This is the core of EMC's competitive advantage, and no one has both focus on information infrastructure and the scale to do what we do.</p>
+          <p>Looking ahead, this is how EMC will continue to help customers and continue to gain share. Our efforts to consistently drive a consistent &#x2013; our efforts to continue to drive a consistently competitive position and diversified business model translate into EMC's strong financial structure and ability to achieve positive long-term results for our shareholders.</p>
+          <p>Now, turning to details of our Q1 performance. I'm going to start by highlighting the results from our EMC Information Infrastructure business. This business is comprised of our Information Storage, Content Management and RSA Security businesses. I'll then make some comments about our consolidated results, which will also include VMware.</p>
+          <p>In Q1, EMC Information Infrastructure revenues were $3 billion, up 12%, with 250 basis points coming from currency. We had strong growth in each of our major geographies; North America was up 9%, EMEA was up 15%, Asia-Pacific up 13% and Latin America was up 36%.</p>
+          <p>And we grew over 40% in our higher growth countries that include the four traditional BRIC [Brazil, Russia, India &amp; China] regions, plus another 13 emerging markets in Southeast Asia, Latin America, Eastern Europe and the Middle East and Africa. The investments we're making in these important markets are definitely paying off. Our solid global revenue growth results from the combined strength of our direct sales force and the increasing contributions from our growing network of channel, alliance and service partners.</p>
+          <p>Now looking at profitability, non-GAAP earnings per share were $0.19, up 19%. Q1 operating cash flow was $812 million, up 21%, and free cash flow was $657 million, up 30% from Q1 last year. We're very pleased with these cash flow results, and you'll note that free cash flow was $250 million higher than our non-GAAP net income.</p>
+          <p>Now I would like to cover the revenue results from each of our Information Infrastructure business segments. First, let's take a look at our Information Storage business. In Q1, Storage revenues were up a very solid 12% over Q1 of last year. We saw strong demand for our Storage product portfolio across all of our major geographies, with particular strength in commercial and overseas.</p>
+          <p>In the high end, Symmetrix revenues in Q1 were strong, up 8% over Q1 last year. We continue to be pleased with the demand we are seeing for our DMX-4 system, which is the highest-performing, most cost-effective, secure, energy-efficient and easy-to-use, high-end array on the market today. In addition, customers are very excited about some of our newest DMX-4 capabilities, including the integration of flash drive technology and virtual provisioning.</p>
+          <p>In the midrange, CLARiiON revenues were also very strong, up 19% over Q1 last year and clearly representing share gains. Our NAS business had a very solid quarter, with revenues up over 50% driven by continued demand and adoption of our NS20 and NS40 products. In Q1, Dell once again represented approximately 12.5% of EMC's total revenues. Within this, Dell was about a third of CLARiiON revenues, and the balance came from a mix of EMC's Information Storage, Content Management, Security and VMware products.</p>
+          <p>Today, EMC has the best storage product offering in the company's history and also the broadest and most integrated portfolio of Information Storage products and solutions in the marketplace. We believe the strong Q1 results in our Information Storage business reflect the strength of our product portfolio and continued share gains.</p>
+          <p>We will continue to expand our storage portfolio this year, providing customers with the most-reliable, cost-effective, easy-to-use and energy-efficient storage solutions available as we continue to bring out new products faster than anyone else, moving strategically up and down markets.</p>
+          <p>Turning to our Content Management and Archiving business, revenues were up 8% over Q1 last year. During the quarter, we saw good demand for our D6 platform, particularly internationally, and the business pipeline is strong. The lumpiness in our Content Management business this quarter was partly due to the timing of some deals, and partly due to some of our own execution challenges, which impacted the quarter's license growth.</p>
+          <p>There continues to be an avalanche of unstructured data being created, and businesses are looking for scalable solutions to effectively manage their huge volumes of content, while at the same time improving business efficiencies, increasing productivity, and meeting compliance and risk mitigation requirements.</p>
+          <p>Going forward, we remain confident in the competitiveness of our Content Management product offering, and we're focused on improving our execution, and we believe we are well positioned to gain share.</p>
+          <p>Now, let me turn to our RSA Information Security business. Revenues in Q1 were up 13% over Q1 last year. During the quarter, we had strong growth in risk-based authentication, anti-fraud services and security information and event management. However, we did see some deals across the business, where decisions were delayed and experienced lower than expected growth in our SecurID enterprise authentication business.</p>
+          <p>The SecurID business was impacted primarily by weakness in the financial services sector in the US and Europe. This has also been noted by others in the marketplace. We remain confident in the competitiveness of our SecurID enterprise authentication offerings and recently announced our next-generation RSA authentication management software platform, which we believe will fuel continued share gains.</p>
+          <p>In early April, we hosted the RSA Security Conference, which is the most prestigious information security event of the year and which attracted over 17,000 attendees. We announced several new products and services during the conference, including: our new Data Loss Prevention Suite, which we believe will be a very important market for us; new information security consulting services; and new enterprise encryption, key management technology. These advancements support our information risk management strategy to help customers align their business and IT security priorities and further extend our information-centric security leadership in the marketplace. We also continue to integrate RSA technology into EMC's Information Storage products, and recently announced the addition of RSA's encryption and key management functionality to EMC's PowerPath software.</p>
+          <p>Looking ahead, we remain confident that our information-centric approach to the security market will continue to create opportunities to help customers in key growth areas, and we believe we are well positioned for continued share gains in the information security marketplace.</p>
+          <p>An important competitive differentiator for our EMC Information Infrastructure business is our services organization, which spans across our Information Storage, Content Management and RSA Security businesses. Approximately half of our Information Infrastructure Services revenue, and the fastest part, is generated by our professional services organization that is helping customers lower their IT costs, meet service levels, protect their information and gain maximum value from the use of our products. In Q1, professional services grew over 30%, and we are very well positioned to continue to help customers with the technology solutions and services required to meet their performance, availability, functionality and economic efficiency objectives. We are very proud of EMC's services organization and will continue to make investments in our own capabilities and in strengthening our relationships with our services and solutions alliance partners.</p>
+          <p>Now turning to margins. In Q1, the Information Infrastructure non-GAAP operating margin was 15.8%, up 30 basis points year-over-year. Within this, gross margins were up 150 basis points, with margin improvements from both products and services. And operating expenses were up 110 basis points, reflecting investments in our product portfolio and our go-to-market model, particularly in our commercial business and in the international markets.</p>
+          <p>We continue to identify places where we can improve EMC's operating efficiencies by carefully managing head count growth; driving productivity and finding new ways to optimize our non-people spend across the business. We will look to effectively use these savings to both fund innovation in our product development organizations and to fund growth in our go-to-market organizations.</p>
+          <p>I'll now turn to a few highlights of EMC's consolidated results. Total Q1 revenues were approximately $3.5 billion, up 17% from Q1 last year, and we had strong double-digit growth in each of our geographies. Non-GAAP earnings per share were $0.23, up 28%. Our Q1 GAAP earnings include $0.04 for stock-based compensation, $0.02 for intangible amortization, and $0.04 of IPR&amp;D expense, mainly associated with the acquisition of Pi Corporation. Adjusting for the IPR&amp;D expense, Q1 earnings per share were 16% -- were $0.16, up from $0.15 in Q1 '07 and as expected.</p>
+          <p>So you can get some sense of VMware's contribution, I've broken out the VMware results as recognized in EMC on the slide as well. As you can see, VMware had another strong quarter and contributed $0.03 to our consolidated non-GAAP earnings results. Virtualized IT environments continue to expand across the globe, and in a recent survey of VMware customers, 85% said they're using VMware in production to run business critical applications, and over 50% of these customers use VMware as a standard platform for delivering enterprise applications. To date, more than 100,000 customers, including 100% of the Fortune 1000, trust VMware as their server virtualization infrastructure platform. We continue to see this as a very positive driver of network storage deployments.</p>
+          <p>Earlier, I talked about how EMC is well positioned to help customers with their spending priorities and data center efficiency needs. By bringing the right solutions to the right markets -- continues to be the driving force behind our successful and diversified business model. This also translates into the strength of our operational results as a company, and our business remains very healthy.</p>
+          <p>EMC consolidated cash flow from operating activities in Q1 was up 14% from Q1 last year. A few balance sheet metrics that impacted our Q1 operating cash flow include deferred revenues, which were a record high of $3 billion, and up 30% over Q1 last year, inventory turns was 6.6, and DSOs were 50 days. I'm very happy to say we're also reporting excellent consolidated free cash flow results for the quarter. Consolidated Q1 free cash flow was $717 million, up 22% from Q1 last year.</p>
+          <p>Turning now to our cash position and cash use, we ended Q1 with a very strong cash and investments position of approximately $7.9 billion. 4.2 billion of this is held in our overseas operations and in VMware. We have no collateralized debt obligations, no collateralized loan obligations, and no structured investment vehicles in our investment portfolio. Within the 7.9 billion, only $274 million were in auction rate securities. The auction rate securities are issued by government agencies, educational institutions, or municipalities and we feel very comfortable with these holdings. Financial flexibility is an important strength and competitive advantage, and we believe our investment portfolio is in good shape and managed conservatively.</p>
+          <p>An important way we continue to return value to shareholders is through our use of cash for share repurchase and acquisitions. In Q1, as promised, we spent approximately $557 million to repurchase approximately 36 million shares. This completes the $2 billion share repurchase we embarked upon in January of last year. Recently, our Board increased our share repurchase authorization by 250 million shares. For 2008, we expect to utilize between 1 to $1.5 billion towards share repurchases.</p>
+          <p>In Q1, we spent approximately $338 million on acquisitions. Acquisitions help EMC in several important and strategic ways. They extend the reach of our business with new products and services, improve the value of our technology platform for customers, strengthen our competitive edge, and expand our reach into new growth markets. Companies we acquired this quarter put us into new markets such as cloud computing infrastructure and services, IT service management, document output management, and extended VMware's desktop virtualization capabilities and services. We'll continue to use our strong cash position to invest in tuck-in acquisitions that expand our technology and services portfolio and take us into new markets.</p>
+          <p>In closing, as one of the most trusted technology partners in IT, we believe EMC is well positioned for continued success. EMC is aligned with key customer priorities and competitively advantaged with the strongest, most integrated product portfolio in the company's history. We'll continue to drive efficiencies across EMC's business and use these savings to continue to make focused investments in our future. And we'll continue to manage effectively our very strong financial position and return value to shareholders.</p>
+          <p>When you add this all together, you have a company with a unique, very strong and diversified business model that is not only sustaining but extending its market and technology leadership. Our operational game plan is very much in place and aligned with our goals to continue to take share and deliver solid financial results in 2008.</p>
+          <p>With that, I'll turn the call over to Joe.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thanks, David. I would like to begin by welcoming everyone to today's call. And as always, thank you very much for your interest in EMC. I am very pleased with our overall performance in Q1. Despite a tough economic climate, EMC teams around the world produced solid results, as demonstrated by the fact that we had strong double-digit growth rates in revenue, earnings per share and cash flow, by the fact that we took share throughout the vast majority of our product lines, by the fact that we took share in each of our major geographies, by the fact that we grew our services revenues by a very healthy 30% and by the fact that we had our best overall customer satisfaction ratings ever. My thanks to the 39,000 people of EMC and VMware around the world for their focus and dedication to our customers' success.</p>
+          <p>I'll begin my formal comments by discussing a topic which I know is first and foremost on your minds &#x2013; namely, the economic landscape and even more importantly its impact on IT spending. For sure the global economic environment is tough, and I don't anticipate it will get easier anytime soon. Having said that, despite this backdrop, we believe there is enough opportunity for the products and services that EMC has in its portfolio for us to achieve our 2008 goals.</p>
+          <p>In Q1, the impact of the troubled economy showed up mostly in the US, resulting in a bit of a slowdown in IT spending. We saw that customer approval cycles were lengthening, particularly in financial services, US autos and in some retailers. Despite this economic tightening, our US Information Infrastructure business grew 9% year-on-year, as customers are investing in our Information Infrastructure products and services to help them save costs and gain competitive advantage.</p>
+          <p>The key reason for EMC's success is the focus we have on key areas of technology where we have strength and leadership. As we have said before, virtualization, storage, business continuity, information compliance, information security, and the consolidation of information infrastructure domains and data centers are top 2008 spending priorities, as pointed out in CIO survey after CIO survey. And this priority list is being closely adhered to in these tighter economic spending environments.</p>
+          <p>Another key reason for our success is the process and programs we've put in place aimed at expanding our growth in international markets, especially in countries with high growth economies, our process and programs aimed at accelerating our growth in commercial and SME organizations around the world, and our process and programs aimed at building out and leveraging our world-class partner ecosystem.</p>
+          <p>Interestingly, a number of our industry-leading customers are telling us that they are planning to use their strength as a competitive weapon and they're continuing to invest quite heavily in IT as a means to substantially increase their competitive position. In other words, as one of our customers put it, we are strong now, we are investing to consolidate and save expenses for the future, we are investing to put in new infrastructure and systems to serve our customers even better, and when the economy turns up, we will even be further ahead than we are today.</p>
+          <p>So how does this relate to EMC as we think how to approach the current economic environment? We will maintain our planned spending on research and development, and we will add sales people at an even faster rate than our original 2008 plan anticipated. To fund this, we are driving an increased focus on our expenses, especially indirect expenses, which are over $2.5 billion annually. Our goals are to make our numbers and take share. As I look at the major trends that will reshape the information technology industry over the next few years, I firmly believe EMC is incredibly well positioned with leading innovative technology as this rapid evolution unfolds.</p>
+          <p>What are these game-changing trends? We will see today's enterprise data centers evolve to so-called data centers of the future. We will see cloud computing paradigms grow in importance. We will see the dominant role of information-centric computing versus today's application and device-centric computing models, and we will see the vast importance of green IT.</p>
+          <p>The reason I believe the EMC is incredibly well positioned is because of our technology asset base across Information Infrastructure, Virtualization and Cloud Computing, which come from internally incubated and developed efforts, as well as from strategic acquisitions we have made. These investments speak directly to the major challenges and opportunities of the future.</p>
+          <p>In short, I love our strategic position today and even more so for tomorrow. And as always, we intend to run EMC to maximize the value for our shareholders over the long term. I purposely kept my formal comments brief, as I know you want to get to the Q&amp;A portion of today's call. So without further ado, let me turn it back to Tony.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks, Joe. Before we open up the lines for your questions, as usual we ask that you please limit yourself to one question that includes clarification. We thank you all for your cooperation in this matter. Laurie, can we open up the lines for questions, please?</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Yes. Thank you. <mark type="Operator Instructions" />. Our first question comes from Aaron Rakers of Wachovia.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="q">
+        <plist>
+          <p>First maybe you can help us understand what the currency impact was? And then also help us understand the economic backdrop, Joe, could you comment on how the trends looked through the course of the quarter from a linearity perspective?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>When we are working with a customer, it's really the solution value and the solution margin which we're actually looking to achieve, and at a product level, we had nice growth in storage, and product margins went up in the storage as well. So I know you can look at those numbers, I wouldn't read too much into the mix inside of the Storage business.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>And then just quickly, Joe, can you share you vision of EMC's participation in the consumer market, given some of the recent acquisitions?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Sure. When you -- I'm sure you're talking about our planned acquisition of Iomega, and our introduction of our LifeLine software. Obviously, we've been very influenced by a lot of the research that's been done, which points out that if you think of information and its creation, 70% of information is created by individuals, and that number has been tested, and tested and it seems pretty solid. And then, of course on the other side, 85% of the information that is created by individuals will be managed by bigger enterprises or in cloud computing topologies.</p>
+          <p>So what we really want to do, <mark type="inaudible" /> is connect those two together. So obviously, we think most middle-class people around the world will have a terabyte of storage in their home over the next couple of years. So there is opportunity to play there, and of course, even more compelling to us is that we believe that home will be connected to big information centers around the world, and we certainly want to play there, and as we have -- as we play on both ends of that, we think it's going to be a great market for us. Also, as we get into that, we can -- it gives us a lot of ability to leverage our supply chain and bring down costs across the whole business. So it's quite strategic, and that's kind of behind our thinking.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thanks. Good quarter, guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, <mark type="inaudible" />. Just as a reminder, we ask that you limit yourself to one question, please. Laurie, can we take the next one?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Yes, Shebly Seyrafi with Caris. Your line is open.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Yes, thank you very much. I'm trying to understand, you had a large inventory increase at the, in calendar Q1. Did that represent a pause that may be reflective of potentially weaker than seasonal Q2 being?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Shebly, I'll be quite open with you on that. We had a mid-week quarter end, quarter ended on a Monday night this quarter, and therefore, we wanted to make sure, given the difficult economic environment, we had inventory to kind of buffer any mix changes at quarter end, so it's as simple as that.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, Shebly. Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Keith Bachman with Bank of Montreal, your line is open.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Hi, thank you. I want to go back to the software question, if I could. On the license side, on the software license side, if you took out VMware, software license growth was actually a negative 5% year-over-year for the balance of EMC. Yet doing the same exercise for the deferreds on the balance sheet, there was actually healthy growth on the deferreds of roughly 20% if you take out even VMware's deferreds from your balance sheet. How do we reconcile this, and more specifically, will we continue to see software license growth decline over the next couple quarters, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>You know, the big -- obviously, as David said, the big swinger here is, because it's so big, is our storage software. And unfortunately, or fortunately, and I think fortunately, we got a pretty good model that's working well for us. Why do I say that? Because if you look at product revenue, it's growing quite nicely, as you saw, and if you look at gross margin -- gross margins are up year-on-year. So customers really don't buy as much in the tune of say, well, I'll buy this much software and this much hardware. They're looking for kind of a bundled solution, package price.</p>
+          <p>So what happens obviously is the underlyings of the business is good.  So I want to go back to that, the underlying metrics of the business are good, and we are quite happy with them.  On the other side, you can see that the support and the deferred are up, and that's because we're making sure that we do a good job on renewals, because obviously the license is perpetual, but every so many years the customers have to re-up, and then they re-up their support charges. So that grows, and then, of course, we make sure that we carve out of the license fee what we need to have adequately, under good accounting practices, for our -- to make sure that we do have that support.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Joe, is there anything changing, though, more specifically in the nature of the relationships contractually, where you're pushing more to the maintenance side versus the license side?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>It's not that we're pushing more there, I mean, it's kind of the way the business is breaking out.  We've got such a huge base, especially with Symmetrix, and the base doesn't grow that much, but it expands. And of course, as you expand, you get into different tiers, and as you go into higher tiers, you get better pricing per tier.  So most of the way that we are going to make money on Symmetrix is through the support, and we basically have a good rigor to make sure that we get that, and customers do renew, and that gives us a good source.  So, when you really look at the business, you've got to almost put the license and the support together, they're both high-margin items, very high-margin items. And as you can see, on the support side across the businesses, we're in the mid-20s and even higher than that in Security in terms of our support, our maintenance growth on software.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay.  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, Keith. Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question comes from Toni Sacconaghi of Sanford Bernstein.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yes, thank you. Joe, you had mentioned that you had changed your plans somewhat to boost the number or the amount of spending on sales people and trying to fund that from indirect spending. It sounds like that's a decision you've taken in the last 90 days. Can you comment on when that decision was made and is it in reaction to a spending environment that's actually a little bit different than you thought 90 days ago?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Toni, where we're -- you're right, it was taken in the last 90 days, because obviously we booked the plan with the Board kind of it's -- it's kind of quasi-booked in the very end of December, and then it's confirmed in very early January.  So at that time, we're adding additional sales people since that event. And primarily where we're going to add these sales people is in the rapidly-growing commercial and SME, and in some of the really high growth economies, and we're having just tremendous success in both of those, and then of course a little more focus on the -- the NS, which is our -- which is our network attached, but it's actually even network attached, it's our unified storage, which has iSCSI SAN and NAS all together, and that's being incredibly well received.</p>
+          <p>So, those are the three areas where we're going to put significant fire power, because we think the growth is there in those opportunities, and we see nothing on the economic landscape that is going to slow those three or so areas I mentioned down for us. So, we wanted, obviously, to make the plan, so we've got to carve out money to make that, and that's going to hopefully fuel some growth, and we'll see how the economy shakes out. And right now we are sticking with our overall benchmark goals that we set for -- that we set for ourselves and the Board and shared with you guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>But is the implication that you felt that in order to make your goals, you had to do this, because there were some talk of doing this at the beginning of the fiscal year. It sounds like you've said, given the environment, maybe because you think US will be weaker, we've got to step on the gas even stronger in some of these high-growth areas to meet our target. Is that a fair interpretation, and if not why &#x2013; again, why the change in plan, specifically over the last 90 days?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>It is a little bit different that -- I mean in the beginning of the year, if you looked at the plan, we did have a substantial step-up in those exact same areas. So, in commercial, in SME, in international in high growth countries and international around our network &#x2013; excuse me, around our unified storage products, we knew these were going to be like red hot areas, and we did put a substantial increase. And then as we saw the demand and the take-up, David talked to you about our unified storage grew 50% year-on-year, our high growth, what they used to be called emerging economies, how can you call them emerging economies. These economies have emerged, they are rapidly growing economies. And the take-up is so good, we're putting more resource there. So, it is really truly not to protect, what we see as US being way off, I mean the US grew 9%. And commercial within the US is doing very nicely, and that's going to get some of these resources. On the other side, I think it's fair to say, Toni, there is enough uncertainty that I'm certainly not going to increase the $15 billion goal, all right. So that'd be another way to look at it, or the way to look at it.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, Toni. Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question comes from Chris Whitmore of Deutsche Bank.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thanks. My question was around the thin provisioning. It sounds like it's starting to ramp at the high-end and then perhaps in the mid-range this summer. Some of the storage buyers I've talked to suggested this is a game-changing technology that allows them to drastically reduce storage spend and still get the same utilization out of that disk. Can you comment on the timing of thin provisioning and how you expect it to impact overall demand for your boxes? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Well, I do think, we've mentioned it, David mentioned it in his probably pretty comprehensive comments, that we think thin &#x2013; we call it virtual provisioning, because we think we're taking a little bit different and more innovative approach than some of the others that have thin provisioning. But that's going to be kind of a mandatory in the storage landscape, and we have had it out on our unified storage product family now for a couple years. It's shipping now on Symmetrix, and it'll be kind of you need the newest version, you need the <mark type="inaudible" />, so it's not a huge ramp at the time, but it is starting to ship and it will be shipping in volume probably by the end -- and bigger -- big volume by the very end of the quarter. So, in effect, though, you can almost look at it as a one-time gain, because if your information is going to grow x%, you can get better utilization, but then as your information grows from there on out, you're still going to have to add the storage. So -- and I think information growth is picking up, and then of course things like thin provisioning, things like data de-duplication and other very redundant data de-duplication, and other very important technology help bring that back down, but I think even putting those down, you're going to, we're going to have plenty of growth with our customers, so I'm not -- I think this is a great technology for us and our customers, and I'm not worried about it at all impacting our performance.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>What kind benefit, utilization benefits do you expect your customers to achieve once they install your version of thin provisioning? And why wouldn't that impact future demand for storage boxes?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Well, let's just say your utilization rate today, I'll make it up, is 50%, and you can put in thin provisioning and bring it to 85. But after you've brought it to 85, and you've got to add, and you need more storage, you're going to have add more storage, right? Your true information growth is going to show up. So if you are under provisioning -- it doesn't compound forever, is what I'm telling you.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question comes from Clay Sumner of FBR.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Thanks very much. You guys have, well, you've talked about and there's been a lot of speculation about you spinning off VMware sometime next year when it becomes more tax efficient. I'm sure you haven't decided that yet, but can you give us an indication of how you think about the need to maintain a controlling interest in VMware for strategic reasons? In the past you've describe VMware as a key piece of your info-centric computing strategy, so do you feel you need to at least own a majority stake in it?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Right now we have absolutely, positively no plans of spinning off VMware.  As we look in -- as we look to the future, we like the assets we have across our Information Infrastructure, virtualization and cloud computing pieces of our business, as I talked about. I think the most important thing is that when you look at it, and I think without a doubt both EMC and VMware are performing very well. This is obviously the most important aspect, because it builds long-term shareholder value. So, that's a statement, and I also make a statement that management and the Board are very focused that will create the maximum shareholder value for both sets of shareholders over the long-term, and that's where I'm going to leave it.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question comes from Paul Mansky of Citigroup.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thanks. Joe, as I look at your statements around maintaining full year -- full year guidance, you're, some, obviously I think, justifiable concerns around the macroeconomic environment, the impact of virtual provisioning, can you help us contextualize a bit the linearity with respect to the year.  I know VMware provided top line guidance at least last night, I certainly wouldn't &#x2013; wouldn't ask for that specifically, although we'll take it, I'm sure.  But can you talk to us about how you see the year unfolding?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>I mean obviously, Paul, there is a lot of unknowns, so we've got to play it out.  I mean, I think, I really do think the virtual provisioning aspect is way over-played.  On one side, yes, you get better utilization of your disk drives, on the other side, as they always say in life, there's no free lunch, and you -- it does take processing cycles and software, both of which we charge for, to get thin provisioning accomplished, so it's not all gain for totally free.  Right, I mean if, there is a balance the customers will strike. Obviously, we will have this across our whole line, as I said, it's in our unified storage products now, it's basically coming to Symmetrix as we speak, and it will be in CLARiiON in the middle of the year.</p>
+          <p>So, I think that's all goodness, but for always, you always thought things like bigger disk drives, de-duplication, compression, I mean there's always been technologies to help get utilization rates up there, and there will continue to be, and fortunately customers continue to build information, so we've got to continue to, got a lot of opportunities around our information infrastructure, which is why we're taking a broader approach than just storage, and I believe that's not going to really impact our year. I think the biggest impact to the year will be how this economy works out, and as I said, where customers are prioritizing their dollars right now, or their yens, or their euros, or whatever, we seem, we are in the best places, and we will continue to focus. And I think this is absolutely a case where you're going to see the strong get stronger and the weak get weaker. And we absolutely believe we're on the strong side, and I think you're going to see a big have and have-nots as results go on throughout the year.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, Paul. Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question comes from Brian Freed of Morgan Keegan.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Good morning. Good quarter, and thanks for taking my call. Could you, real quick, talk a little bit about what kind of trends you're seeing within the financial services segment specifically, given your outsized exposure to that segment?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>I missed that one word, what -- ?</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Given your exposure to financial services, can you talk about what you're seeing trend-wise there, if you've seen any stability off of what looks like a lower trend line or if you see continued weakness in the segment?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Well, it's really interesting. When you talk to financial services companies, and I'm talking of more of the big ones now, but I'm sure that's probably what you're talking about, too, is they'll tell you that there are parts of their business are doing just fine, and then one or two parts that they're having some issues in. So you can't just paint the whole industry where they're going to just start cutting back, and then as I said, some of the big -- actually that example I gave of what one customer told me was from the financial services industry. So there's companies that think that they're in a relatively good position relative to their competitors, and they're going to, like I said, be one of the strong that take share and comes out of this even stronger. So if you look at it on a percentage basis, while we're not seeing any growth to write home about, we're not seeing a huge decline in financial services IT spending. But obviously to do that, we're having to take share from others.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thank you, Brian. Next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Kaushik Roy of Pacific Growth Equities.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Thanks. Congratulations on the gross margin improvement. So is it primarily because of the increasing software mix or you're actually getting better margins on the hardware side as well? And then, Joe, I think in the January call, you mentioned that gross margins will tick down. But do you expect for 2008 gross margins to be up over 2007, or lower than 2007?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes. Kaushik, let me take the first part, I'll take both parts of the question. For the first quarter, as we talked, the actual software/hardware mix was actually in theory on paper, unfavorable towards gross margins. So to answer your point, our solution margins are up, which means that if you mathematically calculate a storage margin, then the storage margins are in fact higher on the hardware side. But again, the important thing to focus on is the overall solution content. And, as we talked about, if you kind of look at our 2008 guidance, and we guided for a little bit of positive leverage in EMC infrastructure non-GAAP operating margins, then you would expect to see some improvement there coming from gross margins.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Okay. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question comes from Tom Curlin of RBC.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Hi, good morning. Can you just maybe update us on your thoughts for linearity during the year, I think previously you've at least commented on what you thought about the distribution of revenue in a given year, and I think that probably included this year. Just given what's happening with macro, do you think it's appropriate to look at a distribution that's maybe a little more back-end loaded than the historical average. Or, if you look at it sequentially, just into June, you've done everything from flat to up 5% sequentially over the last three years. Should we be closer to the lower end of the range, just given macro, or maybe stick with what you did last year at 5% up sequentially?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Tom, I mean, there is a lot of uncertainty, but right now the, as you know we don't, we give guidance once a year, if we fall off of that, we'll certainly tell you. But I really have -- I really hesitate to comment.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Maybe said a different way...</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Right now we don't think it's going to look vastly different than other years have looked.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Okay. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks, Tom. Next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our next question comes from Bill Fearnley of FTN Midwest.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Yes. Good morning. Quick question for you Joe, here on Symmetrix. How should we be thinking about Sym growth here for the rest of FY '08, and what trends are you seeing in the corporate data center space there? And then just a quick, granular thing on Sym, how much of the growth here is from new customers, and how much of it is upgrades from existing customers? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>We don't, Bill, we don't break out that kind of data. We have said that we expect Sym to be a low to mid-single digit growth, and I think that's about right. And, we just don't -- obviously we have the data, but we just don't break that out. I think we give, I think we are very generous with the data we do give out, so, I think we'll stay right here.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>So you're comfortable still with the low-mid to single-digit here on Sym for the remainder of the year as well?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Yes. On the total year basis, I think low to mid-single digits is where Sym will come out.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Okay. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Thanks. We will take one more question and then have a few concluding comments from Joe.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Our final question will come from Ben Reitzes of Lehman Brothers.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Yes, thanks for getting me in there. Joe, just a little bit more on the color around the environment in a different way. I mean obviously, you saw the market get tougher and you decided to keep your outlook. Is there anything specific as you go through the segments that give you confidence to wake up today and keep your guidance, maybe something like maybe software sales were pushed out into the quarter and you have visibility, maybe a little more on Sym or CLARiiON momentum. Just a little more to point to that maybe are company-specific that allowed you to keep the outlook, and you have already been through the economy quite a bit. But more on the company-specific stuff that allows you to buck the trend?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>You know, Ben, I'm not sure how to answer that. On the plus side, we didn't do any kind of heroic diving catches, so to speak. So, the business flow is the business flow. On the other side there's, as I said, I don't see the economy getting better anytime soon. Certain, I was in Europe last week, you see some of the same evidence in say the UK. I was also in Germany, you don't see it much there. So I just don't know how far some this is going to spread or how much it will be contained, but I do know that we have strong products. I do know that our investments are to take share. I'm convinced to make our numbers we have to take more share than normal. I'm convinced we have the product line and the people to do that. So that's where I'll leave it.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>All right. Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Well, thanks, everybody. I gave a little bit of the, what I was going to say in the closing when -- to the question that Ben asked, but I really am very pleased with the position of the company from both a product point of view and our go-to-market point of view. The attitude around EMC is a can do, winning attitude, nobody is down here and saying wow, this is so tough, I can't make tomorrow. So the attitude is great, which I think is most important. I do think we are -- besides that, we are also very, very well positioned in some of the real fundamental, game-changing moves that will happen in the IT landscape, and that will be exciting. And we'll be sharing a lot more of that with you as the year goes on, and perhaps even at a formal session. And I do want to thank everybody for being on the call today, and all the best to you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you for participating on today's conference. The conference has concluded. You may disconnect at this time.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

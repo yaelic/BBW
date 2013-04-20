@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<transcript id="1237802" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q4 2009 Earnings Call</title>
+    <date>2009-06-23</date>
+    <companies>
+      <company>389</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Ken Bond, Investor Relations</participant>
+      <participant id="2" type="corprep">Jeff Epstein, Executive Vice President and Chief Financial Officer</participant>
+      <participant id="3" type="corprep">Safra A. Catz, President</participant>
+      <participant id="4" type="corprep">Lawrence J. Ellison, Chief Executive Officer</participant>
+      <participant id="5" type="corprep">Charles E. Phillips, Jr., President</participant>
+      <participant id="6">Adam Holt</participant>
+      <participant id="7">Charles Phillips, Jr.</participant>
+      <participant id="8">Sarah Friar</participant>
+      <participant id="9">John DiFucci</participant>
+      <participant id="10">Brent Thill</participant>
+      <participant id="11">Brendan Barnicle</participant>
+      <participant id="12">Kash Rangan</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good day, everyone, and welcome to today's Oracle Corporation quarterly conference call. Today's conference is being recorded.</p>
+          <p>At this time, I'd like to turn the conference over to Mr. Ken Bond, Vice President of Investor Relations, Oracle. Please go ahead, sir.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, operator. Good afternoon, everyone, and welcome to Oracle's fourth quarter and fiscal year 2009 earnings conference call. I'm Ken Bond, Vice President, Investor Relations. And with us on the call today are Chief Executive Officer Larry Ellison, President Safra Catz, President Charles Phillips, and Executive Vice President and Chief Financial Officer Jeff Epstein.</p>
+          <p>As a reminder, today's discussion will include forward-looking statements including predictions, expectations, estimates, or other information that might be considered forward-looking. While these forward-looking statements represent our current judgment on what the future may hold, these statements are also subject to risks and uncertainties that may cause actual results to differ materially from statements being made today. Throughout today's discussion we will attempt to present some important factors relating to our business which may potentially affect these forward-looking statements. As a result, we caution you against placing undue reliance on these forward-looking statements, which reflect our opinion only as of today.</p>
+          <p>And as a reminder we are not obligating ourselves to revise or publicly release the results of any revision of these forward-looking statements in light of new information or future events. We would encourage you to review our most recent reports on Forms 10-K and 10-Q and any applicable amendments for a complete discussion of these factors and other risks that may affect our future results or the market price of our stock.</p>
+          <p>A copy of the press release and financial tables, which includes a GAAP to non-GAAP reconciliation and other supplemental financial information, can be viewed and downloaded from our website at www.oracle.com/investor.</p>
+          <p>We'll begin with a few prepared remarks before taking questions from the audience. In today's conference call we will only be discussing Oracle's Q4 and fiscal 2009 results. With that, I'd like to turn the call over to Jeff Epstein for his opening comments. Jeff?</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Ken, and welcome to Oracle. Good afternoon, everyone, and thank you for joining us. I will review our non-GAAP financial results for the fourth quarter, focusing on constant currency growth rates unless otherwise stated.</p>
+          <p>First, a note about foreign exchange rate movements. In March, we told you that using then-current exchange rates would reduce our Q4 revenue growth by 12 points compared to constant currency. Even though the U.S. dollar weakened for March, the U.S. dollar strengthened compared to Q4 of last year, reducing our international revenues, expenses, and profits when measured in U.S. dollars. As a result, currency movements reduced new license revenues by 9%, total revenues by 8%, net income by 11%, and earnings per share by 10% or $0.05 per share compared to Q4 of last year.</p>
+          <p>Now let's review the income statement. In the fourth quarter, our new software license revenues were $2.7 billion, down 4% in constant currency and down 13% in U.S. dollars. EMEA grew 2%, Asia grew 3%, and the Americas were down 12%. Technology new license revenues were $1.9 billion, down 1% in constant currency and down 10% in U.S. dollars. EMEA grew 1%, Asia grew 5%, and the Americas were down 6%.</p>
+          <p>Our BEA products, which have now been technically integrated with Oracle's Fusion Middleware, packaged into unified suites, and are sold off the same price list, accounted for $201 million of our Q4 new license revenues based on our internal allocations, which are consistent with previous quarters.</p>
+          <p>Application new license revenues were $805 million, down 11% in constant currency and down 19% in U.S. dollars. EMEA grew 5%, Asia fell 4%, and the Americas were down 22%. Our software license update and product support revenues were $3.1 billion, up 17% in constant currency and up 7% in U.S. dollars. These revenues are annual fees that customers pay to receive updated versions of and enhancements to their existing products. Our services revenues were $1.1 billion, down 7% in constant currency and down 16% in U.S. dollars. Our total revenues were $6.9 billion, up 3% in constant currency, which is above the high end of our constant currency guidance range of plus 2% to minus 3%, and down 5% in U.S. dollars.</p>
+          <p>Operating income was $3.5 billion, up 9% in constant currency and down 1% in U.S. dollars. Our non-GAAP operating margin grew by 240 basis points to 51% in U.S. dollars. This is the highest operating margin in Oracle's history as a public company and further demonstrates the success of our operating model. Our tax rate was 31.3%, which is higher than our guidance of 28% due largely to a one-time expense from a recent federal tax ruling involving Xilinx and the allocation of stock option expense deductions.</p>
+          <p>Our Q4 non-GAAP earnings per share were $0.46, at the high end of our EPS guidance range of $0.42 to $0.46. This was up 9% in constant currency and down 1% in U.S. dollars. Our non-GAAP earnings per share would have been $0.05 higher had foreign exchange rates remained the same as they were in Q4 of last year.</p>
+          <p>In Q4, we repurchased 14.0 million shares at an average price of $17.85 per share, for a total of $250 million. And for the full year, we repurchased 226 million shares at an average price of $17.53 per share, for a total of nearly $4 billion. As we have previously stated, the rate of our stock buyback will fluctuate each quarter, taking into account alternative uses for our cash and our stock price.</p>
+          <p>Now turning to our full-year results for fiscal 2009. New software license revenues were $7.1 billion, up 1% at constant currency and down 5% in U.S. dollars. EMEA grew 6%, Asia grew 7%, and the Americas were down 4%. Technology new license revenues were $5.1 billion, up 7% in constant currency and flat in U.S. dollars. Applications new license revenues were $2 billion &#x2013; $2.0 billion &#x2013; down 10% in constant currency and down 16% in U.S. dollars. Software license updates and product support revenues totaled $12.0 billion, up 19% in constant currency and up 14% in U.S. dollars. Our total revenues were $23.5 billion, up 10% in constant currency and up 4% in U.S. dollars. Operating income was $10.9 billion, up 19% in constant currency and up 12% in U.S. dollars.</p>
+          <p>Our non-GAAP operating margin grew by 350 basis points to 46% in U.S. dollars. Our fiscal 2009 non-GAAP earnings per share were $1.44, up 19% in constant currency and up 11% in U.S. dollars. Our non-GAAP earnings per share would have been $0.11 higher had foreign exchange rates remained the same as they were last year.</p>
+          <p>Turning to the balance sheet. We have $12.6 billion in cash and investments. Our days sales outstanding improved again this quarter from 63 days last year to 58 days this year, a testament to the quality of our receivables, the quality of our customers, and the effectiveness of our collection efforts, as well as from foreign exchange and product mix benefits. We generated $7.7 billion in free cash flow during fiscal 2009, growing 8% in U.S. dollars over the same period last year.</p>
+          <p>Now I'll turn the call over to Safra.</p>
+        </plist>
+      </speaker>
+      <speaker id="3">
+        <plist>
+          <p>Thanks, Jeff.</p>
+          <p>Well, we're obviously pleased with our Q4 results and with our exceptional performance throughout the year. In constant dollars we beat the top end of our new license guidance, we beat the high end of our total revenue guidance, and we delivered the highest Q4 operating margin in our history, crossing the 50% mark for the first time. Once again, we grew margins and revenues substantially faster than our peers. We grew faster than SAP in every region around the world, including its home base of Europe, where our applications business grew 5% in constant currency versus negative 27% for SAP's most recent quarter.</p>
+          <p>Our software license updates and product support revenues grew 17% in constant currency off an enormous base, as our customer renewal rates and satisfaction levels continue at record highs. Even though the dollar strengthened a bit towards the end of the quarter, it still resulted in a nine-point currency headwind for new license compared to a seven-point tailwind last year. This is a 16-point shift year over year as a result of currency, and that remains a good story for us.</p>
+          <p>This fiscal year clearly demonstrates the strength of our diversified portfolio of enterprise software products, the breadth and loyalty of our huge customer base, and the strength of our operating model. The fact is, we have a lot of company-specific momentum. We really executed well throughout the year and exceeded our own expectations quarter after quarter, and of course we surpassed 50% margins, and we announced our first dividend, so it's been a great year.</p>
+          <p>Now, let me turn to guidance. Now, my guidance today does not include any assumptions from our pending acquisition of Sun Microsystems, and though we do expect to close Sun during the quarter, this timing is subject to getting all the necessary approvals. For the coming quarter, assuming that exchange rates remain at current rates, there will be a 4% negative currency effect on license growth rates, a 5% negative effect on total revenue growth rates, a negative 6% effect on <mark type="inaudible" /> growth rates, and a negative $0.02 per share effect on earnings per share.</p>
+          <p>We believe that the guidance I'm giving today is realistic given the continuing impact of currency and the very tough Q1 comparison from last year, but I do want to note that our pipelines continue to grow, and the close rates we've been using are conservative.</p>
+          <p>With that, our guidance for Q1 is as follows. New software license revenues are expected to range from negative 10 to 0% in constant currency and negative 14 to negative 4% at current exchange rates. Total revenue on a GAAP basis is expected to range from 1% to 4% year over year in constant currency, negative 4 to negative 1% in current exchange rates.</p>
+          <p>Total revenue on a non-GAAP basis is expected to range from 0 to 2% in constant currency and negative 5% to negative 3% at current exchange rates. Non-GAAP EPS is expected to be between 0.31 to $0.33 in constant currency and 0.29 to $0.31 given current exchange rates. GAAP EPS for the first quarter is expected to be 0.23 to $0.24 in constant currency and 0.21 to 0.22 assuming current exchange rates. Now, this guidance assumes a tax rate of 29% for Q1 versus 26% in Q1 last year.</p>
+          <p>With that, I'll turn it over to Larry for his comments.</p>
+        </plist>
+      </speaker>
+      <speaker id="4">
+        <plist>
+          <p>Thank you, Safra. I'm going to talk about Exadata. Again, I said last quarter that Exadata is shaping up to be our most exciting and successful new product introduction in Oracle's 30-year history. And last quarter &#x2013; Exadata continues to grow and win competitive deals in the marketplace against our three primary competitors. It's turning out that Teradata is our number one competitor in terms of facing them in the marketplace. Netezza and IBM are kind of tied for second. And it's typically IBM DB2 on mainframes that we're fighting with.</p>
+          <p>We're very successful in a couple of different smartphone manufacturers. A well-known California smartphone and computer manufacturer actually bought two of our systems. And their comments &#x2013; or two of our database machines, and that was against Netezza. And their comment was it ran about 100 times faster in some cases than their standard Oracle environment. That's very exciting.</p>
+          <p>Another smartphone manufacturer in Canada &#x2013; in this case Research in Motion &#x2013; tested our database machine and bought it in the marketplace, again discovering after trying it and benchmarking it that it was dramatically faster than their existing environment and faster than any of the other database machines that they experimented with.</p>
+          <p>Amtrak bought two full systems. A large East Coast insurance company, one of Teradata's largest customers, bought the Exadata, the machine. Thompson Reuters, a large and committed DB2 mainframe customer, is &#x2013; they're moving some of their applications off the IBM mainframe in DB2 onto Exadata.</p>
+          <p>The largest Teradata customer in Japan, a relatively new telephone company in Japan &#x2013; and they're the biggest Teradata customer in Japan &#x2013; and they benchmarked Exadata and found it to be dramatically faster than Teradata, and they are moving their applications from Teradata onto Exadata. We've been successful in Korea, throughout Asia-Pacific. Barclays Capital in the UK, another very large Teradata customer, is buying Exadata. A number of banks in Western Europe, in Germany, again they're also buying Exadata machines. It's &#x2013; was just a great quarter for Exadata, a product that's relatively new to the marketplace, that is persuading people to move from their existing environments because Exadata is faster and the hardware costs less.</p>
+          <p>With that I'll turn it over to Charles.</p>
+        </plist>
+      </speaker>
+      <speaker id="5">
+        <plist>
+          <p>Thanks, Larry. The Oracle field did a great job of staying focused during the quarter and not getting too distracted with all the noise on the economy, and I'm proud of the great teamwork. We pulled together multi-product deals across multiple business units to leverage our unique product breadth. So our diversity by product, by industry, and by geography is clearly helping us.</p>
+          <p>It's clear that cost pressures and increasing complexities are all catalysts right now causing customers to adopt pre-integrated products and move away from B spoke environments. So given that direction, we're in a very good position, and our pipelines are growing faster than our reported revenue.</p>
+          <p>We've been working hard to stay close to customers, and we're becoming a lot more important to those customers as our product line grows. So the Sun acquisition is a continuation of that strategy, and we've had very positive response from lots of customers because they know we'll make it all work together at the factory and we'll lower their cost. And if Exadata is any indication of what can happen when you optimize hardware and software together, they're pretty excited.</p>
+          <p>So let me make a few comments by product line. In the database area, we had some key wins as usual with 7-Eleven, who purchased Database Vault; University of Illinois; Baker Hughes, underneath SAP; the State University of New York, SUNY; China Telecom; State Street standardized on us for all their mission-critical applications; and Lockheed Martin.</p>
+          <p>We continue to report record benchmarks as well. I won't go through them all, but currently we hold the top five benchmark positions in the TPC-C price/performance category. So we haven't forgotten about that at all.</p>
+          <p>Moving on to Middleware. Middleware has been the star all year long, and we hope that to continue. We're rolling out a major new release next week called Fusion Middleware 11g. We'll launch that in Washington, D.C., and eight other cities around the world, and then we'll follow on with a tour in 107 cities. It's a long list of features I won't go through right now. We're also getting lots of support from partners on our Middleware. So looking at systems integrators, we have about 35,000 consultants that are trained in 50 countries, another 5,000 just in Q4 alone. Same thing with ISVs. We have about 5,000 who have certified on our Middleware. We added 43 in the quarter and 100 new applications.</p>
+          <p>So some examples of good wins in the quarter: Wells Fargo. They had started on a path with open source on the application server; they switched to WebLogic and several other products. We ended up signing a ULA with them during the quarter. They liked the integration and the performance we could deliver. Other customers include Adidas, TD AMERITRADE, Credit Suisse, and Intuit.</p>
+          <p>We had some BEA customers who previously were BEA customers who expanded into other parts of the Fusion Middleware suite. That includes Costco, Comcast, and Ericsson. We had some key IBM accounts that used to be WebSphere customers who we've now penetrated, including Visa and State of South Dakota.</p>
+          <p>On the BI side, we had some good wins against Cognos and SAT: American Express, Southwest Airlines, QVC, Capital One, and Norfolk Southern.</p>
+          <p>And in EPM, which is the Hyperion product line, we had good wins at Wal-Mart, Abbott Labs, and Kroger.</p>
+          <p>Switching to the applications business. If you look at our Applications Integration Architecture, we shipped three new Process Integration Packs in the quarter. That's totaling 20 PIPs, as we call them. Customers see the value of the standard space integration, and the more we ship, the more integrated the product line becomes.</p>
+          <p>We're also seeing good upgrade trends. So if you look at E-Business Suite, version 12, we now have about 26% of our customers who've already upgraded. So some key wins in the quarter. Vodafone; they choose Oracle to consolidate and standardize its IT infrastructure across Europe. So they've adopted a Oracle-first strategy for all their new applications, replacing competitive products over time. This is a very good model for other European companies, who tend to be more decentralized, and we're encouraged by this important win. EBay, La-Z-Boy, Gap, other additional European wins in the quarter.</p>
+          <p>On supply chain, we had wins at Johnson &amp; Johnson, Virgin Media, APL Logistics, all against SAP. In retail, we won Perry Ellis. That was an important win, where we had point-of-sale applications in 55 stores. We had the tech stack underneath that. They'll be adding more stores over time, and they're hosting customers as they did this past quarter at their original store in New York City. They had some 20 international customers; they had to show them what they were doing.</p>
+          <p>Financial services GBU had a strong quarter despite the environment, strong double-digit growth. They're finding healthy banks around the world, outside of the U.S., and diversifying geographically. For instance, National Bank of Egypt, which is responsible for about 24% of the Egyptian banking market, they won that in the quarter. That brings us to having about 70% of the Egyptian banking market.</p>
+          <p>Also important in the quarter, Oracle and Accenture intend to jointly develop, market, and sell a new bank-in-a-box solution based on Oracle's Siebel, FLEXCUBE, and Fusion Middleware products. This is a big win for us. If you remember, Accenture went with SAP in banking about five years ago and pretty much got nowhere with that, so they're back to Oracle now. We're encouraged by that win.</p>
+          <p>Finally in tax and utilities GBU, up over 20% in the quarter. Some important wins at Dayton Power &amp; Light, San Diego Gas and Electric, and they also had good CRM OnDemand win. So CRM OnDemand was a very good story all year long. We added more subscribers in Q4 than we did all last year. Good wins at NetApp; McAfee, where we replaced Salesforce.com &#x2013; also replaced DB2 there, by the way; Land O'Lakes; and Conoco. Linux, we had some goods wins at TIAA-CREF, Rent-A-Center, U.S. Med.</p>
+          <p>So with that, I'll turn it back over.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Operator, we'll now take questions from the audience.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" /> We'll go to Adam Holt with Morgan Stanley.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Good afternoon, and thanks for taking my question. Understanding that your fourth quarter had some unique attributes, did you see any signals in the quarter that would suggest that you saw stability in either any end markets or any particular verticals? And maybe talk a little bit about what the assumptions are underpinning the guide for the Q1 with respect to any kind of improvement. And then, I guess more longer term, as we think about a recovery scenario, where would you expect to see the first signs of reacceleration across your product lines? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Charles, why don't you take the first half of that and maybe I'll talk about the guidance.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="a">
+        <plist>
+          <p>Yeah, the verticals for Q4 had strong double-digit growth. So that's been helping us obviously getting new design wins in vertical applications. And then the drag factor when &#x2013; we get that when we often get some of the ERP, usually CRM, and certainly we get the tech stack underneath that. So that's been an important differentiator for us that SAP simply doesn't have. And in the few areas where they tried to go in the verticals, like banking as I described, it didn't quite work out, and we have their partners coming to us now.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>In regard to the guidance, I have to tell you that our pipelines continue to grow really very well. I think that what &#x2013; we definitely saw that our customers are realizing that business does have to continue and go forward. Now as you know, we ourselves have so much sort of company-specific momentum that we've been able to push through the economic situation rather well, and I have to tell you that I still see the pipelines growing rather significantly. And so in this case I used really unusually conservative &#x2013; very conservative &#x2013; close rates for Q1 to just keep a level of conservatism in our fiscal Q1. It is Q1. It is always a tricky quarter, and we have a very difficult comparison as to Q1 of last year. So that's what we used &#x2013; underpinning for the guidance.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="q">
+        <plist>
+          <p>Terrific. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Sarah Friar with Goldman Sachs.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Great. Thanks very much for taking my questions as well. On the margins, you set yourself a target way back when of 50% type margins, and clearly this quarter you tipped over even that high bar. As you look forward into next fiscal year, is there still an ability to see margin expansion from here, or as the economy hopefully begins to recover, is there any reason to say that you'd start to reinvest a little in the business and maybe stop some of this big march forward on the operating margin side?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Sarah, the reality is that the margin story really has to do with the fact that we have enormous installed base of customers that renews their agreements with us every year, and the bigger that number becomes, that's really the main issue. We continue to invest aggressively at Oracle. We're up to $3 billion a year in R&amp;D alone, really outshining all of our competitors, and we continue to invest. We are not a cost-cutting story for the margins. We really are a profitability story as a result of having just such a large installed base of existing customers. And as that installed base grows, which obviously it continues to grow year after year, the operating margins will continue to go up. Obviously the Sun acquisition will change the margin story for a while, but it will improve also over time.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Got it. And if I could just follow up on Adam's question on EMEA. EMEA definitely came in much stronger than I think any of us would have expected, and we've been viewing that as much more of a lagging economy versus the U.S. Is that a difference for you folks when you think about maybe share gains that you're seeing there, or is your expectation that EMEA is still in slowdown mode and maybe the U.S. starts to pick up and it's a balance?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Charles, do you want to take -</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah, it shifts around by quarter, and obviously we were pleased with EMEA's performance. Having said that, I am a little bit encouraged by the pipeline growth in the U.S. And so it just seems like our mix of products and industry and geography, somehow we get there every quarter, and we're encouraged by what we're seeing.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay. So you're not particularly worried that EMEA's maybe slowing more so, and that it's just a lag on what you saw this quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Well, anything can happen, obviously, and it's not &#x2013; I don't want to mislead you. It's tough out there. But nonetheless we had a great team on the ground and executed well in EMEA. And so I do think we were different from everyone else over there.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Great. Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Go to John DiFucci with JP Morgan.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thank you. Larry, you talked a lot about Exadata, and I just wanted to sort of clarify that all of those deals you were talking about were actual sales or most of them are sales, or are they still sort of in the pilot phase at this time?</p>
+          <p>And then on the product side and on the development of new products, there's a couple out there that we had heard about along the way, but &#x2013; and I think they actually have the opportunity to sort of change the landscape out there. And I was just wondering if you can just bring us up to speed on both automated storage management, which is a database option, but also before you bought BEA they had a product called WebLogic Virtual Edition, which worked right on a hypervisor, and you didn't need a &#x2013; there was no need for an OS throughout the whole stack, which I thought was really interesting. We really haven't heard a whole lot about that in a while. If you can just comment on those. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Okay. To start, ASM is actually an integral part of Exadata. So we use the automated storage management feature, which is an option on the conventional database, is a standard feature. It is always turned on with Exadata.</p>
+          <p>By the way, every customer I mentioned and alluded to were actual sales. Now, some of these &#x2013; because the Exadata product is so new &#x2013; quite often we'll install it kind of in a try and buy situation, but I can't think of a case where we installed the machine and they didn't buy. So we're winning these benchmarks, sometimes we're beating Teradata &#x2013; I think in my quote I said we beat Teradata on one of the queries by 20 to 1.</p>
+          <p>So we think &#x2013; it's a brand new technology. We think we're a lot faster than the competition. The benchmarks are proving out with real customer data. We're proving to be much faster than the competition. Every single deal I mentioned were cases where the customer bought the system. There are &#x2013; obviously there are other evaluations going on, and we expect the Exadata sales to accelerate.</p>
+          <p>In terms of the BEA product you mentioned where their JVM, their Java Virtual Machine, is running directly on the hypervisor, on the virtual &#x2013; without the overhead of an operating system, that gives us, oh, 10 or 15% performance improvement. Well, that's nice. That's important, and we go for every single percent we can find. That's very different from the Exadata database machine when we were looking for 10, 20, 50, even 100 times performance improvement by going to radical new technologies.</p>
+          <p>Many more CPUs thrown at the problem, huge numbers of InfiniBand connections thrown at the problem, large memory caches, and you'll see us continue to advance Exadata with flash memory and other things. And &#x2013; where we're looking for order of magnitude improvements versus a few percent here and there.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay. Thanks. And I know you're not going to talk about acquisitions that haven't closed yet. But Virtual Iron &#x2013; I don't think that's closed yet, but is that an opportunity to even work more closely on trying to, I guess, press the technology of the BEA product that you mentioned? But I mean, I can even envision even putting a database on there with no operating system or no operating system as we know it. And it just seems like it's another opportunity for Oracle through internal development to sort of change the landscape out there.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>We are looking at that. In fact we have the Oracle database running directly on a VM with no intermediate operating system. So that's actually up and running. So it's an opportunity to continue to improve our performance. Our goal, as you know, is to deliver a complete stack from the virtual machine to the operating system. We've been involved in the VM, with Xen and Xen derivatives, with the Linux OS, obviously the Oracle database, Middleware, and applications. So our intent is to provide a complete and integrated stack and then be able to tune up and down. And of course with the Sun acquisition, after you get down into the hardware, where Exadata's really our first experiment in that area, and it's going very well.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Go next to Brent Thill, Citi.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thanks. Good afternoon. Charles, you mentioned that your pipeline's growing faster than reported revenue. Was that a pickup in Q4, or did you see a similar trend throughout the year on the pipeline? And if you could just tie that in to do you think we're &#x2013; the worst is now behind us and now you're seeing the environment now slowly improving?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Well, it's hard to call environment. I don't want to go out on a limb and do that. But I will say that conversations back in let's say January, February, people couldn't focus, they were so worried about the economic news. Even if they had budgets they just didn't feel good about spending money back then. And so it doesn't feel that way anymore, the sense of panic and just being frozen and deer-in-the-headlights feeling. But nonetheless, I mean, everybody's still under cost pressures going forward.</p>
+          <p>The pipelines did improve. They've been growing all year long, but they grew a little bit more in the last 90 days. That might be an indication of people getting back to work, but it's hard to call.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay. So your close rates were a little bit better than you anticipated?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>I'm not sure if better than we anticipated. Slightly better, I would say. Safra?</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Yep. They were.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="a">
+        <plist>
+          <p>Okay -</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>A little better than I guided for.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>And just a quick follow-up for Larry. On the on-demand business, you're now a three-quarters of a billion dollar business. Can you just outline your long-term goals for the business?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Well, we think we can be very competitive against Salesforce.com in sales on demand. We think &#x2013; virtually every time we compete with them, on the large deals with large customers, we win. And in some cases we even replace them. So we think we can be the number one supplier of on-demand software in that particular space.</p>
+          <p>And then of course we're going into other spaces as well, with our Fusion applications, which we haven't talked about yet, which come out &#x2013; I guess &#x2013; we are code-complete on Fusion applications. We'll be announcing them later this year. Customers are trying them out, and we'll start delivering next year. All of our Fusion applications are on-demand ready. They're designed to be not only on premise but ground-up designed to be a software as a service.</p>
+          <p>So we see all of our application software &#x2013; not just sales force automation, but all of our application software going forward &#x2013; being sold in two ways: both on-demand software as a service, and on premise with the same code base. And we think we can be the number one applications company, the number one on-premise application company, and the number one on-demand application company. That's our goal.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Brendan Barnicle with Pacific Crest.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thanks so much. You guys typically have a sales force reorg in the first quarter. Can you provide any color on sort of the size and timing of that, any differences this year than past years?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We've tried to get out of those big-bang reorgs, so we hadn't really done that in several years. We make small tweaks throughout the year and small changes in quotas each year, but we're not doing any wholesale reorg as we go into this fiscal year.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Terrific. And then just over in the federal government, we've heard about the potential for some federal government budget slush as we get to the end of the calendar third quarter. I know that's a relatively small vertical given the size of Oracle now. But is that something you're expecting to see much of a benefit from as we kind of move through August and then obviously as you move into the fiscal second quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Well, our government business has done well. I don't know f I'd call it budget slush, but they do have money, and it's been doing well the last couple quarters. I would expect that to continue given the environment.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Great. Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" /> We'll go next to Kash Rangan with Merrill Lynch.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Hi. Thank you very much. Charles, if I could get your take on how the customer environment feels like, would you say that budgets are starting to free up as you get into the second half of the year after having gone through some turbulent times in the first half of the year? And I have a follow-up as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah. I talked to a group of CIOs on this just last week. It's difficult to say. I would say they didn't spend as aggressively in the first half because they were kind of in a wait-and-see mode. They have budgets that may not have been what they originally wanted a year ago, what they expected in December, but they have budgets, and it's going to be more back-end loaded if they choose to spend. So most of them sounded like they wanted to start moving ahead in the second half of the year, but we'll see what they do.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Great. And also, Larry, I think you mentioned on-premise and on-demand mode of delivering the Fusion application. That's actually very interesting. Does it open up another subscription type of a business model in your P&amp;L? Should we think about a different way in which the applications license revenues would be reported going forward that you'll have a license stream and a subscription revenue stream going forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah, well &#x2013; yeah. Again, I think again our subscription or our on-demand application business is much smaller than our on-premise application business, but I think &#x2013; but it's growing faster. So I think you'll see a very gradual shift over a period of a decade. Keep in mind that the largest on-demand software company in the world is Salesforce.com, and they're only $1 billion. And we're probably the second-largest on-demand software company. But that on-demand portion or software-as-a-service portion is still significantly smaller than our on-premise business. But we expect the on-demand to grow somewhat faster than the on-premise business, and so we'll have a mixture.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>So if I read it correctly, it is going to be ERP, supply chain, CRM, procurement, everything, HR, everything on-demand delivered as a multidata and service from your data centers to add to that subscription model, right?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Absolutely. But it's not necessarily &#x2013; the interesting thing is it's not necessarily from our data center. We have three models. One is we have on-premise where you run it. We have on-demand in our data center &#x2013; or I should say, on-premise in your data center where you run it. We have on-demand in our data center where we run it. But then there's an on-demand in your data center where we run it. So the computer is actually on your floor behind your firewall, attached to your very fast local area network, but we provide all the services. And we think that's where the real value is. And we think that's the interesting model. It's a model that Salesforce.com does not offer. It's a single tenancy on-demand model with the computer on your data center, highly secure, highly performance. But we provide all the upgrade services, and we administer the applications. That's proving to be a significant differentiator between us and Salesforce, and it's what is allowing us to win virtually every large-scale deal against them.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay. Does sound like you're getting into cloud computing then.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Little bit.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay, thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Ladies and gentlemen, this concludes today's question-and-answer session. For closing remarks, I'll turn the conference back to Mr. Ken Bond.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, operator. A telephonic replay of this conference call will be available for 24 hours. The replay number is 888-203-1112 or 719-457-0820, and the passcode is 4357919. Also, a webcast replay will be available through the close of market on June 30 and can be found on our website at www.oracle.com/investor.</p>
+          <p>Please call the Investor Relations department with any follow-up questions from this call, and we look forward to speaking to you. Thank you all for joining us on today's conference call. And with that I'd like to turn the call back to the operator for closing.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you. Ladies and gentlemen, this does concludes today's conference. You may disconnect at this time.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>
