@@ -1,1 +1,0 @@
-sqlldr CONTROL=calls.ctl LOG=/Applications/SQLDeveloper.app/Contents/Resources/sqldeveloper/sqldeveloper/bin/bw_logs/calls.log BAD=/Applications/SQLDeveloper.app/Contents/Resources/sqldeveloper/sqldeveloper/bin/bw_logs/calls.bad skip=0   
